@@ -1,0 +1,283 @@
+# CS-E 740 — Amdt8 redline
+
+Declared as: *CS-E 740 is amended as follows:*
+Source: `Change_Information_CS-E_Amdt_8.pdf` pp 4–13
+
+## Inserted at Amdt8 (248 run(s))
+
+- performed
+- (either
+- as prescribed in paragraphs (c)(1), (2) and (3) below, or as defined by the applicant in a
+- test plan when paragraph (c)(4) below is used),
+- be
+- and/or
+- (6)
+- The thrust or power of the Engine achieved throughout the endurance test must be at
+- least 100 % of the value associated with the particular Engine rating being tested, in order
+- to substantiate the thrust or power ratings established under CS-E 40.
+- (4) Alternate Endurance Testing – Turbofan Engine
+- The following alternate endurance testing may be used by the applicant for the purpose
+- of testing turbofan Engines instead of the abovementioned test schedule as per CS- E 740(c)(1). In particular, this may be suitable when running this schedule would require
+- substantial modifications of the Engine such that it would deviate excessively from the
+- type-design definition. The alternate endurance test must, however, provide a severity
+- at least equivalent to the intent of the endurance test prescribed by CS-E 740(c)(1) (here
+- designated as the ‘classic’ endurance test).
+- (i) Alternate Test Definition
+- The test must be defined considering the following elements:
+- (A) Test Vehicle Definition;
+- (B) Critical Point Analysis (CPA);
+- (C) Engine Operating Limits Demonstration (type certification data sheet (TCDS)
+- physical speeds and temperatures);
+- (D) Test Severity Demonstration over extended operating periods;
+- (E) Additional Severity Testing;
+- (F) Incremental Cruise Power and Thrust;
+- (G) Ancillary TCDS Limits Demonstration.
+- The compliance document(s) addressing the proposed test schedule and full assessment
+- of the above elements must be agreed with EASA in advance of test commencement.
+- (ii) Test Vehicle Definition
+- The test must be performed using a test vehicle that adequately conforms to the
+- Engine type design.
+- Exceptions could include external test equipment, controls systems settings, and
+- other modifications required to achieve the test conditions detailed below;
+- however, Engine hardware modifications should be minimised to preserve the
+- Engine type-design hardware configuration and Engine cycle match. Hardware
+- modifications may be temporarily applied to achieve specific test conditions (e.g.
+- for the physical core speed operating limits test segment).
+- (iii) Critical Point Analysis (CPA)
+- Using a thermodynamic Engine model representative of a production Engine
+- (accounting for new and deteriorated Engine conditions) in conjunction with the
+- aeroplane flight envelope, the applicant will identify the critical points (rotor
+- physical speeds, temperatures, altitude, etc.) representing the most severe
+- operation and the extent of exposure to those levels.
+- For the purpose of operating limits demonstrations, the CPA must establish the
+- extent of exposure to the operating limits levels and close proximity to those levels.
+- The CPA must also establish maximum levels of corresponding rotor speed for an
+- operating limit temperature case, and maximum levels of temperature for an
+- operating limit speed case. If it is found that operating limits conditions could at
+- any point be coincident, then this will need to be reflected in the demonstration.
+- The applicant will then conduct analyses to identify the areas in the declared flight
+- envelope where endurance test critical components are exposed to the most
+- damaging conditions. Critical components are the components within the Engine
+- that are most limiting in terms of useful (serviceable) life under the endurance test
+- conditions.
+- If the maximum critical component temperature method is used (see (v) Test
+- Severity Demonstration Over Extended Operating Periods), then the applicant’s
+- CPA will identify the maximum critical component temperature (this would
+- normally, but not necessarily, be an operating limit Engine condition on a fully
+- deteriorated Engine). The capability must also be demonstrated to establish Engine
+- condition settings to achieve the same critical component temperatures during the
+- test severity demonstration.
+- Failure modes of endurance test critical components must also be identified in the
+- CPA process for assessment and possible demonstration within the alternate
+- endurance test to support the severity equivalence demonstration (further
+- demonstration may also be necessary in compliance with CS-E 170).
+- (iv) Engine Operating Limits Demonstrations (TCDS Physical Rotor Speeds and Turbine
+- Gas Temperatures)
+- TCDS physical rotor speed and turbine gas temperature limiting conditions must
+- be demonstrated as detailed in this paragraph.
+- Declared rotor operating limits values will be demonstrated in the Engine operating
+- limits demonstration sections of the test and established in accordance with CS- E 740(f).
+- Concurrent operating limits demonstration of speed and turbine gas temperature
+- for a particular rotor is required unless the CPA indicates it is not possible to occur
+- in service within the declared operating envelope. The corresponding speed or
+- temperature identified in the CPA must be met or exceeded on average during the
+- demonstrations below.
+- (1) Core Speed Operating Limits Demonstration
+- The greater of maximum take-off (MTO) and maximum continuous (MCT)
+- physical core speed operating limits in conjunction with at least the level of
+- the corresponding temperature, as identified in the CPA, must be
+- demonstrated for a minimum of 10 minutes. However, if the CPA for a new
+- Engine design shows that more than 10 minutes could occur in service, or
+- that physical core speed operating limits could be encountered regularly in
+- service, then the core speed operating limit test time will be extended
+- accordingly. Where the CPA shows a longer period is required for MCT, the
+- testing will be extended at MCT conditions to cover that period.
+- When demonstrated in conjunction with meeting the minimum severity
+- requirements of CS-E 740(c)(4)(v), this demonstration comprises the
+- appropriate period of the test for establishing the TCDS MTO- and MCT- declared core speed limits in accordance with CS-E 740(f).
+- (2) Fan Speed Operating Limits Demonstration
+- The MTO fan physical speed operating limit must be demonstrated for a
+- minimum of 30 minutes. The MCT fan physical speed operating limit must
+- be demonstrated for a minimum of 90 minutes. Both cases must be
+- demonstrated in conjunction with at least the level of corresponding
+- temperature, as identified in the CPA.
+- If MTO and MCT have the same declared fan speed operating limit, then
+- 120 minutes must be demonstrated.
+- Additional time may be necessary if the applicant’s CPA indicates that
+- additional time at MTO or MCT physical fan speed operating limit could
+- occur in service within the declared operating envelope. In conjunction with
+- meeting minimum severity requirements, this demonstration comprises the
+- appropriate period of the test for establishing the TCDS MTO- and MCT- declared fan speed limits in accordance with CS-E 740(f).
+- (3) Turbine Exhaust Gas Temperature (EGT) Operating Limits Demonstration
+- The conditions necessary to demonstrate the MTO exhaust gas temperature
+- (EGT) operating limit must be continuously run for 10 minutes in conjunction
+- with at least the level of corresponding rotor speeds as identified in the CPA.
+- Three snap/burst accelerations (throttle move in 1 second or shorter) from
+- idle to the MTO EGT operating limit (hold operating limit for a duration of
+- 90 seconds each) must also be run. The conditions necessary to demonstrate
+- the MCT EGT operating limit must be continuously run for 90 minutes in
+- conjunction with at least the level of corresponding rotor speeds as
+- identified in the CPA.
+- Additional time at any or all these conditions may be necessary if the
+- applicant’s CPA indicates that additional time at the EGT operating limit may
+- occur in service.
+- EGT operating limits demonstration for alternate endurance testing also
+- requires the equivalent severity to the intent of the specifications in CS- E 740(a), (b) and (c)(1) to be demonstrated by running significant time and
+- cycles at or above the maximum critical component temperature, as
+- identified in the CPA as per CS-E 740(c)(4)(iii), and must be performed when
+- showing compliance with CS-E 740(c)(4)(v).
+- Additional testing required to show compliance with CS-E 740(c)(4)(v) must
+- be addressed in accordance with CS-E 740(c)(4)(vi).
+- (v) Test Severity Demonstration Over Extended Operating Periods
+- Limiting temperature for MTO and MCT must be demonstrated for extended
+- periods to achieve the equivalent cumulative damage for the critical component
+- as would be achieved by the conditions prescribed in CS-E 740(c)(1) (also referred
+- to as the ‘reference severity’; see also AMC E 740(c)(4), Section 5(b)).
+- The limiting temperature is either the turbine gas path temperature operating limit
+- or the gas path temperature that corresponds to the maximum critical component
+- temperature where this has been established for both a production Engine and the
+- test Engine, as defined by the applicant’s CPA (refer to AMC E 740(c)(4) for further
+- considerations of severity assessment). The applicant should therefore decide
+- which limiting temperature method will be used during the test.
+- The duration and the split between MTO and MCT operation are to be determined
+- and justified by the applicant.
+- The applicant must determine the mix of cycles and cycle durations that best
+- represent the Engine design and operation. A methodology showing how creep
+- damage, and other damage, to critical components accumulates is necessary for a
+- comparative severity assessment to the intent of the test schedule specified in CS- E 740(c)(1).
+- During this testing phase, rotor physical speeds must be maintained at the highest
+- levels feasible with a test vehicle that meets type design as per the specifications
+- in CS-E 740(c)(4)(ii), and on average should be held within ± 3 % of the limiting
+- speeds.
+- (vi) Additional Severity Testing
+- The need for additional severity testing must be determined and agreed with EASA
+- on completion of the scheduled test severity demonstration of CS-E 740(c)(4)(v).
+- The additional testing must be completed to the same target EGT conditions
+- (necessary if the conditions did not meet those that were assumed in the original
+- analysis that was used to establish the test schedule) in order to compensate for
+- the missed cumulative severity equivalence. Additional cyclic content may also be
+- included, if necessary, to address other damage mechanism demonstration
+- identified in the CPA, for which target conditions should be justified.
+- (vii) Incremental Cruise Power and Thrust
+- The following incremental acceleration must be completed 25 times: 2 hours and
+- 30 minutes, covering the range in 15 approximately equal speed increments from
+- ground idle up to but not including MCT thrust or power.
+- (viii) Ancillary Type Certification Data Sheet Limits Demonstration
+- The alternate test must take into account specifications CS-E 690(a)(3), CS-E 740(e)
+- and (f), and CS-E 750. Minor facilitating modifications may need to be made to run
+- the conditions as required. The applicant must propose test sequence intervals
+- equivalent to the stages specified in CS-E 690(a)(3) and CS-E 740(e) that are
+- acceptable to EASA.
+- or power
+- EGT
+- EGT
+- :
+- of the test schedule specified in CS-E 740(c)(1), (2) and (3), or an equivalent
+- demonstration in the alternate endurance test specified in CS-E 740(c)(4), if applicable,
+- MCT
+- ;
+- , or an equivalent demonstration in the alternate endurance test
+- specified in CS-E 740(c)(4), if applicable,
+- MCT
+- ,
+- EGT
+- bleed,
+- The EGT limitations may be derived from an analysis when the applicant uses the alternate test
+- specified in CS-E 740(c)(4) (see CS-E 740(f)(4)(ii) below).
+- or an equivalent demonstration in the alternate endurance
+- test specified in CS-E 740(c)(4), if applicable,
+- , or the equivalent demonstration,
+- (ii) In the case of the alternate test specified in CS-E 740(c)(4), the TCDS-declared EGT
+- operating limits temperatures for MTO and MCT will be determined by analysis
+- upon completion of the test and are established as the lower of the following
+- values:
+- (A) Values no greater than the EGT values demonstrated in the EGT operating
+- limits demonstration as per CS-E 740(c)(4)(iv)(3);
+- (B) Derived EGT values for MTO and MCT for which the severity demonstration
+- for the entire test can be shown to have cumulative severity, for the critical
+- component, greater than or equal to the reference severity.
+- Depending on the option chosen in CS-E 740(c)(4)(v), EGT values used in this
+- analysis will be either the turbine gas path temperature established during the test
+- or the gas path temperature that corresponds to the maximum critical component
+- temperature.
+- i
+- EGTs
+- iv
+- EGT
+- operating
+- either up to 30 seconds or up to
+- .
+- (A) In the case of the classic endurance test, transient EGT operating limits may
+- be approved as follows.
+- • Transient EGT operating limits up to 30 seconds may be approved by
+- running the Engine at the required temperature for 30 seconds of 50 % of
+- the prescribed periods at Take-off Thrust or Power conditions following an
+- acceleration.
+- • Transient EGT operating limits up to 2 minutes may be approved
+- the Engine
+- Thrust or
+- longer
+- Thrust or
+- following an acceleration
+- (B) In the case of the alternate endurance test specified in CS-E 740(c)(4),
+- transient EGT operating limits may be approved as follows.
+- • Transient EGT operating limits up to 30 seconds may be approved by
+- running the Engine at the required temperature for 30 seconds as
+- part of at least 155 periods at Take-off Thrust or Power conditions
+- following an acceleration.
+- • Transient EGT operating limits up to 2 minutes may be approved by
+- running the Engine at the required temperature for 30 seconds as
+- part of at least 310 periods at Take-off Thrust or Power conditions
+- following an acceleration.
+- (C)
+- -
+- Thrust or
+- v
+- EGT
+- operating
+- i
+- -
+- MCT
+- MCT
+- i
+- in CS-E 740(c)(1), (2) or (3)
+- , or CS-E 740(c)(4)(vii) of the alternate endurance test, if applicable,
+- (h) Engine Performance Target after Test Completion.
+- After completion of the endurance test, the Engine must be able to provide the rated thrust or
+- power levels without exceeding operating limitations.
+- i
+- i
+- ed
+- ,
+- i
+- i
+- ,
+- ,
+
+## Deleted at Amdt8 (25 run(s))
+
+- this
+- made
+- and / or
+- power or
+- Exhaust Gas Temperature
+- Exhaust Gas Temperature
+- –
+- maximum continuous
+- ,
+- maximum continuous
+- turbine entry temperature
+- declared
+- Exhaust Gas Temperatures
+- iii
+- turbine gas temperature
+- the first
+- more
+- i
+- Exhaust Gas Temperature
+- Maximum Continuous
+- Maximum Continuous
+- h
+- h
+- h
+- h

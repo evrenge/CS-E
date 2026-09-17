@@ -1,0 +1,201 @@
+# AMC E 515 — Amdt7 redline
+
+Declared as: *(shown under its banner: AMC E 515 Engine Critical Parts)*
+Source: `Change_Information_CS-E_Amdt_7.pdf` pp 20–28
+
+## Inserted at Amdt7 (182 run(s))
+
+- —
+- 1. General
+- a
+- 2. Anomaly types
+- Material anomalies.
+- Material anomalies include abnormal discontinuities or non-homogeneities
+- introduced during the production of the input material or melting of the
+- material. Some examples of material anomalies that should be considered
+- are hard alpha anomalies in titanium, oxide/carbide (slag) stringers in nickel
+- alloys, and ceramic particulate anomalies in powder metallurgy materials
+- unintentionally generated during powder manufacturing.
+- Manufacturing anomalies.
+- Manufacturing anomalies include anomalies produced in the conversion of
+- the ingot-to-billet and billet-to-forging steps as well as anomalies generated
+- or activated by the material heat treatment or the metal removal and
+- finishing processes used during manufacture and/or repair. Examples of
+- conversion-related anomalies are forging laps and strain-induced porosity.
+- Some examples of metal-removal-related anomalies are tears due to
+- broaching, arc burns from various sources and disturbed microstructure due
+- to localised overheating of the machined surface. Activated anomalies
+- include material anomalies which become more crack-like or are opened
+- during heat treatment or when disturbed by metal removal methods.
+- Service-induced anomalies.
+- Service-induced anomalies such as non-repaired nicks, dings and scratches,
+- corrosion, etc. should be considered. Similarity of hardware design,
+- installation, exposure and maintenance practice should be used to
+- determine the relevance of the experience.
+- 3. Elements of a Damage Tolerance Assessment.
+- The damage tolerance assessment should include the two following
+- elements:
+- — The establishment of a minimum level of damage tolerance capability
+- for each critical component using either a probabilistic approach or a
+- deterministic approach. These should address the anomaly types
+- described in paragraph 2. above,
+- — The establishment of a service damage monitoring process in order to
+- gain assurance that service damage is consistent with serviceable and
+- repairable limits and to initiate appropriate action if damage is found
+- outside these established limits.
+- 4. Establishment of a minimum level of damage tolerance capability.
+- a. Probabilistic approach.
+- Probabilistic damage tolerance approaches exist to address anomalies
+- described in paragraph (3)(d)(v)(2) above. Hereafter are some examples:
+- — FAA Advisory Circular (AC) 33.70-2, Damage Tolerance of Hole
+- Features in High Energy Turbine Rotors, includes an example of the
+- probabilistic approach that applies to manufacturing anomalies in
+- hole features.
+- — FAA Advisory Circular (AC) 33.70-3, Damage Tolerance for Material
+- Anomalies in Titanium Life-Limited Turbine Engine Rotors, includes an
+- example of the probabilistic approach that applies to hard alpha
+- material anomalies in titanium alloy rotor components.
+- probabilistic
+- i. Risk Prediction and Allowable Risk.
+- The above elements of the Damage Tolerance Assessment are integrated in
+- a probabilistic risk assessment which predicts the relative probability of
+- Failure (POF) for each part. The predicted POF is compared to allowable
+- design target risk (DTR) values. The allowable DTR values may be found in
+- published FAA ACs which address specific materials and/or anomaly types
+- (e.g. values provided in FAA AC 33.70-2 Damage Tolerance of Hole Features
+- in High-Energy Turbine Engine Rotors). Designs that satisfy the allowable
+- values will be considered to be in compliance with the ‘appropriate damage
+- tolerance assessment’ required by CS-E 515(a). Manufacturers may use a
+- variety of options to reduce the POF and achieve the level of relative risk
+- allowed by the probabilistic risk assessment. These options include but are
+- not limited to:
+- — component redesign,
+- — material change,
+- — material process improvements,
+- — manufacturing process improvements,
+- — manufacturing inspection improvements,
+- — enhanced in-service inspections, and
+- — life limit reduction.
+- When an applicant chooses to pursue a published industry or company- specific probabilistic damage tolerance approach, the applicant should
+- provide and agree with the Agency such data that has an impact on the risk
+- levels resulting from this approach. This data may include but is not limited
+- to the following items as appropriate to the component:
+- — Anomaly size/frequency distribution
+- — Fleet utilisation
+- — Maintenance practices
+- — Production/Assembly processes
+- — Anomaly growth characteristics (crack initiation (incubation), crack
+- propagation, or a combination of crack initiation and crack
+- propagation)
+- — Inspection techniques and intervals
+- — Inspection Probability Of Detection (POD)
+- The process utilised to carry out the probabilistic approach needs to be
+- agreed with the Agency.
+- The objectives in terms of probabilities of Failures of Critical Parts having
+- Hazardous Engine Effects are defined in CS-E 510(a)(3).
+- Note: An individual Failure is considered to be a Failure occurring anywhere
+- in the engine as a result of a damage mechanism intended to be addressed
+- by the damage tolerance assessment and it is not related to the Failure of
+- an individual component. Therefore, the individual Failure probability
+- objective at the component level is a portion of the probability objective
+- defined in CS-E 510 (a)(3) for an individual Failure occurring anywhere in the
+- Engine as a result of a given cause.
+- The applicant should demonstrate that adequate processes are in place in
+- order to validate the assumptions utilised in the analysis. These assumptions
+- should be validated throughout the life of the certified product.
+- Any departure from the original assumptions will require the applicant to
+- repeat the risk assessment, and communicate the results to the Agency.
+- If the revised risk assessment shows that the safety objectives of CS-E
+- 510(a)(3) can no longer be met, then corrective action must be implemented
+- in accordance with point 21.A.3 of Part 21.
+- The Agency
+- fatigue testing of simulated damage,
+- b. Deterministic approach applied to surface damage tolerance.
+- If the required input data (anomaly size and frequency distributions, etc.) is
+- not available to fully implement the probabilistic approach for
+- manufacturing- and service-induced anomaly types, the applicant may use
+- the following deterministic approach, which ensures a minimum level of
+- damage tolerance.
+- An analysis should be provided that demonstrates that the surface fracture
+- mechanics life for all Critical Parts exceeds 3 000 representative flight cycles,
+- or 50 % of the Approved Life of the part, whichever is less.
+- This analysis should take account of the following assumptions:
+- — Analyses performed using Linear Elastic Fracture Mechanics;
+- — Initial anomaly size is one of the following:
+- • 0.762 mm × 0.381 mm (0.030 inches × 0.015 inches) for an
+- assumed (semi-circular) surface anomaly;
+- • 0.381 mm × 0.381 mm (0.015 inches × 0.015 inches) for an
+- assumed (quarter-circular) corner anomaly;
+- — Any additional assumptions used in this analysis (i.e. material
+- properties, reference engine cycle, operating environment and its
+- effect on the stress cycle, use of compressive residual stresses, use of
+- inelastic stresses, etc.);
+- — Anomalies should be treated as sharp propagating cracks from the
+- first stress cycle, placed in the most unfavourable orientation and
+- location.
+- 5. Establishment of a Service Damage Monitoring Process.
+- The overall objective of service damage monitoring is to review data
+- obtained from field operation of the Engine type design to determine
+- whether there are anomalous conditions which require corrective action(s).
+- Appropriate action(s) may include the assessment of the impact of damage
+- observed on one part/location on other parts/locations.
+- Applicants should determine whether the damage that has been detected is
+- consistent with the serviceable and repairable limits and determine whether
+- additional actions are required to prevent Failure and rectify any potential
+- unsafe condition which may be identified.
+- The establishment of a service damage monitoring process consists of the
+- following:
+- a. Determine the serviceable and repairable damage limits using a
+- process approved by the Agency and summarised within the service
+- management plan. Damage size limits should be a function of part,
+- part location, and damage type. Damage should include but may not
+- be limited to nicks, dents, scratches and cracks. The serviceable and
+- repairable limits must be published in the Instructions for Continued
+- Airworthiness.
+- b. Establish a monitoring process to record damage that meets all of the
+- following criteria:
+- — is inconsistent with or exceeds the repairable limits,
+- — is made available to the type certificate holder (TCH) or
+- supplemental type certificate holder (STCH) through an
+- appropriate reporting system.
+- The applicant should, as appropriate, consider the effectiveness of
+- existing reporting systems as new product types/operations are
+- introduced.
+- Document the monitoring process in the service management plan.
+- This activity should record at a minimum the damage size, type and
+- location observed during service inspections for each Critical Part.
+- c. Assess damage meeting the criteria defined in b. above. This
+- assessment should consider:
+- — the impact of the observed damage on the life of the damaged
+- part,
+- — the likelihood for recurrence of similar damage,
+- — whether the damage has been determined as having flown,
+- — whether the damage is likely to be undetected before the part
+- is released to service,
+- — recommended corrective actions to identify/prevent/eliminate
+- the source of the damage.
+- During the service life of the part, a summary of the damage
+- information obtained by the service damage monitoring process, as
+- well as the corrective actions implemented, should be made available
+- to the Agency.
+- —
+- —
+- ,
+- If the Approved Life of the part includes a portion of the residual crack growth life, the
+- compliance with applicable certification specifications should be demonstrated assuming
+- the presence of the maximum predicted size crack that can occur within the Approved
+- Life of the part. In some cases, it may be necessary to limit the crack size allowed in service
+- in order to demonstrate compliance with certification specifications other than CS-E 515,
+- such as the blade containment requirement in CS-E 810.
+
+## Deleted at Amdt7 (9 run(s))
+
+- -
+- Assessment
+- process
+- In addition, the following should be noted with regard to the above: — appropriate Damage Tolerance Assessments. In the context of CS-E 515(a), “appropriate Damage Tolerance Assessments”
+- listed in the paragraphs below
+- with the rule
+- Anomalies for which a common understanding has been reached within the Engine community and the Authorities should be considered in the analysis. Material anomalies. Material anomalies consist of abnormal discontinuities or non- homogeneities introduced during the production of the input material or melting of the material. Some examples of material anomalies that should be considered are hard alpha anomalies in titanium, oxide/carbide (slag) stringers in nickel alloys, and ceramic particulate anomalies in powder metallurgy materials unintentionally generated during powder manufacturing. Manufacturing anomalies. Manufacturing anomalies include anomalies produced in the conversion of the ingot-to-billet and billet-to-forging steps as well as anomalies generated by the metal removal and finishing processes used during manufacture and/or repair. Examples of conversion-related anomalies are forging laps and strain-induced porosity. Some examples of metal-removal-related anomalies are tears due to broaching, arc burns from various sources and disturbed microstructure due to localised overheating of the machined surface. Service-induced anomalies. Service-induced anomalies such as non-repaired nicks, dings and scratches, corrosion, etc., should be considered. Similarity of hardware design, installation, exposure and maintenance practice should be used to determine the relevance of the experience.
+- -
+- -

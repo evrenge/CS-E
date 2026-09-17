@@ -146,6 +146,7 @@ Where to look instead of trusting a number written here:
 | Question | Source of truth |
 |---|---|
 | Which paragraphs changed, and at which amendment | `work/paragraph_index.csv` (`changed_in`, `changed_refs`) |
+| What exactly changed, word by word | `work/redline.json`, `work/redline/` |
 | Does a paragraph apply to a turboshaft, and why | `work/applicability.md` |
 | Page counts, checksums, provenance | `source/SOURCES.md`, `source/CHECKSUMS.sha256` |
 | Declared ratings and systems | `engine_profile.md` |
@@ -158,6 +159,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/build_index.py          # index  -> work/paragraph_index.csv
 .venv/bin/python scripts/scope_evidence.py       # scope keyword evidence
 .venv/bin/python scripts/build_applicability.py  # verdicts -> work/applicability.md
+.venv/bin/python scripts/extract_redline.py      # before/after -> work/redline.json
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/verify_sources.py       # source integrity
@@ -181,9 +183,13 @@ quote that is not verbatim in the source. Trust them over any prose.
 - `CS-E_Amendment_8.pdf` — the only source of requirement content, anywhere.
 - Change Information PDFs — the `changed_in` tag and nothing else.
 - `CS-E_Amendment_7.pdf` — only to say what the wording was BEFORE Amendment 8,
-  and only in a note's `Notes` section. Never as requirement content. It cannot
-  serve paragraphs changed at Amendment 7: their "before" is Amendment 6, which
-  this repository does not hold.
+  and only in a note's `Notes` section. Never as requirement content. It also
+  serves as the independent check on the redline extractor.
+- `work/redline.json` — per-paragraph inserted and deleted wording, recovered
+  from the Change Information PDFs by `extract_redline.py`. This is what lets a
+  changed note show before and after, including for the Amendment 7 changes,
+  whose "before" exists in no consolidated text we hold. Use it only in a note's
+  `Notes` section; it is not requirement content.
 - `EN_to_ED_Decision_2025-003-R.pdf` — background for the writer. Never quoted.
 
 ## Redline marking scheme

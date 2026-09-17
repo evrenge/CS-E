@@ -1,0 +1,55 @@
+# AMC E 25 — Amdt8 redline
+
+Declared as: *(shown under its banner: AMC E 25 Instructions for continued airworthiness)*
+Source: `Change_Information_CS-E_Amdt_8.pdf` pp 43–46
+
+## Inserted at Amdt8 (42 run(s))
+
+- , initial maintenance programme test,
+- o
+- o
+- E
+- (6) The applicant for the certification of a piston Engine may substantiate a time between overhauls
+- (TBO) or a time between replacements (TBR).
+- TBO is a recommended number of running hours or calendar time before the Engine requires
+- overhaul.
+- TBR is a recommended number of running hours or calendar time before the Engine requires
+- replacement (instead of overhaul).
+- The substantiation of the recommended TBO/TBR running hours should be performed as
+- follows.
+- (a) The applicant may use the 150-hour endurance test required by CS-E 440 for the
+- substantiation of the TBO/TBR. The applicant may then propose a TBO/TBR ranging
+- between 600 flight hours (e.g. for fully new designs) and 1 000 flight hours (e.g. for
+- derivative designs). The TBO/TBR value should be agreed by EASA.
+- (b) If the applicant wishes to propose a TBO/TBR higher than what the CS-E 440 test allows
+- it to substantiate (see paragraph (6)(a) above), then the following method may be used.
+- (i) An additional Engine cyclic durability test should be run on an Engine
+- representative of the type design.
+- (ii) The cycle profile should be based on estimated aircraft flight profiles.
+- (iii) The number of cycles should be representative of the TBO/TBR intended to be
+- declared and should represent a level of Engine deterioration at least equivalent
+- to that of an Engine at the end of the intended TBO/TBR.
+- (iv) The instructions for continued airworthiness associated with the intended
+- TBO/TBR should be performed and validated during the Engine cyclic test.
+- (v) Complementary analysis and/or testing should be provided to support any aspects
+- not adequately demonstrated throughout the Engine cyclic durability test.
+- (vi) If it is proposed to subject the tested Engine to any kind of strip examination during
+- the test in order to validate an interim TBO/TBR, it should then be shown that
+- cleaning or replacement of any seal or component (e.g. bolts) during reassembly
+- of the Engine will not favourably influence the outcome of the test.
+- (vii) Past experience with Engines of similar design and/or in-service operation, where
+- applicable, may also be used as alternative evidence to support or complement the
+- proposed TBO/TBR.
+- The credit taken for the duration of such cyclic durability test should use a factor of 1,
+- unless the applicant can justify, and EASA accepts, a higher value.
+- (c) The applicant may also include a calendar time in the recommended TBO/TBR that takes
+- into account Engine components degradation that are time dependent, such as ageing of
+- some material, corrosion, etc.
+- (d) The TBO/TBR should be declared, and the necessary corresponding instructions (e.g. an
+- Engine overhaul manual when using a TBO) should be provided, as required by CS-E 25(a).
+
+## Deleted at Amdt8 (3 run(s))
+
+- O
+- O
+- e

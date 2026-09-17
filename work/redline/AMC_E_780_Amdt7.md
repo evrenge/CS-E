@@ -1,0 +1,180 @@
+# AMC E 780 — Amdt7 redline
+
+Declared as: *AMC E 780 is amended as follows:*
+Source: `Change_Information_CS-E_Amdt_7.pdf` pp 13–20
+
+## Inserted at Amdt7 (137 run(s))
+
+- Unacceptable Mechanical Damage: Mechanical damage resulting from the testing of the
+- Engine in icing conditions and that is in excess of the limited Engine damage defined
+- below.
+- When assessing Engine damages, the applicant should fully account for cumulative
+- damage from repeated icing conditions encounters. This should include the exposure to
+- repeated induced vibration loads (at frequencies and magnitudes corresponding to the
+- vibration spectrum predicted using available test evidence) and to repeated shed ice
+- impacts.
+- Limited Engine damage should satisfy the following criteria:
+- (a) Continued In-Service Use. The applicant should evaluate any resultant Engine
+- damage and demonstrate that it does not affect the Engine performance and
+- operability for continued in-service use. This includes continued safe operation
+- with no imminent failures expected, no significant power or thrust loss, and no
+- significant aeromechanical effect.
+- (b) Sustained Power or Thrust Losses. The Engine should not experience any sustained
+- power loss beyond 1.5 % (that is, the nominal accepted level considered to be
+- within measurement capability).
+- (c) Temporary or Momentary Power Loss. Where possible, early coordination with the
+- aircraft manufacturer is recommended to assess the acceptability of temporary or
+- momentary power or thrust losses.
+- (d) Validation Basis. Analytical tools used to substantiate the criteria for determining
+- acceptable damage should demonstrate an acceptable validation basis. For
+- example, validation could utilise Engine tests or rig tests to substantiate the
+- accuracy of results. An acceptable analytical tool validation basis includes test data
+- which yields conservative results.
+- (e) Engine Damage. Damage to the Engine or Engine components as a result of icing
+- compliance testing should not exceed the limits provided in the Instructions for
+- Continued Airworthiness. Cumulative damage from repeated encounters should
+- be considered a part of this assessment. Any damage findings should be brought
+- to the attention of the Agency for approval.
+- (f) High Vibration. The applicant must ensure that high vibration that may occur
+- during operation in icing conditions is assessed for the specific aircraft installation.
+- The acceptability of high vibration with regard to its potential impact on the safety
+- of the aircraft should be evaluated in cooperation with the aircraft manufacturer,
+- where possible.
+- Atmospheric
+- Conditions
+- Due to the potential for inadvertent icing condition encounters, t
+- atmospheric
+- conditions
+- always include the SLW conditions defined in
+- CS-Definitions Amendment 2 under ‘Icing Atmospheric Conditions’, even for aircraft not
+- approved for flight in icing conditions. The additional conditions to be addressed are
+- dependent on the conditions applicable to the air intake system
+- of
+- These conditions may
+- ice crystal icing
+- conditions, supercooled large drop icing conditions,
+- SLW
+- Amendment 2
+- to simulate in-flight icing conditions
+- ,
+- , and shedding
+- the Engine
+- behaviour in icing conditions
+- points to be carried out
+- the
+- Engine operating conditions and
+- adequately simulate all icing threats and effects
+- which are relevant for the test conditions.
+- The icing threats which should be considered include but are not limited to:
+- — vibration;
+- — surge;
+- — flameout;
+- — core blockage; and
+- — ice impact energy and location following shedding.
+- For instance, if more ice would accrete at a critical location under altitude
+- conditions, then the test conditions (e.g. LWC) may need to be adjusted. Similarly,
+- if the rotor speed in flight would be higher, this should be considered to ensure
+- that the Blade impact energy is at least as severe under test conditions.
+- Furthermore, altitude effects on Engine performance, including surge and
+- flameout margins, should be taken into account, either in the tested conditions, or
+- through post-test assessment.
+- Because different Engine modules react differently to variations in altitude
+- conditions (e.g. low pressure shaft speeds v high pressure shaft speeds), the
+- various icing threats are also impacted differently by varying altitude conditions.
+- Consequently, this may require running multiple test points to simulate all
+- relevant/applicable icing threats associated with a single atmospheric condition.
+- In that context, a single atmospheric condition could either be:
+- — a single standard test point as listed in Table 1 above, or
+- — a single test point identified by a CPA (refer to AMC E 780 (2.1)).
+- — by-pass ratio;
+- The effects of density, hardness, and adhesion strength of the ice as it sheds should
+- be assessed in realistic flight conditions. For example, in realistic flight conditions,
+- the ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced
+- by the rotor speed and the adhesive strength of the ice to the surface. The adhesive
+- strength of ice generally increases with decreasing surface temperature. The ice
+- thickness, ice properties and rotor speed at the time of the shed define the impact
+- threat.
+- (Note 1)
+- (Note 2)
+- Note 1: These conditions are provided as a guide, but they may need to be modified to address the
+- requirements applicable to the intended installation. For instance, snow concentrations may need to
+- be increased to address blowing snow. When applicable, the applicants should consider the material
+- provided in AMC 25.1093(a) 1.6 (Falling and Blowing Snow).
+- Note 2: As per CS-E 780, those conditions only need to be considered if applicable to the Engine air
+- intake system in the ice protection specifications of the Certification Specifications applicable to the
+- aircraft on which the Engine is to be installed.
+- (2.4) Test results
+- Due to the repetitive nature of icing condition encounters during in-service operation, which may
+- extend for longer duration than during the icing test campaign, the applicant should demonstrate that
+- no unacceptable mechanical damage will occur as a result of prolonged operation with levels of high
+- vibration due to repetitive icing encounters.
+- , such as
+- frame leading edges especially if upstream vanes direct or concentrate
+- impingement upon the frame leading edge
+- , such as flow path concavity
+- geometry with stagnation points outside the flow path that could lead to
+- accreted ice re-entering the flow path upon geometry movement
+- (vii) airfoils with low tolerance to soft body damage immediately downstream of a
+- potential ice accretion location;
+- (viii) Engine control sensors and measurement systems which may be affected by
+- operation in ice crystal conditions and which may result in unacceptable control
+- system response;
+- (ix) negative air temperature gradient along the gas path resulting in a potential
+- accretion site downstream of melting; and
+- (x) surfaces with low temperatures downstream of or coincident with where melting
+- could have occurred.
+- Ice Protection Systems
+- Activation and Deactivation
+- ice-
+- , whether the activation is automatic or manual
+- the
+- , as appropriate,
+- and
+- 2
+- Consideration should also be given to the effects of delays in deactivating an ice protection
+- system after leaving icing conditions, or to inadvertent operation of an ice protection system in
+- the absence of icing conditions. These effects should not compromise the mechanical integrity
+- of the Engine or the effectiveness of the ice protection system (e.g. due to overheating and
+- damage of certain components).
+- , and all Engine conditions observed during
+- Engine certification icing tests,
+- required by CS-E 20(d)
+- with
+- — any damage observed following the icing tests considered acceptable by the applicant
+- and by the Agency;
+
+## Deleted at Amdt7 (33 run(s))
+
+- either
+- or
+- Where non-altitude testing is used to simulate altitude conditions, appropriate justification should be presented to demonstrate that the test conditions are not less severe for both ice accretion and shedding than the equivalent altitude test points. The effects of density, hardness, and adhesion strength of the ice as it sheds should be assessed to realistic flight conditions. For example, in realistic flight conditions, the ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced by the rotor speed and the adhesive strength of the ice to the surface. The adhesive strength of ice generally increases with decreasing surface temperature. The ice thickness, ice properties and rotor speed at the time of the shed define the impact threat.
+- Environments
+- T
+- environments
+- are those applicable to
+- , defined in CS 23.1093(b), CS 25.1093(b), CS 27.1093(b) and CS 29.1093(b), as appropriate
+- This
+- s atmospheric icing conditions (including freezing fog on ground)
+- Falling and blowing snow conditions are defined in AMC 25.1093(b).
+- Appendix C to CS-25 and Appendix C to CS-29
+- and
+- icing at the critical locations for accretion or shedding
+- conditions
+- generate equivalent ice accretion
+- Justification should be provided to demonstrate that altitude conditions for ice accretion and shedding are adequately replicated under test conditions at all critical Engine locations. If there is more than one critical location for any given test condition, and it is not possible to adequately simulate the icing conditions at both locations, separate test points may need to be run.
+- .
+- (Turbojet,
+- turbofan, and
+- turboprop only)
+- s
+- (v) unheated surfaces on booster and front core stages;
+- i
+- i
+- stator vanes can accrete ice and shed it when rotated
+- (viii) extraction capability of bleeds; and (ix) runback ice formed downstream of internal Engine heated surfaces.
+- Inadvertent Entry into Icing Conditions or Delayed IPS Activation
+- airframe
+- manual
+- two
+- containing instructions for installing and operating the Engine
+- of

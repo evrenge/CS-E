@@ -1,0 +1,271 @@
+# AMC E 930 — Amdt8 redline
+
+Declared as: *The following AMC E 930 is added:*
+Source: `Change_Information_CS-E_Amdt_8.pdf` pp 37–43
+
+## Inserted at Amdt8 (260 run(s))
+
+- (a) Definitions
+- For the purposes of this AMC, the following definitions apply.
+- (1) ‘Engine flight cycle’. Predicted average flight profile of the Engine parameters and
+- conditions representative of the way the Engine is expected to operate in service.
+- (2) ‘Initial maintenance programme (IMP)’. Instructions for continued airworthiness (ICA)
+- submitted under CS-E 25 that are considered necessary to ensure sufficient Engine
+- reliability. The ICA may be required by the type certificate holder in the ‘Airworthiness
+- Limitations’ section of the ICA or may be recommended at certain intervals. The IMP may
+- use hard time-based maintenance programming or on-condition-based maintenance
+- programming, or a combination of both.
+- (3) ‘Initial maintenance inspection (IMI) intervals’. An IMP approach for maintenance tasks
+- based on hard time policy (i.e. maximum hours or cycles that an Engine or Engine module
+- should be operated before a maintenance task is performed).
+- (4) ‘Engine overhaul’. The process to disassemble, clean, inspect, repair or replace (as
+- necessary), reassemble and test for return-to-service approval within the manufacturer’s
+- overhaul data specifications. This process relates to the periodic disassembly of the entire
+- Engine, or modules when applicable, rather than maintenance of individual parts or
+- assemblies.
+- (b) Purpose of the IMP test
+- The primary purpose of the IMP test run is to demonstrate sufficient Engine reliability and
+- support the establishment of the entry-into-service (EIS) IMP for that type design. Therefore,
+- this AMC provides guidance and acceptable means of compliance on:
+- (1) test methods and procedures,
+- (2) test pass/fail criteria,
+- (3) EIS IMP requirements or recommendations.
+- (c) Applicability to changes to type certificate
+- Following the initial demonstration of compliance with CS-E 930, Minor design changes do not
+- require a new demonstration of compliance with CS-E 930.
+- For Major design changes (following the initial demonstration of compliance with CS-E 930), the
+- applicant should assess the impact on the validity of the previously established IMP. The
+- applicant should either substantiate the previous IMP or propose means to substantiate a
+- change to the IMP. Such means may include analysis, testing or a combination of both. A full
+- test to redemonstrate compliance with CS-E 930 may not be required.
+- When assessing the IMP’s validity, the applicant should evaluate the impact of the change on
+- the Engine design factors and Engine system dynamics.
+- Engine design factors include, but are not limited to: mechanical size and stiffness, static
+- structure, dynamics of Engine, bearing arrangement, number of structural frames, arrangement
+- of mounting to aircraft, number of compression and turbine stages, size and diameter of the
+- fan, changes to Engine control system architecture (e.g. supervisory to full authority type, or
+- analogue to digital), changes to installation (e.g. service bleed and power extraction) and new
+- technology (e.g. design, materials or manufacturing processes), to the extent that these factors
+- contribute to the system dynamics of the Engine.
+- System dynamics of the Engine are the vibratory response signature (system critical frequencies
+- and amplitudes). These can be a function of Engine mass and stiffness, rotor speeds, and Engine
+- or aircraft mount and strut mass and stiffness.
+- (d) IMP test
+- (1) IMP test cycle assessment
+- (i) General
+- The applicant should provide an assessment of expected service operating
+- conditions as part of the test plan. In this assessment, the applicant should show
+- that the proposed test cycle represents the expected in-service engine flight cycles,
+- including:
+- — established power/thrust ratings,
+- — reverse thrust use,
+- — component stress and temperature,
+- — exhaust gas temperature (EGT),
+- — Engine vibration,
+- — cycle / operating time cumulative damage,
+- — other critical factors.
+- If the Engine includes OEI power ratings, representation of cumulative usage of
+- those OEI power ratings before maintenance should be included in the Engine
+- flight cycles of the IMP test.
+- For multiple aircraft applications, the applicant should show that the test cycle
+- adequately represents all identified or anticipated installations and Engine flight
+- cycles.
+- Test cycles that have been used in the past include:
+- — full cycle (paragraph (d)(1)(ii)),
+- — accelerated severity cycle (paragraph (d)(1)(iii)),
+- — combinations of the above test cycle types.
+- The applicant may combine the IMP test with the AMC 20-6B early ETOPS test
+- (refer to Appendix 1, Section 2.b). In this case, the applicant must successfully
+- complete the early ETOPS test prior to EIS. See paragraph (d)(7).
+- (ii) Full Cycle Test
+- The full cycle test requires that the Engine is run through the exact thrust or power
+- setting sequences for the time periods identified in the Engine flight cycle. Thus,
+- one complete cycle of a full cycle test should include:
+- — a typical Engine flight cycle,
+- — the exact number of operating hours, from Engine start through complete
+- shutdown.
+- (iii) Accelerated Severity Cycle Test
+- The accelerated severity cycle test provides a rigorous test of those Engines (or
+- Engine parts) for which durability is primarily affected by cyclic operation. This type
+- of test makes it possible to vary the following aspects of the Engine flight cycle:
+- — time at various thrust or power settings,
+- — sequence of thrust or power selections.
+- To determine the relationship between the accelerated severity cycle test and the
+- full flight cycle as required above, a detailed analysis should be performed of:
+- — the stress,
+- — the temperature, and
+- — the resulting life of each affected part of the Engine.
+- The accelerated severity cycle test may include the equivalent of several flight
+- cycles during a given portion of the overall Engine test. This can result in a small
+- number of Engine hours in comparison with the number of Engine flight cycles
+- demonstrated.
+- The accelerated severity cycle test is generally not considered ideal for Engine parts
+- whose durability is primarily affected by hours of operation rather than by cycles.
+- For those cases, the IMP substantiation may require other test or in-service
+- experience data (including, if available, comparison of relevant past IMP
+- demonstrations with subsequent successful entry-into-service (EIS) Engine
+- experience).
+- The accelerated severity cycle test should include Engine start and shutdown.
+- (2) IMP Test Engine Configuration
+- (i) General
+- CS-E 930 requires the test to be performed with an Engine that adequately
+- conforms to its final type design. Therefore, no significant Engine modification
+- should be required to complete the IMP test.
+- Engine parts that are included in the Engine type design but not installed on the
+- Engine may be substantiated by taking credit for validated analyses and/or other
+- tests. Equipment qualification performed under CS-E 80(b) may be considered an
+- appropriate means of compliance in this case.
+- (ii) Consideration of Hardware Items Not Part of the Engine Type Design
+- The applicant should include in the IMP test other hardware items, or
+- representative hardware items, that are not normally part of the Engine type
+- design (e.g. thrust reverser, air starter, Engine build-up hardware) and that have
+- an impact on the reliability of the Engine.
+- (iii) Engine Test Configuration
+- The applicant should perform the IMP test when the Engine is installed in a typical
+- configuration, to the maximum extent possible.
+- For example, the applicant should:
+- — connect and operate, in a way representative of the intended service, the
+- airframe accessories and the interfaces that load the Engine;
+- — schedule, throughout the test, typical accessory loads and bleed air
+- extraction that would be experienced during the Engine flight cycle.
+- (iv) Turbopropeller Applications
+- For turbopropeller Engine applications, the test should be run with an installation- eligible propeller installed. The applicant should incorporate into the test cycle
+- applicable design features, such as:
+- — propeller braking,
+- — auxiliary power unit (APU)-mode operation(s).
+- (v) Turboshaft Applications
+- For turboshaft applications, the applicant should load the test Engine output shaft
+- to simulate the appropriate rotor drive system characteristics of the intended
+- installation. Potential rotor drive system characteristics include but are not limited
+- to inertial and torsional vibration.
+- (3) Test Parameters
+- The conditions achieved during the test should effectively represent the conditions
+- expected during an Engine flight cycle, including:
+- — power/thrust,
+- — stress,
+- — component temperature,
+- — EGT,
+- — unbalance vibration.
+- (4) Test Duration
+- The total number of test cycles and the test duration should be sufficient to demonstrate
+- the effectiveness of the IMP.
+- Note: CS-E 930 does not require a fixed number of cycles (i.e. the IMP test is not a 1 000- cycle test). However, the applicant should correlate the number of cycles proposed for
+- the test to the planned Engine IMP. Please refer to paragraph (d)(6).
+- (5) Pass/Fail Criteria
+- (i) General
+- The Engine type design will comply with CS-E 930 when the post-test hardware
+- condition demonstrates that the Engine will remain airworthy when applying the
+- proposed IMP. The Engine should comply with paragraphs (d)(5)(ii), (iii) and (iv) of
+- this AMC.
+- (ii) Test
+- Over the test duration, and when the applicant follows normal ICA maintenance
+- practices, the Engine should:
+- — meet all proposed thrust or power ratings without exceeding any operating
+- limitations;
+- — be free of significant anomalies (e.g. surge, stall) when operated as per the
+- operating instructions provided in compliance with CS-E 20(d).
+- (iii) Post-Test Teardown Inspection
+- A post-test teardown inspection should demonstrate that:
+- — each engine part conforms to the type design; or
+- — damage is evaluated and the part is considered acceptable for safe
+- continued operation; or
+- — damage is evaluated and the part is considered not acceptable for
+- safe continued operation, but there is no imminent failure identified
+- at the end of test.
+- Engine parts may be considered acceptable for safe continued operation if the
+- applicant includes, within the ICA, appropriate inspections and/or limitations.
+- For those parts damaged beyond criteria ensuring safe continued operation, the
+- applicant should substantiate the finding that there is no imminent failure and
+- should provide in the ICA an appropriate fixed Engine overhaul period.
+- For Engines having 30-second OEI and 2-minute OEI power ratings, the IMP test
+- results may be used when showing compliance with CS-E 25(b)(2) for OEI power
+- availability demonstration at the end of the fixed Engine overhaul period.
+- (iv) Certification Documentation
+- The certification documentation should identify those parts of the Engine that will
+- have specific ICA requirements or recommendations that result from the IMP test.
+- The final ICA should include these specific requirements and/or recommendations,
+- in compliance with CS-E 25, including:
+- — life limits,
+- — inspections,
+- — intervals,
+- — accept/reject criteria.
+- (6) Determination of the IMP
+- (i) Full Cycle Test
+- For a successful full cycle test, the applicant may take credit for the full number of
+- cycles and the full number of hours demonstrated during the test when proposing
+- an IMP.
+- (ii) Accelerated Severity Cycle Test
+- For a successful accelerated severity cycle test, the applicant may take credit for
+- the full number of cycles for those Engine parts for which the test cycle was shown
+- to be equal to or more severe than the assumed Engine flight cycle.
+- (iii) High Thrust Settings during Selected Test Cycle
+- The test cycle used (e.g. accelerated severity cycle) may involve a high thrust
+- setting operation for durations that significantly exceed those of the Engine flight
+- cycle. If so, EASA may accept that the applicant takes credit for interval(s) longer
+- than the IMP test length.
+- This approach requires caution because:
+- — some Engine parts will wear as a function of time at load, rather than from
+- low cycle fatigue;
+- — life extrapolation based on material property data alone is imprecise.
+- Under these circumstances, the applicant may need to draw supporting evidence
+- from other:
+- — Engine tests,
+- — component tests,
+- — sub-assembly tests.
+- (7) Using the early ETOPS test of AMC 20-6B
+- (i) General
+- The applicant may use a test performed as per AMC 20-6B (Appendix 1,
+- Section 2.b), in lieu of a separate IMP test. The use of the early ETOPS test allows
+- the applicant to demonstrate compliance with both CS-E 930 and CS-E 1040
+- through a single test on one Engine.
+- If the applicant uses this method, the following conditions apply.
+- (A) After completing the full number of test cycles required for an IMP test
+- performed as per CS-E 930, the AMC 20-6B test should be interrupted to
+- conduct a complete on-wing (or other) inspection.
+- Please note the following:
+- (a) The inspection should be acceptable to EASA in order to demonstrate
+- compliance with CS-E 930;
+- (b) An acceptable on-wing inspection should include but is not limited to
+- the inspections and tests listed in paragraph (d)(7)(ii) of this AMC.
+- (B) The AMC 20-6B test should be completed in its entirety. This will provide
+- further evidence that no undiscovered Engine fault exists during the IMP
+- portion of the test.
+- (C) The application of the general pass/fail criteria defined in paragraph (d)(5)
+- of this AMC should demonstrate that the Engine is fully serviceable as per
+- the ICA, unless otherwise accepted by EASA.
+- (ii) On-Wing Inspection
+- (A) Borescope Inspection
+- The applicant should fully borescope-inspect all accessible gas path stages
+- or areas of the fan, compressor, combustor and turbine modules, to the
+- serviceable limits of the ICA.
+- (B) System Fault and Status Message Interrogation
+- The applicant should evaluate all system fault and status messages for
+- electronic-control-equipped Engines. The applicant should include both
+- current and previously recorded messages, to the serviceable limits of the
+- ICA.
+- (C) Oil System Chip Detector and Filter Inspection
+- The applicant should inspect all oil system chip detectors and filters for
+- contaminants.
+- (D) Fuel System Filter Inspection
+- The applicant should inspect all fuel system filters for contaminants.
+- (E) Main Engine Oil Sample Test
+- The applicant should test the Engine oil (e.g. spectrographic analysis) for
+- contaminants that might indicate impending internal failure.
+- (F) Visual Inspection
+- The applicant should perform a complete visual inspection of the inlet,
+- exhaust and externals to the serviceable limits of the ICA. The Engine should
+- be serviceable.
+- (G) Power Calibration
+- The applicant should demonstrate that the Engine can produce rated thrust
+- or power at a sea-level, hot-day corner point condition within approved
+- limits.
+- (e) Fixed Engine Overhaul Period
+- A simplified IMP may consist of a fixed Engine overhaul period. If this approach is selected, the
+- applicant should:
+- — perform the Engine test of CS-E 930 described in paragraph (d) of this AMC;
+- — substantiate the fixed Engine overhaul period from the test results as per
+- paragraph (d)(5)(iii).
+
+## Deleted at Amdt8 (0 run(s))
+
+_none_
