@@ -158,6 +158,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/build_index.py          # index  -> work/paragraph_index.csv
 .venv/bin/python scripts/scope_evidence.py       # scope keyword evidence
 .venv/bin/python scripts/build_applicability.py  # verdicts -> work/applicability.md
+.venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/verify_sources.py       # source integrity
 ```
@@ -168,9 +169,22 @@ any other way gets it wrong wherever a heading banner sits part-way down a page.
 
 `build_applicability.py` fails loudly if the classification and the index
 disagree, or if the topic grouping misses a paragraph that applies.
+`audit_coverage.py` re-derives which paragraph owns each body line, directly from
+the PDF and independently of the slicer, then checks the line actually reached
+that paragraph's file. It is the check that catches silent extraction loss.
 `lint_vault.py` fails on a ghost wikilink, frontmatter that contradicts the index,
-a missing section, or a note for a paragraph that is not APPLIES. Trust them over
-any prose.
+a missing section, a note for a paragraph that is not APPLIES, or a Rule text
+quote that is not verbatim in the source. Trust them over any prose.
+
+## Using the other four source documents
+
+- `CS-E_Amendment_8.pdf` — the only source of requirement content, anywhere.
+- Change Information PDFs — the `changed_in` tag and nothing else.
+- `CS-E_Amendment_7.pdf` — only to say what the wording was BEFORE Amendment 8,
+  and only in a note's `Notes` section. Never as requirement content. It cannot
+  serve paragraphs changed at Amendment 7: their "before" is Amendment 6, which
+  this repository does not hold.
+- `EN_to_ED_Decision_2025-003-R.pdf` — background for the writer. Never quoted.
 
 ## Redline marking scheme
 
