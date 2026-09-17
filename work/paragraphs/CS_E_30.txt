@@ -1,0 +1,20 @@
+# CS-E 30 Assumptions
+# id: CS-E 30
+# subpart: A
+# pages: 27-27
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 30)
+(a)
+In the course of establishing compliance with CS-E certain assumptions have to be made
+concerning the conditions that may be imposed on the Engine when it is eventually installed in
+the aircraft. In order that the validity of the conditions assumed in the Engine certification may
+be assessed for any particular installation, prior to Engine certification, the details of the
+assumptions made must be submitted. These assumptions must be included in the Engine
+instructions for installation required under CS-E 20(d).
+(b)
+Where an Engine system relies on components which are not part of the Engine type design,
+the interface conditions and reliability specifications for those components upon which the
+Engine certification is based must be specified in the Engine instructions for installation directly
+or by reference to appropriate documentation.
+[Amdt No: E/1]

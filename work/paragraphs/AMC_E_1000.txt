@@ -1,0 +1,12 @@
+# AMC E 1000 Environmental and Operational Design Specifications - General
+# id: AMC E 1000
+# subpart: F
+# pages: 252-252
+# source: CS-E_Amendment_8.pdf
+
+General
+CS-E subpart F defines specifications for the design of an engine to determine a configuration which
+would be required as part of the approval for particular aircraft operations such as ETOPS or Time
+Limited Dispatch.
+It also defines the specifications necessary at the engine level for compliance with CS-34.
+[Amdt. No.: E/1]

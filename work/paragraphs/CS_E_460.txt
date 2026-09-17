@@ -1,0 +1,28 @@
+# CS-E 460 Backfire Tests
+# id: CS-E 460
+# subpart: C
+# pages: 79-79
+# source: CS-E_Amendment_8.pdf
+
+For spark ignition Engines:
+(a)
+After completion of the endurance test of CS-E 440, functioning tests of the Engine shall be
+made to determine if there is any tendency for the Engine to backfire when using the normal
+means of starting and during accelerations effected by any reasonable means.
+(1)
+(b)
+If after the completion of the endurance test, no tendency for the Engine to backfire is
+established, three backfires shall be produced artificially on an Engine of the same type.
+If, however, a tendency to backfire is established, at least twenty backfires shall be
+produced artificially on an Engine of the same type.
+(2)
+If necessary, mechanical mal-adjustment shall be used to cause backfiring.
+Maladjustment may include the mixture setting (if applicable) artificially weakened, non-
+standard ignition timing, an inlet tappet adjusted to hold the valve off its seat, or crossed
+ignition leads.
+(3)
+The effect of backfires occurring during starting and during running conditions shall be
+established.
+(4)
+In order to qualify for approval, the Engine shall not suffer serious damage as a result of
+these tests.

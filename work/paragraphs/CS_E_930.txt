@@ -1,0 +1,13 @@
+# CS-E 930 Initial Maintenance Programme Test
+# id: CS-E 930
+# subpart: E
+# pages: 245-245
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 930)
+A test must be performed with an Engine that adequately conforms to the type design to substantiate
+the initial maintenance programme (IMP) that will be included in the instructions for continued
+airworthiness (ICA) in order to ensure sufficient Engine reliability under in-service conditions. The test
+must simulate the conditions in which the Engine is expected to operate in service, including typical
+start–stop cycles.
+[Amdt No: E/8]

@@ -1,0 +1,13 @@
+# CS-E 1050 Exposure to volcanic cloud hazards
+# id: CS-E 1050
+# subpart: F
+# pages: 261-262
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 1050)
+(a)
+The susceptibility of turbine Engine features to the effects of volcanic cloud hazards must be
+established.
+(b)
+Information necessary for safe operation must be provided in the relevant documentation.
+[Amdt. No. E/4]

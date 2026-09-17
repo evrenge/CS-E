@@ -1,0 +1,10 @@
+# AMC E 680 Inclination and Gyroscopic Load Effects
+# id: AMC E 680
+# subpart: E
+# pages: 133-133
+# source: CS-E_Amendment_8.pdf
+
+Normally inclination and gyroscopic load effects will be proved during flight testing but in certain cases
+some supplementary running or rig testing, to an agreed schedule, may be required before flight tests
+can be permitted.
+[Amdt. No.: E/1]

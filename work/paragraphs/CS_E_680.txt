@@ -1,0 +1,11 @@
+# CS-E 680 Inclination and Gyroscopic Load Effects
+# id: CS-E 680
+# subpart: E
+# pages: 133-133
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 680)
+It must be demonstrated that the effects of inclination on Engine running are not seriously detrimental
+and that the Engine is designed to withstand the gyroscopic loads resulting from normal flight
+manoeuvres.
+[Amdt. No.: E/1]

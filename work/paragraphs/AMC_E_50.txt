@@ -1,0 +1,71 @@
+# AMC E 50 Engine Control System
+# id: AMC E 50
+# subpart: A
+# pages: 36-37
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Applicability
+CS-E 50 is applicable to all types of Engine Control Systems. For instance, these systems might
+be hydromechanical or hydromechanical with a limited authority electronic supervisor or single
+channel full authority Engine control with hydromechanical back-up or dual channel full
+authority Electronic Engine Control System with no back-up or any other combination. The
+electronic technology may be analogue or digital.
+The Engine Control System includes any system or device that controls, limits or monitors
+Engine operation and is necessary for continued airworthiness of the Engine. This includes all
+equipment that is necessary for controlling the Engine and ensuring safe operation of the Engine
+within its limits as specified in CS-E 50(a). This implies consideration of all Engine Control System
+components including the electronic control unit(s), fuel metering unit(s), variable-geometry
+actuators, cables, wires, sensors, etc. The main Engine fuel pump is often Engine-mounted and
+physically integrated with the fuel metering unit. However, it is not usually considered part of
+the Engine Control System.
+These specifications cover the main Engine Control System as well as protection systems
+against, for example, over-speed, over-torque or over-temperature.
+When blade shedding or Engine design related means is used for over-speed protection, this
+would not be considered under CS-E 50 as being part of the Engine Control System, as this
+protection is purely mechanical and is designed to work without influence from the Engine
+Control System.
+Engine monitoring systems are covered by this specification when they are physically or
+functionally integrated with the Engine Control System or they perform functions that affect
+Engine safety or are used to effect continued-operation or return-to-service decisions. For
+instance, low cycle fatigue (LCF) cycle-counters for Engine Critical Parts would be included but
+most trend monitors and devices providing information for maintenance would not. Where a
+device is not functionally or physically integrated into the Engine Control System and does not
+perform a function that affects Engine safety, it should still be considered under CS-E 170.
+(2)
+Objective
+The purpose of CS-E 50 is to set objectives for the general design and functioning of the Engine
+Control System and these specifications are not intended to replace or supersede other
+specifications, such as CS-E 560 for the fuel system. Therefore, individual components of the
+Engine Control System, such as alternators, sensors, actuators, should be covered, in addition,
+under other CS-E paragraphs such as CS-E 80 or CS-E 170, as appropriate.
+For EECS, AMC 20-1 and AMC 20-3 provides additional and detailed interpretation of CS-E 50
+with special consideration to interfaces with the aircraft, and the Propeller when applicable.
+(3)
+Rotocraft Engines
+specification of CS-E 50(a)(3) for modulation of Engine power should be interpreted as the
+ability to manage power as required to maintain power turbine speed within specified limits.
+(4)
+Integrity
+The intent of CS-E 50(c) is to establish Engine Control System integrity specifications consistent
+with operational specifications of the various applications. In particular, the introduction of
+Electronic Engine Control Systems should provide at least an equivalent level of safety and
+reliability for the Engine as achieved by Engines equipped with hydromechanical control and
+protection systems, and magneto systems.
+(5)
+Aircraft Supplied Power
+Engine Control Systems implemented in hydromechanical technology or technology other than
+electrical and electronic technology should inherently be compliant with CS-E 50(h). However,
+if the system has functions implemented electrically or electronically that depend on aircraft-
+supplied electrical power, the system should be evaluated for compliance with this rule (see
+AMC 20-1 and AMC 20-3 for relevant interpretation).
+(6)
+Air Signal Lines
+CS-E 50(i) covers cases of ingress of foreign matter (e.g. sand, dust, water, or insects) which
+could result in blockage of the lines and result in an adverse effect on Engine operation. For
+example, the experience has shown that lines used for measuring the static pressure in the
+compressor of turbine Engines could be blocked by frozen water, leading to a loss of power.
+Precautions should therefore be taken, such as use of protected openings, filters, drains for
+water, heating of the lines to prevent freezing of condensed water. Corrosion effects should
+also be addressed.
+[Amdt. No.: E/1]

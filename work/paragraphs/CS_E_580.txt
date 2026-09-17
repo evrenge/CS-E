@@ -1,0 +1,11 @@
+# CS-E 580 Air Systems
+# id: CS-E 580
+# subpart: D
+# pages: 114-114
+# source: CS-E_Amendment_8.pdf
+
+Where bleed air is used to cool or to pressurise areas of the Engine, the functions of which could be
+detrimentally affected by the ingress of foreign matter (e.g. sand or dust), the design must be such
+that the passage of foreign matter of unacceptable quantity or unacceptable size is precluded.
+[Amdt. No.: E/1]
+[Amdt. No. E/4]

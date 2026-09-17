@@ -1,0 +1,72 @@
+# CS-E 880 Tests with Refrigerant Injection for Take-Off and/or 2½- Minute OEI Power
+# id: CS-E 880
+# subpart: E
+# pages: 240-241
+# source: CS-E_Amendment_8.pdf
+
+Minute OEI Power
+(a)
+Engines for Rotorcraft. The variation of the tests prescribed in this subpart E when using
+refrigerant injection must be agreed in consultation with the Agency.
+(b)
+Engines for Aeroplanes . Refrigerant Injection Used to Increase ISA Take-off and/or 2½-Minute
+OEI Performance. The following variations to the tests prescribed in this subpart E must be
+made:
+(1)
+Calibration Tests. (See CS-E 730). Add a calibration with refrigerant injection to
+demonstrate that the predicted power/thrust output will be achieved at the conditions
+demanding maximum refrigerant flow for each rating. This additional calibration may be
+made on a separate Engine if desired.
+(2)
+Endurance Test (See CS-E 740(c)). Run all normal Take-off periods (and/or 2½-Minute OEI
+if applicable) of Part 1 of each of the stages with refrigerant injection to achieve a mean
+refrigerant flow rate of at least 50% of the maximum, whilst maintaining at least the
+minimum declared power/thrust output and maximum declared turbine entry
+temperature.
+(3)
+Accelerations (See CS-E 740(c) and (d)). All the appropriate accelerations of Part 1 of each
+of the stages must be made with refrigerant injection selected.
+(4)
+Idle conditions used for power orthrust response (See CS-E 745). The idle conditions
+appropriate to the use of maximum refrigerant injection flow, as well as without, must
+be established.
+(5)
+Over-speed Test (See CS-E 830). Two Over-speeds will need to be declared if the Take-off
+maximum rotational speed with refrigerant injection differs from the Take-off maximum
+rotational speed without refrigerant injection. Only an Over-speed test with refrigerant
+injection need be run if all the critical conditions are more severe with refrigerant
+injection, than without. The 15-minute Over-speed test with refrigerant injection need
+not be run non-stop, but the duration of the individual periods of running at this condition
+must be not less than 3 minutes.
+(c)
+Engines for Aeroplanes . Refrigerant Injection Used to Restore ISA Take-off and/or 2½-Minute
+OEI Performance at Higher Ambient Temperature. The following variations to the tests
+prescribed in this subpart E must be made:
+(1)
+Calibration Tests . (See CS-E 730). Add a calibration with refrigerant injection to
+demonstrate that the predicted power/thrust will be achieved at the maximum declared
+air intake temperature whilst running within the appropriate operating limitations. This
+additional calibration may be made on a separate Engine if desired.
+(2)
+Endurance Test (See CS-E 740(c)). Run all the Take-off periods of Part 1 of any 10 of the
+stages with refrigerant injection to achieve a mean refrigerant flow rate of at least 50%
+of the maximum, whilst maintaining at least minimum declared power/thrust output and
+maximum declared turbine entry temperature. If a 2½-Minute OEI Rating is also sought
+then all the Take-off and 2½-Minute OEI periods of Part 1 in stages 3 to 12 must be run
+as above.
+(3)
+Accelerations (See CS-E 740(c) and (d)). All the appropriate accelerations of Part 1 of each
+of the 10 required stages must be made with refrigerant injection selected.
+(4)
+Idle conditions used for power or thrust response (See CS-E 745). The idle conditions
+appropriate to the use of maximum refrigerant injection flow, as well as without, must
+be established.
+(5)
+Over-speed (See CS-E 830). Run either without refrigerant injection at the ambient air
+intake temperature or with refrigerant injection with the air intake temperature raised
+to the highest sea-level temperature at which refrigerant is to be used, depending on
+which involves the more severe running conditions. If the test is run with refrigerant
+injection, the 15-minute period need not be run non-stop, but the duration of the
+individual periods of running at this condition must be not less than 3 minutes. The test
+may be run, if desired as part of the endurance test. Alternatively, test evidence from an
+Engine of similar design may be provided.

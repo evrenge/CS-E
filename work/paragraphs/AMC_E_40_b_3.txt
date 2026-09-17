@@ -1,0 +1,67 @@
+# AMC E 40(b)(3) and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings
+# id: AMC E 40(b)(3)
+# subpart: A
+# pages: 30-31
+# source: CS-E_Amendment_8.pdf
+
+minute Power Ratings
+(1)
+The 30-Second and 2-Minute OEI Power ratings are two separate ratings. However, they are
+associated in a combined structure of 2.5 minutes duration.
+(2)
+The 30-Second and 2-Minute OEI ratings are optional ratings that may be specifically requested
+by the applicant, and they are intended for use only for continuation of the one-flight operation
+after the Failure of one Engine in multi-engine Rotorcraft during take-off, climb or landing. The
+30-Second OEI Power rating provides a short burst of power to complete the take-off or to effect
+a rejected take-off, should an Engine Failure occur at the critical decision point, so that the
+Rotorcraft can lift clear of any obstruction in the flight path and climb out or, alternatively, to
+reject the take-off. Similarly, this rating also provides adequate power for the Rotorcraft to
+execute a safe landing, or a baulked landing if an Engine fails at any point down to and including
+the landing decision point. The 2-Minute OEI Power rating provides a further period of increased
+power to enable the Rotorcraft to complete the climb out from take-off or baulked landing to
+safe altitude and airspeed.
+(3)
+While the 30-Second and 2-Minute OEI Power ratings were originally conceived as high power
+ratings, using the available margins in the Engine design, and followed by a mandatory Engine
+overhaul, the experience has shown that the manufacturers provide engines with differing
+capabilities and different margins. Therefore some flexibility is possible in defining the
+(see also AMC E 25).
+(4)
+These ratings have been intended for one usage per flight in an emergency during the take-off
+or landing phases. Nevertheless, the certification specifications have been defined around the
+worst-case scenario that involves the possible use of these ratings three times in one flight (i.e.,
+the event at take-off, baulked landing and final landing). While it was not initially intended, it is
+recognised that these ratings could also be inadvertently used in some unexpected, non-critical
+conditions like an Engine Failure in a Rotorcraft flying at a high-speed cruise. In all cases, the
+required mandatory maintenance actions apply after any use of the rating powers.
+(5)
+In some circumstances, the highest power used during a 2.5-minute duration OEI event might
+be lower than the 30-Second OEI power band, but still within the certified power band of the 2-
+Minute OEI Power rating. In this case, it is permissible to extend the use of the 2-Minute OEI
+Power rating to a total duration of 2.5 minutes. However, that additional 30-Seconds period will
+be considered to be a derated 30-Second OEI Power rating. For the required mandatory
+maintenance actions, see CS-E 25(b)(2) and AMC E 25.
+(6)
+The 30-Second and 2-Minute OEI Power ratings should account for any deterioration observed
+during the applicable portion of the 2-hour additional endurance test of CS-E 740(c)(3)(iii).
+Any available information from tests of CS-E 740(c)(3)(iii) may be used to establish the Engine
+characteristics throughout operating envelope of the Engine. In particular, the Power ratings
+for the 30-Second and 2-Minute OEI ratings should reflect the rated power deterioration that is
+observed during the pre-2-hour test calibration through and including the third application of
+30-Second OEI rated power during the additional endurance test. The power deterioration
+through the third application is expected to be the best indicator of the worst case power
+deterioration that could occur during actual usage of the rating, and thus it should be reflected
+in the data given to the aircraft manufacturer to define the performance characteristics of the
+aircraft system. In the event of a power deterioration that exceeds 10% at the 30-Second OEI
+rating over the course of the 2-hour test, the mode of deterioration should be evaluated to
+ensure that the availability of 30-Second OEI rated power in service will not be compromised by
+any variability in the amount of deterioration.
+(7)
+For Rotorcraft turbine Engines, ‘Rated 30-Minute Power’ is the approved brake horsepower,
+developed under static conditions at specified altitudes and temperatures within the operating
+limitations established for the Engine, and limited in use for periods of no more than 30 minutes.
+The 30-Minute Power rating may be set at any level between the Maximum Continuous up to
+and including the take-off rating, and may be used for multiple periods of up to 30 minutes
+each, at any time between the take-off and landing phases in any flight.
+[Amdt No: E/1]
+[Amdt No: E/5]

@@ -1,0 +1,11 @@
+# CS-E 1040 ETOPS
+# id: CS-E 1040
+# subpart: F
+# pages: 261-261
+# source: CS-E_Amendment_8.pdf
+
+(See AMC 20-6)
+In order to be approved for ETOPS capability, the engine shall achieve an IFSD rate that is compatible
+with the safety target associated to the maximum flight duration and the longest diversion time for
+which approval is being sought.
+[Amdt. No.: E/3]

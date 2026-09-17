@@ -1,0 +1,13 @@
+# CS-E 230 De-Icing and Anti-Icing Precautions
+# id: CS-E 230
+# subpart: B
+# pages: 66-66
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The design of the Engine induction system must be such as to minimise the risk of ice formation
+adversely affecting the functioning of the Engine and, if necessary, must include provision for
+the use of a means for ice prevention
+(b)
+Where necessary, provision must be made for the fitting of an induction thermometer or ice
+indicator, as appropriate for the control of the particular system.

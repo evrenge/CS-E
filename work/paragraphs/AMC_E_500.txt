@@ -1,0 +1,26 @@
+# AMC E 500 Functioning - Control of Engines (Turbine Engines for Aeroplanes)
+# id: AMC E 500
+# subpart: D
+# pages: 81-81
+# source: CS-E_Amendment_8.pdf
+
+Aeroplanes)
+It is normally acceptable that the control of Engines within their limitations may be achieved by
+manual, as opposed to automatic, means provided that -
+(1)
+The likely rate of change of Engine conditions makes manual control practicable,
+(2)
+Minimum thrust setting parameters for use during all critical flight phases (e.g. take-off or
+baulked landing) can be predetermined in a manner which will ensure that -
+(a)
+They are easily set-up,
+(b)
+The same instrument is used under all ambient conditions,
+(c)
+They will normally prevent any other limit being exceeded (though normal crew
+monitoring may be assumed to be adequate for detecting progressive slowly changing
+excesses which may result from Engine deterioration in service),
+(3)
+The Engine is shown to be safe in the event of inadvertent opening of the throttle to its
+maximum travel in an emergency situation (see also AMC E 700 paragraph 3).
+[Amdt. No.: E/1]

@@ -1,0 +1,651 @@
+# CS-E 740 Endurance Tests
+# id: CS-E 740
+# subpart: E
+# pages: 138-150
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The specifications of CS-E 740 must be varied and supplemented as necessary to comply with
+CS-E 690(a), CS-E 750 and CS-E 890.
+(1)
+(b)
+The test must be performed in the order defined in the appropriate schedule (either as
+prescribed in paragraphs (c)(1), (2) and (3) below, or as defined by the applicant in a test
+plan when paragraph (c)(4) below is used), and in suitable non-stop stages. An alternative
+schedule may be used if it is agreed to be at least as severe. In the event of a stop
+occurring during any stage, the stage must be repeated unless it is considered to be
+unnecessary. The complete test may need to be repeated if an excessive number of stops
+occur.
+(2)
+The time taken in changing power and/or thrust settings during the entire test must not
+be deducted from the prescribed periods at the higher settings.
+(3)
+Throughout each stage of the endurance test, the rotational speed must be maintained
+at, or within agreed limits of, the declared value appropriate to a particular condition.
+The determination of the necessary rotational speed tolerance will take account of the
+Engine speed, test equipment and any other relevant factors (see also CS-E 740(f)(1)).
+(4)
+On turbo-propeller Engines, a representative flight Propeller must be fitted.
+(5)
+The Engine must be subjected to an agreed extent of pre-assembly inspection, and a
+record must be made of the dimensions that are liable to change by reason of wear,
+distortion and creep. A record must also be made of the calibrations and settings of
+separately functioning Engine components and equipment (e.g. the control system,
+pumps, actuators, valves).
+(6)
+The thrust or power of the Engine achieved throughout the endurance test must be at
+least 100 % of the value associated with the particular Engine rating being tested, in order
+to substantiate the thrust or power ratings established under CS-E 40.
+(c)
+Schedules
+(1)
+Schedule for Standard Ratings (Take-off and Maximum Continuous)
+25 6-hour stages, each stage comprising:
+Part 1 1 hour of alternate 5-minute periods at Take-off Power or Thrust and minimum
+ground idle, or, for rotorcraft Engines, minimum test bed idle.
+Part 2
+(A)
+Stages 1 to 15, each of 30 minutes duration, at Maximum Continuous Power
+or Thrust.
+(B)
+Stages 16 to 25, each of 30 minutes duration, at Take-off Power or Thrust.
+For Engines for Aeroplanes. Where Engine rotational speeds between
+Maximum Continuous and Take-off may be used in service, e.g. for reduced
+thrust take-off or due to variations in the ambient temperature, and these
+speeds would not be adequately covered by other Parts of the endurance
+test, then the following Part 2 must be substituted:
+(C)
+Stages 1 to 10, each of 30 minutes duration at Maximum Continuous Power
+or Thrust.
+(D)
+Stages 11 to 15, each of 30 minutes duration at Take-off Power or Thrust.
+(E)
+Stages 16 to 25, each of 30 minutes duration covering the range in 6
+approximately equal speed increments between Maximum Continuous and
+Takeoff Power or Thrust.
+Part 3 1 hour and 30 minutes at Maximum Continuous Power or Thrust.
+Part 4 2 hours and 30 minutes covering the range in 15 approximately equal speed
+increments from Ground Idling up to but not including Maximum Continuous
+Power or Thrust.
+Part 5 30 minutes of accelerations and decelerations consisting of 6 cycles from Ground
+Idling to Take-off Power or Thrust, maintaining Take-off Power or Thrust for a
+period of 30 seconds, the remaining time being at Ground Idling.
+(2)
+(i)
+Schedule for Standard Ratings with 2½-Minute OEI and/or Continuous OEI Rating
+and/or 30-Minute OEI Rating and/or 30-Minute Power (when appropriate).
+25 6-hour stages, each stage comprising:
+Part 1 1 hour of alternate 5-minute periods at Take-off Power or Thrust and
+minimum ground idle, or, for rotorcraft Engines, minimum test bed idle,
+except that –
+(A)
+In Stages 3 to 20, in place of two of the 5-minute periods at Take-off
+Power or Thrust, run 2½ minutes at Take-off Power or Thrust followed
+by 2½ minutes at 2½-Minute OEI Power or Thrust.
+(B)
+In Stages 21 to 25, in place of three of the 5-minute periods at Take-
+off Power or Thrust, run 1 minute at Take-off Power or Thrust
+followed by 2 minutes at 2½Minute OEI Power or Thrust and 2
+minutes at Take-off Power or Thrust.
+Part 2
+(A)
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous
+Power or Thrust.
+(B)
+Stages 16 to 25, each of 30 minutes duration at Take-off Power or
+Thrust, except that in one stage a period of 5 minutes in the middle of
+a 30-minute period must be run at 2½-Minute OEI Power or Thrust.
+For Engines for Aeroplanes. Where Engine rotational speeds between
+Maximum Continuous and Take-off may be used in service, e.g. for reduced
+thrust take-off or due to variations in the ambient temperature, and these
+speeds would not be adequately covered by other Parts of the endurance
+test, then the following Part 2 must be substituted:
+(C)
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous
+Power or Thrust.
+(D)
+Stages 16 to 20, each of 30 minutes duration at Take-off Power or
+Thrust except that in Stage 16 a period of 5 minutes in the middle of
+the 30-minute period must be run at 2½-Minute OEI Power/Thrust.
+(E)
+Stages 21 to 25, each of 30 minutes duration covering the range in six
+Maximum
+approximately
+between
+equal
+increments
+speed
+Continuous and Take-off Power or Thrust.
+Part 3
+(A)
+For Engines for Aeroplanes:
+30 minutes at Maximum Continuous Power or Thrust followed by one
+hour at Continuous OEI Power or Thrust.
+(B)
+For Engines for Rotorcraft –
+Either (for Engines to be approved with a Continuous OEI rating)
+30 minutes at Maximum Continuous Power followed by 1 hour at
+Continuous OEI Power or (for Engines to be approved with a 30-
+Minute OEI Rating) 1 hour at Maximum Continuous Power followed
+by 30 minutes at 30-Minute OEI Power. A Continuous OEI Rating and
+a 30-Minute OEI Rating at a higher power level can be cleared in the
+same test, if desired, by running 30 minutes at Maximum Continuous
+Power followed by 30 minutes at Continuous OEI Power and then
+30 minutes at 30-Minute OEI Power.
+For an Engine to be approved with the 30-Minute Power rating, the
+Engine must be run for continuous periods of 30 minutes at the power
+level and associated operating limitations of the 30-Minute Power
+rating. These periods must be alternated with periods at Maximum
+Continuous Power, or less. The accumulated total additional running
+time shall be 25 hours at the 30-Minute Power rating, and the time
+spent at ‘standard’ Take-off Power shall not be counted towards this
+total.
+Part 4 2 hours and 30 minutes covering the range in 15 approximately equal
+increments from Ground Idling, or, for rotorcraft Engines, minimum test bed
+idle, up to but not including Maximum Continuous Power.
+Part 5 30 minutes of accelerations and decelerations consisting of 6 cycles from
+Ground Idling, or, for rotorcraft Engines, minimum test bed idle, to Take-off
+Power or Thrust, maintaining Take-off Power or Thrust for a period of 30
+seconds, the remaining time being at Ground Idling, or, for rotorcraft
+Engines, minimum test bed idle.
+(ii)
+If only one additional rating is required, then the periods at the rating that is not
+required must be run at the power or thrust level appropriate to the next rating
+down the scale.
+(iii)
+If a constructor desires an en-route OEI rating for 30 minutes only, then the
+appropriate FAR 33.87 Schedule may be used in place of this Schedule. If this
+option is taken and a 2½ - Minute OEI Power rating is also desired, then the
+appropriate Schedule of FAR 33.87 must be used.
+(3)
+For Engines with 30-Second and 2-Minute OEI Power ratings (See AMC E 740(c)(3)),
+(i)
+If a Continuous OEI Power rating is associated with the 30-Second and 2-Minute
+OEI Power ratings, the following tests must be conducted and must be
+complemented by the additional test of CS-E 740(c)(3)(iii):
+25 six-hour stages, each stage comprising –
+Part 1 One hour of alternate 5 minute periods at Take-off Power and minimum test
+bed idle.
+Part 2
+(A)
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous
+Power.
+(B)
+Stages 16 to 25, each of 30 minutes duration at Take-off Power.
+Part 3 One hour at Maximum Continuous Power, followed by one hour at
+Continuous OEI Power.
+Part 4 2 hours covering the range in 12 approximately equal increments from
+minimum test bed idle up to, but not including, Maximum Continuous
+Power.
+Part 5 30 minutes of accelerations and decelerations consisting of 6 cycles from
+minimum test bed idle to Take-off Power, maintaining Take-off Power for a
+period of 30 seconds, the remaining time being at minimum test bed idle.
+(ii)
+If a 30-Minute OEI Power rating is associated with the 30-Second and 2-Minute OEI
+Power ratings, the following tests must be conducted and must be complemented
+by the additional test of CS-E 740(c)(3)(iii):
+25 six-hours stages, each stage comprising:
+Part 1: One hour of alternate 5-minute periods at Take-off Power and minimum
+test bed idle.
+Part 2:
+(A)
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous
+Power.
+(B)
+Stages 16 to 25, each of 30 minutes duration at Take-off Power.
+Part 3: One hour at Maximum Continuous Power, followed by thirty minutes at 30-
+Minute OEI Power.
+Part 4: Two hours and thirty minutes covering the range in 15 approximately equal
+increments from minimum test bed idle to Maximum Continuous Power.
+Part 5: 30 minutes of accelerations and decelerations consisting of 6 cycles from
+minimum test bed idle to Take-off power, maintaining Take-off Power for a
+period of 30 seconds, the remaining time being at minimum test bed idle.
+(iii)
+The following test sequence must be performed four times for a total time of not
+less than 120 minutes. If a stop occurs during this test, the interrupted sequence
+must be repeated unless it is shown that the severity of the test is not reduced if it
+were continued:
+Part 1: Three minutes at Take-off Power.
+Part 2: Thirty seconds at 30-Second OEI Power.
+Part 3: Two minutes at 2-Minute OEI Power.
+Part 4: Five minutes at whichever is the greatest of, as applicable, 30-Minute OEI
+Power, Continuous OEI Power and Maximum Continuous Power, except that
+during the first test sequence this period must be sixty-five minutes.
+However, where the greatest is the 30-Minute OEI Power, that sixty-five
+minutes period must consist of thirty minutes at 30-Minute OEI Power
+followed by thirty-five minutes at whichever is the greater of Continuous OEI
+Power and Maximum Continuous Power, as applicable.
+Part 5: One minute at 50 percent of Take-off Power.
+Part 6: Thirty seconds at 30-Second OEI Power.
+Part 7: Two minutes at 2-Minute OEI Power.
+Part 8: One minute at flight idle.
+(4)
+Alternate Endurance Testing – Turbofan Engine
+The following alternate endurance testing may be used by the applicant for the purpose
+of testing turbofan Engines instead of the abovementioned test schedule as per CS-
+E 740(c)(1). In particular, this may be suitable when running this schedule would require
+substantial modifications of the Engine such that it would deviate excessively from the
+type-design definition. The alternate endurance test must, however, provide a severity
+at least equivalent to the intent of the endurance test prescribed by CS-E 740(c)(1) (here
+designated as the ‘classic’ endurance test).
+(i)
+Alternate Test Definition
+The test must be defined considering the following elements:
+(A)
+Test Vehicle Definition;
+(B)
+Critical Point Analysis (CPA);
+(C)
+Engine Operating Limits Demonstration (type certification data sheet (TCDS)
+physical speeds and temperatures);
+(D)
+Test Severity Demonstration over extended operating periods;
+(E)
+Additional Severity Testing;
+(F)
+Incremental Cruise Power and Thrust;
+(G)
+Ancillary TCDS Limits Demonstration.
+The compliance document(s) addressing the proposed test schedule and full assessment
+of the above elements must be agreed with EASA in advance of test commencement.
+(ii)
+Test Vehicle Definition
+The test must be performed using a test vehicle that adequately conforms to the
+Engine type design.
+Exceptions could include external test equipment, controls systems settings, and
+other modifications required to achieve the test conditions detailed below;
+however, Engine hardware modifications should be minimised to preserve the
+Engine type-design hardware configuration and Engine cycle match. Hardware
+modifications may be temporarily applied to achieve specific test conditions (e.g.
+for the physical core speed operating limits test segment).
+(iii)
+Critical Point Analysis (CPA)
+Using a thermodynamic Engine model representative of a production Engine
+(accounting for new and deteriorated Engine conditions) in conjunction with the
+aeroplane flight envelope, the applicant will identify the critical points (rotor
+physical speeds, temperatures, altitude, etc.) representing the most severe
+operation and the extent of exposure to those levels.
+For the purpose of operating limits demonstrations, the CPA must establish the
+extent of exposure to the operating limits levels and close proximity to those levels.
+The CPA must also establish maximum levels of corresponding rotor speed for an
+operating limit temperature case, and maximum levels of temperature for an
+operating limit speed case. If it is found that operating limits conditions could at
+any point be coincident, then this will need to be reflected in the demonstration.
+The applicant will then conduct analyses to identify the areas in the declared flight
+envelope where endurance test critical components are exposed to the most
+damaging conditions. Critical components are the components within the Engine
+that are most limiting in terms of useful (serviceable) life under the endurance test
+conditions.
+If the maximum critical component temperature method is used (see (v) Test
+Severity Demonstration Over Extended Operating Periods), then the applicant’s
+CPA will identify the maximum critical component temperature (this would
+normally, but not necessarily, be an operating limit Engine condition on a fully
+deteriorated Engine). The capability must also be demonstrated to establish Engine
+condition settings to achieve the same critical component temperatures during the
+test severity demonstration.
+Failure modes of endurance test critical components must also be identified in the
+CPA process for assessment and possible demonstration within the alternate
+endurance test to support the severity equivalence demonstration (further
+demonstration may also be necessary in compliance with CS-E 170).
+(iv)
+Engine Operating Limits Demonstrations (TCDS Physical Rotor Speeds and Turbine
+Gas Temperatures)
+TCDS physical rotor speed and turbine gas temperature limiting conditions must
+be demonstrated as detailed in this paragraph.
+Declared rotor operating limits values will be demonstrated in the Engine operating
+limits demonstration sections of the test and established in accordance with CS-
+E 740(f).
+Concurrent operating limits demonstration of speed and turbine gas temperature
+for a particular rotor is required unless the CPA indicates it is not possible to occur
+in service within the declared operating envelope. The corresponding speed or
+temperature identified in the CPA must be met or exceeded on average during the
+demonstrations below.
+(1)
+Core Speed Operating Limits Demonstration
+The greater of maximum take-off (MTO) and maximum continuous (MCT)
+physical core speed operating limits in conjunction with at least the level of
+the corresponding temperature, as identified in the CPA, must be
+demonstrated for a minimum of 10 minutes. However, if the CPA for a new
+Engine design shows that more than 10 minutes could occur in service, or
+that physical core speed operating limits could be encountered regularly in
+service, then the core speed operating limit test time will be extended
+accordingly. Where the CPA shows a longer period is required for MCT, the
+testing will be extended at MCT conditions to cover that period.
+When demonstrated in conjunction with meeting the minimum severity
+requirements of CS-E 740(c)(4)(v), this demonstration comprises the
+appropriate period of the test for establishing the TCDS MTO- and MCT-
+declared core speed limits in accordance with CS-E 740(f).
+(2)
+Fan Speed Operating Limits Demonstration
+The MTO fan physical speed operating limit must be demonstrated for a
+minimum of 30 minutes. The MCT fan physical speed operating limit must
+be demonstrated for a minimum of 90 minutes. Both cases must be
+demonstrated in conjunction with at least the level of corresponding
+temperature, as identified in the CPA.
+If MTO and MCT have the same declared fan speed operating limit, then
+120 minutes must be demonstrated.
+Additional time may be necessary if the applicant’s CPA indicates that
+additional time at MTO or MCT physical fan speed operating limit could
+occur in service within the declared operating envelope. In conjunction with
+meeting minimum severity requirements, this demonstration comprises the
+appropriate period of the test for establishing the TCDS MTO- and MCT-
+declared fan speed limits in accordance with CS-E 740(f).
+(3)
+Turbine Exhaust Gas Temperature (EGT) Operating Limits Demonstration
+The conditions necessary to demonstrate the MTO exhaust gas temperature
+(EGT) operating limit must be continuously run for 10 minutes in conjunction
+with at least the level of corresponding rotor speeds as identified in the CPA.
+Three snap/burst accelerations (throttle move in 1 second or shorter) from
+idle to the MTO EGT operating limit (hold operating limit for a duration of
+90 seconds each) must also be run. The conditions necessary to demonstrate
+the MCT EGT operating limit must be continuously run for 90 minutes in
+conjunction with at least the level of corresponding rotor speeds as
+identified in the CPA.
+Additional time at any or all these conditions may be necessary if the
+applicant’s CPA indicates that additional time at the EGT operating limit may
+occur in service.
+EGT operating limits demonstration for alternate endurance testing also
+requires the equivalent severity to the intent of the specifications in CS-
+E 740(a), (b) and (c)(1) to be demonstrated by running significant time and
+cycles at or above the maximum critical component temperature, as
+identified in the CPA as per CS-E 740(c)(4)(iii), and must be performed when
+showing compliance with CS-E 740(c)(4)(v).
+Additional testing required to show compliance with CS-E 740(c)(4)(v) must
+be addressed in accordance with CS-E 740(c)(4)(vi).
+(v)
+Test Severity Demonstration Over Extended Operating Periods
+Limiting temperature for MTO and MCT must be demonstrated for extended
+periods to achieve the equivalent cumulative damage for the critical component
+as would be achieved by the conditions prescribed in CS-E 740(c)(1) (also referred
+to as the ‘reference severity’; see also AMC E 740(c)(4), Section 5(b)).
+The limiting temperature is either the turbine gas path temperature operating limit
+or the gas path temperature that corresponds to the maximum critical component
+temperature where this has been established for both a production Engine and the
+test Engine, as defined by the applicant’s CPA (refer to AMC E 740(c)(4) for further
+considerations of severity assessment). The applicant should therefore decide
+which limiting temperature method will be used during the test.
+The duration and the split between MTO and MCT operation are to be determined
+and justified by the applicant.
+The applicant must determine the mix of cycles and cycle durations that best
+represent the Engine design and operation. A methodology showing how creep
+damage, and other damage, to critical components accumulates is necessary for a
+comparative severity assessment to the intent of the test schedule specified in CS-
+E 740(c)(1).
+During this testing phase, rotor physical speeds must be maintained at the highest
+levels feasible with a test vehicle that meets type design as per the specifications
+in CS-E 740(c)(4)(ii), and on average should be held within ± 3 % of the limiting
+speeds.
+(vi)
+Additional Severity Testing
+The need for additional severity testing must be determined and agreed with EASA
+on completion of the scheduled test severity demonstration of CS-E 740(c)(4)(v).
+The additional testing must be completed to the same target EGT conditions
+(necessary if the conditions did not meet those that were assumed in the original
+analysis that was used to establish the test schedule) in order to compensate for
+the missed cumulative severity equivalence. Additional cyclic content may also be
+included, if necessary, to address other damage mechanism demonstration
+identified in the CPA, for which target conditions should be justified.
+(vii)
+Incremental Cruise Power and Thrust
+The following incremental acceleration must be completed 25 times: 2 hours and
+30 minutes, covering the range in 15 approximately equal speed increments from
+ground idle up to but not including MCT thrust or power.
+(viii) Ancillary Type Certification Data Sheet Limits Demonstration
+The alternate test must take into account specifications CS-E 690(a)(3), CS-E 740(e)
+and (f), and CS-E 750. Minor facilitating modifications may need to be made to run
+the conditions as required. The applicant must propose test sequence intervals
+equivalent to the stages specified in CS-E 690(a)(3) and CS-E 740(e) that are
+acceptable to EASA.
+(d)
+Accelerations and Decelerations
+(1)
+During scheduled accelerations and decelerations in Parts 1 and 5,
+(i)
+For aeroplane Engines, the thrust or power control lever must be moved from one
+extreme position to the other in a time not greater than one second.
+(ii)
+For rotorcraft Engines, the power demand must be increased to Take-off from the
+minimum test bed idle in a time not greater than one second.
+(2)
+Observations
+(i)
+Turbine Engines for Aeroplanes.
+(A)
+Readings of power/ thrust, speed and EGT must be recorded at every
+significant change of Engine conditions. Following accelerations, the over-
+run of speed and temperature above the steady conditions at Take-off must
+be noted.
+(B)
+Observations of all parameters must be recorded on first establishing steady
+running conditions and thence, during periods of continuous steady running,
+at approximately 30-minute intervals.
+(C)
+During cyclic or other running, sufficient observations must be made to
+establish the power/thrust, speed and temperature conditions of the Engine
+whenever significant readings can be taken.
+(ii)
+Turbine Engines for Rotorcraft .
+Readings of power, rotational speed, nozzle position and EGT must be taken at
+idling speed and at the maximum speed obtained on acceleration. The over run of
+speed and temperature above the steady conditions at Take-off Power must be
+noted. These observations are likely to be affected by the types of instruments
+used and must therefore be coupled with this information in the endurance test
+report.
+(e)
+Oil Pressure. The whole of the endurance test must be run with the oil pressure set to a value
+which is within the limits declared for Engine acceptance, except that –
+(1)
+Stage 22 of the test schedule specified in CS-E 740(c)(1), (2) and (3), or an equivalent
+demonstration in the alternate endurance test specified in CS-E 740(c)(4), if applicable,
+must be run with the pressure set to give that declared as the minimum for completion
+of the flight, at MCT conditions; and
+(2)
+One other stage, or an equivalent demonstration in the alternate endurance test
+specified in CS-E 740(c)(4), if applicable, must be run with the pressure set to give that
+declared as the maximum normal, at MCT conditions. During this stage, the oil
+temperature need not be held at its maximum value. Alternatively, this test may be
+omitted from the endurance test if appropriate evidence is available from other testing.
+(f)
+Operating Limitations. The normal Engine operating limitations of power, rotational speed, EGT,
+bleed, oil temperature, etc., to be established under CS-E 40(d) and CS-E 40(g), will be based on
+the mean values obtained during the appropriate periods of the endurance test, including,
+when applicable, the mean values obtained during the applications of the 30-Second and 2-
+Minute OEI Power conditions in the 2-hour additional endurance test sequence of CS-E 740
+(c)(3)(iii).
+The EGT limitations may be derived from an analysis when the applicant uses the alternate test
+specified in CS-E 740(c)(4) (see CS-E 740(f)(4)(ii) below).
+Similarly, the degrees of compressor and turbine bleed that may be approved are the
+percentages of the mass flow which have been demonstrated during the endurance test, except
+as provided by CS-E 690(a)(3)(ii).
+(1)
+The characteristics of multi-spool Engines may be such that it is not possible to obtain the
+maximum rotational speed of each spool simultaneously at sea-level test bed conditions,
+without making the Engine unacceptably non-standard, or running it in a non-
+representative manner. In such circumstances, the endurance test must be run at the
+turbine entry temperatures for which approval is sought, and evidence from
+supplementary endurance testing, to a schedule acceptable to the Agency, must be
+provided to substantiate the approval of any higher rotational speed limitations desired.
+(See AMC E 740(f)(1))
+(2)
+If Stages 3, 7, 13, 17 and 23, or an equivalent demonstration in the alternate endurance
+test specified in CS-E 740(c)(4), if applicable, with bleed(s) in operation, require the use
+of a rotational speed less than the maximum without bleed (as permitted by CS-E
+690(a)(1)(iii)), these Stages , or the equivalent demonstration, need not be included in
+the assessment of the mean rotational speed value, subject to agreement by the Agency.
+(3)
+In the case of Engines incorporating free power-turbines, if the requisite periods are not
+run at the maximum power-turbine torque for which approval is sought, evidence of
+additional running will be required. This may be obtained from tests equivalent to the
+endurance test on a similar Engine, the endurance test Engine or the relevant parts of it.
+In all such additional running the appropriate periods must be run at the maximum
+rotational speed for which approval of the maximum torque is required.
+(4)
+Temperatures .
+(i)
+All periods of the test corresponding to a rating to be approved must be run at the
+appropriate maximum turbine entry temperature for this rating unless otherwise
+agreed. The means of achieving this (e.g. by adjustment of the nozzle areas, the
+use of bleed) must be justified.
+(ii)
+In the case of the alternate test specified in CS-E 740(c)(4), the TCDS-declared EGT
+operating limits temperatures for MTO and MCT will be determined by analysis
+upon completion of the test and are established as the lower of the following
+values:
+(A)
+Values no greater than the EGT values demonstrated in the EGT operating
+limits demonstration as per CS-E 740(c)(4)(iv)(3);
+(B)
+Derived EGT values for MTO and MCT for which the severity demonstration
+for the entire test can be shown to have cumulative severity, for the critical
+component, greater than or equal to the reference severity.
+Depending on the option chosen in CS-E 740(c)(4)(v), EGT values used in this
+analysis will be either the turbine gas path temperature established during the test
+or the gas path temperature that corresponds to the maximum critical component
+temperature.
+(iii)
+In general, essentially the average of the maximum temperatures achieved during
+the appropriate periods of the test will be utilised to establish the operating
+limitations of temperature for the Engine. The average EGTs will be reduced,
+however, by the amounts necessary to ensure that the turbine entry temperatures
+in flight do not exceed the turbine entry temperatures established by endurance
+test at the appropriate rating conditions. During the accelerations and short
+periods at Take-off Power, attempts must be made to run at maximum
+temperatures but if, owing to the unstabilised conditions, lower temperature
+readings are recorded, these need not be included in calculating the average.
+(iv)
+Engines for Aeroplanes. Where the Engine characteristics are such that an
+acceleration from cold produces a transient over-temperature in excess of that for
+steady state running, a maximum EGT operating limit for acceleration with a time
+limitation of either up to 30 seconds or up to 2 minutes may be approved.
+(A)
+In the case of the classic endurance test, transient EGT operating limits may
+be approved as follows.
+Transient EGT operating limits up to 30 seconds may be approved by
+•
+running the Engine at the required temperature for 30 seconds of 50
+% of the prescribed periods at Take-off Thrust or Power conditions
+following an acceleration.
+Transient EGT operating limits up to 2 minutes may be approved by
+•
+running the Engine at the required temperature for 2 minutes of each
+prescribed period at Take-off Thrust or Power conditions for 5
+minutes or longer, and for the whole of all the 30-second periods at
+Take-off Thrust or Power following an acceleration.
+(B)
+In the case of the alternate endurance test specified in CS-E 740(c)(4),
+transient EGT operating limits may be approved as follows.
+Transient EGT operating limits up to 30 seconds may be approved by
+•
+running the Engine at the required temperature for 30 seconds as part
+of at least 155 periods at Take-off Thrust or Power conditions
+following an acceleration.
+Transient EGT operating limits up to 2 minutes may be approved by
+•
+running the Engine at the required temperature for 30 seconds as part
+of at least 310 periods at Take-off Thrust or Power conditions
+following an acceleration.
+(C)
+Approval for short-period transient conditions at 2½-Minute OEI Thrust or
+Power will not be considered and any temperature clearance required must
+be demonstrated normally during the 2½-Minute OEI periods of the
+endurance test.
+(v)
+Engines for Rotorcraft. Where the Engine characteristics are such that an
+acceleration from cold produces a transient over-temperature in excess of that for
+steady state running, a maximum EGT operating limit for acceleration with a time
+limitation of 2 minutes may be approved by running at the required temperature
+for the first 2 minutes of each prescribed period at Take-off Power conditions in
+excess of 2 minutes (and for the whole of all the 30-second Take-off Power periods
+for single-engined rotorcraft). Approval for short period transient conditions at 2½-
+Minute OEI Power will not be considered, and any temperature clearance required
+must be demonstrated normally during the endurance test.
+(vi)
+For all Take-off Power/Thrust periods of 5 minutes or greater, 5 minutes must be
+run at the maximum oil inlet temperature declared for the condition, with the
+remainder of each 30-minute period at Take-off Power/Thrust being run at the
+normal oil temperature for take-off. If a 10-minute Take-off Power/Thrust Rating
+is sought, then 10 minutes of each 30-minute period at Take-off Power/Thrust
+must be run at the maximum oil temperature. For all MCT Power/Thrust periods
+30 minutes must be run at the maximum oil inlet temperature declared for the
+condition, the remainder of each 1½ hour period at MCT Power/Thrust being run
+at the normal oil temperature for climb/cruise.
+(vii)
+Where necessary to cater for short-duration rise of indicated oil temperature
+under service conditions above the maximum established during the endurance
+test such higher temperature may be approved as the Maximum Oil Temperature
+(with an appropriate time limitation) without additional endurance testing,
+provided that it can be demonstrated that –
+(A)
+The temperature rise under service conditions is the result of a local increase
+in the oil temperature at the temperature sensing position (e.g. as may occur
+on reducing power at the top of the climb when fuel is used as the oil cooling
+medium),
+(B)
+There is no significant increase in the maximum local temperature of either
+the Engine components or the oil in any Engine Critical Part, and
+(C)
+There is no undue deterioration of the oil in such circumstances and no
+adverse effect on any system using the oil as a working fluid (e.g. Propeller
+control).
+(g)
+Incremental Periods.
+(1)
+If a significant vibration response is found to exist on relevant components in the course
+of establishing compliance with CS-E 650 at any condition within the operating range of
+the Engine (not prohibited under CS-E 650(f)), not less than 10 hours, but not exceeding
+50 %, of the incremental periods of Part 4 in CS-E 740(c)(1), (2) or (3) of the endurance
+test, or CS-E 740(c)(4)(vii) of the alternate endurance test, if applicable, must be run with
+the rotational speed varied continuously over the range for which vibrations of the largest
+amplitude were disclosed by the vibration survey; if there are other ranges of rotational
+speed within the operational range of the Engine where approximately the same
+amplitude exists, a further 10 hours must be run in the same way for each such range.
+The speed variation must be effected by automatic means using a method acceptable to
+the Agency. (See AMC E 740(g)(1))
+(2)
+In the case of Engines operating at constant speed, the thrust and/or power may be
+varied in lieu of speed, in Part 4 of the endurance test.
+(3)
+In the case of free power-turbine Engines, the normal operating range of power-turbine
+speed must be covered. This may be run concurrently with the range of gas generator
+speed.
+(4)
+In the case of a free power-turbine Engine for Rotorcraft, 10 minutes of Part 4 in each
+stage of the endurance test must be run at the Maximum Power-turbine Speed for
+Autorotation with the gas generator producing the most critical conditions associated
+with this flight configuration.
+(h)
+Engine Performance Target after Test Completion .
+After completion of the endurance test, the Engine must be able to provide the rated thrust or
+power levels without exceeding operating limitations.
+(i)
+Inspection Checks
+(1)
+After completion of the test, the Engine must be subject to a strip inspection, and the
+dimensions measured in accordance with CS-E 740(b)(5) must be re-measured and
+recorded. The condition of the Engine must be satisfactory for safe continued operation.
+Separately functioning Engine components and equipment must be functionally checked
+prior to strip to ensure that any changes in function or settings are satisfactory for normal
+operation.
+(2)
+Engines with 30-Second and 2-Minute OEI Power ratings must be subjected to a full strip
+inspection after completing the additional endurance test of CS-E 740(c)(3)(iii). (See
+AMC E 740(i)(2))
+(i)
+If the Engine was not subjected to a strip examination before commencing the
+additional endurance test, then the strip inspection specifications of CS-E 740(i)(1)
+apply on completion of the test.
+(ii)
+If it is proposed to subject the Engine to a strip examination before commencing
+the additional endurance test, the Engine must be reassembled using the same
+parts used during the 150 hours test run, except those parts described as
+consumable in the Engine documentation.
+(iii)
+After this additional endurance test, the Engine may exhibit deterioration in excess
+of that permitted in CS-E 740(i)(1), and it is accepted that some Engine parts may
+be unsuitable for further use. It must be shown by inspection, analysis and/or test,
+or by any combination thereof, that the structural integrity of the Engine is
+maintained.
+[Amdt No: E/1]
+[Amdt No: E/4]
+[Amdt No: E/5]
+[Amdt No: E/8]

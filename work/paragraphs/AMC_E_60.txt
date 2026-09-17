@@ -1,0 +1,39 @@
+# AMC E 60 Provision for instruments
+# id: AMC E 60
+# subpart: A
+# pages: 39-40
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Under the specifications of CS-E 60(a), the Engine manufacturer should define the
+instrumentation which is necessary for Engine operation within its limitations and also make
+provision for installation of this instrumentation.
+In addition to instrumentation which may be required for aircraft certification (for example,
+indication of engine ice protection system activation, rotor system unbalance, and fuel flow),
+the Engine safety analysis might show the need for specific instrumentation providing
+information to the flight crew or maintenance personnel for taking the appropriate actions in
+order to prevent the occurrence of a Failure or to mitigate any associated consequences.
+(2)
+Care should also be exercised in selecting the position on the Engine at which a particular
+parameter, such as oil pressure, is sensed in order to ensure that the indication is appropriate
+for the intended protection of relevant components. For example:
+(a)
+The pick-up point on the Engine for the oil pressure gauge and the low oil pressure
+warning device, where applicable, should be suitably chosen with due regard to all critical
+components to ensure a satisfactory indication of the oil pressure to the main Engine
+bearings.
+(b)
+Unless otherwise agreed, there should be no relief valve or other component liable to
+Failure between the oil pressure gauge and warning device connection and the main
+Engine bearings. Filters necessary to protect oil jets or metering orifices should be
+suitably chosen to reduce the possibility of blockage to a minimum and should be
+accessible for periodic inspection.
+(3)
+In complying with CS-E 60(c), for example, because the inadvertent deployment of a reverser
+in-flight is a Hazardous Engine Effect, the thrust reverser position control and position indicating
+systems should be separate, such that Failures which could affect the thrust reverser position
+would not cause loss of the correct flight deck indication of reverser position.
+maintenance personnel and not by the flight crew, in order to prevent further Engine operation
+without having taken the prescribed mandatory post-flight inspection and maintenance action.
+[Amdt. No.: E/1]
+[Amdt. No.: E/7]

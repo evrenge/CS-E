@@ -1,0 +1,24 @@
+# CS-E 100 Strength
+# id: CS-E 100
+# subpart: A
+# pages: 50-50
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The maximum stresses developed in the Engine must not exceed values conforming to those
+established by satisfactory practice for the material involved, due account being taken of the
+particular form of construction and the most severe operating conditions. Where a new type of
+material is involved, evidence must be available to substantiate the assumed material
+characteristics. For Turbine Engines, due consideration must be given to the effects of any
+residual stresses in Engine Critical Parts.
+(b)
+The Engine components which form part of the Engine mounting and any other parts of the
+Engine liable to be critically affected must, when the Engine is properly supported by a suitable
+Enginemounting structure, have sufficient strength to withstand the flight and ground loads for
+the aircraft as a whole in combination with the local loads arising from the operation of the
+Engine.
+(c)
+Each Engine must be designed and constructed to function throughout its declared flight
+envelope and operating range of rotational speeds and power/thrust, without inducing
+excessive stress in any Engine part because of vibration and without imparting excessive
+vibration forces to the aircraft structure.

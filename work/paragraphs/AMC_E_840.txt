@@ -1,0 +1,178 @@
+# AMC E 840 Rotor Integrity
+# id: AMC E 840
+# subpart: E
+# pages: 232-235
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Definitions
+The following terms are defined for the purposes of interpreting CS-E 840 and this AMC.
+Individual stage of a fan, compressor or turbine assembly (some assemblies may
+Rotor:
+consist of only one stage).
+Sample rotor: A test article or assembly including, where appropriate, cover plates, spacers,
+etc., that is representative of the standard to be certified and for which the
+material properties and dimensions are known.
+Maximum permissible rotor speed associated with a rating: The maximum of all approved
+speeds, including transients, for the relevant rating.
+(2)
+General
+(a)
+The demonstration of compliance with the safety objectives of CS-E 840(a) and (d) may
+be made separately or be combined, as described in this advisory material.
+(b)
+CS-E 840(a) and (d) allow various means of compliance ("tests, analysis or combination
+thereof) in order to meet the objective identified therein. It is the applicant's
+responsibility to propose the appropriate means of compliance, in accordance with the
+guidelines defined in this AMC.
+(c)
+Any analysis approach allowed under CS-E 840 should be defined and validated before
+usage.
+(d)
+The applicant should submit to the Agency the appropriate analysis to determine which
+of the conditions in CS-E 840(b)(1) through (b)(4) is the most critical for each individual
+rotor stage with respect to the specifications of CS-E 840(a). A similar analysis should be
+submitted with respect to the specifications of CS-E 840(d).
+Where the peak over-speed is limited by deliberate blade shedding:
+(i)
+The factors of CS-E 840(b)(3) and (b)(4) nevertheless apply to a fully bladed rotor
+at the shedding speed, and
+(ii)
+The analysis to determine the most critical speed with respect to rotor integrity
+should consider blade shedding throughout the flight envelope. Consideration
+should be given to the blade Failure speed taking into account the effects of
+tolerances, temperature and material property variations of the blades together
+with the most adverse combination of the effects of tolerances and material
+properties on the integrity of the rotor. Consequently the most critical speed with
+respect to rotor integrity might not be coincident with the highest achievable blade
+shedding speed.
+(e)
+While considering the most adverse combination of dimensional tolerances and material
+properties, as required in CS-E 840(a) and (d), the applicant should also consider the
+tolerances and material properties of blades, over-speed limiter etc. adversely
+influencing stress levels in the rotor. The material properties assumptions, including
+material anomalies, used for lifing calculations should also be considered for the
+purposes of this specification.
+(f)
+Failure conditions which are of a sudden transient nature (reference CS-E 840(a) & (d))
+are typified by loss of load Failures, i.e. characterised by high rates of acceleration and
+deceleration with no dwell period at the highest over-speed attained.
+The applicant should also examine all possible Failure conditions to determine if any case
+exists which would result in a dwell period at speeds close to that of the transient short
+duration Failure condition. If such a case exists, the applicant should determine which
+condition is the most critical with respect to rotor integrity.
+(g)
+The appropriate percentage speed factor of CS-E 840(b) should be applied after making
+the necessary speed adjustments for temperatures, material properties, tolerance
+effects, etc. The necessary speed adjustments for temperature and material properties
+will normally be established on the basis of appropriate ratios of material properties.
+(h)
+The consequences of rotor growth sufficient to cause significant contact or displacement
+between Engine components should be assessed to determine that the specifications of
+CS-E 840(d)(1) can be met.
+(i)
+When determining compliance with the specifications of CS-E 840(d)(2) the applicant
+should consider whether or not the rotor would exhibit any condition that would be likely
+to prevent the safe operation of the Engine for a period of time that could occur in service
+following any Failure or combination of Failures considered under CS-E 840(b)(3) or (b)(4).
+This period of time might be equal to that required to recognise the event and shut the
+Engine down, or to that required for continued safe flight and landing. The length of time
+might also depend upon the operational instructions for an over-speed event.
+(j)
+Where a number of rotors are of similar design, are madeof materials to the same
+specification and are subjected to similar stress conditions, temperature levels and
+gradients, it is permissible for compliance with CS-E 840(a) to test only the most critical
+rotor, with respect to burst. This would require determination of the burst speed for each
+rotor in order to select the most critical which is assumed to have the smaller margin to
+burst above the speeds specified in CS-E 840(b).
+The most adverse combination of temperatures and temperature gradients which is
+possible throughout the entire operating envelope may vary for individual rotors in an
+assembly.
+The most critical rotor with respect to burst might not be the most critical with respect
+to growth. Consideration should be given to the components surrounding each rotor in
+order to determine the most critical rotor with respect to growth for compliance with CS-
+E 840(d).
+(k)
+Appropriate tests or analysis based on tests should establish the burst speed of each fan,
+compressor, and turbine rotor design in relation to the most critical condition prescribed
+in CS-E 840(b) and this should be reported in the certification documentation. These burst
+speeds should be based on the most adverse combination of dimensional tolerances and
+material properties.
+(l)
+For a multi stage rotor in which the rotors do not meet the conditions of similarity as
+described in paragraph (2)(j) above, the compliance of each rotor stage with CS-E 840
+should be substantiated using representative test data.
+(3)
+Acceptable means of compliance may include
+(a)
+Testing a sample rotor on a rig or Engine at the conditions necessary to demonstrate that
+a minimum strength rotor would meet the specifications of CS-E 840.
+(b)
+Where the conditions of CS-E 840(b)(1) or (b)(2) are the most critical, testing a sample
+rotor for the required period of time in an Engine at not less than 96% of the speed
+necessary to demonstrate that a minimum strength rotor would meet the specifications
+of CS-E 840 provided that this resultant reduced test condition is not less severe than that
+required to demonstrate compliance with CS-E 840(b)(3) or (b)(4) and, it is shown from a
+validated method of burst prediction that burst would not have occurred at the
+conditions of CS-E 840(b)(1) or (b)(2).
+(c)
+An analytical modelling method based on representative test data may be acceptable
+provided that:
+(i)
+The model has been validated by comparison with results from specimen and rotor
+tests and
+(ii)
+Its use is limited to rotors with material, geometry, stress, and temperature
+conditions encompassed by those used to construct the model and
+(iii)
+The predictions show that the certification standard rotor is not more critical, with
+respect to burst and growth, than any similar rotor for which substantiation has
+been demonstrated both by rotor test and model prediction.
+(d)
+Any test may be continued to rotor burst after the required time duration by increasing
+the speed until the rotor bursts. If the applicant chooses this method, then it should be
+shown that:
+(i)
+The sample rotor was initially run at conditions not less severe than those required
+for compliance with CS-E 840(a), and
+(ii)
+CS-E 840(d) can be complied with using an approved analytical modelling method.
+(4)
+Factors To Be Considered When Determining Test Conditions
+(a)
+Temperature
+The rotor temperatures required by CS-E 840(b) are:
+(i)
+For CS-E 840(b)(1) or (b)(2) the material temperatures and temperature gradients
+equal to the most adverse which could be achieved when operating in the Engine
+at the required rating condition.
+(ii)
+For CS-E 840(b)(3) or (b)(4) the material temperatures and temperature gradients
+equal to the most adverse which could be achieved when operating in the Engine
+at the required rating condition immediately prior to the Failure(s).
+These temperatures and temperature gradients should be established by temperature
+surveys on an Engine, or derived by a validated analysis. Adjustments of test speed or
+blade mass or both should be applied to compensate for any deviation from the required
+temperatures and temperature gradients.
+(b)
+Sample Rotor Material Properties
+Material properties of the sample rotor may be determined from attached test rings/bars
+when the correlation of their properties has been established by a validated method
+using coupons obtained from forgings/castings of the type to be approved.
+When attached test rings/bars are not available to determine the material properties of
+the sample rotor, a value for the material properties may be established by assuming that
+the sample rotor possesses material properties equal to known average properties of
+similar rotors from the same manufacturing process lot if it can be shown that the
+assumption is valid within acceptable confidence limits.
+(c)
+Dimensional tolerances
+Analysis of dimensional tolerances should be made to identify the most adverse
+combination with respect to the integrity of the rotors.
+(5)
+Failure Cases
+In order to determine the highest over-speed resulting from a loss of load to be considered
+under CS-E 840(c), it will be necessary to consider, for possible Failure locations, such factors as
+system inertia, available gas energy, whether the rotor is held in plane, over-speed protection
+devices, etc.
+[Amdt. No.: E/1]
+[Amdt No: E/5]

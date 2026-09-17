@@ -1,0 +1,10 @@
+# AMC E 150(a) Tests - General conduct of tests
+# id: AMC E 150(a)
+# subpart: A
+# pages: 61-61
+# source: CS-E_Amendment_8.pdf
+
+For piston Engines, where the operating conditions of a test represent Maximum Continuous Power
+at altitude, a higher grade fuel or any other approved anti-detonant may be used if such is required to
+suppress detonation during the test.
+[Amdt. No.: E/1]

@@ -1,0 +1,8 @@
+# CS-E 900 Propeller Parking Brake
+# id: CS-E 900
+# subpart: E
+# pages: 243-243
+# source: CS-E_Amendment_8.pdf
+
+If a Propeller parking brake is provided it must be operated 100 times during the endurance test. It
+must be applied at the maximum Propeller speed recommended by the Engine constructor.

@@ -1,0 +1,18 @@
+# AMC E 135 Electrical Bonding
+# id: AMC E 135
+# subpart: A
+# pages: 59-60
+# source: CS-E_Amendment_8.pdf
+
+Electrical bonding is a means to protect against the effects of electro-static discharges and currents
+from electrical Faults. The overall intent of CS-E 135 is to ensure that:
+(i)
+a main Engine earth is provided. This is generally achieved by showing that all the elements of
+the Engine carcass are electrically bonded together.
+(ii)
+a current path for electrical bonding exists between certain components that are mounted
+externally to the Engine and the main Engine earth.
+the modules, assemblies, components and accessories installed in or on the Engine are electrically
+bonded to the main Engine earth. This may be accomplished by examination of the type design
+drawings, electrical continuity checks, or actual inspection of a representative Engine.
+[Amdt. No.: E/1]

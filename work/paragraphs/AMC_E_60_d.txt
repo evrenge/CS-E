@@ -1,0 +1,58 @@
+# AMC E 60(d) Provision for instruments
+# id: AMC E 60(d)
+# subpart: A
+# pages: 40-41
+# source: CS-E_Amendment_8.pdf
+
+(1)
+For the purpose of complying with CS-E 60(d), the 30-Second OEI power level is considered to
+be used whenever one or more of the operating limitations applicable to the 2-Minute OEI
+power level are exceeded. The 2-minute OEI power level is considered to be used whenever
+one or more of the operating limitations applicable to the next lower OEI power rating or other
+Engine rating (if applicable) are exceeded.
+(2)
+The required means, provided by the applicant or by the rotorcraft manufacturer, are intended
+to automatically record the entry into, and the subsequent usage of, the defined power levels,
+and to enable the pilot to be automatically alerted of the entry into the power levels and the
+corresponding impending time expiration and the time expiration point. The automatic
+recording should be compatible with the maintenance instructions prescribed for these ratings.
+In particular, it should record the number of usages and time of each usage or accumulated
+time, including any exceedence of 30-Second OEI and/or 2-Minute OEI operating limitations or
+relevant time limitations. It should also provide a means to alert the maintenance personnel
+that usage and/or exceedence of 30-Second and/or 2-Minute OEI power have taken place. See
+also paragraph (5) of AMC E 40(b) regarding exceedence of the 2 minute time limitation at 2-
+Minute OEI power.
+(3)
+The objective is to ensure that the information needed for the mandatory maintenance actions
+is available after the use of 30-Second and/or 2-Minute OEI power, thus avoiding continued
+operation of the Engine in a potentially unsafe condition. The overall development assurance
+level of the recording and retrieval system should be consistent with this objective. The
+development assurance level(s) of the components of the systems used to record usage and to
+retrieve the record of the 2-Minute and 30-Second OEI powers should be based on the criticality
+of the function(s) performed within the recording and retrieval system as determined through
+the system safety analysis required under CS-E 50(d). The overall system assurance level can be
+achieved based on an appropriate combination of system architecture and component
+assurance levels.
+If the recording and/or retrieval system is not part of the Engine, the aircraft should still comply
+with CS-27/29.1305 specifications. The applicant should specify in the instructions for
+installation that the objective of this recording/retrieval system is to ensure that the
+information needed for the mandatory maintenance actions is available after the use of 30-
+Second and/or 2-Minute OEI power, thus avoiding continued operation of the Engine in a
+potentially unsafe condition and that the overall development assurance level of the recording
+and retrieval system should be consistent with this objective.
+(4)
+The recording systems should only be able to be reset by the maintenance personnel and not
+by the flight crew in order to prevent further Engine operation without having taken the
+prescribed mandatory post-flight inspection and maintenance actions.
+(5)
+An Engine can be approved with 30-Second/2-Minute OEI Power Ratings and any combination
+of Maximum Engine Over-torque, Maximum Engine Over-speed and Maximum Exhaust Gas
+Over-Temperature in compliance with CS-E 820, 830, and 870. In such a case, Engine operation
+need not be considered as usage of 30-Second/2-Minute OEI Power Ratings if the event was a
+true over-torque, over-speed or over-temperature event and it can be demonstrated that the
+recording system is able to distinguish between;
+(i)
+an Engine over-speed, over-torque or over-temperature with all Engines operating, and
+(ii)
+use of the 30 Second/2 Minute OEI Power Ratings with one Engine inoperative.
+[Amdt. No.: E/1]

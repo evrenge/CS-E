@@ -1,0 +1,11 @@
+# AMC E 440(b)(3) Endurance Test - Schedule for Engine Incorporating a Turbocharger
+# id: AMC E 440(b)(3)
+# subpart: C
+# pages: 79-79
+# source: CS-E_Amendment_8.pdf
+
+a Turbocharger
+Altitude testing may be simulated provided it is shown that the Engine and turbocharger are being
+subjected to mechanical loads and operation temperatures no less severe than if run at actual altitude
+conditions.
+[Amdt. No.: E/1]

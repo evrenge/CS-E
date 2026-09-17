@@ -1,0 +1,58 @@
+# CS-E 300 Conditions Applicable to All Tests
+# id: CS-E 300
+# subpart: C
+# pages: 69-70
+# source: CS-E_Amendment_8.pdf
+
+(a)
+Coolant Flow. (Applicable to liquid-cooled Engines only). Equipment must be provided to permit
+simultaneous observation of the coolant flow to each bank of cylinders.
+(b)
+Cylinder Temperatures. (Applicable to air-cooled Engines only). Cylinder temperature
+observations must be made on all cylinders throughout the Rating Checks, Detonation,
+Endurance and Calibration Tests. The location of the point(s) at which the temperature of each
+cylinder is measured must be recorded.
+(c)
+Temperatures – General. Except as prescribed in CS-E 300(d) and (e), the temperatures must be
+held throughout each stage, within the limits given in Table 1, to the values declared as the
+maxima appropriate to the power, where that power is a limiting condition.
+TABLE 1
+Applicable to
+Limits (°C)
+Temperature
+All Engines ± 3
+Oil inlet
+± 3
+Coolant outlet
+Liquid-cooled Engines ± 3
+± 3
+Air-cooled Engines ± 5
+Cylinder
+± 5
+All Engines ± 3
+Charge Cooler (when fitted)
+± 3
+(d)
+Temperatures – At High Powers
+(1)
+For the stages in which the Engine is run at Maximum Continuous Power, the limits of CS-
+E 300(c) apply to 50% of the total running period of each stage; the remaining 50% of the
+period must be run at not less than the Maximum Best Economy Cruising temperatures.
+(2)
+For the stages in which the Engine is run at Take-off Power for not less than 1 hour
+continuously, the limits of CS-E 300(c) apply to a continuous period of not less than 15
+minutes in each hour only, during which at least one full set of observations must be
+taken; the remainder of each hour must be run at not less than the Maximum Best
+Economy Cruising temperatures.
+(3)
+The limits of CS-E 300 (c) are not applicable to stages in which the Engine is run for less
+than 15 minutes continuously at any one power.
+(e)
+Temperature - Calibrations Tests . For the power performance items of the calibration tests in
+CS-E 350, the limits of CS-E 300(c) must apply except that the declared temperature may be
+obtained and set at the commencement of each curve and thereafter be left unadjusted,
+provided that the temperatures do not vary appreciably from those declared.
+(f)
+Torque Measurement - For testing requiring the measurement of Engine power, an acceptable
+method of establishing the torque of the Engine shall be defined. (See AMC E 300(f))
+[Amdt. No.: E/1]

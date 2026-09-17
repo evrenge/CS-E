@@ -1,0 +1,162 @@
+# CS-E 440 Endurance Test
+# id: CS-E 440
+# subpart: C
+# pages: 76-79
+# source: CS-E_Amendment_8.pdf
+
+(1)
+(a)
+The test must be made in the order defined in the appropriate schedule and in suitable
+non-stop parts. In the event of a stop occurring during any part, the part must be
+repeated unless it is agreed to be unnecessary. The complete test may need to be
+repeated if an excessive number of stops occur.
+(2)
+The whole of the endurance test must be run with the oil pressure set to give the declared
+normal operating pressure at Maximum Continuous conditions except that one hour at
+Take-off conditions and nine hours at Maximum Continuous must be run with the
+pressure set to give the declared minimum for completion of the flight at Maximum
+Continuous conditions. The test conditions may be revised, if necessary, to avoid having
+to stop the Engine during particular parts in order to reset the oil pressure.
+(3)
+Where the operating conditions are prescribed in terms of a percentage of Maximum
+Continuous Power, the crankshaft rotational speed, power setting and mixture setting (if
+applicable) mixture setting (if applicable) must be appropriate to the simulation of the
+most severe cruising conditions at this power. Where in such cases the power setting is
+not greater than that for Maximum Best Economy Cruising Power Conditions, the mixture
+setting (if applicable) mixture setting (if applicable) must be compatible with the power
+setting.
+(4)
+Throughout each part of the endurance test, the crankshaft rotational speed and power
+setting must be maintained at, or as near as possible to, the declared maximum values
+appropriate to the Engine operating conditions prescribed. A repeat of the run might be
+required if, for any reason, the observed crankshaft rotational speed and power setting
+deviate by more than ± 1.5% from the declared maximum values.
+(5)
+Propellers . A representative flight Propeller must be used during this test.
+(i)
+Variable Pitch Propellers . The blade setting of the Propeller need not be set
+precisely as for flight conditions. If, however, the blade setting does not allow the
+conditions, detailed in the test schedule agreed for the particular Engine, to be
+achieved, the limitations approved for the Engine will be based on the conditions
+at which the test is run.
+(ii)
+Fixed Pitch Propellers . A sufficient number of Propellers, agreed prior to the
+commencement of the tests, must be used for reasonable approximations to the
+various power ratings to be made. The number normally acceptable is two, for
+instance, one primarily suited to Maximum Best Economy Cruising Power
+Conditions, and the other primarily suited to Maximum Continuous or Take-off
+conditions.
+(iii)
+Limitations not Simultaneously Attainable . If a fixed pitch Propeller is fitted for the
+tests, the Engine must be operated at the maximum power setting or maximum
+crankshaft rotational speed appropriate to the conditions of the tests, whichever
+limitation is reached first.
+(6)
+The Engine must be subjected to an agreed extent of pre-assembly inspection, and a
+record must be made of the dimensions liable to change by reason of wear, distortion
+and creep. A record must also be made of the calibrations and settings of separately
+functioning Engine components and equipment (e.g. the control system, pumps,
+actuators, valves).
+(b)
+Schedules
+(1)
+Schedule for Unsupercharged Engines and Engines Incorporating Gear-driven, Single-
+speed Superchargers
+A 30-hour run consisting of alternate 5 minute periods at Take-off Power and
+Part 1
+speed and Maximum Best Economy Cruising Power or Maximum
+Recommended Cruising Power conditions.
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum
+Part 2
+Continuous Power and speed and ½ hour at 75% Maximum Continuous Power
+and 91% Maximum Continuous speed.
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum
+Part 3
+Continuous Power and speed and ½ hour at 70% Maximum Continuous Power
+and 89% Maximum Continuous speed.
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum
+Part 4
+Continuous Power and speed and ½ hour at 65% Maximum Continuous Power
+and 87% Maximum Continuous speed.
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum
+Part 5
+Continuous Power and speed and ½ hour at 60% Maximum Continuous Power
+and 84.5% Maximum Continuous speed.
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum
+Part 6
+Continuous Power and speed and ½ hour at 50% Maximum Continuous Power
+and 79.5% Maximum Continuous speed.
+A 20-hour run consisting of alternate 2½ hour periods at Maximum Continuous
+Part 7
+Power and speed and Maximum Best Economy Cruising Power or Maximum
+Recommended Cruising Power conditions.
+(2)
+Schedule for Engine Incorporating a Gear-driven Two-speed Supercharger.
+A 30-hour run in the lower gear ratio consisting of alternate 5 minute periods
+Part 1
+at Take-off Power and speed and Maximum Best Economy Cruising Power or
+Maximum Recommended Cruising Power Conditions.
+If a Take-off Power rating is desired in the higher gear ratio, 15 hours of the 30-
+hour run must be made in the higher gear ratio in alternate periods of 5 minutes
+at the power obtainable with the Take-off Critical Altitude power setting and
+Take-off speed and 5 minutes at 70% high ratio Maximum Continuous Power
+and 89% high ratio Maximum Continuous speed.
+A 15-hour run in the lower gear ratio consisting of alternate periods of one hour
+Part 2
+at Maximum Continuous Power and speed and ½ hour at 75% Maximum
+Continuous Power and 91% Maximum Continuous speed.
+A 15-hour run in the lower gear ratio consisting of alternate periods of one hour
+Part 3
+at Maximum Continuous Power and speed and ½ hour at 70% Maximum
+Continuous Power and 89% Maximum Continuous speed.
+A 30-hour run in the higher gear ratio at Maximum Continuous Power and
+Part 4
+speed.
+A 5-hour run consisting of alternate periods of 5 minutes in each of the
+Part 5
+supercharger gear ratios. The first 5 minutes of each 10-minute period must be
+made in the higher gear ratio at Maximum Continuous speed and the power
+obtainable with 90% of Maximum Continuous power setting in the higher gear
+ratio under sea-level conditions. The condition for operation for the following
+5-minute period in the lower gear ratio must be that obtained by shifting to the
+lower gear ratio at constant speed.
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour
+Part 6
+at Maximum Continuous Power and speed and one hour at 65% Maximum
+Continuous Power and 87% Maximum Continuous speed.
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour
+Part 7
+at Maximum Continuous Power and speed and one hour at 60% Maximum
+Continuous Power and 84.5% Maximum Continuous speed.
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour
+Part 8
+at Maximum Continuous Power and speed and one hour at 50% Maximum
+Continuous Power and 79.5% Maximum Continuous speed.
+A 20-hour run in the lower gear ratio consisting of alternate 2-hour periods at
+Part 9
+Maximum Continuous Power and speed and Maximum Best Economy Cruising
+Power and speed or at Maximum Recommended Cruising Power and speed.
+Part 10 A 5-hour run in the lower gear ratio at Maximum Best Economy Cruising Power
+and speed or Maximum Recommended Cruising Power and speed.
+(3)
+Schedule for Engine Incorporating a Turbocharger . (See AMC E 440(b)(3)). For Engines
+incorporating a turbocharger, the Schedule of CS-E 440(b)(1) will apply, except that –
+(i)
+Entire run specified in Part 1 must be made at sea-level pressure,
+(ii)
+The portions of the runs specified in Parts 2 to 7 at Maximum Continuous Power
+must be made at Critical Altitude pressure and the portions of the runs at other
+powers must be made at 2 500 m altitude pressure, and
+(iii)
+The turbocharger used during the 150-hour endurance test must be run on the
+bench for an additional 50 hours at a representative inlet pressure and at the
+limiting turbine wheel inlet gas temperature and rotational speed for Maximum
+Continuous Power operation unless the limiting temperature and speed are
+maintained during 50 hours of the rated Maximum Continuous Power operation.
+(c)
+After completion of the test, the Engine must be subject to a strip inspection, and the
+dimensions measured in accordance with CS-E 440(a)(6) must be re-measured and recorded.
+The condition of the Engine must be satisfactory for safe continued operation. Separately
+functioning Engine components and equipment must be functionally checked prior to strip to
+ensure that any changes in function or settings are satisfactory for normal operation.
+[Amdt. No.: E/1]

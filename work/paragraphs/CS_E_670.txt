@@ -1,0 +1,23 @@
+# CS-E 670 Contaminated Fuel
+# id: CS-E 670
+# subpart: E
+# pages: 131-131
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 670)
+(a)
+Evidence must be provided that the complete Engine fuel system is capable of functioning
+satisfactorily with fuel containing the maximum quantity of liquid/solid contamination, likely to
+be encountered in service, for a period sufficient to ensure that Engine malfunctioning as a
+result of this cause will not occur.
+(b)
+The evidence must provide assurance that –
+(1)
+The fuel system is not adversely affected by contamination which can pass through any
+filtration provided, either immediately or during subsequent running, and
+(2)
+It will be possible for the Engine to complete a period equal to at least half the maximum
+flight duration of the aeroplane in which it is likely to be installed, with the same
+contaminant level, from the point at which indication of impending filter blockage is first
+given.
+[Amdt. No.: E/1]

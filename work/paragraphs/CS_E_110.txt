@@ -1,0 +1,25 @@
+# CS-E 110 Drawings and Marking of Parts – Assembly of Parts
+# id: CS-E 110
+# subpart: A
+# pages: 50-51
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The drawings for each Engine component and each item of equipment must give full particulars
+of the design and must indicate the materials used in terms of their specifications. The
+protective finish and, where applicable, the surface finish, must be indicated. Any tests
+necessary to establish the manufacturing quality of components or equipment must be quoted
+on the relevant drawings either directly or by reference to other suitable documents.
+(b)
+Except where otherwise agreed each part must be marked so that it can be identified with the
+drawing to which it was made. The position of the markings must be indicated on the drawing.
+must be marked and the constructor must maintain records related to this marking such that it
+is possible to establish the relevant manufacturing history of the parts.
+(d)
+Turbine Engine parts, the incorrect assembly of which could result in Hazardous Engine Effects,
+must be designed so as to minimise the risk of incorrect assembly or, where this is not practical,
+permanently marked so as to indicate their correct position when assembled.
+(e)
+As part of the system safety assessment of CS-E 50(d), the possibility and subsequent effect of
+incorrect fitment of instruments, sensors or connectors must be assessed. Where necessary,
+design precautions must be taken to prevent incorrect configuration of the system.

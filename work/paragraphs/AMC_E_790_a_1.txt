@@ -1,0 +1,19 @@
+# AMC E 790(a)(1) Rain and Hail Ingestion Certification for Design Changes and Derivative Engines – Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail
+# id: AMC E 790(a)(1)
+# subpart: E
+# pages: 196-196
+# source: CS-E_Amendment_8.pdf
+
+Changes and Derivative Engines – Turbine Engine Power/Thrust
+Loss and Instability in Extreme Conditions of Rain and Hail
+CS-E 790(a)(1) allows, as an alternative to conducting a full Engine test, the certification of design
+changes or derivative Engines based on alternative evidence provided by the applicant (such as other
+Engine test(s), rig test(s), analysis, or an appropriate combination of these); however, alternative
+evidence is not intended to be used for the certification of new Engines.
+Any parametric analysis used to substantiate design changes or derivative Engines should fall within a
+10 % variation in the critical impact parameter (CIP) that was used to substantiate the original base
+Engine. The CIP(s) is (are) often associated with the impact load at the point of contact between the
+hail and the rotor blade. This is generally a function of the impact speed, the rotor speed, and the
+blade twist angle. This 10 % variation in the CIP(s) should not be assumed to be a direct tolerance on
+the applicant’s proposed changes to the Take-off Power or to the thrust ratings themselves.
+[Amdt No: E/5]

@@ -1,0 +1,12 @@
+# CS-E 90 Prevention of Corrosion and Deterioration
+# id: CS-E 90
+# subpart: A
+# pages: 50-50
+# source: CS-E_Amendment_8.pdf
+
+(a)
+Each Engine component and each item of equipment must be protected from corrosion and
+deterioration in an approved manner.
+(b)
+Materials which will render the Engine inherently self-protecting against corrosion, without the
+use of internal and external corrosion inhibitors, must be used wherever possible.

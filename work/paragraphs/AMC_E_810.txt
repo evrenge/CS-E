@@ -1,0 +1,166 @@
+# AMC E 810 Compressor and Turbine Blade Failure
+# id: AMC E 810
+# subpart: E
+# pages: 226-229
+# source: CS-E_Amendment_8.pdf
+
+(1)
+General
+(a)
+Compliance with the specifications of CS-E 810(a) may be shown in accordance with
+either (i), (ii) or (iii) -
+(i)
+by compliance with the tests detailed in (2) and (3),
+(ii)
+by presentation of adequate evidence that substantiates the strength of the Engine
+either by blade Failure experience with Engines agreed by the Agency to be of
+comparable size, design and construction, or by blade Failures which have occurred
+during the development of the Engine, provided that the conditions of Engine
+speed, shutdown period, etc., are sufficiently representative;
+(iii)
+by other evidence acceptable to the Agency.
+(b)
+Tests for containment are detailed in (2) and those for running following blade Failure are
+detailed in (3), but where the most critical blade from the point of view of blade
+containment is the same as that for the subsequent out-of-balance running, it is
+acceptable to combine the tests of (2) and (3).
+(c)
+In order to comply with CS-E 810(a), the threat represented by any blade Failure must be
+addressed. Therefore, the applicant should assess other possible blade Failure conditions
+(e.g. blade released at a different angular position, partial blade Failure, or release at
+speeds below the maximum to be approved) to ensure that the conditions of paragraphs
+(2)(c)(i) and (2)(c)(ii) below would be satisfied for any blade Failure. It is recognised that
+limitations on prediction capabilities exist, particularly in relation to the prediction of
+axially released debris. Engineering judgement based on available test and service
+experience may be used to evaluate these threats.
+(d)
+When assessing the potential Hazardous Engine Effect resulting from other damage
+before Engine shutdown, the applicant should consider the long-term effects (e.g.
+unbalance loads) of blade Failures which would not be detected by the declared
+instrumentation, such as vibration detectors. If reliance is placed on Engine shutdown by
+the flight crew to prevent propagation to Hazardous Engine Effect, then appropriate
+means should be provided to ensure flight crew action and adequate instructions are
+required in the Engine manuals required by CS-E 20(d).
+(2)
+Containment
+(a)
+General. Containment tests should be made, either -
+(i)
+on the complete Engine; or
+(ii)
+on the individual stage concerned with the adjacent stators, where -
+(A)
+the actual strength of casing under the anticipated operation conditions (e.g.
+temperature and pressure) is taken into account; and
+(B)
+adequate evidence is available such as to indicate that the aircraft would not
+be endangered by the effect of the blade Failure on subsequent blade rows.
+(b)
+Test Conditions. Separate tests on each compressor and turbine stage adjudged to be
+most critical from the point of view of blade containment (account being taken of blade
+size, material, radius of rotation, Rotational Speed and the relative strength of the
+adjacent Engine casing under operating temperature and pressure conditions) should be
+carried out in accordance with the conditions of (i) and (ii).
+NOTE: Where the Engine design is such that potentially Engine Critical Parts overlie the
+compressor or turbine casing (e.g. bypass Engines, or reverse flow Engines where the
+combustion systems may be outside the rotors), consideration should also be given to
+possible hazardous internal damage caused by blades penetrating the rotor casings, even
+though they are contained within the external geometry of the Engine. Consideration
+should also be given to AMC E 520(c)(1) paragraph (2).
+(i)
+Number of blades to be detached. One blade should be released at the top of the
+retention member.
+(A)
+For composite fan blades only, the fan blade may be released at the inner
+annulus flow path line, provided that:
+(1)
+tests and analyses, or other methods that are acceptable to the
+Agency, substantiate that the minimum material properties of the fan
+disk and fan blade retention system can withstand, without Failure, a
+centrifugal load that is equal to two times the maximum load that the
+retention system could experience within the approved Engine
+operating limitations;
+(2)
+a procedure that is approved by the Agency is used to establish an
+operating limitation that specifies the maximum allowable number of
+start-stop stress cycles for the fan blade retention system. The life
+evaluation should include the combined effects of high-cycle and low-
+cycle fatigue. If the operating limitation is less than 100 000 cycles,
+this limitation should be specified in the Airworthiness Limitation
+Section of the Instructions for Continued Airworthiness;
+(3)
+the effects of in-service deterioration, manufacturing variations,
+minimum material properties, and environmental effects should be
+accounted for during the tests and/or analyses.
+NOTE: The fan blade retention system includes the portion of the fan blade
+from the inner annulus flow path line inward to the blade dovetail, the
+blade retention components, and the fan disk and fan blade
+attachment features.
+(ii)
+Engine Conditions at Release. The blade should be released at either -
+(A)
+the maximum rotational speed to be approved (other than Maximum Engine
+Overspeed) and the associated maximum casing temperature, or
+(B)
+any likely combination of the non-transient rotational speed, intake
+temperature and casing temperature that is considered to be more critical.
+NOTE: Any deficiency in the required casing temperature may be compensated for by
+means of a suitable increase in the Engine speed.
+(c)
+Condition after Tests. On completion of the tests, a complete Engine shutdown is
+acceptable, but there should be:
+(i)
+radial containment by the Engine and no significant rupture or hazardous
+distortion of the Engine outer casing, and no unsafe condition from possible
+internal damage to the Engine as a result of blades penetrating the rotor casings,
+even though they are contained within the external geometry of the Engine;
+(ii)
+no other Hazardous Engine Effect resulting from the blade Failure, including due to
+debris being released from the Engine, forward, rearward, or otherwise outside
+the containment structure, unless the Hazardous Engine Effect can be shown to
+occur at a rate not in excess of that defined as Extremely Remote (refer to AMC E
+510).
+Note (1): The approximate size and weight of debris released during the test, along
+with an estimate of the trajectory and velocity, should be recorded to determine
+whether the debris could result in a Hazardous Engine Effect. This data should be
+documented in the Manuals required by CS-E 20(d).
+Note (2): The above assessment is required to demonstrate that the likelihood of
+a Hazardous Engine Effect due to blade Failure is low enough to be accepted for
+Engine certification (i.e. Extremely Remote). Additional considerations may be
+applied during aircraft certification to further mitigate the potential effects of
+blade Failures at the aircraft level.
+Note (3): A Hazardous Engine Effect following a blade Failure may be found
+acceptable under CS-E 810(a), providing it can be shown that it occurs at a rate not
+in excess of that defined as Extremely Remote. However, the applicant must ensure
+that this Engine Effect is acceptable for compliance with other specifications of CS-
+E. For instance, if a blade Failure results in a shaft failure, this would be
+unacceptable under CS-E 850(a)(1) and/or CS-E 840(c), even though it is shown to
+occur at a rate not in excess of that defined as Extremely Remote.
+(3)
+Running Following a Blade Failure
+(a)
+The tests should be conducted on a complete Engine, mounted in such a manner that the
+reactions induced by the out-of-balance on the Engine carcass and mounts will be
+representative of those which would occur in the installed condition. Alternatively, tests
+may be carried out on a rig but consideration should be given to the effects of shaft power
+input, further subsequent damage, heavy out-of-balance forces on other parts of the
+Engine, possible shaft Failure, etc., when interpreting the test results as being indicative
+that no hazardous damage would occur in a complete Engine.
+(b)
+Test Conditions. Separate tests should be carried out on each compressor and turbine
+stage that is adjudged to be most critical from the point of view of Engine damage
+subsequent to blade Failure as a result of out-of-balance forces that exist during the
+period prior to the Engine shutdown.
+(i)
+The Engine should be run, with an out-of-balance that is representative of the loss
+of a blade from the top of the retention member, at the maximum rotational speed
+to be approved (other than the Maximum Engine Over-speed) until either the
+Engine stops of its own accord, or a period of at least 15 seconds has elapsed.
+(ii)
+During the run, the power setting should not be altered.
+(c)
+Condition after Tests. On completion of the tests, the result should be such that there is
+no unsafe condition. A complete Engine shutdown is permitted.
+[Amdt No: E/1]
+[Amdt No: E/5]
+[Amdt No: E/7]

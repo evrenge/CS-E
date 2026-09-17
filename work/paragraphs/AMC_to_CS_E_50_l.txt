@@ -1,0 +1,13 @@
+# AMC to CS-E 50(l) Information system security protection
+# id: AMC to CS-E 50(l)
+# subpart: A
+# pages: 38-38
+# source: CS-E_Amendment_8.pdf
+
+For Engine Control Systems, AMC 20-42 provides acceptable means, guidance and methods to address
+CS-E 50(l), with special consideration given to any external interfaces of the Engine and the interfaces
+between the aircraft and the Engine, if applicable. In particular, specific cases of intentional
+unauthorised electronic interactions (IUEIs) that could potentially have similar effects on all the Engine
+Control Systems of an aircraft should be taken into account in the security risk assessment, and not
+just any interactions that could only have an adverse effect on a single Engine.
+[Amdt No: E/6]

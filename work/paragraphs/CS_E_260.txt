@@ -1,0 +1,17 @@
+# CS-E 260 Engine Cooling System
+# id: CS-E 260
+# subpart: B
+# pages: 67-67
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The design and construction of the Engine cooling system must ensure adequate cooling in all
+normal operating conditions within the flight envelope. Any reliance upon assumed installed
+conditions shall be declared in the instructions for installation.
+(b)
+For liquid-cooled Engines, it must be shown that the coolant will not boil under any normal
+operating condition within the flight envelope, under all additive concentrations approved for
+use.
+(c)
+For liquid-cooled Engines, to prevent Engine malfunction due to overheating, appropriate
+means or provision for means shall be provided to detect loss of coolant.

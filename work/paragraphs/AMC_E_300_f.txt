@@ -1,0 +1,28 @@
+# AMC E 300(f) Conditions Applicable to all Tests - Torque Measurement
+# id: AMC E 300(f)
+# subpart: C
+# pages: 70-70
+# source: CS-E_Amendment_8.pdf
+
+Measurement
+In establishing an acceptable method for determination of the Engine torque, consideration should be
+given to the following:
+(1)
+Where a method of direct Engine torque measurement is to be used, the overall accuracy of
+the torque measurement system should be determined.
+(2)
+Where no direct means for measuring Engine torque is available, an appropriate method for
+establishing the torque will be needed.
+(a)
+Normally this requires the use of suitable Engine parameters (e.g. power setting, and
+Engine speed) to correlate the Engine torque measured on a dynamometer with the
+Engine torque achieved in the test configuration.
+(b)
+The correlation should take into account any effect due to environmental changes (e.g.
+temperature, humidity, ambient pressure) and of test bench configuration changes (e.g.
+air inlet, exhaustand engine cooling system differences between the dynamometer
+installation and the test configuration).
+(c)
+The overall accuracy of the method used for determining Engine torque should be
+determined.
+[Amdt. No.: E/1]

@@ -40,7 +40,7 @@ CI = {
 }
 
 # 'CS-E 740', 'AMC E 740(c)(2)(i)', 'AMC E 20(f)'
-ID = r"(?:CS-E|AMC E|GM E)\s*\d{1,4}(?:\([^)\s]{1,6}\))*"
+ID = r"(?:AMC to CS-E|CS-E|AMC E|GM E)\s*\d{1,4}(?:\([^)\s]{1,6}\))*"
 HEAD_ID = re.compile(rf"^({ID})\s*(.*)$")
 
 # Redline declarations. Anchored so body prose such as "... when imbalances are

@@ -1,0 +1,19 @@
+# CS-E 360 Detonation Tests
+# id: CS-E 360
+# subpart: C
+# pages: 73-73
+# source: CS-E_Amendment_8.pdf
+
+For spark ignition Engines:
+(a)
+A test shall be conducted to demonstrate that the Engine can function without detonation at
+all operating conditions within the flight envelope. If the design of the ignition system includes
+redundancy, this test shall be repeated in degraded operating modes.
+(b)
+During the test of CS-E 360(a), the Engine shall be operated throughout the range from the
+lowest Engine rotational speed intended to be used for cruising, to the declared maximum
+Engine rotational speed, at the conditions of power setting, mixture setting (if applicable), oil
+temperature, coolant or cylinder-head temperatures, and manifold air pressure and air
+temperature, most likely to cause detonation. An agreed method shall be used to determine
+the degree of detonation.
+[Amdt. No.: E/1]

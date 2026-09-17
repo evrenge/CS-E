@@ -1,0 +1,92 @@
+# AMC E 620 Performance: Formulae
+# id: AMC E 620
+# subpart: E
+# pages: 116-117
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The following corrections from the observed test conditions to the assumed atmospheric
+conditions of pressure and temperature should be used within the range of conditions
+appropriate to the particular type of Engine, i.e. taking into account the characteristics of the
+Engine Control System, and the possible effect of Reynolds Number, unless more accurate or
+additional corrections for a particular type of Engine have been agreed or required by the
+Agency.
+Gas Pressures
+S.I. Units
+Pc = Po × 1013 ∙25
+B
+Gas Temperatures
+Tc = To × 288
+θ
+Rotational Speed
+Nc = No × √288
+𝜃
+Thrust
+S.I. Units
+Fc = Fo × 1013 ∙25
+B
+Mass Air Flow
+S.I. Units
+Wc = Wo × 1013 ∙25
+× √𝜃
+288
+B
+In cases where certain proprietary types of air flowmeter are employed, it should be noted that
+Wo is the actual air consumption of the Engine during test.
+Fuel Flow
+S.I. Units
+Wc = Wo × 1013 ∙25
+× √288
+θ
+B
+Power
+S.I. Units
+Pc = Po × 1013 ∙25
+× √288
+θ
+B
+(2)
+Notation
+=
+B
+Barometric pressure in test chamber
+hPa
+=
+Observed intake temperature, corrected for instrument
+θ
+K
+temperature and scale errors only
+=
+P
+Pressure
+hPa
+=
+K
+T
+Temperature
+=
+N
+Rotational speed
+rpm
+=
+F
+Thrust
+kN
+=
+Mass air flow
+W
+kg/s
+=
+Fuel flow
+kg/h
+w
+=
+P
+Power
+kW
+(3)
+Suffixes
+Suffix ‘o’ denotes an observed result, corrected for instrument temperature and scale errors
+only. Suffix ‘c’ denotes a result corrected to the standard atmospheric pressure and
+temperature conditions of CS-E 620.
+[Amdt. No.: E/1]

@@ -1,0 +1,9 @@
+# AMC E 870(a)(3) Exhaust Gas Over-temperature Test
+# id: AMC E 870(a)(3)
+# subpart: E
+# pages: 240-240
+# source: CS-E_Amendment_8.pdf
+
+In order to comply with CS-E 870(a)(3), it should be shown that an over-temperature event does not
+compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.
+[Amdt. No.: E/1]

@@ -1,0 +1,138 @@
+# CS-E 50 Engine Control System
+# id: CS-E 50
+# subpart: A
+# pages: 33-36
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 50, AMC 20-1, AMC 20-3, AMC 20-115)
+(a)
+Engine Control System Operation. It must be substantiated by tests, analysis or a combination
+thereof that the Engine Control System performs the intended functions in a manner which -
+(1)
+Enables selected values of relevant control parameters to be maintained and the Engine
+kept within the approved operating limits over changing atmospheric conditions in the
+declared flight envelope.
+(2)
+Complies with the operability specifications of CS-E 390, CS-E 500(a) and CS-E 745, as
+appropriate, under all likely system inputs and allowable Engine power or thrust
+demands, unless it can be demonstrated that this is not required for non-dispatchable
+specific Control Modes in the intended application. In such cases, the Engine approval
+will be endorsed accordingly.
+(3)
+Allows modulation of Engine power or thrust with adequate sensitivity and accuracy over
+the declared range of Engine operating conditions, and
+(4)
+Does not create unacceptable thrust or power oscillations.
+from one Control Mode to another, or from one channel to another, or from the Primary System
+to the Back-up System, the change occurs so that:
+(1)
+The Engine does not exceed any of its operating limitations,
+(2)
+The Engine does not surge, stall, flame-out or experience unacceptable thrust or power
+changes or oscillations, or other unacceptable characteristics, and
+(3)
+If the flight crew is required to initiate, respond to or be aware of the Control Mode
+change, there must be provision for a means to alert the crew. This provision must be
+described in the Engine instructions for installation and the crew action described in the
+Engine instructions for operation.
+The magnitude of any change in thrust or power and the associated transition time must
+be identified and described in the Engine instructions for installation and operation.
+(c)
+Engine Control System Failures. The Engine Control System must be designed and constructed
+so that:
+(1)
+The rate for Loss of Thrust (or Power) Control (LOTC/LOPC) events, consistent with the
+safety objective associated with the intended aircraft application, can be achieved,
+(2)
+In the Full-up Configuration, the system is essentially single Fault tolerant for electrical
+and electronic Failures with respect to LOTC/LOPC events.
+(3)
+Single Failures of Engine Control System components do not result in a Hazardous Engine
+Effect,
+(4)
+Foreseeable Failures or malfunctions leading to local events in the intended aircraft
+installation, such as fire, overheat, or Failures leading to damage to Engine Control
+System components, must not result in a Hazardous Engine Effect due to Engine Control
+System Failures or malfunctions.
+(d)
+System Safety Assessment. When complying with CS-E 210 or CS-E 510, a system safety
+assessment must be completed for the Engine Control System. This assessment must identify
+Faults or Failures that result in a change in thrust or power, a transmission of erroneous data,
+or an effect on Engine operability together with the predicted frequency of occurrence of these
+Faults or Failures. (See also CS-E 110(e))
+(e)
+Protection Systems. (See AMC E 50(e))
+(1)
+When electronic over-speed protection systems are provided, the design must include a
+means for testing the system to establish the availability of the protection function. The
+means must be such that a complete test of the system can be achieved in the minimum
+number of cycles. If the test is not fully automatic, the specification for a manual test
+must be contained in the Engine instructions for operation.
+(2)
+When over-speed protection is provided through hydromechanical or mechanical means,
+it must be demonstrated by test or other acceptable means that the over-speed function
+remains available between inspection and maintenance periods.
+(f)
+Software and Programmable Logic Devices . All associated software and encoded logic must be
+designed, implemented and verified to minimise the existence of errors by using an approved
+method consistent with the criticality of the performed functions.
+(g)
+Aircraft Supplied Data.
+shared between Engines must:
+(1)
+Not result in a Hazardous Engine Effect for any Engine.
+(2)
+Be detected and accommodated. The accommodation strategy must not result in an
+unacceptable change in thrust or power or an unacceptable change in Engine operating
+and starting characteristics. The effects of these Failures on Engine power or thrust,
+Engine operability and starting characteristics throughout the flight envelope must be
+evaluated and documented.
+The specification of CS-E 50(g)(2) does not apply to thrust or power command signals
+from the aircraft.
+(h)
+Aircraft Supplied Electrical Power.
+(1)
+The Engine Control System must be designed so that the loss or interruption of electrical
+power supplied from the aircraft to the Engine Control System will not -
+(i)
+Result in a Hazardous Engine Effect,
+(ii)
+Cause the unacceptable transmission of erroneous data.
+The effect of the loss or interruption of aircraft supplied electrical power must be taken
+into account in complying with CS-E 50(c)(1).
+(2)
+When an Engine dedicated power source is required for compliance with CS-E 50(h)(1),
+its capacity should provide sufficient margin to account for Engine operation below idle
+where the Engine Control System is designed and expected to recover Engine operation
+automatically.
+(3)
+The need for, and the characteristics of, any electrical power supplied from the aircraft
+to the Engine Control System for starting and operating the Engine, including transient
+and steady state voltage limits, must be identified and declared in the Engine instructions
+for installation.
+(4)
+Low voltage transients outside of the power supply voltage limitations, declared under
+CS-E 50(h)(3), must meet the specifications of CS-E 50(h)(1). The Engine Control System
+must resume normal operation when aircraft supplied electrical power returns to within
+the declared limits.
+(i)
+Air Pressure Signal.
+The effects of blockage or leakage of the signal lines on the Engine Control System must be
+considered as part of the system safety assessment of CS-E 50(d) and the appropriate design
+precautions adopted.
+(j)
+Engines having a 30-Second OEI Power Rating must incorporate means or provision for means
+for automatic availability and automatic control of the 30-Second OEI Power within its operating
+limitations. (See AMC E 50(j))
+(k)
+Means for shutting down the Engine rapidly must be provided.
+(l)
+Information System Security Protection.
+Engine Control Systems, including networks, software and data, must be designed and installed
+so that they are protected from intentional unauthorised electronic interactions (IUEIs) that
+may result in adverse effects on the safety of the aircraft. The security risks and vulnerabilities
+must be identified, assessed, and mitigated as necessary. The applicant must make procedures
+protections of the Engine controls are maintained.
+[Amdt No: E/1]
+[Amdt No: E/5]
+[Amdt No: E/6]

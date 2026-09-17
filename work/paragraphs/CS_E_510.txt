@@ -1,0 +1,121 @@
+# CS-E 510 Safety Analysis
+# id: CS-E 510
+# subpart: D
+# pages: 81-83
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 510)
+(1)
+(a)
+An analysis of the Engine, including the control system, must be carried out in order to
+assess the likely consequence of all Failures that can reasonably be expected to occur.
+This analysis must take account of:
+(i)
+Aircraft-level devices and procedures assumed to be associated with a typical
+installation. Such assumptions must be stated in the analysis.
+(ii)
+Consequential secondary Failures and dormant Failures.
+(iii)
+Multiple Failures referred to in CS-E 510(d) or that result in the Hazardous Engine
+Effects defined in CS-E 510(g)(2).
+(2)
+A summary must be made of those Failures that could result in Major Engine Effects or
+Hazardous Engine Effects as defined in CS-E 510(g), together with an estimate of the
+probability of occurrence of those effects. Any Engine Critical Part must be clearly
+identified in this summary.
+(3)
+It must be shown that Hazardous Engine Effects are predicted to occur at a rate not in
+excess of that defined as Extremely Remote (probability less than 10 -7 per Engine flight
+hour). The estimated probability for individual Failures may be insufficiently precise to
+enable the total rate for Hazardous Engine Effects to be assessed. For Engine certification,
+it is acceptable to consider that the intent of this paragraph is achieved if the probability
+of a Hazardous Engine Effect arising from an individual Failure can be predicted to be not
+greater than 10 -8 per Engine flight hour (see also CS-E 510(c)).
+(4)
+It must be shown that Major Engine Effects are predicted to occur at a rate not in excess
+of that defined as Remote (probability less than 10 -5 per Engine flight hour).
+(b)
+If significant doubt exists as to the effects of Failures and likely combination of Failures, any
+assumption may be required to be verified by test.
+(c)
+It is recognised that the probability of Primary Failures of certain single elements cannot be
+sensibly estimated in numerical terms. If the Failure of such elements is likely to result in
+Hazardous Engine Effects, reliance must be placed on meeting the prescribed integrity
+specifications of CS-E 515 in order to support the objective of an Extremely Remote probability
+of Failure. These instances must be stated in the safety analysis as required in CS-E 510(a)(2).
+(d)
+If reliance is placed on a safety system to prevent a Failure progressing to cause Hazardous
+Engine Effects, the possibility of a safety system Failure in combination with a basic Engine
+Failure must be included in the analysis. Such a safety system may include safety devices,
+instrumentation, early warning devices, maintenance checks, and other similar equipment or
+procedures. If items of a safety system are outside the control of the applicant, the assumptions
+of the safety analysis with respect to the reliability of these parts must be clearly stated in the
+analysis and identified in accordance with CS-E 30.
+(e)
+If the acceptability of the safety analysis is dependent on one or more of the following items,
+they must be identified in the analysis and appropriately substantiated.
+(1)
+Maintenance actions being carried out at stated intervals. This includes the verification
+of the serviceability of items which could fail in a dormant manner. When necessary for
+preventing the occurrence of Hazardous Engine Effects at a rate in excess of Extremely
+Remote, the maintenance intervals must be published in the airworthiness limitations
+section of the instructions for continued airworthiness required under CS-E 25. If errors
+in maintenance of the Engine, including the Engine Control System, could lead to
+Hazardous Engine Effects, appropriate procedures must be included in the relevant
+Engine manuals.
+(2)
+Verification of the satisfactory functioning of safety or other devices at pre-flight or other
+stated periods. The details of this verification must be published in the appropriate
+manual.
+(3)
+The provision of specific instrumentation not otherwise required.
+(4)
+Flight crew actions. These actions must be identified in the operating instructions
+required under CS-E 20(d).
+(f)
+If applicable, the safety analysis must also consider, but not be limited to, investigation of -
+(1)
+Indicating equipment,
+(2)
+Aircraft-supplied data or electrical power,
+(3)
+Compressor bleed systems,
+(4)
+Refrigerant injection systems,
+(5)
+Gas temperature control systems,
+(6)
+Engine speed, power or thrust governors and fuel control systems,
+(7)
+Engine over-speed, over-temperature or topping limiters,
+(8)
+Propeller control systems, and
+(9)
+Engine or propeller thrust reversal systems.
+(g)
+For compliance with CS-E, the following Failure definitions apply to the Engine:
+(1)
+An Engine Failure in which the only consequence is partial or complete loss of thrust or
+power (and associated Engine services) from the Engine must be regarded as a Minor
+Engine Effect.
+(2)
+The following effects must be regarded as Hazardous Engine Effects:
+(i)
+Non-containment of high-energy debris,
+(ii)
+Concentration of toxic products in the Engine bleed air for the cabin sufficient to
+incapacitate crew or passengers,
+(iii)
+Significant thrust in the opposite direction to that commanded by the pilot,
+(iv)
+Uncontrolled fire,
+(v)
+Failure of the Engine mount system leading to inadvertent Engine separation,
+(vi)
+Release of the propeller by the Engine, if applicable,
+(vii)
+Complete inability to shut the Engine down.
+(3)
+An effect falling between those covered in CS-E 510(g)(1) and (2) must be regarded as a
+Major Engine Effect.
+[Amdt. No.: E/1]

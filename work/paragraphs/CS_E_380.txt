@@ -1,0 +1,26 @@
+# CS-E 380 Low Temperature Starting Tests
+# id: CS-E 380
+# subpart: C
+# pages: 73-74
+# source: CS-E_Amendment_8.pdf
+
+(see AMC E 380)
+(a)
+Tests shall be carried out to demonstrate that the Engine can be started under the lowest
+temperature conditions to be approved, without causing damage to the Engine. At least 25
+Engine starts shall be made at oil inlet temperatures, evenly distributed between + 5°C and the
+minimum temperature to be declared for starting. Before each start attempt, the oil inlet
+temperature and the temperature of the Engine shall be substantially the same as the
+temperature of the ambient air.
+(b)
+The tests shall be carried out using representative aircraft and ground starting equipment and
+using the starting technique defined in the operating instructions.
+(c)
+The Engine shall be fitted with a representative flight Propeller or its equivalent, and
+representative aircraft equipment, as defined in CS-E 20(c).
+(d)
+Both before and after the completion of the low temperature starting tests, the Engine and
+equipment shall be submitted to a strip examination to demonstrate that the condition of the
+Engine is satisfactory for continued safe operation. Measurements shall be made of those
+dimensions liable to change by reason of wear or distortion.
+[Amdt. No.: E/1]

@@ -1,0 +1,15 @@
+# CS-E 350 Calibration Tests
+# id: CS-E 350
+# subpart: C
+# pages: 72-72
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 350)
+(a)
+The power characteristics of the Engine must be established, under all normal operating
+conditions within the declared flight envelope, by means of sufficient calibration testing.
+(b)
+In order to identify the Engine power changes that may occur during the endurance test of CS-
+E 440, sea level power calibration curves of the test engine shall be established at the beginning
+and the end of the endurance test
+[Amdt. No.: E/1]

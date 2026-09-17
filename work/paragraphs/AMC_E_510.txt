@@ -1,0 +1,358 @@
+# AMC E 510 Safety analysis
+# id: AMC E 510
+# subpart: D
+# pages: 83-91
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Introduction.
+Compliance with CS-E 510 requires a safety analysis which should be substantiated, when
+necessary, by appropriate testing and/or comparable service experience.
+The depth and scope of an acceptable safety assessment depend on the complexity and
+criticality of the functions performed by the systems, components or assemblies under
+consideration, the severity of related Failure conditions, the uniqueness of the design and
+extent of relevant service experience, the number and complexity of the identified Failures, and
+the detectability of contributing Failures.
+Examples of methodologies are Fault Tree Analysis (FTA), Failure Mode and Effects Analysis
+(FMEA) and Markov Analysis.
+(2)
+Objective.
+The ultimate objective of a safety analysis is to ensure that the risk to the aircraft from all Engine
+Failure conditions is acceptably low. The basis is the concept that an acceptable overall Engine
+design risk is achievable by managing the individual major and hazardous Engine risks to
+acceptable levels. This concept emphasises reducing the likelihood or probability of an event
+proportionally with the severity of its effects. The safety analysis should support the Engine
+design goals such that there would not be Major or Hazardous Engine Effects that exceed the
+required probability of occurrence as a result of Engine Failure modes. The analysis should
+consider the full range of expected operations.
+(3)
+Specific means.
+(a)
+Classification of effects of Engine Failures.
+Aircraft-level Failure classifications are not directly applicable to Engine assessments
+since the aircraft may have features that could reduce or increase the consequences of
+an Engine Failure condition. Additionally, the same type-certificated Engine may be used
+in a variety of installations, each with different aircraft-level Failure classifications.
+CS-E 510 defines the Engine-level Failure conditions and presumed severity levels.
+Since aircraft-level specifications for individual Failure conditions may be more severe
+than the Engine-level specifications, there should be early co-ordination between the
+applicant and the aircraft manufacturer to ensure Engine and aircraft compatibility.
+(b)
+Component Level Safety Analysis.
+In showing compliance with CS-E 510(a), a component level safety analysis may be an
+auditable part of the design process or may be conducted specifically for demonstration
+of compliance with this rule.
+The specific specifications of CS-E 50 for the Engine Control System should be integrated
+into the overall Engine safety analysis.
+(c)
+Typical installation
+The reference to "typical installation" in CS-E 510(a)(1)(i) does not imply that the aircraft-
+level effects are known, but that assumptions of typical aircraft devices and procedures,
+such as fire-extinguishing equipment, annunciation devices, etc., are clearly stated in the
+analysis.
+CS-E 510(a)(1)(i) requires the applicant to take account of aircraft-level devices in the
+Engine safety analysis. For example, the effects on the Engine failure of aircraft air ducts
+might be considered.
+It is recognised that, when showing compliance with CS-E 510(a)(3) and (4) for some
+Engine effects, the applicant may not be in a position to determine the detailed Failure
+sequence, the rate of occurrence or the dormancy period of such Failures of the aircraft
+components.
+In such cases, for Engine certification, the applicant will assume a Failure rate for these
+aircraft components. Compliance with CS-E 510(e) requires the applicant to provide, in
+the Engine instructions for installation, the list of Failures of aircraft components that
+may result in or contribute to Hazardous or Major Engine Effects. The mode of
+propagation to this effect should be described and the assumed Failure rates should be
+stated.
+During the aircraft certification, the Engine effect will be considered in the context of the
+whole aircraft. Account will be taken of the actual aircraft component Failure rate.
+Such assumptions should be addressed in compliance with CS-E 30.
+(d)
+Hazardous Engine Effects
+(i)
+The acceptable occurrence rate of Hazardous Engine Effects applies to each
+individual effect. It will be accepted that, in dealing with probabilities of this low
+order of magnitude, absolute proof is not possible and reliance should be placed
+on engineering judgement and previous experience combined with sound design
+and test philosophies.
+The probability target of not greater than 10 -7 per Engine flight hour for each
+Hazardous Engine Effect applies to the summation of the probabilities of this
+Hazardous Engine Effect arising from individual Failure modes or combinations of
+Failure modes other than the Failure of Engine Critical Parts (e.g., discs, hubs,
+spacers). For example, the total rate of occurrence of uncontrolled fires, obtained
+by adding up the individual Failure modes and combination of Failure modes
+leading to an uncontrolled fire, should not exceed 10 -7 per Engine flight hour. The
+possible dormant period of Failures should be included in the calculations of Failure
+rates.
+If each individual Failure is less than 10 -8 per Engine flight hour then summation is
+not required.
+(ii)
+When considering primary Failures of certain single elements such as Engine
+Critical Parts, the numerical Failure rate cannot be sensibly estimated. If the Failure
+of such elements is likely to result in Hazardous Engine Effects, reliance should be
+placed on their meeting the prescribed integrity specifications, such as CS-E 515,
+among others. These specifications are considered to support a design goal that,
+among other goals, primary LCF (Low Cycle Fatigue) Failure of the component
+should be Extremely Remote throughout its operational life. There is no
+specification to include the estimated primary Failure rates of such single elements
+in the summation of Failures for each Hazardous Engine Effect due to the difficulty
+in producing and substantiating such an estimate.
+(iii)
+Non-containment of high-energy debris.
+Uncontained debris covers a large spectrum of energy levels due to the various
+sizes and velocities of parts released in an Engine Failure.
+As a general principle, if a Failure can result in debris being released with an energy
+and trajectory that cause an unsafe condition (refer to AMC1 21.A.3B(b)), such
+debris should be considered as uncontained high-energy debris causing a
+Hazardous Engine Effect.
+Major Rotating Parts
+Due to the extremely high energies involved, the Engine containment structures
+are not required to contain major rotating parts should they fail. Unless
+containment has been demonstrated, the Failure of discs, hubs, impellers, large
+rotating seals, and other similar large rotating components should therefore be
+assumed to result in uncontained high-energy debris, causing a Hazardous Engine
+Effect. For such parts, the Extremely Remote probability objective necessary for
+compliance with CS-E 510 (a)(3), can only be ensured through compliance with CS-
+E 515, supplemented by CS-E 840 and CS-E 850.
+Blades
+The Engine must be designed to ensure that debris resulting from the shedding of
+compressor or turbine blades, either singly or in likely combinations, will be radially
+contained (see CS-E 520(c)(1)).
+Although blade Failures must be radially contained, it is possible that debris
+(typically lower-energy blade fragments) is released from the Engine, forward,
+rearward, or otherwise outside the Engine containment structure, as a result of the
+blade Failure. If this debris is released with an energy and trajectory that could
+cause an unsafe condition (refer to AMC1 21.A.3B(b)), such debris should be
+considered as uncontained high-energy debris causing a Hazardous Engine Effect.
+In order to demonstrate the Extremely Remote probability objective necessary for
+compliance with CS-E 510 (a)(3), the overall probability of occurrence of the unsafe
+condition should be assessed.
+The integrity specifications of CS-E 515 provide some reliability benefits when
+applied to a blade (particularly when it forms a part of a blisk (also named integrally
+bladed rotor)). However, these specifications do not provide a valid basis to
+demonstrate an Extremely Remote blade failure probability. Blade reliability is
+affected by many factors. Whilst some of these are addressed by CS-E 515 (e.g.
+low- and high-cycle fatigue, manufacturing quality, service management), others
+are not (e.g. foreign object damage). Engineering judgement based on available
+test and service experience of comparable designs should therefore be used as the
+basis for a conservative estimate of blade reliability.
+The likelihood of a blade failure resulting in an unsafe condition should be
+determined primarily based on debris energy and trajectories observed in testing
+and in service, along with an assessment of the trajectories which have the
+potential to impact the aircraft and cause an unsafe condition. Where possible, the
+threat to the safety of the aircraft should be assessed in coordination with the
+aircraft manufacturer, as this may allow some identified threats to be shown not
+to cause an unsafe condition when considering the particular installation. In any
+case, assumptions regarding the ability of the aircraft to withstand debris impact
+should be included in the Manuals required by CS-E 20(d).
+Other Sources of Uncontained High-Energy Debris
+The potential exists for other component(s) to be released from the Engine
+following Failure. For instance, service experience has shown that the rupture of
+the high-pressure casings can generate high-energy debris. Such Failures may
+therefore need to be considered as potentially causing the release of high-energy
+debris.
+In such cases, the probability that an unsafe condition results from the Failure
+should be assessed. An Extremely Remote probability must be demonstrated for
+compliance with CS-E 510 (a)(3).
+(iv)
+Toxic products.
+CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by
+abnormal Engine operation sufficient to incapacitate the crew or passengers during
+the flight. Possible scenarios include:
+Rapid flow of toxic products impossible to stop prior to incapacitation
+No effective means to prevent flow of toxic products to crew or passenger
+compartments.
+Toxic products impossible to detect prior to incapacitation.
+The toxic products could result, for example, from the degradation of abradable
+materials in the compressor when rubbed by rotating blades or the degradation of
+oil leaking into the compressor air flow.
+No assumptions of cabin air dilution or mixing should be made in this Engine-level
+analysis; these can only be properly evaluated during aircraft certification. The
+intent of CS-E 510(g)(2)(ii) is to address the relative concentration of toxic products
+in the Engine bleed air delivery. The Hazardous Engine Effect of toxic products
+relates to significant concentrations of toxic products, with “significant” defined as
+concentrations sufficient to incapacitate persons exposed to those concentrations.
+Since these concentrations are of interest to the installer, information on delivery
+rates and concentrations of toxic products in the Engine bleed air for the cabin
+should be provided to the installer as part of the Engine instructions for installation.
+(v)
+Significant thrust in the opposite direction to that commanded by the pilot,
+Engine Failures resulting in significant thrust in the opposite direction to that
+commanded by the pilot can, depending on the flight phase, result in a hazardous
+condition relating to aircraft controllability. Those Failures, if applicable to CS-E
+certification, that could be classified as hazardous events include:
+— Uncommanded thrust reverser deployment;
+— Unintended movement of the Propeller blades below the established
+minimum in-flight low-pitch position;
+— High forward thrust when reverse thrust is commanded.
+(vi)
+Uncontrolled fire.
+An uncontrolled fire should be interpreted in this context as an extensive or
+persistent nacelle fire which is not effectively confined to a designated fire zone or
+which cannot be extinguished by using the aircraft means identified in the
+assumptions. Provision for flammable fluid drainage, fire containment, fire
+detection, and fire extinguishing may be taken into account when assessing the
+severity of the effects of a fire.
+(vii)
+Complete inability to shut the Engine down.
+Complete inability to shut down the Engine is regarded as a Hazardous Engine
+Effect due the potential circumstances where continued running of the Engine,
+even at low thrust or power, represents a hazard. These circumstances include the
+inhibition of safe evacuation of passengers and crew, directional control problems
+during landing due to the inability to eliminate thrust or power, or the inability to
+ensure safe shut down when required following a Failure.
+It is acceptable to take account of aircraft-supplied equipment (fuel cut-off means,
+etc.) to protect against the “complete inability” to shut down the Engine.
+The inclusion of this item within the Hazardous Engine Effects should not preclude
+hardware or software intended to protect against inadvertent Engine shutdown,
+including aircraft logic to mitigate against the inadvertent shutdown of all engines.
+(e)
+Major Engine Effects
+Compliance with CS-E 510(a)(4) can be shown if the individual Failures or combinations
+of Failures resulting in Major Engine Effects have probabilities not greater than 10 -5 per
+Engine flight hour. No summation of probabilities of Failure modes resulting in the same
+Major Engine Effect is required to show compliance with this rule.
+Major Engine Effects are likely to significantly increase crew workload, or reduce the
+safety margins. Not all the effects listed below may be applicable to all engines or
+installation, owing to different design features, and the list is not intended to be
+exhaustive.
+Typically, the following may be considered as Major Engine Effects:
+— Controlled fires (i.e., those brought under control by shutting down the Engine or by
+onboard extinguishing systems).
+— Case burn-through where it can be shown that there is no propagation to Hazardous
+Engine Effects.
+— Release of low-energy parts where it can be shown that there is no propagation to
+Hazardous Engine Effects.
+— Vibration levels that result in crew discomfort.
+— Concentration of toxic products in the Engine bleed air for the cabin sufficient to
+degrade crew performance.
+— Thrust in the opposite direction to that commanded by the pilot, below the level
+defined as hazardous.
+— Loss of integrity of the load path of the Engine supporting system without actual
+Engine separation.
+— Generation of thrust greater than maximum rated thrust.
+— Significant uncontrollable thrust oscillation.
+The concentration of toxic products in the Engine bleed air may be interpreted as the
+generation and delivery of toxic products as a result of abnormal Engine operation that
+would incapacitate the crew or passengers, except that the products are slow-enough
+acting and/or are readily detectable so as to be stopped by crew action prior to
+incapacitation. Possible reductions in crew capabilities due to their exposure while acting
+in identifying and stopping the products should be considered, if appropriate. Since these
+concentrations are of interest to the installer, information on delivery rates and
+concentrations of toxic products in the Engine bleed air for the cabin should be provided
+to the installer as part of the Engine instructions for installation.
+(f)
+Minor Engine Effects.
+It is generally recognised that Engine Failures involving complete loss of thrust or power
+from the affected Engine can be expected to occur in service, and that the aircraft should
+be capable of controlled flight following such an event. For the purpose of the Engine
+safety analysis and Engine certification, Engine Failure with no external effect other than
+loss of thrust and services may be regarded as a Failure with a minor effect. This
+assumption may be revisited during aircraft certification, where installation effects such
+as Engine redundancy may be fully taken into consideration. This re-examination applies
+only to aircraft certification and is not intended to impact Engine certification.
+The Failure to achieve any given power or thrust rating for which the Engine is certificated
+should be covered in the safety analysis and may be regarded as a minor Engine effect.
+Similarly, this assumption may be revisited during aircraft certification, particularly multi-
+Engine rotorcraft certification.
+(g)
+Determination of the effect of a Failure.
+Prediction of the likely progression of some Engine Failures may rely extensively upon
+engineering judgement and may not be proved absolutely. If there is some question over
+the validity of such engineering judgement, to the extent that the conclusions of the
+analysis could be invalid, additional substantiation may be required. Additional
+substantiation may consist of reference to Engine test, rig test, component test, material
+test, engineering analysis, previous relevant service experience, or a combination
+thereof. If significant doubt exists over the validity of the substantiation so provided,
+additional testing or other validation may be required under CS-E 510(b).
+(h)
+Reliance on maintenance actions.
+For compliance with CS-E 510(e)(1) it is acceptable to have general statements in the
+analysis summary that refer to regular maintenance in a shop as well as on the line. If
+specific Failure rates rely on special or unique maintenance checks, those should be
+explicitly stated in the analysis.
+In showing compliance with the maintenance error element of CS-E 510(e)(1), the Engine
+maintenance manual, overhaul manual, or other relevant manuals may serve as the
+appropriate substantiation. A listing of all possible incorrect maintenance actions is not
+required in showing compliance with CS-E 510(e)(1).
+Maintenance errors have contributed to hazardous or catastrophic effects at the aircraft
+level. Many of these events have arisen due to similar incorrect maintenance actions
+being performed on multiple engines during the same maintenance availability by one
+maintenance crew, and are thus primarily an aircraft-level concern. Nevertheless,
+precautions should be taken in the Engine design to minimise the likelihood of
+maintenance errors. However, completely eliminating sources of maintenance error
+during design is not possible; therefore, consideration should also be given to mitigating
+the effects in the Engine design.
+If appropriate, consideration should be given to communicating strategies against
+performing contemporaneous maintenance of multiple engines.
+Components undergoing frequent maintenance should be designed to facilitate the
+maintenance and correct re-assembly.
+The following list of Engine maintenance errors was constructed from situations that have
+occurred in service and have caused one or more serious events:
+— Failure to restore oil system or borescope access integrity after routine maintenance
+(oil chip detector or filter check). Similar consideration should be given to other
+systems.
+— Servicing with incorrect fluids,
+— Failure to install, omitting to torque, under-torquing, or over-torquing nuts.
+Improper maintenance on parts such as discs, hubs, and spacers has led to Failures
+resulting in Hazardous Engine Effects. Examples of this which have occurred in service are
+overlooking existing cracks or damage during inspection and Failure to apply or incorrect
+application of protective coatings (e.g. anti-gallant, anti-corrosive).
+In showing compliance with CS-E 510(e)(2), it is expected that, wherever specific Failure
+rates rely on special or unique maintenance checks for protective devices, those should
+be explicitly stated in the analysis.
+(4)
+Analytical techniques.
+This paragraph describes various techniques for performing a safety analysis. Other comparable
+techniques exist and may be proposed by an applicant. Variations and/or combinations of these
+techniques are also acceptable. For derivative engines, it is acceptable to limit the scope of the
+analysis to modified components or operating conditions and their effects on the rest of the
+Engine. Early agreement between the applicant and the Agency should be reached on the scope
+and methods of assessment to be used.
+Various methods for assessing the causes, severity levels, and likelihood of potential Failure
+conditions are available to support experienced engineering judgement. The various types of
+analyses are based on either inductive or deductive approaches. Brief descriptions of typical
+methods are provided below. More detailed descriptions of analytical techniques may be found
+in the documents referenced in paragraph (5) of this AMC.
+— Failure Modes and Effects Analysis. This is a structured, inductive, bottom-up analysis
+which is used to evaluate the effects on the Engine of each possible element or
+component Failure. When properly formatted, it will aid in identifying latent Failures
+and the possible causes of each Failure mode.
+— Fault tree or Dependence Diagram (Reliability Block Diagram) Analyses. These are
+structured, deductive, top-down analyses which are used to identify the conditions,
+Failures, and events that would cause each defined Failure condition. They are graphical
+methods for identifying the logical relationship between each particular Failure
+condition and the primary element or component Failures, other events, or their
+combinations that can cause the Failure condition. A Fault Tree Analysis is Failure
+oriented, and is conducted from the perspective of which Failures should occur to cause
+a defined Failure condition. A Dependence Diagram Analysis is success-oriented, and is
+conducted from the perspective of which Failures should not occur to preclude a
+defined Failure condition.
+(5)
+Related documents.
+— AMC 25.1309 of CS-25, “System Design and Analysis”.
+— Taylor Young Limited, “Systematic Safety” by E Lloyd & W Tye
+— Society of Automotive Engineers (SAE)/EUROCAE, Document No. ARP4754A/EUROCAE
+ED-79A, Guidelines for Development of Civil Aircraft and Systems.
+— Society of Automotive Engineers (SAE), Document No. ARP 926A, "Fault/Failure Analysis
+Procedure".
+Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and
+Equipment".
+— Carter, A.D.S., Mechanical Reliability (2nd ed.). Macmillan, 1986.
+(6)
+Definitions.
+The following definitions are applicable. They should not be assumed to apply to the same or
+similar terms used in other specifications or AMCs.
+Dormant Failure. A Failure the effect of which is not detected for a given period of time.
+Failure condition. A condition with direct, consequential Engine-level effect, caused or
+contributed to by one or more Failures. Examples include limitation of thrust
+to idle or oil exhaustion.
+Failure mode.
+The cause of the Failure or the manner in which an item or function can fail.
+Examples include Failures due to corrosion or fatigue, or Failure in jammed
+open position.
+Products that act as or have the effect of a poison when humans are exposed
+Toxic products.
+to them.
+[Amdt. No.: E/1]
+[Amdt. No.: E/4]
+[Amdt. No.: E/7]

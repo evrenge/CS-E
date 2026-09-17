@@ -1,0 +1,314 @@
+# AMC E 130 Fire Protection
+# id: AMC E 130
+# subpart: A
+# pages: 53-59
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Definitions
+(a)
+Drain and Vent Systems: Components which are used to convey unused or unwanted
+quantities of flammable fluid or vapour away from the Engine.
+(b)
+External Lines, Fittings and Other Components: Engine parts conveying flammable fluids
+and which are external to the main Engine casings, frames and other major structure.
+These parts include, but are not limited to, fuel or oil tubes, accessory gearbox, pumps,
+heat exchangers, valves and Engine fuel control units.
+(c)
+Fire Hazard:
+(1)
+The unintentional release or collection of a hazardous quantity of flammable fluid,
+vapour or other materials; or
+(2)
+a Failure or malfunction which results in an unintentional ignition source within a
+fire zone; or
+(3)
+the potential for a Hazardous Engine Effect as the result of exposure to a fire.
+(d)
+Fire-resistant, Fireproof: the definitions of "Fire-resistant" and "Fireproof" are given in
+CS-Definitions; they imply that the functioning of the part under fire condition should not
+hazard the aircraft.
+(e)
+Hazardous quantity: An amount of fluid, vapour or other material which could sustain a
+fire of sufficient time and severity to create damage potentially leading to a Hazardous
+Engine Effect. In the absence of a more suitable determination of a hazardous quantity
+of flammable fluid, this can be assumed to be 0.25 litre or more of fuel (or a quantity of
+flammable material of equivalent heat content).
+(2)
+General
+(a)
+Intent
+The intent of CS-E 130 is to give assurance that the design, materials and construction
+techniques utilised will minimise the probability of the occurrence, the consequences and
+the spread of fire.
+(b)
+Objectives
+With respect to the above intent, the primary objectives are to (1) contain, isolate and
+withstand a fire or prevent any sources of flammable material or air from feeding an
+existing fire and (2) increase the probability that the Engine Control System and
+accessories will permit a safe shutdown of the Engine or feathering of the Propeller (if
+the Propeller control system is part of the Engine design) and subsequently maintain that
+condition.
+(c)
+Determination of level of fire protection
+CS-E 130(b) requires that all flammable fluid conveying parts or components be at least
+Fire-Resistant, whereas CS-E 130(c) requires flammable fluid tanks and associated shutoff
+means to be Fireproof. It should then be determined which level of fire protection should
+be shown for each component requiring a fire protection evaluation.
+The 5-minute exposure which is associated with a “Fire-Resistant” status provides a
+reasonable time period for the flight crew to recognise a fire condition, shut down the
+source of fuel.
+Oil system components of turbine Engines, however, may continue to flow oil after the
+Engine has been shut down because of continued rotation. The supply of oil to the fire
+might exist for as long as the continued rotation effects are present or until the oil supply
+is depleted.
+According to these assumptions, in general, components which convey flammable fluids
+can be evaluated to a Fire resistant standard provided the normal supply of flammable
+fluid is stopped by a shutoff feature (also see CS-E 570(e)(1)).
+Oil system components may need to be evaluated from the standpoint of fire hazard
+(quantity, pressure, flow rate, etc.) to determine whether Fire-resistant or Fireproof
+standards should apply. It should be noted that, historically, most oil system components
+have been evaluated to a Fireproof standard.
+Other flammable fluid conveying components (except flammable fluid tanks), such as
+hydraulic and thrust augmentation systems, should be evaluated in a similar manner.
+Flammable fluid tanks should be Fireproof as required by CS-E 130(c).
+(d)
+Pass / fail criteria
+When a fire test is performed, the following acceptance criteria should be considered:
+— To maintain the ability to perform those functions intended to be provided in case of
+fire,
+— No leakage of hazardous quantities of flammable fluids, vapours or other materials,
+— No support of combustion by the constituent material of the article being tested,
+— No burn through of firewalls,
+— No other conditions which could produce Hazardous Engine Effects.
+(i)
+Functions
+The functions intended to be provided in case of fire will be determined on a case
+by case basis. For example, Engine Control Systems should not cause a Hazardous
+Engine Effect while continuing to operate but should allow or may cause a safe
+shutdown of the Engine at any time within the required exposure time period.
+A safe Engine shutdown at any time during the fire resistance test is an acceptable
+outcome for this type of component, provided the safe shutdown is maintained
+until the end of the 5 minutes test period.
+For a flammable fluid tank shutoff valve, the valve should be operable (to close) or
+should default closed, and be capable of maintaining this position without leakage
+of a hazardous quantity of flammable fluid until the end of the 15 minute test
+period.
+The above examples are included to illustrate the case by case nature of making
+this determination.
+(ii)
+Leakage of flammable fluid
+At no time during or at the end of the test should the test article leak a hazardous
+quantity of flammable fluid.
+(iii)
+Support of combustion
+of event could be either combustion of the constituent material of the test article
+or combustion of flammable fluid leaking from the component. In general, these
+events should continue to be cause for Failure of the test, unless it can be shown
+that the constituent material supporting combustion is not a hazardous quantity
+of flammable fluid, vapour, or material as defined in this AMC.
+This has been the case for certain electronic components. Current technology
+electronic components often use circuit board potting compounds internal to the
+casings of the Engine Control System that may support combustion when heated
+sufficiently or when exposed to fire. These compounds can also flow under high
+heat and may leak through the casings. Therefore, such materials may support a
+small intensity fire internal and / or external to the casing for a limited period of
+time after the test flame is removed.
+(iv)
+Firewall
+At no time during or at the end of the test should a firewall component fail to
+contain the fire within the intended zone or area. Implied with this outcome is the
+expectation that the firewall component will not develop a burn through hole and
+will not fail in any manner at its attachment or fire seal points around the periphery
+of the component and will not continue to burn after the test flame is removed.
+There should not be backside ignition.
+(v)
+Other conditions
+At no time during or at the end of the test should a Hazardous Engine Effect result.
+(3)
+Materials
+(a)
+Experience has shown that when using materials such as magnesium and titanium alloys,
+appropriate design precautions may be required to prevent an unacceptable fire hazard.
+Consideration should be given to the possibility of fire as a result of rubbing or contact
+with hot gases.
+Any material used for abradable linings needs to be assessed to ensure that fire or
+explosion hazards are avoided. Consideration should also be given to the effects of
+mechanical Failure of any Engine component and to the effects of dimensional changes
+resulting from thermal effects within the Engine.
+(b)
+Use of Titanium
+Many titanium alloys used for manufacturing Engine rotor and stator blades will ignite
+and may sustain combustion, if the conditions are appropriate. In general, titanium fires
+burn very fast and are extremely intense. The molten particles in titanium fires generate
+highly erosive hot sprays which have burned through compressor casings with resulting
+radial expulsion of molten or incandescent metal. In such cases, depending on the
+installation, the aircraft could be hazarded.
+In showing compliance with CS-E 130(a) the applicant should assess the overall design for
+vulnerability to titanium fires. If this assessment cannot rule out the possibility of a
+sustained fire, then it should be shown that a titanium fire does not result in a Hazardous
+Engine Effect.
+Based on experience, the following precautions can reduce the susceptibility of Engines
+to titanium fires:
+— Blade / casing coatings or mechanical linings which inhibit ignition or subsequent
+combustion;
+— The way in which the design minimises potentially dangerous rubs by such methods
+as:
+— Large inter blade row clearances;
+— The use of appropriate abradable materials in areas of potential rub of
+sufficient depth to accommodate predicted rotor or stator deflections
+including those likely to occur in Fault conditions;
+— Not using titanium for adjacent rotating and static parts;
+— Taking full account of rotor movements under transient and bearing Failure
+conditions;
+— Ensuring that thin, easily ignited titanium sections are unlikely to be shed at
+the front of the Engine.
+(c)
+Use of Magnesium
+Many magnesium alloys used in the manufacture of Engine components are highly
+combustible when in finely divided form, such as chips or powder. Therefore the use of
+magnesium alloys in thin sections or where they are exposed to corrosion, rubbing or
+high scrubbing speeds should be carefully evaluated.
+In showing compliance with CS-E 130, the applicant should assess the overall design for
+vulnerability to magnesium fires. If this assessment cannot rule out the possibility of a
+sustained fire, then it should be shown that a magnesium fire would be confined to areas
+within the Engine such that it does not result in a Hazardous Engine Effect.
+(d)
+Abradable Linings
+Many fan, compressor and turbine modules have abradable linings between rotating
+blade tips and stator casings. Depending upon the material used in the abradable lining,
+experience has shown that fire or explosion can occur in the presence of an ignition
+source if a significant amount of lining is removed during rubs between rotor and stator.
+Under certain conditions, auto-ignition can occur in the mixture of small particles
+extracted from the abradable linings and hot flow path gases.
+These situations should be evaluated for each fan, compressor and turbine stage which
+has an abradable lining.
+(e)
+Absorbent Materials
+Absorbent materials should not be used in close proximity to flammable fluid system
+components unless they are treated or covered to prevent the absorption of a hazardous
+quantity of such fluid.
+(4)
+Specific interpretations
+(a)
+Test equipment and calibration
+Acceptable procedures for calibration of the relevant burners for the tests, and the
+standard flame, are defined in the ISO 2685 standard.
+A pre test calibration to verify that the standard flame temperature and heat flux is
+achieved is necessary for each test. To ensure that flame conditions are constant
+throughout the test or a post-test calibration should be performed to show equivalency
+with pre-test values.
+(b)
+Flame impingement location
+The test flame generally should be applied to the test article feature(s) that is determined
+by analysis or test to be the most critical with respect to surviving the effects of the fire.
+For this approach, determination of the flame impingement location(s) should consider,
+as a minimum, the following potential factors: materials; geometry; part features; local
+torching effects; vibration; internal fluid level, pressure and flow rate; surface coatings;
+fire protection features; etc.
+Alternatively, the applicant may consider all potential sources of fire in the intended
+installation when determining test flame impingement location specifications.
+The intent is to identify locations or features which cannot be directly impinged by fire,
+and evaluating critical features which can be directly impinged. If the applicant chooses
+this installation analysis approach, it should be based on the actual intended installation,
+and should consider, as a minimum, the factors noted above, plus the following potential
+installation specific factors: cowling and nacelle structure; under cowl airflow; aircraft
+Engine build up hardware; etc.
+Such installation analyses should avoid simple generalities, such as “the most likely flame
+direction is vertical assuming fuel collects at the bottom of the cowl,” and should be co-
+ordinated with the installer. If this approach is utilised, each new installation will need to
+be re-evaluated against the original fire protection substantiation to confirm its
+applicability to the new installation. Lastly, due consideration should be given to fire
+protection features such as fire shields, fire protective coatings or other methods so as
+not to discourage or invalidate their use with respect to compliance with CS-E 130.
+(c)
+Operating parameters for test articles
+The operating characteristics and parameters of the test article should be consistent, but
+conservative, with respect to the conditions which might occur during an actual fire
+situation. For example, where a high internal fluid flow increases the heat sink effect, and
+is less conservative with respect to fire susceptibility, a minimum flow condition should
+be specified for the test. The same is true for examples relating to internal fluid
+temperatures or quantity or other parameters.
+(d)
+Electrical Systems components
+For compliance with CS-E 130(e), the effects of fire on components of the electrical
+system should be evaluated. Electrical cables, connectors, terminals and equipment,
+installed in or on the Engine, in designated fire zones should be at least fire resistant.
+(5)
+Flammable fluid tank fire test
+In the absence of an acceptable installation assessment, the fire test flame should be applied to
+the tank location(s) or feature(s) that has been determined by analysis or test to be the most
+critical with respect to fire susceptibility (i.e. the location or feature least likely to survive the
+test conditions or meet the test pass / fail criteria).
+In selecting the flame application location, the tank installation and all features of the tank
+assembly should be considered. Typical tank features include, but are not limited to tank body,
+inlet and outlet assemblies, sight glass, drain plug, magnetic chip detector, quantity sender
+and air/fluid separator assembly. Tanks can be designed and manufactured with any
+combination of the above features, or other features not listed, and of varying materials.
+Therefore, in some instances, compliance with CS-E 130 may need to be supported by data from
+other fire tests, multiple location testing, sub component level tests, or service experience, to
+cover all tank assembly features.
+Also, other aspects of determining impingement location should be considered, such as vent
+system performance (experience has shown that oil tank fire tests have failed due to high
+internal pressure and inadequate venting), the lack of heat sink effect for tank features at or
+above the operating level of the tanks fluid contents and the effect of any special protective
+features (shields, coatings, feature placement, etc.) incorporated into the design.
+With respect to fluid quantity, the tank quantity at the start of the test should be no greater
+than the minimum dispatchable quantity, unless a greater quantity is more severe. Relative to
+flow rate, the first 5 minutes of the test should be conducted at the most critical operating
+condition (typically a minimum flight idle flow rate) and the subsequent 10 minutes should be
+conducted at an Engine shutdown flow rate with consideration of the effect of any continued
+rotation. The test may be run, at the applicant’s option, for 15 minutes at the most critical
+condition (worst case of Engine operating or in flight shutdown conditions).
+With respect to fluid temperature, this should be at its maximum value (the greatest of steady
+state or transient limit) at the start of the test, unless a lower temperature is more severe. The
+tank internal pressure should be the normal working pressure for the operating conditions at
+the start of the test. It is understood that these values may change due to the test conditions.
+The tank design and its intended application should be reviewed to provide reasonable
+assurance that the test set-up reflects the most critical flame impingement orientation and
+operating conditions for the intended application.
+(6)
+Drain and Vent Systems
+CS-E 130(b) allows certain parts to be exempt from the specifications because they do not
+typically contain or convey flammable fluids during normal Engine operation. This refers to
+normal operation in a typical flight mission. It is not intended to impose a fire resistance
+demonstration for all parts of the Engine which might contain, convey or be wetted by
+flammable fluids in all possible Failure scenarios.
+An example of parts which might be exempted is a combustor drain system which typically
+drains off residual fuel after an aborted Engine start. This might also be the case of the majority
+of individual drains and vents.
+However, a shrouded fuel line is considered as being a single assembly which cannot be
+dissociated into the main fuel line and its envelop (acting as a drain in case of a Failure in the
+main fuel line) and should comply with CS-E 130 as a component carrying flammable fluid. In
+this particular case, after the exposure to the flame, the external envelope may be destroyed
+provided the general pass / fail criteria described in paragraph (2)(d) of this AMC are complied
+with.
+In the case of a drain and vent system which would flow a hazardous quantity of flammable
+fluid during continued rotation after shut down of the Engine, then a fireproof standard may be
+appropriate. The function of each drain or vent should be carefully reviewed in making these
+determinations
+(7)
+Air Sources
+conveying bleed air and evaluate whether Failure of such components could further increase
+the severity or duration of a fire within a fire zone.
+(8)
+Firewall
+The overall intent of CS-E 130(d)(2) is to provide specifications for the proper functioning of a
+firewall which are consistent with the aircraft specifications on firewalls. In no case should a
+hazardous quantity of flammable fluid or vapour pass around the firewall. Also, the firewall
+should contain the fire without resulting in a Hazardous Engine Effect.
+(9)
+Shielding
+The overall intent of CS-E 130(b) specification concerning the shielding and location of
+components is to minimise the possibility of liquid flammable fluids contacting ignition sources
+and igniting. Ignition sources include hot surfaces with temperatures at or above typical flash
+points for aviation fuels, oils, and hydraulic fluids, or any component that produces an electrical
+discharge. Compliance with this specification may be shown by installation of drainage shrouds
+around flammable fluid lines or fittings; installation of spray shields to deflect leaking fuel away
+from ignition sources, and general component location on the Engine which minimises the
+possibility of starting and supporting a fire. Therefore, the overall substantiation should show
+that leaked flammable fluid would be unlikely to impinge on an ignition source to the extent of
+starting and supporting a fire.
+[Amdt No: E/1]
+[Amdt No: E/5]
+[Amdt No: E/8]

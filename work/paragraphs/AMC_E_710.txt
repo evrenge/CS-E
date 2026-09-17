@@ -1,0 +1,35 @@
+# AMC E 710 Rotor locking tests
+# id: AMC E 710
+# subpart: E
+# pages: 136-136
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The applicant has the option to incorporate a rotor-locking device into the type design of the
+Engine in order not to have to comply with CS-E 525. Activation of the device will stop and
+prevent subsequent continued rotation of the Engine rotor(s) during flight when the Engine is
+not operating. The device is part of the Engine type design and is subject to the same test criteria
+as other components on the Engine. In addition, the rotor-locking device should satisfy the
+operational and endurance test specifications identified in CS-E 710 while the Engine is
+subjected to the environmental conditions that result in the maximum rotational torque. The
+assessment of the maximum rotational torque should consider both damaged and undamaged
+Engine rotors.
+(2)
+An Engine that is shut down and that has a rotor locking device but continues to rotate due to
+Failure of the rotor locking device might not satisfy the safety objectives of CS-E 525. Therefore
+the design of the rotor-locking device should be assessed for all possible Failure modes under
+CS-E 510. The effects of an uncommanded or inadvertent activation of the rotor-locking device
+in flight should be considered.
+(3)
+Due to the expected infrequency of using the rotor locking device, it should be designed such
+that under normal Engine operating conditions it will not deteriorate beyond serviceable limits
+to the extent that it fails to perform its intended function when activated during an Engine shut
+down (see also CS-E 510(e)).
+(4)
+The rotor-locking device should be designed in such a manner that it is possible for the flight
+crew to unlock the Engine rotor(s) in order to initiate Engine restart attempts. In the event these
+attempts are unsuccessful, the flight crew should be able to re-lock the Engine rotor(s).
+(5)
+The effects of the temperature of the induction air and external surfaces of the Engine should
+be considered where relevant to the design.
+[Amdt. No.: E/1]

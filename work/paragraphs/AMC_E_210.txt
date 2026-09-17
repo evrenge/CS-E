@@ -1,0 +1,40 @@
+# AMC E 210 Failure Analysis
+# id: AMC E 210
+# subpart: B
+# pages: 65-66
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The Failure analysis would normally include investigation of those Engine components that
+could affect the functioning and integrity of the major rotating assemblies, and for the control
+system, all manual and automatic controls such as refrigerant injection system, Engine and fuel
+system speed governors, Engine over-speed limiters, Propeller control systems, Propeller thrust
+reversal systems, etc., as applicable.
+(2)
+Unless the effects can be shown to be adequately mitigated in the assumed installation, and
+appropriate assumptions are detailed in the Engine instructions for installation (as required
+under CS-E 30), the Failure effects considered to lead to unsafe Engine conditions beyond the
+normal control of the flight crew should include, but not necessarily be limited to, the following
+ones:
+non-containment of high-energy debris,
+—
+uncontrolled fire,
+—
+Failure of the Engine mount system leading to inadvertent Engine separation,
+—
+release of the Propeller by the Engine,
+—
+significant thrust in the opposite direction to that commanded by the pilot (e.g.
+—
+unintended movement of the Propeller blades below the established minimum in-flight
+low-pitch position),
+complete inability to shut the Engine down.
+—
+(3)
+The analysis should take into account the effects of Failures of components that are part of the
+Engine type design on components that are not part of the Engine type design, and vice versa.
+(4)
+The Failure of individual components of the Engine and its installation need not be included in
+the analysis if the Agency accepts that the possibility of such Failure is sufficiently remote.
+[Amdt. No.: E/1]
+[Amdt. No.: E/7]

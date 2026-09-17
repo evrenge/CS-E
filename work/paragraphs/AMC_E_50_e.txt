@@ -1,0 +1,17 @@
+# AMC E 50(e) Rotor integrity
+# id: AMC E 50(e)
+# subpart: A
+# pages: 37-37
+# source: CS-E_Amendment_8.pdf
+
+The Engine control devices, systems and instruments referred to in CS-E 50(e) are usually provided in
+modern engines by over-speed protection and/or circuits which although they may be provided as
+independent devices are generally provided as part of the electronic Engine Control System. One
+acceptable method for showing compliance with the specification for "reasonable assurance" of
+providing functionality of the protection systems or circuits is to have them periodically tested by built-
+in test equipment (BITE) or a functional test.
+In case of the over-speed protection system, the BITE test should provide complete test of the
+electrical/electronic part of the protection system. The need for inspections or tests of the mechanical
+or actuating part of the protection system should be based on the results of the safety analysis for this
+part.
+[Amdt. No.: E/1]

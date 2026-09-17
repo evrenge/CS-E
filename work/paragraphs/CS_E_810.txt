@@ -1,0 +1,39 @@
+# CS-E 810 Compressor and Turbine Blade Failure
+# id: CS-E 810
+# subpart: E
+# pages: 226-226
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 810)
+(a)
+It must be demonstrated that any single compressor or turbine blade will be radially contained
+by the Engine after Failure and that the blade Failure will not lead to a Hazardous Engine Effect
+as a result of other damage before Engine shutdown at a rate in excess of that defined as
+Extremely Remote.
+(b)
+Where, in the Failure analysis of CS-E 510, reliance is placed on the shedding of turbine blades
+in order to protect the rotating system in over-speed conditions, tests must be made to
+demonstrate that –
+(1)
+The shedding will occur at a speed which provides a reasonable margin –
+(i)
+Above the maximum Engine speed to be approved (including the Maximum Engine
+Overspeed) and
+(ii)
+Below the minimum rotor burst speed.
+(2)
+No Hazardous Engine Effect is likely to arise as a consequence of the blades shedding.
+(c)
+In addition, for composite fan blades where the release of the fan blade is considered to be in
+the Engine flow path:
+(1)
+it must be substantiated that, during the service life of the Engine, the total probability
+of the occurrence of a Hazardous Engine Effect defined in CS-E 510 due to an individual
+blade retention system Failure from all possible causes will be Extremely Improbable,
+with a calculated probability of Failure of less than 10 –9 per Engine flight hour;
+(2)
+it must be substantiated by test or analysis that a lightning strike to the composite fan
+blade structure will not prevent the continued safe operation of the affected Engine.
+[Amdt No: E/1]
+[Amdt No: E/5]
+[Amdt No: E/7]

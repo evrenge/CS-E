@@ -1,0 +1,326 @@
+# AMC E 80 Equipment
+# id: AMC E 80
+# subpart: A
+# pages: 44-50
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The need for additional specifications in the equipment specifications should be determined
+when complying with CS-E 80 or be defined by the applicant on a general basis, for example, to
+cover more than one aircraft installation.
+Consideration of general conditions, such as those of EUROCAE ED-14 / RTCA/DO-160, allows
+the certification of equipment in a consistent manner, independent from any installation
+consideration. However, additional testing may be required in order to comply with CS-E 80(b),
+dependent on the assumed installation conditions. All equipment, including all electronic units,
+sensors, harnesses, hydromechanical elements, and any other relevant elements or units,
+should be shown to operate properly in their declared environment.
+(2)
+The manufacturer should consider the applicability of the items listed in the Tables 1 to 4 below,
+which are provided as a guide.
+Documents that provide acceptable test procedures for each item are referenced in the same
+table. The manufacturer may define other acceptable appropriate test and analysis procedures.
+Compliance is normally demonstrated by test or analysis unless the equipment is shown to be
+sufficiently similar to and operates in an environment which is the same or less severe than
+previously certified equipment for which similarity is claimed.
+The intent and applicability of each item of Tables 1 to 4 are also specified after each table.
+The following list of applicable tests or procedures (or their equivalent) is acceptable for
+evaluating equipment airworthiness.
+(a)
+General Environmental Conditions
+The following environmental conditions should be considered for all equipment.
+Table 1
+1
+EUROCAE ED-14 / RTCA/DO-160,
+High Temperature
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.5
+2
+EUROCAE ED-14 / RTCA/DO-160,
+Low Temperature
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.7
+3
+EUROCAE ED-14 / RTCA/DO-160,
+Room Temperature
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.6
+4
+As a reminder.
+Contaminated Fluids
+See relevant CS-E specifications for fuel/oil/air
+specifications
+or
+Mil-E-5007 paragraph 3.7.3.3.2 Table X
+(fuel test only)
+5
+EUROCAE ED-14 / RTCA/DO-160,
+Vibration
+Section 8
+6
+EUROCAE ED-14 / RTCA/DO-160,
+Operational shock and crash safety
+Sections 7.2 and 7.3.1
+7
+EUROCAE ED-14 / RTCA/DO-160, Section 12,
+Sand and Dust
+Category D or MIL-STD-810
+8
+EUROCAE ED-14 / RTCA/DO-160,
+Fluid Susceptibility
+Section 11, Category F
+9
+EUROCAE ED-14 / RTCA/DO-160,
+Salt Spray
+Section 14, Category S or MIL-STD-810
+10
+As a reminder. See CS-E 560 (e)
+Fuel System Icing
+11
+As a reminder. See CS-E 230 & CS-E 780
+Induction Icing
+12
+EUROCAE ED-14 / RTCA/DO-160,
+Fungus
+Section 13, Category F
+13
+EUROCAE ED-14 / RTCA/DO-160,
+Temperature and altitude
+Section 4
+High Temperature
+The high temperature demonstration is to verify that the equipment can function
+properly in its maximum temperature environment and to identify any damage caused
+by exposure to maximum temperature that could lead to equipment Failure. Maximum
+conditions should take into account ambient, external and internal fluid temperatures to
+which the equipment is exposed. Historical specifications can be found in MIL-E-5007
+Paragraph 4.6.2.2.5. EUROCAE ED-14 /RTCA/DO160 Section 4 tests have been used to
+show compliance.
+Low Temperature
+The low temperature demonstration is to verify that the equipment can function properly
+in its minimum temperature environment and identify any damage caused by exposure
+to minimum temperature that could lead to equipment Failure. Minimum conditions
+should take into account ambient, external and internal fluid temperatures to which the
+equipment is exposed. Historical specifications can be found in MIL-E-5007 Paragraph
+4.6.2.2.7. EUROCAE ED-14 /RTCA/DO160 Section 4 tests have been used to show
+compliance.
+Room Temperature
+operation at room temperature that could lead to equipment Failure. EUROCAE ED-14 /
+RTCA/DO-160, section 4 tests have been used to show compliance. Historical
+specifications can also be found in MIL-E-5007 Paragraph 4.6.2.2.6. This test may be
+combined with the contaminated fluid tests, if applicable.
+Contaminated Fluids
+The contaminated fluid demonstration is to verify that the Engine systems can function
+properly in a contaminated fluid environment. This can be achieved either by system
+testing or individual item of equipment test/analysis. Refer to the applicable CS-E
+specifications, such as CS-E 560 for fuel, CS-E 570 for oil and CS-E 580(a) for air for more
+details. Testing may be combined with the room temperature demonstration.
+Vibration
+The vibration demonstration is to verify that exposure to the declared vibration
+environment does not cause structural Failures and to verify that the equipment
+functions properly when exposed to that vibration. This can be addressed by either a
+specific unbalanced Engine test or by equipment test. The equipment may not be
+required to be operational during equipment testing if the applicant can demonstrate by
+other means that the equipment operate satisfactorily or do not adversely impact system
+operation when subjected to the declared vibration environment. EUROCAE ED-14 /
+RTCA/DO-160, Section 8 tests are appropriate if the equipment vibration environment
+can be correlated to the DO-160 standards.
+Operational shock and crash safety
+The operational shock demonstration is to verify that exposure to shocks experienced
+during normal aircraft operations will allow the equipment to continue to function
+properly. The crash safety demonstration is to verify that exposure to shocks experienced
+in crash conditions will not cause Failure of the mounting attachment. This demonstration
+applies to cases where separation of the equipment could lead to a Hazardous Engine
+Effect. EUROCAE ED-14 / RTCA/DO-160, Section 7 2 and 7.3.1 tests respectively are
+appropriate.
+Sand and Dust
+The sand and dust demonstration is applicable to all equipment that is not
+environmentally sealed. Testing should be performed according to EUROCAE ED-14 /
+RTCA/DO-160 section 12, category D.
+Fluid Susceptibility
+The fluid susceptibility demonstration is to verify that the equipment can function
+properly after exposure to specified fluids and identify any damage caused by such
+exposure that could lead to equipment Failure. Normally the fluids to be considered are
+those likely to be encountered in service, such as fuel, oil, hydraulic fluids, cleaning
+solvents, etc. Equipment testing may follow the procedures defined in EUROCAE ED-14 /
+RTCA/DO-160 section 11, category F, paragraph 11.4.1 (Spray Test). At the conclusion of
+the test, if the design of the unit allows, the unit under test should be opened and
+inspected for entry of the test fluid. If evidence of fluid entry is detected, the applicant
+should provide the rationale for accepting the test results based on the criticality of the
+quantity and location of the fluid entry point.
+Salt Spray
+a salt spray environment. For environmentally sealed equipment, the specification may
+be substantiated by an analysis that shows that the equipment external materials are
+immune to a salt spray environment.
+Testing may be performed according to EUROCAE ED-14 / RTCA/DO-160 sections 14,
+category S.
+Fuel System Icing
+Fuel system equipment normally substantiate their capability to operate in icing
+environment through system test or analysis.
+Induction Icing
+Equipment exposed to Engine gas path or bleed system icing normally substantiate their
+capability to operate in icing environment through an Engine test or analysis.
+Fungus
+The fungus demonstration is substantiated by test or an analysis which shows that no
+materials which support the growth of fungus are used in the equipment. Testing may be
+performed as defined in EUROCAE ED-14 / RTCA/DO-160, section 13, category F (Fungus
+Resistance).
+Temperature and Altitude
+The purpose is to verify by test or an analysis that the equipment operates per design
+intent throughout the Engine flight envelope. Testing may be performed as defined in
+EUROCAE ED-14 / RTCA/DO-160, section 4.
+(b)
+General Environmental Conditions for Electrical /Electronic Equipment.
+The following environmental conditions should be considered for all electrical / electronic
+equipment or equipment with electrical / electronic sub-components. Additional
+advisory material on EMI, HIRF and lightning strikes may be found in AMC 20-1 and
+AMC 20-3.
+Table 2
+ACCEPTABLE TESTS/PROCEDURES
+ENVIRONMENTAL
+Electrical
+CONDITIONS
+General
+14
+EUROCAE ED-14 /RTCA/DO-160,
+Thermal Cycle
+Section 5
+15
+EUROCAE ED-14 / RTCA/DO-160,
+Explosion Proofness
+Section 9
+16
+EUROCAE ED-14 / RTCA/DO-160,
+Humidity
+Section 6 or
+MIL-STD-810
+17
+EUROCAE ED-14 / RTCA/DO-160,
+Waterproofness
+Section 10 or
+MIL-STD-810 (RAIN)
+18
+EMI, HIRF & lightning
+See AMC 20-1 and AMC 20-3
+19
+EUROCAE ED-14 / RTCA/DO-160, Section 16 and
+Power Input
+17 or MIL-STD-704
+Thermal Cycle
+continue to operate and not fail or be damaged when exposed to temperature cycles and
+thermal transients consistent with the declared temperature environment. Equipment
+testing may follow the procedures defined in EUROCAE ED-14 /RTCA/DO-160, Section 5.
+If the equipment has electrical sub-components, testing of the sub-components only may
+be acceptable.
+Explosion Proofness
+The explosion proof demonstration is to verify that an item of equipment cannot cause
+an explosion of flammable fluids or vapours. If applicable, explosion proof testing may be
+performed as defined in EUROCAE ED-14 / RTCA/DO-160, section 9 (Explosion Proofness).
+Environment I defines equipment mounted in fuel tanks or within fuel systems.
+Environment II is an atmosphere in which flammable mixtures can be expected to occur
+as the result of a "Fault causing spillage or leakage".
+For installations in a Fire zone, the Fire zone will have extinguishing provisions, so that
+the explosion proof test given by Environment II of DO-160D, section 9 is adequate.
+However, Flammable Fluid Leakage areas may not have fire extinguishing provisions or
+any of the other safety specifications associated with Fire zones based on the assumption
+that there are no ignition sources in these areas. In these cases the explosion proof test
+given by Environment I of DO-160D, section 9 may be required for aircraft installation.
+Humidity
+The humidity demonstration is to demonstrate that the equipment is not adversely
+effected, operationally or structurally, by ingress of moisture. Testing may be performed
+according to EUROCAE ED-14 / RTCA/DO-160 section 6.
+Waterproofness
+The waterproofness demonstration is to verify that the equipment can function properly
+after exposure to water and identify any damage caused by water exposure that could
+lead to equipment Failure. Water testing may be performed according to EUROCAE ED-
+14 / RTCA/DO-160 section 10 Category S. Following the test, if the design of the unit
+allows, the unit under test should be opened and inspected for entry of water. If evidence
+of water entry is detected, the applicant should provide the rationale for accepting the
+test results based on the criticality of the quantity and location of the water entry point.
+Power Input
+The power input demonstration applies only to electrical/electronic equipment or
+equipment with electrical/electronic sub-components that receive power directly from
+the aircraft (e.g., EEC, HMU fuel shutoff solenoid). The purpose of this test is to
+demonstrate that such equipment can accommodate the full range of power inputs
+declared for the installation. For applicable equipment, the specification may be
+substantiated by the test defined in EUROCAE ED-14 / RTCA/DO-160, section 16 and 17.
+(c)
+Mechanical Equipment
+Other specifications of CS-E may affect some equipment as follows.
+Table 3
+ACCEPTABLE TESTS/PROCEDURES
+SUBJECT
+20
+CS-E 640(a)(1)
+Proof Pressure
+21
+Burst Pressure
+CS-E 640(a)(2)
+23
+CS-E 130 (note: the Engine Control System should
+Fire
+also comply with CS-E 130(e))
+The related AMC E 130 and AMC E 640 are therefore relevant.
+(d)
+Specialised Equipment Testing
+Table 4
+ACCEPTABLE TESTS/PROCEDURE
+SUBJECT
+24
+AMC 20-1 and AMC 20-3
+Overheat for Engine electronic
+control systems
+Overheat
+The purpose of this test or analysis is to verify that the electrical/electronic portions of
+the Engine Control System, when subjected to an overheat condition leading to Failure,
+will not cause a hazardous Engine effect. See also AMC 20-1 and AMC 20-3. If an overheat
+test/analysis is not completed, this should be declared as an installation limitation in the
+Engine instructions for installation and the possibility of an overheat should be addressed
+at aircraft certification.
+(3)
+The provision of a weak link in the drive or the specification of a weak link in the equipment will
+normally be an acceptable means of limiting excessive torque. However for some equipment
+which might be included under CS-E 20(c) (e.g. a high output electrical generator) a weak link
+might not provide an adequate safeguard against damage to the Engine from overheating and
+break-up of the equipment. In such a case other means of disconnect would need to be provided
+or specified in order to permit disengagement of the equipment with the Engine running.
+(4)
+Equipment with high-energy rotors. Compliance with the specifications of CS-E 80(d) can be
+demonstrated by reference to the four containment categories in Table 5 relating to a turbine-
+starter having air or gas supplied from an external source and specifies the specifications
+appropriate to each category. Other equipment will be considered on a similar basis, using the
+Fault analysis of the whole system to determine the critical speeds which may result from
+Failures.
+Table 5
+CONTAINMENT CATEGORY DEMONSTRATED
+SECTION SPECIFICATIONS APPLICABLE (see Table 6)
+1. Blade containment only
+a, b, c, d and e
+2. Tri-hub burst within the normal operating
+a, b, c (a reduction of the fatigue scatter factor may
+be permissible), d and e
+speed (i.e. at the highest permitted speed
+without Failure of the system but including
+maximum governor over-swing)
+3. Tri-hub burst at the maximum "no load"
+a and b
+speed, under all Fault or combination of
+Fault conditions (including those affecting
+fluid supply) other than Extremely Remote
+Fault conditions
+4. Engine-driven case if more critical than 3.
+a only
+Hub burst containment at the maximum
+driven speed or the maximum burst speed,
+whichever is the lesser
+REFERENCE
+SPECIFICATION
+Quality control of containment means
+a
+Establishment that drive mechanism will prevent the Engine driving the starter to a
+b
+dangerous speed, unless such a probability is Extremely Remote (see CS-E 590)
+Establishment of Approved Life and quality control of rotating Engine Critical Parts
+c
+(see CS-E 515, E 70 and E 110)
+Integrity test of rotating parts (see CS-E 840)
+d
+Clearance between rotating and fixed parts (see CS-E 520(b))
+e
+[Amdt No: E/1]
+[Amdt No: E/5]

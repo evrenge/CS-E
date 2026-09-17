@@ -1,0 +1,24 @@
+# AMC E 340 Vibration Tests
+# id: AMC E 340
+# subpart: C
+# pages: 72-72
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Calculations during design of the engine
+During the design stage the applicant should make calculations to determine the vibration
+characteristics of the coupled crankshaft torsional and Propeller flexural vibrations for the
+Engine and Propeller system. For this purpose, 'admittance' lines for the Propeller should be
+provided by the Propeller manufacturer.
+The scope of these calculations should be wide enough to reveal any serious criticals within the
+operating speed range of the Engine and their relative magnitudes. These calculations form an
+essential part of the subsequent analysis and interpretation of the tests required by CS-E 340.
+(2)
+Maximum Acceptable Stress
+When considering the maximum stress in the Engine crankshaft and Propeller system the
+vibration stress at the particular Engine speed and power conditions should be added to the
+mean stress at the same speed.
+In the absence of adequate evidence to the contrary, a maximum stress shown to be safe for
+continuous use should be regarded as the maximum safe stress for Engine crankshafts and
+Propeller shafts.
+[Amdt. No.: E/1]

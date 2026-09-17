@@ -1,0 +1,26 @@
+# CS-E 515 Engine Critical Parts
+# id: CS-E 515
+# subpart: D
+# pages: 91-91
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 515)
+The integrity of the Engine Critical Parts identified under CS-E 510 must be established by:
+(a)
+An Engineering Plan, the execution of which establishes and maintains that the combinations
+of loads, material properties, environmental influences and operating conditions, including the
+effects of parts influencing these parameters, are sufficiently well known or predictable, by
+validated analysis, test or service experience, to allow each Engine Critical Part to be withdrawn
+from service at an Approved Life before Hazardous Engine Effects can occur. Appropriate
+Damage Tolerance assessments must be performed to address the potential for Failure from
+material, manufacturing and service-induced anomalies within the Approved Life of the part.
+The Approved Life must be published as required in CS-E 25(b).
+(b)
+A Manufacturing Plan which identifies the specific manufacturing constraints necessary to
+consistently produce Engine Critical Parts with the Attributes required by the Engineering Plan.
+(c)
+A Service Management Plan which defines in-service processes for maintenance and repair of
+Engine Critical Parts which will maintain Attributes consistent with those required by the
+Engineering Plan. These processes must become part of the instructions for continued
+airworthiness.
+[Amdt. No.: E/1]

@@ -1,0 +1,11 @@
+# CS-E 330 Tests - General
+# id: CS-E 330
+# subpart: C
+# pages: 71-71
+# source: CS-E_Amendment_8.pdf
+
+A single Engine must be used for all the tests except that, if so desired, the vibration, calibration, and
+detonation tests may be made on Engines of the same type as the Engine used for the other tests so
+long as there is essential similarity to that Engine. The vibration tests may be made during preliminary
+development of the type provided that the design standard and power rating of the Engine used do
+not differ essentially from the prototype.

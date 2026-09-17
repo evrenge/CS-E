@@ -1,0 +1,15 @@
+# CS-E 710 Rotor Locking Tests
+# id: CS-E 710
+# subpart: E
+# pages: 136-136
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 710)
+If continued rotation is prevented by a means to lock the rotor(s), the Engine must be subjected to a
+test that includes 25 locking and unlocking operations of this means under the following conditions:
+the Engine must be shut down from rated Maximum Continuous thrust/power; the means for
+stopping and locking the rotor(s) must be operated as specified in the Engine operating instructions
+while being subjected to the maximum torque that could result from continued flight in this condition;
+and following rotor locking, the rotor(s) must be held stationary under these conditions for five
+minutes for each of the 25 operations.
+[Amdt. No.: E/1]

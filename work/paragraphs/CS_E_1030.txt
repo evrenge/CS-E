@@ -1,0 +1,42 @@
+# CS-E 1030 Time Limited Dispatch
+# id: CS-E 1030
+# subpart: F
+# pages: 253-253
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 1030)
+(a)
+If approval is sought for dispatch with Faults present in an Electronic Engine Control System
+(EECS), a time limited dispatch (TLD) analysis of the EECS must be carried out to determine the
+dispatch and maintenance intervals.
+(b)
+For each dispatchable configuration it must be shown by test or analysis that:
+(1)
+The Engine remains capable of meeting all CS-E specifications for:
+(i)
+The operability aspects covered by CS-E 500(a), CS-E 750 and CS-E 745;
+(ii)
+Re-light in flight covered by CS-E 910.
+(2)
+The ability to control the Engine within limits is maintained;
+(3)
+Protection is maintained against Hazardous Engine Effects, if provided solely by the EECS
+and shown to be necessary by the safety analyses required under CS-E 510 and CS-E 50;
+(4)
+A means is maintained to provide necessary signals to identify EECS Faults;
+(5)
+A further single Failure in the EECS will not produce a Hazardous Engine Effect;
+(6)
+The Engine continues to meet its certification specifications for external threats;
+(7)
+The proposed dispatch interval is justified.
+(c)
+The time-weighted-average of the Full-up Configuration and all allowable dispatch
+configurations with Faults, must meet the Loss of Thrust Control / Loss of Power Control
+(LOTC/LOPC) rate for the intended application(s).
+(d)
+The periods of time allowed prior to rectification of Faults must be documented in the
+appropriate manual(s).
+(e)
+Provision must be made for any no-dispatch configuration to be indicated to the flight crew.
+[Amdt No: E/1]

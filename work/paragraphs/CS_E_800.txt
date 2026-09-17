@@ -1,0 +1,388 @@
+# CS-E 800 Bird Strike and Ingestion
+# id: CS-E 800
+# subpart: E
+# pages: 212-219
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 800)
+(a)
+Objective . To demonstrate that the Engine will respond in a safe manner following specified
+encounters with birds, as part of the compliance with CS-E 540.
+The demonstration will address the ingestion of large, medium and small birds, and also the
+effect of the impact of such birds upon the front of the Engine.
+(b)
+Single large bird ingestion test . An Engine ingestion test must be carried out using a large bird
+as specified below. Alternative evidence may be acceptable as provided under CS-E 800(g)(1).
+(1)
+Test conditions.
+(i)
+The Engine operating conditions must be stabilised prior to ingestion at not less
+than 100% of the Take-off Power or Thrust at the test day ambient conditions. In
+addition, the demonstration of compliance must account for Engine operation at
+sea level take-off conditions on the hottest day that a minimum Engine can achieve
+maximum rated Take-off Power or Thrust.
+(ii)
+The bird to be used must be of a minimum mass of:-
+1.85 kg for Engine inlet throat areas of less than 1.35 m 2 unless a smaller bird
+(A)
+is determined to be a more severe demonstration;
+2.75 kg for Engine inlet throat areas of less than 3.90 m 2 but equal to or
+(B)
+greater than 1.35 m 2 ;
+3.65 kg for Engine inlet throat areas equal to or greater than 3.90 m 2 .
+(C)
+(iii)
+The bird must be aimed at the most critical exposed location on the first stage rotor
+blades.
+(iv)
+A bird speed of 200 knots for Engines to be installed on aeroplanes or the maximum
+airspeed for normal flight operations for Engines to be installed on Rotorcraft.
+(v)
+Power lever movement is not permitted within 15 seconds following the ingestion.
+(2)
+Acceptance criteria . Ingestion of this single large bird must not result in a Hazardous
+Engine Effect.
+(c)
+Large flocking bird . An engine test using a single bird must be carried out at the conditions
+specified below for Engines with an inlet throat area equal to or greater than 2.5 m 2 . Alternative
+evidence may be acceptable as provided under CS-E 800(g)(1).
+(1)
+Test conditions.
+(i)
+The Engine operating conditions must be stabilised prior to ingestion at not less
+than the mechanical rotor speed of the first exposed stage(s) that, on an ISA
+standard day, would produce 90% of the sea level static Rated Take-off Thrust.
+(ii)
+The bird speed must be 200 knots.
+(iii)
+The bird mass must be at least as defined below:
+Engine Inlet Throat Area (A) m 2
+Mass of Bird kg
+A < 2.50
+Not applicable
+1.85
+2.50 ≤ A < 3.50
+2.10
+3.50 ≤ A < 3.90
+2.50
+3.90 ≤ A
+(iv)
+The bird must be targeted on the first exposed rotating stage(s) at a blade aerofoil
+height of not less than 50%, measured at the leading edge.
+(v)
+The following test schedule must be used:
+Step 1 - Ingestion followed by 1 minute without power lever movement.
+Step 2 - 13 minutes at not less than 50% of Rated Take-off Thrust.
+Step 3 - 2 minutes at a thrust set between 30 and 35% of Rated Take-off Thrust.
+Step 4 - 1 minute at a thrust increased from that set in step 3 by between 5 and
+10% of Rated Take-off Thrust.
+Step 5 - 2 minutes at a thrust decreased from that set in step 4 by between 5
+and 10% of Rated Take-off Thrust.
+Step 6 - At least 1 minute at ground idle followed by Engine shutdown.
+Each specified step duration is the time at the defined step conditions. The power lever
+movement between each step will be 10 seconds or less in duration, except that power
+lever movement for setting theconditions of step 3 will be 30 seconds or less. Within
+step 2, power lever movements are allowed and are not limited.
+Run-on For Large Flocking Bird Rule
+(2)
+Acceptance criteria.
+The test of CS-E 800(c)(1)(v) must not cause:
+— the Engine to be unable to complete the required test schedule;
+— the Engine to be shut down before end of step 6;
+— a sustained reduction in thrust to less than 50% Rated Take-off Thrust during step 1;
+— a Hazardous Engine Effect.
+(d)
+Medium and small birds ingestion tests . Engine ingestion tests and analysis with medium- and
+small-sized birds must be carried out as specified below. Alternative evidence may be
+acceptable as provided under CS-E 800(g)(1). The small-birds test will not be required if the
+prescribed number of medium-bird(s) pass into the Engine rotor blades during the medium bird
+test.
+(1)
+Test Conditions.
+(i)
+The Engine operating conditions must be stabilised prior to ingestion at not less
+than 100% of the Take-off Power or Thrust at the test day ambient conditions. In
+addition, the demonstration of compliance must account for Engine operation at
+sea level take-off conditions on the hottest day at which a minimum Engine can
+achieve maximum rated Takeoff Power or Thrust.
+(ii)
+The critical ingestion parameters that affect power loss and damage must be
+determined by analysis or component tests or both. They must include but are not
+limited to the effects of the bird speed, the critical target location and the first
+stage rotor speed. The critical bird ingestion speed must reflect the most critical
+condition within the range of airspeeds for normal flight operations up to 450 m
+(1 500 ft) above ground level, but not less than the V 1 minimum for Engines to be
+installed on aeroplanes.
+(iii)
+Except for Rotorcraft Engines, the following test schedule must be used:
+— Perform an ingestion to simulate a flock encounter within 1 second;
+— 2 minutes without any power lever movement;
+— 3 minutes at 75% of the test conditions of CS-E 800(d)(1)(i);
+— 6 minutes at 60% of the test conditions of CS-E 800(d)(1)(i);
+— 6 minutes at 40% of the test conditions of CS-E 800(d)(1)(i);
+— 1 minute at approach idle;
+— 2 minutes at 75% of the test conditions of CS-E 800(d)(1)(i);
+— Stabilise the Engine at idle and then shut the Engine down.
+These durations are times at the defined conditions, the power lever being moved
+between each condition in less than 10 seconds.
+(iv)
+For Rotorcraft Engines, the following test schedule must be used:
+— Perform an ingestion to simulate a flock encounter within 1 second;
+— 3 minutes at 75% of the test conditions of CS-E 800(d)(1)(i);
+— 90 seconds at minimum test bed idle;
+— 30 seconds at 75% of the test conditions of CS-E 800(d)(1)(i);
+— Stabilise the Engine at idle and then shut the Engine down.
+These durations are times at the defined conditions, the power lever being moved
+between each condition in less than 10 seconds.
+(A)
+(v)
+Medium birds . The masses and quantities of birds will be determined from
+the second column of Table A. When only one bird is specified, it must be
+aimed at the Engine core primary flow path; the other critical locations on
+the Engine face area must be addressed by appropriate tests or analysis or
+both.
+When two or more birds are specified, the largest must be aimed at the
+Engine core primary flow path and a second bird must be aimed at the most
+critical exposed location on the first stage rotor blades. Any remaining birds
+must be evenly distributed over the Engine face area.
+Small birds . One 85-g bird for each 0.032 m 2 of the inlet throat area or
+(B)
+fraction thereof with a maximum of 16 birds, distributed to take account of
+any critical exposed locations on the first stage rotor blades, but otherwise
+evenly distributed over the Engine face area.
+TABLE A of CS-E 800
+Medium (flocking) birds
+Additional integrity assessment
+Engine test
+(CS-E 800(d)(1))
+(CS-E 800(d)(3))
+Engine inlet throat area (A)
+Number of birds x mass of birds
+Number x mass of birds
+m 2
+kg
+kg
+A < 0.05
+none
+none
+0.05 ≤ A < 0.10
+1 x 0.35
+none
+0.10 ≤ A < 0.20
+1x 0.45
+none
+0.20 ≤ A < 0.40
+2x 0.45
+none
+0.40 ≤ A < 0.60
+2x 0.70
+none
+0.60 ≤ A < 1.00
+3x 0.70
+none
+1.00 ≤ A < 1.35
+4x 0.70
+none
+1 x 1.15
+1 x 1.15 + 3 x 0.70
+1.35 ≤ A < 1.70
+1 x 1.15
+1 x 1.15 + 4 x 0.70
+1.70 ≤ A < 2.10
+1 x 1.15
+1 x 1.15 + 5 x 0.70
+2.10 ≤ A < 2.50
+1 x 1.15
+1 x 1.15 + 6 x 0.70
+2.50 ≤ A < 2.90
+1 x 1.15 + 6 x 0.70
+2.90 ≤ A < 3.90
+2x 1.15
+1 x 1.15 + 6 x 0.70
+3 x 1.15
+3.90 ≤ A < 4.50
+1 x 1.15 + 6 x 0.70
+4 x 1.15
+4.50 ≤ A
+(2)
+Acceptance criteria . The ingestion must not cause:
+— more than a sustained 25% power or thrust loss;
+— the Engine to be shut down during the test.
+(3)
+In addition, except for Rotorcraft Engines, it must be substantiated by appropriate tests
+or analysis or both that, when the full first stage rotor assembly is subjected to the
+quantity and mass of medium birds from the third Column of Table A fired at the most
+critical locations on the first stage rotor, the effects will not be such as to make the Engine
+incapable of complying with the acceptance criteria of CS-E 800(d)(2).
+(e)
+Core Engine flocking bird ingestion test . For turbofan Engines, an ingestion test shall be
+performed as follows:
+(1)
+A core Engine flocking bird ingestion test shall be performed with one bird, using the
+heaviest bird specified in the second column of Table A above and ingested at a bird
+speed of 250 knots, unless it is shown by test or validated analysis that no bird material
+will be ingested into the core under the conditions of this subparagraph, in which case
+subparagraphs (e)(4), (5) and (6) should be applied. Prior to the ingestion, the Engine shall
+be stabilised at the mechanical rotor speed of the first exposed stage or stages that, on a
+standard day, would produce the lowest expected power or thrust required during a
+climb through 3 000 ft above ground level in revenue service. The bird must be targeted
+on the first exposed rotating stage or stages at the blade aerofoil height measured at the
+leading edge that would maximise the bird material that is ingested into the Engine core.
+(2)
+Ingestion into the Engine core of a bird under the conditions prescribed in subparagraph
+(e)(1) shall not cause any of the following:
+(i)
+A sustained reduction in power or thrust to less than 50 % of the maximum rated
+Take-off Power or Thrust during the run-on specified under paragraph (e)(3)(iii)
+below, that cannot be restored only by movement of the power lever.
+(ii)
+A sustained reduction in power or thrust to less than flight idle power or thrust
+during the run-on segment specified under paragraph (e)(3) below.
+(iii)
+An Engine shutdown during the required run-on demonstration specified in
+paragraph (e)(3) below.
+(iv)
+The conditions specified in paragraph CS-E 800(b)(2).
+(3)
+The following test schedule shall be used:
+(i)
+Ingestion followed by 1 minute without any power lever movement.
+(ii)
+Followed by power lever movement to increase the power or thrust to not less
+than 50 % of the maximum rated Take-off Power or Thrust, if the initial bird
+ingestion resulted in a reduction in power or thrust below that level.
+(iii)
+Followed by 13 minutes at not less than 50 % of the maximum rated Take-off Power
+or Thrust.
+(iv)
+Followed by 2 minutes at between 30 and 35 % of the maximum rated Take-off
+Power or Thrust.
+(v)
+Followed by 1 minute with the power or thrust increased by between 5 and 10 %
+of the maximum rated Take-off Power or Thrust from that set in subparagraph
+(e)(3)(iv) of this paragraph.
+(vi)
+Followed by 2 minutes with the power or thrust reduced by between 5 and 10 %
+of maximum rated Take-off Power or Thrust from that set in subparagraph (e)(3)(v)
+of this paragraph.
+(vii)
+Followed by a minimum of 1 minute at ground idle, then an Engine shutdown. The
+durations specified are the times at the defined conditions.
+The power lever movement between each condition shall be 10 seconds or less in
+duration, except power lever movements that are allowed within subparagraph
+(e)(3)(iii), that are not limited, and those for setting power under subparagraph
+(e)(3)(iv), which shall be 30 seconds or less in duration.
+(4)
+If it is shown by test or analysis that no bird material will be ingested into the Engine core
+under the conditions of subparagraph (e)(1), then the core Engine ingestion test shall be
+performed with one bird, using the heaviest bird specified in the second column of Table
+A, and ingested at a bird speed of 200 knots. Prior to the ingestion, the Engine must be
+stabilised at the mechanical rotor speed of the first exposed stage or stages that is
+consistent with a minimum approach idle setting, on a standard day, at 3 000 ft above
+ground level. The bird must be targeted on the first exposed rotating stage or stages at
+the blade aerofoil height measured at the leading edge that would maximise the bird
+material being ingested into the Engine core.
+(5)
+Ingestion into the Engine core of a bird under the conditions prescribed in (e)(4) must not
+cause any of the following:
+(i)
+an Engine shutdown during the required run-on demonstration specified in
+paragraph (e)(6) below;
+(ii)
+the conditions specified in paragraph CS-E 800(b)(2).
+(6)
+The following test schedule must be used:
+(i)
+Ingestion followed by 1 minute without any power lever movement.
+(ii)
+Followed by 2 minutes at between 30 and 35 % of the maximum rated Take-off
+Power or Thrust.
+(iii)
+Followed by 1 minute with the power or thrust increased from that set in
+subparagraph (e)(6)(ii), by between 5 and 10 % of the maximum rated Take-off
+Power or Thrust.
+(iv)
+Followed by 2 minutes with the power or thrust reduced from that set in
+subparagraph (e)(6)(iii), by between 5 and 10 % of maximum rated Take-off Power
+or Thrust.
+(v)
+Followed by a minimum of 1 minute at ground idle, then an Engine shutdown. The
+durations specified are times at the defined conditions.
+The power lever movement between each condition shall be 10 seconds or less in
+duration, except power lever movements that are allowed within subparagraph
+(e)(6)(iii), that are not limited, and those for setting power under subparagraph
+(e)(6)(iv), which shall be 30 seconds or less in duration.
+(7)
+Applicants must show that no unsafe condition will result if any Engine operating limit is
+exceeded during the run-on demonstration.
+(8)
+The core Engine flocking bird ingestion test of subparagraph (e) may be combined with
+the medium flocking bird test of subparagraph (d), if the climb fan rotor speed calculated
+in subparagraph (e)(1) is within 1 % of the first stage rotor speed required by
+subparagraph (d)(1).
+(f)
+Impact. The impact against the front of the Engine of the largest medium bird required by CS-E
+800(d)(1)(v)(A) and of the large bird required by CS-E 800(b)(1)(ii) must be evaluated for
+compliance with CS-E 540 under the Engine conditions specified for the ingestion tests. The bird
+speed must be the critical bird ingestion speed for the critical locations within the range of
+airspeeds for normal flight operations up to 450 m (1 500 ft) above ground level, but not less
+than V 1 minimum for Engines to be installed on aeroplanes or higher than the speeds for the
+ingestion tests.
+The impact evaluation may be carried out separately from the ingestion evaluation; however,
+any damage resulting from the impact on the front of the Engine must be assessed in relation
+to consequential damage on the rotating blades.
+(g)
+General
+(1)
+Engine tests must be performed as required under CS-E 800(b), (c), (d) and (e) unless it is
+agreed that alternative evidence such as from Engine tests, rig tests, analysis or an
+appropriate combination of these, may come from the spplicant’s experience with
+engines of comparable size, design, construction, performance and handling
+characteristics, obtained during development, certification or operation.
+(2)
+The Engine test described in CS-E 800(b)(1), with regard to the single large bird, may be
+waived if it can be shown by test or analysis that the specifications of CS-E 810(a) are
+more severe.
+(3)
+Compliance with CS-E 800(c), in place of an Engine test, may be shown by:
+(i)
+incorporating the run-on specifications of CS-E 800(c)(1)(v) into the Engine test
+demonstration specified in CS-E 800(b)(1); or
+(ii)
+using a component test at the conditions of CS-E 800(b)(1) or (c)(1), subject to the
+following additional conditions:
+(A)
+All components that are critical to achieving the run-on criteria of CS-E 800(c)
+are included in the component test; and
+(B)
+The components tested under (A) above are subsequently installed in a
+representative Engine for a run-on demonstration in accordance with CS-E
+800(c)(1)(v), except that steps 1 and 2 of CS-E 800(c)(1)(v) are replaced by a
+unique 14-minutes step at a thrust not less than 50% of Rated Take-off
+Thrust after the Engine is started and stabilized; and
+(C)
+Dynamic effects that would have been experienced during a full Engine test
+can be shown to be negligible with respect to meeting the specifications of
+CS-E 800(c).
+(4)
+Limit exceedances may be permitted to occur during the tests of CS-E 800(c), (d) and (e).
+Any limit exceedance must be recorded and shown to be acceptable under CS-E 700.
+(5)
+For an Engine that incorporates an inlet protection device, compliance with CS-E 800
+must be established with the device functioning and the Engine approval must be
+endorsed accordingly.
+(6)
+If compliance with all of the specifications of CS-E 800 is not established, the Engine
+approval will be endorsed accordingly by restricting the Engine installations to those
+where birds cannot strike the Engine or be ingested by the Engine or adversely restrict
+the airflow into the Engine.
+(7)
+An Engine to be installed in a multi-Engine Rotorcraft does not need to comply with the
+medium- or small-bird specifications of CS-E 800(d), but the Engine approval will be
+endorsed accordingly.
+(8)
+The Engine inlet throat area, as used in CS-E 800 to determine the bird quantity and mass,
+must be established and identified as a limitation on the inlet throat area in the
+instructions for installation.
+[Amdt No: E/1]
+[Amdt No: E/5]

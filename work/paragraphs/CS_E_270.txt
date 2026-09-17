@@ -1,0 +1,33 @@
+# CS-E 270 Lubrication System
+# id: CS-E 270
+# subpart: B
+# pages: 67-68
+# source: CS-E_Amendment_8.pdf
+
+(a)
+It shall not be possible for oil to drain into the Engine when it is not running, in such quantities
+as to introduce a risk of ‘hydraulicing’ or in any way adversely to affect the mechanical reliability
+of the Engine.
+(b)
+The oil flow between the Engine lubrication system and the Propeller control system or other
+system utilising oil supplied by the Engine, shall not prevent oil pressure being maintained
+within approved limits at all operating conditions within the flight envelope, allowance being
+made for deterioration of the Engine.
+(c)
+All parts of the oil system that are not inherently capable of accepting contaminants likely to be
+present in the oil or otherwise introduced into the oil system shall be protected by suitable
+filter(s) or strainer(s). These shall provide a degree of filtration sufficient to preclude damage to
+the Engine and Engine equipment and have adequate capacity to accommodate contaminants
+in relation to the specified servicing intervals. These filters or strainers may be provided as part
+of the aircraft; in such cases, their characteristics will be specified in the instructions for
+installation
+(d)
+Adequate oil cooling shall be provided, or the required oil cooling means shall be defined in the
+instructions for installation, to ensure that temperature limits are not exceeded in any normal
+operating condition within the flight envelope.
+(e)
+Each type of oil, and brand if appropriate, must be declared and substantiated, along with any
+associated limitations.
+(f)
+Any oil characteristic which is likely to be critical for Engine functioning or durability must be
+identified. Where necessary, Engine or rig testing using appropriate oil shall be conducted.

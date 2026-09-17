@@ -1,0 +1,9 @@
+# AMC E 720(a) Continuous Ignition
+# id: AMC E 720(a)
+# subpart: E
+# pages: 137-137
+# source: CS-E_Amendment_8.pdf
+
+The necessity for a continuously-operated system may arise, for example, in consideration of water
+or slush ingestion at take-off, ice ingestion, or for compliance with the icing specifications.
+[Amdt. No.: E/1]

@@ -1,0 +1,15 @@
+# CS-E 450 Ignition Tests
+# id: CS-E 450
+# subpart: C
+# pages: 79-79
+# source: CS-E_Amendment_8.pdf
+
+For spark-ignition Engines:
+(a)
+If the design of the ignition system includes redundancy, the reduction in Engine power resulting
+from loss of redundancy shall be established. Tests shall be carried out with the Engine running
+at Take-off power setting at the beginning and at the end of each part of the endurance test of
+CS-E 440.
+(b)
+In no case shall the reduction in power during the test exceed the value declared under CS-E
+240(b)(1).

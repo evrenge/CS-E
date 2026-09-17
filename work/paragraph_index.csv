@@ -18,7 +18,7 @@ CS-E 50,Engine Control System,A,33,35,no,none,
 AMC E 50,Engine Control System,A,36,36,no,none,
 AMC E 50(e),Rotor integrity,A,37,37,no,none,
 AMC E 50(j),Controls - Engines having a 30-Second OEI Power Rating,A,37,37,no,none,
-AMC to CS-E 50(l) Information system security protection,AMC to CS-E 50(l) Information system security protection,A,38,38,no,none,
+AMC to CS-E 50(l),Information system security protection,A,38,38,no,none,
 CS-E 60,Provision for Instruments,A,38,38,no,none,
 AMC E 60,Provision for instruments,A,39,39,no,Amdt7,[Amdt7] AMC E 60 is amended as follows:
 AMC E 60(d),Provision for instruments,A,40,40,no,none,

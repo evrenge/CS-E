@@ -1,0 +1,51 @@
+# AMC E 700 Excess Operating Conditions (Turbine Engines for Aeroplanes)
+# id: AMC E 700
+# subpart: E
+# pages: 135-136
+# source: CS-E_Amendment_8.pdf
+
+Aeroplanes)
+Case at VMO ∗ ( ∗ For light aeroplanes the speed VNE is normally used)
+(1)
+The Engine should be run at the excess pressures and thrusts which would result from operation
+at VMO under the most critical ambient pressure and temperature conditions, with Maximum
+Continuous Power and/or Thrust selected.
+The duration of the test should be related to the likelihood of the conditions occurring and the
+frequency of the occurrence in respect of a representative type of aeroplane. If limitations are
+declared and provision made for the necessary instrumentation, the test conditions may be
+modified accordingly.
+On conclusion of the test, the Engine should be subjected to a strip examination and should not
+reveal features that could lead to a significant increase in the risk of Engine Failure.
+(2)
+Case at VD.
+The Engine should be run for 5 minutes (comprising five 1 minute runs or fewer longer runs of
+equal total duration) at the excess pressures and thrusts, which would result from operation at
+VD under the most critical ambient pressure and temperature conditions, with Maximum
+Continuous Power and/or Thrust selected, followed by the demonstration of ability of the
+Engine to complete a flight in which such circumstances have occurred. This latter
+demonstration may consist of running the Engine at typical cruising conditions for a period
+equal to the maximum likely flight time following such an incident on a representative type of
+aeroplane. The value should be established in consultation with the Agency.
+(3)
+Case of 'Throttle Slam'.
+The Engine should be rapidly accelerated from minimum flight idle conditions in simulation of
+throttle slam (i.e. opening the throttle as rapidly as is physically possible) and then run for two
+minutes to cover the excess conditions (e.g. rpm, pressure, thrust, temperature), which result
+from operating the Engine with the power control lever in the maximum forward position under
+the most critical ambient conditions likely to exist within the range of aerodrome altitudes for
+which performance is scheduled. If desired, the 2 minutes test may be made up of separate
+tests, each of not less than one-minute duration. At the end of the test the condition of the
+Engine should be such as to enable it to complete a flight in which such circumstances have
+occurred. This may be shown by demonstrating that the Engine will run satisfactorily at typical
+cruising conditions for a continuous period of 30 minutes (see also AMC E 500 paragraph 3).
+(4)
+When exceedence of an Engine operating limitation has occurred during the bird tests of CS-E
+800(c) or (d), it should be demonstrated in compliance with CS-E 700 that the value of the
+exceeded parameter which was reached during the testing has been adequately validated by
+other tests of CS-E or by specific additional test if needed. The maintenance actions associated
+with such exceedences for a similar in-service event should also be adequately validated and
+documented in the appropriate manuals. Compliance with CS-E 700 might include consideration
+either of a change in the finally certified limit so that the value achieved during the test would
+no longer be an exceedence, or of an approval of a transient under CS-E 820, CS-E 830 or CS-E
+870 as appropriate.
+[Amdt. No.: E/1]

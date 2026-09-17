@@ -1,0 +1,37 @@
+# CS-E 20 Engine Configuration and Interfaces
+# id: CS-E 20
+# subpart: A
+# pages: 18-19
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 20)
+(a)
+The list of all the parts and equipment, including references to the relevant drawings, which
+defines the proposed type design of the Engine, must be established.
+(b)
+The aircraft certification specification code which is assumed to be applicable to the intended
+installation of the Engine must be identified under CS-E 30.
+(c)
+The aircraft parts and equipment that may be mounted on, or driven by, the Engine, which are
+not part of the declared Engine configuration and therefore are not covered by the Engine Type
+Certificate must be identified.
+(d)
+Manuals must be provided containing instructions for installing and operating the Engine. These
+instructions must contain a definition of the physical and functional interfaces with the aircraft
+and aircraft equipment. They must also include a description of the Primary and all Alternate
+Modes, and any Back-up System, together with any associated limitations, of the Engine Control
+System and its interface with the aircraft systems, including the Propeller when applicable.
+Manuals must also include interface security requirements, when necessary.
+(e)
+Engine performance data, compatible with the Engine acceptance and operating limitations,
+must be provided for aircraft certification performance, handling and stressing purposes. The
+data must be such that the power/thrust of a ‘minimum’ and a ‘maximum’ Engine can be
+derived and must include means of determining the effects on performance of variations of
+Engine bleed and power off-take, forward speed, ambient pressure, temperature and humidity.
+(f)
+For Engines having one or more OEI Ratings, data must be provided on Engine performance
+characteristics and variability to enable the aircraft manufacturer to establish power assurance
+procedures. (See AMC E 20(f))
+[Amdt No: E/1]
+[Amdt No: E/5]
+[Amdt No: E/6]

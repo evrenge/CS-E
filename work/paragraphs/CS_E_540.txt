@@ -1,0 +1,23 @@
+# CS-E 540 Strike and Ingestion of Foreign Matter
+# id: CS-E 540
+# subpart: D
+# pages: 109-109
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 540)
+(a)
+The Engine must be designed so that the strike and ingestion of foreign matter that is likely to
+affect only one Engine in any one flight will not cause any Hazardous Engine Effects as defined
+in CS-E 510(g), except that events with a probability of occurrence lower than Extremely Remote
+need not be considered.
+(b)
+The Engine must be designed so that the strike and ingestion of foreign matter that is likely to
+affect more than one Engine in any one flight will not preclude the continued safe flight and
+landing of the aircraft as a consequence of a Hazardous Engine Effect or an unacceptable
+(1)
+Immediate or subsequent loss of performance;
+(2)
+Deterioration of Engine handling characteristics;
+(3)
+Exceedence of any Engine operating limitation.
+[Amdt. No.: E/1]

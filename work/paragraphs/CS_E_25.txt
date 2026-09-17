@@ -1,0 +1,82 @@
+# CS-E 25 Instructions for Continued Airworthiness
+# id: CS-E 25
+# subpart: A
+# pages: 21-22
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 25)
+(a)
+Manual(s) must be established containing instructions for continued airworthiness of the
+Engine. They must be updated as necessary according to changes to existing instructions or
+changes in Engine definition.
+(b)
+The instructions for continued airworthiness must contain a section titled airworthiness
+limitations that is segregated and clearly distinguishable from the rest of the document(s).
+For Engine Critical Parts, this section must also include any mandatory action or limitation for
+inservice maintenance and repair identified in the Service Management Plan required under
+CS-E 515.
+(1)
+For all Engines, the airworthiness limitations section must set forth each mandatory
+replacement time, inspection interval and related procedure required for type
+certification.
+(2)
+For Engines having 30-Second OEI and 2-Minute OEI power ratings, in addition to
+complying with CS-E 25(b)(1), the airworthiness limitations section must also prescribe
+the mandatory postflight inspections and maintenance actions associated with any use
+of either the rated 30-Second OEI or 2-Minute OEI Power. The adequacy of these
+inspections and maintenance actions must be validated and an in-service Engine
+evaluation programme must be established to assure the adequacy of the data of CS-E
+20(f) pertaining to power availability and the instructions for the mandatory post flight
+inspections and maintenance actions.
+The programme must include service Engine tests or equivalent service Engine test
+experience on Engines of similar design and/or evaluations of service usage of the 30-
+Second / 2-Minute OEI ratings.
+(c)
+The following information must be considered, as appropriate, for inclusion into the manual(s)
+required by CS-E 25(a).
+(1)
+A detailed description of the Engine and its components, systems and installations.
+(2)
+Handling instructions, including proper procedures for uncrating, de inhibiting,
+acceptance checking, lifting and attaching accessories, with any necessary checks.
+(3)
+Basic control and operating information describing how the Engine components, systems
+and installations operate. Information describing the methods of starting, running,
+testing and stopping the Engine or its components and systems including any special
+procedures and limitations that apply.
+(4)
+Servicing information that covers details regarding servicing points, capacities of tanks,
+reservoirs, types of fluids to be used, pressures applicable to the various systems,
+servicing.
+(5)
+Scheduling information for each part of the Engine that provides the recommended
+periods at which it should be cleaned, inspected, adjusted, tested and lubricated, and the
+degree of inspection, the applicable serviceability limits, and work recommended at
+these periods. Necessary crossreferences to the airworthiness limitations section must
+also be included. In addition, if appropriate, an inspection programme must be included
+that states the frequency of the inspections necessary to provide for the continued
+airworthiness of the Engine.
+(6)
+Troubleshooting information describing probable malfunctions, how to recognise those
+malfunctions and the remedial action for those malfunctions.
+(7)
+Information describing the order and method of removing the Engine and its parts and
+replacing parts, the order and method of disassembly and assembly, with any necessary
+precautions to be taken. Instructions for proper ground handling, crating and shipping
+must also be included.
+(8)
+Cleaning and inspection instructions that cover the material and apparatus to be used
+and methods and precautions to be taken. Methods of inspection must also be included.
+(9)
+Details of repair methods for worn or otherwise non-serviceable parts and components
+along with the information necessary to determine when replacement is necessary.
+Details of all relevant fits and clearances.
+(10) Instructions for testing including test equipment and instrumentation.
+(11) Instructions for storage preparation, including any storage limits.
+(12) A list of the tools and equipment necessary for maintenance and directions as to their
+method of use.
+(13) Instructions applicable to information system security protection as required by
+CS-E 50(l).
+[Amdt. No.: E/1]
+[Amdt. No.: E/6]
+[Amdt. No.: E/7]

@@ -1,0 +1,13 @@
+# CS-E 700 Excess Operating Conditions
+# id: CS-E 700
+# subpart: E
+# pages: 134-135
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 700)
+Where any of the operating conditions (e.g. air or gas pressure, thrust, gas temperature) substantiated
+elsewhere in this subpart could be exceeded in any of the normal and likely emergency conditions
+within the flight envelope declared by the Engine constructor, it must be established to the satisfaction
+of the Agency that the most severe conditions likely to occur will have no unacceptable effects on the
+Engine.
+[Amdt. No.: E/1]

@@ -1,0 +1,9 @@
+# AMC E 820(a)(2) Over-torque Test
+# id: AMC E 820(a)(2)
+# subpart: E
+# pages: 230-230
+# source: CS-E_Amendment_8.pdf
+
+In order to comply with CS-E 820(a)(2), it should be shown that an over-torque event does not
+compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.
+[Amdt No: E/1]

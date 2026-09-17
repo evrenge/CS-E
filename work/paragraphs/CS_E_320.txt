@@ -1,0 +1,15 @@
+# CS-E 320 Performance Correction
+# id: CS-E 320
+# subpart: C
+# pages: 70-70
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 320)
+(a)
+All performance results shall be corrected to the conditions of the Standard Atmosphere, in
+accordance with an internationally recognised method.
+(b)
+Where Engine power is affected by cylinder temperature or coolant temperature the
+performance results shall be corrected to the minimum engine power within the range of
+temperatures to be approved for use.
+[Amdt. No.: E/1]

@@ -1,0 +1,17 @@
+# CS-E 500 Functioning
+# id: CS-E 500
+# subpart: D
+# pages: 81-81
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 500)
+(a)
+The Engine must be free from dangerous surge and instability throughout its operating range
+of ambient and running conditions within the air intake pressure and temperature conditions
+declared by the constructor.
+(b)
+[Reserved]
+(c)
+All Engines must be equipped with an igniter system suitable for starting the Engine on the
+ground and in flight at all altitudes up to a declared altitude.
+[Amdt. No.: E/1]

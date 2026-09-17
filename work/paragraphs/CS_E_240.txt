@@ -1,0 +1,41 @@
+# CS-E 240 Ignition
+# id: CS-E 240
+# subpart: B
+# pages: 66-66
+# source: CS-E_Amendment_8.pdf
+
+(a)
+All spark-ignition Engines shall comply with the following:
+(1)
+The Engine shall be equipped either with: -
+(i)
+a dual ignition system that has entirely independent magnetic and electrical
+circuits, including spark plugs; or
+(ii)
+an ignition system which will function with at least the equivalent reliability.
+(2)
+If the design of the ignition system includes redundancy: -
+(i)
+the maximum power reduction resulting from a loss of redundancy shall be
+declared in the appropriate manual(s);
+ii)
+provision shall be made to establish the serviceability of the ignition system; the
+associated procedures and required inspection intervals shall be specified in the
+appropriate manual(s).
+(b)
+All self-ignition Piston Engines shall comply with the following:
+(1)
+The Engine design and operating procedure must provide a continued ignition capability
+under the intended operating conditions established in compliance with CS-E 40(d). This
+must be substantiated, considering the fuel with the limiting ignition delay time or cetane
+number, by conducting appropriate tests or by providing other evidence. The ignition
+delay time or the cetane number of the fuel considered for the demonstration will be
+recorded in the Engine type certificate data sheet.
+(2)
+The Engine constructor must recommend an envelope of conditions for relighting in
+flight, and must substantiate it by conducting appropriate tests or by providing other
+evidence. The recommendation must state all of the conditions that are applicable, e.g.
+the altitude, airspeed, windmilling rotational speed, whether starter assistance is
+required, and the recommended drill. The possible effects of a low ambient temperature
+on the relight capability must be included in the development of the recommendation.
+[Amdt No: E/5]

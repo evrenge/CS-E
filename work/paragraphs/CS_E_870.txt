@@ -1,0 +1,27 @@
+# CS-E 870 Exhaust Gas Over-temperature Test
+# id: CS-E 870
+# subpart: E
+# pages: 239-240
+# source: CS-E_Amendment_8.pdf
+
+(a)
+General
+(1)
+Where the Applicant wishes to establish a Maximum Exhaust Gas Over-temperature limit
+compliance must be shown with this paragraph CS-E 870.
+(2)
+The test may be run, if desired, as part of the endurance test of CS-E 740. Alternatively,
+test evidence may be provided from an Engine of the same type.
+(3)
+On conclusion of the tests, the stripped condition of the Engine must be satisfactory for
+continued running. (See AMC E 870(a)(3))
+(b)
+Test Conditions
+(1)
+A 15-minute period at Maximum Exhaust Gas Over-temperature must be run with each
+spool of the Engine which could be significant to the test, at the maximum speed to be
+approved (excluding the Maximum Engine Over-speed (20 Second)).
+(2)
+Where desired, the test may be made up of separate runs giving a total time of
+15 minutes, the time of each individual run being no less than 2½-minutes.
+[Amdt No: E/1]

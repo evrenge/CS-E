@@ -1,0 +1,94 @@
+# CS-E 570 Oil System
+# id: CS-E 570
+# subpart: D
+# pages: 112-114
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 570)
+(1)
+(a)
+The design of the oil system must be such as to ensure its proper functioning under all
+intended flight attitudes, installation, atmospheric and operating conditions, including oil
+temperature and expansion factors.
+(2)
+There must be design precautions -
+(i)
+To minimise the possibility of incorrect fitment of the closing device of the oil filling
+point or any other access point, or to preclude fluid loss in the event of incorrect
+fitment, and
+(ii)
+To prevent entrance into the oil tank or into any oil tank outlet of any object that
+might obstruct the flow of oil through the system,
+(3)
+Tank filler caps must be designed to provide an oil tight seal and designed so that they
+will not loosen in flight and must be marked with the word ‘oil’.
+(4)
+Provision must be made near each oil pressure connection provided for instrumentation
+so as to limit the loss of fluid in the event of a pipe Failure.
+(1)
+(b)
+All parts of the oil system that are not inherently capable of accepting contaminants likely
+to be present in the oil or otherwise introduced into the oil system must be protected by
+suitable filter(s) or strainer(s). These must provide a degree of filtration sufficient to
+preclude damage to the Engine and Engine equipment and have adequate capacity to
+accommodate contaminants in relation to the specified servicing intervals.
+(2)
+If the most critical main oil filter does not incorporate a by-pass, then it must have
+provision for appropriate indication to the flight crew of impending blockage.
+(c)
+Each filter or strainer that has a by-pass must be constructed and installed so that, if the filter
+or strainer element is completely blocked, the oil will flow through the rest of the system at a
+rate which is within the normal operating range of the system. In addition:
+(1)
+The design of any by-pass must be such that, when the by-pass is in operation, previously
+collected contaminants in the filter or strainer will not enter the Engine oil system
+downstream of the filter or strainer.
+(2)
+Indication of by-pass operation must be provided to permit appropriate maintenance
+action to be initiated. This indication need not be provided if the maintenance
+instructions require the same action to be taken following an impending blockage
+indication of the most critical main oil filter.
+(d)
+The oil system, including the oil tank expansion space, must be adequately vented. All
+atmospheric vents in the oil system must be located, or protected, to minimise ingress of foreign
+matter that could affect satisfactory Engine functioning. Venting must be so arranged that
+condensed water vapour which might freeze and obstruct the line cannot accumulate at any
+point.
+(1)
+(e)
+Except where the tank, its supports and all oil system components external to the Engine
+casing are Fireproof, a means must be provided to shut off the oil supply to the Engine.
+The means must be such that in the event of Failure of any oil system pipe, it will, when
+operated, prevent the discharge of hazardous quantities of oil.
+(2)
+When applicable, operation of the shut-off means must not prevent the utilisation of any
+oil supply intended for the Propeller feathering operation.
+(1)
+(f)
+Each un-pressurised oil tank must not leak when subjected to the maximum operating
+temperature and a differential pressure of 35 kPa.
+(2)
+Each oil tank must have, or have provision for, an oil quantity indicator.
+(3)
+If a Propeller feathering system depends on Engine oil,
+(i)
+There must be means to trap an amount of oil in the tank if the supply becomes
+depleted due to Failure of any part of the lubricating system other than the tank
+itself. The amount of trapped oil must be enough to accomplish one feathering
+operation taking into account deterioration in service, and must be available only
+to the feathering pump.
+(ii)
+Provision must be made to prevent sludge or foreign matter from entering the
+Propeller feathering system.
+(iii)
+The design of the Engine oil system must be such that it is possible to complete the
+feathering and unfeathering operation under all normal operating conditions.
+(1)
+(g)
+Each brand and type of oil to be approved, and the associated limitations, must be
+declared and substantiated.
+(2)
+Any parameter of the oil specification which is likely to be critical for Engine functioning
+or durability must be identified so that, where necessary, Engine or rig testing using
+appropriate oil may be conducted.
+[Amdt. No.: E/1]

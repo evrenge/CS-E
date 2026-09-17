@@ -1,0 +1,16 @@
+# AMC E 520(d) Strength – Local Failures
+# id: AMC E 520(d)
+# subpart: D
+# pages: 108-108
+# source: CS-E_Amendment_8.pdf
+
+Local Failures of the Engine casing may include localised cracking. For any casing design that allows for
+residual crack growth:
+(a)
+it should be demonstrated that the condition of the casing, including the maximum predicted
+crack size, will not lead to a Hazardous Engine Effect;
+(b)
+if the Failure of the casing, for instance as the result of ultimate crack growth, could result in a
+Hazardous Engine Effect, then the part should be classified as a Critical Part in accordance with
+CS-E 510(a)(2) and be in compliance with the Integrity Specifications of CS-E 515.
+[Amdt No: E/5]

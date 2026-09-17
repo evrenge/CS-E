@@ -1,0 +1,10 @@
+# AMC E 380 Low Temperature Starting Tests
+# id: AMC E 380
+# subpart: C
+# pages: 74-74
+# source: CS-E_Amendment_8.pdf
+
+The minimum tropical and temperate sea-level temperature as defined in CS-Definitions is -20°C. In
+order not to restrict operation of the aircraft in which the Engine is installed, it is recommended that
+the minimum temperature declared for starting should be not higher than -20°C.
+[Amdt. No.: E/1]

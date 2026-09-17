@@ -1,0 +1,10 @@
+# AMC E 40 Ratings
+# id: AMC E 40
+# subpart: A
+# pages: 30-30
+# source: CS-E_Amendment_8.pdf
+
+The thrust and / or power ratings to be approved should be adequately justified by the applicant, using
+as appropriate the results of the calibration tests (CS-E 350 or CS-E 730) and the values substantiated
+by the endurance test (CS-E 440 or CS-E 740) or other means.
+[Amdt. No.: E/1]

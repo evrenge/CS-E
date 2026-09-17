@@ -1,0 +1,77 @@
+# CS-E 780 Icing Conditions
+# id: CS-E 780
+# subpart: E
+# pages: 176-178
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 780)
+(a)(1) It must be established by tests, unless alternative appropriate evidence is available, that the
+Engine will function satisfactorily in flight and on the ground when operated throughout the
+applicable atmospheric icing conditions without unacceptable:
+(i)
+immediate or ultimate reduction of Engine performance,
+(ii)
+increase of Engine operating temperatures,
+(iii)
+deterioration of Engine handling characteristics, and/or
+(iv)
+mechanical damage.
+(2)
+The applicable atmospheric icing conditions must include the supercooled liquid water
+conditions defined in CS-Definitions Amendment 2 under ‘Icing Atmospheric Conditions’ for in-
+flight operation, freezing fog conditions for ground operation, and any additional conditions
+(such as ice crystal icing conditions, supercooled large drop icing conditions, and snow
+conditions) applicable to the Engine air intake system in the ice protection specifications (CS
+23.1093(b) of CS-23 until Amdt 4 or CS 23.2415 of CS-23 from Amdt 5, CS 25.1093(b), CS
+27.1093(b), CS 29.1093(b)) of the Certification Specifications applicable to the aircraft on which
+the Engine is to be installed, as specified in CS-E 20(b).
+(b)
+In showing compliance with the specifications of CS-E 780(a), all Engine bleeds and mechanical
+power offtakes permitted during icing conditions must be set at the level assumed to be the
+most critical, or their effect must be simulated by other acceptable means. It must be
+established, however, that other likely use of bleed or mechanical power offtake will not lead
+to Engine malfunctioning.
+(c)
+In showing compliance with the specifications of this paragraph CS-E 780, the conditions
+associated with a representative installation must be taken into account.
+(d)
+If after the tests it is found that significant damage has occurred, further running or other
+evidence may be required to show that subsequent Failures are unlikely to occur.
+(e)
+Where an air intake guard is fitted, compliance with the specifications of this paragraph CS-E
+780 must be established with the guard in position, unless the guard is required to be retracted
+during icing conditions, in which case it must be established that its retraction is not affected
+immediately after a representative delay period.
+(f)
+Ice ingestion
+(1)
+Objective. To demonstrate that the Engine will function satisfactorily following the
+ingestion of defined quantities of ice, as part of compliance with CS-E 540. Ingestion of
+ice may result from ice released by the Engine air intake (including after delayed selection
+of the ice protection system) or from other aircraft surfaces. Compliance with the
+requirements of this sub-paragraph shall be demonstrated by an Engine ice slab ingestion
+test or by validated analysis showing equivalence to other means for demonstrating soft
+body damage tolerance.
+(2)
+Following the ingestion of ice under the conditions of this paragraph, the Engine shall
+comply with CS-E 780(a).
+(3)
+For an Engine that incorporates or requires the use of a protection device, compliance
+with this paragraph need not be demonstrated with respect to ice formed forward of the
+protection device if it is shown that:
+(i)
+such ice is of a size that will not pass through the protection device;
+(ii)
+the protection device will withstand the impact of the ice; and
+(iii)
+the ice stopped by the protection device will not obstruct the flow of air into the
+Engine resulting in unacceptable effects under CS-E 780(a).
+(4)
+In establishing the ice slab ingestion conditions, the assumed ice quantity and
+dimensions, the ingestion velocity and the Engine operating conditions must be
+determined. Those conditions shall be appropriate to the Engine installation on the
+aircraft. These assumptions must be included in the manuals containing instructions for
+installing and operating the Engine under CS-E 20(d).
+[Amdt No: E/1]
+[Amdt No: E/4]
+[Amdt No: E/7]

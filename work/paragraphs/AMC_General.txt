@@ -1,0 +1,8 @@
+# AMC General
+# id: AMC General
+# subpart: A
+# pages: 15-15
+# source: CS-E_Amendment_8.pdf
+
+In addition to the acceptable means of compliance in Book 2 of these Certification Specifications, AMC-
+20 may also provide acceptable means of compliance to the specifications in Book 1 of this CS-E.

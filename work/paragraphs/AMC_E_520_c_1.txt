@@ -1,0 +1,23 @@
+# AMC E 520(c)(1) Strength - Shedding of Blades
+# id: AMC E 520(c)(1)
+# subpart: D
+# pages: 107-107
+# source: CS-E_Amendment_8.pdf
+
+(1)
+In order to reduce the risk of a single blade Failure leading to a multiple blade Failure and
+possible non-containment, particular attention should be paid to such items as blade material,
+blade root fixing and the design of casing joints in vulnerable areas.
+(2)
+In providing containment for compressor and turbine blades account should be taken of the
+possibility that the final trajectory of a failed blade may not be directly in the plane of its
+rotation. This is particularly important when the final containment provisions are external to
+the Engine casing and lie some distance from it (impact points on the aircraft structure of failed
+blades have been experienced at angles up to ± 30° from the point of intersection of the Engine
+centre line and the plane of rotation) or where the Engine casing containment capability is
+reduced adjacent to the plane of rotation of the blades, e.g. by virtue of cut-outs for adjacent
+stator roots, bleed ports, etc. This AMC is not meant to impose an obligation on the Engine
+constructor to provide containment in the direction of the intake and exhaust, provided the
+limits of the angles to which containment is assured are made available to the aircraft
+constructor installing the Engine.
+[Amdt. No.: E/1]

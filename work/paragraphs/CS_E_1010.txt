@@ -1,0 +1,9 @@
+# CS-E 1010 Fuel Venting
+# id: CS-E 1010
+# subpart: F
+# pages: 252-252
+# source: CS-E_Amendment_8.pdf
+
+The design of a turbine Engine must comply or, where the imposed specifications are directed at the
+aircraft, incorporate provisions enabling the aircraft in which it is intended to be installed to comply
+with the fuel venting specifications of CS 34.1.

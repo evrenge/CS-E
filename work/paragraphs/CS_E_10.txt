@@ -1,0 +1,22 @@
+# CS-E 10 Applicability
+# id: CS-E 10
+# subpart: A
+# pages: 15-15
+# source: CS-E_Amendment_8.pdf
+
+(a)
+This CS-E contains airworthiness specifications for the issue of type certificates, and changes to
+those certificates, for Engines, in accordance with Part 21.
+(b)
+CS-E contains the specifications for the approval for use of the Engine with a thrust reverser, if
+fitted. If compliance is shown, the defined thrust reverser approved for use will be noted in the
+Engine certification documentation. Otherwise, the documentation will be endorsed to indicate
+that the use of a thrust reverser is prohibited.
+(c)
+The specifications of Subparts A, B and C apply to Piston Engines. Any necessary variations of
+the specifications of Subparts B and C for Piston Engines intended for use in rotorcraft will be
+decided in accordance with point 21.B.75 of Part 21.
+(d)
+The specifications of subparts A, D, E and F apply to Turbine Engines.
+[Amdt. No.: E/1]
+[Amdt. No.: E/7]

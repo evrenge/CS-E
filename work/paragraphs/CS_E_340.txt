@@ -1,0 +1,56 @@
+# CS-E 340 Vibration Tests
+# id: CS-E 340
+# subpart: C
+# pages: 71-72
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 340)
+(a)
+Tests by approved methods must be made on an appropriate mounting to satisfy the Agency
+that no dangerous torsional or flexural vibration characteristic exists in the dynamic system
+throughout the operating range of crankshaft rotational speed and Engine power used in flight.
+In the absence of adequate evidence to the contrary, a maximum stress shown to be safe for
+continuous use must be regarded as the maximum safe stress. The range must include low
+power operation and must comprise crankshaft speeds from idling to the highest of the
+following: 110% of the desired Maximum Continuous speed, 105% of the desired maximum
+Take-off speed, or the maximum desired Over-speed. Observations must be made at
+increments of 50 crankshaft rpm throughout this range. Tests covering the range up to the
+desired maximum take-off speed rating must also be made with that cylinder not firing which
+is most critical from the point of view of vibration.
+(b)
+A representative flight Propeller must be used for these tests. In the case of a Fixed Pitch
+Propeller a ‘throttle’ curve must be run. In the case of a Variable Pitch Propeller the procedure
+must normally be the same, with the Propeller blade pitch set to a fixed value which will give
+maximum Engine power at maximum Engine rotational speed. If the results of the tests with a
+Variable Pitch Propeller show the existence of a serious critical vibration within the operating
+speed range, a more detailed investigation must be made at speeds within the critical range.
+(c)
+A harmonic analysis of the vibration records must be made by a method approved by the
+Agency, at each increment of Engine speed and the results plotted against Engine speed so that
+the predominant orders of vibration and their relative magnitudes are clearly shown
+throughout the operating speed range of the Engine.
+(d)
+In cases where torsional strain in the Propeller shaft has been measured by means of a torsional
+strain type of vibration pickup, the torque amplitude of the orders of vibration must be plotted
+about the mean torque curve for the Engine. In other cases where for practical reasons it is
+impossible to use the strain type of torsional vibration pickups, and a seismic type of instrument
+attached to the free end of the crankshaft is used, the angular displacement amplitudes of the
+various orders of vibration at the free end of the crankshaft must be plotted against Engine
+speed.
+(e)
+A tabulation based on the theoretical and test results obtained must be made detailing the
+following information relating to resonant conditions for the most serious criticals: Engine
+speed, order of vibration, frequency, maximum and minimum values of vibration stress in the
+crankshaft and Propeller shaft and the region at which they occur. Diagrams showing the
+displacement curves for the modes of vibration associated with these criticals should also be
+presented.
+(f)
+If excessive vibration is found to be present in the operating range of the Engine, suitable
+remedial measures must be taken prior to the endurance test of CS-E 440.
+(g)
+If moderate vibration is found to exist, which is not sufficiently serious to warrant the
+introduction of modifications but needs proof of its effect on the Engine, a vibration penalty
+test must be substituted for those stages of the endurance test as are considered most suitable
+and must include sufficient duration under the most adverse vibration condition to establish
+the ability of the Engine to resist fatigue Failure.
+[Amdt. No.: E/1]

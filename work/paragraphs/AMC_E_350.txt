@@ -1,0 +1,30 @@
+# AMC E 350 Calibration Tests
+# id: AMC E 350
+# subpart: C
+# pages: 72-73
+# source: CS-E_Amendment_8.pdf
+
+(1)
+In complying with CS-E 350(a), the following calibration testing should normally be considered
+adequate.
+(a)
+The sea level power characteristics of the Engine should be established against rotational
+speed and power setting. The following curves should be generated, each consisting of
+sufficient points for each characteristic to ensure the accuracy of the interpolation.
+Normally, at least five points in each curve will be required:
+(i)
+Power against rotational speed at constant power setting, starting from each rating
+to be declared, over the full range of rotational speeds appropriate to that rating.
+(ii)
+Power against power setting at constant speed, in at least five increments of
+rotational speed between Maximum Take-off rated speed and 60% of best
+economy cruising speed, over the full range of power settings appropriate to that
+speed. The increments selected should include all rated rotational speeds.
+(b)
+The effect on Engine power should be established of all parameters that may affect the
+power produced (e.g. altitude, ambient air temperature, cylinder/coolant temperature,
+mixture setting, fuel specification.).
+(2)
+In complying with CS-E 350(b), the calibration testing outlined in paragraph (1)(a) of this AMC
+should normally be considered adequate.
+[Amdt. No.: E/1]

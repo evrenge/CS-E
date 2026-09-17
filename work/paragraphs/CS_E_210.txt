@@ -1,0 +1,17 @@
+# CS-E 210 Failure Analysis
+# id: CS-E 210
+# subpart: B
+# pages: 65-65
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 210)
+(a)
+A Failure analysis of the Engine, including the control system for a typical installation must be
+made to establish that no single Fault, or double Fault if one of the Faults may be present and
+undetected during pre-flight checks, could lead to unsafe Engine conditions beyond the normal
+control of the flight crew.
+(b)
+In certain cases the Failure analysis will depend on assumed installation conditions. Such
+assumptions must be stated in the analysis.
+[Amdt. No.: E/1]
+[Amdt. No.: E/7]

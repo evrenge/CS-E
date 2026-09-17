@@ -1,0 +1,36 @@
+# AMC E 740(f)(1) Multi-spool Engines
+# id: AMC E 740(f)(1)
+# subpart: E
+# pages: 172-173
+# source: CS-E_Amendment_8.pdf
+
+Where an Endurance Test is conducted in accordance with CS-E 740(f)(1) supplementary evidence is
+required to substantiate any rotational speed limitations higher than those covered in that test. This
+AMC indicates an acceptable basis for conducting such supplementary tests.
+(1)
+The Engine on which the supplementary tests are conducted may be the same Engine as that
+which completed the Endurance Test, or an Engine of a standard similar in all those aspects
+which could be affected by the increased rotational speed.
+(2)
+Where increased rotational speed limitations are desired in respect of both Take-off and
+Maximum Continuous Power/Thrust conditions, the supplementary testing should provide for
+running at the increased rotational speed of equal duration to, and in all other relevant respects
+as severe as, the conditions prescribed in the type endurance test schedule for running at Take-
+off and Maximum Continuous Power/Thrust conditions.
+(3)
+Where increased rotational speed limitations are desired in respect of either Take-off or
+Maximum Continuous Power/Thrust conditions only, the supplementary testing should provide
+for –
+(a)
+Where the test is conducted on parts which have already completed the Endurance Test
+(or its equivalent) . Running at the increased rotational speed of equal duration to, and in
+all other relevant respects as severe as, the conditions of the Endurance Test schedule
+for running at the Take-off or Maximum Continuous Power/Thrust conditions as
+appropriate.
+(b)
+Where the test is conducted on parts which have not completed an Endurance Test (or its
+equivalent). Running of equal duration to, and in all other relevant respects as severe as,
+the conditions of the Endurance Test schedule for running at the Take-off and Maximum
+Continuous Power/Thrust conditions, but with only that period of running for which
+higher limitations are desired, conducted at the increased rotational speed.
+[Amdt. No.: E/1]

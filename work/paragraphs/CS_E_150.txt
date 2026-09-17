@@ -1,0 +1,30 @@
+# CS-E 150 Tests - General Conduct of Tests
+# id: CS-E 150
+# subpart: A
+# pages: 61-61
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The fuel and oil used for all tests must normally be chosen from those specified by the Applicant,
+but, where it may have relevance to the results of any particular test, the actual fuel and oil to
+be used (including any additives) must be justified. (See AMC E 150(a))
+(b)
+During all tests, only servicing and minor repairs must be permitted except that major repairs
+or replacement of parts may be resorted to, provided that the parts in question are subjected
+to an agreed level of penalty testing.
+(c)
+Except where declared by the Applicant, no artificial means of increasing the humidity of the
+ambient air must be employed.
+(d)
+For all tests, parameters relevant to the purpose of the test must be agreed and recorded at
+appropriate times during the test. Where possible, Engine conditions must be allowed to
+stabilise before observations are taken. In particular, observations taken less than 3 minutes
+after a change of Engine conditions must not be included in assessment of performance, unless
+the rating cannot be used for more than 3 minutes.
+(e)
+Adjustments made in compliance with CS-E 140(c) must be checked and unintended variations
+from the original settings recorded after each test.
+(f)
+All test bed equipment and all measuring equipment used for tests must be appropriately
+calibrated.
+[Amdt. No.: E/1]

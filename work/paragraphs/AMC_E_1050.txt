@@ -1,0 +1,47 @@
+# AMC E 1050 Exposure to volcanic cloud hazards
+# id: AMC E 1050
+# subpart: F
+# pages: 262-262
+# source: CS-E_Amendment_8.pdf
+
+Acceptable means of establishing the susceptibility of Engine features to the effects of volcanic clouds
+should include a combination of experience, studies, analysis, and/or testing of parts, sub-assemblies
+or Engines.
+Information necessary for safe operation should be contained in the relevant documentation. This
+information may be used to assist operators in producing operational data and instructions for their
+flight crews when operating in, or avoiding, airspace contaminated with volcanic clouds. The
+information should be readily usable by operators in preparing a safety risk assessment as part of their
+overall management system.
+A volcanic cloud comprises volcanic ash together with gases and other chemicals. Although the
+primary hazard is volcanic ash, other elements of the volcanic cloud may also be undesirable to
+operate through, and their effect on airworthiness should be assessed.
+In determining the susceptibility of turbine Engine features to the effects of volcanic clouds and the
+necessary information to operators to allow safe Engine operation, the following points should be
+considered:
+(1)
+Identify the features of the turbine Engine that are susceptible to airworthiness effects from
+volcanic clouds. These may include but are not limited to the following:
+a.
+erosion of compressor blades and other internal parts;
+b.
+glassy deposits on hot section parts, which can result in loss of surge margins, Engine stall,
+flame out, and inability to restart Engines;
+c.
+clogging of turbine blade cooling channels;
+corrosion of metallic parts;
+d.
+e.
+oil and fuel circuit contamination; and
+electrical, hydraulic and pneumatic systems.
+f.
+(2)
+The nature and severity of effects.
+(3)
+The related pre-flight, in-flight and post-flight precautions to be observed by the operator
+including any necessary amendments to Engine Manuals, Dispatch Deviation, or equivalents,
+required to support the operator.
+(4)
+The recommended continued airworthiness inspections associated with operations in volcanic
+cloud contaminated airspace; these may take the form of Instructions for Continued
+Airworthiness or other advice.
+[Amdt. No. E/4]

@@ -1,0 +1,9 @@
+# AMC E 600(e) Test - General
+# id: AMC E 600(e)
+# subpart: E
+# pages: 115-115
+# source: CS-E_Amendment_8.pdf
+
+The applicant should justify any difference between the Engine attitude during the tests and the
+Engine attitude in the intended rotorcraft installations.
+[Amdt. No.: E/1]

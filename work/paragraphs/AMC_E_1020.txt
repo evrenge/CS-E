@@ -1,0 +1,18 @@
+# AMC E 1020 Engine emissions
+# id: AMC E 1020
+# subpart: F
+# pages: 252-253
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The following format should be used for the note referred to in CS-E 1000.
+Engine emissions
+Note x:
+Engine (type/model) complies with CS-34 amendment (number).
+(2)
+It should be noted that only the type design at time of engine certification will be assessed
+against CS-34 and that the applicable emissions standard for a production engine is dependent
+on its date of manufacture. Any further change to the type design should assess the effect on
+its engine emissions characteristics and its compliance with the specifications of CS-34, to
+enable demonstration of compliance for each individual engine when required.
+[Amdt. No.: E/1]

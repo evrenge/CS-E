@@ -1,0 +1,10 @@
+# AMC E 740(g)(1) Endurance Tests - Incremental Periods
+# id: AMC E 740(g)(1)
+# subpart: E
+# pages: 173-173
+# source: CS-E_Amendment_8.pdf
+
+As an alternative to revising the incremental running as indicated in CS-E 740(g)(1), separate Engine
+running of appropriate severity may be completed (see also AMC E 650 paragraph 10).
+[Amdt No: E/1]
+[Amdt No: E/4]

@@ -1,0 +1,56 @@
+# CS-E 180 Propeller Functioning Tests
+# id: CS-E 180
+# subpart: A
+# pages: 63-64
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 180)
+(a)
+If approval of the Engine for use with a Variable Pitch Propeller is sought by the Applicant, a
+sufficient portion of the tests prescribed in CS-P, must be made either during or on the
+completion of the endurance test of CS-E 440 or CS-E 740 to demonstrate that the Propeller-
+Engine combination will function satisfactorily. The minimum number of tests which will be
+acceptable for Engine approval is given below.
+(b)
+The following tests must be carried out:
+(1)
+Pitch change cycles
+(i)
+Turbine Engines
+(A)
+Fifty forward pitch change cycles, by operation of Propeller control. (Only
+applicable when a separate Propeller control is provided). Each cycle must
+include the maximum range of pitch likely to be experienced in normal use.
+(B)
+100 operations with-drawing the flight fine pitch lock. These may be
+combined with the Engine decelerations prescribed in CS-E 740 for the
+endurance test.
+(ii)
+Piston Engines – For Engines to be approved for use with a variable pitch Propeller,
+100 representative forward pitch change cycles must be made across the range of
+pitch and rotational speed.
+(2)
+10 feathering cycles. In addition, for turbine Engines, where the oil tank is to be approved
+as part of the Engine, the ability to complete one cycle (i.e. one feather and unfeather)
+when the supply of oil has been reduced to the feathering reserve oil (see CS-E
+570(f)(3)(i)) must be demonstrated.
+sustaining the appropriate maximum declared Engine conditions for 1 minute during each
+cycle. In this case, the periods of the endurance test covering the range of cruising
+conditions may be reduced by a total of 3 hours.
+(4)
+1 reverse (manoeuvring) pitch change cycle, sustaining the appropriate maximum
+declared Engine conditions for 5 minutes.
+(c)
+Additional tests with Reversible Pitch Propellers on Piston Engines -
+(1)
+Where approval of an Engine for use with Reversible Pitch Propellers is sought, the
+appropriate tests of Certification Specifications for Propellers must be run on Engines
+sufficiently representative of the type design.
+(2)
+After completion of these tests, those parts of the Engines which may be affected by the
+reversed thrust or air flow, must be removed and examined and must be shown to have
+suffered no adverse effects.
+(d)
+Any other tests considered necessary to demonstrate that the Propeller-Engine combination
+will function satisfactorily.
+[Amdt. No.: E/1]

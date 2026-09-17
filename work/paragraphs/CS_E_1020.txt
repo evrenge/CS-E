@@ -1,0 +1,11 @@
+# CS-E 1020 Engine Emissions
+# id: CS-E 1020
+# subpart: F
+# pages: 252-252
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 1020)
+It must be demonstrated, by test or analysis or combination thereof, that the Engine type design
+complies with the emission specifications of CS 34.2 in effect at date of Engine certification. The
+resulting data must be recorded.
+[Amdt. No.: E/1]

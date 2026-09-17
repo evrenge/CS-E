@@ -1,0 +1,12 @@
+# CS-E 470 Contaminated Fuel
+# id: CS-E 470
+# subpart: C
+# pages: 79-80
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 470)
+Evidence shall be provided that the complete Engine fuel system is capable of operating without
+Engine malfunctioning under any likely quantities of solid contaminant, water and ice present in the
+fuel. If compliance relies upon fuel anti-icing additive(s) or other means incorporated in the aircraft
+fuel system, this shall be declared under CS-E 30 together with a statement of the conditions under
+which use of additive(s) is approved.

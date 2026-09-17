@@ -1,0 +1,130 @@
+# Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail
+# id: Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail
+# subpart: E
+# pages: 210-212
+# source: CS-E_Amendment_8.pdf
+
+Rain and Hail
+Figure A1, Table A1, Table A2, Table A3 and Table A4 in this Appendix A specify the atmospheric
+concentrations and size distributions of rain and hail for establishing certification, in accordance with
+the specifications of CS-E 790(a)(2). In conducting tests, normally by spraying liquid water to simulate
+rain conditions and by delivering hailstones fabricated from ice to simulate hail conditions, the use of
+water droplets and hailstones having shapes, sizes and distributions of sizes other than those defined
+in this Appendix A, or the use of a single size or shape for each water droplet or hailstone, can be
+accepted, provided the substitution does not reduce the severity of the test. [ Source of data in Tables
+A1 to A4: Results of the Aerospace Industries Association Propulsion Committee Study, Project PC 338–
+1, June 1990 ].
+Note: The unit for altitude has been kept as “feet” to be consistent with the source of data. This is
+compatible with Annex 5 of ICAO.
+FIGURE A1 - Illustration of Rain and Hail Threats. Certification concentrations are obtained using Tables A1 and A2.
+TABLE A1 – CERTIFICATION STANDARD ATMOSPHERIC RAIN CONCENTRATIONS
+Altitude (feet)
+Rain Water Content (RWC) (grams water/cubic metre air)
+0
+20.0
+20 000
+20.0
+15.2
+26 300
+10.8
+32 700
+39 300
+7.7
+46 000
+5.3
+RWC values at other altitudes may be determined by linear interpolation.
+TABLE A2 – CERTIFICATION STANDARD ATMOSPHERIC HAIL CONCENTRATIONS
+Altitude (feet)
+Hail Water Content (HWC) (grams water/cubic metre air)
+0
+6.0
+7 300
+8.9
+8 500
+9.4
+10 000
+9.9
+10.0
+12 000
+10.0
+15 000
+16 000
+8.9
+17 700
+7.8
+19 300
+6.6
+21 500
+5.6
+24 300
+4.4
+29 000
+3.3
+0.2
+46 000
+HWC values at other altitudes may be determined by linear interpolation. The hail threat below
+7 300 feet and above 29 000 feet is based on linearly extrapolated data.
+TABLE A3 – CERTIFICATION STANDARD ATMOSPHERIC RAIN DROPLET SIZE DISTRIBUTION
+Contribution to total RWC (%)
+Rain Droplet Diameter (mm)
+0
+0 – 0.49 0
+0.50 – 0.99
+2.25
+1.00 – 1.49
+8.75
+1.50 – 1.99
+16.25
+19.00
+2.00 – 2.49
+17.75
+2.50 – 2.99
+13.50
+3.00 – 3.49
+3.50 – 3.99
+9.50
+4.00 – 4.49
+6.00
+3.00
+4.50 – 4.99
+2.00
+5.00 – 5.49
+1.25
+5.50 – 5.99
+0.50
+6.00 – 6.49
+0.25
+6.50 – 7.00
+100.00
+TOTAL
+Median diameter of rain droplets is 2.66 mm.
+TABLE A4 – CERTIFICATION STANDARD ATMOSPHERIC HAILSTONE SIZE DISTRIBUTION
+Contribution to total HWC (%)
+Hailstone Diameter (mm)
+0
+0 – 4.9
+17.00
+5.0 – 9.9
+10.0 – 14.9
+25.00
+15.0 – 19.9
+22.50
+16.00
+20.0 – 24.9
+25.0 – 29.9
+9.75
+30.0 – 34.9
+4.75
+2.50
+35.0 – 39.9
+1.50
+40.0 – 44.9
+Contribution to total HWC (%)
+Hailstone Diameter (mm)
+0.75
+45.0 – 49.9
+0.25
+50.0 – 55.0
+100.00
+TOTAL
+Median diameter of hailstones is 16 mm

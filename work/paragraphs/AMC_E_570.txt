@@ -1,0 +1,27 @@
+# AMC E 570 Oil system
+# id: AMC E 570
+# subpart: D
+# pages: 114-114
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Each filter or strainer requiring regular servicing should be accessible for draining and cleaning
+or replacement. For complying with CS-E 570(a)(1) in order to avoid possible leakage, each filter
+or strainer should be mounted so that its weight is not supported by the connecting lines or by
+the inlet or outlet connections of the filter or strainer, unless adequate strength margins under
+all loading conditions are provided in the lines and connections.
+(2)
+In complying with CS-E 570(a)(1), each oil tank should have an expansion space. Experience has
+shown that 10 percent of the tank capacity is adequate. It should be impossible to fill the oil
+tank expansion space inadvertently.
+(3)
+In complying with CS-E 570(a)(2)(i), filling and drainage provisions should be accessible and have
+manual or automatic means for positive locking in the closed positions. Each oil tank filler
+connection that can retain any significant quantity of oil should have provision for drainage to
+the outside of the Engine cowling.
+(4)
+In complying with CS-E 570(a)(2), access points include, but are not limited to, Magnetic Chip
+Detectors and gearbox access cover plates.
+(5)
+“Hazardous quantities”, as referred to in CS-E 570(e)(1), is defined in AMC E 130.
+[Amdt. No.: E/1]

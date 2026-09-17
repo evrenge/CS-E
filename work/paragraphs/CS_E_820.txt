@@ -1,0 +1,36 @@
+# CS-E 820 Over-torque Test
+# id: CS-E 820
+# subpart: E
+# pages: 229-230
+# source: CS-E_Amendment_8.pdf
+
+(a)
+If approval of a Maximum Engine Over-torque is sought for an Engine incorporating a free power
+turbine, compliance with this paragraph must be demonstrated by test.
+(1)
+The test may be run, if desired, as part of the endurance test of CS-E 740. Alternatively,
+evidence may be provided from tests of a complete Engine or equivalent testing of
+individual groups of components.
+(2)
+On conclusion of such tests, the stripped condition of the Engine or individual groups of
+components must be satisfactory for continued running. (See AMC E 820(a)(2))
+(b)
+The test conditions must be as follows:
+(1)
+A total of 15 minutes run at the Maximum Engine Over-torque to be approved. This may
+be done in separate runs, each being of at least 2½-minutes duration.
+(2)
+A power turbine rotational speed equal to the highest speed at which the Maximum
+Engine Over-torque can occur in service, but not more than the limit speed of Take-off or
+OEI ratings of a duration longer than 2 minutes.
+(3)
+For Engines incorporating a reduction gearbox, a gearbox oil temperature equal to the
+maximum temperature at which the Maximum Engine Over-torque could occur in
+service; for other Engines, an oil temperature within the normal operating range.
+(4)
+A turbine entry gas temperature equal to the maximum steady state temperature to be
+approved for use during periods longer than 20 seconds when operating at conditions
+not associated with 30-Second or 2-Minute OEI Power Ratings, unless it can be shown
+that other testing provides substantiation of the temperature effects when considered in
+combination with the other parameters identified in CS-E 820(b)(1), (b)(2) and (b)(3).
+[Amdt No: E/1]

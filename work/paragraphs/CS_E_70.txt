@@ -1,0 +1,16 @@
+# CS-E 70 Materials and Manufacturing Methods
+# id: CS-E 70
+# subpart: A
+# pages: 41-41
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 70)
+(a)
+The suitability and durability of materials used in the Engine must be established on the basis
+of experience or tests. The assumed design values of properties of materials must be suitably
+related to the minimum properties stated in the material specification.
+(b)
+Manufacturing methods and processes must be such as to produce sound structure and
+mechanisms which retain the original mechanical properties under reasonable service
+conditions.
+[Amdt. No.: E/1]

@@ -1,0 +1,21 @@
+# AMC E 730 Calibration Tests
+# id: AMC E 730
+# subpart: E
+# pages: 137-138
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The parameters used for the calibration curves are those appropriate to, and compatible with,
+the Engine’s design. Thrust, Power, Torque, Rotational Speed, EPR (Engine Pressure Ratio), EGT
+(Exhaust Gas Temperature), are typical parameters of known Engine designs.
+(2)
+The Calibration Test should be run to cover the maximum possible rotational speed range, but
+at least to cover the range from minimum idle to the normal maximum compatible with the
+ambient external atmospheric condition of the test day.
+(3)
+The pre and post test calibration curves required by CS-E 730 should be established up to the
+highest rating to be approved for a duration of more than 2 minutes prior to the additional
+endurance test of CS-E 740(c)(3)(iii). Because the Engine operation at the 30-Second and 2-
+Minute OEI Power ratings could significantly affect Engine hardware conditions, these Engine
+ratings are therefore not required to comply with the calibration specifications of CS-E 730.
+[Amdt. No.: E/1]

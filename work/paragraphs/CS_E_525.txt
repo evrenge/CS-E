@@ -1,0 +1,12 @@
+# CS-E 525 Continued Rotation
+# id: CS-E 525
+# subpart: D
+# pages: 108-109
+# source: CS-E_Amendment_8.pdf
+
+(see AMC E 525)
+If any of the Engine’s main rotating systems will continue to rotate after the Engine is shutdown for
+any reason while in flight, and means to prevent that continued rotation, are not provided, any
+continued rotation during the maximum period of flight and in the flight conditions expected to occur
+with that Engine inoperative must not result in effects that would be unacceptable under CS-E 510.
+[Amdt. No.: E/1]

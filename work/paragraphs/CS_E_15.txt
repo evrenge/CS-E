@@ -1,0 +1,116 @@
+# CS-E 15 Terminology
+# id: CS-E 15
+# subpart: A
+# pages: 16-18
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The terminology of this CS-E 15 must be used in conjunction with the issue of CS-Definitions
+current at the date of issue of this CS-E. Where used in CS-E, the terms defined in this paragraph
+and in CS-Definitions are identified by initial capital letters.
+(b)
+All Engines
+Extremely Remote
+means unlikely to occur when considering the total operational life of
+a number of aircraft of the type in which the Engine is installed, but
+nevertheless, has to be regarded as being possible. Where numerical
+values are used this may normally be interpreted as a probability in
+the range 10 -7 to 10 -9 per Engine flight hour.
+Reasonably Probable
+means unlikely to occur often during the operation of each aircraft of
+the type but which may occur several times during the total
+operational life of each aircraft of the types in which the Engine may
+be installed. Where numerical values are used this may normally be
+interpreted as a probability in the range 10 -3 to 10 -5 per Engine flight
+hour.
+Remote
+means unlikely to occur to each aircraft during its total operational life
+but may occur several times when considering the total operational
+life of a number of aircraft of the type in which the Engine may be
+installed. When numerical values are used, this may normally be
+interpreted as a probability in the range 10 -5 to 10 -7 per Engine flight
+hour.
+(c)
+Turbine Engines
+Hazardous Engine Effect means an effect identified as such under CS-E 510.
+Major Engine Effect
+means an effect identified as such under CS-E 510.
+Minor Engine Effect
+means an effect identified as such under CS-E 510.
+(d)
+For piston Engines
+Boost Pressure
+means the power setting measured relative to standard sea-level
+atmospheric pressure.
+Charge Cooling
+means the percentage degree of charge cooling, quantitatively
+expressed as:
+where
+t1 is the temperature of the air entering the charge cooler coolant
+radiator in the powerplant,
+t2 is the temperature of the charge without cooling, and
+t3 is the temperature of the charge with cooling.
+Critical Attitude
+means the maximum attitude at which, in standard atmosphere, it is
+possible to maintain, at a specified rotational speed without ram, a
+specified power or a specified manifold pressure. Unless otherwise
+stated, the critical altitude is the maximum altitude at which it is
+possible to maintain, without ram, at the maximum continuous
+rotational speed, one of the following:
+The maximum continuous power, in the case of engines for
+a.
+which this power rating is the same at sea level and at the rated
+altitude.
+The maximum continuous rated manifold pressure, in the case
+b.
+of engines the maximum continuous power of which is
+governed by a constant manifold pressure.
+Manifold Pressure
+means the absolute static pressure measured at the appropriate point
+in the induction system.
+Maximum Best Economy Cruising Power Conditions means the crankshaft rotational speed,
+Engine manifold pressure and any other parameters recommended in
+the Engine manuals as appropriate for use with economical-cruising
+mixture strength
+Maximum Recommended Cruising Power Conditions means the crankshaft rotational speed,
+Engine manifold pressure and any other parameters recommended in
+the Engine manuals as appropriate for cruising operation.
+(e)
+Terms associated with Engine Critical Parts
+Approved Life
+means the mandatory replacement life of a part which is approved by
+the Agency.
+Attributes
+means inherent characteristics of a finished part that determine its
+capability.
+Damage Tolerance
+means an element of the life management process that recognises the
+potential existence of component imperfections as the result of
+inherent material structure, material processing, component design,
+manufacturing or usage and addresses this situation through the
+incorporation of fracture resistant design, fracture mechanics,
+process control, and non-destructive inspection.
+Engine Critical Part
+means a part that relies upon meeting prescribed integrity
+specifications of CS-E 515 to avoid its Primary Failure, which is likely
+to result in a Hazardous Engine Effect.
+Engine Flight Cycle
+means the flight profile, or combination of profiles, upon which the
+Approved Life is based.
+required to establish and to maintain the life capability of an Engine
+Critical Part. The Engineering Plan is established and executed as part
+of the pre- and post-certification activities.
+Manufacturing Plan
+means a compilation of the part specific manufacturing process
+constraints, which must be included in the manufacturing definition
+(drawings, procedures, specifications, etc.) of the Engine Critical Part
+to ensure that it meets the design intent as defined by the Engineering
+Plan.
+Primary Failure
+means a Failure of a part which is not the result of the prior Failure of
+another part or system.
+Service Management Plan means a compilation of the processes for in-service maintenance
+and repair to ensure that an Engine Critical Part achieves the design
+intent as defined by the Engineering Plan.
+[Amdt. No.: E/1]
+[Amdt. No.: E/2]

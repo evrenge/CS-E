@@ -1,0 +1,34 @@
+# CS-E 430 Water Spray Tests
+# id: CS-E 430
+# subpart: C
+# pages: 75-76
+# source: CS-E_Amendment_8.pdf
+
+(a)
+Installation Conditions. With the Engine suitably cowled or shielded to be fully representative
+of an installed Engine, a water spray must be applied throughout three periods of running.
+(b)
+Running Conditions. Each period of running must comprise –
+— Start
+— Warm up
+— Ignition checks
+— 5 minutes at Take-off Power
+— 15 minutes at Maximum Continuous Power
+— 15 minutes at Maximum Best Economy Cruising Power
+— 25 minutes at 60% of Maximum Continuous Power at 75% of Maximum Best Economy
+Cruising crankshaft rotational speed
+— Ignition check and accelerations.
+Two-speed supercharged Engines must run the whole test in low gear.
+(c)
+Interval Conditions. An interval of 24 hours must be allowed after each period of running. No
+adjustment or artificial drying-off must be undertaken from the commencement of the test and,
+when not running, the Engine must be completely covered in a manner which will fully promote
+moisture penetration. At the conclusion of the third cycle of running and standing, the Engine
+must be subjected to 5 minutes running at Take-off Power without the water spray.
+(d)
+Water Spray Conditions. The spray must be arranged to deliver water in a manner
+representative of very heavy rain over the whole frontal area of the Engine including cowling,
+air intakes, etc., but not necessarily the Propeller tips, throughout the full running time. The
+rate of delivery, R, must be assessed from the formula –
+R = 12∙2F litres/min
+where F, in m 2 , is frontal area of nacelle.

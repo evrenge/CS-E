@@ -1,0 +1,17 @@
+# CS-E 160 Tests - History
+# id: CS-E 160
+# subpart: A
+# pages: 61-61
+# source: CS-E_Amendment_8.pdf
+
+(a)
+In order to enable compliance with point 21.A.20(d)2 of Part 21, should a Failure of an Engine
+part occur during the certification tests, its cause must be determined and the effect on the
+airworthiness of the Engine must be assessed. Any necessary corrective actions must be
+determined and substantiated.
+(b)
+The development history of the Engine or component or equipment of the Engine must be
+considered. Any significant event, relevant to airworthiness of the Engine, occurring during
+development and not corrected before certification tests, must also be assessed under CS-E
+160(a).
+[Amdt No: E/7]

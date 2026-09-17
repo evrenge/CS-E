@@ -1,0 +1,14 @@
+# CS-E 120 Identification
+# id: CS-E 120
+# subpart: A
+# pages: 51-51
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The Engine identification must comply with points 21.A.801(a) and (b), and point 21.A.805 of
+Part 21.
+(b)
+Major Engine modules that can be changed independently in service must be suitably identified
+so as to ensure traceability of parts and to enable proper control over the interchangeability of
+such modules with different Engine variants.
+[Amdt No: E/7]

@@ -1,0 +1,67 @@
+# CS-E 560 Fuel System
+# id: CS-E 560
+# subpart: D
+# pages: 110-111
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 560)
+(1)
+(a)
+Each fuel specification to be approved, including any additive, and the associated
+limitations in flow, temperature and pressure that ensure proper Engine functioning
+under all intended operating conditions must be declared and substantiated.
+(2)
+Any parameter of the fuel specification which is likely to adversely affect Engine
+functioning or durability must be identified so that, where necessary, Engine or rig testing
+using appropriate fuel may be conducted.
+(3)
+The Engine fuel pump must have a margin of capacity over the maximum Engine demand
+in the flight envelope consistent with the assumed aircraft installation specifications.
+(1)
+(b)
+Filters, strainers or other equivalent means must be provided to protect the fuel system
+from malfunction due to contaminants. These devices must have the capacity to
+accommodate any likely quantity of contaminants, including water, in relation to
+recommended servicing intervals and, if provided, the blockage or by-pass indication
+system (see also CS-E 670).
+(2)
+Any main fuel filter or strainer provided between the Engine fuel inlet and any device
+having a significant function for the control of the thrust or power must have a means to
+permit indication of impending blockage of the filter or strainer either:
+(i)
+To the flight crew or
+(ii)
+To the maintenance crew, if it can be shown that the Engine will continue to
+operate normally with the levels of contamination specified, for a period equal to
+the inspection interval of the impending blockage indicator.
+(c)
+If a by-pass means is provided on any filter or strainer, it must be designed such that, if the filter
+or strainer element is completely blocked, fuel will continue to flow at an acceptable rate
+through the rest of the system. In addition:
+(1)
+The design of the by-pass must be such that, when it is in operation, the previously
+collected contaminants in the filter or strainer will not enter the Engine fuel system
+downstream of the filter or strainer.
+(2)
+The design of the fuel system must be such that, when the by-pass is open, operation on
+contaminated fuel does not result in a Hazardous Engine Effect.
+(3)
+If the maintenance action to be taken after by-pass operation is different from that
+following an indication of impending blockage, then indication of by-pass operation must
+be provided.
+(d)
+The fuel system must be designed so that any accumulation of likely quantities of water which
+may separate from the fuel will not cause Engine malfunctioning.
+(e)
+If icing can occur in the fuel system, continued satisfactory functioning of the Engine in such
+circumstances must be ensured without the need for any action by the flight crew. If compliance
+relies upon fuel anti-icing additives or other means incorporated in the aircraft fuel system, this
+must be declared under CS-E 30 together with a statement of the conditions which must be
+met.
+(f)
+Provision must be made near each fuel pressure connection provided for instrumentation so as
+to limit the loss of fluid in the event of a pipe Failure.
+(g)
+Design precautions must be taken against the possibility of errors and inadvertent or
+unauthorised changes in setting of all fuel control adjusting means.
+[Amdt. No.: E/1]

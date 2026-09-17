@@ -1,0 +1,12 @@
+# AMC E 660 Fuel Pump Tests (Turbine Engines for Aeroplanes)
+# id: AMC E 660
+# subpart: E
+# pages: 131-131
+# source: CS-E_Amendment_8.pdf
+
+When testing equipment susceptible to cavitation erosion (e.g. Engine fuel pumps) the possibility of
+such erosion being relieved by dissolved air in the test fluid should be considered and, if appropriate,
+some testing should be carried out with fuel at the most critical temperature and pressure with regard
+to cavitation erosion and having the minimum amount of air in solution that is likely to occur during
+normal operating conditions.
+[Amdt. No.: E/1]

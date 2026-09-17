@@ -1,0 +1,11 @@
+# AMC E 140 Test - Engine configuration
+# id: AMC E 140
+# subpart: A
+# pages: 60-61
+# source: CS-E_Amendment_8.pdf
+
+For turbine engines, if the power turbine accessory drives are not loaded, the equivalent power should
+be added as required by CS-E 140(d)(1) to the required power at the output drive so that the power
+turbine rotor assembly is operated at or above the same level as it would be if the power turbine
+accessory drives were loaded.
+[Amdt. No.: E/2]

@@ -1,0 +1,68 @@
+# AMC E 640 Pressure Loads
+# id: AMC E 640
+# subpart: E
+# pages: 118-119
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Definitions. For the purpose of CS-E 640(a) the following definitions apply and should be related
+to the Engine when installed in a typical installation.
+Normal Working Pressure.
+The maximum pressure differential likely to occur on most
+flights including any pressure fluctuations as a result of the
+normal operation of valves, cocks, etc, where these could
+produce significant surge pressures.
+Maximum Working Pressure.
+The maximum pressure differential which could occur under
+the most adverse operational conditions (e.g. forward speed,
+altitude, ambient temperature, Engine speed, use of OEI
+ratings) likely to be encountered in service, including any
+pressure fluctuations as a result of the normal operation of
+valves, cocks, etc., where these could produce significant surge
+pressures.
+Maximum Possible Pressure.
+The maximum pressure differential which could occur under
+the most adverse combination of operational conditions (e.g.
+forward speed, altitude, ambient temperature, Engine Speed,
+use of OEI ratings) likely to be experienced in service, together
+with Failure of any relevant parts of the Engine or control
+system, or combinations of Failures which are more likely than
+Extremely Remote. Consideration should be given to any
+pressure fluctuations as a result of normal or emergency use of
+valves, cocks, etc., where these could produce significant surge
+pressures.
+Static Parts subject to significant gas or liquid pressure loads. The components subject to high-
+pressure loads or whose design is influenced by the gas or liquid
+pressure loads to be contained. Examples might include the
+compressor, combustor and turbine casings, heat exchangers,
+bleed valve solenoids, starter motors or fuel, oil and hydraulic
+system components. Special attention should be given to any
+filler cap.
+(2)
+Static Pressure Tests (see CS-E 640(a))
+The anticipated Engine manual serviceable limits may be used as the criteria to judge the
+acceptability of any permanent distortion.
+When a test is performed on a part which is subjected in service to a varying pressure
+throughout its length, it is permissible to simulate the pressure conditions by suitably dividing
+the part into zones and applying the maximum pressure for each zone including the appropriate
+factors of CS-E 640(a).
+(3)
+Tests. General
+If the part is subject to loads in addition to those resulting from differential pressure (e.g. flight
+manoeuvre loads, Engine mounting loads, etc.), an analysis should be made of these additional
+loads and their effect examined. If the effect of these loads is small it may be possible to
+simulate them by an addition to the test pressure differential. However, if the loads are of
+significant magnitude or cannot adequately be represented by a pressure increment the test
+should be carried out with such loads acting in addition to the pressure loads.
+The part should be tested at the temperature associated with the most critical stress case or
+alternatively the test pressure differential may be increased to simulate the loss of relevant
+properties as a result of temperature.
+During pressure testing the methods of mounting and restraint by the test facility or test
+equipment of any critical section should be such as to simulate the actual conditions occurring
+on the Engine.
+(4)
+Analytical Modelling Methods
+An analytical modelling method may be used to determine adequate strength and fatigue life
+provided that the model is validated by testing or successful field experience with parts of
+similar design.
+[Amdt. No.: E/1]

@@ -1,0 +1,24 @@
+# AMC E 50(j) Controls - Engines having a 30-Second OEI Power Rating
+# id: AMC E 50(j)
+# subpart: A
+# pages: 37-38
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event
+of one Engine becoming inoperative. The flight and operating conditions requiring use of this
+rating may create a high pilot workload to maintain safe flight. Therefore the 30-Second OEI
+rating should be applied and controlled by an automatic means that requires no pilot input or
+control other than termination command. Once activated, it automatically controls the 30-
+type certificate data sheet and associated with this rating. Because the 30-Second OEI rating
+could already use almost all the available margins in the Engine design, it is considered that
+exceeding the limits associated with this rating would likely result in an Engine Failure, which
+would be unacceptable in a critical flight condition with an already failed Engine.
+The required automatic control of the 30-Second OEI power is intended to avoid the need for
+monitoring Engine parameters such as output shaft torque or power, output shaft speed, gas
+generator speed and gas path temperatures. Such means for automatic control within the
+operating limitations should be effective during normal and abnormal operations.
+(2)
+The means required by CS-E 50(j) should not prevent the Engine from reaching and maintaining
+its rated 30-Second OEI Power. See also paragraph (5) of AMC E 20(f).
+[Amdt. No.: E/1]

@@ -1,0 +1,55 @@
+# CS-E 650 Vibration Surveys
+# id: CS-E 650
+# subpart: E
+# pages: 119-120
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 650)
+(a)
+It must be established by test or a combination of test and validated analysis that the vibration
+characteristics of all components that may be subject to mechanically or aerodynamically
+induced vibratory responses are acceptable throughout the declared flight envelope.
+(b)
+The vibration surveys must cover the ranges of power or thrust and rotational speed for each
+rotor module, corresponding to operations throughout the range of ambient conditions in the
+declared flight envelope, from the minimum rotational speed up to at least the maximum of:
+(1)
+103 % of the maximum rotational speed permitted for rating periods of two minutes or
+longer;
+(2)
+100 % of the maximum rotational speed permitted for rating periods of less than two
+minutes;
+(3)
+100 % of any Maximum Engine Over-speeds declared under CS E 830.
+(c)
+If there is any indication that a rising response amplitude may lead to peak vibratory stresses
+occurring at a speed above the maximum rotational speed established under CS-E 650(b), the
+surveys must be extended sufficiently to reveal the maximum amplitude, except that the
+extension need not cover more than a further 2 percentage points increase beyond this speed.
+(d)
+The surveys must also cover the aerodynamic and aeromechanical factors which might induce
+or influence flutter in those systems susceptible to that form of vibration.
+(e)
+Evaluations must be made of the effects on vibration characteristics of operating with
+scheduled changes (including allowance for tolerances) to variable vane angles, compressor
+bleeds, accessory loading, the most adverse inlet airflow distortion pattern declared by the
+applicant and the most adverse conditions in the exhaust duct(s).
+(f)
+Except as provided by CS-E 650(g), the vibratory stresses associated with the vibration
+characteristics determined under this CS-E 650, when combined with the appropriate steady
+stresses, must provide suitable margins to the endurance limit of each component, after making
+due allowances for operating conditions and for the permitted variations in properties of the
+associated materials. The suitability of these stress margins must be justified for each
+component. If it is determined that certain operating conditions, or ranges, need to be limited,
+operating and installation limitations must be established.
+(g)
+The effects on vibration characteristics of excitation forces caused by Fault conditions must be
+evaluated and shown not to result in a Hazardous Engine Effect.
+(h)
+Compliance with this CS-E 650 must be substantiated for each specific installation configuration
+that can affect the vibration characteristics of the Engine. If these vibration effects cannot be
+fully investigated during Engine certification, the methods by which they can be evaluated and
+compliance shown must be substantiated and defined in the Engine instructions for installation
+required under CS-E 20(d).
+[Amdt. No.: E/1]
+[Amdt. No. E/4]

@@ -1,0 +1,11 @@
+# AMC E 770 Low Temperature Starting Tests
+# id: AMC E 770
+# subpart: E
+# pages: 176-176
+# source: CS-E_Amendment_8.pdf
+
+It is normally acceptable in each of the tests of CS-E 770(b) and (c) to allow the Engine to inspire
+uncooled intake air.
+The Constructor may declare a Minimum oil temperature which, with any associated conditions, may
+be used for the purpose of opening up from ground idle for warming up or taxying.
+[Amdt. No.: E/1]

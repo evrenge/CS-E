@@ -1,0 +1,10 @@
+# CS-E 910 Relighting In Flight
+# id: CS-E 910
+# subpart: E
+# pages: 243-244
+# source: CS-E_Amendment_8.pdf
+
+The Engine constructor must recommend an envelope of conditions for Engine relighting in flight, and
+must substantiate it by appropriate tests or other evidence. The recommendation must state all the
+conditions applicable, e.g. altitude, air speed, Engine windmilling rotational speed, whether starter
+assistance is required, the recommended drill.

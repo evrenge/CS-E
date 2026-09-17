@@ -1,0 +1,530 @@
+# AMC E 650 Vibration Surveys
+# id: AMC E 650
+# subpart: E
+# pages: 120-130
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Definitions. The following are defined for the purpose of this AMC:
+A vibration survey is a test or series of tests which, either alone or in conjunction with
+Vibration
+Survey:
+validated analysis, establishes the vibratory characteristics of Engine components.
+A baseline test is one which was performed for the purpose of establishing
+Baseline
+Test:
+experimentally the dynamic characteristics of Engine components using hardware,
+and/or under conditions, different from those for which approval is currently sought,
+and is an essential requirement for a complementary validated analysis.
+A validated analysis is one with demonstrated predictive capability within a specified
+Validated
+Analysis:
+domain of applicability that encompasses one or more complementary baseline tests.
+A module is either a compressor or a turbine which may be single or multi-stage, or a
+Module:
+gear box. If multi-stage, the rotating elements are mechanically joined and rotate at the
+same speed. The gas path entry and exit points are clearly defined and are frequently
+nodal points in a performance model.
+Note: A single stage or subset of stages isolated from a multi-stage compressor or
+turbine does not constitute a module.
+Physical
+The physical rotational speed of the rotating elements of a module is the raw
+Rotational
+uncorrected rotational speed. It is rotational speed as normally understood. The
+Speed (Nr):
+descriptor ‘physical’ is added in order to differentiate it clearly from corrected speed.
+Minimum
+The minimum rotational speed of the rotating elements of a module is the lowest
+Rotational
+steady state rotational speed which can be obtained within the limits imposed by the
+Engine Control System under Fault free conditions throughout the declared flight
+Speed (Min
+Nr):
+envelope.
+Corrected
+The corrected speed of the rotating elements of a module is the rotational speed
+Speed (Nc):
+normalised to a standard inlet temperature of 15°C in accordance with the formula:
+Nc = Nr/(T inlet/288) 𝑒
+where T inlet is the module gas path inlet temperature in Kelvin and the exponent e is
+determined empirically but has a typical value of 0.5. Corrected speed is a parameter
+widely used in performance modelling.
+Declared
+The declared flight envelope is the set of all airborne and ground conditions of
+Flight
+operation to be approved, including start-up, shutdown and windmilling rotation in
+Envelope:
+flight.
+Resonance is a condition that occurs when an oscillatory force applied to a component
+Resonance:
+has a frequency that coincides with one of the component’s natural frequencies,
+resulting in an elevated vibratory response. A unique vibratory mode exists for each
+natural frequency.
+Flutter is a self-excited vibration of a component in a gas flow, caused by a continuous
+Flutter:
+interaction between the gas flow and the structure, in which energy from the flow is
+diverted to the structure such that the vibratory response is sustained or increased. In
+turbomachinery, it usually occurs at a natural frequency of the structure and in the
+associated mode shape.
+A significant response is one in which a vibratory stress exceeds the level that has been
+Significant
+Response:
+previously agreed by the Agency as providing acceptable margin under CS-E 70 and CS-
+E 100 for the type of feature concerned.
+Endurance
+The endurance limit of a component is the maximum value of alternating stress that,
+Limit:
+when repeated for an essentially infinite number of cycles, will not result in high cycle
+fatigue failure of the component. 10 7 cycles have generally been accepted as
+‘essentially infinite’. The endurance limit is a function of steady-state stress,
+temperature, geometry and material properties.
+(2)
+Introduction
+The intent of the rule is to ensure the acceptable dynamic behaviour of all components and
+assemblies in a gas turbine Engine. More specifically, the rule is aimed at the avoidance of
+damaging high cycle fatigue failures.
+(3)
+Selection of Components
+CS-E 650(a) requires that the survey covers all components that may be subject to mechanically
+or aerodynamically induced vibrations. Component selection for the survey should be based on
+an appropriate combination of experience, analysis, and component test. The selected
+components would normally include:
+—
+the most critical blades and vanes, from a vibration point of view, in the fan and each
+compressor and turbine module;
+—
+all blade rows adjacent to variable incidence vanes;
+—
+all fan, compressor and turbine discs and spacers;
+—
+all main rotor shaft systems (and gears, when included in such systems);
+—
+any other component specifically identified as requiring Engine test to substantiate
+analysis and/or to supplement component tests.
+(4)
+Test Conditions
+A test or series of tests is an essential element of the survey. Whether the tests are new or
+baseline, the following conditions apply:
+(a)
+Rig testing
+Normally, a full Engine test is the preferred means to complete the survey. However, an
+applicant may elect to use rig tests for overcoming limitations associated with a full
+Engine test, such as the amount of instrumentation capable of being fitted or the range
+of inlet conditions that can be tested. Rig tests generally consist of testing full or part of
+Engine modules. If rig tests are employed, the applicant should demonstrate that all
+pertinent interface conditions and physical hardware closely replicate actual Engine
+conditions.
+(b)
+Speed requirements
+It should be the goal of the test programme to cover at least the ranges of conditions
+required under CS-E 650(b) and (c).
+CS-E 650(b)(1) requires consideration of 103 % of the maximum rotational speed
+permitted for rating periods of two minutes or longer, but where it proves physically
+impracticable to achieve the appropriate extended test conditions, the Agency may
+accept an alternative that complies with the intent of the requirement. Historically, the 3
+% margin has been imposed to account for transient overshoot. If it can be demonstrated
+that the characteristics of the Engine Control System are such that the maximum rated
+speed cannot be exceeded in fault-free operation, the required maximum tested speed
+may, with the agreement of the Agency, be adjusted downward, but may not be less than
+100 %.
+Where an extension to the range required by CS-E 650(b) is considered necessary for the
+identification of the effects of a rising vibratory stress peak, as required under CS-E 650(c),
+but it proves physically impracticable to achieve the appropriate extended test
+conditions, the Agency may accept an alternative that complies with the intent of the
+requirement. Historically, the requirement has been imposed to account for Engine-to-
+Engine variability. The Engine manufacturing and build tolerances can result in peak
+vibratory stresses occurring at slightly different rotor speeds for Engines and Engine parts
+(for example blades) of the same type design. If tested components are deliberately
+selected to cover an adverse range of manufacturing variability or any other effect
+normally captured by increasing the test maximum speed by a further 2 %, the required
+maximum tested speed may, with the agreement of the Agency, be adjusted downward,
+but may not be less than the maximum speed established for compliance with CS-E
+650(b).
+Any reduction in the speed range requirements of CS-E 650(b) and (c) proposed for the
+test programme should be justified by the applicant and agreed by the Agency. Normally,
+it would be expected that any test shortfall is covered by validated analysis.
+Refer also to paragraph (5) ‘Altitude and Temperature Effects’ and (8) ‘Flutter’ for
+complementary guidance on affecting speeds.
+(c)
+Instrumentation
+To acquire the data required under CS-E 650 when conducting vibration surveys, the
+applicant should use suitable instrumentation, data acquisition, and analyser systems.
+Vibration-specific instrumentation may include dynamic strain gauges, accelerometers,
+dynamic pressure gauges and time-of-arrival sensors.
+Vibratory stresses are most commonly calculated using dynamic strain gauges placed at
+predetermined locations and oriented to measure specific directional strains. These
+strain gauges should maintain their accuracy throughout the test conditions, particularly
+when repeatedly exposed to high temperatures for extended periods. The applicant
+should aim to take measurements at locations which are sensitive to the peak responses
+of interest but are also tolerant of a degree of mislocation/alignment variability. When
+these locations are not suitable or accessible for that purpose, stresses may be measured
+nearby provided that the relationships between the stresses at these locations and those
+at critical locations are known and predictable. To identify the accessible locations that
+best represent the critical stresses, knowledge of each natural mode and associated
+stress distributions is required, which may be gained from a combination of experience,
+analyses, or testing. This investigation is usually conducted before the certification test.
+Time-of-arrival sensors, such as optical sensors or light probes, may prove convenient
+alternatives to strain gauges provided they are properly calibrated and their capabilities
+are clearly understood. The most common application for time-of-arrival sensors is to
+estimate blade tip displacements, which may then be converted to stresses at specific
+blade locations. Converting measured displacements or gauge strains to vibratory
+stresses requires a detailed knowledge of the blade normal mode frequencies, mode
+shapes, modal stress/strain distributions and associated tip displacements. This
+conversion should be shown to be sufficiently accurate or at least conservative. Time-of-
+arrival data for vibratory modes where measured displacements have low sensitivity in
+relation to stresses in critical areas should not be used in order to avoid excessive
+uncertainty in endurance limit calculations.
+(d)
+Instrumentation survivability
+Where the Engine operates at such high rotor speeds and gas path temperatures that
+test instrumentation can only survive the environment for short periods of time,
+validated analysis would be expected to complete the substantiation. The loss of
+instrumentation should be minimal and the associated analysis should be primarily based
+on the surviving instrumentation data.
+(e)
+Engine modifications
+During testing, the Engine may be modified or adjusted in an effort to achieve the desired
+physical and corrected speeds, or any other test conditions. Any alterations made to the
+Engine for these purposes should be evaluated to show that their effects are not
+detrimental or do not compromise the intent of the test and the test results.
+(5)
+Altitude, Temperature and Environmental Effects
+CS-E 650(a) requires that conditions throughout the declared flight envelope are evaluated
+when establishing that the dynamic behaviour of components and systems is acceptable. These
+conditions should include icing (CS-E 780) and rain and hail (CS-E 790) under which sustained
+Engine operation is expected to occur and which may lead to high rotor imbalance, severe rotor-
+case interaction, higher vibratory amplitudes, or flutter. When showing compliance with CS-E
+650, the applicant may take into account the tests performed to show compliance with CS-E
+780 and CS-E 790 to characterise the Engine vibration behaviour.
+Changes in operating conditions associated with ambient temperature, altitude and
+environmental variations affect Engine performance, airflow characteristics and rotor
+imbalance. This can have a significant effect on aerodynamic and mechanical forcing and
+damping, which, in turn, affects the vibratory response and behaviour of certain components.
+Appropriate justification should be provided by the applicant that the worst operating
+conditions in the declared flight envelope have been fully explored.
+Engine tests may be conducted by means of flight test or in altitude facilities or in other facilities
+such that the effects of altitude and temperature are properly represented and can be
+evaluated. Suitable test equipment and instrumentation should be used for each situation. The
+dependency of certain vibratory phenomena on temperature and altitude can be characterised
+as a dependency on corrected speed, which enables such phenomena to be investigated by
+means of sea-level testing, provided that the entire required corrected speed range can be
+achieved. In general, a high corrected speed implies that the airflow over the blading has a high
+Mach number, which is associated with higher aerodynamic forcing and lower aerodynamic
+stability.
+(6)
+Fault Conditions
+A number of common Fault conditions can have the effect of introducing additional excitation
+sources or changes to those existing under Fault-free conditions. Any change in vibration
+response should be evaluated and shown not to result in a Hazardous Engine Effect.
+CS-E 650(g) applies to those Fault conditions that would cause abnormal vibrations that are
+difficult to identify in a timely manner so that appropriate mitigating action can be taken.
+Notwithstanding the provisions of CS-E 60 and CS-E 510 with regard to instrumentation, certain
+low-level vibrations caused by Fault conditions may not be recognised as associated with an
+Engine Fault and may not prompt an immediate response. Subsequently, these Faults may
+escalate to Hazardous Engine Effects. For example, the loss of an airfoil tip would be likely to
+result in a change in vibration due to the increased out-of-balance. Even if indicated by the
+means required under CS-E 60 and CS-E 510, this vibration might not be immediately recognised
+as abnormal or may not prompt immediate action, and could cause further damage. Other
+Faults include incorrectly scheduled compressor variables, stator vanes blockages or
+enlargement, and blockages of fuel nozzles. These Faults could produce local airflow distortions
+and changes in the airflow or pressure distributions that in turn may affect component vibratory
+response and characteristics. To address these Fault conditions, the applicant may use prior
+experience with Faults that occurred on other similar Engines. Successful experience is such
+that, after exposure to a Fault condition, the Engine was able either to continue in safe
+operation or to be shut down without creating a Hazardous Engine Effect. Applicants may also
+use field experience or other means to show that certain Fault conditions are Extremely Remote
+because of specific Engine configurations, design features or operating conditions. The
+requirements of CS-E 650(g) apply to the same components that are considered under CS-E
+650(a). When the effects of these Fault conditions extend to the rest of the Engine, they must
+be addressed under the requirements of CS-E 100 Strength and/or CS E 520 Strength (for
+example, the out-of-balance effects on the Engine structural components).
+(7)
+Inlet Airflow Distortion
+Fan and compressor vibration can be sensitive to inlet airflow distortion, and conditions
+consistent with the most adverse pattern declared by the applicant should be taken into
+account. Inlet airflow distortion may be associated with the air intake, crosswinds, or other
+operating and aircraft installation conditions. When an Engine test is performed, whether in a
+test cell or on a flight test bed, the inlet distortion may be achieved by various means, such as
+external crosswind devices, inlet distortion plates or suppression screens.
+(8)
+Flutter
+Testing required to demonstrate satisfactory vibratory clearance from flutter boundaries may
+be accomplished by rig and/or Engine sea-level or altitude test, subject to the following
+considerations:
+(a)
+The presence of flutter may be acceptable in some circumstances, for example in a speed
+range encountered only briefly or infrequently, or where the flutter amplitude is limited
+to a safe level. However, the resulting vibration stresses must always satisfy the
+requirements of CS-E 650(f). A thorough investigation of the flutter response and its
+effects should be completed to show that the flutter does not result in a Hazardous
+Engine Effect. The investigation may include testing as required under paragraph (10)
+below for a significant response.
+(b)
+In all cases, the test procedure needs to recognise that some systems’ susceptibilities to
+flutter will not be revealed during tests if the relevant operating conditions are not
+sustained long enough for the flutter to develop.
+(c)
+As flutter is a phenomenon which can be sensitive to small variations in those factors
+which could influence the response of the system, due consideration should also be given
+to possible variations between the nominal and extreme values of, for example, tip
+clearances, mechanical damping, operating lines and bleed flows. Experience has also
+shown that there are differences in susceptibility to flutter from one blade set to another
+and that ‘tuned’ blade sets might be more sensitive.
+(d)
+If tests will be conducted at sea level only, the applicant should propose a procedure
+acceptable to the Agency to account for altitude effects. For certain Engine modules,
+especially fans and compressors, it is expected that this will be achieved by testing
+throughout the range of corrected speed that the module will encounter in service, in
+which case the requirements of CS-E 650(b) and (c) with regard to physical rotational
+speed should be considered to apply also to corrected speed. The provisions of paragraph
+(4)(b) of this AMC are also applicable.
+(e)
+For some turbines, the propensity to flutter is not increased at maximum corrected
+speed, and other methods of demonstrating the absence of damaging flutter throughout
+the declared flight envelope may be more appropriate. It is important to ensure that the
+maximum stage inlet pressure at each physical speed is achieved, or compensation is
+provided. The strength of aerodynamic forcing on many turbine blades is predominantly
+driven by the total pressure levels, and the highest pressures are expected at the highest
+mechanical speed. Where turbines operate in aerodynamically choked conditions and the
+mass flow through the turbine is dictated by the fixed geometry of the blading, the
+corrected speed is essentially constant. Higher corrected speed (at an aerodynamic work
+level) will lower the blading Mach numbers (Mn) and, conversely, a lower corrected
+speed will increase blading Mn. This means that, in such cases, running up to 100 % of
+maximum mechanical speed will cover the worst case (highest forcing) condition.
+(f)
+In general, the methods used to verify the absence of damaging levels of flutter
+throughout the declared flight envelope should include consideration of applicable
+combinations of the following:
+(i)
+the ranges of physical and corrected rotational speeds for each rotor module;
+(ii)
+the simultaneous occurrence of maximum fan or compressor inlet air total
+temperature and maximum corrected rotational speed (i.e. maximum reduced
+velocity);
+(iii)
+the range of fan or compressor operating lines within the flight envelope;
+(iv)
+the most adverse of other fan or compressor inlet air conditions encountered
+within the flight envelope (e.g. applicable combinations of total air pressure,
+density, temperature, and inlet distortion); and
+(v)
+the hardware standard, the intake conditions and margins to account for Engine
+deterioration.
+(9)
+Variations in Material Properties and Natural Frequencies
+Allowance should be made as follows for the permitted variations in material properties, critical
+dimensions and resulting natural frequencies of production components when interpreting test
+results or making analytical predictions:
+(a)
+Material allowable stresses
+The material property that is important in relation to the requirements of CS-E 650(f) is
+the endurance limit associated with specific combinations of mean stress and alternating
+stress, usually represented on a Goodman diagram. The influence on the endurance limit
+of manufacturing processes, the local geometrical features, and temperatures should
+also be taken into account.
+(b)
+Stress margins
+CS-E 650(f) requires suitable stress margins for each part evaluated, usually represented
+by the stress margins at the critical or limiting locations. The stress margin is the
+difference between the material allowable at a particular location and the measured
+vibratory stress at that location. The criteria for stress margin suitability should account
+for the variability in design, operation (including the effects due to icing, rain and hail
+conditions, consistent with the corresponding certification test evidence) and other
+mitigating factors identified during the certification test.
+(c)
+Modal response
+The total vibratory stress at any given location is the sum of the resonant stresses
+associated with all active and concurrent normal modes, plus any other vibratory stresses
+that occur at that particular rotational speed. Due to variability in properties (material
+and geometry) the frequencies and separation of the modes may be different from blade
+to blade (or other component). The applicant should consider the stress amplitudes that
+occur within permitted blade-to-blade variations of natural frequency. For example, if for
+a particular blade design the natural frequency (fn) range is fn ± 2.5 %, then the combined
+amplitudes within this range should be considered.
+Where there is potential for more than one mode to be excited at the same time/speed,
+the overall amplitude will be a combination of contributions from each individual
+response. The combined stress is typically calculated by breaking down the vibratory
+stress of each mode into its stress components and then combining the modal
+contributions in proportion to the individual measured responses to obtain the overall
+principal or equivalent vibratory stresses.
+(10) Dwell Testing
+The applicant should determine all significant responses within the operating conditions
+prescribed in CS-E 650 and allow sufficient time for any associated resonant modes to respond.
+This is usually accomplished during slow acceleration and deceleration speed sweeps covering
+the range of required speeds.
+If any significant response is found, then the relevant components should be subjected to
+sufficient cycles of vibration close to, and/or on, the response peak to demonstrate compliance
+with CS-E 650(f). This dwell testing would normally be incorporated into the incremental periods
+of the CS-E 740 Endurance Test as required by CS-E 740(g)(1).Components subjected to such
+dwell testing should subsequently also meet the strip inspection requirements of CS-E 740(i).
+(11) Transient Response
+Consideration should also be given to the speed range from zero to minimum rotational speed,
+especially in the case of supercritical shafts. Some predicted potentially damaging transient
+responses may require an aggressive control input to provoke a representative response.
+(12) Instrumentation Incompatibility
+If the dimensions of the components to be tested are incompatible with the necessary
+instrumentation, instrumented Engine tests to substantiate the vibration characteristics of
+these components and the variation of the Endurance Test incremental running as prescribed
+in CS-E 740(g)(1) may be waived wholly or in part if the Agency is satisfied that the total hours
+of operation accumulated on test beds or in flight, under representative conditions, prior to
+certification are sufficient to demonstrate that the vibration stress levels are acceptable.
+(13) Installation Compatibility
+The intent of CS-E 650(h) is to ensure vibratory compatibility between the Engine and each
+intended installation configuration when the Engine is installed and operated in accordance
+with the manufacturer’s approved instructions. The applicant will normally be expected to
+provide sufficient information in the Engine instructions for installation to enable the aircraft
+manufacturer(s) to establish that the installation does not unacceptably affect the Engine’s
+vibration characteristics. In establishing vibratory compatibility between the Engine and the
+installation, consideration should be given to the need to declare operating limitations and
+procedures. Where appropriate, at least the following aspects and installation features should
+be considered:
+—
+each Propeller approved for use on the Engine;
+—
+each thrust reverser approved for use on the Engine;
+—
+installation influences on inlet and exhaust conditions;
+—
+stiffness and damping of the mount system; and
+—
+rotor drive systems.
+(14) Modelling and Analysis
+Acceptable analytical methods are based on the complementary concepts of a baseline test and
+validated analysis. The general principle is that a baseline test in conjunction with validated
+analysis is equivalent to a new test.
+(a)
+Baseline test
+A baseline test is usually one of the following:
+(i)
+An Engine or rig test run on the first model of an Engine type during the type
+certification programme. The validated analysis developed on the basis of this test
+may then be used for derivative models that are added to the same type certificate.
+(ii)
+An Engine or rig test run on a previously certified Engine type. The validated
+analysis developed on the basis of this test may then be used for Engines whose
+design characteristics and operating conditions are shown to be sufficiently similar
+to those of the Engine in the baseline test.
+(iii)
+An Engine or rig test specifically run to support the creation of the validated
+analysis.
+The design characteristics and operating conditions run in the baseline test(s) should be
+shown to be sufficiently similar and inclusive of the domain of applicability for the Engine
+being certified, as defined in this AMC, paragraph (14)(b)(i), (ii) and (iii).
+A test from which the results are used to calibrate an analysis is not in general eligible to
+be considered a baseline test in relation to the validation of that analysis. The same test
+results cannot be used both to calibrate and validate an analysis.
+(b)
+Validated Analysis
+(i)
+Development of the Validated Analysis.
+The analytical model should be validated against one or more baseline tests.
+For each baseline test on which the validation is based, it should be shown that the
+analysis consistently predicts the observed behaviour and vibratory responses of
+the components investigated to an acceptable precision and accuracy.
+Alternatively, it could be shown that predictions reliably overpredict the vibratory
+response.
+The applicant should clearly define the domain of applicability of the analysis,
+comprising the ranges of design characteristics and operating conditions for which
+the analysis will be deemed to be validated. Typical design characteristics and
+operating conditions which may constitute a definition of the domain of
+applicability are as follows:
+— Engine architecture:
+— general configuration, for example 2- or 3-shaft design, turboshaft,
+turbofan, open rotor, geared fan;
+— secondary air system;
+— number, location and type of bearings, including installation
+(inner/outer race grounded, inter-shaft, damped, etc.), and associated
+support structures.
+— Module type, for example high or low pressure turbine, axial or radial
+compressor.
+— Component geometry, for example shrouded or unshrouded blades, aerofoil
+aerodynamic shapes (‘2D’ or ‘3D’).
+— Structural dynamic characteristics:
+— natural frequencies, which will influence the resonance speeds and
+aerodynamic stability (flutter);
+— mode shape similarity, for example a measure of accuracy that is often
+employed is the Modal Assurance Criterion (MAC). Typically, a MAC
+value greater than 0.9 indicates there is close agreement between
+measured and calculated mode shapes. Close matching of mode shapes
+implies that response to the same forcing will be similar;
+— mechanical damping levels; any difference will be directly reflected in
+the resonant response level or flutter suppression;
+will strongly influence the vibration amplitudes variability in a bladed
+disc and will have a stabilising influence on flutter.
+— All structural dynamic characteristics affected by:
+— materials and construction technique, for example composites,
+anisotropic metals, joining methods
+— restraints, for example blade or vane attachment design, snubbers or
+dampers, flanges.
+Similarity of the structural dynamic characteristics is frequently demonstrated by
+a combination of comparative analysis and modal testing in a laboratory.
+— Aeroelastic characteristics:
+— The Strouhal number (k) or reduced frequency which characterises
+the variation of flow with time, where k = ω.c/U, ω = frequency, c =
+component length in flow direction and U = flow velocity, is relevant for
+flutter.
+— Sources of vibratory excitations and forcing strength:
+— upstream or downstream rotors, stators or struts, for example
+numbers off, aerodynamic style, axial gapping;
+— gas stream characteristics, inlet or flow path asymmetry, main gas
+path and secondary flows;
+— power or thrust levels, air density, Mach number and Reynolds
+number that can affect both flutter and forced response amplitudes,
+— combustion system
+— mechanical sources, for example gearbox and rotor out-of-balance.
+— Operating conditions:
+— rotational speeds, temperatures and gas pressures experienced by
+the subject components throughout the declared flight envelope.
+The validated analysis and its domain of applicability should be acceptable to the
+Agency.
+(ii)
+Use of the Validated Analysis
+Similarity of the Engine, module or component(s) to be certified with previously
+tested and certified designs should be justified. For each new Engine certification
+programme, for which the use of validated analysis is proposed, the applicant
+should show that the design characteristics and operating conditions of the Engine
+fall within the domain of applicability of the analysis previously established and
+accepted by the Agency.
+The demonstration of compliance will be considered to be the combination of the
+baseline test(s) used to create the validated analysis, and the analysis performed
+on the Engine for which approval is currently sought.
+Examples where validated analysis may be used include but are not limited to the
+following:
+Where test speeds required by CS-E 650(b) and (c) are not achieved, by
+agreement with the Agency as described in paragraph (4)(b) of this AMC. The
+validated analysis would be expected to cover the speed range(s) or
+operating conditions not achieved during testing.
+—
+Where instrumentation has been lost, for example due to the extreme test
+conditions. The validated analysis would be expected to cover the speed
+range(s) or operating conditions for which instrumentation was lost.
+—
+Where stresses are not measured directly at critical locations. In that case,
+the peak stresses may be derived based on measurements taken at
+reference locations. This requires a detailed understanding of the modal
+composition of the response and the associated mode shapes to derive the
+relationship between each location.
+—
+Where it proves necessary to justify the acceptability of any significant
+responses whether observed or predicted.
+(iii)
+Update of the Validated Analysis
+It is expected that the applicant may regularly update the validated analysis, for
+instance following new testing performed or service experience. The updated
+validated analysis and/or its domain of applicability should be reviewed and
+accepted by the Agency.
+(15) Inspection Specifications
+The pre-certification activity necessary for determining which Engine components require
+verification by Engine test and also for determining the proper location of Engine test
+instrumentation will typically include substantive tests and analyses for determining
+component (or system) natural frequencies, mode shapes, steady-state mean stress and
+vibratory stress distributions. These development activities will generate engineering data
+essential to supporting the certification test and should be exempt from formal Agency approval
+of test plans and reports. Inspection of type design hardware in accordance with the
+requirements of point 21.A.33 of Part 21 should be limited to only those pertinent Engine
+components and associated instrumentation that constitute the certification Engine test or the
+baseline tests supporting the validated analysis.
+[Amdt No: E/1]
+[Amdt No: E/4]
+[Amdt No: E/7]
+[Amdt No: E/8]

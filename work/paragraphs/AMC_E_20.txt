@@ -1,0 +1,53 @@
+# AMC E 20 Engine Configuration and Interfaces
+# id: AMC E 20
+# subpart: A
+# pages: 19-20
+# source: CS-E_Amendment_8.pdf
+
+(1)
+The components and equipment listed in the Engine type design (see CS-E 20(a)) should include
+those items necessary for the satisfactory functioning and control of the Engine.
+(2)
+It is not necessary to include any items required to provide non mechanical inputs to the Engine
+if the characteristics of these inputs (e.g. voltage, current, timing, fuel, air, etc) can be clearly
+specified.
+(3)
+The components or equipment identified under CS-E 20(c) constitute interfaces for the
+purposes of CS-E 20(d). The effect of these components or equipment on the Engine should be
+considered during the Engine certification, in normal and Failure cases (see CS-E 80). The Engine
+instructions for installation required under CS-E 20(d) should clearly specify the need for such
+components or equipment to comply with CS-E 80(c).
+(4)
+The applicant should give the aircraft manufacturer the information on the assumptions which
+were made during the Engine certification and which need to be taken into account when
+designing the installation (see CS-E 30). The applicant should ensure, when appropriate in co-
+ordination with the aircraft manufacturer, that Engine design considerations which might be
+imposed by the assumed installation certification specifications are taken into account. For
+example, all necessary provision should be made in the Engine for the fitment and operation of
+at least the mandatory items of equipment prescribed by the use of the word ‘should’ in the
+assumed applicable aircraft specifications.
+(5)
+The Engine instructions for installation should include or make reference to installation
+interface descriptions, limitations, and specifications for the Engine Control System. For
+example, the Electronic Engine Control System (EECS) power specifications and quality,
+including interrupt limitations, should be clearly defined for the installer. Another example is
+that the impedance and buffering limitations for the signals provided by the EECS for display
+and instrumentation, or signals used by the EECS, such as air data information, should be
+specified.
+(6)
+The trend toward system integration may lead to EECS that:
+— Have other control functions integrated within the Engine Control System, such as an
+integrated Engine and Propeller Control System or,
+— Depend on aircraft resources.
+Examples of these aircraft supplied resources include recording of rotorcraft One Engine
+Inoperative data and aircraft central computers that perform some or all of the Engine control
+functions.
+The applicant is responsible for specifying the specifications for the EECS for these aircraft
+supplied resources in the Engine instructions for installation and substantiating the adequacy
+of those specifications.
+(7)
+The Engine instructions for installation should include a description of all operational modes of
+the Engine Control System and its functional interface with the aircraft systems including Back-
+up or Alternate Modes whether dispatchable or not, and including the Propeller when
+applicable.
+[Amdt. No.: E/1]

@@ -1,0 +1,42 @@
+# CS-E 640 Pressure Loads
+# id: CS-E 640
+# subpart: E
+# pages: 117-118
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 640)
+(a)
+Static Pressure Loads
+It must be established by test, validated analysis or combination thereof that all static parts
+which are subject to significant gas or liquid pressure loads will not, for a stabilised period of
+one minute:
+(1)
+Exhibit permanent distortion beyond serviceable limits or exhibit leakage which could
+result in a Hazardous Engine Effect when subjected to the greater of the following
+pressures:
+(i)
+1.1 times the maximum working pressure or,
+(ii)
+1.33 times the normal working pressure or,
+(iii)
+35 kPa above the normal working pressure, and
+(2)
+Exhibit fracture or burst when subjected to the greater of the following pressures:
+(i)
+1·15 times the maximum possible pressure or,
+(ii)
+1·5 times the maximum working pressure or,
+(iii)
+35 kPa above the maximum possible pressure.
+(b)
+Compliance with CS-E 640(a) must take account of
+(1)
+The operating temperature of the part,
+(2)
+Any other significant static loads in addition to pressure loads,
+(3)
+Minimum properties representative of both the material and the processes used in the
+construction of the part, and
+(4)
+Any adverse geometry conditions allowed by the type design.
+[Amdt. No.: E/1]

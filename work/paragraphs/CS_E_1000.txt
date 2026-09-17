@@ -1,0 +1,13 @@
+# CS-E 1000 General
+# id: CS-E 1000
+# subpart: F
+# pages: 252-252
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 1000)
+Compliance with the specifications of CS-E 1010 and CS-E 1020 may be mandatory for Engine type
+certification depending on the specifications referenced under CS-34. Compliance with all or some of
+the other specifications of this subpart is optional, at the request of the applicant.
+Compliance with the specifications of this subpart will be recorded in notes in the Engine type
+certificate data sheet.
+[Amdt. No.: E/1]

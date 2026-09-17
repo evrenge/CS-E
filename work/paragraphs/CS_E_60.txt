@@ -1,0 +1,54 @@
+# CS-E 60 Provision for Instruments
+# id: CS-E 60
+# subpart: A
+# pages: 38-39
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 60)
+(a)
+Provision must be made for the installation of instrumentation necessary to ensure operation
+in compliance with the Engine operating limitations. Where, in presenting the safety analysis,
+or complying with any other specification, dependence is placed on instrumentation which is
+not otherwise mandatory in the assumed aircraft installation, then this instrumentation must
+be specified in the Engine instructions for installation and declared mandatory in the Engine
+approval documentation.
+(b)
+A list of the instruments necessary for control of the Engine must be provided in the Engine
+instructions for installation. The overall limits of accuracy and transient response required of
+such instruments for control of the operation of the Engine must also be stated so that the
+suitability of the instruments as installed may be assessed.
+(c)
+The sensors together with associated wiring and signal conditioning must be segregated,
+physically and electrically, to the extent necessary to ensure that the probability of a Fault
+propagating from instrumentation and monitoring functions to control functions or vice versa
+is consistent with the Failure effect of the Fault.
+(d)
+Rotorcraft turbine Engines having 30-Second and 2-Minute OEI Power Ratings must (See AMC
+E 60(d)):
+(1)
+Have means, or provision for means, to alert the pilot when the Engine is at the 30-Second
+OEI and the 2-Minute OEI Power levels, when the event begins, and when the time
+interval expires.
+(i)
+Automatically record each usage and duration of power at the 30-Second and 2-
+Minute OEI Power levels.
+(ii)
+Alert maintenance personnel in a positive manner, that the Engine has been
+operated at either or both of the 30-Second and 2-Minute OEI Power levels and
+permit retrieval of recorded data; and
+(3)
+Have means, or provision for means, to enable routine verification of the proper
+operation of the above means.
+(e)
+Instrumentation enabling the flight crew to monitor the functioning of the turbine cooling
+system must be provided unless evidence shows that:
+(1)
+Other existing instrumentation provides adequate warning of Failure or impending
+Failure, or
+(2)
+Failure of the cooling system would not lead to Hazardous Engine Effects before
+detection, or
+(3)
+The probability of Failure of the cooling system is Extremely Remote.
+Appropriate inspections must be promulgated in the relevant manuals.
+[Amdt. No.: E/1]

@@ -1,0 +1,53 @@
+# AMC E 890 Thrust Reverser Tests
+# id: AMC E 890
+# subpart: E
+# pages: 242-243
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Interpretation of CS-E 890(g):
+In cases where the Engine test of CS-E 740 cannot be run with the standard thrust reverser, for
+example because it is not available despite the applicant’s efforts to obtain it, it is acceptable
+that a suitably representative test reverser is fitted for the endurance test.
+This addresses only the passive effects of the thrust reverser: cantilevered weight, the effect on
+vibrations and the loading of the Engine carcass, etc. Other evidence will be necessary to
+address the effects of the thrust reverser when functioning.
+It is also acceptable to use other Engine tests performed with a representative thrust reverser,
+such as cyclic tests performed for the ETOPS approval of the aircraft.
+(2)
+Representative control system.
+It is not necessary that the whole control system (i.e. up to throttle levers) be representative of
+that of standard production thrust reverser. The necessary components of the control system
+are those situated on the powerplant assembly (nacelle) and which are subject to functioning
+when the reverser deployment is requested. This includes magnetic, hydraulic, electric,
+actuated controls but not necessarily the supply upstream, depending on the installation. The
+automatic throttle retarder system and forward thrust restrictor should be representative of
+the standard reverser system, but the control from pylon to flight deck need not be. Provision
+for instrumentation in the nacelle area are necessary for test follow up.
+(3)
+Duration of use.
+Thrust reverser intended for ground use only addressed in CS-E 890(c), as opposed to in-flight
+use addressed in CS-E 890(d), means a thrust reverser for which there is a means to prevent the
+reverser from deploying in flight.
+The cycles prescribed in CS-E 890(c)(1) refer to a duration of use for which approval is sought.
+When no particular use is intended other than the braking during post-landing and taxiing, it is
+commonly assumed that the duration should be taken as 30 seconds.
+For in-flight use, in CS-E 890(d), when no particular value is foreseen for duration use, the
+duration should be taken equal to one minute.
+During the tests prescribed under CS-E 890(c) and (d), the cycles to be run up to the «declared
+maximum reverse thrust conditions» should be such as to explore the Engine/reverser
+combination up to conditions likely to be encountered inside the declared envelope for use of
+the thrust reverser, in terms of temperatures (EGT) and pressures.
+The required reverser operation cycles conducted should average no less than 100 percent of
+the specified maximum thrust conditions for maximum forward and maximum reverse. While
+some reverser operating cycles are acceptable with operation below the specified thrust values,
+to be credited the gas temperature should be maintained at least to the specified 100 percent
+value.
+(4)
+Combination of tests.
+The tests of CS-E 890 may be combined with parts of the Endurance Test of CS-E 740 by suitable
+arrangement in agreement with the Agency. For example, test of CS-E 890(c)(1) may be
+combined with idling periods of Part 1 and 5 of the Endurance Test provided the idling period
+with forward thrust is not reduced to less than 3 ½ minutes per cycles.
+[Amdt No: E/1]
+[Amdt No: E/5]

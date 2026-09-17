@@ -1,0 +1,54 @@
+# CS-E 850 Compressor, Fan and Turbine Shafts
+# id: CS-E 850
+# subpart: E
+# pages: 235-236
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 850)
+(a)
+Objectives.
+(1)
+It must be demonstrated that Failures of the shaft systems will not result in Hazardous
+Engine Effects, except as provided in CS-E 850(a)(3).
+(2)
+It must be established that the shaft systems are designed so that Failures are predicted
+to occur at a rate not in excess of that defined as Remote.
+(3)
+If compliance with the objective of CS-E 850(a)(1) is not achieved for certain elements of
+a shaft, it must be shown that Failures of these elements are predicted to occur at a rate
+not in excess of that defined as Extremely Remote.
+(b)
+Compliance.
+(1)
+Non-Hazardous Shaft Failures. When it is claimed that Failures of the shaft systems will
+not result in Hazardous Engine Effects, a test will normally be required to demonstrate
+the consequences of these shaft Failures unless it is agreed that the consequences are
+readily predictable.
+(2)
+Hazardous Shaft Failures. In complying with CS-E 850(a)(3), the Failure rate of certain
+elements of shaft systems will be accepted as Extremely Remote, if: -
+(i)
+The shaft is identified as an Engine Critical Part and compliance is shown with CS-E
+515.
+and
+(ii)
+Their material and design features are well understood and are conducive to well
+established and validated stressing techniques.
+and
+(iii)
+The surrounding environment of the elements considered is such that it is accepted
+that a shaft Failure owing to this environment can be judged as sufficiently unlikely
+that the Failure mode can be discounted. This consideration of the environment
+must include complexity of design, corrosion, wear, vibration, fire, contact with
+adjacent components or structure, overheating, and secondary effects from other
+Failures or combinations of Failures.
+and
+(iv)
+In making the assessment described in CS-E 850(b)(2)(iii), any assumptions
+regarding the Engine installation are identified and declared in accordance with CS-
+E 30.
+and
+(v)
+Experience with parts of similar design is assessed and taken into account as
+appropriate.
+[Amdt No: E/1]

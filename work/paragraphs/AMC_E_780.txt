@@ -1,0 +1,896 @@
+# AMC E 780 Icing Conditions
+# id: AMC E 780
+# subpart: E
+# pages: 178-194
+# source: CS-E_Amendment_8.pdf
+
+(1)
+Introduction
+This AMC provides Guidance Material and Acceptable Means of Compliance for showing
+compliance with CS-E 780.
+Test evidence is normally required for Supercooled Liquid Water (SLW) icing conditions. For
+other applicable icing conditions, compliance may be demonstrated by a combination of test,
+analysis and service experience.
+(1.1) Definitions
+Auto-Recovery Systems: Engine systems that ensure that Engines operate just before or
+immediately after an upset (that is, power loss or stall) without operator intervention.
+Auto-recovery systems include auto-relight systems, stall recovery systems, and other
+Engine systems intended to recover the operability of an Engine following a flameout,
+surge, stall, or a combination of these.
+Freezing Fraction: The ratio of the mass of water that freezes at a point on a surface to
+the total mass of incoming water at that point.
+Highlight Area: The area bounded by the leading edge of the nacelle inlet. This may be
+different for turboshaft installations where complex inlet schemes are utilised.
+Ice Formations: Ice formations resulting from the impact of supercooled water droplets
+on propulsion system surfaces are classified as follows:
+(a)
+Glaze Ice: This is a transparent or translucent ice formed by liquid water droplets
+that do not freeze immediately on impact and has horns. Droplets impacting the
+surface do not freeze immediately, but run back along the surface until freezing
+occurs. Glaze ice typically has a non-aerodynamic shape and is more susceptible to
+aerodynamic forces that result in shedding. Glaze ice typically has both a lower
+freezing fraction and lower adhesive properties than rime ice. Glaze ice is often a
+concern for static hardware while rime ice is often a concern for rotating hardware.
+(b)
+Rime Ice: This is a milky and opaque ice formed by liquid cloud droplets that freeze
+immediately on impact. Rime ice typically forms in an aerodynamic shape, on both
+rotating and static Engine hardware. The freezing fraction is high for rime ice,
+typically approaching a value of 1.0. Rime ice typically has greater adhesion
+properties than glaze ice but often a lower density. Adhesion properties increase
+with lower temperature up to a test point where no additional adhesion is gained
+with additional lower temperature.
+Ice Shed Cycle: The time period required to build up and then shed ice on a propulsion
+system surface for a given power and icing condition. A shed cycle can be identified
+visually (for example, with high-speed cameras), and with Engine instrumentation (such
+as vibration pickups, temperature probes, pressure probes, speed pickups, etc.). The ice
+shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed
+and the adhesive strength of the ice to the surface. In general, ice adhesive strength
+increases as surface temperature decreases.
+Icing Conditions: The presence of supercooled liquid water drops and temperature
+conducive to aircraft icing. These conditions are defined by the following parameters:
+—
+Liquid Water Content (LWC): The total mass of water contained in liquid drops
+within a volume or mass unit of cloud or precipitation, usually given in units of
+grams of water per cubic meter or kilogram of dry air (g/m3, g/kg);
+—
+Median Volumetric Diameter (MVD): The drop diameter which divides the total
+liquid water content present in the drop distribution in half, i.e., half the water
+volume will be in larger drops and half the volume in smaller drops. (Also
+sometimes called Median Volume Diameter). Note the MVD used in Appendices O
+and P to CS-25 is equivalent to the MED used in Appendix C to CS-25 and CS-29, CS-
+Definitions for an assumed Langmuir type droplet distribution);
+—
+Mean Effective Diameter (MED): A term used with the rotating multicylinder
+method for measuring LWC in clouds. A droplet diameter which, when assigned to
+the midpoint of one of the Langmuir distributions, gives the best agreement
+between the computed and measured differential ice mass accumulations on a set
+of rotating multicylinders. The MED is approximately equal to the MVD;
+—
+Total Air Temperature (TAT): The ambient air temperature plus the ram air
+temperature rise. For icing testing in test cells, the total Engine inlet temperature
+includes the static air temperature of the cloud from the applicable icing
+environment, plus the assumed flight airspeed; and
+—
+Static Air Temperature (SAT): The local measured air temperature minus the air
+temperature rise from velocity effects.
+Power/Thrust Loss Instabilities: Engine operating anomalies that cause Engine
+instabilities. These types of anomalies could include non-recoverable or repeating surge,
+stall, rollback, or flameout, which can result in Engine power or thrust cycling.
+Scoop Factor (concentration factor): The ratio of nacelle inlet highlight area (AH) to the
+area of the captured air stream tube (AC) [scoop factor = AH/AC]. Scoop factor compares
+the liquid water available for ice formation in the Engine inlet to that available in the low-
+pressure compressor or Engine core, as a function of aircraft forward airspeed and Engine
+power condition. The scoop factor effect depends on the droplet diameter, the simulated
+airspeed and the Engine power level as well as the geometry and size of the Engine. This
+may be different for turboshaft installations where complex inlet schemes are utilised.
+Sustained Power/Thrust Loss: This is a permanent loss in Engine power or thrust.
+Typically, sustained power loss is calculated at rated take-off power.
+Unacceptable Mechanical Damage: Mechanical damage resulting from the testing of the
+Engine in icing conditions and that is in excess of the limited Engine damage defined
+below.
+When assessing Engine damages, the applicant should fully account for cumulative
+damage from repeated icing conditions encounters. This should include the exposure to
+repeated induced vibration loads (at frequencies and magnitudes corresponding to the
+vibration spectrum predicted using available test evidence) and to repeated shed ice
+impacts.
+Limited Engine damage should satisfy the following criteria:
+(a)
+Continued In-Service Use. The applicant should evaluate any resultant Engine
+damage and demonstrate that it does not affect the Engine performance and
+operability for continued in-service use. This includes continued safe operation
+with no imminent failures expected, no significant power or thrust loss, and no
+significant aeromechanical effect.
+(b)
+Sustained Power or Thrust Losses. The Engine should not experience any sustained
+power loss beyond 1.5 % (that is, the nominal accepted level considered to be
+within measurement capability).
+(c)
+Temporary or Momentary Power Loss. Where possible, early coordination with the
+aircraft manufacturer is recommended to assess the acceptability of temporary or
+momentary power or thrust losses.
+(d)
+Validation Basis. Analytical tools used to substantiate the criteria for determining
+acceptable damage should demonstrate an acceptable validation basis. For
+example, validation could utilise Engine tests or rig tests to substantiate the
+accuracy of results. An acceptable analytical tool validation basis includes test data
+which yields conservative results.
+(e)
+Engine Damage. Damage to the Engine or Engine components as a result of icing
+compliance testing should not exceed the limits provided in the Instructions for
+Continued Airworthiness. Cumulative damage from repeated encounters should
+be considered a part of this assessment. Any damage findings should be brought
+to the attention of the Agency for approval.
+(f)
+High Vibration. The applicant must ensure that high vibration that may occur
+during operation in icing conditions is assessed for the specific aircraft installation.
+The acceptability of high vibration with regard to its potential impact on the safety
+of the aircraft should be evaluated in cooperation with the aircraft manufacturer,
+where possible.
+Water Impingement Rate: The rate of water collection on an Engine surface during a
+specific period of time. The units of the water impingement rate are g/m2/min.
+Note: Additional definitions can be found in Reference 2. — SAE ARP 5624.
+(1.2) References
+1.
+Mixed-Phase Icing Condition: A review (DOT/FAA/AR-98/76), Dr. Riley, James T,
+Office of Aviation Research, Washington D.C. 20591, U.S. Department of
+Transportation, Federal Aviation Administration, December 1998.
+2.
+SAE Aerospace Recommended Practice (ARP) 5624 — ‘Aircraft Inflight Icing
+Terminology’, issued on 3.3.2008, reaffirmed on 23.4.2013.
+(1.3) Test Configuration — Engine
+Because the Engine behaviour cannot easily be divorced from the effects of the Engine
+air intake and Propeller, where possible, it is recommended that the tests be conducted
+on an Engine complete with representative air intake, Propeller (or those parts of the
+Propeller which affect the Engine air intake), and Engine air data probes. Separate
+assessment and/or testing of the air intake, Propeller and air data probes are not
+excluded but in such circumstances, the details of the assumed Engine installation will be
+defined in the manuals containing instructions for installing and operating the Engine
+(under CS-E 20(d)). It would then finally be the responsibility of the aircraft manufacturer
+to show that the Engine tests would still be valid for the particular air intake and Propeller,
+taking into account:
+— distortion of the airflow and partial blockage of the air intake as a result of, for
+example, incidence or ice formation on the air intake and Propeller;
+— the shedding into the Engine of air intake and Propeller ice of a size greater than
+the Engine is able to ingest;
+— the icing of any Engine sensing devices or other subsidiary air intakes or equipment
+contained within the Engine air intake; and
+— the time required to bring the protective system into full operation.
+Apart from tests carried out under paragraph (6) of this AMC, the icing tests should be
+carried out with all ice protection systems (IPS) operating. When dispatch is to be
+permitted with some ice protection systems inoperative, then the tests should address
+all configurations approved for aircraft dispatch.
+CS-E 780(b) requires that Engine bleeds and mechanical power offtakes permitted during
+icing conditions be set at the level assumed to be the most critical, or their effect must
+be simulated by other acceptable means. If it is not possible to establish clearly which
+test configuration is most critical, the test should be repeated, if necessary, in order to
+ensure satisfactory operation in all permitted configurations.
+(1.4) Test Configuration — Facility
+The tests may be completed with adequately simulated icing conditions in an altitude test
+facility capable of representing flight conditions, in flight, or under non-altitude test
+conditions.
+(1.5) Flight Testing
+Flight testing is an acceptable method of demonstrating Engine operation in icing
+conditions. Under these conditions, two important flight testing considerations are the
+measurement of ambient meteorological data and the ability to correlate the measured
+Engine performance to the most critical icing point.
+In practice, it may not be feasible to test the Engine in flight under natural icing
+conditions. However, testing in flight with simulated icing conditions could be possible
+and is not excluded. In this case, the applicant should define an acceptable means to
+establish and control the icing conditions.
+(1.6) Applicable Atmospheric Icing Conditions
+Due to the potential for inadvertent icing condition encounters, the applicable
+atmospheric icing conditions always include the SLW conditions defined in CS-Definitions
+Amendment 2 under ‘Icing Atmospheric Conditions’, even for aircraft not approved for
+flight in icing conditions. The additional conditions to be addressed are dependent on the
+conditions applicable to the air intake system of the aircraft on which the Engine is to be
+installed. These conditions may include ice crystal icing conditions, supercooled large
+drop icing conditions, and falling and blowing snow conditions.
+The test altitude need not exceed any limitations proposed for aircraft approval, provided
+that a suitable altitude margin is demonstrated, and the altitude limitation is reflected in
+the manuals containing instructions for installing and operating the Engine.
+(1.7) Compliance of Rotorcraft Engines with Icing Conditions
+Specific provisions for rotorcraft Engines are currently not included in this AMC. Until
+guidance has been established, the necessary compliance method required for rotorcraft
+Engines should be agreed by the Agency.
+(2)
+Supercooled Liquid Water (SLW) Icing Conditions
+(2.1) Critical Points Analysis (CPA)
+(a)
+General Principle
+A Critical Points Analysis (CPA) is one analytical approach to determine suitable
+Engine test conditions in view of showing compliance of the Engine with
+Certification Specifications in Supercooled Liquid Water (SLW) icing conditions
+(including Supercooled Large Drops, if applicable).
+Compliance evidence should include a description of the methodology and tools
+used as part of the CPA. The validation of tools should also be addressed.
+Whilst the CPA is primarily intended to identify whether test points should be
+added to those defined in paragraph (2.2), the principles outlined below may also
+be used for justifying the testing necessary for approval of ground operation in SLW
+icing conditions.
+Where a CPA test point is in a similar condition to a Table 1 test point, the more
+severe of the two should be demonstrated.
+The applicant should consider pertinent service experience as well as the
+anticipated use of the aircraft when selecting critical icing test points.
+Compliance with the requirements of CS-E 780 includes identifying, through
+analysis, the critical operating test points for icing within the declared operating
+envelope of the Engine. The CPA should relate icing conditions to the aircraft speed
+range and Engine powers/thrusts as defined by the applicant. It should also include
+prolonged flight operation in icing conditions (for example, in-flight hold pattern),
+or a repetition of icing encounters. These combined elements within the CPA
+should identify the most critical operational icing conditions:
+(i)
+Applicants should ensure that their analysis is supported by test data. It
+should also include environmental and Engine operational effects on
+accumulation, accretion locations, and the most critical Engine operating
+conditions for ice shed and ingestion. The CPA may also be supplemented
+with development test data (for example wet and dry testing with
+thermocouple components).
+(ii)
+The CPA should include ice accretion calculations that account for freezing
+fraction and aerodynamic effects of the ice as it moves into the air inlet. For
+example, water ingestion into fan module and core inlets, water
+impingement rates for critical surfaces, forward aircraft airspeed effects,
+Engine configuration effects such as inter-compressor bleed, and altitude
+effects such as by-pass ratio effects. The CPA should also include an energy
+balance of critical Engine surfaces (for example, latent heat and heat of
+fusion effects, metal-to-ice heat transfer effects, and ice-insulating effects).
+(iii)
+For anti-iced parts, the CPA should identify a critical test point determined
+from energy balance calculations of required heat loads encompassing the
+range of possible combinations of icing conditions and Engine power/thrust.
+The effects of non-aerodynamic ice formations and their shedding as well as
+runback ice shedding should be assessed.
+(iv)
+As part of the analysis, the CPA should also contain an assessment of the
+assumptions and any limitations of the models used as well as their
+validation.
+(b)
+Elements of the CPA
+The CPA should address, at a minimum, the following icing issues:
+(i)
+Ice Shed Damage.
+Shed ice can cause Engine damage if it impacts an Engine surface with
+sufficient mass and velocity. The following types of damage are common,
+and applicants should include them in their CPA with an assessment of each:
+(A)
+Fan Module
+Various parts of the fan module, both non-rotating and rotating, are
+susceptible to ice shed damage. For example, acoustic panels, fan rub
+strips, and fan blade tips are susceptible to ice shed from air intake
+probe(s), spinner, and fan blade roots.
+In determining the critical conditions for fan module damage, the
+surface temperature, exposure time and rotor speed are important
+considerations as well as the atmospheric icing conditions and scoop
+factor. In particular, extended operation in a holding condition in very
+cold continuous maximum icing conditions will maximise the adhesion
+of ice on rotating fan components. This can result in large ice
+accretions and resulting sheds which can damage the Engine or cause
+power/thrust loss.
+(B)
+Compressor Damage
+When ice formations on static components shed, they often result in
+damage to the next downstream rotor stage. For instance, this type
+of damage has occurred on the first blade set in the high pressure
+compressor (intermediate pressure compressor for three spool
+Engines). Establishing the critical conditions for these ice accretions
+therefore requires careful consideration as the critical condition may
+occur at specific limited conditions of low freezing fractions over a
+range of local Mach numbers and air densities. The critical conditions
+may not occur during any of the power settings discussed in this AMC
+(for example, flight-idle, 50 %, 75 % or 100 % of maximum continuous
+power/thrust), and so the power/thrust setting at the critical
+condition should be evaluated. Applicants should evaluate any Engine
+compressor damage that results from ice testing against the
+possibility of multiple occurrences, since icing is a common
+environmental condition.
+(ii)
+Engine Operability.
+The applicant should consider Engine operability as part of their CPA. Engine
+accelerations and decelerations relative to operability challenges (for
+example, surge and stall) should also be considered. The most adverse
+Engine bleed settings for the condition being analysed should be assumed
+to minimise the operability margin. The establishment of CPA points should
+consider those conditions where the minimum operability margin is
+expected.
+(iii)
+Core and Booster Ice Blockage.
+Ice accretion on internal Engine vanes from glaze ice accretions may affect
+airflow capacity and rematch of the Engine cycle. This should be considered
+in the CPA. At Engine powers/thrusts that can sustain flight, ice accretion
+should be reconciled through a demonstration of several ice build/shed
+cycles to demonstrate no adverse operating effects of either the ice builds
+or sheds.
+(2.2) Establishment of SLW Test Points for In-Flight Operation
+The test conditions outlined below are intended as a guide to establish the minimum
+testing necessary to comply with CS-E 780. These test points should be supplemented or,
+if applicable, replaced, by any test points identified by the CPA as applicable.
+The conditions of horizontal and vertical extent and water concentration defined below
+are somewhat more severe than those implied by the SLW Icing Conditions in CS-
+Definitions Amendment 2 =. Encounters with icing conditions more severe that those
+defined are considered possible, and it is, therefore, appropriate to ensure that a margin
+is maintained.
+(a)
+Tests points to demonstrate icing capability at a power/thrust at or above that
+required for sustained flight
+One test point should be run to simulate each of the conditions of Table 1 at the
+Engine minimum power/thrust to maintain sustained flight in the intended
+installation. For turbofan Engines, a second point should be run at a higher
+power/thrust condition, if it is predicted to result in a higher energy of ice shed
+from the fan blades. If an acceptable means to predict the critical fan speed is not
+available, tests at 50 %, 75 % and 100 % of maximum continuous power/thrust
+should be run.
+The minimum duration of each test point should be determined by repetitions of
+either the cycle:
+(i)
+28 km horizontal extent in the LWC conditions of Table 1, Column (a),
+appropriate to the temperature, followed by 5 km in the LWC conditions of
+Table 1, Column (b), appropriate to the temperature, for a total duration of
+45 minutes, or 30 minutes if clear evidence of repeat build/shed cycles has
+been observed;
+or the cycle:
+(ii)
+6 km horizontal extent in the LWC conditions of Table 1, Column (a),
+appropriate to the temperature, followed by 5 km in the LWC conditions of
+Table 1, Column (b), appropriate to the temperature, for a total duration of
+20 minutes, or 10 minutes if clear evidence of repeat build/shed cycles has
+been observed.
+At the conclusion of each test point, the Engine should be run up to the
+maximum power/thrust corresponding to the test conditions, using a one
+second thrust/power lever movement, to demonstrate any effect of ice
+shedding. If repeat build/shed cycles have been established, the acceleration
+should be delayed to maximise the impact energy of the ice shed.
+Table 1 — Standard test points
+(b)
+Altitude
+Ambient Air
+Liquid Water Content (LWC)
+Mean
+(g/m3)
+Effective
+Temperature
+(°C)
+Droplet
+(a)
+(b)
+(ft)
+(m)
+Diameter(µm)
+Continuous Max
+Intermittent
+Max
+-10
+0.6
+17 000
+2.2
+20
+5 182
+-20
+0.3
+1.7
+20
+20 000
+6 096
+-30
+0.2
+1.0
+20
+25 000
+7 620
+Tests points at power/thrust below that required for sustained flight
+An additional test at the minimum power/thrust associated with descent in icing
+conditions should be conducted at an ambient temperature of -10°C or lower if
+necessary to ensure splitter/core inlet icing, consisting of repetitions of the
+following cycle:
+A 28 km horizontal extent in the LWC condition of Table 1, Column (a), appropriate
+to the temperature, followed by 5 km in the LWC condition of Table 1, Column (b),
+appropriate to the temperature, for a sufficient duration to cover an anticipated
+descent of 3 000 m.
+If the temperature required to ensure core icing is below an ambient temperature
+of -10°C, the LWC should be determined by interpolating between the conditions
+defined in Table 1.
+At the conclusion of the test, the Engine should be subjected to an acceleration,
+using a one second power/thrust control lever movement, to maximum
+power/thrust conditions, so as to simulate a balked landing. The maximum
+power/thrust conditions should then be maintained for a sufficient period to
+ensure all ice is shed or, alternatively, it may be established by visual inspection
+that any remaining ice is insignificant.
+Whenever a minimum power/thrust is required for safe operation of the Engine in
+icing conditions, the applicant should ensure that this minimum power/thrust will
+be selected when the aircraft is operating in icing conditions. If any action is
+required from the installer to fulfil this requirement, then the minimum
+power/thrust should be declared as a limitation in the manuals containing
+instructions for installing and operating the Engine.
+(c)
+Test Installation Considerations
+Altitude and ram effect have a significant impact on the Engine operating
+conditions, ice accretion and ice shedding. Therefore, the use of an altitude test
+cell is the most direct method of compliance because this approach enables the
+test to be carried out in the most representative way, requiring the minimum of
+correction to correlate Engine and icing test conditions with the real operating
+environment. It also allows accurate control of the icing conditions. However, it is
+recognised that such facilities are not always available, and alternative test
+methods are also considered acceptable, providing that evidence demonstrates
+that such testing is at least as severe.
+When a non-altitude test is used to simulate in-flight icing conditions, any
+differences in Engine operating conditions, LWC, ice accretion, and
+sheddingbetween the altitude condition to be simulated and the test conditions,
+which could affect the Engine behaviour in icing conditions, should be taken into
+account when establishing the test points to be carried out. This could involve the
+modification of Engine operating conditions and other test conditions of this
+paragraph in order to adequately simulate all icing threats and effects which are
+relevant for the test conditions..
+The icing threats which should be considered include but are not limited to:
+vibration;
+—
+surge;
+—
+flameout;
+—
+core blockage; and
+—
+ice impact energy and location following shedding.
+—
+For instance, if more ice would accrete at a critical location under altitude
+conditions, then the test conditions (e.g. LWC) may need to be adjusted. Similarly,
+if the rotor speed in flight would be higher, this should be considered to ensure
+that the Blade impact energy is at least as severe under test conditions.
+Furthermore, altitude effects on Engine performance, including surge and
+flameout margins, should be taken into account, either in the tested conditions, or
+through post-test assessment.
+Because different Engine modules react differently to variations in altitude
+conditions (e.g. low pressure shaft speeds v high pressure shaft speeds), the
+various icing threats are also impacted differently by varying altitude conditions.
+Consequently, this may require running multiple test points to simulate all
+relevant/applicable icing threats associated with a single atmospheric condition.
+In that context, a single atmospheric condition could either be:
+a single standard test point as listed in Table 1 above, or
+—
+a single test point identified by a CPA (refer to AMC E 780 (2.1)).
+—
+Effects which should be considered and corrected for include but are not limited
+to:
+—
+Engine shaft speeds;
+—
+By-pass ratio;
+—
+ice concentration and dilution effects at Engine and core inlet (i.e. scoop
+factor);
+—
+mass flow (total and core Engine); and
+—
+temperature effects.
+The effects of density, hardness, and adhesion strength of the ice as it sheds should
+be assessed in realistic flight conditions. For example, in realistic flight conditions,
+the ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced
+by the rotor speed and the adhesive strength of the ice to the surface. The adhesive
+strength of ice generally increases with decreasing surface temperature. The ice
+thickness, ice properties and rotor speed at the time of the shed define the impact
+threat.
+(2.3) Establishment of Test Points for Ground Operation
+The Engine should demonstrate the ability to acceptably operate at minimum ground idle
+speed to be approved for use in icing conditions for a minimum of 30 minutes at each of
+the following icing conditions shown in Table 2, with the available air bleed for ice
+protection at its critical condition, without adverse effect. An acceleration to take-off
+power or thrust should be performed at the time when the maximum ice accretion is
+likely to have occurred. During the idle operation, the Engine may be run up periodically
+to a moderate power/thrust setting in a manner acceptable to the Agency.
+Normally, the conditions established during the test in terms of time, temperature and
+run-up procedures will be deemed to be the limitations necessary for safe operation in
+the applicable environment provided that the acceptance criteria of CS-E 780(a) are met.
+However, an analysis may be used to demonstrate that ambient temperatures below the
+tested temperature are less critical.
+Moreover, the applicant may demonstrate unlimited time operation if complete ice
+shedding is shown to have occurred during the test, either through repeatable ice
+build/shed cycles or by using a run-up procedure.
+In order to avoid any unsafe condition resulting from operation outside the demonstrated
+conditions, these limitations will be defined in the manuals containing instructions for
+installing and operating the Engine.
+For rime and glaze ice conditions as defined in Table 2, approval for operation below -
+18°C may be substantiated by analysis. A reduced liquid water concentration may be
+acceptable subject to appropriate substantiation.
+The applicant should demonstrate, taking into consideration expected airport elevations,
+the following:
+Table 2 — Demonstration Methods for Specific Icing Conditions
+Condition
+Demonstration
+Liquid Water/Snow
+Mean Effective
+Total Air
+Concentrations
+Particle Diameter
+Temperature
+(minimum)
+Liquid — 0.3 g/m 3
+-18 to -9 °C
+1. Rime ice
+15–25 µm
+By Engine test
+(0 to 15 °F)
+condition
+Liquid — 0.3 g/m 3
+-9 to -1 °C
+15–25 µm
+2. Glaze ice
+By Engine test
+(15 to 30 °F)
+condition
+Snow — 0.9 g/m 3
+-3 to 0 °C
+100 µm
+3. Snow condition
+By test, analysis
+(26 to 32 °F)
+(Note 1)
+(including
+(minimum)
+comparative
+analysis) or
+combination of the
+two.
+Liquid — 0.3 g/m 3
+-9 to -1 °C
+100–3 000 µm
+4. Large drop glaze
+By test, analysis
+(15 to 30 °F)
+(including
+ice condition
+(Note 2)
+comparative
+analysis) or
+combination of the
+two.
+Note 1: These conditions are provided as a guide, but they may need to be modified to address the
+requirements applicable to the intended installation. For instance, snow concentrations may need to
+be increased to address blowing snow. When applicable, the applicants should consider the material
+provided in AMC 25.1093(a) 1.6 (Falling and Blowing Snow).
+Note 2: As per CS-E 780, those conditions only need to be considered if applicable to the Engine air
+intake system in the ice protection specifications of the Certification Specifications applicable to the
+aircraft on which the Engine is to be installed.
+(2.4) Test results
+Due to the repetitive nature of icing condition encounters during in-service operation, which may
+extend for longer duration than during the icing test campaign, the applicant should demonstrate that
+no unacceptable mechanical damage will occur as a result of prolonged operation with levels of high
+vibration due to repetitive icing encounters.
+(3)
+Mixed-phase/Ice Crystal Conditions
+This paragraph is provided for certification of turbine Engines to be installed on aircraft which
+have mixed-phase and ice crystal icing conditions included in their Certification Specifications.
+Until validated full-scale ground test facilities for mixed-phase and ice crystal icing conditions
+are available, compliance should be based on flight test and/or analysis (supported by
+Engine/component tests, as necessary).
+(a)
+Design Precautions. The applicant should show that design precautions have been
+taken to minimise the susceptibility of the Engine to mixed-phase/ice crystal
+accretions.
+The analysis should also identify remaining features or locations in which ice
+accretion could not be excluded. Design features which may increase the
+susceptibility include but are not limited to:
+(i)
+stagnation points which could provide an increased accretion potential, such
+as frame leading edges especially if upstream vanes direct or concentrate
+impingement upon the frame leading edge;
+(ii)
+exposed core entrance (as opposed to hidden core);
+(iii)
+high turning rates in the inlet, booster and core flow path (particularly
+compound turning elements), such as flow path concavity;
+(iv)
+protrusions into the core flow path (for example, bleed door edges and
+measurement probes);
+(v)
+narrow vane-to-vane circumferential stator spacing leading to a small stator
+passage hydraulic diameter;
+(vi)
+variable geometry with stagnation points outside the flow path that could
+lead to accreted ice re-entering the flow path upon geometry movement;
+(vii) airfoils with low tolerance to soft body damage immediately downstream of
+a potential ice accretion location;
+(viii) Engine control sensors and measurement systems which may be affected by
+operation in ice crystal conditions and which may result in unacceptable
+control system response;
+(ix)
+negative air temperature gradient along the gas path resulting in a potential
+accretion site downstream of melting; and
+(x)
+surfaces with low temperatures downstream of or coincident with where
+melting could have occurred.
+(b)
+Comparative Analysis. If service experience of comparable Engine design(s) is available,
+the applicant should perform a comparative analysis between previous designs and the
+new design in mixed phase/ice crystal icing conditions. The analysis should compare both
+design features and operational factors.
+Where the analysis under paragraph (a) above identifies potential for ice accretion due
+to design features, the applicant should conduct an analysis to review the service
+experience of the comparable Engine design(s) in order to identify any evidence
+indicating susceptibility to ice crystal/mixed phase accretion.
+The applicant may demonstrate that the identified potential susceptibility to ice accretion
+is acceptable based on the good service experience demonstrated on comparable Engine
+design. Good service experience means the absence of any event involving Engine
+malfunction or unacceptable damage caused by ice crystal or mixed-phase conditions. To
+validate the credit from the comparable Engine design, the applicant should demonstrate
+that the design feature on the new design is similar in all pertinent aspects.
+When the comparable Engine design has experienced field events determined to have
+been caused by mixed-phase or ice crystal icing conditions, the analysis should show that
+measures have been taken on the new design to address these field events and result in
+acceptable Engine operation. Acceptable operation includes the absence of rollback,
+rundown, stall, flameout, and unacceptable compressor blade damage.
+(c)
+Novel Design Features. Where the analysis under paragraph (a) above identifies potential
+for ice accretion due to novel design features for which a comparative analysis cannot be
+performed, additional tests should be made to establish satisfactory operation.
+(4)
+Ice Ingestion
+(a)
+Intent of Ice Slab Ingestion Test
+The intent of the ice slab ingestion test required by CS-E 780(f) is to demonstrate
+tolerance to ice ingestion from ice shedding from nacelle surfaces. In addition, it also
+establishes limits for ice released from other aircraft surfaces in the frame of CS-23 or CS-
+25 certification.
+The minimum ice slab dimensions for the ice slab ingestion test are provided in Table 3
+below. The dimensions are related to Engine size (defined by inlet highlight area), based
+on service experience. The applicant should determine the ice slab dimensions by linear
+interpolation between the values of Table 3, based on the actual Engine’s inlet highlight
+area.
+Table 3 — Minimum ice slab dimensions based on Engine inlet size
+Engine Inlet Highlight
+Length (inch/cm)
+Thickness (inch/mm)
+Width (inch/cm)
+Area (inch²/m²)
+0.25/6.35
+0/0
+0/0
+3.6/9.144
+0.25/6.35
+3.6/9.144
+6/15.24
+80/0.0516128
+0.25/6.35
+12/30.48
+3.6/9.144
+300/0.193548
+0.25/6.35
+12/30.48
+4.8/12.192
+700/0.451612
+0.35/8.89
+12/30.48
+2 800/1.806448
+8.5/21.59
+0.43/10.922
+11.0/27.94
+12/30.48
+5 000/3.2258
+0.50/12.7
+12.7/32.258
+12/30.48
+7 000/4.51612
+0.50/12.7
+12/30.48
+13.4/34.036
+7 900/5.096764
+0.50/12.7
+12/30.48
+14.6/37.084
+9 500/6.12902
+0.50/12.7
+11 300/7.290308
+12/30.48
+15.9/40.386
+0.50/12.7
+12/30.48
+13 300/8.580628
+17.1/43.434
+0.50/12.7
+12/30.48
+16 500/10.64514
+18.9/48.006
+0.50/12.7
+12/30.48
+20 000/12.9032
+20.0/50.8
+Note: Applicants should use a minimum ice slab density equivalent to a 0.9 specific gravity
+unless a different value is considered more appropriate.
+The applicant should also include in its compliance plan an analysis of the potential
+installation effects of the Engine induction system.
+The applicant and the installer should closely coordinate the ice slab sizing. This
+coordination ensures that potential airframe ice accumulation that can be ingested by
+the Engine are addressed under CS-E 780(f).
+(b)
+Compliance Considerations
+Compliance may be demonstrated through the standard Engine ice slab ingestion test or
+by means of a validated analysis procedure that uses an equivalent soft body testing.
+The test demonstration should use ice slab trajectories aimed at critical Engine locations.
+Applicants should pick locations based on the ice accretion and shed characteristics of
+the induction system likely to be installed on the Engine. The most critical impact location
+should be tested.
+Engine operation will be at the maximum cruise power or thrust unless lower power or
+thrust is shown to be more critical.
+(c)
+Elements of a Validated Analysis
+This analytical model may be used alone or in conjunction with the results of a
+certification medium bird ingestion test. A validated analysis should contain sufficient
+elements to show compliance. These elements may include:
+— full fan (fan Engines) or first stage compressor (non-fan Engines) blade model using
+the latest techniques such as finite element analysis;
+— blade material properties for yield or failure, or both, as appropriate;
+— dynamic and time variant capability;
+— thrust or power variance prediction if required to account for blade damage; and
+— appropriate Engine or component testing, or both, with impact at the outer 1/3 of
+the first stage blade span location. The fan is the first stage blade row for turbofan
+Engines.
+(i)
+The analysis of the ice slab impact on the fan should properly account for critical
+controlling parameters:
+— incidence angle — relative slab speed and blade speed,
+— slab dimensions,
+— sab orientation, and
+— impact location.
+(ii)
+Any predicted power/thrust loss or blade damage (distortion, cracking, tearing)
+should be assessed against the criteria of this AMC.
+(iii)
+The relative kinetic energy of the ice slab should be determined from an
+assessment of the flight conditions that control Engine rotor speed versus ice slab
+velocity. Engine test results from previous ice slab testing may be used to support
+the predicted ice slab velocity. The applicant’s analysis should assume the most
+critical orientation, unless it can be shown that an alternate ice slab orientation is
+more conservative for ice slab testing.
+(iv)
+Ice Slab Break-Up. Typically, the ice slab breaks up into smaller pieces during an ice
+slab ingestion. The applicant’s analysis should use the largest slab size consistent
+with a conservative assessment of a slab ‘break-up’ that can occur within the air
+stream ahead of the fan. Data derived from a number of tests shows that the
+largest ice piece is typically 1/3 to 1/2 of the original size. For analysis purposes,
+the applicant may assume 1/2 of the original slab greatest dimension unless
+evidence suggests that this is not conservative relative to the ice slab testing.
+(d)
+Test Results
+CS-E 780(f)(2) requires that, following ice ingestion, the Engine must comply with CS-E
+780(a). The below elements should be considered:
+(i)
+Engine Loss of Performance. Applicants should evaluate the impact of any
+first stage blade bending or damage on potential sustained Engine
+power/thrust loss. Sustained power/thrust loss associated with first stage
+damage from the slab should be less than 1.5 %. Ice and birds are ‘soft body’
+objects in their impact behaviour, i.e. they are both highly deformable on
+impact and flow over the structure, spreading the impact load. They also
+have similar densities; thus they create similar strain footprints and,
+consequently, similar damage. As soft body fan damage is common from
+medium bird ingestion, applicants may use the medium bird ingestion test
+results to show compliance with this requirement. If the medium bird
+ingestion test results in less than 1.5 % permanent power/thrust loss, and
+no cracks, tears or blade piece breakout occur due to a bird ingested at the
+outer 33 % of the first stage blade span, then the CS-E 780(f)(2) requirement
+is met.
+(A)
+If power/thrust loss exceeds 1.5 % when utilising the bird test, the
+applicant should provide a validated analysis that shows consistency
+with the bird test results. The applicant should also demonstrate that
+the standard ice slab would produce less than the 1.5 % power/thrust
+loss.
+(B)
+Applicants should also demonstrate by test that any cracks, tears or
+blade piece breakout will not result in ‘unacceptable sustained power
+or thrust loss’ within 100 flight cycles (considered sufficient to allow
+Engine operation until the next scheduled ‘A’ check). Furthermore,
+any damage resulting from this test should be documented in the
+manuals containing instructions for installing and operating the
+Engine.
+(ii)
+Engine Operability/Handling Characteristics. Ice slab ingestion should not
+cause surge, flameout, or prevent transient operation.
+(iii)
+In-Service Capability. Engine damage resulting from ice slab ingestion should
+not result in a failure or a performance loss that would prevent continued
+safe operation for a conservative flight operations scenario (for example,
+within the time period for an “A” check or greater, if appropriate testing
+validates a continued period of in-service capability). The period of in-service
+capability to be demonstrated may vary with installation if the damage is not
+readily evident to the crew or visible on pre-flight inspection (for example,
+tail-mounted Engines).
+(iv)
+Other Anomalies. Ice slab ingestion should not result in any other anomaly
+(for example, vibration) that may cause the Engine to exceed operating or
+structural limitations.
+(v)
+Auto-Recovery Systems. If during ice slab ingestion testing, an Engine incurs
+a momentary flameout and auto-relight, then the acceptance of that test is
+predicated on including the auto-relight system as a required part of the
+Engine type design. However, additional dispatch criteria would also be
+required where the ignition system is fully operable before each dispatch.
+The reason for the additional dispatch criteria is to ensure that the ignition
+system’s critical relight function is reliably available during the subsequent
+flight. The use of an auto-recovery system is allowed during ice slab ingestion
+certification testing, in order to account for ice accretion and shedding as a
+result of an inadvertent delay in actuating the ice protection system. This is
+considered as an abnormal operational result where operability effects, like
+momentary flameout and relight, may be accepted.
+(e)
+Communication to the Installer. The manuals containing instructions for installing
+and operating the Engine should provide information on the Engine ingestion
+capability such as size, thickness and density of the ice slab ingested.
+(5)
+Engine Air Data Probe Icing
+In accordance with paragraph (1.3) of this AMC, the accretion and shedding of ice from the
+Engine air data probe(s) should be evaluated either as part of the Engine test, or by separate
+assessment and/or testing.
+In addition, if data from an Engine air data probe is critical to ensure acceptable Engine
+operation, then the applicant should demonstrate that the Engine air data probe will operate
+normally without any malfunction under icing conditions. The icing conditions against which the
+Engine is tested may not cover the icing conditions that are critical for the Engine air data probe,
+in particular if high airflow conditions like Maximum Continuous Thrust/Power were not
+selected for the Engine tests in paragraph (2.2) above. The applicant should determine those
+critical probe icing conditions. In that respect, the guidance material of AMC 25.1324 of CS-25
+should be used along with appropriate consideration of the installation effects and dependence
+on Engine airflow. In doing that, the substantiation may be limited to the icing environment
+applicable to the aircraft on which the Engine is to be installed.
+In assessing whether data from an Engine air data probe is critical, the Engine system(s)
+response to erroneous in-range data and to data during transitions to/from icing conditions
+should be considered.
+Note: If Engine air data probe signals are used by the aircraft system(s) on a CS-25 aeroplane,
+the aeroplane manufacturer will be responsible for showing that the involved Engine air data
+probe complies with CS 25.1324 (including rain conditions).
+(6)
+Ice Protection Systems Activation and Deactivation
+The ice ingestion demonstration of paragraph (4) of this AMC addresses the threat of ice
+released from ice-protected surfaces, including the Engine air intake, following a delay in the
+selection of the ice protection system such as might occur during inadvertent entry into icing
+conditions.
+However, if satisfactory operation in any icing conditions relies on activation of Engine ice
+protection system(s), such as a raised idle function and/or an internal ice protection system, it
+should be demonstrated that the Engine characteristics are not unacceptably affected by the
+introduction of a representative delay in the initiation of operation of the Engine ice protection
+system(s), whether the activation is automatic or manual.
+In assessing the representative delay, the applicant should consider all factors that contribute
+to a delay in the activation of the ice protection system(s).
+This assessment should include, as appropriate, the time for ice condition detection, pilot
+response time, time for the system to become operational, and time for the system to become
+effective.
+In lack of other evidence, a delay of 2 minutes to switch on the IPS should be assumed. For
+thermal IPS, the time for the IPS to warm up should be added.
+Consideration should also be given to the effects of delays in deactivating an ice protection
+system after leaving icing conditions, or to inadvertent operation of an ice protection system in
+the absence of icing conditions. These effects should not compromise the mechanical integrity
+of the Engine or the effectiveness of the ice protection system (e.g. due to overheating and
+damage of certain components).
+(7)
+Instructions for installing and operating the Engine
+The applicant should declare all identified limitations, and all Engine conditions observed during
+Engine certification icing tests, to the installer in the manuals required by CS-E 20(d). These
+should include but are not limited to the following items (see background in the previous
+paragraphs of this AMC):
+—
+the icing environment in which the engine has been certified;
+—
+details of the assumed Engine installation, including protection device(s);
+—
+operational altitude limitation;
+—
+Engine ingestion capability such as size, thickness and density of the ice slab ingested;
+—
+Engine ice ingestion protection device to be provided by the installer (when not part of
+the Engine configuration);
+—
+effects that may be observed during or after the encounter with icing conditions, such as
+vibrations, temporary power/thrust loss, change in Engine power/thrust response;
+anomalous Engine behaviour that has been found acceptable following ice shed
+ingestion;
+any damage observed following the icing tests considered acceptable by the applicant and by
+the Agency;
+—
+minimum power/thrust required for safe operation of the Engine in icing conditions (if
+necessary); and
+—
+for ground icing operation, the conditions established during the test in terms of time,
+temperature (if any limitation exists) and run-up procedures.
+If the Engine is certified under the assumption that the protection device considered under CS-
+E 780(f)(3) is provided by the aircraft installation, and if (with respect to ice formed forward of
+the protection device) the compliance with CS-E 780(f)(1) to (f)(2) is waived, then the Engine
+approval would be endorsed accordingly and the Engine instructions for installation would need
+to impose the conditions of CS-E 780(f)(3)(i) to (iii) to the installation.
+[Amdt. No.: E/1]
+[Amdt. No.: E/4]
+[Amdt. No.: E/7]

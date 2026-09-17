@@ -1,0 +1,11 @@
+# AMC E 750(b) Starting tests
+# id: AMC E 750(b)
+# subpart: E
+# pages: 176-176
+# source: CS-E_Amendment_8.pdf
+
+The «declared drainage period» after a false start referred to in CS-E 750(b) is the minimum period
+necessary to allow surplus fuel to drain from the Engine prior to making a further attempt to start the
+Engine. The period is measured from the time at which the starter is switched off and/or the Engine
+fuel cock is closed during a false start.
+[Amdt. No.: E/1]

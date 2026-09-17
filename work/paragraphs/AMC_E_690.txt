@@ -1,0 +1,17 @@
+# AMC E 690 Engine bleed
+# id: AMC E 690
+# subpart: E
+# pages: 134-134
+# source: CS-E_Amendment_8.pdf
+
+For reducing test complexity, and for improved flexibility needed to attain the key parameters (speed,
+temperature and torque) during the 2-hour test of CS-E 740(c)(3)(iii), maximum air bleed for Engine
+and aircraft services need not be used if the applicant can show by test or analysis based on test that
+the Engine’s ability to meet the strip examination specifications of CS-E 740(i)(2) is not enhanced. The
+analysis should include:
+— the effect of the bleed air extraction to the Engine’s secondary air system which provides cooling
+air to various Engine components;
+— the thermodynamic cycle effects of bleed (e.g., gas generator speed to output shaft speed
+changes).
+[Amdt. No.: E/1]
+[Amdt No: E/8]

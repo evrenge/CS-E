@@ -1,0 +1,26 @@
+# AMC E 790 Rain and Hail Ingestion
+# id: AMC E 790
+# subpart: E
+# pages: 196-196
+# source: CS-E_Amendment_8.pdf
+
+(1)
+For the purposes of interpreting the words ‘unacceptable mechanical damage’ and
+‘unacceptable power or thrust loss' in CS-E 790(a)(1), (a)(2), (b) and (c), see paragraphs (5)(c)(vi),
+(5)(c)(vi)(A) and (B) in AMC E 790(a)(2).
+(2)
+For the purposes of interpreting the words ‘flameout, rundown, continued or non-recoverable
+surge or stall’ in CS-E 790(a)(2) and (b), see paragraphs (1) and (5)(c)(vi) in AMC E 790(a)(2).
+(3)
+For the purposes of interpreting the words ‘sudden encounter’ in CS-E 790(a)(2) and the words
+‘suddenly commencing’ in CS-E 790(b), see paragraphs (5)(c)(iv)(D) and (G) in AMC E 790(a)(2).
+(4)
+For the purposes of interpreting the words ‘rapid acceleration’ and ‘rapid deceleration’ in CS-E
+790(b)(2) and (b)(4) should be interpreted as meaning a throttle movement in not more than
+one second.
+(5)
+If the Engine is certified under the assumption that the protection device considered under CS-
+E 790(d) is provided by the aircraft installation and if the compliance with CS-E 790(a) to (c) is
+waived, then the Engine approval would be endorsed accordingly and the Engine instructions
+for installation would need to impose the conditions of CS-E 790(d)(1) to (3) to the installation.
+[Amdt No: E/1]

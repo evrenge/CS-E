@@ -1,0 +1,10 @@
+# AMC E 180 Propeller Functioning Tests
+# id: AMC E 180
+# subpart: A
+# pages: 64-64
+# source: CS-E_Amendment_8.pdf
+
+For Propeller approval the remaining tests of CS-P may be conducted on another Engine of the same
+type providing the same Propeller without further adjustment is used.
+For Piston Engines, auxiliary cooling may be used during tests of CS-E 180(b)(3) and (4).
+[Amdt. No.: E/1]

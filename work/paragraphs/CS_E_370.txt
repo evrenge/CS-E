@@ -1,0 +1,21 @@
+# CS-E 370 Starting Tests
+# id: CS-E 370
+# subpart: C
+# pages: 73-73
+# source: CS-E_Amendment_8.pdf
+
+(a)
+At least 100 successful Engine starts must be made, either during or at the end of the endurance
+test of CS-E 440, using the normal means of starting and the technique recommended by the
+Engine constructor. Half the starts must be made with the Engine cold and half with the Engine
+hot.
+(b)
+Time to start, number of attempts, ambient air temperature, and (in the case of electric starters)
+current consumption, must be recorded at the beginning of each 10-hour period. In addition, a
+record must be made of the means and amount of priming, if employed, and whether or not oil
+dilution is used.
+(c)
+If alternative means of starting are provided for emergency or standby use, not less than 10
+additional starts on each of the alternative means of starting provided must be made. These
+tests may be made either as part of the endurance test of CS-E 440 or separately in which case
+they must be followed by a suitable strip examination.

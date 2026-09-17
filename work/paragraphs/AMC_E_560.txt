@@ -1,0 +1,62 @@
+# AMC E 560 Fuel System
+# id: AMC E 560
+# subpart: D
+# pages: 111-112
+# source: CS-E_Amendment_8.pdf
+
+(1)
+More than one type of fuel may be allowed: CS-E 560(a) applies to each type and covers
+additives in the fuel (for example, fuel system icing inhibitor).
+Some Engines may use other fluids, such as water methanol: when appropriate, the word "fuel"
+in CS-E 560 should be interpreted as covering these fluids as well.
+If the Engine may be adversely affected by a parameter of the fuel specification, such as sulphur
+or gum content, this should be identified in the appropriate documentation.
+When defining the fuel specifications under CS-E 560(a), CS-E 90 should also be considered for
+effects induced in the fuel system by the fuel itself, fuel additives or water in the fuel.
+(2)
+To comply with CS-E 560(b)(1), contaminants likely to be present in the fuel delivered to the
+Engine from the aircraft should be considered, as well as contaminants resulting from wear of
+a part or component of the Engine fuel system (such as fuel pump bearing).
+(3)
+In compliance with CS-E 560(e), any means provided for protection against icing in the fuel
+system may either be in operation continuously or commence operation automatically when
+required.
+(4)
+In compliance with CS-E 560(d) and (e), the applicant should consider the effect on Engine
+operability of the transient fuel icing conditions likely to be encountered in service. In the
+absence of a completed threat assessment by the aircraft manufacturer, the applicant should
+make an assessment of the potential threat, or declare that no capability has been
+demonstrated. The limitations on the demonstrated capability, any related assumptions, and
+potential effects on operability should be documented in the Engine installation manual, as
+required under CS-E 30(a) and CS-E 20(d). This should include but should not be limited to the
+quantity of ice, and the fuel temperature at the critical conditions for transient fuel icing. The
+compliance evidence should address the possibility of a blockage of Engine fuel system
+components, and the consequences of the resultant activation of any bypass features, under
+the minimum fuel heating conditions and with the worst-case Engine-to-Engine variability.
+Note: A transient fuel icing condition is considered to be a short-duration exposure to high
+concentrations of (water) ice in the fuel delivered to the Engine that is caused by the
+accumulation and subsequent shedding of ice within the aircraft fuel system.
+(5)
+In complying with CS-E 110(d), because a fuel leakage is considered as a potential fire hazard,
+design precautions should be taken to minimise the possibilities of incorrect assembly of fuel
+system components, including pipes and fittings, especially if parts of the system have to be
+removed during the routine maintenance procedures.
+(6)
+For compliance with CS-E 130(a), in order to minimise the possibility of occurrence and spread
+of fire, each filter or strainer should be mounted so that its weight is not supported by the
+connecting lines or by the inlet or outlet connections of the filter or strainer, unless adequate
+strength margins under all loading conditions are provided in the lines and connections.
+(7)
+Each filter or strainer requiring regular servicing should -
+— be accessible for draining and cleaning or replacement;
+— incorporate a screen or element that is easily removable; and
+— have a sediment trap and drain except if the filter or strainer is easily removable for
+drain purposes.
+(8)
+Any restriction in bypass operation condition should be specified in the appropriate manuals.
+(9)
+CS-E 560(g) is intended to cover any likely changes in settings caused by vibrations, incorrect
+maintenance, mechanical interference when installed or during handling, etc. Examples of
+design precautions are: locking devices, sealing, inaccessible installation.
+[Amdt No: E/1]
+[Amdt No: E/5]

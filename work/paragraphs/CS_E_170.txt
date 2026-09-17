@@ -1,0 +1,10 @@
+# CS-E 170 Engine Systems and Component Verification
+# id: CS-E 170
+# subpart: A
+# pages: 61-62
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 170)
+additional tests or analyses must be conducted to demonstrate that the systems or components are
+able to perform the intended functions in all declared environmental and operating conditions.
+[Amdt. No.: E/1]

@@ -1,0 +1,40 @@
+# AMC E 740(i)(2) Endurance tests - Inspection checks
+# id: AMC E 740(i)(2)
+# subpart: E
+# pages: 173-174
+# source: CS-E_Amendment_8.pdf
+
+(1)
+If relevant, the level of Engine disassembly, component cleaning and replacement prior to
+rebuild for the additional endurance test sequence should be agreed with the Agency (See CS-
+E 150(b)). It should be shown that any cleaning or replacement of consumable parts during the
+strip examination or replacement of consumable parts will not enhance the Engine's ability to
+meet the specifications of the additional endurance test of CS-E 740(c)(3)(iii).
+(2)
+For complying with the structural integrity specification of CS-E 740(i)(2)(iii), the applicant
+should show that no Failure of any significant Engine component occurs during test or during
+shutdown, or becomes evident during the subsequent strip examination. In the event that any
+Failure becomes evident, this should be analysed and corrective actions taken, or certain
+limitations imposed on the Engine as appropriate. For the purpose of this specification, the
+Engine parts deemed significant are those that can affect the structural integrity, including but
+not limited to mountings, casings, bearing supports, shafts and rotors.
+(3)
+The Engine condition exhibited after the additional endurance test required by CS-E
+740(c)(3)(iii) may be used to validate the mandatory maintenance actions after use of 30-
+Second and 2-Minute OEI ratings as required by CS-E 25(b)(2) and described in the associated
+AMC material.
+(4)
+For components which are distressed beyond serviceable limits during the test of CS-E
+740(c)(3)(iii), it should be shown that the inspections and mandatory maintenance actions for
+these components, as specified in the Instruction for Continued Airworthiness, are adequate.
+The instructions should include means for proper identification of these component conditions,
+and appropriately defined maintenance actions.
+The component deterioration as it affects performance during the test, and the component
+condition after test, should be determined. The distress seen as a result of the 2-hour test
+should not create a potentially hazardous condition. In addition to visible physical damage, non-
+visible damage should be assessed. Such damage may include but not necessarily be limited to
+the effects of creep, stress rupture, metallurgical effects, life usage, etc. This overall evaluation
+should then be considered when defining and justifying the inspections and mandatory
+maintenance actions for instructions for continued airworthiness.
+[Amdt No: E/1]
+[Amdt No: E/8]

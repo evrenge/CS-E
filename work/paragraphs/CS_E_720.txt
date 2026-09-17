@@ -1,0 +1,25 @@
+# CS-E 720 Continuous Ignition
+# id: CS-E 720
+# subpart: E
+# pages: 136-137
+# source: CS-E_Amendment_8.pdf
+
+(a)
+Where approval of an Engine is sought which permits or requires the use of a continuously-
+operated ignition system, the specifications of CS-E 720(b) together with either CS-E 720(c) or
+(d) must be met. (See AMC E 720(a))
+(b)
+Separate tests as agreed by the Agency must be conducted to show that continuous ignition
+systems are safe and effective in the conditions for which their use is permitted or required.
+(c)
+The system must be operated during a suitable Engine endurance test for periods
+representative of the duration and frequency of operation of the system during likely service
+usage, and should be agreed by the Agency for individual cases. Generally, the schedule must
+include the use of continuous ignition for the maximum duration which is likely to be achieved
+in 1000 hours of service operation.
+(d)
+It is acceptable to conduct an equivalent programme by appropriate rig testing, where this is
+possible, but in this case final confirmation of suitability of the equipment in the Engine must
+be obtained by running at least 10 hours (in periods of at least ½ hour duration) of an Engine
+endurance test with the ignition in operation at the appropriate Engine conditions.
+[Amdt. No.: E/1]

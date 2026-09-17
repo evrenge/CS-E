@@ -1,0 +1,35 @@
+# CS-E 390 Acceleration Tests
+# id: CS-E 390
+# subpart: C
+# pages: 74-75
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The tests of CS-E 390(a)(1) and (2) must be carried out at the end of the endurance test of CS-E
+440 without heated intake air and repeated, when applicable, with intake air heated to the
+maximum temperature likely to be experienced at any operating condition within the flight
+envelope.
+(1)
+For all Engines, except two-speed supercharged Engines, five accelerations must be made
+from idling conditions to Take-off Power.
+(2)
+For two-speed supercharged Engines, five accelerations must be made from idling
+conditions up to each condition
+(i)
+To Take-off Power with supercharger in low gear
+(ii)
+To Maximum Continuous Power with supercharger in high gear.
+(b)
+The Engine shall respond without hesitation and accelerate smoothly throughout the range,
+when the power lever is moved from the minimum flight idle position to the Take-off or
+Maximum Continuous position, as appropriate, in not more than one second.
+(c)
+If the Engine is to be approved for use with a propeller with variable or adjustable pitch, for the
+tests of CS-E 390(a) the propeller pitch shall be set such that the Engine will produce not less
+than rated Takeoff power at the Engine rotational speed used to define the Take-off rating
+(see CS-E 40(h)).
+(d)
+Each acceleration (except for those with a supercharger in high gear) shall be made starting
+from the minimum temperatures for acceleration from idle to be declared in the operating
+limitations. Each acceleration with a supercharger in high gear shall be made from ambient
+conditions.

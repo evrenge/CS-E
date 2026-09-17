@@ -1,0 +1,26 @@
+# CS-E 400 Over-speed Tests
+# id: CS-E 400
+# subpart: C
+# pages: 75-75
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The tests of (1) and (2) shall be completed during or at the end of the endurance test of CS-E
+440.
+(1)
+All Engines, except two-speed supercharged Engines. 20 runs, each of 30 seconds
+duration, at the declared Maximum Engine Over-speed or at a speed 5% in excess of the
+declared maximum Engine rotational speed, whichever is greater. The power setting for
+these runs shall not be less than that declared for the Maximum Continuous rating.
+(2)
+Two-speed Supercharged Engines. 20 runs, each of 30 seconds duration, at the declared
+Maximum Engine Over-speed or at a speed 5% in excess of the declared maximum Engine
+rotational speed, whichever is the greater, 10 with the supercharger in low gear and 10
+with the supercharger in high gear. The power setting for these runs shall not be less than
+that declared for the Maximum Continuous rating.
+(b)
+A further test consisting of a total of 10-minutes run in stages of not less than one minute shall
+be made at the declared Maximum Over-speed or at a speed not less than 5% in excess of the
+declared maximum Engine rotational speed, whichever is greater. The power for this test shall
+be not greater than 30% Take-off Power. The oil inlet temperature shall be within 30°C of the
+declared maximum temperature for take-off. This test may be run on a dynamometer.

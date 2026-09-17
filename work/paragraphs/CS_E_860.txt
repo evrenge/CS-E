@@ -1,0 +1,16 @@
+# CS-E 860 Turbine Rotor Over-temperature
+# id: CS-E 860
+# subpart: E
+# pages: 239-239
+# source: CS-E_Amendment_8.pdf
+
+(a)
+The most critical temperature conditions which the turbine rotor(s) can attain in the event of
+Failures of the cooling air supply must be established by analysis and tests, as appropriate.
+Failure of individual components of the Engine that can be classified as Extremely Remote need
+not be included in the analysis or tests.
+(b)
+Evidence to demonstrate that instrumentation is not required under CS-E 60(e) may be
+obtained from endurance running in an Engine or on rigs, or, where adequate margins can be
+demonstrated, by calculation. Where practicable, the duration of endurance running may be
+reduced by compensating increases in the test temperature.

@@ -1,0 +1,25 @@
+# CS-E 600 Tests - General
+# id: CS-E 600
+# subpart: E
+# pages: 115-115
+# source: CS-E_Amendment_8.pdf
+
+(a)
+All tests must be made with air intakes conforming to an acceptable design that is as
+representative of the powerplant intakes as is practicable.
+(b)
+All tests must be made with acceptable representative jet pipes and propelling nozzles, except
+as permitted under CS-E 740(f)(4)(i). The approval of other jet pipes and / or propelling nozzles
+for particular installations will be considered individually as necessary.
+(c)
+Unless otherwise required for specific tests, any optional air bleed must be closed during all
+relevant tests.
+(d)
+In cases where dirt accumulates within the Engine due to the test house environment, it will be
+acceptable to clean the Engine internally at agreed intervals during the endurance test of CS-E
+740 by an agreed method which does not involve stripping any part of the Engine or necessitate
+the removal of the Engine from the test bed.
+(e)
+Engines for Rotorcraft. All tests must normally be made with the Engine mounted in the attitude
+in which it will be installed. (See AMC E 600(e)).
+[Amdt. No.: E/1]

@@ -1,0 +1,15 @@
+# CS-E 135 Electrical Bonding
+# id: CS-E 135
+# subpart: A
+# pages: 59-59
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 135)
+Any components, modules, equipment and accessories that are susceptible to or are potential sources
+of static discharges or currents from electrical Faults, must be designed and constructed so as to be
+grounded to the main Engine earth, as necessary to minimise the accumulation of electro-static or
+electrical charge that would cause:
+— Injury from electrical shock,
+— Unintentional ignition in areas where flammable fluids or vapours could be present,
+— Unacceptable interference with electrical or electronic equipment.
+[Amdt. No.: E/1]

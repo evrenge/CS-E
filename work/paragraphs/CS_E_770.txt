@@ -1,0 +1,26 @@
+# CS-E 770 Low Temperature Starting Tests
+# id: CS-E 770
+# subpart: E
+# pages: 176-176
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 770)
+(a)
+The Engine must be shown to be capable of satisfactory starting and acceleration from the
+appropriate minimum temperatures declared by the constructor, and demonstrated as
+indicated in CS-E 770(b) and (c). Unless otherwise agreed, the temperature indicated for service
+use should be the oil temperature.
+(b)
+Minimum Engine Carcass/Oil Temperature for Starting. Evidence must be provided that Engine
+starting with the Engine carcass and oil at the declared minimum temperature using the
+minimum and maximum starting torques declared for service use, is feasible and will not
+damage the Engine. If a non-standard starting procedure is necessary below a certain
+temperature, this must also be established and the relevant details must be quoted in the
+Engine operating instructions, in addition to the standard procedure.
+(c)
+Minimum Oil Temperature for Acceleration. Evidence must be provided that, with the Engine oil
+at the declared minimum temperature for the selection of Take-off Power or thrust, smooth
+acceleration of the Engine is obtained without Engine damage when the power or thrust control
+lever is moved from the ground idle position (minimum test bed idle for rotorcraft Engines) to
+the position appropriate to takeoff in a time not greater than one second.
+[Amdt. No.: E/1]

@@ -1,0 +1,15 @@
+# CS-E 730 Engine Calibration Test
+# id: CS-E 730
+# subpart: E
+# pages: 137-137
+# source: CS-E_Amendment_8.pdf
+
+(See AMC E 730)
+In order to identify the Engine thrust or power changes that may occur during the endurance test of
+CS-E 740, and to ensure that performance targets are met at the end of the endurance test (as per CS-
+E 740(h)), thrust or power calibration curves of the test Engine must be established either by specific
+tests accomplished immediately before and after the endurance test or by measurements obtained
+during the first and final stages of the endurance, up to the highest rated powers except for 30-Second
+and 2-Minute OEI Power ratings.
+[Amdt. No.: E/1]
+[Amdt No: E/8]

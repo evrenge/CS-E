@@ -1,0 +1,2175 @@
+[
+ {
+  "id": "AMC General",
+  "title": "AMC General",
+  "subpart": "A",
+  "pages": "15-15",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 33,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 10",
+  "title": "Applicability",
+  "subpart": "A",
+  "pages": "15-15",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 142,
+  "hits": {
+   "reverser": 3,
+   "rotorcraft": 1,
+   "piston": 2,
+   "thrust": 3
+  },
+  "quotes": {
+   "reverser": "(b) CS-E contains the specifications for the approval for use of the Engine with a thrust reverser, if fitted.",
+   "rotorcraft": "Any necessary variations of the specifications of Subparts B and C for Piston Engines intended for use in rotorcraft will be decided in accordance with point 21.",
+   "piston": "(c) The specifications of Subparts A, B and C apply to Piston Engines.",
+   "thrust": "(b) CS-E contains the specifications for the approval for use of the Engine with a thrust reverser, if fitted."
+  }
+ },
+ {
+  "id": "AMC E 10(b)",
+  "title": "Thrust Reversers",
+  "subpart": "A",
+  "pages": "15-15",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 430,
+  "hits": {
+   "reverser": 18,
+   "thrust": 18
+  },
+  "quotes": {
+   "reverser": "If a thrust reverser is declared as being part of the Engine type design under CS-E 20(a), it should comply with all appropriate CS-E specifications and therefore be certificated as part of the Engine.",
+   "thrust": "If a thrust reverser is declared as being part of the Engine type design under CS-E 20(a), it should comply with all appropriate CS-E specifications and therefore be certificated as part of the Engine."
+  }
+ },
+ {
+  "id": "CS-E 15",
+  "title": "Terminology",
+  "subpart": "A",
+  "pages": "16-17",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 791,
+  "hits": {
+   "piston": 1
+  },
+  "quotes": {
+   "piston": "(d) For piston Engines Boost Pressure means the power setting measured relative to standard sea-level atmospheric pressure."
+  }
+ },
+ {
+  "id": "CS-E 20",
+  "title": "Engine Configuration and Interfaces",
+  "subpart": "A",
+  "pages": "18-18",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 281,
+  "hits": {
+   "propeller": 1,
+   "oei": 1,
+   "thrust": 1
+  },
+  "quotes": {
+   "propeller": "ption of the Primary and all Alternate Modes, and any Back-up System, together with any associated limitations, of the Engine Control System and its interface with the aircraft systems, including the Propeller when applicable.",
+   "oei": "(f) For Engines having one or more OEI Ratings, data must be provided on Engine performance characteristics and variability to enable the aircraft manufacturer to establish power assurance procedures.",
+   "thrust": "The data must be such that the power/thrust of a \u2018minimum\u2019 and a \u2018maximum\u2019 Engine can be derived and must include means of determining the effects on performance of variations of Engine bleed and power off-take, forward speed, amb"
+  }
+ },
+ {
+  "id": "AMC E 20",
+  "title": "Engine Configuration and Interfaces",
+  "subpart": "A",
+  "pages": "19-19",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 452,
+  "hits": {
+   "propeller": 2,
+   "rotorcraft": 1,
+   "oei": 1,
+   "eecs": 6
+  },
+  "quotes": {
+   "propeller": "(6) The trend toward system integration may lead to EECS that: \u2014 Have other control functions integrated within the Engine Control System, such as an integrated Engine and Propeller Control System or, \u2014 Depend on aircraft resource",
+   "rotorcraft": "Examples of these aircraft supplied resources include recording of rotorcraft One Engine Inoperative data and aircraft central computers that perform some or all of the Engine control functions.",
+   "oei": "Examples of these aircraft supplied resources include recording of rotorcraft One Engine Inoperative data and aircraft central computers that perform some or all of the Engine control functions.",
+   "eecs": "For example, the Electronic Engine Control System (EECS) power specifications and quality, including interrupt limitations, should be clearly defined for the installer."
+  }
+ },
+ {
+  "id": "AMC E 20(f)",
+  "title": "Power Assurance Data for Engines with One or More OEI Power Ratings",
+  "subpart": "A",
+  "pages": "20-20",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 597,
+  "hits": {
+   "oei": 9
+  },
+  "quotes": {
+   "oei": "OEI Power Ratings (1) For Engines having one or more OEI ratings, the applicant should provide in the instructions for installation the necessary Engine data to support the installer in meeting the power availability specification"
+  }
+ },
+ {
+  "id": "CS-E 25",
+  "title": "Instructions for Continued Airworthiness",
+  "subpart": "A",
+  "pages": "21-21",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 610,
+  "hits": {
+   "oei": 10
+  },
+  "quotes": {
+   "oei": "(2) For Engines having 30-Second OEI and 2-Minute OEI power ratings, in addition to complying with CS-E 25(b)(1), the airworthiness limitations section must also prescribe the mandatory postflight inspections and maintenance actio"
+  }
+ },
+ {
+  "id": "AMC E 25",
+  "title": "Instructions for continued airworthiness",
+  "subpart": "A",
+  "pages": "22-26",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 2101,
+  "hits": {
+   "rotorcraft": 1,
+   "shaft": 6,
+   "oei": 61,
+   "p30min": 1,
+   "piston": 1
+  },
+  "quotes": {
+   "rotorcraft": "sist of, but not be limited to, one or more of the following elements: \u2014 Scheduled tests of in-service Engines imposing three applications of 30 seconds OEI rated power, while either installed in the rotorcraft or in an Engine tes",
+   "shaft": "(4) Inspection and maintenance actions for engines having 30-Second and 2-Minute OEI Power ratings.",
+   "oei": "(4) Inspection and maintenance actions for engines having 30-Second and 2-Minute OEI Power ratings.",
+   "p30min": "Usage limitations, such as the cumulated time limit for the 30-Minute Power rating, should be specified in the appropriate section of the ICA.",
+   "piston": "(6) The applicant for the certification of a piston Engine may substantiate a time between overhauls (TBO) or a time between replacements (TBR)."
+  }
+ },
+ {
+  "id": "CS-E 30",
+  "title": "Assumptions",
+  "subpart": "A",
+  "pages": "27-27",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 137,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 30",
+  "title": "Assumptions",
+  "subpart": "A",
+  "pages": "27-28",
+  "changed_in": "Amdt7",
+  "figure": "yes",
+  "words": 542,
+  "hits": {
+   "propeller": 6,
+   "reverser": 1,
+   "oei": 2,
+   "thrust": 2
+  },
+  "quotes": {
+   "propeller": "CS-E 50 Conditions on the interfaces with the aircraft or the Propeller Environmental Conditions.",
+   "reverser": "Propeller or thrust reverser effects.",
+   "oei": "For engines with 30- CS-E 60 Second / 2-Minute OEI ratings, conditions imposed on the usage recording system.",
+   "thrust": "Propeller or thrust reverser effects."
+  }
+ },
+ {
+  "id": "CS-E 40",
+  "title": "Ratings",
+  "subpart": "A",
+  "pages": "29-29",
+  "changed_in": "Amdt7",
+  "figure": "yes",
+  "words": 347,
+  "hits": {
+   "aeroplane": 1,
+   "rotorcraft": 2,
+   "shaft": 2,
+   "oei": 11,
+   "p30min": 1,
+   "piston": 2,
+   "thrust": 6
+  },
+  "quotes": {
+   "aeroplane": "(b) Other ratings may also be established as - (1) Piston Engines - (i) Maximum Recommended Cruising Power, (ii) Maximum Best Economy Cruising Power; (2) Turbine Engines for multi-engined aeroplanes: (i) 2 1/2-Minute OEI Power or ",
+   "rotorcraft": "Maximum Best Economy Cruising Power; (2) Turbine Engines for multi-engined aeroplanes: (i) 2 1/2-Minute OEI Power or Thrust, (ii) Continuous OEI Power or Thrust; (3) Turbine Engines for multi-engined rotorcraft (see AMC E 40(b)(3)",
+   "shaft": "(See AMC E 40) (a) Power ratings must be established for Take-off Power and/or Thrust and for Maximum Continuous Power and/or Thrust, for all Engines.",
+   "oei": "r ratings may also be established as - (1) Piston Engines - (i) Maximum Recommended Cruising Power, (ii) Maximum Best Economy Cruising Power; (2) Turbine Engines for multi-engined aeroplanes: (i) 2 1/2-Minute OEI Power or Thrust, ",
+   "p30min": "craft (see AMC E 40(b)(3)): (i) 30-Second OEI Power, (ii) 2-Minute OEI Power, (iii) 2 1/2-Minute OEI Power, (iv) 30-Minute OEI Power, (v) Continuous OEI Power; (4) Turbine Engines for Rotorcraft: (i) 30-Minute Power.",
+   "piston": "(b) Other ratings may also be established as - (1) Piston Engines - (i) Maximum Recommended Cruising Power, (ii) Maximum Best Economy Cruising Power; (2) Turbine Engines for multi-engined aeroplanes: (i) 2 1/2-Minute OEI Power or ",
+   "thrust": "(See AMC E 40) (a) Power ratings must be established for Take-off Power and/or Thrust and for Maximum Continuous Power and/or Thrust, for all Engines."
+  }
+ },
+ {
+  "id": "AMC E 40",
+  "title": "Ratings",
+  "subpart": "A",
+  "pages": "30-30",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 50,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "The thrust and / or power ratings to be approved should be adequately justified by the applicant, using as appropriate the results of the calibration tests (CS-E 350 or CS-E 730) and the values substantiated by the endurance test "
+  }
+ },
+ {
+  "id": "AMC E 40(b)(3)",
+  "title": "and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings",
+  "subpart": "A",
+  "pages": "30-30",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 733,
+  "hits": {
+   "rotorcraft": 6,
+   "shaft": 10,
+   "oei": 35,
+   "p30min": 2
+  },
+  "quotes": {
+   "rotorcraft": "e optional ratings that may be specifically requested by the applicant, and they are intended for use only for continuation of the one-flight operation after the Failure of one Engine in multi-engine Rotorcraft during take-off, cl",
+   "shaft": "minute Power Ratings (1) The 30-Second and 2-Minute OEI Power ratings are two separate ratings.",
+   "oei": "minute Power Ratings (1) The 30-Second and 2-Minute OEI Power ratings are two separate ratings.",
+   "p30min": "(7) For Rotorcraft turbine Engines, \u2018Rated 30-Minute Power\u2019 is the approved brake horsepower, developed under static conditions at specified altitudes and temperatures within the operating limitations established for the Engine, a"
+  }
+ },
+ {
+  "id": "AMC E 40(d)",
+  "title": "Operating Limitations",
+  "subpart": "A",
+  "pages": "31-32",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 411,
+  "hits": {
+   "propeller": 2,
+   "refrigerant": 1,
+   "piston": 1,
+   "thrust": 1
+  },
+  "quotes": {
+   "propeller": "(Flight envelope) (b) Maximum declared Engine conditions for Reversible Pitch Propeller operations.",
+   "refrigerant": "(s) Maximum refrigerant flow rate (if applicable).",
+   "piston": "(2) Piston Engines (i) Maximum Engine rotational speed and power setting for Take-off conditions.",
+   "thrust": "(t) Maximum reverse thrust conditions and time limitations (including use in flight if applicable)."
+  }
+ },
+ {
+  "id": "CS-E 50",
+  "title": "Engine Control System",
+  "subpart": "A",
+  "pages": "33-35",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 1076,
+  "hits": {
+   "oei": 4,
+   "thrust": 10
+  },
+  "quotes": {
+   "oei": "(j) Engines having a 30-Second OEI Power Rating must incorporate means or provision for means for automatic availability and automatic control of the 30-Second OEI Power within its operating limitations.",
+   "thrust": "(2) Complies with the operability specifications of CS-E 390, CS-E 500(a) and CS-E 745, as appropriate, under all likely system inputs and allowable Engine power or thrust demands, unless it can be demonstrated that this is not re"
+  }
+ },
+ {
+  "id": "AMC E 50",
+  "title": "Engine Control System",
+  "subpart": "A",
+  "pages": "36-36",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 682,
+  "hits": {
+   "propeller": 1,
+   "eecs": 3
+  },
+  "quotes": {
+   "propeller": "For EECS, AMC 20-1 and AMC 20-3 provides additional and detailed interpretation of CS-E 50 with special consideration to interfaces with the aircraft, and the Propeller when applicable.",
+   "eecs": "might be hydromechanical or hydromechanical with a limited authority electronic supervisor or single channel full authority Engine control with hydromechanical back-up or dual channel full authority Electronic Engine Control Syste"
+  }
+ },
+ {
+  "id": "AMC E 50(e)",
+  "title": "Rotor integrity",
+  "subpart": "A",
+  "pages": "37-37",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 134,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 50(j)",
+  "title": "Controls - Engines having a 30-Second OEI Power Rating",
+  "subpart": "A",
+  "pages": "37-37",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 218,
+  "hits": {
+   "rotorcraft": 1,
+   "oei": 10
+  },
+  "quotes": {
+   "rotorcraft": "(1) The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event of one Engine becoming inoperative.",
+   "oei": "(1) The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event of one Engine becoming inoperative."
+  }
+ },
+ {
+  "id": "AMC to CS-E 50(l)",
+  "title": "Information system security protection",
+  "subpart": "A",
+  "pages": "38-38",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 92,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 60",
+  "title": "Provision for Instruments",
+  "subpart": "A",
+  "pages": "38-38",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 374,
+  "hits": {
+   "rotorcraft": 1,
+   "oei": 12
+  },
+  "quotes": {
+   "rotorcraft": "(d) Rotorcraft turbine Engines having 30-Second and 2-Minute OEI Power Ratings must (See AMC E 60(d)): (1) Have means, or provision for means, to alert the pilot when the Engine is at the 30-Second OEI and the 2-Minute OEI Power l",
+   "oei": "(d) Rotorcraft turbine Engines having 30-Second and 2-Minute OEI Power Ratings must (See AMC E 60(d)): (1) Have means, or provision for means, to alert the pilot when the Engine is at the 30-Second OEI and the 2-Minute OEI Power l"
+  }
+ },
+ {
+  "id": "AMC E 60",
+  "title": "Provision for instruments",
+  "subpart": "A",
+  "pages": "39-39",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 333,
+  "hits": {
+   "reverser": 2,
+   "thrust": 2
+  },
+  "quotes": {
+   "reverser": "(3) In complying with CS-E 60(c), for example, because the inadvertent deployment of a reverser in-flight is a Hazardous Engine Effect, the thrust reverser position control and position indicating systems should be separate, such ",
+   "thrust": "(3) In complying with CS-E 60(c), for example, because the inadvertent deployment of a reverser in-flight is a Hazardous Engine Effect, the thrust reverser position control and position indicating systems should be separate, such "
+  }
+ },
+ {
+  "id": "AMC E 60(d)",
+  "title": "Provision for instruments",
+  "subpart": "A",
+  "pages": "40-40",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 581,
+  "hits": {
+   "rotorcraft": 1,
+   "oei": 29
+  },
+  "quotes": {
+   "rotorcraft": "(2) The required means, provided by the applicant or by the rotorcraft manufacturer, are intended to automatically record the entry into, and the subsequent usage of, the defined power levels, and to enable the pilot to be automat",
+   "oei": "(1) For the purpose of complying with CS-E 60(d), the 30-Second OEI power level is considered to be used whenever one or more of the operating limitations applicable to the 2-Minute OEI power level are exceeded."
+  }
+ },
+ {
+  "id": "CS-E 70",
+  "title": "Materials and Manufacturing Methods",
+  "subpart": "A",
+  "pages": "41-41",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 74,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 70",
+  "title": "Castings, Forgings, Welded Structures and Welded Components",
+  "subpart": "A",
+  "pages": "41-42",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 986,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 80",
+  "title": "Equipment",
+  "subpart": "A",
+  "pages": "43-43",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 287,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 80",
+  "title": "Equipment",
+  "subpart": "A",
+  "pages": "44-49",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 2272,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 90",
+  "title": "Prevention of Corrosion and Deterioration",
+  "subpart": "A",
+  "pages": "50-50",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 45,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 100",
+  "title": "Strength",
+  "subpart": "A",
+  "pages": "50-50",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 184,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "(c) Each Engine must be designed and constructed to function throughout its declared flight envelope and operating range of rotational speeds and power/thrust, without inducing excessive stress in any Engine part because of vibrat"
+  }
+ },
+ {
+  "id": "CS-E 110",
+  "title": "Drawings and Marking of Parts \u2013 Assembly of Parts",
+  "subpart": "A",
+  "pages": "50-50",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 217,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 120",
+  "title": "Identification",
+  "subpart": "A",
+  "pages": "51-51",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 57,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 130",
+  "title": "Fire Protection",
+  "subpart": "A",
+  "pages": "51-52",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 715,
+  "hits": {
+   "piston": 2,
+   "thrust": 1
+  },
+  "quotes": {
+   "piston": "For a Piston Engine having an integral oil sump of less than 23.",
+   "thrust": "ting structure and Engine attachment points shall be able to sustain the limit flight loads that are appropriate for a typical aircraft installation for which the Engine is intended, including Engine thrust and torque for Maximum "
+  }
+ },
+ {
+  "id": "AMC E 130",
+  "title": "Fire Protection",
+  "subpart": "A",
+  "pages": "53-58",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 3055,
+  "hits": {
+   "propeller": 2,
+   "thrust": 1
+  },
+  "quotes": {
+   "propeller": "flammable material or air from feeding an existing fire and (2) increase the probability that the Engine Control System and accessories will permit a safe shutdown of the Engine or feathering of the Propeller (if the Propeller con",
+   "thrust": "Other flammable fluid conveying components (except flammable fluid tanks), such as hydraulic and thrust augmentation systems, should be evaluated in a similar manner."
+  }
+ },
+ {
+  "id": "CS-E 135",
+  "title": "Electrical Bonding",
+  "subpart": "A",
+  "pages": "59-59",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 84,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 135",
+  "title": "Electrical Bonding",
+  "subpart": "A",
+  "pages": "59-59",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 120,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 140",
+  "title": "Tests - Engine Configuration",
+  "subpart": "A",
+  "pages": "60-60",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 379,
+  "hits": {
+   "propeller": 3
+  },
+  "quotes": {
+   "propeller": "(f) In addition to the combined Engine and Propeller tests required by CS-E 180, other tests prescribed in Certification Specifications for Propellers may be conducted jointly with Engine tests where it is accepted that these comb"
+  }
+ },
+ {
+  "id": "AMC E 140",
+  "title": "Test - Engine configuration",
+  "subpart": "A",
+  "pages": "60-60",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 61,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 150",
+  "title": "Tests - General Conduct of Tests",
+  "subpart": "A",
+  "pages": "61-61",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 220,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 150(a)",
+  "title": "Tests - General conduct of tests",
+  "subpart": "A",
+  "pages": "61-61",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 41,
+  "hits": {
+   "piston": 1
+  },
+  "quotes": {
+   "piston": "For piston Engines, where the operating conditions of a test represent Maximum Continuous Power at altitude, a higher grade fuel or any other approved anti-detonant may be used if such is required to suppress detonation during the"
+  }
+ },
+ {
+  "id": "CS-E 160",
+  "title": "Tests - History",
+  "subpart": "A",
+  "pages": "61-61",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 95,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 170",
+  "title": "Engine Systems and Component Verification",
+  "subpart": "A",
+  "pages": "61-61",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 35,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 170",
+  "title": "Engine systems and component verification",
+  "subpart": "A",
+  "pages": "62-62",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 662,
+  "hits": {
+   "eecs": 3
+  },
+  "quotes": {
+   "eecs": "\u2014 When an Electronic Engine Control System has a mechanical back-up which is not normally used during the endurance test."
+  }
+ },
+ {
+  "id": "CS-E 180",
+  "title": "Propeller Functioning Tests",
+  "subpart": "A",
+  "pages": "63-63",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 389,
+  "hits": {
+   "propeller": 9,
+   "piston": 2,
+   "thrust": 1
+  },
+  "quotes": {
+   "propeller": "(See AMC E 180) (a) If approval of the Engine for use with a Variable Pitch Propeller is sought by the Applicant, a sufficient portion of the tests prescribed in CS-P, must be made either during or on the completion of the enduran",
+   "piston": "(ii) Piston Engines \u2013 For Engines to be approved for use with a variable pitch Propeller, 100 representative forward pitch change cycles must be made across the range of pitch and rotational speed.",
+   "thrust": "(2) After completion of these tests, those parts of the Engines which may be affected by the reversed thrust or air flow, must be removed and examined and must be shown to have suffered no adverse effects."
+  }
+ },
+ {
+  "id": "AMC E 180",
+  "title": "Propeller Functioning Tests",
+  "subpart": "A",
+  "pages": "64-64",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 45,
+  "hits": {
+   "propeller": 2,
+   "piston": 1
+  },
+  "quotes": {
+   "propeller": "For Propeller approval the remaining tests of CS-P may be conducted on another Engine of the same type providing the same Propeller without further adjustment is used.",
+   "piston": "For Piston Engines, auxiliary cooling may be used during tests of CS-E 180(b)(3) and (4)."
+  }
+ },
+ {
+  "id": "CS-E 190",
+  "title": "Engines for Aerobatic Use",
+  "subpart": "A",
+  "pages": "64-64",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 111,
+  "hits": {
+   "aeroplane": 1
+  },
+  "quotes": {
+   "aeroplane": "Where approval is sought for an Engine intended for use in an aeroplane for which the Flight Manual will approve aerobatics or semi-aerobatic flight, the ability of the Engine to continue to function safely in conditions of invert"
+  }
+ },
+ {
+  "id": "CS-E 500",
+  "title": "Functioning",
+  "subpart": "D",
+  "pages": "81-81",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 70,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 500",
+  "title": "Functioning - Control of Engines (Turbine Engines for Aeroplanes)",
+  "subpart": "D",
+  "pages": "81-81",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 151,
+  "hits": {
+   "aeroplane": 1,
+   "thrust": 1
+  },
+  "quotes": {
+   "aeroplane": "Aeroplanes) It is normally acceptable that the control of Engines within their limitations may be achieved by manual, as opposed to automatic, means provided that - (1) The likely rate of change of Engine conditions makes manual c",
+   "thrust": "nes within their limitations may be achieved by manual, as opposed to automatic, means provided that - (1) The likely rate of change of Engine conditions makes manual control practicable, (2) Minimum thrust setting parameters for "
+  }
+ },
+ {
+  "id": "CS-E 510",
+  "title": "Safety Analysis",
+  "subpart": "D",
+  "pages": "81-82",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 869,
+  "hits": {
+   "propeller": 3,
+   "refrigerant": 1,
+   "thrust": 4
+  },
+  "quotes": {
+   "propeller": "rigerant injection systems, (5) Gas temperature control systems, (6) Engine speed, power or thrust governors and fuel control systems, (7) Engine over-speed, over-temperature or topping limiters, (8) Propeller control systems, and",
+   "refrigerant": "plicable, the safety analysis must also consider, but not be limited to, investigation of - (1) Indicating equipment, (2) Aircraft-supplied data or electrical power, (3) Compressor bleed systems, (4) Refrigerant injection systems,",
+   "thrust": "Indicating equipment, (2) Aircraft-supplied data or electrical power, (3) Compressor bleed systems, (4) Refrigerant injection systems, (5) Gas temperature control systems, (6) Engine speed, power or thrust governors and fuel contr"
+  }
+ },
+ {
+  "id": "AMC E 510",
+  "title": "Safety analysis",
+  "subpart": "D",
+  "pages": "83-90",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 3482,
+  "hits": {
+   "propeller": 1,
+   "reverser": 1,
+   "rotorcraft": 1,
+   "thrust": 15
+  },
+  "quotes": {
+   "propeller": "Those Failures, if applicable to CS-E certification, that could be classified as hazardous events include: \u2014 Uncommanded thrust reverser deployment; \u2014 Unintended movement of the Propeller blades below the established minimum in-fl",
+   "reverser": "Those Failures, if applicable to CS-E certification, that could be classified as hazardous events include: \u2014 Uncommanded thrust reverser deployment; \u2014 Unintended movement of the Propeller blades below the established minimum in-fl",
+   "rotorcraft": "Similarly, this assumption may be revisited during aircraft certification, particularly multi- Engine rotorcraft certification.",
+   "thrust": "(v) Significant thrust in the opposite direction to that commanded by the pilot, Engine Failures resulting in significant thrust in the opposite direction to that commanded by the pilot can, depending on the flight phase, result i"
+  }
+ },
+ {
+  "id": "CS-E 515",
+  "title": "Engine Critical Parts",
+  "subpart": "D",
+  "pages": "91-91",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 189,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 515",
+  "title": "Engine Critical Parts",
+  "subpart": "D",
+  "pages": "91-105",
+  "changed_in": "Amdt7",
+  "figure": "yes",
+  "words": 5836,
+  "hits": {
+   "rotorcraft": 1,
+   "shaft": 1,
+   "oei": 3
+  },
+  "quotes": {
+   "rotorcraft": "For Rotorcraft turbine Engines, the representative usage of the 30-minute Power rating should be considered in the Engine Flight Cycle when establishing the Approved Life of each Engine critical part.",
+   "shaft": "For Rotorcraft turbine Engines, the representative usage of the 30-minute Power rating should be considered in the Engine Flight Cycle when establishing the Approved Life of each Engine critical part.",
+   "oei": "\u201d (b) For engines with OEI ratings, the airworthiness limitations section should include a method for accounting for the number of cycles used in operation at the OEI ratings."
+  }
+ },
+ {
+  "id": "CS-E 520",
+  "title": "Strength",
+  "subpart": "D",
+  "pages": "106-106",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 359,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 520(a)",
+  "title": "Strength - High Cycle Fatigue",
+  "subpart": "D",
+  "pages": "106-106",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 49,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 520(c)(1)",
+  "title": "Strength - Shedding of Blades",
+  "subpart": "D",
+  "pages": "107-107",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 210,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 520(c)(2)",
+  "title": "Engine Model Validation",
+  "subpart": "D",
+  "pages": "107-107",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 466,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "oss analysis typically includes: \u2014 finite element model, \u2014 out-of-balance, \u2014 component Failure, \u2014 rubs (blade-to-casing, and intershaft), \u2014 resulting stiffness changes, \u2014 aerodynamic effects, such as thrust loss and engine surge, "
+  }
+ },
+ {
+  "id": "AMC E 520(d)",
+  "title": "Strength \u2013 Local Failures",
+  "subpart": "D",
+  "pages": "108-108",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 97,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 525",
+  "title": "Continued Rotation",
+  "subpart": "D",
+  "pages": "108-108",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 73,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 525",
+  "title": "Continued rotation",
+  "subpart": "D",
+  "pages": "109-109",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 232,
+  "hits": {
+   "propeller": 1,
+   "rotorcraft": 2,
+   "shaft": 1
+  },
+  "quotes": {
+   "propeller": "rotorcraft, turbopropeller, subsonic aircraft and supersonic aircraft.",
+   "rotorcraft": "(1) Continued rotation can be either due to windmilling or due to mechanical effects such as clutch drag in the case of a multi-engined rotorcraft.",
+   "shaft": "rotorcraft, turbopropeller, subsonic aircraft and supersonic aircraft."
+  }
+ },
+ {
+  "id": "CS-E 540",
+  "title": "Strike and Ingestion of Foreign Matter",
+  "subpart": "D",
+  "pages": "109-109",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 133,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 540",
+  "title": "Strike and ingestion of foreign matter",
+  "subpart": "D",
+  "pages": "109-109",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 323,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 560",
+  "title": "Fuel System",
+  "subpart": "D",
+  "pages": "110-110",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 527,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "(2) Any main fuel filter or strainer provided between the Engine fuel inlet and any device having a significant function for the control of the thrust or power must have a means to permit indication of impending blockage of the fi"
+  }
+ },
+ {
+  "id": "AMC E 560",
+  "title": "Fuel System",
+  "subpart": "D",
+  "pages": "111-111",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 603,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 570",
+  "title": "Oil System",
+  "subpart": "D",
+  "pages": "112-113",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 748,
+  "hits": {
+   "propeller": 3
+  },
+  "quotes": {
+   "propeller": "(2) When applicable, operation of the shut-off means must not prevent the utilisation of any oil supply intended for the Propeller feathering operation."
+  }
+ },
+ {
+  "id": "AMC E 570",
+  "title": "Oil system",
+  "subpart": "D",
+  "pages": "114-114",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 202,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 580",
+  "title": "Air Systems",
+  "subpart": "D",
+  "pages": "114-114",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 57,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 590",
+  "title": "Starter Systems",
+  "subpart": "D",
+  "pages": "114-114",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 115,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 600",
+  "title": "Tests - General",
+  "subpart": "E",
+  "pages": "115-115",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 172,
+  "hits": {
+   "rotorcraft": 1
+  },
+  "quotes": {
+   "rotorcraft": "(e) Engines for Rotorcraft."
+  }
+ },
+ {
+  "id": "AMC E 600(e)",
+  "title": "Test - General",
+  "subpart": "E",
+  "pages": "115-115",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 25,
+  "hits": {
+   "rotorcraft": 1
+  },
+  "quotes": {
+   "rotorcraft": "The applicant should justify any difference between the Engine attitude during the tests and the Engine attitude in the intended rotorcraft installations."
+  }
+ },
+ {
+  "id": "CS-E 620",
+  "title": "Performance Correction",
+  "subpart": "E",
+  "pages": "115-115",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 98,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 620",
+  "title": "Performance: Formulae",
+  "subpart": "E",
+  "pages": "116-116",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 269,
+  "hits": {
+   "thrust": 2
+  },
+  "quotes": {
+   "thrust": "Units Pc = Po \u00d7 1013 \u221925 B Gas Temperatures Tc = To \u00d7 288 \u03b8 Rotational Speed Nc = No \u00d7 \u221a288 \ud835\udf03 Thrust S."
+  }
+ },
+ {
+  "id": "CS-E 640",
+  "title": "Pressure Loads",
+  "subpart": "E",
+  "pages": "117-117",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 191,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 640",
+  "title": "Pressure Loads",
+  "subpart": "E",
+  "pages": "118-118",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 546,
+  "hits": {
+   "oei": 2
+  },
+  "quotes": {
+   "oei": "forward speed, altitude, ambient temperature, Engine speed, use of OEI ratings) likely to be encountered in service, including any pressure fluctuations as a result of the normal operation of valves, cocks, etc."
+  }
+ },
+ {
+  "id": "CS-E 650",
+  "title": "Vibration Surveys",
+  "subpart": "E",
+  "pages": "119-119",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 450,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "(b) The vibration surveys must cover the ranges of power or thrust and rotational speed for each rotor module, corresponding to operations throughout the range of ambient conditions in the declared flight envelope, from the minimu"
+  }
+ },
+ {
+  "id": "AMC E 650",
+  "title": "Vibration Surveys",
+  "subpart": "E",
+  "pages": "120-129",
+  "changed_in": "Amdt7;Amdt8",
+  "figure": "yes",
+  "words": 4886,
+  "hits": {
+   "propeller": 1,
+   "reverser": 1,
+   "turbofan": 1,
+   "shaft": 1,
+   "thrust": 2
+  },
+  "quotes": {
+   "propeller": "Where appropriate, at least the following aspects and installation features should be considered: \u2014 each Propeller approved for use on the Engine; \u2014 each thrust reverser approved for use on the Engine; \u2014 installation influences on",
+   "reverser": "Where appropriate, at least the following aspects and installation features should be considered: \u2014 each Propeller approved for use on the Engine; \u2014 each thrust reverser approved for use on the Engine; \u2014 installation influences on",
+   "turbofan": "and operating conditions which may constitute a definition of the domain of applicability are as follows: \u2014 Engine architecture: \u2014 general configuration, for example 2- or 3-shaft design, turboshaft, turbofan, open rotor, geared f",
+   "shaft": "acteristics and operating conditions which may constitute a definition of the domain of applicability are as follows: \u2014 Engine architecture: \u2014 general configuration, for example 2- or 3-shaft design, turboshaft, turbofan, open rot",
+   "thrust": "Where appropriate, at least the following aspects and installation features should be considered: \u2014 each Propeller approved for use on the Engine; \u2014 each thrust reverser approved for use on the Engine; \u2014 installation influences on"
+  }
+ },
+ {
+  "id": "CS-E 660",
+  "title": "Fuel Pressure and Temperature",
+  "subpart": "E",
+  "pages": "130-130",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 50,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 660",
+  "title": "Fuel Pump Tests (Turbine Engines for Aeroplanes)",
+  "subpart": "E",
+  "pages": "131-131",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 72,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 670",
+  "title": "Contaminated Fuel",
+  "subpart": "E",
+  "pages": "131-131",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 138,
+  "hits": {
+   "aeroplane": 1
+  },
+  "quotes": {
+   "aeroplane": "ugh any filtration provided, either immediately or during subsequent running, and (2) It will be possible for the Engine to complete a period equal to at least half the maximum flight duration of the aeroplane in which it is likel"
+  }
+ },
+ {
+  "id": "AMC E 670",
+  "title": "Contaminated Fuel Testing",
+  "subpart": "E",
+  "pages": "131-132",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 657,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 680",
+  "title": "Inclination and Gyroscopic Load Effects",
+  "subpart": "E",
+  "pages": "133-133",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 39,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 680",
+  "title": "Inclination and Gyroscopic Load Effects",
+  "subpart": "E",
+  "pages": "133-133",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 38,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 690",
+  "title": "Engine Bleed",
+  "subpart": "E",
+  "pages": "133-133",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 434,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 690",
+  "title": "Engine bleed",
+  "subpart": "E",
+  "pages": "134-134",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 113,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 700",
+  "title": "Excess Operating Conditions",
+  "subpart": "E",
+  "pages": "134-134",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 73,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "air or gas pressure, thrust, gas temperature) substantiated elsewhere in this subpart could be exceeded in any of the normal and likely emergency conditions within the flight envelope declared by the Engine constructor, it must be"
+  }
+ },
+ {
+  "id": "AMC E 700",
+  "title": "Excess Operating Conditions (Turbine Engines for Aeroplanes)",
+  "subpart": "E",
+  "pages": "135-135",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 537,
+  "hits": {
+   "aeroplane": 4,
+   "thrust": 3
+  },
+  "quotes": {
+   "aeroplane": "Aeroplanes) Case at VMO \u2217 ( \u2217 For light aeroplanes the speed VNE is normally used) (1) The Engine should be run at the excess pressures and thrusts which would result from operation at VMO under the most critical ambient pressure ",
+   "thrust": "ne should be run at the excess pressures and thrusts which would result from operation at VMO under the most critical ambient pressure and temperature conditions, with Maximum Continuous Power and/or Thrust selected."
+  }
+ },
+ {
+  "id": "CS-E 710",
+  "title": "Rotor Locking Tests",
+  "subpart": "E",
+  "pages": "136-136",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 108,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "r(s), the Engine must be subjected to a test that includes 25 locking and unlocking operations of this means under the following conditions: the Engine must be shut down from rated Maximum Continuous thrust/power; the means for st"
+  }
+ },
+ {
+  "id": "AMC E 710",
+  "title": "Rotor locking tests",
+  "subpart": "E",
+  "pages": "136-136",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 320,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 720",
+  "title": "Continuous Ignition",
+  "subpart": "E",
+  "pages": "136-136",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 202,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 720(a)",
+  "title": "Continuous Ignition",
+  "subpart": "E",
+  "pages": "137-137",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 31,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 730",
+  "title": "Engine Calibration Test",
+  "subpart": "E",
+  "pages": "137-137",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 101,
+  "hits": {
+   "shaft": 1,
+   "oei": 3,
+   "thrust": 2
+  },
+  "quotes": {
+   "shaft": "ed immediately before and after the endurance test or by measurements obtained during the first and final stages of the endurance, up to the highest rated powers except for 30-Second and 2-Minute OEI Power ratings.",
+   "oei": "y specific tests accomplished immediately before and after the endurance test or by measurements obtained during the first and final stages of the endurance, up to the highest rated powers except for 30-Second and 2-Minute OEI Pow",
+   "thrust": "(See AMC E 730) In order to identify the Engine thrust or power changes that may occur during the endurance test of CS-E 740, and to ensure that performance targets are met at the end of the endurance test (as per CS- E 740(h)), t"
+  }
+ },
+ {
+  "id": "AMC E 730",
+  "title": "Calibration Tests",
+  "subpart": "E",
+  "pages": "137-137",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 156,
+  "hits": {
+   "shaft": 1,
+   "oei": 2,
+   "thrust": 1
+  },
+  "quotes": {
+   "shaft": "Because the Engine operation at the 30-Second and 2- Minute OEI Power ratings could significantly affect Engine hardware conditions, these Engine ratings are therefore not required to comply with the calibration specifications of ",
+   "oei": "Because the Engine operation at the 30-Second and 2- Minute OEI Power ratings could significantly affect Engine hardware conditions, these Engine ratings are therefore not required to comply with the calibration specifications of ",
+   "thrust": "Thrust, Power, Torque, Rotational Speed, EPR (Engine Pressure Ratio), EGT (Exhaust Gas Temperature), are typical parameters of known Engine designs."
+  }
+ },
+ {
+  "id": "CS-E 740",
+  "title": "Endurance Tests",
+  "subpart": "E",
+  "pages": "138-149",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 5703,
+  "hits": {
+   "aeroplane": 7,
+   "propeller": 3,
+   "turbofan": 2,
+   "rotorcraft": 11,
+   "shaft": 10,
+   "oei": 58,
+   "p30min": 4,
+   "thrust": 55
+  },
+  "quotes": {
+   "aeroplane": "For Engines for Aeroplanes.",
+   "propeller": "(4) On turbo-propeller Engines, a representative flight Propeller must be fitted.",
+   "turbofan": "(4) Alternate Endurance Testing \u2013 Turbofan Engine The following alternate endurance testing may be used by the applicant for the purpose of testing turbofan Engines instead of the abovementioned test schedule as per CS- E 740(c)(1",
+   "rotorcraft": "or Standard Ratings (Take-off and Maximum Continuous) 25 6-hour stages, each stage comprising: Part 1 1 hour of alternate 5-minute periods at Take-off Power or Thrust and minimum ground idle, or, for rotorcraft Engines, minimum te",
+   "shaft": "For an Engine to be approved with the 30-Minute Power rating, the Engine must be run for continuous periods of 30 minutes at the power level and associated operating limitations of the 30-Minute Power rating.",
+   "oei": "(2) (i) Schedule for Standard Ratings with 2\u00bd-Minute OEI and/or Continuous OEI Rating and/or 30-Minute OEI Rating and/or 30-Minute Power (when appropriate).",
+   "p30min": "(2) (i) Schedule for Standard Ratings with 2\u00bd-Minute OEI and/or Continuous OEI Rating and/or 30-Minute OEI Rating and/or 30-Minute Power (when appropriate).",
+   "thrust": "(2) The time taken in changing power and/or thrust settings during the entire test must not be deducted from the prescribed periods at the higher settings."
+  }
+ },
+ {
+  "id": "AMC E 740(c)(2)(i)",
+  "title": "Endurance Tests \u2013 30-Minute Power Rating",
+  "subpart": "E",
+  "pages": "150-150",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 300,
+  "hits": {
+   "rotorcraft": 1,
+   "shaft": 4,
+   "oei": 1,
+   "p30min": 3
+  },
+  "quotes": {
+   "rotorcraft": "For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the overall test normally required by CS-E 740, or to perform a co",
+   "shaft": "For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the overall test normally required by CS-E 740, or to perform a co",
+   "oei": "(b) Credit may be sought for time accrued during testing at the 30-Minute OEI rating required by CS-E 740.",
+   "p30min": "For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the overall test normally required by CS-E 740, or to perform a co"
+  }
+ },
+ {
+  "id": "AMC E 740(c)(3)",
+  "title": "Endurance Tests",
+  "subpart": "E",
+  "pages": "150-150",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 298,
+  "hits": {
+   "shaft": 1,
+   "oei": 2
+  },
+  "quotes": {
+   "shaft": "(2) Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating.",
+   "oei": "(2) Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating."
+  }
+ },
+ {
+  "id": "AMC E 740(c)(4)",
+  "title": "Alternate Endurance Testing \u2013 Turbofan Engine",
+  "subpart": "E",
+  "pages": "151-171",
+  "changed_in": "Amdt8",
+  "figure": "yes",
+  "words": 3989,
+  "hits": {
+   "aeroplane": 1,
+   "turbofan": 1,
+   "thrust": 13
+  },
+  "quotes": {
+   "aeroplane": "7) uses a ratio between MTO and MCT power settings that better reflects how a modern large aeroplane is operated.",
+   "turbofan": "(1) Alternate Endurance Test Concept The alternate endurance test is intended to address a problem faced by turbofan-Engine designs disadvantaged by the classic endurance test where speed and temperature limiting conditions must b",
+   "thrust": "arameters to characterise the severity of a test are the time on condition, the number of cycles run to critical component temperatures and the physical Engine speeds reached while operating at rated thrust."
+  }
+ },
+ {
+  "id": "AMC E 740(f)(1)",
+  "title": "Multi-spool Engines",
+  "subpart": "E",
+  "pages": "172-172",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 297,
+  "hits": {
+   "thrust": 5
+  },
+  "quotes": {
+   "thrust": "(2) Where increased rotational speed limitations are desired in respect of both Take-off and Maximum Continuous Power/Thrust conditions, the supplementary testing should provide for running at the increased rotational speed of equ"
+  }
+ },
+ {
+  "id": "AMC E 740(g)(1)",
+  "title": "Endurance Tests - Incremental Periods",
+  "subpart": "E",
+  "pages": "173-173",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 35,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 740(i)(2)",
+  "title": "Endurance tests - Inspection checks",
+  "subpart": "E",
+  "pages": "173-173",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 360,
+  "hits": {
+   "oei": 2
+  },
+  "quotes": {
+   "oei": "(3) The Engine condition exhibited after the additional endurance test required by CS-E 740(c)(3)(iii) may be used to validate the mandatory maintenance actions after use of 30- Second and 2-Minute OEI ratings as required by CS-E "
+  }
+ },
+ {
+  "id": "CS-E 745",
+  "title": "Engine Acceleration",
+  "subpart": "E",
+  "pages": "174-174",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 363,
+  "hits": {
+   "aeroplane": 3,
+   "rotorcraft": 2,
+   "thrust": 6
+  },
+  "quotes": {
+   "aeroplane": "(See AMC E 745) (a) It must be demonstrated, on a test bed, that: (1) For aeroplane Engines, the power / thrust increases to rated Take-off when the power or thrust control lever is moved in not more than one second from the minim",
+   "rotorcraft": "(2) For rotorcraft Engines, the power increases to rated Take-off when the power demand is increased from minimum test bed idle to rated Take-off in not more than one second with the appropriate adverse combination of bleed air an",
+   "thrust": "(See AMC E 745) (a) It must be demonstrated, on a test bed, that: (1) For aeroplane Engines, the power / thrust increases to rated Take-off when the power or thrust control lever is moved in not more than one second from the minim"
+  }
+ },
+ {
+  "id": "AMC E 745",
+  "title": "Engine Acceleration",
+  "subpart": "E",
+  "pages": "175-175",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 193,
+  "hits": {
+   "rotorcraft": 1
+  },
+  "quotes": {
+   "rotorcraft": "(3) The \u2018minimum test bed idle\u2019 which is referenced for rotorcraft Engines in CS-E 745(a) or other CS-E paragraphs is the minimum practically possible power extraction from the Engine in the test facility while the output shaft is"
+  }
+ },
+ {
+  "id": "CS-E 750",
+  "title": "Starting Tests",
+  "subpart": "E",
+  "pages": "175-175",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 284,
+  "hits": {
+   "rotorcraft": 2
+  },
+  "quotes": {
+   "rotorcraft": "(d) In the case of a free power-turbine Engine for Rotorcraft, each normal start must be made with the free power-turbine locked and followed by a run at Ground Idling Conditions for three minutes with the free power-turbine stati"
+  }
+ },
+ {
+  "id": "AMC E 750(b)",
+  "title": "Starting tests",
+  "subpart": "E",
+  "pages": "176-176",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 65,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 770",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "E",
+  "pages": "176-176",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 204,
+  "hits": {
+   "rotorcraft": 1,
+   "thrust": 2
+  },
+  "quotes": {
+   "rotorcraft": "Take-off Power or thrust, smooth acceleration of the Engine is obtained without Engine damage when the power or thrust control lever is moved from the ground idle position (minimum test bed idle for rotorcraft Engines) to the posi",
+   "thrust": "Evidence must be provided that, with the Engine oil at the declared minimum temperature for the selection of Take-off Power or thrust, smooth acceleration of the Engine is obtained without Engine damage when the power or thrust co"
+  }
+ },
+ {
+  "id": "AMC E 770",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "E",
+  "pages": "176-176",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 56,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 780",
+  "title": "Icing Conditions",
+  "subpart": "E",
+  "pages": "176-177",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 600,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 780",
+  "title": "Icing Conditions",
+  "subpart": "E",
+  "pages": "178-193",
+  "changed_in": "Amdt7",
+  "figure": "yes",
+  "words": 7332,
+  "hits": {
+   "aeroplane": 2,
+   "propeller": 7,
+   "turbofan": 9,
+   "rotorcraft": 3,
+   "shaft": 2,
+   "thrust": 41
+  },
+  "quotes": {
+   "aeroplane": "Note: If Engine air data probe signals are used by the aircraft system(s) on a CS-25 aeroplane, the aeroplane manufacturer will be responsible for showing that the involved Engine air data probe complies with CS 25.",
+   "propeller": "3) Test Configuration \u2014 Engine Because the Engine behaviour cannot easily be divorced from the effects of the Engine air intake and Propeller, where possible, it is recommended that the tests be conducted on an Engine complete wit",
+   "turbofan": "The ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed and the adhesive strength of the ice to the surface.",
+   "rotorcraft": "7) Compliance of Rotorcraft Engines with Icing Conditions Specific provisions for rotorcraft Engines are currently not included in this AMC.",
+   "shaft": "This may be different for turboshaft installations where complex inlet schemes are utilised.",
+   "thrust": "Power/Thrust Loss Instabilities: Engine operating anomalies that cause Engine instabilities."
+  }
+ },
+ {
+  "id": "CS-E 790",
+  "title": "Ingestion of Rain and Hail",
+  "subpart": "E",
+  "pages": "194-195",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 885,
+  "hits": {
+   "aeroplane": 2,
+   "rotorcraft": 2,
+   "oei": 1,
+   "thrust": 5
+  },
+  "quotes": {
+   "aeroplane": "(c) Engines for Supersonic Aeroplanes \u2013 In addition to complying with CS-E 790(a)(1) and (a)(2), a separate test for supersonic aeroplane Engines only must be conducted with three hailstones ingested at supersonic cruise velocity,",
+   "rotorcraft": "(b) Engines for Rotorcraft \u2013 As an alternative to the specifications specified in CS-E 790(a)(2), but for rotorcraft turbine Engines only, it must be shown that each Engine is capable of acceptable operation during and after the i",
+   "oei": "Acceptable Engine operation precludes, during any 3-Minute continuous period in rain and during any 30-Second continuous period in hail, the occurrence of flameout, rundown, continued or non recoverable surge or stall, or loss of ",
+   "thrust": "9 specific gravity) at the maximum true airspeed, for altitudes up to 4 500 metres, associated with a representative aircraft operating in rough air, with the Engine at Maximum Continuous Power or Thrust, must not cause unacceptab"
+  }
+ },
+ {
+  "id": "AMC E 790",
+  "title": "Rain and Hail Ingestion",
+  "subpart": "E",
+  "pages": "196-196",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 192,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "(1) For the purposes of interpreting the words \u2018unacceptable mechanical damage\u2019 and \u2018unacceptable power or thrust loss' in CS-E 790(a)(1), (a)(2), (b) and (c), see paragraphs (5)(c)(vi), (5)(c)(vi)(A) and (B) in AMC E 790(a)(2)."
+  }
+ },
+ {
+  "id": "AMC E 790(a)(1)",
+  "title": "Rain and Hail Ingestion Certification for Design Changes and Derivative Engines \u2013 Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
+  "subpart": "E",
+  "pages": "196-196",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 181,
+  "hits": {
+   "thrust": 2
+  },
+  "quotes": {
+   "thrust": "Changes and Derivative Engines \u2013 Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail CS-E 790(a)(1) allows, as an alternative to conducting a full Engine test, the certification of design change"
+  }
+ },
+ {
+  "id": "AMC E 790(a)(2)",
+  "title": "Rain and Hail Ingestion \u2013 Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
+  "subpart": "E",
+  "pages": "196-209",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 4698,
+  "hits": {
+   "aeroplane": 6,
+   "propeller": 15,
+   "turbofan": 14,
+   "turbojet": 2,
+   "rotorcraft": 6,
+   "shaft": 2,
+   "oei": 1,
+   "thrust": 33
+  },
+  "quotes": {
+   "aeroplane": "(A) Turbofan and turbojet aeroplane Engines (Refer to Figure 2) \u2014 Rain The inlet diffusing flow field pressure gradients act to shear large droplets into small droplets that decelerate and enter the fan at velocities close to the ",
+   "propeller": "Figure 1 Scoop Factor (ii) Relative velocity centrifuging effects Some of the rain and hail will be centrifuged away from the Engine core by a fan and, to a lesser extent, away from the Engine by a Propeller.",
+   "turbofan": "Further, by-pass turbofan engines may have an additional internal scoop factor effect due to the divergence of the Engine core stream tube from the nacelle inlet to the core inlet at low Engine power and high flight speed.",
+   "turbojet": "(A) Turbofan and turbojet aeroplane Engines (Refer to Figure 2) \u2014 Rain The inlet diffusing flow field pressure gradients act to shear large droplets into small droplets that decelerate and enter the fan at velocities close to the ",
+   "rotorcraft": "Figure 3 Typical Engine Control Characteristics (d) Rotorcraft Turbine Engines For rotorcraft applications, testing to the specifications of CS-E 790(a)(2) may be replaced by the static rain ingestion test specified in CS-E 790(b)",
+   "shaft": ", rotor speed, Engine pressure ratio, torque, shaft power).",
+   "oei": "Note: Applicants can elect to integrate the test point required by paragraph (E)(c) within the 30-Second test point required by paragraph (E)(b), or consider it separately using test or analysis.",
+   "thrust": "Thrust Loss and Instability in Extreme Conditions of Rain and Hail (1) Definitions The following terms are defined for the purpose of this AMC: Operating conditions within the Engine flight envelope at Critical point(s) which an E"
+  }
+ },
+ {
+  "id": "Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail",
+  "title": "Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail",
+  "subpart": "E",
+  "pages": "210-211",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 478,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 800",
+  "title": "Bird Strike and Ingestion",
+  "subpart": "E",
+  "pages": "212-218",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 3101,
+  "hits": {
+   "aeroplane": 3,
+   "turbofan": 1,
+   "rotorcraft": 5,
+   "thrust": 36
+  },
+  "quotes": {
+   "aeroplane": "(iv) A bird speed of 200 knots for Engines to be installed on aeroplanes or the maximum airspeed for normal flight operations for Engines to be installed on Rotorcraft.",
+   "turbofan": "For turbofan Engines, an ingestion test shall be performed as follows: (1) A core Engine flocking bird ingestion test shall be performed with one bird, using the heaviest bird specified in the second column of Table A above and in",
+   "rotorcraft": "(iv) A bird speed of 200 knots for Engines to be installed on aeroplanes or the maximum airspeed for normal flight operations for Engines to be installed on Rotorcraft.",
+   "thrust": "(i) The Engine operating conditions must be stabilised prior to ingestion at not less than 100% of the Take-off Power or Thrust at the test day ambient conditions."
+  }
+ },
+ {
+  "id": "AMC E 800",
+  "title": "Bird Strike and Ingestion",
+  "subpart": "E",
+  "pages": "219-225",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 2965,
+  "hits": {
+   "aeroplane": 2,
+   "propeller": 4,
+   "turbofan": 8,
+   "turbojet": 1,
+   "shaft": 1,
+   "oei": 1,
+   "thrust": 33
+  },
+  "quotes": {
+   "aeroplane": "(d) Core Engine flocking bird ingestion test (i) Determining climb rotor speeds The calculation of the core ingestion test Engine rotor speeds associated with the climb phase will depend on the aeroplane and the type of flight tha",
+   "propeller": "(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics than when the Engine is coupled with a propeller or installed in the aircraft, the int",
+   "turbofan": "(vi) The components referred to in CS-E 800(g)(3)(ii)(A) include, for example, fan blades and their retention / spacer components, fan outlet guide vanes, spinners, fan disks and shafts, fan cases, frames, main bearings and bearin",
+   "turbojet": "For turboprop and turbojet Engines, a core feature will most likely be the critical consideration.",
+   "shaft": "(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics than when the Engine is coupled with a propeller or installed in the aircraft, the int",
+   "oei": "Any OEI ratings do not have to be taken into account for compliance with CS- E 800(d).",
+   "thrust": "(iii) The complete loss of power or thrust is acceptable after the ingestion of the single large bird."
+  }
+ },
+ {
+  "id": "CS-E 810",
+  "title": "Compressor and Turbine Blade Failure",
+  "subpart": "E",
+  "pages": "226-226",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 267,
+  "hits": {
+   "turbofan": 3
+  },
+  "quotes": {
+   "turbofan": "(c) In addition, for composite fan blades where the release of the fan blade is considered to be in the Engine flow path: (1) it must be substantiated that, during the service life of the Engine, the total probability of the occur"
+  }
+ },
+ {
+  "id": "AMC E 810",
+  "title": "Compressor and Turbine Blade Failure",
+  "subpart": "E",
+  "pages": "226-228",
+  "changed_in": "Amdt7",
+  "figure": "no",
+  "words": 1435,
+  "hits": {
+   "turbofan": 7,
+   "shaft": 1
+  },
+  "quotes": {
+   "turbofan": "(A) For composite fan blades only, the fan blade may be released at the inner annulus flow path line, provided that: (1) tests and analyses, or other methods that are acceptable to the Agency, substantiate that the minimum materia",
+   "shaft": "Alternatively, tests may be carried out on a rig but consideration should be given to the effects of shaft power input, further subsequent damage, heavy out-of-balance forces on other parts of the Engine, possible shaft Failure, e"
+  }
+ },
+ {
+  "id": "CS-E 820",
+  "title": "Over-torque Test",
+  "subpart": "E",
+  "pages": "229-229",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 273,
+  "hits": {
+   "oei": 4
+  },
+  "quotes": {
+   "oei": "(2) A power turbine rotational speed equal to the highest speed at which the Maximum Engine Over-torque can occur in service, but not more than the limit speed of Take-off or OEI ratings of a duration longer than 2 minutes."
+  }
+ },
+ {
+  "id": "AMC E 820(a)(2)",
+  "title": "Over-torque Test",
+  "subpart": "E",
+  "pages": "230-230",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 33,
+  "hits": {
+   "oei": 3
+  },
+  "quotes": {
+   "oei": "In order to comply with CS-E 820(a)(2), it should be shown that an over-torque event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power."
+  }
+ },
+ {
+  "id": "CS-E 830",
+  "title": "Maximum Engine Over-speed",
+  "subpart": "E",
+  "pages": "230-230",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 202,
+  "hits": {
+   "oei": 2
+  },
+  "quotes": {
+   "oei": "(2) A turbine-entry gas temperature equal to the maximum steady state temperature to be approved for use during periods longer than 20 seconds and not associated with 30- Second or 2-Minute OEI Power Ratings."
+  }
+ },
+ {
+  "id": "AMC E 830(c)",
+  "title": "Maximum Engine Over-speed",
+  "subpart": "E",
+  "pages": "230-230",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 30,
+  "hits": {
+   "oei": 3
+  },
+  "quotes": {
+   "oei": "In order to comply with CS-E 830(c), it should be shown that an over-speed event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power."
+  }
+ },
+ {
+  "id": "CS-E 840",
+  "title": "Rotor Integrity",
+  "subpart": "E",
+  "pages": "231-231",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 777,
+  "hits": {
+   "oei": 5
+  },
+  "quotes": {
+   "oei": "on with their associated temperatures and temperature gradients, throughout the Engine's operating envelope: (1) 120% of the maximum permissible rotor speeds associated with any of the ratings except OEI ratings of less than 2\u00bd-mi"
+  }
+ },
+ {
+  "id": "AMC E 840",
+  "title": "Rotor Integrity",
+  "subpart": "E",
+  "pages": "232-234",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 1536,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 850",
+  "title": "Compressor, Fan and Turbine Shafts",
+  "subpart": "E",
+  "pages": "235-235",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 324,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 850",
+  "title": "Compressor, Fan and Turbine Shafts",
+  "subpart": "E",
+  "pages": "236-238",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 1313,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 860",
+  "title": "Turbine Rotor Over-temperature",
+  "subpart": "E",
+  "pages": "239-239",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 104,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 870",
+  "title": "Exhaust Gas Over-temperature Test",
+  "subpart": "E",
+  "pages": "239-239",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 151,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 870(a)(3)",
+  "title": "Exhaust Gas Over-temperature Test",
+  "subpart": "E",
+  "pages": "240-240",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 33,
+  "hits": {
+   "oei": 3
+  },
+  "quotes": {
+   "oei": "In order to comply with CS-E 870(a)(3), it should be shown that an over-temperature event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power."
+  }
+ },
+ {
+  "id": "CS-E 880",
+  "title": "Tests with Refrigerant Injection for Take-Off and/or 2\u00bd- Minute OEI Power",
+  "subpart": "E",
+  "pages": "240-240",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 629,
+  "hits": {
+   "aeroplane": 2,
+   "rotorcraft": 1,
+   "oei": 11,
+   "refrigerant": 23,
+   "thrust": 5
+  },
+  "quotes": {
+   "aeroplane": "(b) Engines for Aeroplanes .",
+   "rotorcraft": "Minute OEI Power (a) Engines for Rotorcraft.",
+   "oei": "Minute OEI Power (a) Engines for Rotorcraft.",
+   "refrigerant": "The variation of the tests prescribed in this subpart E when using refrigerant injection must be agreed in consultation with the Agency.",
+   "thrust": "Add a calibration with refrigerant injection to demonstrate that the predicted power/thrust output will be achieved at the conditions demanding maximum refrigerant flow for each rating."
+  }
+ },
+ {
+  "id": "CS-E 890",
+  "title": "Thrust Reverser Tests",
+  "subpart": "E",
+  "pages": "241-241",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 512,
+  "hits": {
+   "aeroplane": 1,
+   "reverser": 5,
+   "thrust": 24
+  },
+  "quotes": {
+   "aeroplane": "c tests must be performed as part of the tests of CS-E 740: (1) 150 cycles from an Engine rotational speed in the forward thrust range not greater than that which will be achieved in a representative aeroplane under typical landin",
+   "reverser": "CS-E 890 is applicable to thrust reversers intended to be installed on turbine Engines.",
+   "thrust": "CS-E 890 is applicable to thrust reversers intended to be installed on turbine Engines."
+  }
+ },
+ {
+  "id": "AMC E 890",
+  "title": "Thrust Reverser Tests",
+  "subpart": "E",
+  "pages": "242-242",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 524,
+  "hits": {
+   "reverser": 8,
+   "etops": 1,
+   "thrust": 13
+  },
+  "quotes": {
+   "reverser": "(1) Interpretation of CS-E 890(g): In cases where the Engine test of CS-E 740 cannot be run with the standard thrust reverser, for example because it is not available despite the applicant\u2019s efforts to obtain it, it is acceptable ",
+   "etops": "It is also acceptable to use other Engine tests performed with a representative thrust reverser, such as cyclic tests performed for the ETOPS approval of the aircraft.",
+   "thrust": "(1) Interpretation of CS-E 890(g): In cases where the Engine test of CS-E 740 cannot be run with the standard thrust reverser, for example because it is not available despite the applicant\u2019s efforts to obtain it, it is acceptable "
+  }
+ },
+ {
+  "id": "CS-E 900",
+  "title": "Propeller Parking Brake",
+  "subpart": "E",
+  "pages": "243-243",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 31,
+  "hits": {
+   "propeller": 2
+  },
+  "quotes": {
+   "propeller": "If a Propeller parking brake is provided it must be operated 100 times during the endurance test."
+  }
+ },
+ {
+  "id": "CS-E 910",
+  "title": "Relighting In Flight",
+  "subpart": "E",
+  "pages": "243-243",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 48,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 910",
+  "title": "Relighting In Flight",
+  "subpart": "E",
+  "pages": "244-244",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 256,
+  "hits": {
+   "thrust": 1
+  },
+  "quotes": {
+   "thrust": "nse time during an actual in-flight event), the Engine design, and in particular the Engine Control System, should not introduce any unnecessary delay in the Engine returning to the previous power or thrust setting."
+  }
+ },
+ {
+  "id": "CS-E 920",
+  "title": "Over-temperature Test",
+  "subpart": "E",
+  "pages": "244-244",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 164,
+  "hits": {
+   "shaft": 2,
+   "oei": 7
+  },
+  "quotes": {
+   "shaft": "(b) In addition to the test requirements in paragraph (a), for Engines with 30-Second and 2-Minute OEI Power ratings, the Engine must be run for a period of 4 minutes at the maximum power-on rotor speed with the turbine entry gas ",
+   "oei": "e turbine entry gas temperature at least 42 \u00b0C (75 \u00b0F) higher than the maximum rating's steady-state operating limit, excluding maximum values of rpm and gas temperature associated with the 30-second OEI and 2-minute OEI ratings."
+  }
+ },
+ {
+  "id": "AMC E 920",
+  "title": "Over-temperature test",
+  "subpart": "E",
+  "pages": "245-245",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 223,
+  "hits": {
+   "shaft": 1,
+   "oei": 5
+  },
+  "quotes": {
+   "shaft": "(2) For the purpose of the test of CS-E 920(b), \"Maximum power-on rotor speed\" is normally the steady state rotor speed associated with the 30-Second OEI Power rating.",
+   "oei": "(2) For the purpose of the test of CS-E 920(b), \"Maximum power-on rotor speed\" is normally the steady state rotor speed associated with the 30-Second OEI Power rating."
+  }
+ },
+ {
+  "id": "CS-E 930",
+  "title": "Initial Maintenance Programme Test",
+  "subpart": "E",
+  "pages": "245-245",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 70,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 930",
+  "title": "Initial Maintenance Programme Test",
+  "subpart": "E",
+  "pages": "245-251",
+  "changed_in": "Amdt8",
+  "figure": "no",
+  "words": 2326,
+  "hits": {
+   "propeller": 4,
+   "reverser": 1,
+   "shaft": 4,
+   "oei": 5,
+   "etops": 4,
+   "thrust": 11
+  },
+  "quotes": {
+   "propeller": "(iv) Turbopropeller Applications For turbopropeller Engine applications, the test should be run with an installation- eligible propeller installed.",
+   "reverser": "thrust reverser, air starter, Engine build-up hardware) and that have an impact on the reliability of the Engine.",
+   "shaft": "(iv) Turbopropeller Applications For turbopropeller Engine applications, the test should be run with an installation- eligible propeller installed.",
+   "oei": "If the Engine includes OEI power ratings, representation of cumulative usage of those OEI power ratings before maintenance should be included in the Engine flight cycles of the IMP test.",
+   "etops": "The applicant may combine the IMP test with the AMC 20-6B early ETOPS test (refer to Appendix 1, Section 2.",
+   "thrust": "In this assessment, the applicant should show that the proposed test cycle represents the expected in-service engine flight cycles, including: \u2014 established power/thrust ratings, reverse thrust use, \u2014 component stress and temperat"
+  }
+ },
+ {
+  "id": "CS-E 1000",
+  "title": "General",
+  "subpart": "F",
+  "pages": "252-252",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 70,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 1000",
+  "title": "Environmental and Operational Design Specifications - General",
+  "subpart": "F",
+  "pages": "252-252",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 53,
+  "hits": {
+   "etops": 1
+  },
+  "quotes": {
+   "etops": "General CS-E subpart F defines specifications for the design of an engine to determine a configuration which would be required as part of the approval for particular aircraft operations such as ETOPS or Time Limited Dispatch."
+  }
+ },
+ {
+  "id": "CS-E 1010",
+  "title": "Fuel Venting",
+  "subpart": "F",
+  "pages": "252-252",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 41,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 1020",
+  "title": "Engine Emissions",
+  "subpart": "F",
+  "pages": "252-252",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 44,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 1020",
+  "title": "Engine emissions",
+  "subpart": "F",
+  "pages": "252-252",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 101,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "CS-E 1030",
+  "title": "Time Limited Dispatch",
+  "subpart": "F",
+  "pages": "253-253",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 244,
+  "hits": {
+   "eecs": 6,
+   "tld": 1,
+   "thrust": 1
+  },
+  "quotes": {
+   "eecs": "(See AMC E 1030) (a) If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS), a time limited dispatch (TLD) analysis of the EECS must be carried out to determine the dispatch and mainte",
+   "tld": "(See AMC E 1030) (a) If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS), a time limited dispatch (TLD) analysis of the EECS must be carried out to determine the dispatch and mainte",
+   "thrust": "(c) The time-weighted-average of the Full-up Configuration and all allowable dispatch configurations with Faults, must meet the Loss of Thrust Control / Loss of Power Control (LOTC/LOPC) rate for the intended application(s)."
+  }
+ },
+ {
+  "id": "AMC E 1030",
+  "title": "Time limited dispatch",
+  "subpart": "F",
+  "pages": "253-260",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 3208,
+  "hits": {
+   "aeroplane": 2,
+   "eecs": 28,
+   "tld": 34,
+   "piston": 1
+  },
+  "quotes": {
+   "aeroplane": "TLD operations have been applied to EECS equipped engines used in multi-engine Aircraft applications, particularly those engines used in large transport Aeroplanes (certified under CS- 25).",
+   "eecs": "(1) Guidance This AMC provides guidance for obtaining type design approval of engines with EECS in a degraded condition with respect to redundancy when these systems are to be dispatched with Faults present for limited time interv",
+   "tld": "This is commonly referred to as time limited dispatch (TLD).",
+   "piston": "This assessment of control system reliability and availability requirements for single engine Aircraft applies to both piston and turbine engines."
+  }
+ },
+ {
+  "id": "CS-E 1040",
+  "title": "ETOPS",
+  "subpart": "F",
+  "pages": "261-261",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 45,
+  "hits": {
+   "etops": 1
+  },
+  "quotes": {
+   "etops": "(See AMC 20-6) In order to be approved for ETOPS capability, the engine shall achieve an IFSD rate that is compatible with the safety target associated to the maximum flight duration and the longest diversion time for which approv"
+  }
+ },
+ {
+  "id": "CS-E 1050",
+  "title": "Exposure to volcanic cloud hazards",
+  "subpart": "F",
+  "pages": "261-261",
+  "changed_in": "none",
+  "figure": "yes",
+  "words": 37,
+  "hits": {},
+  "quotes": {}
+ },
+ {
+  "id": "AMC E 1050",
+  "title": "Exposure to volcanic cloud hazards",
+  "subpart": "F",
+  "pages": "262-262",
+  "changed_in": "none",
+  "figure": "no",
+  "words": 314,
+  "hits": {},
+  "quotes": {}
+ }
+]

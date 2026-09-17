@@ -1,0 +1,144 @@
+# AMC E 850 Compressor, Fan and Turbine Shafts
+# id: AMC E 850
+# subpart: E
+# pages: 236-239
+# source: CS-E_Amendment_8.pdf
+
+(1)
+General
+(a)
+A shaft is the system that transmits torque between the disc driving flange or the shaft
+attachment member of the system that produces power (e.g. turbine) and the system
+that uses this power (e.g. compressor/fan or driving flange), and for which the mechanical
+restraints are mainly torsional. This includes any Engine gearbox in that transmission
+system (for any aircraft gearbox, see paragraph (2)(c) below). The exclusion of discs from
+this definition of a shaft does not preclude the specification that any Failure thereof
+should be Extremely Remote.
+(b)
+Clarification of the terms and probabilities used in CS-E 850 may be found in CS-E 510.
+The possible shedding of blades is also covered in CS-E 810(b).
+(2)
+Non-Hazardous Shaft Failures
+(a)
+Where it is claimed that Hazardous Engine Effects are avoided by ensuring that rotating
+components are retained substantially in their normal plane of rotation and the control
+of overspeed is by means of:
+— disc rubbing;
+— blade interference, spragging or shedding;
+— Engine surge or stall;
+— over-speed protection devices,
+this may be substantiated by either test or validated analysis.
+(b)
+If an applicant elects to demonstrate by test that the consequences of a shaft Failure are
+non-hazardous, then the test should be performed by initiating the shaft Failure under
+the worst-case operating conditions within the flight envelope, in any dispatchable
+configuration, that will maximise the rotor over-speed and the subsequent effects. If it is
+impractical to fully duplicate the worst-case conditions, an applicant may propose a test
+under suitably representative conditions to account for the worst case. Those test
+conditions would need to be submitted to the Agency for acceptance. In addition to the
+initial rotor speed, other aspects should also be taken into consideration, such as the
+shaft torque and the relevant Engine pressures and temperatures. Failures that are
+predicted to occur with a probability of Extremely Remote or less do not need to be taken
+into account if they meet all the requirements of CS-E 850(b)(2).
+If compliance is not shown by a full Engine test, but instead by a system or component
+rig test(s), it should be shown that the test(s) is (are) sufficiently representative, in terms
+of the key characteristics of the shaft Failure and its consequences on all the relevant
+Engine parts and on the behaviour of subsystems, of the way the Failure would occur on
+a full Engine.
+(c)
+If an applicant elects to demonstrate by validated analysis that the consequences of a
+shaft Failure are non-hazardous, it should be shown that all the likely Failure modes have
+been identified in the analysis (including the loss of loads caused by a Failure of any
+gearboxes supplied by the aircraft manufacturer). The Failure analysis should take into
+consideration the effect of Failures in terms of contact and the loads on the surrounding
+structure of the Engine and determine whether the affected rotor components are
+retained substantially in their rotational plane. It should also demonstrate that the
+structural components, when the loads resulting from the Failure are applied, do not
+exceed their ultimate stress capability and not to lead to a Hazardous Engine Effect.
+The analysis should be validated against an actual Engine, system or component rig test(s)
+and/or service events, and it should show a sufficient degree of similarity with the Engine
+model for which compliance is sought. This similarity should encompass all the relevant
+aspects of the Failure mechanism and its consequences, such as but not limited to
+aerodynamics, surge characteristics, engine control logic, rotor speeds and the associated
+acceleration characteristics, relevant rotor and stator design features, materials,
+clearances, etc., and should be submitted to the Agency for acceptance.
+(3)
+Hazardous Shaft Failures
+In general, experience has shown that Failures of shafts occur at a rate in excess of Extremely
+Remote. Consequently, shaft systems should be designed to fail safe as required by CS-E
+850(a)(1). However, it is accepted under CS-E 850(a)(3) that, for conventional designs, this is
+not possible for all parts of a shaft system, but the use of this provision should be strictly limited.
+Two possible hazardous effects of shaft Failure should be particularly considered: a release of
+the complete fan or compressor moving forward and an over-speed of the turbine leading to
+disc burst.
+Industry experience with shaft Failures should be considered under CS-E 850(b)(2)(v). In
+particular, the following Failure modes have all led to shaft Failures in service:
+— Degradation of a bearing, leading to shaft orbiting and subsequent contact between the
+shaft and other rotating or static parts;
+— Blade Failure, resulting in an imbalance and rubbing of the shaft on other parts;
+— Corrosion inside the shaft;
+— Fuel flow instability in the Engine Control System inducing a resonance in the shaft;
+— An oil fire around the shaft;
+— Impingement of hot air on the shaft;
+— A bearing Failure;
+— An HCF Failure from a stress concentration feature;
+— A loss of lubrication of a spline.
+Further, features such as splines, oil feed holes, couplings, bearing tracks that are integral with
+the shaft and sealing fins should be shown to be well understood and conducive to well-
+established and validated stressing techniques.
+When the assessment for compliance with CS-E 850(b)(2)(iii) is that a shaft Failure due to the
+environment can be discounted, the ability to inspect the critical section of a shaft at the defined
+intervals and the appropriateness of the inspection method should be taken into account. For
+example, the Failure of a section of a shaft, which could cause Hazardous Engine Effects, in an
+area which would make inspection of the critical section in accordance with the manual difficult,
+may not be acceptable.
+(4)
+Design Assessment
+(a)
+The following aspects should be included when assessing the causes and probabilities of
+a shaft Failure -
+(i)
+The potential for, and possible effects of, undetected material defects;
+(ii)
+The effects of manufacturing tolerances allowed by the design;
+(iii)
+Rubbing between any torque-loaded section of the shaft and adjacent surfaces
+(e.g. other shafts, oil seals, air seals) to the extent that significant over-heating or
+reduction in strength could occur;
+(iv)
+The effect on the shaft of a bearing Failure and the desirability of provision (e.g. by
+maintenance techniques and/or flight instrumentation) for the detection of an
+incipient bearing Failure. The possibility of isolating the bearing from the shaft and
+thus increasing the damage tolerance of the system should be considered;
+(v)
+The effect on the shaft of any likely Engine fire and the necessity for provision of
+an early warning of any internal fires that may occur;
+(vi)
+The effect on the shaft of loads which could be transmitted by shock loading
+resulting from bird strikes, blade Failures, etc.;
+(vii)
+The effect on the shaft of oscillatory loading, for example, resulting from fuel
+system oscillations.
+(b)
+The shaft system should be subjected to the following investigations and/or testing to
+support the design assessment and the compliance with the objectives of CS-E 850(a).
+(i)
+Strain gauge or other suitable means of investigation in order to satisfy the
+vibration survey specifications of CS-E 650 and to ensure that shaft whirling is not
+present to any significant degree at any likely Engine operating condition.
+(ii)
+Fatigue evaluation of each shaft in torsional modes, in order to confirm its
+predicted safe life. An oscillatory torque of a magnitude equal to the maximum
+envisaged in a representative installation, but not less than ±5% of the normal
+maximum steady-state torque, should be superimposed on that steady-state
+torque. In addition, consideration should also be given to any high-frequency
+vibrations determined from paragraph (4)(b)(i) above and any possible shaft
+bending.
+(iii)
+Where necessary, confirmation of stress assumptions by static strength tests.
+(iv)
+Where necessary, substantiation by test of the design considerations detailed in
+paragraph (4)(a) above such as to demonstrate that shaft Failure is acceptably
+remote.
+[Amdt No: E/1]
+[Amdt No: E/5]
