@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Build / generated output
+build/
+out/
+dist/
+*.tmp
+
+# Generated decks (regenerate from source/ + template/)
+output/
