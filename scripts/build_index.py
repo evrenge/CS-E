@@ -7,8 +7,9 @@ Columns:
     subpart             A-F ('' for front matter)
     start_page          PDF page of the heading banner
     end_page            page before the next heading (document end for the last)
-    has_figure_or_table 'yes' when any page in the span carries a real figure,
-                        a detected table, or a Figure/Table caption
+    has_figure_or_table 'yes' when a figure, table or caption falls inside the
+                        paragraph's own vertical band (not merely on its pages)
+    figure_pages        the exact pages to render for accuracy rule 6
     changed_in          Amdt7 / Amdt8 / Amdt7;Amdt8 / none
     changed_refs        the verbatim redline declarations behind changed_in
 
@@ -89,8 +90,6 @@ def resolve(ref: str, ids: list[str]) -> str | None:
 def main() -> int:
     if not SIDECAR.exists():
         sys.exit("run scripts/extract_text.py first")
-    pages = json.loads(SIDECAR.read_text())
-    by_page = {p["page"]: p for p in pages}
 
     # Spans come from paragraph_text.py, which slices banner-to-banner and so
     # knows the true last page of each paragraph. Deriving end_page here as
@@ -101,12 +100,10 @@ def main() -> int:
         sys.exit("run scripts/paragraph_text.py first (it writes work/spans.json)")
     entries = [dict(e) for e in json.loads(SPANS.read_text())]
 
-    for e in entries:
-        span = range(e["start_page"], e["end_page"] + 1)
-        e["has_figure_or_table"] = "yes" if any(
-            by_page[n]["images"] > 1 or by_page[n]["tables"] > 0 or by_page[n]["captions"]
-            for n in span
-        ) else "no"
+    # has_figure_or_table comes from spans.json, where ownership is decided by
+    # bbox overlap with the paragraph's own vertical band. A per-page test
+    # over-reports on boundary pages: page 29 carries AMC E 30's table and
+    # CS-E 40's opening, and that table is not CS-E 40's.
 
     ids = [e["id"] for e in entries]
     tags: dict[str, set[str]] = {}
@@ -131,7 +128,10 @@ def main() -> int:
 
     INDEX.parent.mkdir(parents=True, exist_ok=True)
     cols = ["id", "title", "subpart", "start_page", "end_page",
-            "has_figure_or_table", "changed_in", "changed_refs"]
+            "has_figure_or_table", "figure_pages", "changed_in", "changed_refs"]
+    for e in entries:
+        # Exact pages to render for accuracy rule 6, not the whole span.
+        e["figure_pages"] = " ".join(str(n) for n in e.get("figure_pages", []))
     with INDEX.open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()

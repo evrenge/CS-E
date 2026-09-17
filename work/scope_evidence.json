@@ -139,7 +139,7 @@
   "subpart": "A",
   "pages": "22-27",
   "changed_in": "Amdt8",
-  "figure": "yes",
+  "figure": "no",
   "words": 2160,
   "hits": {
    "rotorcraft": 1,
@@ -162,7 +162,7 @@
   "subpart": "A",
   "pages": "27-27",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 137,
   "hits": {},
   "quotes": {}
@@ -194,7 +194,7 @@
   "subpart": "A",
   "pages": "29-30",
   "changed_in": "Amdt7",
-  "figure": "yes",
+  "figure": "no",
   "words": 361,
   "hits": {
    "aeroplane": 1,
@@ -426,7 +426,7 @@
   "subpart": "A",
   "pages": "43-44",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 287,
   "hits": {},
   "quotes": {}
@@ -448,7 +448,7 @@
   "subpart": "A",
   "pages": "50-50",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 45,
   "hits": {},
   "quotes": {}
@@ -459,7 +459,7 @@
   "subpart": "A",
   "pages": "50-50",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 184,
   "hits": {
    "thrust": 1
@@ -474,7 +474,7 @@
   "subpart": "A",
   "pages": "50-51",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 234,
   "hits": {},
   "quotes": {}
@@ -1057,7 +1057,7 @@
   "subpart": "E",
   "pages": "119-120",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 451,
   "hits": {
    "thrust": 1
@@ -1095,7 +1095,7 @@
   "subpart": "E",
   "pages": "130-131",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 51,
   "hits": {},
   "quotes": {}
@@ -1106,7 +1106,7 @@
   "subpart": "E",
   "pages": "131-131",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 72,
   "hits": {},
   "quotes": {}
@@ -1117,7 +1117,7 @@
   "subpart": "E",
   "pages": "131-131",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 138,
   "hits": {
    "aeroplane": 1
@@ -1391,7 +1391,7 @@
   "subpart": "E",
   "pages": "172-173",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 298,
   "hits": {
    "thrust": 5
@@ -2143,7 +2143,7 @@
   "subpart": "F",
   "pages": "261-261",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 45,
   "hits": {
    "etops": 1
@@ -2158,7 +2158,7 @@
   "subpart": "F",
   "pages": "261-262",
   "changed_in": "none",
-  "figure": "yes",
+  "figure": "no",
   "words": 42,
   "hits": {},
   "quotes": {}

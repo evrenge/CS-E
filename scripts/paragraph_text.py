@@ -15,6 +15,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+from collections import Counter
 from pathlib import Path
 
 try:
@@ -36,6 +37,8 @@ HEADING_MIN_SIZE = 14.0
 # lines start at y 48.8, so the two ranges overlap. An earlier 95.0 cutoff
 # silently dropped 294 body lines - among them the opening of CS-E 40(e), whose
 # first line sits at y 92.7 on page 30.
+CAPTION = re.compile(r"^\s*(Figure|Table)\s+[0-9IVX]+[.:]?", re.IGNORECASE)
+
 RUNNING = re.compile(
     r"^(?:CS-E\s*[—-]\s*Amendment\s*\d+"
     r"|SUBPART\s+[A-F]\b"
@@ -77,6 +80,47 @@ def banner_positions(page: pymupdf.Page) -> list[tuple[float, str]]:
     return merged
 
 
+def logo_xrefs(doc: pymupdf.Document) -> set[int]:
+    """The EASA logo is one image repeated on every page. Find it by frequency."""
+    counts: Counter[int] = Counter()
+    for i in range(len(doc)):
+        for img in doc[i].get_images(full=True):
+            counts[img[0]] += 1
+    return {x for x, n in counts.items() if n > len(doc) * 0.8}
+
+
+def figures_in(page: pymupdf.Page, y_from: float, y_to: float,
+               logos: set[int]) -> bool:
+    """Does a real figure, table or caption fall inside this vertical band?
+
+    Ownership is positional, not per-page. A boundary page carries the tail of
+    one paragraph and the start of the next: page 29 holds AMC E 30's table at
+    y 92-213 and CS-E 40's banner at y 302, so that table is not CS-E 40's.
+    """
+    for info in page.get_image_info(xrefs=True):
+        if info.get("xref") in logos:
+            continue
+        if info["bbox"][3] > y_from and info["bbox"][1] < y_to:
+            return True
+    try:
+        for table in page.find_tables().tables:
+            if table.bbox[3] > y_from and table.bbox[1] < y_to:
+                return True
+    except Exception:
+        pass
+    for block in page.get_text("dict")["blocks"]:
+        if block["type"] != 0:
+            continue
+        for line in block["lines"]:
+            y = line["bbox"][1]
+            if not (y_from <= y < y_to):
+                continue
+            text = " ".join(" ".join(sp["text"] for sp in line["spans"]).split())
+            if CAPTION.match(text):
+                return True
+    return False
+
+
 def body_lines(page: pymupdf.Page, y_from: float, y_to: float) -> list[str]:
     """Text lines on one page within the paragraph's vertical span.
 
@@ -106,6 +150,7 @@ def main() -> int:
 
     doc = pymupdf.open(PDF)
     pages = {p["page"]: p for p in json.loads(SIDECAR.read_text())}
+    logos = logo_xrefs(doc)
 
     # Global ordered banner list: (page, y, heading text).
     banners: list[tuple[int, float, str]] = []
@@ -144,14 +189,19 @@ def main() -> int:
         # previous paragraph occupying the top of that same page, as CS-E 40(e)-(h)
         # do on page 30 before the AMC E 40 banner.
         last = pno
+        fig_pages: list[int] = []
         for n in range(pno, end_page + 1):
             lo = y + 1 if n == pno else 0.0
             hi = end_y if n == end_page else 10_000.0
             if body_lines(doc[n - 1], lo, hi):
                 last = n
+            if figures_in(doc[n - 1], lo, hi, logos):
+                fig_pages.append(n)
         spans.append({
             "id": pid, "title": heading[len(pid):].strip() if heading.startswith(pid) else heading,
             "subpart": pages[pno]["subpart"], "start_page": pno, "end_page": last,
+            "has_figure_or_table": "yes" if fig_pages else "no",
+            "figure_pages": [n for n in fig_pages if n <= last],
         })
         written += 1
 

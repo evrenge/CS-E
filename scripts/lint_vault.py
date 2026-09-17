@@ -10,6 +10,8 @@ Catches the mistakes that are invisible when writing one note at a time:
                  (pages, subpart, status, changed_in)
   sections       a required section missing, or Dropped present but empty
   rule-4         not exactly one "Rule text" callout
+  quote          the Rule text quote is not verbatim in the paragraph's source
+                 text (work/paragraphs/), after whitespace normalisation
   orphan         a note whose paragraph is not classified APPLIES
 
 Exit status is 0 only when every note passes.
@@ -31,9 +33,27 @@ from classification import CLASSIFICATION  # noqa: E402
 
 VAULT = ROOT / "vault"
 INDEX = ROOT / "work" / "paragraph_index.csv"
+PARAS = ROOT / "work" / "paragraphs"
 REQUIRED = ["## What it means", "## What we must do", "## Turboshaft note",
             "## Related", "## Notes"]
 WIKILINK = re.compile(r"\[\[([^\]|#]+)")
+QUOTE = re.compile(r">\s*\[!quote\]\s*Rule text\s*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
+
+
+def slug(pid: str) -> str:
+    return re.sub(r"[^A-Za-z0-9]+", "_", pid).strip("_")
+
+
+def norm(text: str) -> str:
+    """Whitespace-flatten and normalise the quote marks EASA and Markdown differ on."""
+    text = text.replace("\u2019", "'").replace("\u2018", "'")
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
+    text = text.replace("\u2011", "-").replace("\u2013", "-").replace("\u2014", "-")
+    text = " ".join(text.split())
+    # EASA wraps hyphenated tokens across lines, so "AMC-\n20" flattens to
+    # "AMC- 20" while the note quotes "AMC-20". Collapsing hyphen+space on BOTH
+    # sides keeps the comparison honest without weakening it.
+    return re.sub(r"-\s+", "-", text)
 FM_FIELD = re.compile(r"^(\w+):\s*(.*)$")
 
 
@@ -100,6 +120,19 @@ def main() -> int:
         n_quote = text.count("> [!quote] Rule text")
         if n_quote != 1:
             say(f"{n_quote} 'Rule text' callouts, expected exactly 1")
+
+        # --- rule 4 content: the quote must exist verbatim in the source
+        m = QUOTE.search(text)
+        if m:
+            quoted = m.group(1).strip().lstrip(">").strip()
+            # Drop the trailing attribution, e.g. '... " - CS-E 740(c)(3)(i)'
+            quoted = re.sub(r'"\s*[-\u2014]\s*(?:CS-E|AMC|GM)[^"]*$', '"', quoted).strip()
+            quoted = quoted.strip('"').strip()
+            src = PARAS / f"{slug(pid)}.txt"
+            if not src.exists():
+                say(f"no source text at {src.name} to verify the quote against")
+            elif quoted and norm(quoted) not in norm(src.read_text(encoding="utf-8")):
+                say(f"quote not verbatim in source: {quoted[:70]!r}...")
 
         # --- links
         body = text.split("---\n", 2)[-1]
