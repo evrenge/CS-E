@@ -1,0 +1,37 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 201 of 262 
+ 
+and power setting. Where an inlet particle separation system is 
+incorporated, credit may be taken for its characteristics.  
+— Hail  
+As with rain, the effects of the Propeller on hail ingestion are generally 
+considered beneficial by reducing the effective core concentrations so 
+that conducting a hail test without a Propeller should result in an 
+added degree of conservatism.  
+Another consideration is the effect of the Propeller spinner. In a 
+continuous hail encounter, the spinner may redirect hail into the 
+general area of the Engine intake. The trajectory of this material will 
+influence the effective inlet concentration and should be included in 
+any supportive analysis for other than full-scale powerplant tests. 
+ 
+ 
+Figure 3 Typical Engine Control Characteristics 
+ 
+(d) 
+Rotorcraft Turbine Engines 
+For rotorcraft applications, testing to the specifications of CS-E 790(a)(2) may be replaced 
+by the static rain ingestion test specified in CS-E 790(b). While it may be possible to define 
+in-flight rain and hail concentration amplification and attenuation effects for rotorcraft 
+installations similar to aeroplane installations, these effects are typically small. When 
+compared to aeroplanes, the proportionately higher Engine power during descent and 
+the lower flight speeds of rotorcraft result in a small scoop factor effect. Rotorcraft 
+turbine engines might not have rotating components that centrifuge rain or hail away 
+from the Engine. While differences in centrifuging capability between static test 
+conditions and flight operation is an important consideration for turbofan engines, it 
+typically has no applicability to rotorcraft turbine engines. Increasing the ambient rain 

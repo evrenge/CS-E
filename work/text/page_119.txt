@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 119 of 262 
+ 
+When a test is performed on a part which is subjected in service to a varying pressure 
+throughout its length, it is permissible to simulate the pressure conditions by suitably dividing 
+the part into zones and applying the maximum pressure for each zone including the appropriate 
+factors of CS-E 640(a). 
+(3) 
+Tests. General 
+If the part is subject to loads in addition to those resulting from differential pressure (e.g. flight 
+manoeuvre loads, Engine mounting loads, etc.), an analysis should be made of these additional 
+loads and their effect examined. If the effect of these loads is small it may be possible to 
+simulate them by an addition to the test pressure differential. However, if the loads are of 
+significant magnitude or cannot adequately be represented by a pressure increment the test 
+should be carried out with such loads acting in addition to the pressure loads.  
+The part should be tested at the temperature associated with the most critical stress case or 
+alternatively the test pressure differential may be increased to simulate the loss of relevant 
+properties as a result of temperature.  
+During pressure testing the methods of mounting and restraint by the test facility or test 
+equipment of any critical section should be such as to simulate the actual conditions occurring 
+on the Engine. 
+(4) 
+Analytical Modelling Methods 
+An analytical modelling method may be used to determine adequate strength and fatigue life 
+provided that the model is validated by testing or successful field experience with parts of 
+similar design.  
+[Amdt. No.: E/1] 
+CS-E 650 Vibration Surveys 
+(See AMC E 650) 
+(a) 
+It must be established by test or a combination of test and validated analysis that the vibration 
+characteristics of all components that may be subject to mechanically or aerodynamically 
+induced vibratory responses are acceptable throughout the declared flight envelope.  
+(b) 
+The vibration surveys must cover the ranges of power or thrust and rotational speed for each 
+rotor module, corresponding to operations throughout the range of ambient conditions in the 
+declared flight envelope, from the minimum rotational speed up to at least the maximum of:  
+(1) 
+103 % of the maximum rotational speed permitted for rating periods of two minutes or 
+longer; 
+(2) 
+100 % of the maximum rotational speed permitted for rating periods of less than two 
+minutes; 
+(3) 
+100 % of any Maximum Engine Over-speeds declared under CS E 830.  
+(c) 
+If there is any indication that a rising response amplitude may lead to peak vibratory stresses 
+occurring at a speed above the maximum rotational speed established under CS-E 650(b), the 
+surveys must be extended sufficiently to reveal the maximum amplitude, except that the 
+extension need not cover more than a further 2 percentage points increase beyond this speed. 
+(d) 
+The surveys must also cover the aerodynamic and aeromechanical factors which might induce 
+or influence flutter in those systems susceptible to that form of vibration. 

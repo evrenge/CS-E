@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 91 of 262 
+ 
+— Society of Automotive Engineers (SAE), Document No. ARP 4761, "Guidelines and 
+Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and 
+Equipment". 
+— Carter, A.D.S., Mechanical Reliability (2nd ed.). Macmillan, 1986.  
+(6) 
+Definitions. 
+The following definitions are applicable. They should not be assumed to apply to the same or 
+similar terms used in other specifications or AMCs. 
+Dormant Failure. A Failure the effect of which is not detected for a given period of time.  
+Failure condition. A condition with direct, consequential Engine-level effect, caused or 
+contributed to by one or more Failures. Examples include limitation of thrust 
+to idle or oil exhaustion.  
+Failure mode. 
+The cause of the Failure or the manner in which an item or function can fail. 
+Examples include Failures due to corrosion or fatigue, or Failure in jammed 
+open position.  
+Toxic products. 
+Products that act as or have the effect of a poison when humans are exposed 
+to them. 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/4] 
+[Amdt. No.: E/7] 
+CS-E 515  Engine Critical Parts 
+(See AMC E 515) 
+The integrity of the Engine Critical Parts identified under CS-E 510 must be established by:  
+(a) 
+An Engineering Plan, the execution of which establishes and maintains that the combinations 
+of loads, material properties, environmental influences and operating conditions, including the 
+effects of parts influencing these parameters, are sufficiently well known or predictable, by 
+validated analysis, test or service experience, to allow each Engine Critical Part to be withdrawn 
+from service at an Approved Life before Hazardous Engine Effects can occur. Appropriate 
+Damage Tolerance assessments must be performed to address the potential for Failure from 
+material, manufacturing and service-induced anomalies within the Approved Life of the part. 
+The Approved Life must be published as required in CS-E 25(b). 
+(b) 
+A Manufacturing Plan which identifies the specific manufacturing constraints necessary to 
+consistently produce Engine Critical Parts with the Attributes required by the Engineering Plan. 
+(c) 
+A Service Management Plan which defines in-service processes for maintenance and repair of 
+Engine Critical Parts which will maintain Attributes consistent with those required by the 
+Engineering Plan. These processes must become part of the instructions for continued 
+airworthiness. 
+[Amdt. No.: E/1] 
+AMC E 515 Engine Critical Parts 
+(1) 
+Introduction 

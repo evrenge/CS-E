@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 33 of 262 
+ 
+(h) 
+Maximum indicated oil temperature for: 
+— Take-off conditions.  
+— Maximum Continuous conditions.  
+— Contingency conditions.  
+— Transient conditions and associated time limitation(s). 
+(i) 
+Minimum indicated oil temperature for starting. 
+(j) 
+Minimum indicated oil temperature for acceleration from idle. 
+(k) 
+Minimum oil pressure for completion of flight at Maximum Continuous conditions. 
+(l) 
+Maximum normal oil pressure at Maximum Continuous conditions. 
+(m) 
+Use of compressor bleed air. 
+(n) 
+Maximum Power Turbine speed for Autorotation (if applicable). 
+(o) 
+Maximum Power Turbine torque and maximum rpm at which use of maximum torque is 
+approved. 
+(p) 
+Maximum Over-torque transient and time limit. 
+(q) 
+Maximum Over-speed transient(s) and time limit(s) for each applicable operating 
+condition. 
+(r) 
+Maximum Over-temperature transient and time limit. 
+(s) 
+Maximum refrigerant flow rate (if applicable). 
+(t) 
+Maximum reverse thrust conditions and time limitations (including use in flight if 
+applicable). 
+(u) 
+Maximum rpm for application of Propeller brake (if applicable.) 
+[Amdt. No.: E/1] 
+CS-E 50 Engine Control System 
+(See AMC E 50, AMC 20-1, AMC 20-3, AMC 20-115) 
+(a) 
+Engine Control System Operation. It must be substantiated by tests, analysis or a combination 
+thereof that the Engine Control System performs the intended functions in a manner which -  
+(1) 
+Enables selected values of relevant control parameters to be maintained and the Engine 
+kept within the approved operating limits over changing atmospheric conditions in the 
+declared flight envelope. 
+(2) 
+Complies with the operability specifications of CS-E 390, CS-E 500(a) and CS-E 745, as 
+appropriate, under all likely system inputs and allowable Engine power or thrust 
+demands, unless it can be demonstrated that this is not required for non-dispatchable 
+specific Control Modes in the intended application. In such cases, the Engine approval 
+will be endorsed accordingly.  
+(3) 
+Allows modulation of Engine power or thrust with adequate sensitivity and accuracy over 
+the declared range of Engine operating conditions, and 
+(4) 
+Does not create unacceptable thrust or power oscillations. 

@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 219 of 262 
+ 
+(A) 
+All components that are critical to achieving the run-on criteria of CS-E 800(c) 
+are included in the component test; and  
+(B) 
+The components tested under (A) above are subsequently installed in a 
+representative Engine for a run-on demonstration in accordance with CS-E 
+800(c)(1)(v), except that steps 1 and 2 of CS-E 800(c)(1)(v) are replaced by a 
+unique 14-minutes step at a thrust not less than 50% of Rated Take-off 
+Thrust after the Engine is started and stabilized; and  
+(C) 
+Dynamic effects that would have been experienced during a full Engine test 
+can be shown to be negligible with respect to meeting the specifications of 
+CS-E 800(c).  
+(4) 
+Limit exceedances may be permitted to occur during the tests of CS-E 800(c), (d) and (e). 
+Any limit exceedance must be recorded and shown to be acceptable under CS-E 700.  
+(5) 
+For an Engine that incorporates an inlet protection device, compliance with CS-E 800 
+must be established with the device functioning and the Engine approval must be 
+endorsed accordingly.  
+(6) 
+If compliance with all of the specifications of CS-E 800 is not established, the Engine 
+approval will be endorsed accordingly by restricting the Engine installations to those 
+where birds cannot strike the Engine or be ingested by the Engine or adversely restrict 
+the airflow into the Engine.  
+(7) 
+An Engine to be installed in a multi-Engine Rotorcraft does not need to comply with the 
+medium- or small-bird specifications of CS-E 800(d), but the Engine approval will be 
+endorsed accordingly.  
+(8) 
+The Engine inlet throat area, as used in CS-E 800 to determine the bird quantity and mass, 
+must be established and identified as a limitation on the inlet throat area in the 
+instructions for installation.  
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+AMC E 800 Bird Strike and Ingestion 
+(1) 
+Ingestion tests 
+(a) 
+Single large bird 
+(i) 
+The applicant is required to provide an analysis substantiating the definition of the 
+'most critical exposed location' (CS-E 800(b)(1)(iii)). Determination of this location 
+should include evidence where necessary on:  
+— the effect of the bird strike on rotating components (excluding any spinner); 
+— the compressor casing strength; 
+— the possibility of multiple blade Failures;  
+— the strength of the Engine structure and main shafts relative to the unbalance 
+and the excess torque that are likely to occur.  
+(ii) 
+To comply with CS-E 800(b)(1)(ii)(A), rig tests may be used to determine whether a 
+bird of a particular size will pass through the inlet.  

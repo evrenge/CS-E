@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 231 of 262 
+ 
+[Amdt. No.: E/1] 
+CS-E 840 Rotor Integrity 
+(See AMC E 840) 
+(a) 
+For each fan, compressor, and turbine rotor, it must be established by test, analysis, or 
+combination thereof, that a rotor which has the most adverse combination of material 
+properties and dimensional tolerances allowed by its type design will not burst when it is 
+operated in the Engine for five minutes at whichever of the conditions defined in CS-E 840(b) is 
+the most critical with respect to the integrity of such a rotor.  
+However, where that required condition is determined by either CS-E 840(b)(3) or (b)(4), but 
+the associated Failure condition is of a sudden transient nature, such as loss of load, and it 
+precludes any further operation of the affected rotor, then the time period of that Failure 
+condition is an acceptable duration for showing compliance by means of an Engine test provided 
+the required test speeds are achieved. Test rotors which do not have the most adverse 
+combination of material properties and dimensional tolerances must comply at appropriately 
+adjusted test parameters, e.g. speed, temperature, loads.  
+(b) 
+When determining the operating conditions applicable to each rotor for compliance with CS-E 
+840(a) and (c), each of the following speeds must be evaluated in conjunction with their 
+associated temperatures and temperature gradients, throughout the Engine's operating 
+envelope:  
+(1) 
+120% of the maximum permissible rotor speeds associated with any of the ratings except 
+OEI ratings of less than 2½-minutes. 
+(2) 
+115% of the maximum permissible rotor speeds associated with any OEI ratings of less 
+than 2½-minutes. 
+(3) 
+105% of the highest rotor speed that would result from either - 
+(i) 
+The Failure of the component or system which, in a representative installation of 
+the Engine, is the most critical with respect to over-speeding when operating at 
+any rating condition except OEI ratings of less than 2½-minutes, or 
+(ii) 
+The Failure of any component or system in a representative installation of the 
+Engine, in combination with any other Failure of a component or system that would 
+not normally be detected during a routine pre-flight check or during normal flight 
+operation that is the most critical with respect to over-speeding, except as 
+provided by CS-E 840(c), when operating at any rating condition except OEI ratings 
+of less than 2½-minutes.  
+(4) 
+100% of the highest rotor speed that would result from the Failure of the component or 
+system which, in a representative installation of the Engine, is the most critical with 
+respect to over-speeding when operating at any OEI ratings of less than 2½-minutes. 
+(c) 
+The highest over-speed which will result from a complete loss of load on a turbine rotor, unless 
+it can be shown to be Extremely Remote under the provisions of CS-E 850, must be included in 
+the over-speeds considered under each of CS-E 840(b)(3)(i), (ii) and (b)(4), irrespective of 
+whether it is the result of a Failure within the Engine or external to the Engine.  
+Over-speeds resulting from any other single Failure must be considered. Over-speeds resulting 
+from multiple Failures must also be considered unless they can be shown to be Extremely 
+Remote.  

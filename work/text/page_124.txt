@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 124 of 262 
+ 
+as a dependency on corrected speed, which enables such phenomena to be investigated by 
+means of sea-level testing, provided that the entire required corrected speed range can be 
+achieved. In general, a high corrected speed implies that the airflow over the blading has a high 
+Mach number, which is associated with higher aerodynamic forcing and lower aerodynamic 
+stability. 
+(6) 
+Fault Conditions 
+A number of common Fault conditions can have the effect of introducing additional excitation 
+sources or changes to those existing under Fault-free conditions. Any change in vibration 
+response should be evaluated and shown not to result in a Hazardous Engine Effect. 
+CS-E 650(g) applies to those Fault conditions that would cause abnormal vibrations that are 
+difficult to identify in a timely manner so that appropriate mitigating action can be taken. 
+Notwithstanding the provisions of CS-E 60 and CS-E 510 with regard to instrumentation, certain 
+low-level vibrations caused by Fault conditions may not be recognised as associated with an 
+Engine Fault and may not prompt an immediate response. Subsequently, these Faults may 
+escalate to Hazardous Engine Effects. For example, the loss of an airfoil tip would be likely to 
+result in a change in vibration due to the increased out-of-balance. Even if indicated by the 
+means required under CS-E 60 and CS-E 510, this vibration might not be immediately recognised 
+as abnormal or may not prompt immediate action, and could cause further damage. Other 
+Faults include incorrectly scheduled compressor variables, stator vanes blockages or 
+enlargement, and blockages of fuel nozzles. These Faults could produce local airflow distortions 
+and changes in the airflow or pressure distributions that in turn may affect component vibratory 
+response and characteristics. To address these Fault conditions, the applicant may use prior 
+experience with Faults that occurred on other similar Engines. Successful experience is such 
+that, after exposure to a Fault condition, the Engine was able either to continue in safe 
+operation or to be shut down without creating a Hazardous Engine Effect. Applicants may also 
+use field experience or other means to show that certain Fault conditions are Extremely Remote 
+because of specific Engine configurations, design features or operating conditions. The 
+requirements of CS-E 650(g) apply to the same components that are considered under CS-E 
+650(a). When the effects of these Fault conditions extend to the rest of the Engine, they must 
+be addressed under the requirements of CS-E 100 Strength and/or CS E 520 Strength (for 
+example, the out-of-balance effects on the Engine structural components). 
+(7) 
+Inlet Airflow Distortion 
+Fan and compressor vibration can be sensitive to inlet airflow distortion, and conditions 
+consistent with the most adverse pattern declared by the applicant should be taken into 
+account. Inlet airflow distortion may be associated with the air intake, crosswinds, or other 
+operating and aircraft installation conditions. When an Engine test is performed, whether in a 
+test cell or on a flight test bed, the inlet distortion may be achieved by various means, such as 
+external crosswind devices, inlet distortion plates or suppression screens. 
+(8) 
+Flutter 
+Testing required to demonstrate satisfactory vibratory clearance from flutter boundaries may 
+be accomplished by rig and/or Engine sea-level or altitude test, subject to the following 
+considerations: 
+(a) 
+The presence of flutter may be acceptable in some circumstances, for example in a speed 
+range encountered only briefly or infrequently, or where the flutter amplitude is limited 
+to a safe level. However, the resulting vibration stresses must always satisfy the 
+requirements of CS-E 650(f). A thorough investigation of the flutter response and its 

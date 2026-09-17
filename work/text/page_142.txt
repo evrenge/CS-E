@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 142 of 262 
+ 
+Part 5: One minute at 50 percent of Take-off Power.  
+Part 6: Thirty seconds at 30-Second OEI Power.  
+Part 7: Two minutes at 2-Minute OEI Power.  
+Part 8: One minute at flight idle.  
+(4) 
+Alternate Endurance Testing – Turbofan Engine 
+The following alternate endurance testing may be used by the applicant for the purpose 
+of testing turbofan Engines instead of the abovementioned test schedule as per CS-
+E 740(c)(1). In particular, this may be suitable when running this schedule would require 
+substantial modifications of the Engine such that it would deviate excessively from the 
+type-design definition. The alternate endurance test must, however, provide a severity 
+at least equivalent to the intent of the endurance test prescribed by CS-E 740(c)(1) (here 
+designated as the ‘classic’ endurance test). 
+(i) 
+Alternate Test Definition 
+The test must be defined considering the following elements:  
+(A) 
+Test Vehicle Definition;  
+(B) 
+Critical Point Analysis (CPA); 
+(C) 
+Engine Operating Limits Demonstration (type certification data sheet (TCDS) 
+physical speeds and temperatures);  
+(D) 
+Test Severity Demonstration over extended operating periods; 
+(E) 
+Additional Severity Testing; 
+(F) 
+Incremental Cruise Power and Thrust;  
+(G) 
+Ancillary TCDS Limits Demonstration.  
+The compliance document(s) addressing the proposed test schedule and full assessment 
+of the above elements must be agreed with EASA in advance of test commencement. 
+(ii) 
+Test Vehicle Definition 
+The test must be performed using a test vehicle that adequately conforms to the 
+Engine type design. 
+Exceptions could include external test equipment, controls systems settings, and 
+other modifications required to achieve the test conditions detailed below; 
+however, Engine hardware modifications should be minimised to preserve the 
+Engine type-design hardware configuration and Engine cycle match. Hardware 
+modifications may be temporarily applied to achieve specific test conditions (e.g. 
+for the physical core speed operating limits test segment). 
+(iii) 
+Critical Point Analysis (CPA) 
+Using a thermodynamic Engine model representative of a production Engine 
+(accounting for new and deteriorated Engine conditions) in conjunction with the 
+aeroplane flight envelope, the applicant will identify the critical points (rotor 
+physical speeds, temperatures, altitude, etc.) representing the most severe 
+operation and the extent of exposure to those levels.  
+For the purpose of operating limits demonstrations, the CPA must establish the 
+extent of exposure to the operating limits levels and close proximity to those levels. 

@@ -1,0 +1,46 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 209 of 262 
+ 
+following the ingestion test, should be limited to 3 percent. Measured post-
+ingestion power or thrust losses greater than 3 per cent at any value of the 
+primary setting parameter, can only be accepted when supported by 
+appropriate assessments of aircraft performance.  
+(B)  
+Power or thrust degradation  
+A change in the Engine corrected thrust or power of up to 10 per cent from 
+rated or pre-test levels when using the applicant's normal performance 
+parameters (i.e., Exhaust Gas Temperature, High Rotor Speed, etc.), 
+excluding the primary thrust or power setting parameter, is acceptable 
+provided the criterion for sustained power or thrust loss is met.  
+Note: Due to the adjustment of the hail water content (HWC) to account for the 
+higher air density at sea level compared with the altitude flight conditions required 
+by paragraph (5)(c)(i)(A) of this AMC, it is possible that the pressure altitude density 
+effect on the HWC may result in ice accretion within the Engine that would not 
+occur in flight. The amount of ice accretion within the Engine compressor will 
+depend on the absolute HWC level, rather than the water-to-air ratio within the 
+Engine.  
+If an issue with ice accretion is revealed during the testing required by paragraph 
+(5)(c)(iv) of this AMC with amplified HWC, the applicant may need to repeat the 
+testing at the levels identified in Appendix A to CS-E to evaluate the true ice 
+accretion threat.  
+Alternatively, the applicant may elect to run an initial test at those levels identified 
+in Appendix A to CS-E to demonstrate the capability of the Engine with respect to 
+ice accretion before performing the operability test with a higher HWC.  
+Irrespective of the effects of pressure altitude density, flight airspeed effects 
+should still be applied to the Engine test simulation. 
+(d) 
+Other Compliance Alternatives 
+Analysis may be used in lieu of, or in combination with, Engine testing to demonstrate 
+compliance with the specifications. The analytical methods used should have a sufficient 
+validation basis to justify the accuracy of the predictions or be shown to yield 
+conservative results. The amount of validation (i.e. Engine test, rig test, experimental test, 
+etc.) should be proportional to the complexity of the analytical methods used and to the 
+criticality of the particular calculation to the prediction of Engine operability. 
+[Amdt No: E/1] 
+[Amdt No: E/5] 

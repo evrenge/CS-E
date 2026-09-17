@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 84 of 262 
+ 
+(2) 
+Objective. 
+The ultimate objective of a safety analysis is to ensure that the risk to the aircraft from all Engine 
+Failure conditions is acceptably low. The basis is the concept that an acceptable overall Engine 
+design risk is achievable by managing the individual major and hazardous Engine risks to 
+acceptable levels. This concept emphasises reducing the likelihood or probability of an event 
+proportionally with the severity of its effects. The safety analysis should support the Engine 
+design goals such that there would not be Major or Hazardous Engine Effects that exceed the 
+required probability of occurrence as a result of Engine Failure modes. The analysis should 
+consider the full range of expected operations.  
+(3) 
+Specific means. 
+(a) 
+Classification of effects of Engine Failures. 
+Aircraft-level Failure classifications are not directly applicable to Engine assessments 
+since the aircraft may have features that could reduce or increase the consequences of 
+an Engine Failure condition. Additionally, the same type-certificated Engine may be used 
+in a variety of installations, each with different aircraft-level Failure classifications.  
+CS-E 510 defines the Engine-level Failure conditions and presumed severity levels.  
+Since aircraft-level specifications for individual Failure conditions may be more severe 
+than the Engine-level specifications, there should be early co-ordination between the 
+applicant and the aircraft manufacturer to ensure Engine and aircraft compatibility.  
+(b) 
+Component Level Safety Analysis. 
+In showing compliance with CS-E 510(a), a component level safety analysis may be an 
+auditable part of the design process or may be conducted specifically for demonstration 
+of compliance with this rule.  
+The specific specifications of CS-E 50 for the Engine Control System should be integrated 
+into the overall Engine safety analysis.  
+(c) 
+Typical installation 
+The reference to "typical installation" in CS-E 510(a)(1)(i) does not imply that the aircraft-
+level effects are known, but that assumptions of typical aircraft devices and procedures, 
+such as fire-extinguishing equipment, annunciation devices, etc., are clearly stated in the 
+analysis.  
+CS-E 510(a)(1)(i) requires the applicant to take account of aircraft-level devices in the 
+Engine safety analysis. For example, the effects on the Engine failure of aircraft air ducts 
+might be considered.  
+It is recognised that, when showing compliance with CS-E 510(a)(3) and (4) for some 
+Engine effects, the applicant may not be in a position to determine the detailed Failure 
+sequence, the rate of occurrence or the dormancy period of such Failures of the aircraft 
+components.  
+In such cases, for Engine certification, the applicant will assume a Failure rate for these 
+aircraft components. Compliance with CS-E 510(e) requires the applicant to provide, in 
+the Engine instructions for installation, the list of Failures of aircraft components that 
+may result in or contribute to Hazardous or Major Engine Effects. The mode of 
+propagation to this effect should be described and the assumed Failure rates should be 
+stated.  

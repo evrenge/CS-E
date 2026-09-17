@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 229 of 262 
+ 
+applied during aircraft certification to further mitigate the potential effects of 
+blade Failures at the aircraft level.  
+Note (3): A Hazardous Engine Effect following a blade Failure may be found 
+acceptable under CS-E 810(a), providing it can be shown that it occurs at a rate not 
+in excess of that defined as Extremely Remote. However, the applicant must ensure 
+that this Engine Effect is acceptable for compliance with other specifications of CS-
+E. For instance, if a blade Failure results in a shaft failure, this would be 
+unacceptable under CS-E 850(a)(1) and/or CS-E 840(c), even though it is shown to 
+occur at a rate not in excess of that defined as Extremely Remote. 
+(3) 
+Running Following a Blade Failure 
+(a) 
+The tests should be conducted on a complete Engine, mounted in such a manner that the 
+reactions induced by the out-of-balance on the Engine carcass and mounts will be 
+representative of those which would occur in the installed condition. Alternatively, tests 
+may be carried out on a rig but consideration should be given to the effects of shaft power 
+input, further subsequent damage, heavy out-of-balance forces on other parts of the 
+Engine, possible shaft Failure, etc., when interpreting the test results as being indicative 
+that no hazardous damage would occur in a complete Engine. 
+(b) 
+Test Conditions. Separate tests should be carried out on each compressor and turbine 
+stage that is adjudged to be most critical from the point of view of Engine damage 
+subsequent to blade Failure as a result of out-of-balance forces that exist during the 
+period prior to the Engine shutdown. 
+(i) 
+The Engine should be run, with an out-of-balance that is representative of the loss 
+of a blade from the top of the retention member, at the maximum rotational speed 
+to be approved (other than the Maximum Engine Over-speed) until either the 
+Engine stops of its own accord, or a period of at least 15 seconds has elapsed. 
+(ii) 
+During the run, the power setting should not be altered. 
+(c) 
+Condition after Tests. On completion of the tests, the result should be such that there is 
+no unsafe condition. A complete Engine shutdown is permitted.  
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+[Amdt No: E/7] 
+CS-E 820 Over-torque Test 
+(a) 
+If approval of a Maximum Engine Over-torque is sought for an Engine incorporating a free power 
+turbine, compliance with this paragraph must be demonstrated by test. 
+(1) 
+The test may be run, if desired, as part of the endurance test of CS-E 740. Alternatively, 
+evidence may be provided from tests of a complete Engine or equivalent testing of 
+individual groups of components.  
+(2) 
+On conclusion of such tests, the stripped condition of the Engine or individual groups of 
+components must be satisfactory for continued running. (See AMC E 820(a)(2)) 
+(b) 
+The test conditions must be as follows: 
+(1) 
+A total of 15 minutes run at the Maximum Engine Over-torque to be approved. This may 
+be done in separate runs, each being of at least 2½-minutes duration. 

@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 253 of 262 
+ 
+(2) 
+It should be noted that only the type design at time of engine certification will be assessed 
+against CS-34 and that the applicable emissions standard for a production engine is dependent 
+on its date of manufacture. Any further change to the type design should assess the effect on 
+its engine emissions characteristics and its compliance with the specifications of CS-34, to 
+enable demonstration of compliance for each individual engine when required. 
+[Amdt. No.: E/1] 
+CS-E 1030 Time Limited Dispatch 
+(See AMC E 1030) 
+(a) 
+If approval is sought for dispatch with Faults present in an Electronic Engine Control System 
+(EECS), a time limited dispatch (TLD) analysis of the EECS must be carried out to determine the 
+dispatch and maintenance intervals. 
+(b) 
+For each dispatchable configuration it must be shown by test or analysis that: 
+(1) 
+The Engine remains capable of meeting all CS-E specifications for: 
+(i) 
+The operability aspects covered by CS-E 500(a), CS-E 750 and CS-E 745; 
+(ii) 
+Re-light in flight covered by CS-E 910. 
+(2) 
+The ability to control the Engine within limits is maintained; 
+(3) 
+Protection is maintained against Hazardous Engine Effects, if provided solely by the EECS 
+and shown to be necessary by the safety analyses required under CS-E 510 and CS-E 50;  
+(4) 
+A means is maintained to provide necessary signals to identify EECS Faults; 
+(5) 
+A further single Failure in the EECS will not produce a Hazardous Engine Effect; 
+(6) 
+The Engine continues to meet its certification specifications for external threats; 
+(7) 
+The proposed dispatch interval is justified.  
+(c) 
+The time-weighted-average of the Full-up Configuration and all allowable dispatch 
+configurations with Faults, must meet the Loss of Thrust Control / Loss of Power Control 
+(LOTC/LOPC) rate for the intended application(s). 
+(d) 
+The periods of time allowed prior to rectification of Faults must be documented in the 
+appropriate manual(s). 
+(e) 
+Provision must be made for any no-dispatch configuration to be indicated to the flight crew. 
+[Amdt No: E/1] 
+AMC E 1030 Time limited dispatch 
+(1) 
+Guidance 
+This AMC provides guidance for obtaining type design approval of engines with EECS in a 
+degraded condition with respect to redundancy when these systems are to be dispatched with 
+Faults present for limited time intervals before maintenance actions are required. This is 
+commonly referred to as time limited dispatch (TLD). 

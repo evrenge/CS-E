@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 101 of 262 
+ 
+The general principles which are used to establish the Approved Life are similar to 
+those used for rotating parts.  
+However, for static pressure loaded parts, the Approved Life may be based on the 
+crack initiation life plus a portion of the residual crack growth life. The portion of 
+the residual life used should consider the margin to burst. If the Approved Life 
+includes reliance on the detection of cracks prior to reaching the Approved Life, 
+the reliability of the crack detection should be considered. If, as part of the 
+Engineering Plan any dependence is placed upon crack detection to support the 
+Approved Life, this should result in mandatory inspections being included in the 
+Service Management Plan and in the Airworthiness Limitations Section of the 
+Instructions for Continued Airworthiness. Crack growth analysis techniques should 
+be validated experimentally.  
+If the Approved Life of the part includes a portion of the residual crack growth life, 
+the compliance with applicable certification specifications should be demonstrated 
+assuming the presence of the maximum predicted size crack that can occur within 
+the Approved Life of the part. In some cases, it may be necessary to limit the crack 
+size allowed in service in order to demonstrate compliance with certification 
+specifications other than CS-E 515, such as the blade containment requirement in 
+CS-E 810. 
+Some construction techniques, such as welding or casting, contain inherent 
+anomalies. Such anomalies should be considered as part of the methodology to 
+establish the Approved Life. Fracture mechanics is a common method for such 
+assessments.  
+In determining the life of the part, the temperature of the part, any temperature 
+gradients, any significant vibratory or other loads (for example, flight manoeuvre) 
+should be taken into account in addition to the pressure loads.  
+Manufacturing and in-service inspections are an option to address the potential for 
+fracture. The intervals for each specified in-service inspection should be identified. 
+Engine removal rates and module and piece part availability data could serve as 
+the basis for establishing the inspection interval. The manufacturing inspections 
+should be incorporated into the Manufacturing Plan. Likewise, the assumed in-
+service inspection procedures and intervals should be integrated into the Service 
+Management Plan and included, as appropriate, in the Airworthiness Limitations 
+Section of the Instructions for Continued Airworthiness. 
+(ii) 
+Tests  
+When using testing as part of the substantiation of the life of the part, the basic 
+load cycle should be from substantially zero differential pressure to a value that 
+simulates the most critical operation stress condition and returning to substantially 
+zero differential pressure.  
+When a test is performed, the test pressure level should be adjusted to include the 
+effects of stress due to thermal gradients in actual operation. When this is 
+impossible, due to over-stress of regions other than the critical location or stress 
+reversal in the Engine Flight Cycle for example, the fatigue capability in operation 
+should be established by an additional analysis.  
+If the part is subject to loads in addition to those resulting from differential 
+pressure (e.g. flight manoeuvre loads, Engine mounting loads, etc.), an analysis 

@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 96 of 262 
+ 
+Consequently, the methodology has not explicitly addressed the occurrence of 
+such anomalies, although some level of tolerance to anomalies is implicitly built-in 
+using design margins, factory and field inspections, etc. A Damage Tolerance 
+Assessment explicitly addresses the anomalous condition(s) and complements the 
+fatigue life prediction system. It should be noted that the ‘Damage Tolerance 
+Assessment’ is a part of the design process and not a method for returning cracked 
+parts to service whilst monitoring crack growth.  
+2.  
+Anomaly types 
+Material anomalies.  
+Material anomalies include abnormal discontinuities or non-homogeneities 
+introduced during the production of the input material or melting of the material. 
+Some examples of material anomalies that should be considered are hard alpha 
+anomalies in titanium, oxide/carbide (slag) stringers in nickel alloys, and ceramic 
+particulate anomalies in powder metallurgy materials unintentionally generated 
+during powder manufacturing.  
+Manufacturing anomalies.  
+Manufacturing anomalies include anomalies produced in the conversion of the 
+ingot-to-billet and billet-to-forging steps as well as anomalies generated or 
+activated by the material heat treatment or the metal removal and finishing 
+processes used during manufacture and/or repair. Examples of conversion-related 
+anomalies are forging laps and strain-induced porosity. Some examples of metal-
+removal-related anomalies are tears due to broaching, arc burns from various 
+sources and disturbed microstructure due to localised overheating of the 
+machined surface. Activated anomalies include material anomalies which become 
+more crack-like or are opened during heat treatment or when disturbed by metal 
+removal methods.  
+Service-induced anomalies.  
+Service-induced anomalies such as non-repaired nicks, dings and scratches, 
+corrosion, etc. should be considered. Similarity of hardware design, installation, 
+exposure and maintenance practice should be used to determine the relevance of 
+the experience.  
+3.  
+Elements of a Damage Tolerance Assessment. 
+The damage tolerance assessment should include the two following elements: 
+— 
+The establishment of a minimum level of damage tolerance capability for 
+each critical component using either a probabilistic approach or a 
+deterministic approach. These should address the anomaly types described 
+in paragraph 2. above, 
+— 
+The establishment of a service damage monitoring process in order to gain 
+assurance that service damage is consistent with serviceable and repairable 
+limits and to initiate appropriate action if damage is found outside these 
+established limits. 
+4.  
+Establishment of a minimum level of damage tolerance capability. 
+a. Probabilistic approach.  

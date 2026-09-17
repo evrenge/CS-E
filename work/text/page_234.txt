@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 234 of 262 
+ 
+(j) 
+Where a number of rotors are of similar design, are madeof materials to the same 
+specification and are subjected to similar stress conditions, temperature levels and 
+gradients, it is permissible for compliance with CS-E 840(a) to test only the most critical 
+rotor, with respect to burst. This would require determination of the burst speed for each 
+rotor in order to select the most critical which is assumed to have the smaller margin to 
+burst above the speeds specified in CS-E 840(b). 
+The most adverse combination of temperatures and temperature gradients which is 
+possible throughout the entire operating envelope may vary for individual rotors in an 
+assembly.  
+The most critical rotor with respect to burst might not be the most critical with respect 
+to growth. Consideration should be given to the components surrounding each rotor in 
+order to determine the most critical rotor with respect to growth for compliance with CS-
+E 840(d). 
+(k) 
+Appropriate tests or analysis based on tests should establish the burst speed of each fan, 
+compressor, and turbine rotor design in relation to the most critical condition prescribed 
+in CS-E 840(b) and this should be reported in the certification documentation. These burst 
+speeds should be based on the most adverse combination of dimensional tolerances and 
+material properties. 
+(l) 
+For a multi stage rotor in which the rotors do not meet the conditions of similarity as 
+described in paragraph (2)(j) above, the compliance of each rotor stage with CS-E 840 
+should be substantiated using representative test data. 
+(3) 
+Acceptable means of compliance may include 
+(a) 
+Testing a sample rotor on a rig or Engine at the conditions necessary to demonstrate that 
+a minimum strength rotor would meet the specifications of CS-E 840. 
+(b) 
+Where the conditions of CS-E 840(b)(1) or (b)(2) are the most critical, testing a sample 
+rotor for the required period of time in an Engine at not less than 96% of the speed 
+necessary to demonstrate that a minimum strength rotor would meet the specifications 
+of CS-E 840 provided that this resultant reduced test condition is not less severe than that 
+required to demonstrate compliance with CS-E 840(b)(3) or (b)(4) and, it is shown from a 
+validated method of burst prediction that burst would not have occurred at the 
+conditions of CS-E 840(b)(1) or (b)(2). 
+(c) 
+An analytical modelling method based on representative test data may be acceptable 
+provided that:  
+(i) 
+The model has been validated by comparison with results from specimen and rotor 
+tests and 
+(ii) 
+Its use is limited to rotors with material, geometry, stress, and temperature 
+conditions encompassed by those used to construct the model and 
+(iii) 
+The predictions show that the certification standard rotor is not more critical, with 
+respect to burst and growth, than any similar rotor for which substantiation has 
+been demonstrated both by rotor test and model prediction. 
+(d) 
+Any test may be continued to rotor burst after the required time duration by increasing 
+the speed until the rotor bursts. If the applicant chooses this method, then it should be 
+shown that: 

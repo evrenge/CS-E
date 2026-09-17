@@ -1,0 +1,43 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 252 of 262 
+ 
+SUBPART F — TURBINE ENGINES - ENVIRONMENTAL 
+AND OPERATIONAL DESIGN REQUIREMENTS 
+CS-E 1000 General 
+(See AMC E 1000) 
+Compliance with the specifications of CS-E 1010 and CS-E 1020 may be mandatory for Engine type 
+certification depending on the specifications referenced under CS-34. Compliance with all or some of 
+the other specifications of this subpart is optional, at the request of the applicant.  
+Compliance with the specifications of this subpart will be recorded in notes in the Engine type 
+certificate data sheet.  
+[Amdt. No.: E/1] 
+AMC E 1000 Environmental and Operational Design Specifications - 
+General 
+CS-E subpart F defines specifications for the design of an engine to determine a configuration which 
+would be required as part of the approval for particular aircraft operations such as ETOPS or Time 
+Limited Dispatch. 
+It also defines the specifications necessary at the engine level for compliance with CS-34. 
+[Amdt. No.: E/1] 
+CS-E 1010 Fuel Venting 
+The design of a turbine Engine must comply or, where the imposed specifications are directed at the 
+aircraft, incorporate provisions enabling the aircraft in which it is intended to be installed to comply 
+with the fuel venting specifications of CS 34.1. 
+CS-E 1020 Engine Emissions 
+(See AMC E 1020) 
+It must be demonstrated, by test or analysis or combination thereof, that the Engine type design 
+complies with the emission specifications of CS 34.2 in effect at date of Engine certification. The 
+resulting data must be recorded. 
+[Amdt. No.: E/1] 
+AMC E 1020 Engine emissions 
+(1) 
+The following format should be used for the note referred to in CS-E 1000. 
+Note x:  
+Engine emissions  
+Engine (type/model) complies with CS-34 amendment (number).  

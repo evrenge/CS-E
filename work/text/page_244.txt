@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 244 of 262 
+ 
+AMC E 910 Relighting In Flight 
+(1)  
+AMC 25.903(e)(2) contains guidance that can be used to establish the objectives of the 
+demonstration of compliance of the Engine with CS-E 910. Active coordination between the 
+Engine type-certificate applicant and the aircraft type-certificate applicant is recommended.  
+(2)  
+Either Engine altitude testing or Engine flight testing are considered to be acceptable means of 
+demonstrating compliance. However, other appropriate tests or evidence can be proposed by 
+the applicant.  
+(3)  
+The following specific threats should be considered in the demonstration of compliance:  
+(a)  
+Rapid relight after an in-flight Engine shutdown  
+ If a functioning Engine is shut down for any reason and the pilot quickly initiates a restart 
+command (after an initial delay of at least 5 seconds to simulate the pilot response time 
+during an actual in-flight event), the Engine design, and in particular the Engine Control 
+System, should not introduce any unnecessary delay in the Engine returning to the 
+previous power or thrust setting.  
+(b) 
+Rotor-lock  
+ The potential for rotor-lock and its impact on the capability of the Engine to relight in 
+flight should be determined. Any assessment should be based upon conservative 
+assumptions that include but are not limited to clearances (taking into account 
+tolerances), the initial conditions, flight effects, thermal effects and the dwell time. All 
+the Engine rotors should be considered.  
+ If a demonstration through flight test is proposed, it should represent a set of 
+conservative operating assumptions for the Engine in terms of rotor-lock, or it should be 
+supplemented by an analysis that satisfactorily addresses the conservative operating 
+assumptions. 
+[Amdt No: E/5] 
+CS-E 920 Over-temperature Test 
+(See AMC E 920) 
+(a) Each Engine must run for 5 minutes at maximum permissible rotational speed (rpm) with the 
+turbine entry gas temperature at least 42 °C (75 °F) higher than the maximum rating's steady-state 
+operating limit, excluding maximum values of rpm and gas temperature associated with the 30-second 
+OEI and 2-minute OEI ratings. Following this run, the turbine assembly must be within serviceable 
+limits. 
+(b) In addition to the test requirements in paragraph (a), for Engines with 30-Second and 2-Minute OEI 
+Power ratings, the Engine must be run for a period of 4 minutes at the maximum power-on rotor 
+speed with the turbine entry gas temperature at least 19°C (35 °F) higher than the 30-Second OEI 
+Power rating operating temperature limit. Following this test, the turbine assembly may exhibit 
+distress beyond the limits for an over-temperature condition provided the Engine is shown by analysis 
+or test or both to maintain the integrity of the turbine assembly. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 

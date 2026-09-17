@@ -1,0 +1,69 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 217 of 262 
+ 
+(ii)  
+A sustained reduction in power or thrust to less than flight idle power or thrust 
+during the run-on segment specified under paragraph (e)(3) below.  
+(iii)  
+An Engine shutdown during the required run-on demonstration specified in 
+paragraph (e)(3) below.  
+(iv)  
+The conditions specified in paragraph CS-E 800(b)(2).  
+(3) 
+The following test schedule shall be used:  
+(i) 
+Ingestion followed by 1 minute without any power lever movement.  
+(ii)  
+Followed by power lever movement to increase the power or thrust to not less 
+than 50 % of the maximum rated Take-off Power or Thrust, if the initial bird 
+ingestion resulted in a reduction in power or thrust below that level.  
+(iii)  
+Followed by 13 minutes at not less than 50 % of the maximum rated Take-off Power 
+or Thrust.  
+(iv) 
+Followed by 2 minutes at between 30 and 35 % of the maximum rated Take-off 
+Power or Thrust.  
+(v) 
+Followed by 1 minute with the power or thrust increased by between 5 and 10 % 
+of the maximum rated Take-off Power or Thrust from that set in subparagraph 
+(e)(3)(iv) of this paragraph.  
+(vi) 
+Followed by 2 minutes with the power or thrust reduced by between 5 and 10 % 
+of maximum rated Take-off Power or Thrust from that set in subparagraph (e)(3)(v) 
+of this paragraph.  
+(vii) 
+Followed by a minimum of 1 minute at ground idle, then an Engine shutdown. The 
+durations specified are the times at the defined conditions.  
+ 
+The power lever movement between each condition shall be 10 seconds or less in 
+duration, except power lever movements that are allowed within subparagraph 
+(e)(3)(iii), that are not limited, and those for setting power under subparagraph 
+(e)(3)(iv), which shall be 30 seconds or less in duration.  
+(4)  
+If it is shown by test or analysis that no bird material will be ingested into the Engine core 
+under the conditions of subparagraph (e)(1), then the core Engine ingestion test shall be 
+performed with one bird, using the heaviest bird specified in the second column of Table 
+A, and ingested at a bird speed of 200 knots. Prior to the ingestion, the Engine must be 
+stabilised at the mechanical rotor speed of the first exposed stage or stages that is 
+consistent with a minimum approach idle setting, on a standard day, at 3 000 ft above 
+ground level. The bird must be targeted on the first exposed rotating stage or stages at 
+the blade aerofoil height measured at the leading edge that would maximise the bird 
+material being ingested into the Engine core.  
+(5)  
+Ingestion into the Engine core of a bird under the conditions prescribed in (e)(4) must not 
+cause any of the following:  
+(i) 
+ an Engine shutdown during the required run-on demonstration specified in 
+paragraph (e)(6) below;  
+(ii)  
+the conditions specified in paragraph CS-E 800(b)(2).  
+(6)  
+The following test schedule must be used:  
+(i)  
+Ingestion followed by 1 minute without any power lever movement.  

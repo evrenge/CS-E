@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 154 of 262 
+ 
+determination will include the operating limits levels (for the appropriate test sections) 
+that are intended to be claimed at the conclusion of the test. Therefore, the severity 
+representing the intent of the classic endurance test is the damage that would be accrued 
+at these assumed conditions, which may not in reality be concurrently achievable for 
+those durations, and this is referred to as the ‘reference severity’ and can be normalised 
+to 1 for comparison with the severity of a physical alternate endurance test.  
+(c) 
+Comparative Severity  
+With both a reference severity representing the intent of CS-E 740(c)(1) (with a type-
+design Engine) and a method for performing an alternate test in place, the next aspect 
+required is a methodology for determining the severity of the alternate test proposal. The 
+proposed methodology is dependent on the limiting component, the failure mechanism 
+for that component, the operating duration at the CPA conditions, and the Engine 
+systems that affect and are affected by the failure mechanism.  
+To create a comparison metric, the damage on the critical components can be 
+characterised per hour of operation for all potential thrust-/power-setting conditions and 
+then used to calculate the actual damage accrued for the proposed cyclic conditions and 
+time durations in the alternate endurance test. This will provide the ability to accumulate 
+damage consumed for cycles of varying number, duration and thrust/power setting. 
+Examples of damage include creep, SPLCF and TMF.  
+Methods such as spreadsheet tools may be developed to facilitate implementation of the 
+severity comparison during the applicant’s test-planning phase. This will aid in defining 
+the aspects of the alternate test that best suit the particular design and intended 
+operation of the Engine, while ensuring that the test is adequately severe. The proposed 
+test consists of a mix of cycles run at various thrust /power settings for varying durations 
+as derived from the CPA to accumulate the expected damage for each test segment.  
+(d) 
+When severity equivalence is not achieved by testing 
+Unexpected factors occurring during testing may lead to a situation where the intended 
+severity equivalence is not achieved. As indicated in CS-E 740(c)(4)(iv)(3), the implication 
+of this is that the demonstrated EGT will be reduced to the level at which the revised 
+reference severity, based on a reduced EGT, meets the achieved severity. This exercise 
+therefore involves a back-calculation, via the reference severity process, of the critical 
+component temperatures that have been demonstrated for this test level of severity, and 
+thus also the demonstrated EGT. 
+The severity deficit may also be compensated by additional testing in compliance with 
+CS-E 740(c)(4)(vi). 
+When a damage mechanism is identified in the CPA (other than creep) that cannot be 
+substantiated by the endurance test without unreasonable modifications to test 
+schedules, further substantiation may be provided under CS-E 170. 
+(6) 
+Number of cycles to reach equivalent severity 
+It is expected that a cyclic accumulation of approximately 500–750 cycles is needed for the 
+equivalent severity demonstration in order to also expose any potential incipient LCF-, SPLCF- 
+and TMF-type damage to aerofoil components. A cycle is defined as a rapid acceleration 
+(throttle move in one second or shorter) from ground idle to at least maximum rated thrust and 
+a rapid deceleration back to ground idle. 
+(7) 
+Alternate endurance test examples 

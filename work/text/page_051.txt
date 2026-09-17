@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 51 of 262 
+ 
+(c) 
+Certain parts (including Engine Critical Parts, see CS-E 515) as may be required by the Agency 
+must be marked and the constructor must maintain records related to this marking such that it 
+is possible to establish the relevant manufacturing history of the parts.  
+(d) 
+Turbine Engine parts, the incorrect assembly of which could result in Hazardous Engine Effects, 
+must be designed so as to minimise the risk of incorrect assembly or, where this is not practical, 
+permanently marked so as to indicate their correct position when assembled. 
+(e) 
+As part of the system safety assessment of CS-E 50(d), the possibility and subsequent effect of 
+incorrect fitment of instruments, sensors or connectors must be assessed. Where necessary, 
+design precautions must be taken to prevent incorrect configuration of the system.  
+CS-E 120  Identification 
+(a) 
+The Engine identification must comply with points 21.A.801(a) and (b), and point 21.A.805 of 
+Part 21. 
+(b) 
+Major Engine modules that can be changed independently in service must be suitably identified 
+so as to ensure traceability of parts and to enable proper control over the interchangeability of 
+such modules with different Engine variants. 
+[Amdt No: E/7] 
+CS-E 130  Fire Protection 
+(See AMC E 130) 
+(a) 
+The design and construction of the Engine and the materials used must minimise the probability 
+of the occurrence and spread of fire during normal operation and Failure conditions and must 
+minimise the effects of such a fire. In addition, the design and construction of Engines must 
+minimise the probability of the occurrence of an internal fire that could result in structural 
+Failure or Hazardous Engine Effects. 
+(b) 
+Except as required by CS-E 130(c), each external line, fitting and other component which 
+contains or conveys flammable fluid during normal Engine operation must be at least Fire 
+Resistant. Components must be shielded or located to safeguard against the ignition of leaking 
+flammable fluid.  
+(c) 
+Tanks which contain flammable fluid and any associated shut-off means and supports, which 
+are part of and attached to the Engine, must be Fireproof either by construction or by 
+protection, unless damage by fire will not cause leakage or spillage of a hazardous quantity of 
+flammable fluid. For a Piston Engine having an integral oil sump of less than 23.7 litres capacity, 
+the oil sump need not be Fireproof nor be enclosed by a Fireproof shield but still must comply 
+with CS-E 130(b). 
+(d) 
+An Engine component designed, constructed and installed to act as a firewall must be - 
+(1) 
+Fireproof; and, 
+(2) 
+Constructed so that no hazardous quantity of air, fluid or flame can pass around or 
+through the firewall; and, 
+(3) 
+Protected against corrosion. 
+(e) 
+In addition to specifications of CS-E 130(a) and (b), Engine control system components which 
+are located in a designated fire zone must be at least Fire Resistant  

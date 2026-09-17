@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 192 of 262 
+ 
+Engine operation until the next scheduled ‘A’ check). Furthermore, 
+any damage resulting from this test should be documented in the 
+manuals containing instructions for installing and operating the 
+Engine. 
+(ii) 
+Engine Operability/Handling Characteristics. Ice slab ingestion should not 
+cause surge, flameout, or prevent transient operation. 
+(iii) 
+In-Service Capability. Engine damage resulting from ice slab ingestion should 
+not result in a failure or a performance loss that would prevent continued 
+safe operation for a conservative flight operations scenario (for example, 
+within the time period for an “A” check or greater, if appropriate testing 
+validates a continued period of in-service capability). The period of in-service 
+capability to be demonstrated may vary with installation if the damage is not 
+readily evident to the crew or visible on pre-flight inspection (for example, 
+tail-mounted Engines). 
+(iv) 
+Other Anomalies. Ice slab ingestion should not result in any other anomaly 
+(for example, vibration) that may cause the Engine to exceed operating or 
+structural limitations. 
+(v) 
+Auto-Recovery Systems. If during ice slab ingestion testing, an Engine incurs 
+a momentary flameout and auto-relight, then the acceptance of that test is 
+predicated on including the auto-relight system as a required part of the 
+Engine type design. However, additional dispatch criteria would also be 
+required where the ignition system is fully operable before each dispatch. 
+The reason for the additional dispatch criteria is to ensure that the ignition 
+system’s critical relight function is reliably available during the subsequent 
+flight. The use of an auto-recovery system is allowed during ice slab ingestion 
+certification testing, in order to account for ice accretion and shedding as a 
+result of an inadvertent delay in actuating the ice protection system. This is 
+considered as an abnormal operational result where operability effects, like 
+momentary flameout and relight, may be accepted. 
+(e) 
+Communication to the Installer. The manuals containing instructions for installing 
+and operating the Engine should provide information on the Engine ingestion 
+capability such as size, thickness and density of the ice slab ingested. 
+(5) 
+Engine Air Data Probe Icing 
+In accordance with paragraph (1.3) of this AMC, the accretion and shedding of ice from the 
+Engine air data probe(s) should be evaluated either as part of the Engine test, or by separate 
+assessment and/or testing.  
+In addition, if data from an Engine air data probe is critical to ensure acceptable Engine 
+operation, then the applicant should demonstrate that the Engine air data probe will operate 
+normally without any malfunction under icing conditions. The icing conditions against which the 
+Engine is tested may not cover the icing conditions that are critical for the Engine air data probe, 
+in particular if high airflow conditions like Maximum Continuous Thrust/Power were not 
+selected for the Engine tests in paragraph (2.2) above. The applicant should determine those 
+critical probe icing conditions. In that respect, the guidance material of AMC 25.1324 of CS-25 
+should be used along with appropriate consideration of the installation effects and dependence 
+on Engine airflow. In doing that, the substantiation may be limited to the icing environment 
+applicable to the aircraft on which the Engine is to be installed. 

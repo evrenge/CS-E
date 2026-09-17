@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 78 of 262 
+ 
+Part 3  
+A 15-hour run in the lower gear ratio consisting of alternate periods of one hour 
+at Maximum Continuous Power and speed and ½ hour at 70% Maximum 
+Continuous Power and 89% Maximum Continuous speed.  
+Part 4  
+A 30-hour run in the higher gear ratio at Maximum Continuous Power and 
+speed.  
+Part 5  
+A 5-hour run consisting of alternate periods of 5 minutes in each of the 
+supercharger gear ratios. The first 5 minutes of each 10-minute period must be 
+made in the higher gear ratio at Maximum Continuous speed and the power 
+obtainable with 90% of Maximum Continuous power setting in the higher gear 
+ratio under sea-level conditions. The condition for operation for the following 
+5-minute period in the lower gear ratio must be that obtained by shifting to the 
+lower gear ratio at constant speed.  
+Part 6  
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour 
+at Maximum Continuous Power and speed and one hour at 65% Maximum 
+Continuous Power and 87% Maximum Continuous speed.  
+Part 7  
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour 
+at Maximum Continuous Power and speed and one hour at 60% Maximum 
+Continuous Power and 84.5% Maximum Continuous speed.  
+Part 8  
+A 10-hour run in the lower gear ratio consisting of alternate periods of one hour 
+at Maximum Continuous Power and speed and one hour at 50% Maximum 
+Continuous Power and 79.5% Maximum Continuous speed.  
+Part 9 
+A 20-hour run in the lower gear ratio consisting of alternate 2-hour periods at 
+Maximum Continuous Power and speed and Maximum Best Economy Cruising 
+Power and speed or at Maximum Recommended Cruising Power and speed.  
+Part 10 A 5-hour run in the lower gear ratio at Maximum Best Economy Cruising Power 
+and speed or Maximum Recommended Cruising Power and speed.  
+(3) 
+Schedule for Engine Incorporating a Turbocharger. (See AMC E 440(b)(3)). For Engines 
+incorporating a turbocharger, the Schedule of CS-E 440(b)(1) will apply, except that – 
+(i) 
+Entire run specified in Part 1 must be made at sea-level pressure, 
+(ii) 
+The portions of the runs specified in Parts 2 to 7 at Maximum Continuous Power 
+must be made at Critical Altitude pressure and the portions of the runs at other 
+powers must be made at 2 500 m altitude pressure, and 
+(iii) 
+The turbocharger used during the 150-hour endurance test must be run on the 
+bench for an additional 50 hours at a representative inlet pressure and at the 
+limiting turbine wheel inlet gas temperature and rotational speed for Maximum 
+Continuous Power operation unless the limiting temperature and speed are 
+maintained during 50 hours of the rated Maximum Continuous Power operation. 
+(c) 
+After completion of the test, the Engine must be subject to a strip inspection, and the 
+dimensions measured in accordance with CS-E 440(a)(6) must be re-measured and recorded. 
+The condition of the Engine must be satisfactory for safe continued operation. Separately 
+functioning Engine components and equipment must be functionally checked prior to strip to 
+ensure that any changes in function or settings are satisfactory for normal operation.  
+[Amdt. No.: E/1] 

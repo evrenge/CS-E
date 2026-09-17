@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 87 of 262 
+ 
+CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by 
+abnormal Engine operation sufficient to incapacitate the crew or passengers during 
+the flight. Possible scenarios include:  
+Rapid flow of toxic products impossible to stop prior to incapacitation  
+No effective means to prevent flow of toxic products to crew or passenger 
+compartments.  
+Toxic products impossible to detect prior to incapacitation.  
+The toxic products could result, for example, from the degradation of abradable 
+materials in the compressor when rubbed by rotating blades or the degradation of 
+oil leaking into the compressor air flow.  
+No assumptions of cabin air dilution or mixing should be made in this Engine-level 
+analysis; these can only be properly evaluated during aircraft certification. The 
+intent of CS-E 510(g)(2)(ii) is to address the relative concentration of toxic products 
+in the Engine bleed air delivery. The Hazardous Engine Effect of toxic products 
+relates to significant concentrations of toxic products, with “significant” defined as 
+concentrations sufficient to incapacitate persons exposed to those concentrations.  
+Since these concentrations are of interest to the installer, information on delivery 
+rates and concentrations of toxic products in the Engine bleed air for the cabin 
+should be provided to the installer as part of the Engine instructions for installation.  
+(v) 
+Significant thrust in the opposite direction to that commanded by the pilot, 
+Engine Failures resulting in significant thrust in the opposite direction to that 
+commanded by the pilot can, depending on the flight phase, result in a hazardous 
+condition relating to aircraft controllability. Those Failures, if applicable to CS-E 
+certification, that could be classified as hazardous events include:  
+— Uncommanded thrust reverser deployment;  
+— Unintended movement of the Propeller blades below the established 
+minimum in-flight low-pitch position;  
+— High forward thrust when reverse thrust is commanded.  
+(vi) 
+Uncontrolled fire. 
+An uncontrolled fire should be interpreted in this context as an extensive or 
+persistent nacelle fire which is not effectively confined to a designated fire zone or 
+which cannot be extinguished by using the aircraft means identified in the 
+assumptions. Provision for flammable fluid drainage, fire containment, fire 
+detection, and fire extinguishing may be taken into account when assessing the 
+severity of the effects of a fire.  
+(vii) 
+Complete inability to shut the Engine down. 
+Complete inability to shut down the Engine is regarded as a Hazardous Engine 
+Effect due the potential circumstances where continued running of the Engine, 
+even at low thrust or power, represents a hazard. These circumstances include the 
+inhibition of safe evacuation of passengers and crew, directional control problems 
+during landing due to the inability to eliminate thrust or power, or the inability to 
+ensure safe shut down when required following a Failure.  

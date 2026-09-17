@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 20 of 262 
+ 
+AMC E 20(f) Power Assurance Data for Engines with One or More 
+OEI Power Ratings 
+ 
+(1) 
+For Engines having one or more OEI ratings, the applicant should provide in the instructions for 
+installation the necessary Engine data to support the installer in meeting the power availability 
+specifications of CS-27.45(f) or CS-29.45(f). 
+These data should include the effects of those installation losses that can be defined at the 
+Engine level. Such installation losses should include customer bleed, customer power 
+extraction, and others as appropriate, up to and including the highest power rating. 
+(2) 
+The safety analysis of CS-E 510 should consider dormant Failures which could lead to non-
+availability of the OEI ratings and the results of this review should be part of the data required 
+under CS-E 20(f).  
+(3) 
+The objective of the power availability procedures is to allow the installer to ensure that the 
+Engine is capable of obtaining and sustaining the OEI ratings within the associated ratings 
+operating limitations. The required Engine data are intended to be used for establishing a 
+procedure for trending of individual Engine performance by the operator. These data should 
+support maintenance procedures, intervals and standards applicable to the Engine, including 
+sensors and indicating systems, to detect those latent or dormant conditions which are not 
+detectable through the normal aircraft power assurance procedures (e.g., fuel control 
+maximum flow capability, turbine section distress), or because the power assurance procedure 
+will not include a topping check to the highest OEI rating power level. 
+The adequacy of these procedures, intervals and standards should be validated on the basis of 
+the Engine and Engine systems Failure modes and effects analysis (FMEA) required under CS-E 
+510. The Engine database should include a thermodynamic model, the experience gained during 
+development and certification testing, and the field experience gained with this Engine type or 
+with engines of similar design, when applicable. 
+(4) 
+In order to satisfy the power availability specifications of CS-27/29.45(f) the data required under 
+CS-E 20(f) should enable the installer to establish power assurance procedures in which the 
+extrapolation of power assurance results can be achieved, from a lower power check level, up 
+to the highest OEI rating power. The performance extrapolation may be accomplished by 
+comparing the performance characteristics with the minimum acceptable Engine performance 
+in a deteriorated state. The establishment of the minimum acceptable Engine performance 
+characteristic depends on the existence of a reliable database. In a mature Engine programme, 
+it is possible to use the new production Engine acceptance test data, Engine-to-Engine variation 
+and also testing on engines prior to overhaul to determine the effects of deterioration. Thus, an 
+up-to-date minimum Engine performance characteristic can be maintained. 
+For a completely new Engine design, or a remote derivative of an existing design, it may be 
+somewhat difficult to establish the initial database. The experience from Engine development 
+and certification tests should be used. This experience usually includes several thousand hours 
+of running time to schedules which are expected to be more rigorous than normal commercial 
+service. The information gathered from these tests could provide a sufficient database for the 
+assessment of in-service engines, including the rate of deterioration. The testing of engines in 
+production will eventually establish Engine-to-Engine variation, but an estimated worst 
+variation should be assumed initially, based on the experience of engines of the same or similar 
+design.  

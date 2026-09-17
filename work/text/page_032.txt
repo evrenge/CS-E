@@ -1,0 +1,66 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 32 of 262 
+ 
+(c) 
+Types of Propellers approved. (If applicable) 
+(d) 
+Equipment approved for use on the Engine. 
+(2) 
+Piston Engines 
+(i) 
+Maximum Engine rotational speed and power setting for Take-off conditions. 
+(ii) 
+Maximum Engine rotational speed and power setting for Maximum Continuous 
+conditions. 
+(iii) 
+Maximum Engine Over-speed 
+(iv) 
+Fuel, oil, and Engine coolant specifications, including additives. 
+(v) 
+Maximum oil inlet temperature(s) (appropriate to each operating condition). 
+(vi) 
+Minimum oil inlet temperature for starting. 
+(vii) 
+Minimum oil inlet temperature for acceleration from idle. 
+(viii) Normal operating oil inlet pressure at Maximum Continuous conditions. 
+(ix) 
+Minimum oil inlet pressure for completion of flight at Maximum Continuous conditions. 
+(x) 
+Maximum cylinder temperature (if applicable) 
+(xi) 
+Minimum cylinder temperature for acceleration from idle. (If applicable.) 
+(xii) 
+Maximum Engine coolant temperature. (If applicable.) 
+(xiii) Minimum Engine coolant temperature for acceleration from idle. (If applicable.) 
+(xiv) Maximum intake air temperature. (If applicable) 
+(xv) 
+Maximum Over-speed and associated time limit. 
+(xvi) Normal operating fuel inlet pressure. 
+(xvii) Minimum fuel inlet temperature for starting 
+(xviii) Maximum fuel inlet temperature 
+(3) 
+Turbine Engines 
+(a) 
+RPM, indicated turbine gas temperature and time for: 
+— Take-off conditions.  
+— Maximum Continuous conditions.  
+— Maximum Contingency conditions. (If applicable.) 
+— Intermediate Contingency conditions. (If applicable.) 
+— 30-minute Contingency conditions. (If applicable.)  
+(b) 
+Oil brand(s) and type(s). 
+(c) 
+Fuel specification(s). 
+(d) 
+Hydraulic fluid specification(s). (If applicable.) 
+(e) 
+Inlet air distortion at the Engine inlet. 
+(f) 
+Maximum and minimum fuel pressure. 
+(g) 
+Maximum and minimum fuel temperature. 

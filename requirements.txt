@@ -5,3 +5,9 @@ pypdf>=6.0
 # Page -> PNG rendering, for accuracy rule 6 (figures and tables are read as
 # images, not as extracted text). No poppler or system package required.
 pypdfium2>=4.30
+
+# Page-by-page text and layout extraction (Phase 1).
+pymupdf>=1.26
+
+# Required by pypdfium2 .to_pil()
+pillow>=10.0

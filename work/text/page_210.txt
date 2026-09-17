@@ -1,0 +1,46 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 210 of 262 
+ 
+Appendix A  Certification Standard Atmospheric Concentrations of 
+Rain and Hail 
+Figure A1, Table A1, Table A2, Table A3 and Table A4 in this Appendix A specify the atmospheric 
+concentrations and size distributions of rain and hail for establishing certification, in accordance with 
+the specifications of CS-E 790(a)(2). In conducting tests, normally by spraying liquid water to simulate 
+rain conditions and by delivering hailstones fabricated from ice to simulate hail conditions, the use of 
+water droplets and hailstones having shapes, sizes and distributions of sizes other than those defined 
+in this Appendix A, or the use of a single size or shape for each water droplet or hailstone, can be 
+accepted, provided the substitution does not reduce the severity of the test. [Source of data in Tables 
+A1 to A4: Results of the Aerospace Industries Association Propulsion Committee Study, Project PC 338–
+1, June 1990]. 
+Note: The unit for altitude has been kept as “feet” to be consistent with the source of data. This is 
+compatible with Annex 5 of ICAO. 
+ 
+FIGURE A1 - Illustration of Rain and Hail Threats. Certification concentrations are obtained using Tables A1 and A2. 
+ 
+ 
+TABLE A1 – CERTIFICATION STANDARD ATMOSPHERIC RAIN CONCENTRATIONS 
+Altitude (feet) 
+Rain Water Content (RWC) (grams water/cubic metre air) 
+0 
+20.0 
+20 000 
+20.0 
+26 300 
+15.2 
+32 700 
+10.8 
+39 300 
+7.7 
+46 000 
+5.3 
+RWC values at other altitudes may be determined by linear interpolation. 
+ 
+TABLE A2 – CERTIFICATION STANDARD ATMOSPHERIC HAIL CONCENTRATIONS 
+Altitude (feet) 
+Hail Water Content (HWC) (grams water/cubic metre air) 

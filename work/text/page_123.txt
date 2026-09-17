@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 123 of 262 
+ 
+these locations are not suitable or accessible for that purpose, stresses may be measured 
+nearby provided that the relationships between the stresses at these locations and those 
+at critical locations are known and predictable. To identify the accessible locations that 
+best represent the critical stresses, knowledge of each natural mode and associated 
+stress distributions is required, which may be gained from a combination of experience, 
+analyses, or testing. This investigation is usually conducted before the certification test. 
+Time-of-arrival sensors, such as optical sensors or light probes, may prove convenient 
+alternatives to strain gauges provided they are properly calibrated and their capabilities 
+are clearly understood. The most common application for time-of-arrival sensors is to 
+estimate blade tip displacements, which may then be converted to stresses at specific 
+blade locations. Converting measured displacements or gauge strains to vibratory 
+stresses requires a detailed knowledge of the blade normal mode frequencies, mode 
+shapes, modal stress/strain distributions and associated tip displacements. This 
+conversion should be shown to be sufficiently accurate or at least conservative. Time-of-
+arrival data for vibratory modes where measured displacements have low sensitivity in 
+relation to stresses in critical areas should not be used in order to avoid excessive 
+uncertainty in endurance limit calculations. 
+(d) 
+Instrumentation survivability 
+Where the Engine operates at such high rotor speeds and gas path temperatures that 
+test instrumentation can only survive the environment for short periods of time, 
+validated analysis would be expected to complete the substantiation. The loss of 
+instrumentation should be minimal and the associated analysis should be primarily based 
+on the surviving instrumentation data. 
+(e) 
+Engine modifications 
+During testing, the Engine may be modified or adjusted in an effort to achieve the desired 
+physical and corrected speeds, or any other test conditions. Any alterations made to the 
+Engine for these purposes should be evaluated to show that their effects are not 
+detrimental or do not compromise the intent of the test and the test results. 
+(5) 
+Altitude, Temperature and Environmental Effects 
+CS-E 650(a) requires that conditions throughout the declared flight envelope are evaluated 
+when establishing that the dynamic behaviour of components and systems is acceptable. These 
+conditions should include icing (CS-E 780) and rain and hail (CS-E 790) under which sustained 
+Engine operation is expected to occur and which may lead to high rotor imbalance, severe rotor-
+case interaction, higher vibratory amplitudes, or flutter. When showing compliance with CS-E 
+650, the applicant may take into account the tests performed to show compliance with CS-E 
+780 and CS-E 790 to characterise the Engine vibration behaviour. 
+Changes in operating conditions associated with ambient temperature, altitude and 
+environmental variations affect Engine performance, airflow characteristics and rotor 
+imbalance. This can have a significant effect on aerodynamic and mechanical forcing and 
+damping, which, in turn, affects the vibratory response and behaviour of certain components. 
+Appropriate justification should be provided by the applicant that the worst operating 
+conditions in the declared flight envelope have been fully explored. 
+Engine tests may be conducted by means of flight test or in altitude facilities or in other facilities 
+such that the effects of altitude and temperature are properly represented and can be 
+evaluated. Suitable test equipment and instrumentation should be used for each situation. The 
+dependency of certain vibratory phenomena on temperature and altitude can be characterised 

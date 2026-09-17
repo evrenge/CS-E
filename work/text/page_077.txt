@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 77 of 262 
+ 
+crankshaft rotational speed appropriate to the conditions of the tests, whichever 
+limitation is reached first. 
+(6) 
+The Engine must be subjected to an agreed extent of pre-assembly inspection, and a 
+record must be made of the dimensions liable to change by reason of wear, distortion 
+and creep. A record must also be made of the calibrations and settings of separately 
+functioning Engine components and equipment (e.g. the control system, pumps, 
+actuators, valves). 
+(b) 
+Schedules 
+(1) 
+Schedule for Unsupercharged Engines and Engines Incorporating Gear-driven, Single-
+speed Superchargers 
+Part 1 
+A 30-hour run consisting of alternate 5 minute periods at Take-off Power and 
+speed and Maximum Best Economy Cruising Power or Maximum 
+Recommended Cruising Power conditions.  
+Part 2 
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum 
+Continuous Power and speed and ½ hour at 75% Maximum Continuous Power 
+and 91% Maximum Continuous speed.  
+Part 3 
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum 
+Continuous Power and speed and ½ hour at 70% Maximum Continuous Power 
+and 89% Maximum Continuous speed.  
+Part 4 
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum 
+Continuous Power and speed and ½ hour at 65% Maximum Continuous Power 
+and 87% Maximum Continuous speed.  
+Part 5 
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum 
+Continuous Power and speed and ½ hour at 60% Maximum Continuous Power 
+and 84.5% Maximum Continuous speed.  
+Part 6 
+A 20-hour run consisting of alternate periods of 1½ hours at Maximum 
+Continuous Power and speed and ½ hour at 50% Maximum Continuous Power 
+and 79.5% Maximum Continuous speed.  
+Part 7 
+A 20-hour run consisting of alternate 2½ hour periods at Maximum Continuous 
+Power and speed and Maximum Best Economy Cruising Power or Maximum 
+Recommended Cruising Power conditions.  
+(2) 
+Schedule for Engine Incorporating a Gear-driven Two-speed Supercharger. 
+Part 1 
+A 30-hour run in the lower gear ratio consisting of alternate 5 minute periods 
+at Take-off Power and speed and Maximum Best Economy Cruising Power or 
+Maximum Recommended Cruising Power Conditions.  
+If a Take-off Power rating is desired in the higher gear ratio, 15 hours of the 30-
+hour run must be made in the higher gear ratio in alternate periods of 5 minutes 
+at the power obtainable with the Take-off Critical Altitude power setting and 
+Take-off speed and 5 minutes at 70% high ratio Maximum Continuous Power 
+and 89% high ratio Maximum Continuous speed.  
+Part 2  
+A 15-hour run in the lower gear ratio consisting of alternate periods of one hour 
+at Maximum Continuous Power and speed and ½ hour at 75% Maximum 
+Continuous Power and 91% Maximum Continuous speed.  

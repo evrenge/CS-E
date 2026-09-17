@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 99 of 262 
+ 
+Note: An individual Failure is considered to be a Failure occurring anywhere in the 
+engine as a result of a damage mechanism intended to be addressed by the 
+damage tolerance assessment and it is not related to the Failure of an individual 
+component. Therefore, the individual Failure probability objective at the 
+component level is a portion of the probability objective defined in CS-E 510 (a)(3) 
+for an individual Failure occurring anywhere in the Engine as a result of a given 
+cause. 
+The applicant should demonstrate that adequate processes are in place in order to 
+validate the assumptions utilised in the analysis. These assumptions should be 
+validated throughout the life of the certified product. 
+Any departure from the original assumptions will require the applicant to repeat 
+the risk assessment, and communicate the results to the Agency. 
+If the revised risk assessment shows that the safety objectives of CS-E 510(a)(3) can 
+no longer be met, then corrective action must be implemented in accordance with 
+point 21.A.3 of Part 21. 
+The Agency recognises that industry standards on suitable anomaly size and 
+frequency distributions, and analysis techniques used in the Damage Tolerance 
+Assessment process are not available in every case. In such cases, compliance 
+should be based on such considerations as the design margins applied, application 
+of damage tolerance design concepts, historical experience, crack-growth rate 
+comparisons to successful experience, fatigue testing of simulated damage, etc.  
+b. Deterministic approach applied to surface damage tolerance. 
+If the required input data (anomaly size and frequency distributions, etc.) is not 
+available to fully implement the probabilistic approach for manufacturing- and 
+service-induced anomaly types, the applicant may use the following deterministic 
+approach, which ensures a minimum level of damage tolerance. 
+An analysis should be provided that demonstrates that the surface fracture 
+mechanics life for all Critical Parts exceeds 3 000 representative flight cycles, or 50 
+% of the Approved Life of the part, whichever is less. 
+This analysis should take account of the following assumptions: 
+— 
+Analyses performed using Linear Elastic Fracture Mechanics; 
+— 
+Initial anomaly size is one of the following: 
+• 
+0.762 mm × 0.381 mm (0.030 inches × 0.015 inches) for an assumed 
+(semi-circular) surface anomaly; 
+• 
+0.381 mm × 0.381 mm (0.015 inches × 0.015 inches) for an assumed 
+(quarter-circular) corner anomaly; 
+— 
+Any additional assumptions used in this analysis (i.e. material properties, 
+reference engine cycle, operating environment and its effect on the stress 
+cycle, use of compressive residual stresses, use of inelastic stresses, etc.); 
+— 
+Anomalies should be treated as sharp propagating cracks from the first 
+stress cycle, placed in the most unfavourable orientation and location. 
+5. 
+Establishment of a Service Damage Monitoring Process. 

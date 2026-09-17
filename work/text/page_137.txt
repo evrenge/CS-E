@@ -1,0 +1,52 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 137 of 262 
+ 
+(c) 
+The system must be operated during a suitable Engine endurance test for periods 
+representative of the duration and frequency of operation of the system during likely service 
+usage, and should be agreed by the Agency for individual cases. Generally, the schedule must 
+include the use of continuous ignition for the maximum duration which is likely to be achieved 
+in 1000 hours of service operation. 
+(d) 
+It is acceptable to conduct an equivalent programme by appropriate rig testing, where this is 
+possible, but in this case final confirmation of suitability of the equipment in the Engine must 
+be obtained by running at least 10 hours (in periods of at least ½ hour duration) of an Engine 
+endurance test with the ignition in operation at the appropriate Engine conditions. 
+[Amdt. No.: E/1] 
+AMC E 720(a) Continuous Ignition 
+The necessity for a continuously-operated system may arise, for example, in consideration of water 
+or slush ingestion at take-off, ice ingestion, or for compliance with the icing specifications. 
+[Amdt. No.: E/1] 
+CS-E 730 Engine Calibration Test 
+(See AMC E 730) 
+In order to identify the Engine thrust or power changes that may occur during the endurance test of 
+CS-E 740, and to ensure that performance targets are met at the end of the endurance test (as per CS-
+E 740(h)), thrust or power calibration curves of the test Engine must be established either by specific 
+tests accomplished immediately before and after the endurance test or by measurements obtained 
+during the first and final stages of the endurance, up to the highest rated powers except for 30-Second 
+and 2-Minute OEI Power ratings. 
+[Amdt. No.: E/1] 
+[Amdt No: E/8] 
+ 
+AMC E 730 Calibration Tests 
+(1) 
+The parameters used for the calibration curves are those appropriate to, and compatible with, 
+the Engine’s design. Thrust, Power, Torque, Rotational Speed, EPR (Engine Pressure Ratio), EGT 
+(Exhaust Gas Temperature), are typical parameters of known Engine designs. 
+(2) 
+The Calibration Test should be run to cover the maximum possible rotational speed range, but 
+at least to cover the range from minimum idle to the normal maximum compatible with the 
+ambient external atmospheric condition of the test day. 
+(3) 
+The pre and post test calibration curves required by CS-E 730 should be established up to the 
+highest rating to be approved for a duration of more than 2 minutes prior to the additional 
+endurance test of CS-E 740(c)(3)(iii). Because the Engine operation at the 30-Second and 2-
+Minute OEI Power ratings could significantly affect Engine hardware conditions, these Engine 
+ratings are therefore not required to comply with the calibration specifications of CS-E 730.  
+[Amdt. No.: E/1] 

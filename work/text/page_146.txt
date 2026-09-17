@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 146 of 262 
+ 
+run of speed and temperature above the steady conditions at Take-off must 
+be noted. 
+(B) 
+Observations of all parameters must be recorded on first establishing steady 
+running conditions and thence, during periods of continuous steady running, 
+at approximately 30-minute intervals. 
+(C) 
+During cyclic or other running, sufficient observations must be made to 
+establish the power/thrust, speed and temperature conditions of the Engine 
+whenever significant readings can be taken. 
+(ii) 
+Turbine Engines for Rotorcraft. 
+Readings of power, rotational speed, nozzle position and EGT must be taken at 
+idling speed and at the maximum speed obtained on acceleration. The over run of 
+speed and temperature above the steady conditions at Take-off Power must be 
+noted. These observations are likely to be affected by the types of instruments 
+used and must therefore be coupled with this information in the endurance test 
+report.  
+(e) 
+Oil Pressure. The whole of the endurance test must be run with the oil pressure set to a value 
+which is within the limits declared for Engine acceptance, except that –  
+(1) 
+Stage 22 of the test schedule specified in CS-E 740(c)(1), (2) and (3), or an equivalent 
+demonstration in the alternate endurance test specified in CS-E 740(c)(4), if applicable, 
+must be run with the pressure set to give that declared as the minimum for completion 
+of the flight, at MCT conditions; and 
+(2) 
+One other stage, or an equivalent demonstration in the alternate endurance test 
+specified in CS-E 740(c)(4), if applicable, must be run with the pressure set to give that 
+declared as the maximum normal, at MCT conditions. During this stage, the oil 
+temperature need not be held at its maximum value. Alternatively, this test may be 
+omitted from the endurance test if appropriate evidence is available from other testing. 
+(f) 
+Operating Limitations. The normal Engine operating limitations of power, rotational speed, EGT, 
+bleed, oil temperature, etc., to be established under CS-E 40(d) and CS-E 40(g), will be based on 
+the mean values obtained during the appropriate periods of the endurance test, including, 
+when applicable, the mean values obtained during the applications of the 30-Second and 2-
+Minute OEI Power conditions in the 2-hour additional endurance test sequence of CS-E 740 
+(c)(3)(iii).  
+ 
+The EGT limitations may be derived from an analysis when the applicant uses the alternate test 
+specified in CS-E 740(c)(4) (see CS-E 740(f)(4)(ii) below). 
+Similarly, the degrees of compressor and turbine bleed that may be approved are the 
+percentages of the mass flow which have been demonstrated during the endurance test, except 
+as provided by CS-E 690(a)(3)(ii). 
+(1) 
+The characteristics of multi-spool Engines may be such that it is not possible to obtain the 
+maximum rotational speed of each spool simultaneously at sea-level test bed conditions, 
+without making the Engine unacceptably non-standard, or running it in a non-
+representative manner. In such circumstances, the endurance test must be run at the 
+turbine entry temperatures for which approval is sought, and evidence from 
+supplementary endurance testing, to a schedule acceptable to the Agency, must be 
+provided to substantiate the approval of any higher rotational speed limitations desired. 
+(See AMC E 740(f)(1)) 

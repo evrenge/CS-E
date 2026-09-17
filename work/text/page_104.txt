@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 104 of 262 
+ 
+ensure that the product of manufacturing is consistent with the design assumptions of 
+the Engineering Plan. The intent is that:  
+— Manufacturing processes are developed and applied with the appropriate level of 
+oversight to ensure the part life capability assumed in the Engineering Plan is 
+consistently achieved. Substantiation programmes are agreed up-front and executed 
+as part of the process validation.  
+— Changes to such manufacturing processes and practices are visible and are not made 
+without crossfunctional review and approval.  
+— When a suspected non-conformance event occurs, it is reviewed with the 
+appropriate skill mix prior to disposition.  
+The level of detail in the Plan may vary depending on the specific process step being 
+considered, the sensitivity of the particular process step, and the level of control required 
+to achieve the required life capability.  
+For instance, consider the case where a process specification exists to control the drilling 
+of holes. If the use of this specification produces a hole that meets the life capability 
+specifications for a flange bolt hole, the plan may simply note that the flange bolt hole 
+will be produced per the specification. However, if a rim air hole requires cold expansion, 
+after drilling per the specification, to meet the life capability specifications, it may be 
+necessary to reference the cold expansion process in the plan.  
+(5) 
+Means for defining a Service Management Plan. 
+(a) 
+Introduction 
+The Service Management Plan forms part of the overall process intended to maintain the 
+integrity of Engine Critical Parts throughout their service life. The Engineering Plan 
+includes assumptions about the way in which the Engine Critical Parts are manufactured, 
+operated and maintained: each can have an impact on the life capability of the part. 
+Therefore, it is essential to ensure that these assumptions remain valid. The Service 
+Management Plan conveys the processes for in-service repair and maintenance to remain 
+consistent with the assumptions made in the Engineering Plan.  
+(b) 
+Determining the acceptability of repair and maintenance processes  
+Repair and maintenance processes should be reviewed by the following key skills:  
+— Engineering (Design & Lifing)  
+— Material Engineering  
+— Non-Destructive Inspection  
+— Quality Assurance  
+— Product Support Engineering  
+— Repair Development Engineering  
+The role of this cross-functional review is consistent with that laid out for the 
+Manufacturing Plan. The review should include process validation, change control and 
+non-conformance to ensure the product of any repair or maintenance is consistent with 
+the engineering specification. The intent is that:  
+— Repair and maintenance processes and practices are developed with the appropriate 
+level of oversight, and with due regard to their possible impact on the life capability 

@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART B — PISTON ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 67 of 262 
+ 
+CS-E 250  Fuel System 
+(a) 
+Each fuel specification to be approved, including any additive, and the associated limitations in 
+flow, temperature and pressure that ensure proper Engine functioning under all intended 
+operating conditions must be declared and substantiated. 
+(b) 
+Any characteristic of fuel conforming to the specification(s) to be approved which is likely to 
+adversely affect Engine functioning or durability, must be identified so that, where necessary, 
+Engine or rig testing using appropriate fuel may be conducted. 
+(c) 
+Filters, strainers or other equivalent means must be provided to protect the fuel system from 
+malfunction due to contaminants. These devices must have the capacity to accommodate any 
+likely quantity of contaminants, including water, in relation to recommended servicing intervals. 
+These means may be provided in the aircraft fuel system; in such case, the characteristics of the 
+means shall be specified in the instructions for installation. 
+(d) 
+It shall not be possible for fuel to drain into the Engine when it is not running, in such quantities 
+as to introduce a risk of ‘hydraulicing’ or in any way adversely affect the mechanical reliability 
+of the Engine. 
+(e) 
+Design precautions must be taken against the possibility of errors and inadvertent or 
+unauthorised changes in setting of all fuel control adjusting means. 
+CS-E 260  Engine Cooling System 
+(a) 
+The design and construction of the Engine cooling system must ensure adequate cooling in all 
+normal operating conditions within the flight envelope. Any reliance upon assumed installed 
+conditions shall be declared in the instructions for installation. 
+(b) 
+For liquid-cooled Engines, it must be shown that the coolant will not boil under any normal 
+operating condition within the flight envelope, under all additive concentrations approved for 
+use. 
+(c) 
+For liquid-cooled Engines, to prevent Engine malfunction due to overheating, appropriate 
+means or provision for means shall be provided to detect loss of coolant. 
+CS-E 270  Lubrication System 
+(a) 
+It shall not be possible for oil to drain into the Engine when it is not running, in such quantities 
+as to introduce a risk of ‘hydraulicing’ or in any way adversely to affect the mechanical reliability 
+of the Engine. 
+(b) 
+The oil flow between the Engine lubrication system and the Propeller control system or other 
+system utilising oil supplied by the Engine, shall not prevent oil pressure being maintained 
+within approved limits at all operating conditions within the flight envelope, allowance being 
+made for deterioration of the Engine. 
+(c) 
+All parts of the oil system that are not inherently capable of accepting contaminants likely to be 
+present in the oil or otherwise introduced into the oil system shall be protected by suitable 
+filter(s) or strainer(s). These shall provide a degree of filtration sufficient to preclude damage to 
+the Engine and Engine equipment and have adequate capacity to accommodate contaminants 
+in relation to the specified servicing intervals. These filters or strainers may be provided as part 
+of the aircraft; in such cases, their characteristics will be specified in the instructions for 
+installation 

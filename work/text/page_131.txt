@@ -1,0 +1,83 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 131 of 262 
+ 
+AMC E 660 Fuel Pump Tests (Turbine Engines for Aeroplanes) 
+When testing equipment susceptible to cavitation erosion (e.g. Engine fuel pumps) the possibility of 
+such erosion being relieved by dissolved air in the test fluid should be considered and, if appropriate, 
+some testing should be carried out with fuel at the most critical temperature and pressure with regard 
+to cavitation erosion and having the minimum amount of air in solution that is likely to occur during 
+normal operating conditions. 
+[Amdt. No.: E/1] 
+CS-E 670 Contaminated Fuel 
+(See AMC E 670) 
+(a) 
+Evidence must be provided that the complete Engine fuel system is capable of functioning 
+satisfactorily with fuel containing the maximum quantity of liquid/solid contamination, likely to 
+be encountered in service, for a period sufficient to ensure that Engine malfunctioning as a 
+result of this cause will not occur. 
+(b) 
+The evidence must provide assurance that – 
+(1) 
+The fuel system is not adversely affected by contamination which can pass through any 
+filtration provided, either immediately or during subsequent running, and 
+(2) 
+It will be possible for the Engine to complete a period equal to at least half the maximum 
+flight duration of the aeroplane in which it is likely to be installed, with the same 
+contaminant level, from the point at which indication of impending filter blockage is first 
+given. 
+[Amdt. No.: E/1] 
+AMC E 670 Contaminated Fuel Testing 
+(1) 
+Solid Contaminants 
+(a) 
+A contaminant with the characteristics detailed in the following table is acceptable. 
+CONTAMINANT  
+PARTICLE SIZE  
+QUANTITY  
+FERROSO – FERRIC 
+Iron oxide (Fe304) Magnetite (Black) 
+ 
+FERRIC iron oxide (Fe203) Hematite 
+ 
+FERRIC iron oxide (Fe203) Hematite 
+0 - 5 microns 
+ 
+ 
+0 - 5 microns  
+ 
+5 - 10 microns  
+0.40 g/1000 litre  
+ 
+ 
+7.13 g/1000 litre 
+ 
+0.40 g/1000 litre 
+Crushed quartz 
+Crushed quartz 
+Crushed quartz 
+Crushed quartz 
+1000 – 1500 microns  
+420 – 1000 microns  
+300 – 420 microns  
+150 – 300 microns  
+0.07 g/1000 litre  
+0.46 g/1000 litre  
+0.26 g/1000 litre  
+0.26 g/1000 litre  
+Prepared dirt conforming to 
+ISO 12103-1 A4 (Arizona test dust – 
+coarse) 
+Mixture as follows:  
+0 - 5 microns (9.25%)  
+5 - 10 microns (10.25%)  
+10 - 20 microns (14.5%)  
+20 - 40 microns (25%)  
+40 - 80 microns (29.5%)  
+80 - 200 microns (11.5%)  
+2.11 g/1000 litre  

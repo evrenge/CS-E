@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 60 of 262 
+ 
+With respect to the accumulation of electro-static or electrical charge, the applicant should show that 
+the modules, assemblies, components and accessories installed in or on the Engine are electrically 
+bonded to the main Engine earth. This may be accomplished by examination of the type design 
+drawings, electrical continuity checks, or actual inspection of a representative Engine. 
+[Amdt. No.: E/1] 
+CS-E 140  Tests - Engine Configuration 
+(See AMC E 140) 
+(a) 
+The configuration of the Engine or components or parts to be tested must be sufficiently 
+representative of the type design for the purpose of the test. 
+(b) 
+All automatic controls and protections must be in operation unless it is accepted that this is not 
+possible or that they are not required because of the nature of the test. 
+(c) 
+Variable devices that are not intended to be adjusted during Engine operation must be set in 
+accordance with the type design prior to each test, except when the particular test demands 
+adjustments to be made or as required by paragraphs relating to specific tests. Other variable 
+devices must operate or be operated in a manner consistent with both the type design and the 
+operating instructions to be provided under CS-E 20(d) unless otherwise necessary for the 
+purpose of the test. 
+(d) 
+(1) 
+All equipment drives not essential to the satisfactory functioning of the Engine must be 
+disconnected or off loaded during the Calibration Tests of CS-E 350 or CS-E 730. 
+Throughout all other tests, except as required by CS-E 140(d)(2), they must be suitably 
+loaded, either with the equipment listed in the constructor's declaration or with slave 
+units of a suitable type. 
+(2) 
+When running the additional endurance test sequence required by CS-E 740(c)(3)(iii), the 
+accessory drives and mounting attachments need not be loaded if it can be substantiated 
+that there is no significant effect to the durability of any accessory drive or Engine 
+component. However, the equivalent Engine output power extraction from the power 
+turbine rotor assembly must be added to the Engine shaft output.  
+(e) 
+Certain features prescribed in CS-E 500 and CS-E 560 to CS-E 590 may be incorporated as part 
+of the aircraft installation rather than as part of the Engine type design. In this case, where the 
+performance of the Engine is affected, the features concerned must be satisfactorily 
+represented throughout the Engine tests.  
+(f) 
+In addition to the combined Engine and Propeller tests required by CS-E 180, other tests 
+prescribed in Certification Specifications for Propellers may be conducted jointly with Engine 
+tests where it is accepted that these combined tests do not constitute a less severe test for 
+either the Engine or the Propeller or both.  
+[Amdt. No.: E/1] 
+AMC E 140  Test - Engine configuration 
+For turbine engines, if the power turbine accessory drives are not loaded, the equivalent power should 
+be added as required by CS-E 140(d)(1) to the required power at the output drive so that the power 
+turbine rotor assembly is operated at or above the same level as it would be if the power turbine 
+accessory drives were loaded. 

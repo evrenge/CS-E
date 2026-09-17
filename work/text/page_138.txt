@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 138 of 262 
+ 
+CS-E 740 Endurance Tests 
+(a) 
+The specifications of CS-E 740 must be varied and supplemented as necessary to comply with 
+CS-E 690(a), CS-E 750 and CS-E 890. 
+(b) 
+(1) 
+The test must be performed in the order defined in the appropriate schedule (either as 
+prescribed in paragraphs (c)(1), (2) and (3) below, or as defined by the applicant in a test 
+plan when paragraph (c)(4) below is used), and in suitable non-stop stages. An alternative 
+schedule may be used if it is agreed to be at least as severe. In the event of a stop 
+occurring during any stage, the stage must be repeated unless it is considered to be 
+unnecessary. The complete test may need to be repeated if an excessive number of stops 
+occur. 
+(2) 
+The time taken in changing power and/or thrust settings during the entire test must not 
+be deducted from the prescribed periods at the higher settings. 
+(3) 
+Throughout each stage of the endurance test, the rotational speed must be maintained 
+at, or within agreed limits of, the declared value appropriate to a particular condition. 
+The determination of the necessary rotational speed tolerance will take account of the 
+Engine speed, test equipment and any other relevant factors (see also CS-E 740(f)(1)). 
+(4) 
+On turbo-propeller Engines, a representative flight Propeller must be fitted. 
+(5) 
+The Engine must be subjected to an agreed extent of pre-assembly inspection, and a 
+record must be made of the dimensions that are liable to change by reason of wear, 
+distortion and creep. A record must also be made of the calibrations and settings of 
+separately functioning Engine components and equipment (e.g. the control system, 
+pumps, actuators, valves). 
+(6)  
+The thrust or power of the Engine achieved throughout the endurance test must be at 
+least 100 % of the value associated with the particular Engine rating being tested, in order 
+to substantiate the thrust or power ratings established under CS-E 40. 
+(c) 
+Schedules 
+(1) 
+Schedule for Standard Ratings (Take-off and Maximum Continuous) 
+25 6-hour stages, each stage comprising: 
+Part 1 1 hour of alternate 5-minute periods at Take-off Power or Thrust and minimum 
+ground idle, or, for rotorcraft Engines, minimum test bed idle.  
+Part 2 
+(A) 
+Stages 1 to 15, each of 30 minutes duration, at Maximum Continuous Power 
+or Thrust.  
+(B) 
+Stages 16 to 25, each of 30 minutes duration, at Take-off Power or Thrust. 
+For Engines for Aeroplanes. Where Engine rotational speeds between 
+Maximum Continuous and Take-off may be used in service, e.g. for reduced 
+thrust take-off or due to variations in the ambient temperature, and these 
+speeds would not be adequately covered by other Parts of the endurance 
+test, then the following Part 2 must be substituted:  
+(C) 
+Stages 1 to 10, each of 30 minutes duration at Maximum Continuous Power 
+or Thrust.  
+(D) 
+Stages 11 to 15, each of 30 minutes duration at Take-off Power or Thrust. 

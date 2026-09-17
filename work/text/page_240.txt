@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 240 of 262 
+ 
+(3) 
+On conclusion of the tests, the stripped condition of the Engine must be satisfactory for 
+continued running. (See AMC E 870(a)(3)) 
+(b) 
+Test Conditions 
+(1) 
+A 15-minute period at Maximum Exhaust Gas Over-temperature must be run with each 
+spool of the Engine which could be significant to the test, at the maximum speed to be 
+approved (excluding the Maximum Engine Over-speed (20 Second)). 
+(2) 
+Where desired, the test may be made up of separate runs giving a total time of 
+15 minutes, the time of each individual run being no less than 2½-minutes. 
+[Amdt No: E/1] 
+AMC E 870(a)(3) Exhaust Gas Over-temperature Test 
+In order to comply with CS-E 870(a)(3), it should be shown that an over-temperature event does not 
+compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power. 
+[Amdt. No.: E/1] 
+CS-E 880 Tests with Refrigerant Injection for Take-Off and/or 2½-
+Minute OEI Power 
+(a) 
+Engines for Rotorcraft. The variation of the tests prescribed in this subpart E when using 
+refrigerant injection must be agreed in consultation with the Agency.  
+(b) 
+Engines for Aeroplanes. Refrigerant Injection Used to Increase ISA Take-off and/or 2½-Minute 
+OEI Performance. The following variations to the tests prescribed in this subpart E must be 
+made:  
+(1) 
+Calibration Tests. (See CS-E 730). Add a calibration with refrigerant injection to 
+demonstrate that the predicted power/thrust output will be achieved at the conditions 
+demanding maximum refrigerant flow for each rating. This additional calibration may be 
+made on a separate Engine if desired.  
+(2) 
+Endurance Test (See CS-E 740(c)). Run all normal Take-off periods (and/or 2½-Minute OEI 
+if applicable) of Part 1 of each of the stages with refrigerant injection to achieve a mean 
+refrigerant flow rate of at least 50% of the maximum, whilst maintaining at least the 
+minimum declared power/thrust output and maximum declared turbine entry 
+temperature.  
+(3) 
+Accelerations (See CS-E 740(c) and (d)). All the appropriate accelerations of Part 1 of each 
+of the stages must be made with refrigerant injection selected.  
+(4) 
+Idle conditions used for power orthrust response (See CS-E 745). The idle conditions 
+appropriate to the use of maximum refrigerant injection flow, as well as without, must 
+be established.  
+(5) 
+Over-speed Test (See CS-E 830). Two Over-speeds will need to be declared if the Take-off 
+maximum rotational speed with refrigerant injection differs from the Take-off maximum 
+rotational speed without refrigerant injection. Only an Over-speed test with refrigerant 
+injection need be run if all the critical conditions are more severe with refrigerant 
+injection, than without. The 15-minute Over-speed test with refrigerant injection need 

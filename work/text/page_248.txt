@@ -1,0 +1,68 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 248 of 262 
+ 
+experience data (including, if available, comparison of relevant past IMP 
+demonstrations with subsequent successful entry-into-service (EIS) Engine 
+experience). 
+The accelerated severity cycle test should include Engine start and shutdown. 
+(2) 
+IMP Test Engine Configuration 
+(i) 
+General 
+CS-E 930 requires the test to be performed with an Engine that adequately 
+conforms to its final type design. Therefore, no significant Engine modification 
+should be required to complete the IMP test. 
+Engine parts that are included in the Engine type design but not installed on the 
+Engine may be substantiated by taking credit for validated analyses and/or other 
+tests. Equipment qualification performed under CS-E 80(b) may be considered an 
+appropriate means of compliance in this case. 
+(ii) 
+Consideration of Hardware Items Not Part of the Engine Type Design 
+The applicant should include in the IMP test other hardware items, or 
+representative hardware items, that are not normally part of the Engine type 
+design (e.g. thrust reverser, air starter, Engine build-up hardware) and that have 
+an impact on the reliability of the Engine. 
+(iii) 
+Engine Test Configuration 
+The applicant should perform the IMP test when the Engine is installed in a typical 
+configuration, to the maximum extent possible.  
+For example, the applicant should: 
+— 
+connect and operate, in a way representative of the intended service, the 
+airframe accessories and the interfaces that load the Engine; 
+— 
+schedule, throughout the test, typical accessory loads and bleed air 
+extraction that would be experienced during the Engine flight cycle. 
+(iv) 
+Turbopropeller Applications 
+For turbopropeller Engine applications, the test should be run with an installation-
+eligible propeller installed. The applicant should incorporate into the test cycle 
+applicable design features, such as: 
+— 
+propeller braking, 
+— 
+auxiliary power unit (APU)-mode operation(s). 
+(v) 
+Turboshaft Applications 
+For turboshaft applications, the applicant should load the test Engine output shaft 
+to simulate the appropriate rotor drive system characteristics of the intended 
+installation. Potential rotor drive system characteristics include but are not limited 
+to inertial and torsional vibration. 
+(3) 
+Test Parameters 
+The conditions achieved during the test should effectively represent the conditions 
+expected during an Engine flight cycle, including: 
+— 
+power/thrust, 
+— 
+stress, 
+— 
+component temperature, 
+— 
+EGT, 

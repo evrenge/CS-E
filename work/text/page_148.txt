@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 148 of 262 
+ 
+• 
+Transient EGT operating limits up to 30 seconds may be approved by 
+running the Engine at the required temperature for 30 seconds of 50 
+% of the prescribed periods at Take-off Thrust or Power conditions 
+following an acceleration.  
+• 
+Transient EGT operating limits up to 2 minutes may be approved by 
+running the Engine at the required temperature for 2 minutes of each 
+prescribed period at Take-off Thrust or Power conditions for 5 
+minutes or longer, and for the whole of all the 30-second periods at 
+Take-off Thrust or Power following an acceleration.  
+(B) 
+In the case of the alternate endurance test specified in CS-E 740(c)(4), 
+transient EGT operating limits may be approved as follows. 
+• 
+Transient EGT operating limits up to 30 seconds may be approved by 
+running the Engine at the required temperature for 30 seconds as part 
+of at least 155 periods at Take-off Thrust or Power conditions 
+following an acceleration. 
+• 
+Transient EGT operating limits up to 2 minutes may be approved by 
+running the Engine at the required temperature for 30 seconds as part 
+of at least 310 periods at Take-off Thrust or Power conditions 
+following an acceleration. 
+(C) 
+Approval for short-period transient conditions at 2½-Minute OEI Thrust or 
+Power will not be considered and any temperature clearance required must 
+be demonstrated normally during the 2½-Minute OEI periods of the 
+endurance test. 
+(v) 
+Engines for Rotorcraft. Where the Engine characteristics are such that an 
+acceleration from cold produces a transient over-temperature in excess of that for 
+steady state running, a maximum EGT operating limit for acceleration with a time 
+limitation of 2 minutes may be approved by running at the required temperature 
+for the first 2 minutes of each prescribed period at Take-off Power conditions in 
+excess of 2 minutes (and for the whole of all the 30-second Take-off Power periods 
+for single-engined rotorcraft). Approval for short period transient conditions at 2½-
+Minute OEI Power will not be considered, and any temperature clearance required 
+must be demonstrated normally during the endurance test. 
+(vi) 
+For all Take-off Power/Thrust periods of 5 minutes or greater, 5 minutes must be 
+run at the maximum oil inlet temperature declared for the condition, with the 
+remainder of each 30-minute period at Take-off Power/Thrust being run at the 
+normal oil temperature for take-off. If a 10-minute Take-off Power/Thrust Rating 
+is sought, then 10 minutes of each 30-minute period at Take-off Power/Thrust 
+must be run at the maximum oil temperature. For all MCT Power/Thrust periods 
+30 minutes must be run at the maximum oil inlet temperature declared for the 
+condition, the remainder of each 1½ hour period at MCT Power/Thrust being run 
+at the normal oil temperature for climb/cruise. 
+(vii) 
+Where necessary to cater for short-duration rise of indicated oil temperature 
+under service conditions above the maximum established during the endurance 
+test such higher temperature may be approved as the Maximum Oil Temperature 
+(with an appropriate time limitation) without additional endurance testing, 
+provided that it can be demonstrated that – 

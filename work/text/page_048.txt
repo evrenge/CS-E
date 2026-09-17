@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 48 of 262 
+ 
+The thermal cycle demonstration is to demonstrate that an item of equipment will 
+continue to operate and not fail or be damaged when exposed to temperature cycles and 
+thermal transients consistent with the declared temperature environment. Equipment 
+testing may follow the procedures defined in EUROCAE ED-14 /RTCA/DO-160, Section 5. 
+If the equipment has electrical sub-components, testing of the sub-components only may 
+be acceptable.  
+Explosion Proofness  
+The explosion proof demonstration is to verify that an item of equipment cannot cause 
+an explosion of flammable fluids or vapours. If applicable, explosion proof testing may be 
+performed as defined in EUROCAE ED-14 / RTCA/DO-160, section 9 (Explosion Proofness). 
+Environment I defines equipment mounted in fuel tanks or within fuel systems. 
+Environment II is an atmosphere in which flammable mixtures can be expected to occur 
+as the result of a "Fault causing spillage or leakage".  
+For installations in a Fire zone, the Fire zone will have extinguishing provisions, so that 
+the explosion proof test given by Environment II of DO-160D, section 9 is adequate. 
+However, Flammable Fluid Leakage areas may not have fire extinguishing provisions or 
+any of the other safety specifications associated with Fire zones based on the assumption 
+that there are no ignition sources in these areas. In these cases the explosion proof test 
+given by Environment I of DO-160D, section 9 may be required for aircraft installation.  
+Humidity  
+The humidity demonstration is to demonstrate that the equipment is not adversely 
+effected, operationally or structurally, by ingress of moisture. Testing may be performed 
+according to EUROCAE ED-14 / RTCA/DO-160 section 6.  
+Waterproofness  
+The waterproofness demonstration is to verify that the equipment can function properly 
+after exposure to water and identify any damage caused by water exposure that could 
+lead to equipment Failure. Water testing may be performed according to EUROCAE ED-
+14 / RTCA/DO-160 section 10 Category S. Following the test, if the design of the unit 
+allows, the unit under test should be opened and inspected for entry of water. If evidence 
+of water entry is detected, the applicant should provide the rationale for accepting the 
+test results based on the criticality of the quantity and location of the water entry point.  
+Power Input  
+The power input demonstration applies only to electrical/electronic equipment or 
+equipment with electrical/electronic sub-components that receive power directly from 
+the aircraft (e.g., EEC, HMU fuel shutoff solenoid). The purpose of this test is to 
+demonstrate that such equipment can accommodate the full range of power inputs 
+declared for the installation. For applicable equipment, the specification may be 
+substantiated by the test defined in EUROCAE ED-14 / RTCA/DO-160, section 16 and 17.  
+(c) 
+Mechanical Equipment 
+Other specifications of CS-E may affect some equipment as follows. 
+Table 3  
+SUBJECT  
+ACCEPTABLE TESTS/PROCEDURES  
+20  
+Proof Pressure  
+CS-E 640(a)(1)  
+21  
+Burst Pressure  
+CS-E 640(a)(2)  

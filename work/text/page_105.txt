@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 105 of 262 
+ 
+of the part. Substantiation programmes are agreed up-front and executed as part of 
+the validation process.  
+— Changes to such processes and practices are visible to all parties, and are not made 
+without crossfunctional review and approval.  
+— When a suspected non-conformance event occurs, it is reviewed with the 
+appropriate skill mix prior to disposition.  
+To achieve the necessary control of the application of those processes and practices, the 
+procedures for repair and maintenance should be clearly articulated in the appropriate 
+section(s) of the engine shop manual. These procedures should also include clearly 
+delineated limits to these processes and practices that will ensure that Engine Critical 
+Parts maintain attributes consistent with those assumed in the Engineering Plan.  
+(c) 
+Service Management Aspects of Static Pressure Loaded Parts or Other Parts 
+The difference in approach to lifing for static pressure loaded parts or other parts means 
+that in addition to the Approved Life, instructions for continued airworthiness may 
+typically contain:  
+— A defined periodic inspection interval in the airworthiness limitations section.  
+— The inspection method(s) to be used.  
+— A detailed description of the area(s) to be inspected.  
+— Inspection result acceptability limits.  
+— Acceptable repair methods, if applicable.  
+— Any other instructions necessary to carry out the required inspection and allowable 
+maintenance procedures.  
+(6) 
+Airworthiness Limitations Section 
+(a) 
+To ensure a closed-loop between the in-service parts and the Engineering Plan, the 
+importance of the limits to the repair and maintenance of Engine Critical Parts should be 
+highlighted in the Engine manuals required by CS-E 25. Further, since inappropriate repair 
+or maintenance could impact the integrity of the part in a hazardous manner, visibility 
+should be provided through the airworthiness limitations section (ALS) of instructions for 
+continued airworthiness. Wording as, or similar to, that shown below should be placed in 
+the appropriate section of the ALS.  
+“The following airworthiness limitations have been substantiated based on engineering 
+analysis that assumes this product will be operated and maintained using the procedures 
+and inspections provided in the instructions for continued airworthiness supplied with 
+this product by the Type Certificate holder, or its licensees. For Engine Critical Parts and 
+parts that influence Engine Critical Parts, any repair, modification or maintenance 
+procedures not approved by the Type Certificate holder, or its licensees, or any 
+substitution of such parts not supplied by the Type Certificate holder, or its licensees, 
+may materially affect these limits.”  
+(b) 
+For engines with OEI ratings, the airworthiness limitations section should include a 
+method for accounting for the number of cycles used in operation at the OEI ratings. This 
+may be accomplished by adding a finite number of cycles to the expended life of the 
+affected Engine Critical Parts or by using appropriate life reduction factors for each of the 
+OEI power excursions. 

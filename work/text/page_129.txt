@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 129 of 262 
+ 
+—  mistuning levels; the degree of scatter in frequency between blades 
+will strongly influence the vibration amplitudes variability in a bladed 
+disc and will have a stabilising influence on flutter. 
+—  All structural dynamic characteristics affected by: 
+—  materials and construction technique, for example composites, 
+anisotropic metals, joining methods 
+—  restraints, for example blade or vane attachment design, snubbers or 
+dampers, flanges. 
+Similarity of the structural dynamic characteristics is frequently demonstrated by 
+a combination of comparative analysis and modal testing in a laboratory. 
+—  Aeroelastic characteristics: 
+—  The Strouhal number (k) or reduced frequency which characterises 
+the variation of flow with time, where k = ω.c/U, ω = frequency, c = 
+component length in flow direction and U = flow velocity, is relevant for 
+flutter. 
+—  Sources of vibratory excitations and forcing strength: 
+—  upstream or downstream rotors, stators or struts, for example 
+numbers off, aerodynamic style, axial gapping; 
+—  gas stream characteristics, inlet or flow path asymmetry, main gas 
+path and secondary flows; 
+—  power or thrust levels, air density, Mach number and Reynolds 
+number that can affect both flutter and forced response amplitudes, 
+—  combustion system 
+—  mechanical sources, for example gearbox and rotor out-of-balance. 
+—  Operating conditions: 
+—  rotational speeds, temperatures and gas pressures experienced by 
+the subject components throughout the declared flight envelope. 
+The validated analysis and its domain of applicability should be acceptable to the 
+Agency. 
+(ii) 
+Use of the Validated Analysis 
+Similarity of the Engine, module or component(s) to be certified with previously 
+tested and certified designs should be justified. For each new Engine certification 
+programme, for which the use of validated analysis is proposed, the applicant 
+should show that the design characteristics and operating conditions of the Engine 
+fall within the domain of applicability of the analysis previously established and 
+accepted by the Agency. 
+The demonstration of compliance will be considered to be the combination of the 
+baseline test(s) used to create the validated analysis, and the analysis performed 
+on the Engine for which approval is currently sought. 
+Examples where validated analysis may be used include but are not limited to the 
+following: 

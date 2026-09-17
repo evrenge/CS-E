@@ -1,0 +1,83 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 185 of 262 
+ 
+shedding. If repeat build/shed cycles have been established, the acceleration 
+should be delayed to maximise the impact energy of the ice shed. 
+                                                Table 1 — Standard test points 
+(b)
+Tests points at power/thrust below that required for sustained flight 
+An additional test at the minimum power/thrust associated with descent in icing 
+conditions should be conducted at an ambient temperature of -10°C or lower if 
+necessary to ensure splitter/core inlet icing, consisting of repetitions of the 
+following cycle: 
+A 28 km horizontal extent in the LWC condition of Table 1, Column (a), appropriate 
+to the temperature, followed by 5 km in the LWC condition of Table 1, Column (b), 
+appropriate to the temperature, for a sufficient duration to cover an anticipated 
+descent of 3 000 m. 
+If the temperature required to ensure core icing is below an ambient temperature 
+of -10°C, the LWC should be determined by interpolating between the conditions 
+defined in Table 1. 
+At the conclusion of the test, the Engine should be subjected to an acceleration, 
+using a one second power/thrust control lever movement, to maximum 
+power/thrust conditions, so as to simulate a balked landing. The maximum 
+power/thrust conditions should then be maintained for a sufficient period to 
+ensure all ice is shed or, alternatively, it may be established by visual inspection 
+that any remaining ice is insignificant. 
+Whenever a minimum power/thrust is required for safe operation of the Engine in 
+icing conditions, the applicant should ensure that this minimum power/thrust will 
+be selected when the aircraft is operating in icing conditions. If any action is 
+required from the installer to fulfil this requirement, then the minimum 
+power/thrust should be declared as a limitation in the manuals containing 
+instructions for installing and operating the Engine. 
+(c) 
+Test Installation Considerations 
+Altitude and ram effect have a significant impact on the Engine operating 
+conditions, ice accretion and ice shedding. Therefore, the use of an altitude test 
+cell is the most direct method of compliance because this approach enables the 
+test to be carried out in the most representative way, requiring the minimum of 
+correction to correlate Engine and icing test conditions with the real operating 
+environment. It also allows accurate control of the icing conditions. However, it is 
+recognised that such facilities are not always available, and alternative test 
+methods are also considered acceptable, providing that evidence demonstrates 
+that such testing is at least as severe. 
+Ambient Air 
+Temperature 
+(°C) 
+Altitude 
+Liquid Water Content (LWC) 
+(g/m3) 
+Mean 
+Effective 
+Droplet 
+Diameter(µm) 
+(ft) 
+(m) 
+(a)  
+Continuous Max 
+(b) 
+Intermittent 
+Max 
+-10 
+-20 
+-30 
+17 000 
+20 000 
+25 000 
+5 182 
+6 096 
+7 620 
+0.6 
+0.3 
+0.2 
+2.2 
+1.7 
+1.0 
+20 
+20 
+20 

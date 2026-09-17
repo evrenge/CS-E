@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 150 of 262 
+ 
+(i) 
+If the Engine was not subjected to a strip examination before commencing the 
+additional endurance test, then the strip inspection specifications of CS-E 740(i)(1) 
+apply on completion of the test. 
+(ii) 
+If it is proposed to subject the Engine to a strip examination before commencing 
+the additional endurance test, the Engine must be reassembled using the same 
+parts used during the 150 hours test run, except those parts described as 
+consumable in the Engine documentation. 
+(iii) 
+After this additional endurance test, the Engine may exhibit deterioration in excess 
+of that permitted in CS-E 740(i)(1), and it is accepted that some Engine parts may 
+be unsuitable for further use. It must be shown by inspection, analysis and/or test, 
+or by any combination thereof, that the structural integrity of the Engine is 
+maintained. 
+[Amdt No: E/1] 
+[Amdt No: E/4] 
+[Amdt No: E/5] 
+[Amdt No: E/8] 
+AMC E 740(c)(2)(i) Endurance Tests – 30-Minute Power Rating 
+For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating:  
+(a)  
+An applicant may propose either to include the required additional 25 hours within the overall 
+test normally required by CS-E 740, or to perform a complementary test on the same test article 
+used for the test required by CS-E 740, or a combination of these methods. If the additional 
+25 hours are included within the overall test normally required by CS-E 740, the modified test 
+periods should be uniformly distributed throughout the endurance testing.  
+(b)  
+Credit may be sought for time accrued during testing at the 30-Minute OEI rating required by 
+CS-E 740. This allowance excludes the time spent at ‘standard’ Take-off Power. It should then 
+be shown that these sequences were run with operating limitations that are equal to or more 
+stringent than the 30-Minute Power rating operating limitations.  
+(c)  
+It is possible that the intended usage and performance characteristics of the Engine may be 
+such that its power will be subject to mechanical limitations for a certain portion of its missions. 
+In that case, it may be acceptable to run the Engine for a representative percentage of the time 
+that is required at the 30-Minute Power rating at these mechanical limitations, but not to 
+exceed 50 % of the required additional 25 hours (i.e. 12.5 hours). For the remaining percentage 
+of the time, the Engine should be run at the higher thermal limits. The proposal must be 
+substantiated and proposed to the Agency for acceptance. These assumptions will be recorded 
+in the instructions for installing and operating the Engine, in accordance with CS-E 30(a).  
+(d)  
+No specific maintenance action is normally expected following the use of the 30-minute Power 
+rating. This will be justified through compliance with CS-E 740(i)(1).  
+[Amdt No: E/5] 
+[Amdt No: E/8] 
+ 
+AMC E 740(c)(3) Endurance Tests 
+(1) 
+Two procedures for running the tests required under CS-E 740(c)(3) are acceptable:  

@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 179 of 262 
+ 
+shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed 
+and the adhesive strength of the ice to the surface. In general, ice adhesive strength 
+increases as surface temperature decreases. 
+Icing Conditions: The presence of supercooled liquid water drops and temperature 
+conducive to aircraft icing. These conditions are defined by the following parameters: 
+— 
+Liquid Water Content (LWC): The total mass of water contained in liquid drops 
+within a volume or mass unit of cloud or precipitation, usually given in units of 
+grams of water per cubic meter or kilogram of dry air (g/m3, g/kg); 
+— 
+Median Volumetric Diameter (MVD): The drop diameter which divides the total 
+liquid water content present in the drop distribution in half, i.e., half the water 
+volume will be in larger drops and half the volume in smaller drops. (Also 
+sometimes called Median Volume Diameter). Note the MVD used in Appendices O 
+and P to CS-25 is equivalent to the MED used in Appendix C to CS-25 and CS-29, CS-
+Definitions for an assumed Langmuir type droplet distribution); 
+— 
+Mean Effective Diameter (MED): A term used with the rotating multicylinder 
+method for measuring LWC in clouds. A droplet diameter which, when assigned to 
+the midpoint of one of the Langmuir distributions, gives the best agreement 
+between the computed and measured differential ice mass accumulations on a set 
+of rotating multicylinders. The MED is approximately equal to the MVD; 
+— 
+Total Air Temperature (TAT): The ambient air temperature plus the ram air 
+temperature rise. For icing testing in test cells, the total Engine inlet temperature 
+includes the static air temperature of the cloud from the applicable icing 
+environment, plus the assumed flight airspeed; and 
+— 
+Static Air Temperature (SAT): The local measured air temperature minus the air 
+temperature rise from velocity effects. 
+Power/Thrust Loss Instabilities: Engine operating anomalies that cause Engine 
+instabilities. These types of anomalies could include non-recoverable or repeating surge, 
+stall, rollback, or flameout, which can result in Engine power or thrust cycling. 
+Scoop Factor (concentration factor): The ratio of nacelle inlet highlight area (AH) to the 
+area of the captured air stream tube (AC) [scoop factor = AH/AC]. Scoop factor compares 
+the liquid water available for ice formation in the Engine inlet to that available in the low-
+pressure compressor or Engine core, as a function of aircraft forward airspeed and Engine 
+power condition. The scoop factor effect depends on the droplet diameter, the simulated 
+airspeed and the Engine power level as well as the geometry and size of the Engine. This 
+may be different for turboshaft installations where complex inlet schemes are utilised. 
+Sustained Power/Thrust Loss: This is a permanent loss in Engine power or thrust. 
+Typically, sustained power loss is calculated at rated take-off power. 
+Unacceptable Mechanical Damage: Mechanical damage resulting from the testing of the 
+Engine in icing conditions and that is in excess of the limited Engine damage defined 
+below. 
+When assessing Engine damages, the applicant should fully account for cumulative 
+damage from repeated icing conditions encounters. This should include the exposure to 
+repeated induced vibration loads (at frequencies and magnitudes corresponding to the 
+vibration spectrum predicted using available test evidence) and to repeated shed ice 
+impacts. 

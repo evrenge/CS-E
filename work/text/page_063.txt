@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 63 of 262 
+ 
+into the Engine instructions for installation, and is considered to be an installation limitation for the 
+installer. 
+When the installer specifies the environmental conditions of the installation, compliance with this 
+specification may be demonstrated by meeting the specified installation specifications.  
+When the installation specifications are not specified or not known, environmental conditions of a 
+typical installation may be assumed.  
+It should be established by analysis or test that all components of the Engine Control System, including 
+all electronics units, sensors, harnesses, hydromechanical elements, and any other relevant elements 
+or units, operate properly in their declared environment. The environmental limits are not imposed 
+by the rules, but should be representative of the environments that are expected to be encountered 
+in the Engine installation.  
+Additional means may be found in AMC E 80 or in AMC 20-1 and AMC 20-3 for Electronic Engine 
+Control Systems.  
+In meeting the above environmental concerns, due consideration should be given to dispatching in 
+each approved degraded state. 
+See AMC E 80 for additional specific means. 
+[Amdt. No.: E/1] 
+CS-E 180  Propeller Functioning Tests 
+(See AMC E 180) 
+(a) 
+If approval of the Engine for use with a Variable Pitch Propeller is sought by the Applicant, a 
+sufficient portion of the tests prescribed in CS-P, must be made either during or on the 
+completion of the endurance test of CS-E 440 or CS-E 740 to demonstrate that the Propeller-
+Engine combination will function satisfactorily. The minimum number of tests which will be 
+acceptable for Engine approval is given below.  
+(b) 
+The following tests must be carried out: 
+(1) 
+Pitch change cycles 
+(i) 
+Turbine Engines 
+(A) 
+Fifty forward pitch change cycles, by operation of Propeller control. (Only 
+applicable when a separate Propeller control is provided). Each cycle must 
+include the maximum range of pitch likely to be experienced in normal use. 
+(B) 
+100 operations with-drawing the flight fine pitch lock. These may be 
+combined with the Engine decelerations prescribed in CS-E 740 for the 
+endurance test.  
+(ii)  
+Piston Engines – For Engines to be approved for use with a variable pitch Propeller, 
+100 representative forward pitch change cycles must be made across the range of 
+pitch and rotational speed. 
+(2) 
+10 feathering cycles. In addition, for turbine Engines, where the oil tank is to be approved 
+as part of the Engine, the ability to complete one cycle (i.e. one feather and unfeather) 
+when the supply of oil has been reduced to the feathering reserve oil (see CS-E 
+570(f)(3)(i)) must be demonstrated.  

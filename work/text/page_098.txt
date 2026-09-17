@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 98 of 262 
+ 
+— variations in the inspection materials or equipment (such as the specific 
+penetrant fluid and developer, equipment capability or condition, etc.);  
+— specific inspection process parameters such as the scan index;  
+the inspector (such as their visual acuity, attention span, training, etc.). i. Risk 
+Prediction and Allowable Risk.  
+The above elements of the Damage Tolerance Assessment are integrated in a 
+probabilistic risk assessment which predicts the relative probability of Failure (POF) 
+for each part. The predicted POF is compared to allowable design target risk (DTR) 
+values. The allowable DTR values may be found in published FAA ACs which address 
+specific materials and/or anomaly types (e.g. values provided in FAA AC 33.70-2 
+Damage Tolerance of Hole Features in High-Energy Turbine Engine Rotors). Designs 
+that satisfy the allowable values will be considered to be in compliance with the 
+‘appropriate damage tolerance assessment’ required by CS-E 515(a). 
+Manufacturers may use a variety of options to reduce the POF and achieve the 
+level of relative risk allowed by the probabilistic risk assessment. These options 
+include but are not limited to: 
+— 
+component redesign, 
+— 
+material change, 
+— 
+material process improvements, 
+— 
+manufacturing process improvements, 
+— 
+manufacturing inspection improvements,  
+— 
+enhanced in-service inspections, and 
+— 
+life limit reduction.  
+When an applicant chooses to pursue a published industry or company-specific 
+probabilistic damage tolerance approach, the applicant should provide and agree 
+with the Agency such data that has an impact on the risk levels resulting from this 
+approach. This data may include but is not limited to the following items as 
+appropriate to the component: 
+— 
+Anomaly size/frequency distribution 
+— 
+Fleet utilisation 
+— 
+Maintenance practices 
+— 
+Production/Assembly processes 
+— 
+Anomaly growth characteristics (crack initiation (incubation), crack 
+propagation, or a combination of crack initiation and crack propagation) 
+— 
+Inspection techniques and intervals 
+— 
+Inspection Probability Of Detection (POD) 
+The process utilised to carry out the probabilistic approach needs to be agreed with 
+the Agency. 
+The objectives in terms of probabilities of Failures of Critical Parts having 
+Hazardous Engine Effects are defined in CS-E 510(a)(3). 

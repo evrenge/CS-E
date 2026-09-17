@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 144 of 262 
+ 
+appropriate period of the test for establishing the TCDS MTO- and MCT-
+declared core speed limits in accordance with CS-E 740(f).  
+(2) 
+Fan Speed Operating Limits Demonstration  
+The MTO fan physical speed operating limit must be demonstrated for a 
+minimum of 30 minutes. The MCT fan physical speed operating limit must 
+be demonstrated for a minimum of 90 minutes. Both cases must be 
+demonstrated in conjunction with at least the level of corresponding 
+temperature, as identified in the CPA. 
+If MTO and MCT have the same declared fan speed operating limit, then 
+120 minutes must be demonstrated.  
+Additional time may be necessary if the applicant’s CPA indicates that 
+additional time at MTO or MCT physical fan speed operating limit could 
+occur in service within the declared operating envelope. In conjunction with 
+meeting minimum severity requirements, this demonstration comprises the 
+appropriate period of the test for establishing the TCDS MTO- and MCT-
+declared fan speed limits in accordance with CS-E 740(f).  
+(3) 
+Turbine Exhaust Gas Temperature (EGT) Operating Limits Demonstration  
+The conditions necessary to demonstrate the MTO exhaust gas temperature 
+(EGT) operating limit must be continuously run for 10 minutes in conjunction 
+with at least the level of corresponding rotor speeds as identified in the CPA. 
+Three snap/burst accelerations (throttle move in 1 second or shorter) from 
+idle to the MTO EGT operating limit (hold operating limit for a duration of 
+90 seconds each) must also be run. The conditions necessary to demonstrate 
+the MCT EGT operating limit must be continuously run for 90 minutes in 
+conjunction with at least the level of corresponding rotor speeds as 
+identified in the CPA. 
+Additional time at any or all these conditions may be necessary if the 
+applicant’s CPA indicates that additional time at the EGT operating limit may 
+occur in service.  
+EGT operating limits demonstration for alternate endurance testing also 
+requires the equivalent severity to the intent of the specifications in CS-
+E 740(a), (b) and (c)(1) to be demonstrated by running significant time and 
+cycles at or above the maximum critical component temperature, as 
+identified in the CPA as per CS-E 740(c)(4)(iii), and must be performed when 
+showing compliance with CS-E 740(c)(4)(v).  
+Additional testing required to show compliance with CS-E 740(c)(4)(v) must 
+be addressed in accordance with CS-E 740(c)(4)(vi).  
+(v) 
+Test Severity Demonstration Over Extended Operating Periods 
+Limiting temperature for MTO and MCT must be demonstrated for extended 
+periods to achieve the equivalent cumulative damage for the critical component 
+as would be achieved by the conditions prescribed in CS-E 740(c)(1) (also referred 
+to as the ‘reference severity’; see also AMC E 740(c)(4), Section 5(b)).  
+The limiting temperature is either the turbine gas path temperature operating limit 
+or the gas path temperature that corresponds to the maximum critical component 
+temperature where this has been established for both a production Engine and the 

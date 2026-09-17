@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 16 of 262 
+ 
+of the intended installation, or this may be limited to defining the key design characteristics that 
+must be respected, including, but not limited to, mass, centre of gravity, aerodynamic flow lines 
+and nozzle areas. In this case, the Engine data sheet would contain a note to the effect that the 
+Engine may be used with the specified thrust reverser. 
+(c)  
+If the engine is not intended to be used with a thrust reverser, then the Engine data sheet 
+indicates that the use of a thrust reverser is prohibited. 
+(d)  
+Whilst compliance with CS-E may rely solely on testing using a duct equivalent to a production 
+thrust reverser, the compliance with applicable aircraft certification specifications (e.g. 
+CS 25.934) typically requires testing of the actual Engine / thrust reverser combination. 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/7] 
+CS-E 15  Terminology 
+(a) 
+The terminology of this CS-E 15 must be used in conjunction with the issue of CS-Definitions 
+current at the date of issue of this CS-E. Where used in CS-E, the terms defined in this paragraph 
+and in CS-Definitions are identified by initial capital letters.  
+(b) 
+All Engines 
+Extremely Remote  
+means unlikely to occur when considering the total operational life of 
+a number of aircraft of the type in which the Engine is installed, but 
+nevertheless, has to be regarded as being possible. Where numerical 
+values are used this may normally be interpreted as a probability in 
+the range 10-7 to 10-9 per Engine flight hour.  
+Reasonably Probable  
+means unlikely to occur often during the operation of each aircraft of 
+the type but which may occur several times during the total 
+operational life of each aircraft of the types in which the Engine may 
+be installed. Where numerical values are used this may normally be 
+interpreted as a probability in the range 10-3 to 10-5 per Engine flight 
+hour.  
+Remote  
+means unlikely to occur to each aircraft during its total operational life 
+but may occur several times when considering the total operational 
+life of a number of aircraft of the type in which the Engine may be 
+installed. When numerical values are used, this may normally be 
+interpreted as a probability in the range 10-5 to 10-7 per Engine flight 
+hour.  
+(c) 
+Turbine Engines 
+Hazardous Engine Effect means an effect identified as such under CS-E 510.  
+Major Engine Effect  
+means an effect identified as such under CS-E 510.  
+Minor Engine Effect  
+means an effect identified as such under CS-E 510.  
+(d) 
+For piston Engines 
+Boost Pressure  
+means the power setting measured relative to standard sea-level 
+atmospheric pressure.  
+Charge Cooling  
+means the percentage degree of charge cooling, quantitatively 
+expressed as: 

@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 141 of 262 
+ 
+(A)  
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous 
+Power.  
+(B)  
+Stages 16 to 25, each of 30 minutes duration at Take-off Power.  
+Part 3  One hour at Maximum Continuous Power, followed by one hour at 
+Continuous OEI Power.  
+Part 4  2 hours covering the range in 12 approximately equal increments from 
+minimum test bed idle up to, but not including, Maximum Continuous 
+Power.  
+Part 5  30 minutes of accelerations and decelerations consisting of 6 cycles from 
+minimum test bed idle to Take-off Power, maintaining Take-off Power for a 
+period of 30 seconds, the remaining time being at minimum test bed idle.  
+(ii) 
+If a 30-Minute OEI Power rating is associated with the 30-Second and 2-Minute OEI 
+Power ratings, the following tests must be conducted and must be complemented 
+by the additional test of CS-E 740(c)(3)(iii):  
+25 six-hours stages, each stage comprising:  
+Part 1: One hour of alternate 5-minute periods at Take-off Power and minimum 
+test bed idle.  
+Part 2:  
+(A)  
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous 
+Power.  
+(B)  
+Stages 16 to 25, each of 30 minutes duration at Take-off Power.  
+Part 3: One hour at Maximum Continuous Power, followed by thirty minutes at 30-
+Minute OEI Power.  
+Part 4: Two hours and thirty minutes covering the range in 15 approximately equal 
+increments from minimum test bed idle to Maximum Continuous Power.  
+Part 5: 30 minutes of accelerations and decelerations consisting of 6 cycles from 
+minimum test bed idle to Take-off power, maintaining Take-off Power for a 
+period of 30 seconds, the remaining time being at minimum test bed idle.  
+(iii) 
+The following test sequence must be performed four times for a total time of not 
+less than 120 minutes. If a stop occurs during this test, the interrupted sequence 
+must be repeated unless it is shown that the severity of the test is not reduced if it 
+were continued: 
+Part 1: Three minutes at Take-off Power.  
+Part 2: Thirty seconds at 30-Second OEI Power.  
+Part 3: Two minutes at 2-Minute OEI Power.  
+Part 4: Five minutes at whichever is the greatest of, as applicable, 30-Minute OEI 
+Power, Continuous OEI Power and Maximum Continuous Power, except that 
+during the first test sequence this period must be sixty-five minutes. 
+However, where the greatest is the 30-Minute OEI Power, that sixty-five 
+minutes period must consist of thirty minutes at 30-Minute OEI Power 
+followed by thirty-five minutes at whichever is the greater of Continuous OEI 
+Power and Maximum Continuous Power, as applicable.  

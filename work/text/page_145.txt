@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 145 of 262 
+ 
+test Engine, as defined by the applicant’s CPA (refer to AMC E 740(c)(4) for further 
+considerations of severity assessment). The applicant should therefore decide 
+which limiting temperature method will be used during the test. 
+The duration and the split between MTO and MCT operation are to be determined 
+and justified by the applicant. 
+The applicant must determine the mix of cycles and cycle durations that best 
+represent the Engine design and operation. A methodology showing how creep 
+damage, and other damage, to critical components accumulates is necessary for a 
+comparative severity assessment to the intent of the test schedule specified in CS-
+E 740(c)(1).  
+During this testing phase, rotor physical speeds must be maintained at the highest 
+levels feasible with a test vehicle that meets type design as per the specifications 
+in CS-E 740(c)(4)(ii), and on average should be held within ± 3 % of the limiting 
+speeds. 
+(vi) 
+Additional Severity Testing 
+The need for additional severity testing must be determined and agreed with EASA 
+on completion of the scheduled test severity demonstration of CS-E 740(c)(4)(v). 
+The additional testing must be completed to the same target EGT conditions 
+(necessary if the conditions did not meet those that were assumed in the original 
+analysis that was used to establish the test schedule) in order to compensate for 
+the missed cumulative severity equivalence. Additional cyclic content may also be 
+included, if necessary, to address other damage mechanism demonstration 
+identified in the CPA, for which target conditions should be justified. 
+(vii) 
+Incremental Cruise Power and Thrust 
+The following incremental acceleration must be completed 25 times: 2 hours and 
+30 minutes, covering the range in 15 approximately equal speed increments from 
+ground idle up to but not including MCT thrust or power. 
+(viii)  Ancillary Type Certification Data Sheet Limits Demonstration 
+The alternate test must take into account specifications CS-E 690(a)(3), CS-E 740(e) 
+and (f), and CS-E 750. Minor facilitating modifications may need to be made to run 
+the conditions as required. The applicant must propose test sequence intervals 
+equivalent to the stages specified in CS-E 690(a)(3) and CS-E 740(e) that are 
+acceptable to EASA. 
+(d) 
+Accelerations and Decelerations 
+(1) 
+During scheduled accelerations and decelerations in Parts 1 and 5, 
+(i) 
+For aeroplane Engines, the thrust or power control lever must be moved from one 
+extreme position to the other in a time not greater than one second. 
+(ii) 
+For rotorcraft Engines, the power demand must be increased to Take-off from the 
+minimum test bed idle in a time not greater than one second. 
+(2) 
+Observations 
+(i) 
+Turbine Engines for Aeroplanes. 
+(A) 
+Readings of power/ thrust, speed and EGT must be recorded at every 
+significant change of Engine conditions. Following accelerations, the over-

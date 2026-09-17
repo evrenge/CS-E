@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 114 of 262 
+ 
+(iii) 
+The design of the Engine oil system must be such that it is possible to complete the 
+feathering and unfeathering operation under all normal operating conditions. 
+(g) 
+(1) 
+Each brand and type of oil to be approved, and the associated limitations, must be 
+declared and substantiated. 
+(2) 
+Any parameter of the oil specification which is likely to be critical for Engine functioning 
+or durability must be identified so that, where necessary, Engine or rig testing using 
+appropriate oil may be conducted. 
+[Amdt. No.: E/1] 
+AMC E 570 Oil system 
+(1) 
+Each filter or strainer requiring regular servicing should be accessible for draining and cleaning 
+or replacement. For complying with CS-E 570(a)(1) in order to avoid possible leakage, each filter 
+or strainer should be mounted so that its weight is not supported by the connecting lines or by 
+the inlet or outlet connections of the filter or strainer, unless adequate strength margins under 
+all loading conditions are provided in the lines and connections. 
+(2) 
+In complying with CS-E 570(a)(1), each oil tank should have an expansion space. Experience has 
+shown that 10 percent of the tank capacity is adequate. It should be impossible to fill the oil 
+tank expansion space inadvertently. 
+(3) 
+In complying with CS-E 570(a)(2)(i), filling and drainage provisions should be accessible and have 
+manual or automatic means for positive locking in the closed positions. Each oil tank filler 
+connection that can retain any significant quantity of oil should have provision for drainage to 
+the outside of the Engine cowling.  
+(4) 
+In complying with CS-E 570(a)(2), access points include, but are not limited to, Magnetic Chip 
+Detectors and gearbox access cover plates.  
+(5) 
+“Hazardous quantities”, as referred to in CS-E 570(e)(1), is defined in AMC E 130. 
+[Amdt. No.: E/1] 
+CS-E 580 Air Systems 
+Where bleed air is used to cool or to pressurise areas of the Engine, the functions of which could be 
+detrimentally affected by the ingress of foreign matter (e.g. sand or dust), the design must be such 
+that the passage of foreign matter of unacceptable quantity or unacceptable size is precluded. 
+[Amdt. No.: E/1] 
+[Amdt. No. E/4] 
+CS-E 590 Starter Systems 
+Where the starter is declared as part of the Engine, its design, and that of its associated drive 
+mechanism, must be such that over-speeding of the starter, to an extent which could result in a 
+Hazardous Engine Effect, cannot occur under any Fault conditions in the Engine which cannot be 
+classified as Extremely Remote. The possibility of the starter remaining connected, or subsequently 
+becoming reconnected, to the Engine resulting from any Failure of the drive system must be 
+considered. Where in showing compliance with this paragraph, dependence is placed on safety 
+provisions to be provided as part of the installation, the need for such provisions must be declared. 

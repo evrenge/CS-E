@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 56 of 262 
+ 
+— The type of alloy i.e. its constituents other than titanium;  
+— Blade / casing coatings or mechanical linings which inhibit ignition or subsequent 
+combustion;  
+— The way in which the design minimises potentially dangerous rubs by such methods 
+as: 
+— Large inter blade row clearances;  
+— The use of appropriate abradable materials in areas of potential rub of 
+sufficient depth to accommodate predicted rotor or stator deflections 
+including those likely to occur in Fault conditions;  
+— Not using titanium for adjacent rotating and static parts;  
+— Taking full account of rotor movements under transient and bearing Failure 
+conditions;  
+— Ensuring that thin, easily ignited titanium sections are unlikely to be shed at 
+the front of the Engine.  
+(c) 
+Use of Magnesium 
+Many magnesium alloys used in the manufacture of Engine components are highly 
+combustible when in finely divided form, such as chips or powder. Therefore the use of 
+magnesium alloys in thin sections or where they are exposed to corrosion, rubbing or 
+high scrubbing speeds should be carefully evaluated.  
+In showing compliance with CS-E 130, the applicant should assess the overall design for 
+vulnerability to magnesium fires. If this assessment cannot rule out the possibility of a 
+sustained fire, then it should be shown that a magnesium fire would be confined to areas 
+within the Engine such that it does not result in a Hazardous Engine Effect.  
+(d) 
+Abradable Linings 
+Many fan, compressor and turbine modules have abradable linings between rotating 
+blade tips and stator casings. Depending upon the material used in the abradable lining, 
+experience has shown that fire or explosion can occur in the presence of an ignition 
+source if a significant amount of lining is removed during rubs between rotor and stator. 
+Under certain conditions, auto-ignition can occur in the mixture of small particles 
+extracted from the abradable linings and hot flow path gases.  
+These situations should be evaluated for each fan, compressor and turbine stage which 
+has an abradable lining.  
+(e) 
+Absorbent Materials 
+Absorbent materials should not be used in close proximity to flammable fluid system 
+components unless they are treated or covered to prevent the absorption of a hazardous 
+quantity of such fluid.  
+(4) 
+Specific interpretations 
+(a) 
+Test equipment and calibration 
+Acceptable procedures for calibration of the relevant burners for the tests, and the 
+standard flame, are defined in the ISO 2685 standard. 
+A pre test calibration to verify that the standard flame temperature and heat flux is 
+achieved is necessary for each test. To ensure that flame conditions are constant 

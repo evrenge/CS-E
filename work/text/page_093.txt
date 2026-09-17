@@ -1,0 +1,33 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 93 of 262 
+ 
+The Engineering Plan should address the following subjects: 
+— Analytical and empirical engineering processes applied to determine the Approved 
+Life. 
+— Structured component and Engine testing conducted to confirm Engine internal 
+operating conditions and to enhance confidence in the Approved Life.  
+— Establishment of the attributes to be provided and maintained for the manufacture 
+and service management of Engine Critical Parts. 
+— Development and certification testing, and service experience required to validate 
+the adequacy of the design and Approved Life. Any in-service inspections identified 
+as critical elements to the overall part integrity, should be incorporated into the 
+Service Management Plan. 
+(c) 
+Establishment of the Approved Life – General 
+Determining the life capability of an Engine Critical Part involves the consideration of 
+many separate factors, each of which may have a significant influence on the final results.  
+It is possible that the final life calculated may be in excess of that considered to be likely 
+for the associated airframe application. However, the life, in terms of cycles or hours, as 
+appropriate, should still be recorded in the Airworthiness Limitations Section in order for 
+the usage of the part to be properly tracked.  
+(d) 
+Establishment of the Approved Life — Rotating parts  
+The following describes a typical process for establishing the Approved Life of rotating 
+parts: 
+ 

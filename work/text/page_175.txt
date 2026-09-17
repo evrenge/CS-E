@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 175 of 262 
+ 
+(c) 
+If testing facilities are not available to demonstrate the effects of power extraction required in 
+CS-E 745(b)(2) and (3), this must be accomplished through appropriate analytical means. 
+[Amdt No: E/1] 
+AMC E 745 Engine Acceleration 
+(1) 
+Compliance with CS-E 745 may be demonstrated during tests performed to meet other sections 
+of CS-E. 
+(2) 
+In complying with CS-E 745(a)(1) and (a)(2) for evaluation of a potential ‘over-temperature’, the 
+appropriate adverse combination is probably ‘maximum bleed air and maximum power 
+extraction’. For evaluation of ‘surge’ and ‘stall’, the combination should probably be ‘no bleed 
+air and maximum power extraction’. An ‘over-temperature’ event is considered as being any 
+exceedence of the steady state and transient values which are substantiated under CS-E 740. 
+(3) 
+The ‘minimum test bed idle’ which is referenced for rotorcraft Engines in CS-E 745(a) or other 
+CS-E paragraphs is the minimum practically possible power extraction from the Engine in the 
+test facility while the output shaft is at the governed speed. 
+(4) 
+If, when complying with CS-E 745(a)(3), an acceleration time longer than 5 seconds is 
+experienced, the justification should address operational aspects as well as aircraft certification 
+specifications for the intended installation. For example, this would be considered for the very 
+large engines which could have a difficulty in meeting exactly the 5 seconds because of the 
+inertia of their rotors or other reasons. 
+[Amdt No: E/1] 
+CS-E 750 Starting Tests 
+(a) 
+Twenty-five cold starts (i.e. after the Engine has been stopped for not less than two hours) and 
+ten hot starts (i.e. within 15 minutes of shutting-down after the previous running) must be 
+specifically made at evenly distributed intervals throughout the endurance test of CS-E 740. 
+Time to light up and accelerate to idling conditions must be recorded.  
+(b) 
+Ten False Starts, each followed by a normal start immediately on expiry of the declared drainage 
+period, must be made at evenly distributed intervals throughout the endurance test. Failure to 
+start must be simulated on these occasions by rendering the ignition circuit inoperative. 
+Following each False Start, the combustion chambers, air casings, etc., may be drained, by the 
+normal means provided, of any fuel which may have accumulated. (See AMC E 750(b)) 
+(c) 
+At the conclusion of the endurance test the number of starts must be made up to a total of one 
+hundred. The additional starts necessary to make this aggregate may be ‘hot’ or ‘cold’ starts. 
+All attempted starts including those prescribed in CS-E 750(b) must count towards the total, 
+provided that the normal starting cycle is completed. 
+(d) 
+In the case of a free power-turbine Engine for Rotorcraft, each normal start must be made with 
+the free power-turbine locked and followed by a run at Ground Idling Conditions for three 
+minutes with the free power-turbine stationary in order to simulate the operation of the Engine 
+in the rotorcraft with the rotor system locked. 
+(e) 
+Full details of all starts made throughout the endurance test must be recorded. Times to light 
+up and accelerate to idling conditions must be recorded, together with details of all attempted 
+starts, and the reasons for any Failures. 

@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 161 of 262 
+ 
+The main flow charts (Figures 8.3–8.5 and 8.9–8.11) are divided into two parts. 
+— 
+The left-hand side is the main loop that will be repeated for each fixed condition 
+of the test, and for each of which a particular damage-per-hour (DPH) value will be 
+derived to calculate increments of accumulated damage to give the overall sum for 
+the process.  
+— 
+On the right-hand side is the sequence required to calculate the DPH, which utilises 
+three separate models. The modelling sequence starts with a performance model 
+that simulates the particular Engine fixed (power) conditions (𝑧𝑚) and derives the 
+local conditions (𝑦𝑚) for the particular part being assessed. A design model of the 
+part would then be used to simulate the part under those local conditions to give 
+the local input parameters (𝑥𝑚) for the damage mechanism. A damage model 
+would then simulate those material conditions to provide the DPH. 
+Some secondary charts are also included to provide further insight into the concept for 
+each model.  
+ 
+(d) 
+Mathematical background/basis 
+ 
+Ⓐ Severity is the sum of accumulated damage. 
+𝑆𝑒𝑣𝑒𝑟𝑖𝑡𝑦 = ∑𝐷𝑎𝑚𝑎𝑔𝑒𝑘
+𝑘𝑛
+𝑘 = 1
+ 
+ 
+Ⓑ Damage is the accumulated damage per cycle (k). 
+𝐷𝑎𝑚𝑎𝑔𝑒 = ∫𝐷𝑝ℎ 𝑑𝑡 ≅ 𝐷𝑝ℎ ∗ 𝑡 
+For the ease of calculation (and introducing only a small error), we neglected the small 
+amount of damage accumulated in the ramp up to and down from the stabilised points. 
+𝐷𝑝ℎ = 𝐷𝑝ℎ(𝑥1, 𝑥2, 𝑥3, 𝑥4, . . , 𝑥𝑛) 
+ 
+Ⓒ DPH is calculated based on the damage mode specific inputs (𝑥𝑚). Typical local inputs 
+include local stress (metal), local temperature (Tmetal), etc. 
+𝑥𝑚 = 𝑥𝑚 (𝑦1, 𝑦2, 𝑦3, 𝑦4, . . , 𝑦𝑛, 𝑧1, 𝑧2, 𝑧3, 𝑧4, . . , 𝑧𝑛) 
+ 
+Ⓓ Each of these local inputs into the damage model is in turn calculated from other 
+parameters (𝑦𝑚 and 𝑧𝑚). Other typical parameters include both instrumented Engine 
+conditions (𝑧𝑚) and derived Engine conditions (𝑦𝑚). Typical instrumented Engine 
+conditions (𝑧𝑚) include N1, N2, EGT, EPR, etc. Typical derived Engine conditions (𝑦𝑚) 
+include 𝑚̇𝑏𝑙𝑒𝑒𝑑, 𝑇𝑏𝑙𝑒𝑒𝑑, 𝑃𝑏𝑙𝑒𝑒𝑑, 𝑃𝑢𝑝𝑠𝑡𝑟𝑒𝑎𝑚, 𝑃𝑑𝑜𝑤𝑛𝑠𝑡𝑟𝑒𝑎𝑚, 𝑇𝑢𝑝𝑠𝑡𝑟𝑒𝑎𝑚, 𝑇𝑏𝑢𝑙𝑘, etc.  
+ 

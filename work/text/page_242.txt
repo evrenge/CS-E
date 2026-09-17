@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 242 of 262 
+ 
+(3) 
+One cycle to the declared maximum reverse thrust conditions, from each of ten Engine 
+rotational speeds in the forward thrust range (except Take-off rotational speed and 
+idling), these speeds being such that the forward thrust range is divided into 
+approximately equal increments. 
+(4) 
+One cycle to the Take-off maximum rotational speed from each of 15 speeds in the 
+declared reverse thrust range, these speeds being such that the reverse thrust range is 
+divided into approximately equal increments. 
+(d) 
+Where approval is sought for ground and in-flight use, in addition to the tests prescribed under 
+CS-E 890(c), a test of at least 5 hours must be performed, as part of the tests of CS-E 740, at the 
+maximum reverse thrust conditions declared for in-flight use divided into equal periods each 
+not less than the maximum permitted for in-flight use and including at least 30 operations into 
+reverse thrust.  
+(e) 
+(1) 
+During the tests of CS-E 890(c) and (d), the time to complete each scheduled thrust 
+operation must be recorded. 
+(2) 
+The power control lever movement into reverse thrust must be initiated from the 
+conditions indicated in the schedule, reverse thrust being selected in accordance with the 
+recommended procedure. Immediately the thrust reverser is indicated as being in the 
+reverse thrust position, the power control lever must be moved from the minimum idling 
+position with reverse thrust to the position appropriate to the maximum with reverse 
+thrust in a time not greater than 1 second. During decelerations the power control lever 
+must be moved from the position appropriate to the declared maximum with reverse 
+thrust to the minimum idling position with reverse thrust in a time not greater than 1 
+second. 
+(f) 
+After the completion of the tests specified in CS-E 890(c) and (d), the Engine and the thrust 
+reverser must comply with the specifications of CS-E 740(i).  
+(g) 
+Engine tests must be performed as required under CS-E 890(b), (c) and (d) unless it is agreed 
+that alternative evidence may come from the Applicant’s experience on Engines of comparable 
+size, design, construction, performance and handling characteristics, obtained during 
+development, certification or operation, supported by analysis and tests as appropriate. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 
+AMC E 890 Thrust Reverser Tests 
+(1) 
+Interpretation of CS-E 890(g): 
+In cases where the Engine test of CS-E 740 cannot be run with the standard thrust reverser, for 
+example because it is not available despite the applicant’s efforts to obtain it, it is acceptable 
+that a suitably representative test reverser is fitted for the endurance test. 
+This addresses only the passive effects of the thrust reverser: cantilevered weight, the effect on 
+vibrations and the loading of the Engine carcass, etc. Other evidence will be necessary to 
+address the effects of the thrust reverser when functioning. 
+It is also acceptable to use other Engine tests performed with a representative thrust reverser, 
+such as cyclic tests performed for the ETOPS approval of the aircraft.  
+(2) 
+Representative control system. 

@@ -1,0 +1,70 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 29 of 262 
+ 
+Specifications/References  
+Assumptions  
+De-icing and anti-icing 
+CS-E 230  
+Temperature rise provided.  
+Filters 
+CS-E 260  
+Provision to be made in installation.  
+Vibration Tests 
+CS-E 340  
+Propeller used.  
+Water Spray Tests 
+CS-E 430  
+Installation details.  
+[Amdt No: E/1] 
+[Amdt No: E/4] 
+[Amdt No: E/5] 
+[Amdt No: E/7] 
+[Amdt No: E/8] 
+CS-E 40  Ratings 
+(See AMC E 40) 
+(a) 
+Power ratings must be established for Take-off Power and/or Thrust and for Maximum 
+Continuous Power and/or Thrust, for all Engines. 
+(b) 
+Other ratings may also be established as - 
+(1) 
+Piston Engines - 
+(i) 
+Maximum Recommended Cruising Power, 
+(ii) 
+Maximum Best Economy Cruising Power; 
+(2) 
+Turbine Engines for multi-engined aeroplanes: 
+(i) 
+2 1/2-Minute OEI Power or Thrust, 
+(ii) 
+Continuous OEI Power or Thrust; 
+(3) 
+Turbine Engines for multi-engined rotorcraft (see AMC E 40(b)(3)): 
+(i) 
+30-Second OEI Power, 
+(ii) 
+2-Minute OEI Power, 
+(iii) 
+2 1/2-Minute OEI Power, 
+(iv) 
+30-Minute OEI Power, 
+(v) 
+Continuous OEI Power; 
+(4) 
+Turbine Engines for Rotorcraft:  
+(i) 
+30-Minute Power. 
+(c) 
+The Engine Thrust and/or Power ratings will be based on standard atmospheric conditions, with 
+no air bleed for aircraft services and with only those accessories installed which are essential 
+for Engine functioning, including controls, unless otherwise declared in the Engine type 
+certificate data sheet. 
+(d) 
+Operating limitations appropriate to the intended operating conditions for the Engine must be 
+established (see AMC E 40(d)). 

@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 232 of 262 
+ 
+(d) 
+In addition, for each fan, compressor, and turbine rotor, it must be established by test, analysis, 
+or combination thereof, that a rotor which has the most adverse combination of material 
+properties and dimensional tolerances allowed by its type design and which is operated in the 
+Engine for five minutes at 100% of the most critical speed and temperature conditions resulting 
+from any Failure or combination of Failures considered under CS-E 840(b)(3) and (b)(4), will 
+meet the acceptance criteria prescribed below in CS-E 840(d)(1) and (d)(2).  
+However, where the Failure condition is of a sudden transient nature, such as loss of load, and 
+it precludes any further operation of the affected rotor, the time period of that Failure condition 
+is an acceptable duration for showing compliance by means of an Engine test.  
+Test rotors which do not have the most adverse combination of material properties and 
+dimensional tolerances must comply at appropriately adjusted test parameters, e.g. speed, 
+temperature, loads.  
+(1) 
+Growth of the rotor while it is operating at the applicable conditions must not cause the 
+Engine to: 
+(i) 
+Catch fire, 
+(ii) 
+Release high energy debris through the Engine's casing or result in a hazardous 
+Failure of the Engine's casing, 
+(iii) 
+Generate loads greater than those ultimate loads for which the Engine's mountings 
+have been designed in compliance with CS-E 100(b), or  
+(iv) 
+Lose the capability of being shut down.  
+(2) 
+After the applicable period of operation, the rotor must not exhibit conditions such as 
+cracking or distortion which preclude the safe operation of the Engine during any likely 
+continued operation following such an over-speed event in service. 
+[Amdt No: E/1] 
+AMC E 840 Rotor Integrity 
+(1) 
+Definitions 
+The following terms are defined for the purposes of interpreting CS-E 840 and this AMC.  
+Rotor: 
+Individual stage of a fan, compressor or turbine assembly (some assemblies may 
+consist of only one stage). 
+Sample rotor: A test article or assembly including, where appropriate, cover plates, spacers, 
+etc., that is representative of the standard to be certified and for which the 
+material properties and dimensions are known. 
+Maximum permissible rotor speed associated with a rating: The maximum of all approved 
+speeds, including transients, for the relevant rating. 
+(2) 
+General 
+(a) 
+The demonstration of compliance with the safety objectives of CS-E 840(a) and (d) may 
+be made separately or be combined, as described in this advisory material. 
+(b) 
+CS-E 840(a) and (d) allow various means of compliance ("tests, analysis or combination 
+thereof) in order to meet the objective identified therein. It is the applicant's 
+responsibility to propose the appropriate means of compliance, in accordance with the 
+guidelines defined in this AMC. 

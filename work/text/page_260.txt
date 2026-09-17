@@ -1,0 +1,25 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 260 of 262 
+ 
+Figure 1. Example of the analysis results for a system with both Short Time Dispatch and Long Time Dispatch 
+ 
+ 
+In this example, 
+— The analysis was conducted with the Short Time dispatch interval set to 300 hours based on the 
+assumption that the desired Short Time approval was 150 hours. This ratio is in accordance with 
+paragraph (4)  
+— The target average LOTC / LOPC rate is 10 per million engine flight hours 
+— The analysis shows that the target rate is not exceeded with a declared Short Time dispatch 
+interval set to 150 (= 300/2) hours and the Long Time less than 2700 hours. However, the long-
+time interval would be limited to an operational time of 1,350 hours. Again this ratio is in 
+accordance with paragraph (4).  
+— In the case of an entry level system the short-time Fault category would be limited to an 
+operational time period of 125 hours, and Faults in the long-time interval would be limited to an 
+operational time of 250 hours. This is in accordance with Table 2.  

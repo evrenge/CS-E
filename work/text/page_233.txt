@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 233 of 262 
+ 
+(c) 
+Any analysis approach allowed under CS-E 840 should be defined and validated before 
+usage. 
+(d) 
+The applicant should submit to the Agency the appropriate analysis to determine which 
+of the conditions in CS-E 840(b)(1) through (b)(4) is the most critical for each individual 
+rotor stage with respect to the specifications of CS-E 840(a). A similar analysis should be 
+submitted with respect to the specifications of CS-E 840(d). 
+Where the peak over-speed is limited by deliberate blade shedding:  
+(i) 
+The factors of CS-E 840(b)(3) and (b)(4) nevertheless apply to a fully bladed rotor 
+at the shedding speed, and 
+(ii) 
+The analysis to determine the most critical speed with respect to rotor integrity 
+should consider blade shedding throughout the flight envelope. Consideration 
+should be given to the blade Failure speed taking into account the effects of 
+tolerances, temperature and material property variations of the blades together 
+with the most adverse combination of the effects of tolerances and material 
+properties on the integrity of the rotor. Consequently the most critical speed with 
+respect to rotor integrity might not be coincident with the highest achievable blade 
+shedding speed. 
+(e) 
+While considering the most adverse combination of dimensional tolerances and material 
+properties, as required in CS-E 840(a) and (d), the applicant should also consider the 
+tolerances and material properties of blades, over-speed limiter etc. adversely 
+influencing stress levels in the rotor. The material properties assumptions, including 
+material anomalies, used for lifing calculations should also be considered for the 
+purposes of this specification. 
+(f) 
+Failure conditions which are of a sudden transient nature (reference CS-E 840(a) & (d)) 
+are typified by loss of load Failures, i.e. characterised by high rates of acceleration and 
+deceleration with no dwell period at the highest over-speed attained. 
+The applicant should also examine all possible Failure conditions to determine if any case 
+exists which would result in a dwell period at speeds close to that of the transient short 
+duration Failure condition. If such a case exists, the applicant should determine which 
+condition is the most critical with respect to rotor integrity.  
+(g) 
+The appropriate percentage speed factor of CS-E 840(b) should be applied after making 
+the necessary speed adjustments for temperatures, material properties, tolerance 
+effects, etc. The necessary speed adjustments for temperature and material properties 
+will normally be established on the basis of appropriate ratios of material properties. 
+(h) 
+The consequences of rotor growth sufficient to cause significant contact or displacement 
+between Engine components should be assessed to determine that the specifications of 
+CS-E 840(d)(1) can be met. 
+(i) 
+When determining compliance with the specifications of CS-E 840(d)(2) the applicant 
+should consider whether or not the rotor would exhibit any condition that would be likely 
+to prevent the safe operation of the Engine for a period of time that could occur in service 
+following any Failure or combination of Failures considered under CS-E 840(b)(3) or (b)(4). 
+This period of time might be equal to that required to recognise the event and shut the 
+Engine down, or to that required for continued safe flight and landing. The length of time 
+might also depend upon the operational instructions for an over-speed event. 

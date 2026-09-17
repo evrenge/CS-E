@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 182 of 262 
+ 
+(1.7) Compliance of Rotorcraft Engines with Icing Conditions 
+Specific provisions for rotorcraft Engines are currently not included in this AMC. Until 
+guidance has been established, the necessary compliance method required for rotorcraft 
+Engines should be agreed by the Agency. 
+(2) 
+Supercooled Liquid Water (SLW) Icing Conditions 
+(2.1) Critical Points Analysis (CPA) 
+(a) 
+General Principle  
+A Critical Points Analysis (CPA) is one analytical approach to determine suitable 
+Engine test conditions in view of showing compliance of the Engine with 
+Certification Specifications in Supercooled Liquid Water (SLW) icing conditions 
+(including Supercooled Large Drops, if applicable).  
+Compliance evidence should include a description of the methodology and tools 
+used as part of the CPA. The validation of tools should also be addressed.  
+Whilst the CPA is primarily intended to identify whether test points should be 
+added to those defined in paragraph (2.2), the principles outlined below may also 
+be used for justifying the testing necessary for approval of ground operation in SLW 
+icing conditions. 
+Where a CPA test point is in a similar condition to a Table 1 test point, the more 
+severe of the two should be demonstrated. 
+The applicant should consider pertinent service experience as well as the 
+anticipated use of the aircraft when selecting critical icing test points.  
+Compliance with the requirements of CS-E 780 includes identifying, through 
+analysis, the critical operating test points for icing within the declared operating 
+envelope of the Engine. The CPA should relate icing conditions to the aircraft speed 
+range and Engine powers/thrusts as defined by the applicant. It should also include 
+prolonged flight operation in icing conditions (for example, in-flight hold pattern), 
+or a repetition of icing encounters. These combined elements within the CPA 
+should identify the most critical operational icing conditions: 
+(i) 
+Applicants should ensure that their analysis is supported by test data. It 
+should also include environmental and Engine operational effects on 
+accumulation, accretion locations, and the most critical Engine operating 
+conditions for ice shed and ingestion. The CPA may also be supplemented 
+with development test data (for example wet and dry testing with 
+thermocouple components).  
+(ii) 
+The CPA should include ice accretion calculations that account for freezing 
+fraction and aerodynamic effects of the ice as it moves into the air inlet. For 
+example, water ingestion into fan module and core inlets, water 
+impingement rates for critical surfaces, forward aircraft airspeed effects, 
+Engine configuration effects such as inter-compressor bleed, and altitude 
+effects such as by-pass ratio effects. The CPA should also include an energy 
+balance of critical Engine surfaces (for example, latent heat and heat of 
+fusion effects, metal-to-ice heat transfer effects, and ice-insulating effects). 
+(iii) 
+For anti-iced parts, the CPA should identify a critical test point determined 
+from energy balance calculations of required heat loads encompassing the 

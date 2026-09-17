@@ -1,0 +1,52 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 181 of 262 
+ 
+(under CS-E 20(d)). It would then finally be the responsibility of the aircraft manufacturer 
+to show that the Engine tests would still be valid for the particular air intake and Propeller, 
+taking into account: 
+—  distortion of the airflow and partial blockage of the air intake as a result of, for 
+example, incidence or ice formation on the air intake and Propeller; 
+—  the shedding into the Engine of air intake and Propeller ice of a size greater than 
+the Engine is able to ingest; 
+—  the icing of any Engine sensing devices or other subsidiary air intakes or equipment 
+contained within the Engine air intake; and 
+—  the time required to bring the protective system into full operation. 
+Apart from tests carried out under paragraph (6) of this AMC, the icing tests should be 
+carried out with all ice protection systems (IPS) operating. When dispatch is to be 
+permitted with some ice protection systems inoperative, then the tests should address 
+all configurations approved for aircraft dispatch. 
+CS-E 780(b) requires that Engine bleeds and mechanical power offtakes permitted during 
+icing conditions be set at the level assumed to be the most critical, or their effect must 
+be simulated by other acceptable means. If it is not possible to establish clearly which 
+test configuration is most critical, the test should be repeated, if necessary, in order to 
+ensure satisfactory operation in all permitted configurations. 
+(1.4) Test Configuration — Facility 
+The tests may be completed with adequately simulated icing conditions in an altitude test 
+facility capable of representing flight conditions, in flight, or under non-altitude test 
+conditions. 
+(1.5) Flight Testing 
+Flight testing is an acceptable method of demonstrating Engine operation in icing 
+conditions. Under these conditions, two important flight testing considerations are the 
+measurement of ambient meteorological data and the ability to correlate the measured 
+Engine performance to the most critical icing point.  
+In practice, it may not be feasible to test the Engine in flight under natural icing 
+conditions. However, testing in flight with simulated icing conditions could be possible 
+and is not excluded. In this case, the applicant should define an acceptable means to 
+establish and control the icing conditions. 
+(1.6) Applicable Atmospheric Icing Conditions 
+Due to the potential for inadvertent icing condition encounters, the applicable 
+atmospheric icing conditions always include the SLW conditions defined in CS-Definitions 
+Amendment 2 under ‘Icing Atmospheric Conditions’, even for aircraft not approved for 
+flight in icing conditions. The additional conditions to be addressed are dependent on the 
+conditions applicable to the air intake system of the aircraft on which the Engine is to be 
+installed. These conditions may include  ice crystal icing conditions, supercooled large 
+drop icing conditions, and falling and blowing snow conditions.  
+The test altitude need not exceed any limitations proposed for aircraft approval, provided 
+that a suitable altitude margin is demonstrated, and the altitude limitation is reflected in 
+the manuals containing instructions for installing and operating the Engine. 

@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 183 of 262 
+ 
+range of possible combinations of icing conditions and Engine power/thrust. 
+The effects of non-aerodynamic ice formations and their shedding as well as 
+runback ice shedding should be assessed.  
+(iv) 
+As part of the analysis, the CPA should also contain an assessment of the 
+assumptions and any limitations of the models used as well as their 
+validation. 
+(b) 
+Elements of the CPA  
+The CPA should address, at a minimum, the following icing issues:  
+(i) 
+Ice Shed Damage.  
+Shed ice can cause Engine damage if it impacts an Engine surface with 
+sufficient mass and velocity. The following types of damage are common, 
+and applicants should include them in their CPA with an assessment of each:  
+(A) 
+Fan Module  
+Various parts of the fan module, both non-rotating and rotating, are 
+susceptible to ice shed damage. For example, acoustic panels, fan rub 
+strips, and fan blade tips are susceptible to ice shed from air intake 
+probe(s), spinner, and fan blade roots.  
+In determining the critical conditions for fan module damage, the 
+surface temperature, exposure time and rotor speed are important 
+considerations as well as the atmospheric icing conditions and scoop 
+factor. In particular, extended operation in a holding condition in very 
+cold continuous maximum icing conditions will maximise the adhesion 
+of ice on rotating fan components. This can result in large ice 
+accretions and resulting sheds which can damage the Engine or cause 
+power/thrust loss.  
+(B) 
+Compressor Damage  
+When ice formations on static components shed, they often result in 
+damage to the next downstream rotor stage. For instance, this type 
+of damage has occurred on the first blade set in the high pressure 
+compressor (intermediate pressure compressor for three spool 
+Engines). Establishing the critical conditions for these ice accretions 
+therefore requires careful consideration as the critical condition may 
+occur at specific limited conditions of low freezing fractions over a 
+range of local Mach numbers and air densities. The critical conditions 
+may not occur during any of the power settings discussed in this AMC 
+(for example, flight-idle, 50 %, 75 % or 100 % of maximum continuous 
+power/thrust), and so the power/thrust setting at the critical 
+condition should be evaluated. Applicants should evaluate any Engine 
+compressor damage that results from ice testing against the 
+possibility of multiple occurrences, since icing is a common 
+environmental condition. 
+(ii) 
+Engine Operability.  
+The applicant should consider Engine operability as part of their CPA. Engine 
+accelerations and decelerations relative to operability challenges (for 
+example, surge and stall) should also be considered. The most adverse 

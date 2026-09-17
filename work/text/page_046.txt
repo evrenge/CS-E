@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 46 of 262 
+ 
+The room temperature demonstration is to identify any damage caused by extended 
+operation at room temperature that could lead to equipment Failure. EUROCAE ED-14 / 
+RTCA/DO-160, section 4 tests have been used to show compliance. Historical 
+specifications can also be found in MIL-E-5007 Paragraph 4.6.2.2.6. This test may be 
+combined with the contaminated fluid tests, if applicable.  
+Contaminated Fluids  
+The contaminated fluid demonstration is to verify that the Engine systems can function 
+properly in a contaminated fluid environment. This can be achieved either by system 
+testing or individual item of equipment test/analysis. Refer to the applicable CS-E 
+specifications, such as CS-E 560 for fuel, CS-E 570 for oil and CS-E 580(a) for air for more 
+details. Testing may be combined with the room temperature demonstration.  
+Vibration  
+The vibration demonstration is to verify that exposure to the declared vibration 
+environment does not cause structural Failures and to verify that the equipment 
+functions properly when exposed to that vibration. This can be addressed by either a 
+specific unbalanced Engine test or by equipment test. The equipment may not be 
+required to be operational during equipment testing if the applicant can demonstrate by 
+other means that the equipment operate satisfactorily or do not adversely impact system 
+operation when subjected to the declared vibration environment. EUROCAE ED-14 / 
+RTCA/DO-160, Section 8 tests are appropriate if the equipment vibration environment 
+can be correlated to the DO-160 standards.  
+Operational shock and crash safety  
+The operational shock demonstration is to verify that exposure to shocks experienced 
+during normal aircraft operations will allow the equipment to continue to function 
+properly. The crash safety demonstration is to verify that exposure to shocks experienced 
+in crash conditions will not cause Failure of the mounting attachment. This demonstration 
+applies to cases where separation of the equipment could lead to a Hazardous Engine 
+Effect. EUROCAE ED-14 / RTCA/DO-160, Section 7 2 and 7.3.1 tests respectively are 
+appropriate.  
+Sand and Dust  
+The sand and dust demonstration is applicable to all equipment that is not 
+environmentally sealed. Testing should be performed according to EUROCAE ED-14 / 
+RTCA/DO-160 section 12, category D.  
+Fluid Susceptibility  
+The fluid susceptibility demonstration is to verify that the equipment can function 
+properly after exposure to specified fluids and identify any damage caused by such 
+exposure that could lead to equipment Failure. Normally the fluids to be considered are 
+those likely to be encountered in service, such as fuel, oil, hydraulic fluids, cleaning 
+solvents, etc. Equipment testing may follow the procedures defined in EUROCAE ED-14 / 
+RTCA/DO-160 section 11, category F, paragraph 11.4.1 (Spray Test). At the conclusion of 
+the test, if the design of the unit allows, the unit under test should be opened and 
+inspected for entry of the test fluid. If evidence of fluid entry is detected, the applicant 
+should provide the rationale for accepting the test results based on the criticality of the 
+quantity and location of the fluid entry point.  
+Salt Spray  

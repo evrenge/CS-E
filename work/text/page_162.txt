@@ -1,0 +1,20 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 162 of 262 
+ 
+Ⓔ The derived Engine conditions are calculated by performance analyses, CFD, FEA, etc. 
+Ultimately, each of the derived Engine conditions is a function of the instrumented Engine 
+conditions.  
+𝑦𝑚 = 𝑦𝑚(𝑧1, 𝑧2, 𝑧3, 𝑧4, . . , 𝑧𝑛) 
+Therefore, while very complicated and including potentially multiple modelling 
+calculations, each of the local inputs can ultimately be written as a function of the 
+instrumented Engine conditions. 
+𝑥𝑚 = 𝑥𝑚(𝑧1, 𝑧2, 𝑧3, 𝑧4, . . , 𝑧𝑛) 
+ 
+ 
+ 

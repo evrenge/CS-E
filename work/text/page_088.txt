@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 88 of 262 
+ 
+It is acceptable to take account of aircraft-supplied equipment (fuel cut-off means, 
+etc.) to protect against the “complete inability” to shut down the Engine.  
+The inclusion of this item within the Hazardous Engine Effects should not preclude 
+hardware or software intended to protect against inadvertent Engine shutdown, 
+including aircraft logic to mitigate against the inadvertent shutdown of all engines.  
+(e) 
+Major Engine Effects 
+Compliance with CS-E 510(a)(4) can be shown if the individual Failures or combinations 
+of Failures resulting in Major Engine Effects have probabilities not greater than 10-5 per 
+Engine flight hour. No summation of probabilities of Failure modes resulting in the same 
+Major Engine Effect is required to show compliance with this rule.  
+Major Engine Effects are likely to significantly increase crew workload, or reduce the 
+safety margins. Not all the effects listed below may be applicable to all engines or 
+installation, owing to different design features, and the list is not intended to be 
+exhaustive.  
+Typically, the following may be considered as Major Engine Effects:  
+— Controlled fires (i.e., those brought under control by shutting down the Engine or by 
+onboard extinguishing systems).  
+— Case burn-through where it can be shown that there is no propagation to Hazardous 
+Engine Effects.  
+— Release of low-energy parts where it can be shown that there is no propagation to 
+Hazardous Engine Effects.  
+— Vibration levels that result in crew discomfort.  
+— Concentration of toxic products in the Engine bleed air for the cabin sufficient to 
+degrade crew performance.  
+— Thrust in the opposite direction to that commanded by the pilot, below the level 
+defined as hazardous.  
+— Loss of integrity of the load path of the Engine supporting system without actual 
+Engine separation.  
+— Generation of thrust greater than maximum rated thrust.  
+— Significant uncontrollable thrust oscillation.  
+The concentration of toxic products in the Engine bleed air may be interpreted as the 
+generation and delivery of toxic products as a result of abnormal Engine operation that 
+would incapacitate the crew or passengers, except that the products are slow-enough 
+acting and/or are readily detectable so as to be stopped by crew action prior to 
+incapacitation. Possible reductions in crew capabilities due to their exposure while acting 
+in identifying and stopping the products should be considered, if appropriate. Since these 
+concentrations are of interest to the installer, information on delivery rates and 
+concentrations of toxic products in the Engine bleed air for the cabin should be provided 
+to the installer as part of the Engine instructions for installation.  
+(f) 
+Minor Engine Effects. 
+It is generally recognised that Engine Failures involving complete loss of thrust or power 
+from the affected Engine can be expected to occur in service, and that the aircraft should 

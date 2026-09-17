@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 52 of 262 
+ 
+(f) 
+Unintentional accumulation of hazardous quantities of flammable fluid within the Engine must 
+be prevented by draining and venting. 
+(g) 
+Those features of the Engine which form part of the mounting structure or Engine attachment 
+points must be Fireproof, either by construction or by protection, unless: 
+(1)  
+This is not required for the particular aircraft installation, and in this case, this shall be 
+declared in accordance with CS-E 30; or 
+(2)  
+the Engine is a Piston Engine that fulfils the following conditions:  
+(i)  
+The Engine mounting structure must be designed to be fail-safe so that in the case 
+of a Failure of one load path, the remaining mounting structure is able to support 
+the Engine under the loads and thermal conditions as specified under paragraph 
+(ii) and (iii) below.  
+(ii)  
+Those features of the Engine that form part of the mounting structure or Engine 
+attachment points shall be at least Fire-resistant.  
+(A)  
+The mounting structure and Engine attachment points shall be able to 
+sustain the limit flight loads that are appropriate for a typical aircraft 
+installation for which the Engine is intended, including Engine thrust and 
+torque for Maximum Continuous Power, without Failure for 5 minutes under 
+the fire test conditions of AMC E 130(4).  
+This ability shall be demonstrated by analysis or by tests for all mounting 
+structures and attachment points.  
+If a test is selected, then the test shall be performed to demonstrate the 
+ability of the most critical elements of the Engine mounting system or 
+attachment points to retain the Engine under the loads specified above and 
+in accordance with the fire test conditions of AMC E 130(4).  
+(B)  
+At the end of the 5-minute period, it is assumed that the Engine will be shut 
+down. Shutdown loads shall be evaluated.  
+Under the fire conditions as specified in paragraph (ii)(A) above, the 
+mounting structure and the Engine attachment points shall be able to 
+sustain flight loads of 0.5 g/1.5 g, superimposed with the evaluated 
+shutdown loads, without Failure. This shall be demonstrated by analysis or 
+test.  
+(iii)  
+After 5 minutes of fire application according to paragraph (ii) above, and until the 
+end of 15 minutes, the Engine is assumed to be shut down. Under the fire 
+conditions of (ii)(A) above, the other remaining features of the Engine mounting 
+structure shall have sufficient static strength to withstand the maximum loads 
+expected during the remainder of the flight.  
+In the absence of a more rational analysis, a load factor of 70 per cent of 
+manoeuvre loads and (separately) 40 per cent of gust loads may be applied.  
+(iv)  
+If they are not specified, the loads referred to in paragraph (ii) and (iii) above shall 
+be considered to be ultimate loads. 
+[Amdt No: E/1] 
+[Amdt No: E/5] 

@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 228 of 262 
+ 
+(1)  
+tests and analyses, or other methods that are acceptable to the 
+Agency, substantiate that the minimum material properties of the fan 
+disk and fan blade retention system can withstand, without Failure, a 
+centrifugal load that is equal to two times the maximum load that the 
+retention system could experience within the approved Engine 
+operating limitations;  
+(2)  
+a procedure that is approved by the Agency is used to establish an 
+operating limitation that specifies the maximum allowable number of 
+start-stop stress cycles for the fan blade retention system. The life 
+evaluation should include the combined effects of high-cycle and low-
+cycle fatigue. If the operating limitation is less than 100 000 cycles, 
+this limitation should be specified in the Airworthiness Limitation 
+Section of the Instructions for Continued Airworthiness;  
+(3)  
+the effects of in-service deterioration, manufacturing variations, 
+minimum material properties, and environmental effects should be 
+accounted for during the tests and/or analyses.  
+NOTE: The fan blade retention system includes the portion of the fan blade 
+from the inner annulus flow path line inward to the blade dovetail, the 
+blade retention components, and the fan disk and fan blade 
+attachment features. 
+(ii) 
+Engine Conditions at Release. The blade should be released at either - 
+(A) 
+the maximum rotational speed to be approved (other than Maximum Engine 
+Overspeed) and the associated maximum casing temperature, or 
+(B) 
+any likely combination of the non-transient rotational speed, intake 
+temperature and casing temperature that is considered to be more critical. 
+NOTE: Any deficiency in the required casing temperature may be compensated for by 
+means of a suitable increase in the Engine speed.  
+(c) 
+Condition after Tests. On completion of the tests, a complete Engine shutdown is 
+acceptable, but there should be: 
+(i) 
+radial containment by the Engine and no significant rupture or hazardous 
+distortion of the Engine outer casing, and no unsafe condition from possible 
+internal damage to the Engine as a result of blades penetrating the rotor casings, 
+even though they are contained within the external geometry of the Engine; 
+(ii)  
+no other Hazardous Engine Effect resulting from the blade Failure, including due to 
+debris being released from the Engine, forward, rearward, or otherwise outside 
+the containment structure, unless the Hazardous Engine Effect can be shown to 
+occur at a rate not in excess of that defined as Extremely Remote (refer to AMC E 
+510).  
+Note (1): The approximate size and weight of debris released during the test, along 
+with an estimate of the trajectory and velocity, should be recorded to determine 
+whether the debris could result in a Hazardous Engine Effect. This data should be 
+documented in the Manuals required by CS-E 20(d). 
+Note (2): The above assessment is required to demonstrate that the likelihood of 
+a Hazardous Engine Effect due to blade Failure is low enough to be accepted for 
+Engine certification (i.e. Extremely Remote). Additional considerations may be 

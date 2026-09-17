@@ -1,0 +1,40 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 200 of 262 
+ 
+the Engine may have sufficient mass such that deceleration to gas 
+path velocity is not possible. At low Engine rotational speeds and high 
+flight speeds, the velocity of the large rain droplets, relative to the fan, 
+may allow that portion of the rain droplets to pass through the fan 
+without impact (refer to hail velocity vector diagram in Figure 2) and 
+could possibly result in higher water concentrations in the Engine 
+core.  
+— Hail  
+Hail particles will maintain their size and will not be significantly 
+affected by the Engine inlet flow field. Consequently, the hail particles 
+will enter the Engine at close to aeroplane speed. At low Engine 
+rotational speeds, a significant portion of the hail particles, like large 
+rain droplets, may pass through the fan without impact (see Figure 2) 
+and could possibly result in higher hail concentrations in the Engine 
+core. 
+ 
+ 
+Figure 2 Velocity Vector Diagram 
+ 
+(B) 
+Turboprop Aeroplane Engines 
+— Rain  
+When compared to a turbofan Engine, the inlet flow field effect of the 
+Propeller on droplet size and the relative velocity centrifugal effects 
+are reduced because of the lower solidity of the Propeller. Conducting 
+this type of test without the Propeller, either by using some other 
+load-absorbing device or running the gas generator alone, normally 
+results in an added degree of conservatism.  
+Unlike turbofan Engines, the Propeller rotational speed does not vary 
+significantly in flight, regardless of power setting. Thus, any beneficial 
+effect of the Propeller will remain reasonably independent of altitude 

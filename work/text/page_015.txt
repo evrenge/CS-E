@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 15 of 262 
+ 
+SUBPART A – GENERAL 
+AMC General 
+In addition to the acceptable means of compliance in Book 2 of these Certification Specifications, AMC-
+20 may also provide acceptable means of compliance to the specifications in Book 1 of this CS-E. 
+CS-E 10  Applicability 
+(a) 
+This CS-E contains airworthiness specifications for the issue of type certificates, and changes to 
+those certificates, for Engines, in accordance with Part 21. 
+(b) 
+CS-E contains the specifications for the approval for use of the Engine with a thrust reverser, if 
+fitted. If compliance is shown, the defined thrust reverser approved for use will be noted in the 
+Engine certification documentation. Otherwise, the documentation will be endorsed to indicate 
+that the use of a thrust reverser is prohibited. 
+(c) 
+The specifications of Subparts A, B and C apply to Piston Engines. Any necessary variations of 
+the specifications of Subparts B and C for Piston Engines intended for use in rotorcraft will be 
+decided in accordance with point 21.B.75 of Part 21. 
+(d) 
+The specifications of subparts A, D, E and F apply to Turbine Engines. 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/7] 
+AMC E 10(b)  Thrust Reversers 
+If a thrust reverser is declared as being part of the Engine type design under CS-E 20(a), it should 
+comply with all appropriate CS-E specifications and therefore be certificated as part of the Engine. 
+However, the thrust reverser itself is, in addition, required to comply with the relevant aircraft 
+specifications during the certification of the aircraft.  
+The intent of CS-E specifications is to give sufficient confidence that the use of the thrust reverser, 
+where this is permitted, has no detrimental effects on the Engine itself, such as flutter in a fan, 
+excessive vibrations or loads induced in the Engine carcass, etc. 
+This is addressed mainly under CS-E 500, CS-E 650, and CS-E 890. 
+If the Engine is intended to be used with a thrust reverser which is not included in the Engine type 
+design, these CS-E specifications should nevertheless be addressed for approval of the use of the 
+Engine with this thrust reverser. If this is not done, then the Engine certification documentation is 
+endorsed so that the use of the thrust reverser is prohibited. 
+If CS-E is complied with by the Engine / thrust reverser combination, the Engine data sheet would 
+contain a note to the effect that the Engine may be used with the specified thrust reverser. 
+(a)  
+If a thrust reverser is declared as being part of the Engine type design under CS-E 20(a), it must 
+comply with all appropriate CS-E specifications and therefore be certificated as part of the 
+Engine. 
+(b)  
+If the Engine is intended to be used with a thrust reverser which is not included in the Engine 
+type design, these CS-E specifications must nevertheless be addressed for the approval of the 
+use of the Engine with a thrust reverser. The thrust reverser definition must then be included 
+in the Manuals required by CS-E 20(d). This may be a reference to the specific thrust reverser 

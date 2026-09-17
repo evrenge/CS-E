@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 76 of 262 
+ 
+(d) 
+Water Spray Conditions. The spray must be arranged to deliver water in a manner 
+representative of very heavy rain over the whole frontal area of the Engine including cowling, 
+air intakes, etc., but not necessarily the Propeller tips, throughout the full running time. The 
+rate of delivery, R, must be assessed from the formula – 
+R = 12∙2F litres/min 
+where F, in m2, is frontal area of nacelle. 
+CS-E 440  Endurance Test 
+(a) 
+(1) 
+The test must be made in the order defined in the appropriate schedule and in suitable 
+non-stop parts. In the event of a stop occurring during any part, the part must be 
+repeated unless it is agreed to be unnecessary. The complete test may need to be 
+repeated if an excessive number of stops occur. 
+(2) 
+The whole of the endurance test must be run with the oil pressure set to give the declared 
+normal operating pressure at Maximum Continuous conditions except that one hour at 
+Take-off conditions and nine hours at Maximum Continuous must be run with the 
+pressure set to give the declared minimum for completion of the flight at Maximum 
+Continuous conditions. The test conditions may be revised, if necessary, to avoid having 
+to stop the Engine during particular parts in order to reset the oil pressure. 
+(3) 
+Where the operating conditions are prescribed in terms of a percentage of Maximum 
+Continuous Power, the crankshaft rotational speed, power setting and mixture setting (if 
+applicable) mixture setting (if applicable) must be appropriate to the simulation of the 
+most severe cruising conditions at this power. Where in such cases the power setting is 
+not greater than that for Maximum Best Economy Cruising Power Conditions, the mixture 
+setting (if applicable) mixture setting (if applicable) must be compatible with the power 
+setting. 
+(4) 
+Throughout each part of the endurance test, the crankshaft rotational speed and power 
+setting must be maintained at, or as near as possible to, the declared maximum values 
+appropriate to the Engine operating conditions prescribed. A repeat of the run might be 
+required if, for any reason, the observed crankshaft rotational speed and power setting 
+deviate by more than ± 1.5% from the declared maximum values. 
+(5) 
+Propellers. A representative flight Propeller must be used during this test.  
+(i) 
+Variable Pitch Propellers. The blade setting of the Propeller need not be set 
+precisely as for flight conditions. If, however, the blade setting does not allow the 
+conditions, detailed in the test schedule agreed for the particular Engine, to be 
+achieved, the limitations approved for the Engine will be based on the conditions 
+at which the test is run.  
+(ii) 
+Fixed Pitch Propellers. A sufficient number of Propellers, agreed prior to the 
+commencement of the tests, must be used for reasonable approximations to the 
+various power ratings to be made. The number normally acceptable is two, for 
+instance, one primarily suited to Maximum Best Economy Cruising Power 
+Conditions, and the other primarily suited to Maximum Continuous or Take-off 
+conditions.  
+(iii) 
+Limitations not Simultaneously Attainable. If a fixed pitch Propeller is fitted for the 
+tests, the Engine must be operated at the maximum power setting or maximum 

@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 246 of 262 
+ 
+(3) 
+‘Initial maintenance inspection (IMI) intervals’. An IMP approach for maintenance tasks 
+based on hard time policy (i.e. maximum hours or cycles that an Engine or Engine module 
+should be operated before a maintenance task is performed). 
+(4) 
+‘Engine overhaul’. The process to disassemble, clean, inspect, repair or replace (as 
+necessary), reassemble and test for return-to-service approval within the manufacturer’s 
+overhaul data specifications. This process relates to the periodic disassembly of the entire 
+Engine, or modules when applicable, rather than maintenance of individual parts or 
+assemblies. 
+(b) 
+Purpose of the IMP test 
+The primary purpose of the IMP test run is to demonstrate sufficient Engine reliability and 
+support the establishment of the entry-into-service (EIS) IMP for that type design. Therefore, 
+this AMC provides guidance and acceptable means of compliance on: 
+(1) 
+test methods and procedures, 
+(2) 
+test pass/fail criteria, 
+(3) 
+EIS IMP requirements or recommendations. 
+ 
+(c) 
+Applicability to changes to type certificate 
+Following the initial demonstration of compliance with CS-E 930, Minor design changes do not 
+require a new demonstration of compliance with CS-E 930. 
+For Major design changes (following the initial demonstration of compliance with CS-E 930), the 
+applicant should assess the impact on the validity of the previously established IMP. The 
+applicant should either substantiate the previous IMP or propose means to substantiate a 
+change to the IMP. Such means may include analysis, testing or a combination of both. A full 
+test to redemonstrate compliance with CS-E 930 may not be required. 
+When assessing the IMP’s validity, the applicant should evaluate the impact of the change on 
+the Engine design factors and Engine system dynamics. 
+Engine design factors include, but are not limited to: mechanical size and stiffness, static 
+structure, dynamics of Engine, bearing arrangement, number of structural frames, arrangement 
+of mounting to aircraft, number of compression and turbine stages, size and diameter of the 
+fan, changes to Engine control system architecture (e.g. supervisory to full authority type, or 
+analogue to digital), changes to installation (e.g. service bleed and power extraction) and new 
+technology (e.g. design, materials or manufacturing processes), to the extent that these factors 
+contribute to the system dynamics of the Engine.  
+System dynamics of the Engine are the vibratory response signature (system critical frequencies 
+and amplitudes). These can be a function of Engine mass and stiffness, rotor speeds, and Engine 
+or aircraft mount and strut mass and stiffness. 
+ 
+(d) 
+IMP test 
+(1) 
+IMP test cycle assessment 
+(i) 
+General 
+The applicant should provide an assessment of expected service operating 
+conditions as part of the test plan. In this assessment, the applicant should show 
+that the proposed test cycle represents the expected in-service engine flight cycles, 
+including: 
+— 
+established power/thrust ratings, 

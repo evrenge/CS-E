@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 75 of 262 
+ 
+limitations. Each acceleration with a supercharger in high gear shall be made from ambient 
+conditions. 
+CS-E 400  Over-speed Tests 
+(a) 
+The tests of (1) and (2) shall be completed during or at the end of the endurance test of CS-E 
+440.  
+(1) 
+All Engines, except two-speed supercharged Engines. 20 runs, each of 30 seconds 
+duration, at the declared Maximum Engine Over-speed or at a speed 5% in excess of the 
+declared maximum Engine rotational speed, whichever is greater. The power setting for 
+these runs shall not be less than that declared for the Maximum Continuous rating. 
+(2) 
+Two-speed Supercharged Engines. 20 runs, each of 30 seconds duration, at the declared 
+Maximum Engine Over-speed or at a speed 5% in excess of the declared maximum Engine 
+rotational speed, whichever is the greater, 10 with the supercharger in low gear and 10 
+with the supercharger in high gear. The power setting for these runs shall not be less than 
+that declared for the Maximum Continuous rating. 
+(b) 
+A further test consisting of a total of 10-minutes run in stages of not less than one minute shall 
+be made at the declared Maximum Over-speed or at a speed not less than 5% in excess of the 
+declared maximum Engine rotational speed, whichever is greater. The power for this test shall 
+be not greater than 30% Take-off Power. The oil inlet temperature shall be within 30°C of the 
+declared maximum temperature for take-off. This test may be run on a dynamometer. 
+CS-E 430  Water Spray Tests 
+(a) 
+Installation Conditions. With the Engine suitably cowled or shielded to be fully representative 
+of an installed Engine, a water spray must be applied throughout three periods of running.  
+(b) 
+Running Conditions. Each period of running must comprise –  
+— Start  
+— Warm up  
+— Ignition checks  
+— 5 minutes at Take-off Power  
+— 15 minutes at Maximum Continuous Power  
+— 15 minutes at Maximum Best Economy Cruising Power  
+— 25 minutes at 60% of Maximum Continuous Power at 75% of Maximum Best Economy 
+Cruising crankshaft rotational speed  
+— Ignition check and accelerations.  
+Two-speed supercharged Engines must run the whole test in low gear.  
+(c) 
+Interval Conditions. An interval of 24 hours must be allowed after each period of running. No 
+adjustment or artificial drying-off must be undertaken from the commencement of the test and, 
+when not running, the Engine must be completely covered in a manner which will fully promote 
+moisture penetration. At the conclusion of the third cycle of running and standing, the Engine 
+must be subjected to 5 minutes running at Take-off Power without the water spray.  

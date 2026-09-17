@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 189 of 262 
+ 
+(viii)  Engine control sensors and measurement systems which may be affected by 
+operation in ice crystal conditions and which may result in unacceptable 
+control system response; 
+(ix)  
+negative air temperature gradient along the gas path resulting in a potential 
+accretion site downstream of melting; and 
+(x)  
+surfaces with low temperatures downstream of or coincident with where 
+melting could have occurred. 
+(b) 
+Comparative Analysis. If service experience of comparable Engine design(s) is available, 
+the applicant should perform a comparative analysis between previous designs and the 
+new design in mixed phase/ice crystal icing conditions. The analysis should compare both 
+design features and operational factors. 
+Where the analysis under paragraph (a) above identifies potential for ice accretion due 
+to design features, the applicant should conduct an analysis to review the service 
+experience of the comparable Engine design(s) in order to identify any evidence 
+indicating susceptibility to ice crystal/mixed phase accretion. 
+The applicant may demonstrate that the identified potential susceptibility to ice accretion 
+is acceptable based on the good service experience demonstrated on comparable Engine 
+design. Good service experience means the absence of any event involving Engine 
+malfunction or unacceptable damage caused by ice crystal or mixed-phase conditions. To 
+validate the credit from the comparable Engine design, the applicant should demonstrate 
+that the design feature on the new design is similar in all pertinent aspects.  
+When the comparable Engine design has experienced field events determined to have 
+been caused by mixed-phase or ice crystal icing conditions, the analysis should show that 
+measures have been taken on the new design to address these field events and result in 
+acceptable Engine operation. Acceptable operation includes the absence of rollback, 
+rundown, stall, flameout, and unacceptable compressor blade damage.  
+(c) 
+Novel Design Features. Where the analysis under paragraph (a) above identifies potential 
+for ice accretion due to novel design features for which a comparative analysis cannot be 
+performed, additional tests should be made to establish satisfactory operation. 
+(4) 
+Ice Ingestion 
+(a) 
+Intent of Ice Slab Ingestion Test  
+The intent of the ice slab ingestion test required by CS-E 780(f) is to demonstrate 
+tolerance to ice ingestion from ice shedding from nacelle surfaces. In addition, it also 
+establishes limits for ice released from other aircraft surfaces in the frame of CS-23 or CS-
+25 certification.  
+The minimum ice slab dimensions for the ice slab ingestion test are provided in Table 3 
+below. The dimensions are related to Engine size (defined by inlet highlight area), based 
+on service experience. The applicant should determine the ice slab dimensions by linear 
+interpolation between the values of Table 3, based on the actual Engine’s inlet highlight 
+area. 
+Table 3 — Minimum ice slab dimensions based on Engine inlet size 
+Engine Inlet Highlight 
+Area (inch²/m²) 
+Thickness (inch/mm) 
+Width (inch/cm) 
+Length (inch/cm) 
+0/0 
+0.25/6.35 
+0/0 
+3.6/9.144 

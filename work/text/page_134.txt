@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 134 of 262 
+ 
+(i) 
+If the applicant uses an endurance test as per CS-E 740(c)(1), (2) or (3), run Stages 
+3, 7, 13, 17 and 23 with the bleed(s) in operation during all the conditions of 
+running for which they are intended to be approved for use. 
+ 
+If the applicant uses an alternate endurance test as per CS-E 740(c)(4), which does 
+not have prescribed test stages, the bleed(s) must be in operation for one fifth of 
+the test during all the conditions of running for which they are intended to be 
+approved for use. 
+(ii) 
+During the four test sequences of CS-E 740(c)(3)(iii), an air bleed extraction need 
+not be used where it is shown that the validity of the test is not compromised. 
+(b) 
+Contamination Tests of Bleed Air for Cabin Pressurisation or Ventilation. The specifications of 
+this paragraph (b) are applicable where it is desired to declare that compressor bleed air is 
+suitable for direct use in an aircraft cabin pressurisation or ventilation system.  
+(1) 
+Tests to determine the purity of the air supply must be made. 
+(2) 
+An analysis of defects which could affect the purity of the bleed air must be prepared and 
+where necessary the defects must be simulated and tests, as agreed by the Agency, must 
+be made to establish the degree of contamination which is likely to occur. If the defect 
+under consideration is such that the Engine would be shut down immediately, the tests 
+required may be modified accordingly. 
+[Amdt. No.: E/1] 
+[Amdt No: E/8] 
+AMC E 690 Engine bleed 
+For reducing test complexity, and for improved flexibility needed to attain the key parameters (speed, 
+temperature and torque) during the 2-hour test of CS-E 740(c)(3)(iii), maximum air bleed for Engine 
+and aircraft services need not be used if the applicant can show by test or analysis based on test that 
+the Engine’s ability to meet the strip examination specifications of CS-E 740(i)(2) is not enhanced. The 
+analysis should include: 
+— the effect of the bleed air extraction to the Engine’s secondary air system which provides cooling 
+air to various Engine components;  
+— the thermodynamic cycle effects of bleed (e.g., gas generator speed to output shaft speed 
+changes). 
+[Amdt. No.: E/1] 
+[Amdt No: E/8] 
+CS-E 700 Excess Operating Conditions 
+(See AMC E 700) 
+Where any of the operating conditions (e.g. air or gas pressure, thrust, gas temperature) substantiated 
+elsewhere in this subpart could be exceeded in any of the normal and likely emergency conditions 
+within the flight envelope declared by the Engine constructor, it must be established to the satisfaction 
+of the Agency that the most severe conditions likely to occur will have no unacceptable effects on the 
+Engine. 
+[Amdt. No.: E/1] 

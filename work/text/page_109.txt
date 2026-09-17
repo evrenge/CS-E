@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 109 of 262 
+ 
+AMC E 525 Continued rotation 
+(1) 
+Continued rotation can be either due to windmilling or due to mechanical effects such as clutch 
+drag in the case of a multi-engined rotorcraft. Compliance with this specification may be 
+established by test or analysis and should take into account the conditions imposed on the 
+Engine by a typical aircraft installation. 
+(2) 
+The conditions imposed on the Engine after in flight shutdown and their maximum duration 
+should include consideration of all expected aircraft applications for the Engine, e.g. rotorcraft, 
+turbopropeller, subsonic aircraft and supersonic aircraft. 
+(3) 
+Conditions that should be considered and addressed, if determined to be applicable, should 
+include, but are not limited to, those identified below: 
+— Complete loss of Engine oil,  
+— Rotor unbalance resulting from blade loss and subsequent rotor damage.  
+Consideration should be given to extended periods of continued rotation under these 
+conditions in conjunction with the assumed flight envelope with one Engine shut down, 
+including, where applicable, supersonic and supersonic to subsonic transition flight conditions.  
+(4) 
+The conditions imposed at the Engine-to-aircraft interface as a result of the rotor unbalance 
+and rotational speed associated with continued rotation of an Engine following an Engine blade 
+loss and subsequent rotor damage should be determined by analysis or test or both by the 
+applicant as required by CS-E 520(c)(2), covering the entire flight envelope, and be provided in 
+the installation documents required by CS-E 20. 
+[Amdt. No.: E/1] 
+CS-E 540 Strike and Ingestion of Foreign Matter 
+(See AMC E 540) 
+(a) 
+The Engine must be designed so that the strike and ingestion of foreign matter that is likely to 
+affect only one Engine in any one flight will not cause any Hazardous Engine Effects as defined 
+in CS-E 510(g), except that events with a probability of occurrence lower than Extremely Remote 
+need not be considered.  
+(b) 
+The Engine must be designed so that the strike and ingestion of foreign matter that is likely to 
+affect more than one Engine in any one flight will not preclude the continued safe flight and 
+landing of the aircraft as a consequence of a Hazardous Engine Effect or an unacceptable 
+(1) 
+Immediate or subsequent loss of performance; 
+(2) 
+Deterioration of Engine handling characteristics; 
+(3) 
+Exceedence of any Engine operating limitation. 
+[Amdt. No.: E/1] 
+AMC E 540 Strike and ingestion of foreign matter 
+(1) 
+When complying with CS-E 540(a), the substantiation of the strike and ingestion effects of 
+foreign objects such as cleaning cloths, hand tools, rivets, bolts and screws needs only to be 
+carried out if these are likely to be more severe than those of the single large bird strike / 
+ingestion. 

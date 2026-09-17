@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 94 of 262 
+ 
+ 
+The major elements of the analysis are:  
+(i) 
+Operating conditions. 
+For the purposes of certification, an appropriate flight profile or combination of 
+profiles and the expected range of ambient conditions and operational variations 
+will determine the predicted service environment. The Engine Flight Cycle should 
+include the various flight segments such as start, idle, takeoff, climb, cruise, 
+approach, landing, reverse and shutdown. The assumed hold times at the various 
+flight segments should correspond to the assumed limiting installation variables 
+(aircraft weight, climb rates, etc.). For Rotorcraft turbine Engines, the 
+representative usage of the 30-minute Power rating should be considered in the 
+Engine Flight Cycle when establishing the Approved Life of each Engine critical part. 
+A maximum severity cycle that is known to be conservative may be used as an 
+alternative.  
+The corresponding rotor speeds, internal pressures, and temperatures during each 
+flight segment should be adjusted to account for Engine performance variation due 
+to production tolerances and installation trim procedures, as well as Engine 
+deterioration that can be expected between heavy maintenance intervals. The 
+range of ambient temperature and take-off altitude conditions encountered during 
+the Engines’ service life as well as the impact of cold and hot Engine starts should 
+also be considered.  
+The appropriateness of the Engine Flight Cycle should be validated and maintained 
+over the lifetime of the design. The extent of the validation is dependent upon the 
+approach taken in the development of the Engine Flight Cycle. For example, a 
+conservative flight cycle where all the variables are placed at the most life-
+damaging value would require minimum validation, whereas a flight cycle which 
+more accurately represents some portion of the actual flight profile but is 
+inherently less conservative, would require more extensive validation. Further 
+refinements may be applied when significant field operation data is gathered.  
+(ii) 
+Thermal analysis.  
+Analytical and empirical engineering processes are applied to determine the 
+Engine internal environment (temperatures, pressures, flows, etc.) from which the 
+component steady-state and transient temperatures are determined for the 
+Engine Flight Cycle. The Engine internal environment and the component 
+temperatures should be correlated and verified experimentally during Engine 
+development testing.  
+(iii) 
+Stress analysis.  
+The stress determination is used to identify the limiting locations such as bores, 
+holes, changes in section, welds or attachment slots, and the limiting loading 
+conditions. Analytical and empirical engineering processes are applied to 
+determine the stress distribution for each part. The analyses evaluate the effects 
+on part stress of Engine speed, pressure, part temperature and thermal gradients 
+at many discrete Engine cycle conditions. From this, the part’s cyclic stress history 
+is constructed. All methods of stress analysis should be validated by experimental 
+measurements.  

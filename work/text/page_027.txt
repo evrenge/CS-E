@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 27 of 262 
+ 
+ 
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+[Amdt No: E/8] 
+CS-E 30  Assumptions 
+(See AMC E 30) 
+(a) 
+In the course of establishing compliance with CS-E certain assumptions have to be made 
+concerning the conditions that may be imposed on the Engine when it is eventually installed in 
+the aircraft. In order that the validity of the conditions assumed in the Engine certification may 
+be assessed for any particular installation, prior to Engine certification, the details of the 
+assumptions made must be submitted. These assumptions must be included in the Engine 
+instructions for installation required under CS-E 20(d). 
+(b) 
+Where an Engine system relies on components which are not part of the Engine type design, 
+the interface conditions and reliability specifications for those components upon which the 
+Engine certification is based must be specified in the Engine instructions for installation directly 
+or by reference to appropriate documentation. 
+[Amdt No: E/1] 
+AMC E 30  Assumptions 
+The details required by CS-E 30 concerning assumptions should normally include information on, at 
+least, the items listed in Table 1. 
+TABLE 1  
+Specifications/References  
+Assumptions  
+ALL ENGINES 
+Interfaces  
+CS-E 20  
+Applicable aircraft specifications.  
+Flight and ground loads.  
+Aircraft components and equipment not included in the Engine definition. 
+Attitudes.  
+Negative g duration.  
+Physical and functional interfaces with the aircraft Mount flexibility. 
+Engine Control System 
+CS-E 50  
+Type of aircraft installation.  
+Conditions on the interfaces with the aircraft or the Propeller 
+Environmental Conditions.  
+Instrumentation 
+CS-E 60  
+Instrumentation required and statement of accuracy. For engines with 30-
+Second / 2-Minute OEI ratings, conditions imposed on the usage recording 
+system. 
+Strength  
+CS-E 100  
+CS-E 520, CS-E 640  
+Ultimate and limit loads;  
+– out-of-balance loads, 
+– operating envelope.  
+Fire precautions 
+CS-E 130 
+Reliance placed on the installation of fire-zone partitioning for any part of the 
+mounting structure or Engine attachment points that are not Fireproof. 
+Electrical Bonding 
+CS-E 135 
+Reliance placed on aircraft provisions for electrical bonding of the Engine.  

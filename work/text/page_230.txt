@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 230 of 262 
+ 
+(2) 
+A power turbine rotational speed equal to the highest speed at which the Maximum 
+Engine Over-torque can occur in service, but not more than the limit speed of Take-off or 
+OEI ratings of a duration longer than 2 minutes. 
+(3) 
+For Engines incorporating a reduction gearbox, a gearbox oil temperature equal to the 
+maximum temperature at which the Maximum Engine Over-torque could occur in 
+service; for other Engines, an oil temperature within the normal operating range. 
+(4) 
+A turbine entry gas temperature equal to the maximum steady state temperature to be 
+approved for use during periods longer than 20 seconds when operating at conditions 
+not associated with 30-Second or 2-Minute OEI Power Ratings, unless it can be shown 
+that other testing provides substantiation of the temperature effects when considered in 
+combination with the other parameters identified in CS-E 820(b)(1), (b)(2) and (b)(3). 
+[Amdt No: E/1] 
+AMC E 820(a)(2) Over-torque Test 
+In order to comply with CS-E 820(a)(2), it should be shown that an over-torque event does not 
+compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power. 
+[Amdt No: E/1] 
+CS-E 830 Maximum Engine Over-speed 
+(a) 
+If approval of a Maximum Engine Over-speed is sought for a rotating system of the Engine, a 
+test must be undertaken on a complete Engine. Alternatively, test evidence from an Engine of 
+similar design may be provided. 
+(b) 
+The test conditions must be as follows: 
+(1) 
+A total of 15 minutes run at the Maximum Engine Over-speed to be approved. This may 
+be done in separate runs, each being of at least 2.5 minutes duration. 
+(2) 
+A turbine-entry gas temperature equal to the maximum steady state temperature to be 
+approved for use during periods longer than 20 seconds and not associated with 30-
+Second or 2-Minute OEI Power Ratings. However, for the shaft system to be approved, if 
+the maximum over-speed cannot occur at the maximum turbine-entry temperature, the 
+highest temperature which could occur at the conditions of Maximum Engine Over-speed 
+must be used. 
+(3) 
+The declared maximum operating oil temperature. 
+(c) 
+On conclusion of such tests, the stripped condition of the Engine must be satisfactory for 
+continued running. (See AMC E 830(c)) 
+(d) 
+The test may be run, if desired, as part of the endurance test of CS-E 740 provided the conditions 
+of CS-E 830(b) are satisfied. 
+[Amdt No: E/1] 
+AMC E 830(c) Maximum Engine Over-speed 
+In order to comply with CS-E 830(c), it should be shown that an over-speed event does not 
+compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power. 

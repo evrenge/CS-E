@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 251 of 262 
+ 
+(A) 
+Borescope Inspection 
+The applicant should fully borescope-inspect all accessible gas path stages 
+or areas of the fan, compressor, combustor and turbine modules, to the 
+serviceable limits of the ICA. 
+(B) 
+System Fault and Status Message Interrogation 
+The applicant should evaluate all system fault and status messages for 
+electronic-control-equipped Engines. The applicant should include both 
+current and previously recorded messages, to the serviceable limits of the 
+ICA. 
+(C) 
+Oil System Chip Detector and Filter Inspection 
+The applicant should inspect all oil system chip detectors and filters for 
+contaminants. 
+(D) 
+Fuel System Filter Inspection 
+The applicant should inspect all fuel system filters for contaminants. 
+(E) 
+Main Engine Oil Sample Test 
+The applicant should test the Engine oil (e.g. spectrographic analysis) for 
+contaminants that might indicate impending internal failure. 
+(F) 
+Visual Inspection 
+The applicant should perform a complete visual inspection of the inlet, 
+exhaust and externals to the serviceable limits of the ICA. The Engine should 
+be serviceable. 
+(G) 
+Power Calibration 
+The applicant should demonstrate that the Engine can produce rated thrust 
+or power at a sea-level, hot-day corner point condition within approved 
+limits. 
+(e) 
+Fixed Engine Overhaul Period 
+A simplified IMP may consist of a fixed Engine overhaul period. If this approach is selected, the 
+applicant should: 
+— perform the Engine test of CS-E 930 described in paragraph (d) of this AMC; 
+— substantiate the fixed Engine overhaul period from the test results as per 
+paragraph (d)(5)(iii). 
+ 
+[Amdt No: E/8] 
+ 

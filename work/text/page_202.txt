@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 202 of 262 
+ 
+concentration from Appendix A values to 4 percent water droplet flow to airflow, by 
+weight, will usually compensate for any flight effects. 
+(e) 
+Turbine Engine Operability Effects 
+As stated previously, rain and hail ingested into a turbine Engine can be at greater than 
+ambient concentrations in the Engine at certain combinations of flight speed and Engine 
+power/thrust condition. Ingestion of rain or hail through the Engine core can produce a 
+number of Engine operational anomalies including compressor surge, power/thrust loss 
+and flameout. These operational anomalies are partly a result of the changes in the 
+thermodynamic cycle of the turbine Engine because of the presence of water as a result 
+of ingesting rain or hail. 
+(i) 
+Compressor rematch 
+The presence of rain or hail particles or water from melted hail in the gas path 
+causes the compressor to assume new operating conditions. The net overall effect 
+may result in an increase in compressor operating line, with a corresponding 
+decrease in compressor surge and stall margins.  
+(ii) 
+Engine control response (Refer to Figure 3) 
+The fuel control steady state operating line will move upward toward the 
+acceleration schedule as the amount of ingested rain or hail increases (see 
+Figure 3). A higher operating line means that more fuel is required to sustain 
+steady-state operation. When the operating line coincides with the acceleration 
+schedule, the fuel control may be unable to deliver additional fuel to accommodate 
+the increasing rain or hail ingestion. Under this condition, the Engine may rundown 
+and could result in sub-idle Engine operation, a loss of throttle response, or 
+flameout.  
+(iii)  
+Combustor response  
+The evaporation, in the combustor, of the liquid water resulting from the ingestion 
+of rain or hail will cause a reduction in combustor flame temperature and will 
+adversely affect combustor performance. The reduced temperature will result in 
+slowing of the chemical reaction rate and inhibit complete combustion. This results 
+in reductions in combustor efficiency and stability. Typically, the combustor is most 
+susceptible to flameout when it is required to operate at a sub-idle operating 
+condition. Therefore, a flameout condition may be preceded by Engine rundown 
+as discussed previously in paragraph (2)(e)(ii) of this AMC.  
+(f) 
+Case Contraction 
+As rain or hail is ingested into any turbine Engine, the temperature of the compressor 
+case may decrease at a faster rate than the compressor rotor. This would result in a 
+reduction in compressor blade tip clearances and may result in blade tip rubs. Turbine 
+Engine types, such as turbojets, that have a significant scoop factor effect but lack design 
+features to direct rain or hail away from the Engine core (e.g. fan blades, bypass splitter, 
+etc.) may be more susceptible to damage resulting from case contraction.  
+(3) 
+Design Factors 
+(a) 
+General 
+The response of a turbine Engine to a rain or hail encounter depends on a number of 
+design and operational factors. The manufacturer can greatly improve the operability of 

@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 203 of 262 
+ 
+the Engine during an extreme rain or hail encounter by incorporating certain design 
+features. However, there may be a trade-off with some of these design features. For 
+instance, a spinner designed to maximise hail rebound and rain droplet centrifuging may 
+also result in a spinner which is more susceptible to large ice accretions. 
+(b) 
+Design Features 
+With knowledge of the power-loss and instability phenomena, the applicant can 
+incorporate design features that increase the Engine's tolerance to rain and hail 
+ingestion. 
+(i) 
+Fan blade or Propeller design and operating speeds. 
+The fan blade or Propeller, under the right conditions, can effectively centrifuge 
+small droplets of rain away from the Engine core. Hail particles and large droplets 
+of rain can also be moved away from the Engine core by the fan blade or Propeller, 
+but with considerably less effectiveness. The applicant should consider the relative 
+velocity effects at the critical points when establishing fan blade or Propeller 
+geometry and operating speeds.  
+(ii) 
+Spinner or nose cone 
+A spinner or nose cone can effectively deflect rain and hail away from the Engine 
+core. Designing the spinner or nose cone to maximise hail deflection requires 
+knowledge of the post impact trajectory characteristics of hail particles.  
+(iii)  
+Bypass splitter  
+In the case of turbofan Engines, increasing the gap between the fan blades' trailing 
+edges and the bypass splitter will normally tend to enhance the benefits, to the 
+Engine core, of the centrifugal effects of the fan blades.  
+(iv) 
+Engine air bleeds 
+Engine air bleeds ports provide a direct means of redirecting or extracting rain and 
+hail away from the Engine core and a direct means of improving compressor surge 
+and stall margins. The effectiveness of the bleed port in extracting liquid water or 
+hail particles out of the Engine core will depend on the radial distribution of the 
+water or hail particles, the location and the entrance geometry of the bleed port 
+and the bleed control logic. Also, in the case of hail, the bleed port should be 
+designed to minimise the likelihood of clogging and blockage.  
+(v) 
+Engine and aircraft accessory loads 
+Accessory loads will tend to move the fuel control operating line closer to the 
+acceleration schedule and, therefore, should be minimised, where possible, while 
+in rain and hail conditions.  
+(vi) 
+Fuel control 
+Fuel controls that schedule fuel using a rate change of compressor speed should 
+provide consistent acceleration and deceleration thrust response during rain or 
+hail ingestion.  
+(vii) 
+Variable stator vane 
+The schedule of the compressor variable stator vanes directly affects the 
+compressor performance, operability and stability characteristics. Weather-
+related sensing or scheduling errors may cause a loss of surge or stall margin.  

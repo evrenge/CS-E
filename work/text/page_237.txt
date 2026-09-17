@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 237 of 262 
+ 
+(b) 
+Clarification of the terms and probabilities used in CS-E 850 may be found in CS-E 510. 
+The possible shedding of blades is also covered in CS-E 810(b). 
+(2) 
+Non-Hazardous Shaft Failures 
+(a) 
+Where it is claimed that Hazardous Engine Effects are avoided by ensuring that rotating 
+components are retained substantially in their normal plane of rotation and the control 
+of overspeed is by means of: 
+— disc rubbing;  
+— blade interference, spragging or shedding;  
+— Engine surge or stall;  
+— over-speed protection devices, 
+this may be substantiated by either test or validated analysis.  
+(b) 
+If an applicant elects to demonstrate by test that the consequences of a shaft Failure are 
+non-hazardous, then the test should be performed by initiating the shaft Failure under 
+the worst-case operating conditions within the flight envelope, in any dispatchable 
+configuration, that will maximise the rotor over-speed and the subsequent effects. If it is 
+impractical to fully duplicate the worst-case conditions, an applicant may propose a test 
+under suitably representative conditions to account for the worst case. Those test 
+conditions would need to be submitted to the Agency for acceptance. In addition to the 
+initial rotor speed, other aspects should also be taken into consideration, such as the 
+shaft torque and the relevant Engine pressures and temperatures. Failures that are 
+predicted to occur with a probability of Extremely Remote or less do not need to be taken 
+into account if they meet all the requirements of CS-E 850(b)(2). 
+ If compliance is not shown by a full Engine test, but instead by a system or component 
+rig test(s), it should be shown that the test(s) is (are) sufficiently representative, in terms 
+of the key characteristics of the shaft Failure and its consequences on all the relevant 
+Engine parts and on the behaviour of subsystems, of the way the Failure would occur on 
+a full Engine. 
+(c) 
+ If an applicant elects to demonstrate by validated analysis that the consequences of a 
+shaft Failure are non-hazardous, it should be shown that all the likely Failure modes have 
+been identified in the analysis (including the loss of loads caused by a Failure of any 
+gearboxes supplied by the aircraft manufacturer). The Failure analysis should take into 
+consideration the effect of Failures in terms of contact and the loads on the surrounding 
+structure of the Engine and determine whether the affected rotor components are 
+retained substantially in their rotational plane. It should also demonstrate that the 
+structural components, when the loads resulting from the Failure are applied, do not 
+exceed their ultimate stress capability and not to lead to a Hazardous Engine Effect.  
+ The analysis should be validated against an actual Engine, system or component rig test(s) 
+and/or service events, and it should show a sufficient degree of similarity with the Engine 
+model for which compliance is sought. This similarity should encompass all the relevant 
+aspects of the Failure mechanism and its consequences, such as but not limited to 
+aerodynamics, surge characteristics, engine control logic, rotor speeds and the associated 
+acceleration characteristics, relevant rotor and stator design features, materials, 
+clearances, etc., and should be submitted to the Agency for acceptance. 
+(3) 
+Hazardous Shaft Failures 

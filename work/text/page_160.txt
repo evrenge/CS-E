@@ -1,0 +1,39 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 160 of 262 
+ 
+ 
+ 
+Figure 8.2. EGT method overview. 
+ 
+ 
+Abbreviations  
+Calc.  
+calculation 
+End.:   
+endurance 
+NH:   
+core rotor speed 
+ 
+(c) 
+Explanation of the detailed flow charts 
+The flow charts represent the process used to calculate a severity level for a particular 
+cumulative damage mechanism affecting a particular Engine part/component during an 
+endurance test.  
+The severity calculation process will be performed for the alternate test, using the 
+recorded test data, to give the ‘actual severity’ level achieved (Figure 8.5). The severity 
+calculation process will also be performed for a theoretical test of the same component 
+but completed to the classic endurance test requirements, using a combination of data 
+taken from a production Engine simulation and assumed OL speeds, to give the target 
+levels required: the ‘idealised severity’ (Figure 8.3). While the processes appear similar, 
+the inputs are actually different, and therefore separate flow charts are provided for 
+each. Also included is a ‘plan severity’ flow chart, which would be used prior to 
+commencement of an Engine test to establish an accurate test plan (Figure 8.4). Thus, 
+three separate calculation processes are envisaged, each represented by a separate flow 
+chart: the calculation of the Engine target/idealised test severity level, the calculation of 
+the planned test severity level and the calculation of the actual test severity level. 

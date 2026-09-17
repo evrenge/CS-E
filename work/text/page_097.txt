@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 97 of 262 
+ 
+Probabilistic damage tolerance approaches exist to address anomalies described in 
+paragraph (3)(d)(v)(2) above. Hereafter are some examples: 
+— 
+FAA Advisory Circular (AC) 33.70-2, Damage Tolerance of Hole Features in 
+High Energy Turbine Rotors, includes an example of the probabilistic 
+approach that applies to manufacturing anomalies in hole features. 
+— 
+FAA Advisory Circular (AC) 33.70-3, Damage Tolerance for Material 
+Anomalies in Titanium Life-Limited Turbine Engine Rotors, includes an 
+example of the probabilistic approach that applies to hard alpha material 
+anomalies in titanium alloy rotor components. 
+The Damage Tolerance Assessment probabilistic typically includes the following 
+primary elements:  
+Anomaly size and frequency distributions.  
+A key input in the Damage Tolerance Assessment is the size and rate of occurrence 
+of the anomalies. This type of information may be statistical in nature and can be 
+presented in a form that plots a number of anomalies that exceed a particular size 
+in a specified amount of material. Anomalies should be treated as sharp 
+propagating cracks from the first stress cycle unless there is sufficient data to 
+indicate otherwise.  
+Crack growth analysis.  
+This determines the number of cycles for a given anomaly to grow to a critical size. 
+This prediction should be based upon knowledge of the part stress, temperature, 
+geometry, stress gradient, anomaly size and orientation, and material properties. 
+The analysis approach should be validated against relevant test data.  
+Inspection techniques and intervals.  
+Manufacturing and in-service inspections are an option to address the fracture 
+potential from inherent and induced anomalies. The intervals for each specified in-
+service inspection should be identified. Engine removal rates and module and piece 
+part availability data could serve as the basis for establishing the inspection 
+interval. The manufacturing inspections assumed in the Damage Tolerance 
+Assessments should be incorporated into the Manufacturing Plan. Likewise, the 
+assumed in-service inspection procedures and intervals should be integrated into 
+the Service Management Plan and included, as appropriate, in the Airworthiness 
+Limitations Section of the Instructions for Continued Airworthiness.  
+Inspection Probability of Detection (POD).  
+The Probability of Detection (POD) of the individual inspection processes, such as 
+eddy-current, penetrant fluid or ultrasonic, used to detect potential anomalies 
+should be based upon the statistical review of sufficient quantities of relevant 
+testing or experience. The relevance of this data should be based upon the 
+similarity of parameters such as:  
+— the size, shape, orientation, location, and chemical or metallurgical character 
+of the anomaly;  
+— the condition of the surface condition and cleanliness of the parts;  
+— the material being inspected (such as its composition, grain size, conductivity, 
+surface texture, etc.); 

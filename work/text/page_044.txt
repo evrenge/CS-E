@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 44 of 262 
+ 
+(b) 
+The equipment identified under CS-E 20(a) must be approved as an integral part of the Engine 
+and must meet the relevant specifications of CS-E. Unless the specifications prescribed in 
+subpart C or E, as appropriate, will subject this equipment to such cycles of operation as to 
+adequately represent all the critical conditions affecting its airworthiness to which it may be 
+expected to be exposed during service, the equipment specification must state those additional 
+airworthiness specifications for which evidence of compliance will be needed. 
+(c) 
+The equipment identified under CS-E 20(c) will be accepted for use on an Engine subject to:  
+(1) 
+The equipment meeting the interface specifications identified under CS-E 20(d);  
+(2) 
+Evidence of satisfactory compliance with CS-E 80(a);  
+(3) 
+Being approved under the relevant aircraft Type Certificate. 
+(d) 
+Equipment with high-energy rotors must be such as to meet one of the following: 
+(1) 
+Failures will not result in significant non containment of high energy debris, or 
+(2) 
+An acceptable level of integrity of the design, including the high energy parts, has been 
+established, or 
+(3) 
+An appropriate combination of (1) and (2). 
+[Amdt. No.: E/1] 
+AMC E 80  Equipment 
+(1) 
+The need for additional specifications in the equipment specifications should be determined 
+when complying with CS-E 80 or be defined by the applicant on a general basis, for example, to 
+cover more than one aircraft installation. 
+Consideration of general conditions, such as those of EUROCAE ED-14 / RTCA/DO-160, allows 
+the certification of equipment in a consistent manner, independent from any installation 
+consideration. However, additional testing may be required in order to comply with CS-E 80(b), 
+dependent on the assumed installation conditions. All equipment, including all electronic units, 
+sensors, harnesses, hydromechanical elements, and any other relevant elements or units, 
+should be shown to operate properly in their declared environment.  
+(2) 
+The manufacturer should consider the applicability of the items listed in the Tables 1 to 4 below, 
+which are provided as a guide. 
+Documents that provide acceptable test procedures for each item are referenced in the same 
+table. The manufacturer may define other acceptable appropriate test and analysis procedures. 
+Compliance is normally demonstrated by test or analysis unless the equipment is shown to be 
+sufficiently similar to and operates in an environment which is the same or less severe than 
+previously certified equipment for which similarity is claimed.  
+The intent and applicability of each item of Tables 1 to 4 are also specified after each table.  
+The following list of applicable tests or procedures (or their equivalent) is acceptable for 
+evaluating equipment airworthiness.  
+(a) 
+General Environmental Conditions 
+The following environmental conditions should be considered for all equipment. 
+Table 1  

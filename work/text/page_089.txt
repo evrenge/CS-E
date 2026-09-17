@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 89 of 262 
+ 
+be capable of controlled flight following such an event. For the purpose of the Engine 
+safety analysis and Engine certification, Engine Failure with no external effect other than 
+loss of thrust and services may be regarded as a Failure with a minor effect. This 
+assumption may be revisited during aircraft certification, where installation effects such 
+as Engine redundancy may be fully taken into consideration. This re-examination applies 
+only to aircraft certification and is not intended to impact Engine certification.  
+The Failure to achieve any given power or thrust rating for which the Engine is certificated 
+should be covered in the safety analysis and may be regarded as a minor Engine effect. 
+Similarly, this assumption may be revisited during aircraft certification, particularly multi-
+Engine rotorcraft certification.  
+(g) 
+Determination of the effect of a Failure. 
+Prediction of the likely progression of some Engine Failures may rely extensively upon 
+engineering judgement and may not be proved absolutely. If there is some question over 
+the validity of such engineering judgement, to the extent that the conclusions of the 
+analysis could be invalid, additional substantiation may be required. Additional 
+substantiation may consist of reference to Engine test, rig test, component test, material 
+test, engineering analysis, previous relevant service experience, or a combination 
+thereof. If significant doubt exists over the validity of the substantiation so provided, 
+additional testing or other validation may be required under CS-E 510(b).  
+(h) 
+Reliance on maintenance actions. 
+For compliance with CS-E 510(e)(1) it is acceptable to have general statements in the 
+analysis summary that refer to regular maintenance in a shop as well as on the line. If 
+specific Failure rates rely on special or unique maintenance checks, those should be 
+explicitly stated in the analysis.  
+In showing compliance with the maintenance error element of CS-E 510(e)(1), the Engine 
+maintenance manual, overhaul manual, or other relevant manuals may serve as the 
+appropriate substantiation. A listing of all possible incorrect maintenance actions is not 
+required in showing compliance with CS-E 510(e)(1).  
+Maintenance errors have contributed to hazardous or catastrophic effects at the aircraft 
+level. Many of these events have arisen due to similar incorrect maintenance actions 
+being performed on multiple engines during the same maintenance availability by one 
+maintenance crew, and are thus primarily an aircraft-level concern. Nevertheless, 
+precautions should be taken in the Engine design to minimise the likelihood of 
+maintenance errors. However, completely eliminating sources of maintenance error 
+during design is not possible; therefore, consideration should also be given to mitigating 
+the effects in the Engine design.  
+If appropriate, consideration should be given to communicating strategies against 
+performing contemporaneous maintenance of multiple engines.  
+Components undergoing frequent maintenance should be designed to facilitate the 
+maintenance and correct re-assembly.  
+The following list of Engine maintenance errors was constructed from situations that have 
+occurred in service and have caused one or more serious events:  
+— Failure to restore oil system or borescope access integrity after routine maintenance 
+(oil chip detector or filter check). Similar consideration should be given to other 
+systems.  

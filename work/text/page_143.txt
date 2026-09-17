@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 143 of 262 
+ 
+The CPA must also establish maximum levels of corresponding rotor speed for an 
+operating limit temperature case, and maximum levels of temperature for an 
+operating limit speed case. If it is found that operating limits conditions could at 
+any point be coincident, then this will need to be reflected in the demonstration. 
+The applicant will then conduct analyses to identify the areas in the declared flight 
+envelope where endurance test critical components are exposed to the most 
+damaging conditions. Critical components are the components within the Engine 
+that are most limiting in terms of useful (serviceable) life under the endurance test 
+conditions. 
+If the maximum critical component temperature method is used (see (v) Test 
+Severity Demonstration Over Extended Operating Periods), then the applicant’s 
+CPA will identify the maximum critical component temperature (this would 
+normally, but not necessarily, be an operating limit Engine condition on a fully 
+deteriorated Engine). The capability must also be demonstrated to establish Engine 
+condition settings to achieve the same critical component temperatures during the 
+test severity demonstration.  
+Failure modes of endurance test critical components must also be identified in the 
+CPA process for assessment and possible demonstration within the alternate 
+endurance test to support the severity equivalence demonstration (further 
+demonstration may also be necessary in compliance with CS-E 170). 
+(iv) 
+Engine Operating Limits Demonstrations (TCDS Physical Rotor Speeds and Turbine 
+Gas Temperatures) 
+TCDS physical rotor speed and turbine gas temperature limiting conditions must 
+be demonstrated as detailed in this paragraph. 
+Declared rotor operating limits values will be demonstrated in the Engine operating 
+limits demonstration sections of the test and established in accordance with CS-
+E 740(f). 
+Concurrent operating limits demonstration of speed and turbine gas temperature 
+for a particular rotor is required unless the CPA indicates it is not possible to occur 
+in service within the declared operating envelope. The corresponding speed or 
+temperature identified in the CPA must be met or exceeded on average during the 
+demonstrations below.  
+(1) 
+Core Speed Operating Limits Demonstration 
+The greater of maximum take-off (MTO) and maximum continuous (MCT) 
+physical core speed operating limits in conjunction with at least the level of 
+the corresponding temperature, as identified in the CPA, must be 
+demonstrated for a minimum of 10 minutes. However, if the CPA for a new 
+Engine design shows that more than 10 minutes could occur in service, or 
+that physical core speed operating limits could be encountered regularly in 
+service, then the core speed operating limit test time will be extended 
+accordingly. Where the CPA shows a longer period is required for MCT, the 
+testing will be extended at MCT conditions to cover that period. 
+When demonstrated in conjunction with meeting the minimum severity 
+requirements of CS-E 740(c)(4)(v), this demonstration comprises the 

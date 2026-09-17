@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 43 of 262 
+ 
+involve review of the need for the repetition of certain tests and/or a revision of the 
+method of quality control. 
+(3) 
+Welded Structures and Welded Components 
+Fusion and resistance welds should be classified in accordance with the following:  
+— Group 1 Those welds the Failure or leakage of which could hazard the aircraft.  
+— Group 2 Highly stressed welds the Failure or leakage of which would not hazard the 
+aircraft. 
+— Group 3 All other welds.  
+The necessary means of maintaining the required quality of all welded structures and 
+components should be established. This may involve the verification of correct application of 
+the approved preparatory and welding techniques, by destructive and non-destructive 
+inspection of representative test specimens, at prescribed intervals during weld production, 
+visual inspection of each weld produced, and pressure testing of welds, where applicable, etc.  
+All welds should be subjected to a suitable crack-detection process at an appropriate stage. 
+Additional crack-detection tests should be made after any subsequent heat treatment has been 
+completed. 
+When radiographic examination is called for, this should be continued until a satisfactory 
+standard of quality has been established. Subsequent relaxation may be introduced in quantity 
+production at the Engine constructor's discretion using a system acceptable to the Agency. 
+The drawings of each welded structure or component should contain information sufficient to 
+identify the relevant means of welding to be used and the quality control method either by 
+detailing the necessary information or quoting the relevant documents.  
+No significant change of welding technique should be made without the agreement of the 
+Engine constructor and such agreement should involve review of the need for a revision of the 
+method of quality control or even modification approval action. 
+[Amdt. No.: E/1] 
+CS-E 80  Equipment 
+(See AMC E 80) 
+(a) 
+Equipment Drives and Mountings 
+(1) 
+Mountings and drives for all equipment installed on the Engine must be designed: 
+(i) 
+To permit safe operation of the Engine with the equipment fitted, and 
+(ii) 
+So that Failure of equipment will not result in further damage likely to produce a 
+Hazardous Engine Effect. 
+(2) 
+Mountings and drives for equipment identified under CS-E 20(c) must be designed and 
+located so as to minimise the possibility of defective equipment necessitating Engine 
+shut-down as a result of:  
+(i) 
+Contamination or major loss of the Engine oil supply, or 
+(ii) 
+Engine malfunctioning through the application of excessive torque, loose parts 
+falling into the Engine, flailing of the drives, etc. 

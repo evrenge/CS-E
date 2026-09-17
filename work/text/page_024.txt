@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 24 of 262 
+ 
+OEI ratings can be attained and sustained. This specification has a bearing on both 
+power assurance procedures and instructions for continued airworthiness. The 
+mandatory maintenance following the use of 30-Second or 2-Minute OEI rating 
+should be capable of identifying and correcting any component distress which 
+could significantly reduce subsequent Engine reliability or prevent the Engine from 
+achieving or sustaining further application of the OEI ratings.  
+The applicant should provide evidence by endurance test results or analysis based 
+on test data of the endurance tests, and/or with other certification tests and 
+service experience of similar type and design of engines, to show that the power 
+at 30-Second and 2-Minute OEI ratings is achievable and can be sustained for the 
+respective duration at any time between overhauls or major maintenance of the 
+Engine.  
+(ii) 
+Essential to the establishment of mandatory maintenance instructions is a 
+thorough knowledge of the potential damage incurred with use of the 30-Second 
+and 2-Minute OEI ratings and, more importantly, the remaining margin to 
+component Failure or reduced Engine performance due to use of these OEI ratings. 
+The certification procedures for the 30-Second and 2-Minute OEI ratings 
+emphasise demonstrating design adequacy by endurance testing and by specific 
+margin tests for turbine temperature, rotor speeds, etc. An understanding of 
+operating margins to various Failure modes when operating at the 30-Second and 
+2-Minute OEI ratings is needed for establishing adequate instructions for 
+continued airworthiness. These Failure modes should be determined and validated 
+by appropriate methods or experience.  
+(iii) 
+The applicant should undertake the necessary actions, including instructions in 
+Engine manuals, to make sure that the operators are aware of the need and 
+understand the procedures to properly collect and return the information 
+necessary for the applicant to monitor the adequacy of the prescribed mandatory 
+maintenance actions. 
+(d) 
+In-service Engine evaluation programme 
+(i) 
+In order to comply with CS-E 25(b)(2), an in-service Engine evaluation programme 
+to assure the continued adequacy of the instructions for continued airworthiness 
+and of power availability data should be provided and be approved by the Agency 
+prior to certification. 
+The intent of this programme is to obtain relevant data concerning Engine 
+hardware condition and power availability at various stages in the life of the Engine 
+hardware critical to the achievement of the ratings and to compare that data to 
+corresponding data observed during the certification process that defined the 
+instructions for continued airworthiness.  
+Differences may exist in hardware condition and power availability characteristics 
+from in-service engines that have not experienced any usage of the 30-Second or 
+2-Minute OEI ratings versus similar parameters that existed prior to the two-hour 
+additional endurance test of CS-E 740(c)(3)(iii). 
+Similarly, differences may exist in hardware condition and power assurance 
+characteristics from in-service engines after usage of the 30-Second or 2-Minute 
+OEI ratings versus similar parameters observed following the two-hour additional 
+endurance test of CS-E 740(c)(3)(iii). 

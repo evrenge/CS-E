@@ -1,0 +1,71 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 212 of 262 
+ 
+Hailstone Diameter (mm) 
+Contribution to total HWC (%) 
+45.0 – 49.9 
+0.75  
+50.0 – 55.0 
+0.25  
+ 
+ TOTAL 
+ 
+  100.00 
+Median diameter of hailstones is 16 mm  
+CS-E 800  Bird Strike and Ingestion 
+(See AMC E 800) 
+(a) 
+Objective. To demonstrate that the Engine will respond in a safe manner following specified 
+encounters with birds, as part of the compliance with CS-E 540.  
+The demonstration will address the ingestion of large, medium and small birds, and also the 
+effect of the impact of such birds upon the front of the Engine.  
+(b) 
+Single large bird ingestion test. An Engine ingestion test must be carried out using a large bird 
+as specified below. Alternative evidence may be acceptable as provided under CS-E 800(g)(1). 
+(1) 
+Test conditions. 
+(i) 
+The Engine operating conditions must be stabilised prior to ingestion at not less 
+than 100% of the Take-off Power or Thrust at the test day ambient conditions. In 
+addition, the demonstration of compliance must account for Engine operation at 
+sea level take-off conditions on the hottest day that a minimum Engine can achieve 
+maximum rated Take-off Power or Thrust. 
+(ii) 
+The bird to be used must be of a minimum mass of:- 
+(A) 
+1.85 kg for Engine inlet throat areas of less than 1.35 m2 unless a smaller bird 
+is determined to be a more severe demonstration; 
+(B) 
+2.75 kg for Engine inlet throat areas of less than 3.90 m2 but equal to or 
+greater than 1.35 m2; 
+(C) 
+3.65 kg for Engine inlet throat areas equal to or greater than 3.90 m2. 
+(iii) 
+The bird must be aimed at the most critical exposed location on the first stage rotor 
+blades. 
+(iv) 
+A bird speed of 200 knots for Engines to be installed on aeroplanes or the maximum 
+airspeed for normal flight operations for Engines to be installed on Rotorcraft. 
+(v) 
+Power lever movement is not permitted within 15 seconds following the ingestion. 
+(2) 
+Acceptance criteria. Ingestion of this single large bird must not result in a Hazardous 
+Engine Effect.  
+(c) 
+Large flocking bird. An engine test using a single bird must be carried out at the conditions 
+specified below for Engines with an inlet throat area equal to or greater than 2.5 m2. Alternative 
+evidence may be acceptable as provided under CS-E 800(g)(1).  
+(1) 
+Test conditions. 
+(i) 
+The Engine operating conditions must be stabilised prior to ingestion at not less 
+than the mechanical rotor speed of the first exposed stage(s) that, on an ISA 
+standard day, would produce 90% of the sea level static Rated Take-off Thrust. 
+(ii) 
+The bird speed must be 200 knots. 

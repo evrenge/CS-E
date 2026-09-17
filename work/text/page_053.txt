@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 53 of 262 
+ 
+AMC E 130  Fire Protection 
+(1) 
+Definitions 
+(a) 
+Drain and Vent Systems: Components which are used to convey unused or unwanted 
+quantities of flammable fluid or vapour away from the Engine. 
+(b) 
+External Lines, Fittings and Other Components: Engine parts conveying flammable fluids 
+and which are external to the main Engine casings, frames and other major structure. 
+These parts include, but are not limited to, fuel or oil tubes, accessory gearbox, pumps, 
+heat exchangers, valves and Engine fuel control units. 
+(c) 
+Fire Hazard: 
+(1) 
+The unintentional release or collection of a hazardous quantity of flammable fluid, 
+vapour or other materials; or 
+(2) 
+a Failure or malfunction which results in an unintentional ignition source within a 
+fire zone; or 
+(3) 
+the potential for a Hazardous Engine Effect as the result of exposure to a fire. 
+(d) 
+Fire-resistant, Fireproof: the definitions of "Fire-resistant" and "Fireproof" are given in 
+CS-Definitions; they imply that the functioning of the part under fire condition should not 
+hazard the aircraft.  
+(e) 
+Hazardous quantity: An amount of fluid, vapour or other material which could sustain a 
+fire of sufficient time and severity to create damage potentially leading to a Hazardous 
+Engine Effect. In the absence of a more suitable determination of a hazardous quantity 
+of flammable fluid, this can be assumed to be 0.25 litre or more of fuel (or a quantity of 
+flammable material of equivalent heat content). 
+(2) 
+General 
+(a) 
+Intent 
+The intent of CS-E 130 is to give assurance that the design, materials and construction 
+techniques utilised will minimise the probability of the occurrence, the consequences and 
+the spread of fire.  
+(b) 
+Objectives 
+With respect to the above intent, the primary objectives are to (1) contain, isolate and 
+withstand a fire or prevent any sources of flammable material or air from feeding an 
+existing fire and (2) increase the probability that the Engine Control System and 
+accessories will permit a safe shutdown of the Engine or feathering of the Propeller (if 
+the Propeller control system is part of the Engine design) and subsequently maintain that 
+condition.  
+(c) 
+Determination of level of fire protection 
+CS-E 130(b) requires that all flammable fluid conveying parts or components be at least 
+Fire-Resistant, whereas CS-E 130(c) requires flammable fluid tanks and associated shutoff 
+means to be Fireproof. It should then be determined which level of fire protection should 
+be shown for each component requiring a fire protection evaluation.  
+The 5-minute exposure which is associated with a “Fire-Resistant” status provides a 
+reasonable time period for the flight crew to recognise a fire condition, shut down the 

@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 30 of 262 
+ 
+(e) 
+The Engine’s rated Powers/Thrusts and any operating limitations established under this CS-E 40 
+which must be respected by the crew of an aircraft must be listed in the Engine type certificate 
+data sheet specified in point 21.A.41 of Part 21. The Engine type certificate data sheet must also 
+identify, or make reference to, all other information found necessary for the safe operation of 
+the Engine.  
+(f) 
+The ratings established under this CS-E 40 must be defined for the lowest Power/Thrust that all 
+Engines of the same type may be expected to produce under the conditions used to determine 
+these ratings. The minimum testing must be defined, together with associated conditions, 
+necessary for ensuring that the Engines will comply with this objective. 
+(g) 
+In determining the Engine performance and operating limitations, the overall limits of accuracy 
+of the Engine Control System and of the necessary instrumentation as defined in CS-E 60(b) 
+must be taken into account. 
+(h) 
+For Piston Engines, each declared rating must be defined in terms of the power produced at a 
+given power setting and Engine rotational speed. 
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+[Amdt No: E/7] 
+AMC E 40  Ratings 
+The thrust and / or power ratings to be approved should be adequately justified by the applicant, using 
+as appropriate the results of the calibration tests (CS-E 350 or CS-E 730) and the values substantiated 
+by the endurance test (CS-E 440 or CS-E 740) or other means. 
+[Amdt. No.: E/1] 
+AMC E 40(b)(3) and (b)(4) 30-Second OEI, 2-Minute OEI and 30-
+minute Power Ratings 
+(1) 
+The 30-Second and 2-Minute OEI Power ratings are two separate ratings. However, they are 
+associated in a combined structure of 2.5 minutes duration. 
+(2) 
+The 30-Second and 2-Minute OEI ratings are optional ratings that may be specifically requested 
+by the applicant, and they are intended for use only for continuation of the one-flight operation 
+after the Failure of one Engine in multi-engine Rotorcraft during take-off, climb or landing. The 
+30-Second OEI Power rating provides a short burst of power to complete the take-off or to effect 
+a rejected take-off, should an Engine Failure occur at the critical decision point, so that the 
+Rotorcraft can lift clear of any obstruction in the flight path and climb out or, alternatively, to 
+reject the take-off. Similarly, this rating also provides adequate power for the Rotorcraft to 
+execute a safe landing, or a baulked landing if an Engine fails at any point down to and including 
+the landing decision point. The 2-Minute OEI Power rating provides a further period of increased 
+power to enable the Rotorcraft to complete the climb out from take-off or baulked landing to 
+safe altitude and airspeed. 
+(3) 
+While the 30-Second and 2-Minute OEI Power ratings were originally conceived as high power 
+ratings, using the available margins in the Engine design, and followed by a mandatory Engine 
+overhaul, the experience has shown that the manufacturers provide engines with differing 
+capabilities and different margins. Therefore some flexibility is possible in defining the 

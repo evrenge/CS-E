@@ -1,0 +1,33 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 172 of 262 
+ 
+ 
+ 
+Figure 8.12. EGT Method Damage Model 
+ 
+(h) 
+Conclusion 
+For the alternate endurance test, either method could be used. Each method has its 
+benefits and drawbacks; however, following each of the methodologies will result in an 
+adequately severe test. The applicant will be required to discuss with EASA which method 
+it plans to use before the start of the test.  
+For both methods, it is important that the performance and damage calculation 
+methodology be consistent between the SeverityRef and SeverityAct calculations.  
+If during the testing there are test data that require an update to one of the modelling 
+methodologies, then SeverityRef will need to be recalculated with the new methodology 
+as well. 
+[Amdt No: E/8] 
+AMC E 740(f)(1) Multi-spool Engines 
+Where an Endurance Test is conducted in accordance with CS-E 740(f)(1) supplementary evidence is 
+required to substantiate any rotational speed limitations higher than those covered in that test. This 
+AMC indicates an acceptable basis for conducting such supplementary tests.  
+(1) 
+The Engine on which the supplementary tests are conducted may be the same Engine as that 
+which completed the Endurance Test, or an Engine of a standard similar in all those aspects 
+which could be affected by the increased rotational speed. 

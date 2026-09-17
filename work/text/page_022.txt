@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 22 of 262 
+ 
+locations of lubrication points, lubricants to be used and equipment required for 
+servicing. 
+(5) 
+Scheduling information for each part of the Engine that provides the recommended 
+periods at which it should be cleaned, inspected, adjusted, tested and lubricated, and the 
+degree of inspection, the applicable serviceability limits, and work recommended at 
+these periods. Necessary crossreferences to the airworthiness limitations section must 
+also be included. In addition, if appropriate, an inspection programme must be included 
+that states the frequency of the inspections necessary to provide for the continued 
+airworthiness of the Engine. 
+(6) 
+Troubleshooting information describing probable malfunctions, how to recognise those 
+malfunctions and the remedial action for those malfunctions. 
+(7) 
+Information describing the order and method of removing the Engine and its parts and 
+replacing parts, the order and method of disassembly and assembly, with any necessary 
+precautions to be taken. Instructions for proper ground handling, crating and shipping 
+must also be included. 
+(8) 
+Cleaning and inspection instructions that cover the material and apparatus to be used 
+and methods and precautions to be taken. Methods of inspection must also be included. 
+(9) 
+Details of repair methods for worn or otherwise non-serviceable parts and components 
+along with the information necessary to determine when replacement is necessary. 
+Details of all relevant fits and clearances. 
+(10) Instructions for testing including test equipment and instrumentation. 
+(11) Instructions for storage preparation, including any storage limits. 
+(12) A list of the tools and equipment necessary for maintenance and directions as to their 
+method of use. 
+(13) Instructions applicable to information system security protection as required by  
+CS-E 50(l). 
+ 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/6] 
+[Amdt. No.: E/7] 
+AMC E 25 Instructions for continued airworthiness 
+(1) 
+The maintenance actions are determined through certification testing, including, where 
+applicable, endurance tests, initial maintenance programme test, over-speed tests, over-
+temperature tests, and supplemented by development testing and service experience of 
+Engines of the same type or of similar design. Servicing information should cover maintenance 
+details regarding servicing points, inspections, adjustments, tests and replacement of 
+components if required. 
+The mandatory inspection and maintenance actions considered under CS-E 25(b)(1) may also 
+evolve after entering service, based on the service experience.  
+(2) 
+Where it is permitted to carry out certain tests with the engines installed in the aircraft, the 
+relevant manual(s) should provide information on the way in which minimum installed 
+performance levels will be verified (if necessary) and related to the static sea-level test-bed 
+ratings approved for the Engine. 

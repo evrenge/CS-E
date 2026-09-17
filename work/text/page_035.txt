@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 35 of 262 
+ 
+Single Failures leading to loss, interruption or corruption of Aircraft-Supplied Data, or data 
+shared between Engines must:  
+(1) 
+Not result in a Hazardous Engine Effect for any Engine. 
+(2) 
+Be detected and accommodated. The accommodation strategy must not result in an 
+unacceptable change in thrust or power or an unacceptable change in Engine operating 
+and starting characteristics. The effects of these Failures on Engine power or thrust, 
+Engine operability and starting characteristics throughout the flight envelope must be 
+evaluated and documented. 
+The specification of CS-E 50(g)(2) does not apply to thrust or power command signals 
+from the aircraft.  
+(h) 
+Aircraft Supplied Electrical Power. 
+(1) 
+The Engine Control System must be designed so that the loss or interruption of electrical 
+power supplied from the aircraft to the Engine Control System will not - 
+(i) 
+Result in a Hazardous Engine Effect, 
+(ii) 
+Cause the unacceptable transmission of erroneous data. 
+The effect of the loss or interruption of aircraft supplied electrical power must be taken 
+into account in complying with CS-E 50(c)(1). 
+(2) 
+When an Engine dedicated power source is required for compliance with CS-E 50(h)(1), 
+its capacity should provide sufficient margin to account for Engine operation below idle 
+where the Engine Control System is designed and expected to recover Engine operation 
+automatically.  
+(3) 
+The need for, and the characteristics of, any electrical power supplied from the aircraft 
+to the Engine Control System for starting and operating the Engine, including transient 
+and steady state voltage limits, must be identified and declared in the Engine instructions 
+for installation. 
+(4) 
+Low voltage transients outside of the power supply voltage limitations, declared under 
+CS-E 50(h)(3), must meet the specifications of CS-E 50(h)(1). The Engine Control System 
+must resume normal operation when aircraft supplied electrical power returns to within 
+the declared limits.  
+(i) 
+Air Pressure Signal. 
+The effects of blockage or leakage of the signal lines on the Engine Control System must be 
+considered as part of the system safety assessment of CS-E 50(d) and the appropriate design 
+precautions adopted.  
+(j) 
+Engines having a 30-Second OEI Power Rating must incorporate means or provision for means 
+for automatic availability and automatic control of the 30-Second OEI Power within its operating 
+limitations. (See AMC E 50(j)) 
+(k) 
+Means for shutting down the Engine rapidly must be provided. 
+(l) 
+Information System Security Protection.  
+Engine Control Systems, including networks, software and data, must be designed and installed 
+so that they are protected from intentional unauthorised electronic interactions (IUEIs) that 
+may result in adverse effects on the safety of the aircraft. The security risks and vulnerabilities 
+must be identified, assessed, and mitigated as necessary. The applicant must make procedures 

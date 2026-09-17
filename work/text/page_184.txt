@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 184 of 262 
+ 
+Engine bleed settings for the condition being analysed should be assumed 
+to minimise the operability margin. The establishment of CPA points should 
+consider those conditions where the minimum operability margin is 
+expected. 
+(iii) 
+Core and Booster Ice Blockage.  
+Ice accretion on internal Engine vanes from glaze ice accretions may affect 
+airflow capacity and rematch of the Engine cycle. This should be considered 
+in the CPA. At Engine powers/thrusts that can sustain flight, ice accretion 
+should be reconciled through a demonstration of several ice build/shed 
+cycles to demonstrate no adverse operating effects of either the ice builds 
+or sheds. 
+(2.2) Establishment of SLW Test Points for In-Flight Operation  
+The test conditions outlined below are intended as a guide to establish the minimum 
+testing necessary to comply with CS-E 780. These test points should be supplemented or, 
+if applicable, replaced, by any test points identified by the CPA as applicable. 
+The conditions of horizontal and vertical extent and water concentration defined below 
+are somewhat more severe than those implied by the SLW Icing Conditions in CS-
+Definitions Amendment 2 =. Encounters with icing conditions more severe that those 
+defined are considered possible, and it is, therefore, appropriate to ensure that a margin 
+is maintained.  
+(a) 
+Tests points to demonstrate icing capability at a power/thrust at or above that 
+required for sustained flight  
+One test point should be run to simulate each of the conditions of Table 1 at the 
+Engine minimum power/thrust to maintain sustained flight in the intended 
+installation. For turbofan Engines, a second point should be run at a higher 
+power/thrust condition, if it is predicted to result in a higher energy of ice shed 
+from the fan blades. If an acceptable means to predict the critical fan speed is not 
+available, tests at 50 %, 75 % and 100 % of maximum continuous power/thrust 
+should be run. 
+The minimum duration of each test point should be determined by repetitions of 
+either the cycle: 
+(i) 
+28 km horizontal extent in the LWC conditions of Table 1, Column (a), 
+appropriate to the temperature, followed by 5 km in the LWC conditions of 
+Table 1, Column (b), appropriate to the temperature, for a total duration of 
+45 minutes, or 30 minutes if clear evidence of repeat build/shed cycles has 
+been observed; 
+or the cycle: 
+(ii) 
+6 km horizontal extent in the LWC conditions of Table 1, Column (a), 
+appropriate to the temperature, followed by 5 km in the LWC conditions of 
+Table 1, Column (b), appropriate to the temperature, for a total duration of 
+20 minutes, or 10 minutes if clear evidence of repeat build/shed cycles has 
+been observed.  
+At the conclusion of each test point, the Engine should be run up to the 
+maximum power/thrust corresponding to the test conditions, using a one 
+second thrust/power lever movement, to demonstrate any effect of ice 

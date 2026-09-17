@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 188 of 262 
+ 
+combination of the 
+two. 
+Note 1: These conditions are provided as a guide, but they may need to be modified to address the 
+requirements applicable to the intended installation. For instance, snow concentrations may need to 
+be increased to address blowing snow. When applicable, the applicants should consider the material 
+provided in AMC 25.1093(a) 1.6 (Falling and Blowing Snow). 
+Note 2: As per CS-E 780, those conditions only need to be considered if applicable to the Engine air 
+intake system in the ice protection specifications of the Certification Specifications applicable to the 
+aircraft on which the Engine is to be installed. 
+(2.4) Test results 
+Due to the repetitive nature of icing condition encounters during in-service operation, which may 
+extend for longer duration than during the icing test campaign, the applicant should demonstrate that 
+no unacceptable mechanical damage will occur as a result of prolonged operation with levels of high 
+vibration due to repetitive icing encounters. 
+(3) 
+Mixed-phase/Ice Crystal Conditions 
+This paragraph is provided for certification of turbine Engines to be installed on aircraft which 
+have mixed-phase and ice crystal icing conditions included in their Certification Specifications. 
+Until validated full-scale ground test facilities for mixed-phase and ice crystal icing conditions 
+are available, compliance should be based on flight test and/or analysis (supported by 
+Engine/component tests, as necessary). 
+(a) 
+Design Precautions. The applicant should show that design precautions have been 
+taken to minimise the susceptibility of the Engine to mixed-phase/ice crystal 
+accretions.  
+           The analysis should also identify remaining features or locations in which ice 
+accretion could not be excluded. Design features which may increase the 
+susceptibility include but are not limited to: 
+(i) 
+stagnation points which could provide an increased accretion potential, such 
+as frame leading edges especially if upstream vanes direct or concentrate 
+impingement upon the frame leading edge; 
+(ii) 
+exposed core entrance (as opposed to hidden core); 
+(iii) 
+high turning rates in the inlet, booster and core flow path (particularly 
+compound turning elements), such as flow path concavity; 
+(iv) 
+protrusions into the core flow path (for example, bleed door edges and 
+measurement probes); 
+(v) 
+narrow vane-to-vane circumferential stator spacing leading to a small stator 
+passage hydraulic diameter; 
+(vi) 
+variable geometry with stagnation points outside the flow path that could 
+lead to accreted ice re-entering the flow path upon geometry movement; 
+(vii)  airfoils with low tolerance to soft body damage immediately downstream of 
+a potential ice accretion location; 

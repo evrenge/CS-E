@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 193 of 262 
+ 
+In assessing whether data from an Engine air data probe is critical, the Engine system(s) 
+response to erroneous in-range data and to data during transitions to/from icing conditions 
+should be considered. 
+Note: If Engine air data probe signals are used by the aircraft system(s) on a CS-25 aeroplane, 
+the aeroplane manufacturer will be responsible for showing that the involved Engine air data 
+probe complies with CS 25.1324 (including rain conditions). 
+(6) 
+Ice Protection Systems Activation and Deactivation 
+The ice ingestion demonstration of paragraph (4) of this AMC addresses the threat of ice 
+released from ice-protected surfaces, including the Engine air intake, following a delay in the 
+selection of the ice protection system such as might occur during inadvertent entry into icing 
+conditions.  
+However, if satisfactory operation in any icing conditions relies on activation of Engine ice 
+protection system(s), such as a raised idle function and/or an internal ice protection system, it 
+should be demonstrated that the Engine characteristics are not unacceptably affected by the 
+introduction of a representative delay in the initiation of operation of the Engine ice protection 
+system(s), whether the activation is automatic or manual.  
+In assessing the representative delay, the applicant should consider all factors that contribute 
+to a delay in the activation of the ice protection system(s). 
+This assessment should include, as appropriate, the time for ice condition detection, pilot 
+response time, time for the system to become operational, and time for the system to become 
+effective. 
+In lack of other evidence, a delay of 2 minutes to switch on the IPS should be assumed. For 
+thermal IPS, the time for the IPS to warm up should be added. 
+Consideration should also be given to the effects of delays in deactivating an ice protection 
+system after leaving icing conditions, or to inadvertent operation of an ice protection system in 
+the absence of icing conditions. These effects should not compromise the mechanical integrity 
+of the Engine or the effectiveness of the ice protection system (e.g. due to overheating and 
+damage of certain components). 
+(7) 
+Instructions for installing and operating the Engine 
+The applicant should declare all identified limitations, and all Engine conditions observed during 
+Engine certification icing tests, to the installer in the manuals required by CS-E 20(d). These 
+should include but are not limited to the following items (see background in the previous 
+paragraphs of this AMC): 
+— 
+ the icing environment in which the engine has been certified; 
+— 
+ details of the assumed Engine installation, including protection device(s); 
+— 
+ operational altitude limitation; 
+— 
+ Engine ingestion capability such as size, thickness and density of the ice slab ingested; 
+— 
+ Engine ice ingestion protection device to be provided by the installer (when not part of 
+the Engine configuration);  
+— 
+ effects that may be observed during or after the encounter with icing conditions, such as 
+vibrations, temporary power/thrust loss, change in Engine power/thrust response; 

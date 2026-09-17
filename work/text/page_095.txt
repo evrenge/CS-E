@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 95 of 262 
+ 
+(iv) 
+Life analysis.  
+The life analysis combines the stress, strain, temperature and material data to 
+establish the life of the minimum property part. Plasticity- and creep-related 
+effects should also be considered. Relevant service experience gained through a 
+successful programme of parts retirement or precautionary sampling inspections, 
+or both, may be included to adjust the life prediction system.  
+The fatigue life prediction system is based upon test data obtained from cyclic 
+testing of representative laboratory, subcomponent, or specific component 
+specimens and should account for the manufacturing processes that affect low-
+cycle fatigue (LCF) capability, including fabrication from production grade material. 
+Sufficient testing should be performed to evaluate the effects of elevated 
+temperatures and hold times, as well as interaction with other material Failure 
+mechanisms such as high-cycle fatigue and creep. The fatigue life prediction 
+system should also account for environmental effects, such as vibration and 
+corrosion, and cumulative damage.  
+When the fatigue life is based on cyclic testing of specific parts, the test results 
+should be corrected for inherent fatigue scatter. The factors used to account for 
+scatter should be justified. In order to utilise this approach, the test should be 
+designed to be representative of the critical Engine conditions in terms of 
+temperature and stress at the specific features, e.g. bore, rim or blade attachment 
+details, of the part being tested. Appropriate analytical and empirical tools should 
+be utilised such that the fatigue life can be adjusted for any differences between 
+the Engine conditions and cyclic test. In the event the test is terminated by burst 
+or complete Failure, crack initiation for this particular test may be defined using 
+the appropriate crack growth calculations and/or fracture surface observations. It 
+may also be possible to utilise the number of cycles at the last crack-free inspection 
+to define the crack initiation point. This approach requires an inspection technique 
+with a high level of detection capability consistent with that used by the Engine 
+industry for rotating parts.  
+The test data should be reduced statistically in order to express the results in terms 
+of minimum LCF capability (1/1000 or alternately -3 sigma). The fatigue life should 
+be determined as a minimum life to initiation of a fatigue crack, defined typically 
+as a crack length of 0.75mm.  
+An alternative way of using the data is to base the fatigue life on an agreed safety 
+margin to burst of a minimum strength part. Typically a 2/3 factor has been applied 
+to the minimum (1/1000 or alternatively -3 sigma) burst life; however, any factor 
+used should be justified for a particular material.  
+(v) 
+Damage Tolerance.  
+ 
+1.  
+General 
+Damage Tolerance Assessments should be performed to minimise the potential for 
+Failure from material, manufacturing- and service-induced anomalies within the 
+Approved Life of the part. Service experience with gas turbine Engines has 
+demonstrated that material-, manufacturing- and service-induced anomalies do 
+occur which can potentially degrade the structural integrity of Engine Critical Parts. 
+Historically, life management methodology has been founded on the assumption 
+of the existence of nominal material variations and manufacturing conditions. 

@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 39 of 262 
+ 
+(2) 
+Have means or provision for means, which cannot be reset in flight, to 
+(i) 
+Automatically record each usage and duration of power at the 30-Second and 2-
+Minute OEI Power levels. 
+(ii) 
+Alert maintenance personnel in a positive manner, that the Engine has been 
+operated at either or both of the 30-Second and 2-Minute OEI Power levels and 
+permit retrieval of recorded data; and 
+(3) 
+Have means, or provision for means, to enable routine verification of the proper 
+operation of the above means. 
+(e) 
+Instrumentation enabling the flight crew to monitor the functioning of the turbine cooling 
+system must be provided unless evidence shows that: 
+(1) 
+Other existing instrumentation provides adequate warning of Failure or impending 
+Failure, or  
+(2)  
+Failure of the cooling system would not lead to Hazardous Engine Effects before 
+detection, or 
+(3) 
+The probability of Failure of the cooling system is Extremely Remote. 
+Appropriate inspections must be promulgated in the relevant manuals.  
+[Amdt. No.: E/1] 
+AMC E 60  Provision for instruments 
+(1) 
+Under the specifications of CS-E 60(a), the Engine manufacturer should define the 
+instrumentation which is necessary for Engine operation within its limitations and also make 
+provision for installation of this instrumentation. 
+In addition to instrumentation which may be required for aircraft certification (for example, 
+indication of engine ice protection system activation, rotor system unbalance, and fuel flow), 
+the Engine safety analysis might show the need for specific instrumentation providing 
+information to the flight crew or maintenance personnel for taking the appropriate actions in 
+order to prevent the occurrence of a Failure or to mitigate any associated consequences. 
+(2) 
+Care should also be exercised in selecting the position on the Engine at which a particular 
+parameter, such as oil pressure, is sensed in order to ensure that the indication is appropriate 
+for the intended protection of relevant components. For example: 
+(a) 
+The pick-up point on the Engine for the oil pressure gauge and the low oil pressure 
+warning device, where applicable, should be suitably chosen with due regard to all critical 
+components to ensure a satisfactory indication of the oil pressure to the main Engine 
+bearings. 
+(b) 
+Unless otherwise agreed, there should be no relief valve or other component liable to 
+Failure between the oil pressure gauge and warning device connection and the main 
+Engine bearings. Filters necessary to protect oil jets or metering orifices should be 
+suitably chosen to reduce the possibility of blockage to a minimum and should be 
+accessible for periodic inspection.  
+(3) 
+In complying with CS-E 60(c), for example, because the inadvertent deployment of a reverser 
+in-flight is a Hazardous Engine Effect, the thrust reverser position control and position indicating 
+systems should be separate, such that Failures which could affect the thrust reverser position 
+would not cause loss of the correct flight deck indication of reverser position.  

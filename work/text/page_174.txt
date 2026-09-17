@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 174 of 262 
+ 
+(4) 
+For components which are distressed beyond serviceable limits during the test of CS-E 
+740(c)(3)(iii), it should be shown that the inspections and mandatory maintenance actions for 
+these components, as specified in the Instruction for Continued Airworthiness, are adequate. 
+The instructions should include means for proper identification of these component conditions, 
+and appropriately defined maintenance actions.  
+The component deterioration as it affects performance during the test, and the component 
+condition after test, should be determined. The distress seen as a result of the 2-hour test 
+should not create a potentially hazardous condition. In addition to visible physical damage, non-
+visible damage should be assessed. Such damage may include but not necessarily be limited to 
+the effects of creep, stress rupture, metallurgical effects, life usage, etc. This overall evaluation 
+should then be considered when defining and justifying the inspections and mandatory 
+maintenance actions for instructions for continued airworthiness. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 
+ 
+CS-E 745 Engine Acceleration 
+(See AMC E 745) 
+(a) 
+It must be demonstrated, on a test bed, that: 
+(1) 
+For aeroplane Engines, the power / thrust increases to rated Take-off when the power or 
+thrust control lever is moved in not more than one second from the minimum flight idle 
+position to the maximum position with the appropriate adverse combination of bleed air 
+and power extraction to be permitted in the aeroplane, without over-temperature, surge, 
+stall, or other detrimental factors occurring to the Engine. 
+(2) 
+For rotorcraft Engines, the power increases to rated Take-off when the power demand is 
+increased from minimum test bed idle to rated Take-off in not more than one second 
+with the appropriate adverse combination of bleed air and power extraction to be 
+permitted in the aircraft, without over-temperature, surge, stall, or other detrimental 
+factors occurring to the Engine. 
+(3) 
+For all Engines, an increase can be made from 15% of the rated Take-off Power or thrust, 
+to 95% of the rated Take-off Power or thrust in a time not greater than 5 seconds. A 
+longer time may be accepted if properly justified. This power or thrust response must 
+occur from a stabilised static condition using only the bleed air and accessories loads 
+necessary to run the Engine. 
+(b) 
+The minimum response time to 95% of the rated Take-off Power or thrust as a result of moving 
+the power lever of aeroplane Engines in not more than one second, from minimum ground idle 
+and from minimum flight idle positions or, for rotorcraft Engines, increasing the power demand 
+in not more than one second from the minimum test bed idle condition, starting from a 
+stabilised condition, must be measured under the following Engine load conditions. 
+(1) 
+No bleed air and power extraction for aircraft use. 
+(2) 
+Maximum allowable bleed air and power extraction for aircraft use. 
+(3) 
+An intermediate value for bleed air and power extraction representative of that which 
+might be used as a maximum for aircraft during approach to a landing. 

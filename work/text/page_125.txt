@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 125 of 262 
+ 
+effects should be completed to show that the flutter does not result in a Hazardous 
+Engine Effect. The investigation may include testing as required under paragraph (10) 
+below for a significant response. 
+(b) 
+In all cases, the test procedure needs to recognise that some systems’ susceptibilities to 
+flutter will not be revealed during tests if the relevant operating conditions are not 
+sustained long enough for the flutter to develop. 
+(c) 
+As flutter is a phenomenon which can be sensitive to small variations in those factors 
+which could influence the response of the system, due consideration should also be given 
+to possible variations between the nominal and extreme values of, for example, tip 
+clearances, mechanical damping, operating lines and bleed flows. Experience has also 
+shown that there are differences in susceptibility to flutter from one blade set to another 
+and that ‘tuned’ blade sets might be more sensitive. 
+(d) 
+If tests will be conducted at sea level only, the applicant should propose a procedure 
+acceptable to the Agency to account for altitude effects. For certain Engine modules, 
+especially fans and compressors, it is expected that this will be achieved by testing 
+throughout the range of corrected speed that the module will encounter in service, in 
+which case the requirements of CS-E 650(b) and (c) with regard to physical rotational 
+speed should be considered to apply also to corrected speed. The provisions of paragraph 
+(4)(b) of this AMC are also applicable. 
+(e) 
+For some turbines, the propensity to flutter is not increased at maximum corrected 
+speed, and other methods of demonstrating the absence of damaging flutter throughout 
+the declared flight envelope may be more appropriate. It is important to ensure that the 
+maximum stage inlet pressure at each physical speed is achieved, or compensation is 
+provided. The strength of aerodynamic forcing on many turbine blades is predominantly 
+driven by the total pressure levels, and the highest pressures are expected at the highest 
+mechanical speed. Where turbines operate in aerodynamically choked conditions and the 
+mass flow through the turbine is dictated by the fixed geometry of the blading, the 
+corrected speed is essentially constant. Higher corrected speed (at an aerodynamic work 
+level) will lower the blading Mach numbers (Mn) and, conversely, a lower corrected 
+speed will increase blading Mn. This means that, in such cases, running up to 100 % of 
+maximum mechanical speed will cover the worst case (highest forcing) condition. 
+(f) 
+In general, the methods used to verify the absence of damaging levels of flutter 
+throughout the declared flight envelope should include consideration of applicable 
+combinations of the following: 
+(i) 
+the ranges of physical and corrected rotational speeds for each rotor module; 
+(ii) 
+the simultaneous occurrence of maximum fan or compressor inlet air total 
+temperature and maximum corrected rotational speed (i.e. maximum reduced 
+velocity); 
+(iii) 
+the range of fan or compressor operating lines within the flight envelope; 
+(iv) 
+the most adverse of other fan or compressor inlet air conditions encountered 
+within the flight envelope (e.g. applicable combinations of total air pressure, 
+density, temperature, and inlet distortion); and 
+(v) 
+the hardware standard, the intake conditions and margins to account for Engine 
+deterioration. 
+(9) 
+Variations in Material Properties and Natural Frequencies 

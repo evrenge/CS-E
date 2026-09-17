@@ -1,0 +1,38 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 214 of 262 
+ 
+ 
+ 
+(2) 
+Acceptance criteria. 
+The test of CS-E 800(c)(1)(v) must not cause: 
+— the Engine to be unable to complete the required test schedule;  
+— the Engine to be shut down before end of step 6;  
+— a sustained reduction in thrust to less than 50% Rated Take-off Thrust during step 1; 
+— a Hazardous Engine Effect.  
+(d) 
+Medium and small birds ingestion tests. Engine ingestion tests and analysis with medium- and 
+small-sized birds must be carried out as specified below. Alternative evidence may be 
+acceptable as provided under CS-E 800(g)(1). The small-birds test will not be required if the 
+prescribed number of medium-bird(s) pass into the Engine rotor blades during the medium bird 
+test.  
+(1) 
+Test Conditions. 
+(i) 
+The Engine operating conditions must be stabilised prior to ingestion at not less 
+than 100% of the Take-off Power or Thrust at the test day ambient conditions. In 
+addition, the demonstration of compliance must account for Engine operation at 
+sea level take-off conditions on the hottest day at which a minimum Engine can 
+achieve maximum rated Takeoff Power or Thrust. 
+(ii) 
+The critical ingestion parameters that affect power loss and damage must be 
+determined by analysis or component tests or both. They must include but are not 
+limited to the effects of the bird speed, the critical target location and the first 
+stage rotor speed. The critical bird ingestion speed must reflect the most critical 
+condition within the range of airspeeds for normal flight operations up to 450 m 

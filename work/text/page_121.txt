@@ -1,0 +1,68 @@
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+Annex to ED Decision 2025/003/R 
+Page 121 of 262 
+where T inlet is the module gas path inlet temperature in Kelvin and the exponent e is 
+determined empirically but has a typical value of 0.5. Corrected speed is a parameter 
+widely used in performance modelling. 
+Declared 
+Flight 
+Envelope: 
+The declared flight envelope is the set of all airborne and ground conditions of 
+operation to be approved, including start-up, shutdown and windmilling rotation in 
+flight. 
+Resonance: 
+Resonance is a condition that occurs when an oscillatory force applied to a component 
+has a frequency that coincides with one of the component’s natural frequencies, 
+resulting in an elevated vibratory response. A unique vibratory mode exists for each 
+natural frequency. 
+Flutter: 
+Flutter is a self-excited vibration of a component in a gas flow, caused by a continuous 
+interaction between the gas flow and the structure, in which energy from the flow is 
+diverted to the structure such that the vibratory response is sustained or increased. In 
+turbomachinery, it usually occurs at a natural frequency of the structure and in the 
+associated mode shape. 
+Significant 
+Response: 
+A significant response is one in which a vibratory stress exceeds the level that has been 
+previously agreed by the Agency as providing acceptable margin under CS-E 70 and CS-
+E 100 for the type of feature concerned. 
+Endurance 
+Limit: 
+The endurance limit of a component is the maximum value of alternating stress that, 
+when repeated for an essentially infinite number of cycles, will not result in high cycle 
+fatigue failure of the component. 107 cycles have generally been accepted as 
+‘essentially infinite’. The endurance limit is a function of steady-state stress, 
+temperature, geometry and material properties. 
+(2)
+Introduction
+The intent of the rule is to ensure the acceptable dynamic behaviour of all components and
+assemblies in a gas turbine Engine. More specifically, the rule is aimed at the avoidance of
+damaging high cycle fatigue failures.
+(3)
+Selection of Components
+CS-E 650(a) requires that the survey covers all components that may be subject to mechanically
+or aerodynamically induced vibrations. Component selection for the survey should be based on
+an appropriate combination of experience, analysis, and component test. The selected
+components would normally include:
+— 
+the most critical blades and vanes, from a vibration point of view, in the fan and each
+compressor and turbine module;
+— 
+all blade rows adjacent to variable incidence vanes; 
+— 
+all fan, compressor and turbine discs and spacers; 
+— 
+all main rotor shaft systems (and gears, when included in such systems); 
+— 
+any other component specifically identified as requiring Engine test to substantiate 
+analysis and/or to supplement component tests. 
+(4)
+Test Conditions
+A test or series of tests is an essential element of the survey. Whether the tests are new or
+baseline, the following conditions apply:
+(a)
+Rig testing
+Normally, a full Engine test is the preferred means to complete the survey. However, an
+applicant may elect to use rig tests for overcoming limitations associated with a full

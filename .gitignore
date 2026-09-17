@@ -21,3 +21,6 @@ dist/
 
 # Generated decks (regenerate from source/ + template/)
 output/
+
+# Project virtualenv
+.venv/

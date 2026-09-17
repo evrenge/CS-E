@@ -1,0 +1,52 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 245 of 262 
+ 
+AMC E 920 Over-temperature test 
+(1) To establish a datum turbine entry gas temperature, when this may vary at a fixed gas temperature 
+operating limit dependent upon the deterioration condition of the engine, it is considered reasonable 
+to assume an Engine condition in which the gas temperature operating limit is likely to be achieved 
+when at the maximum power setting. This would normally suggest that a deteriorated engine 
+condition may be assumed. 
+(2) For the purpose of the test of CS-E 920(b), "Maximum power-on rotor speed" is normally the steady 
+state rotor speed associated with the 30-Second OEI Power rating. However, this speed should be 
+substituted by the transient rotor speed if the Engine characteristic transient speed stabilisation 
+exceeds 3 seconds during the transition to the 30-Second OEI power. 
+In order to demonstrate that the Engine maintains the integrity of the turbine assembly after the over-
+temperature test, the applicant should show that no burst, no blade Failure or no other significant 
+Failure of any Engine component would occur or become evident during the test, during shutdown or 
+during the subsequent strip examination. 
+In the event that any Failure becomes evident, this should be analysed and it should be established by 
+analysis or test that the cause is not such that in service the OEI rating structure would not be 
+satisfactorily achieved. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 
+ 
+CS-E 930 Initial Maintenance Programme Test 
+(See AMC E 930) 
+A test must be performed with an Engine that adequately conforms to the type design to substantiate 
+the initial maintenance programme (IMP) that will be included in the instructions for continued 
+airworthiness (ICA) in order to ensure sufficient Engine reliability under in-service conditions. The test 
+must simulate the conditions in which the Engine is expected to operate in service, including typical 
+start–stop cycles. 
+[Amdt No: E/8] 
+ 
+AMC E 930 Initial Maintenance Programme Test 
+(a) 
+Definitions 
+For the purposes of this AMC, the following definitions apply. 
+(1) 
+‘Engine flight cycle’. Predicted average flight profile of the Engine parameters and 
+conditions representative of the way the Engine is expected to operate in service. 
+(2) 
+‘Initial maintenance programme (IMP)’. Instructions for continued airworthiness (ICA) 
+submitted under CS-E 25 that are considered necessary to ensure sufficient Engine 
+reliability. The ICA may be required by the type certificate holder in the ‘Airworthiness 
+Limitations’ section of the ICA or may be recommended at certain intervals. The IMP may 
+use hard time-based maintenance programming or on-condition-based maintenance 
+programming, or a combination of both. 

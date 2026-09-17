@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 59 of 262 
+ 
+In accordance with CS-E 130(a), the applicant should evaluate the effect of fire on components 
+conveying bleed air and evaluate whether Failure of such components could further increase 
+the severity or duration of a fire within a fire zone.  
+(8) 
+Firewall 
+The overall intent of CS-E 130(d)(2) is to provide specifications for the proper functioning of a 
+firewall which are consistent with the aircraft specifications on firewalls. In no case should a 
+hazardous quantity of flammable fluid or vapour pass around the firewall. Also, the firewall 
+should contain the fire without resulting in a Hazardous Engine Effect.  
+(9) 
+Shielding 
+The overall intent of CS-E 130(b) specification concerning the shielding and location of 
+components is to minimise the possibility of liquid flammable fluids contacting ignition sources 
+and igniting. Ignition sources include hot surfaces with temperatures at or above typical flash 
+points for aviation fuels, oils, and hydraulic fluids, or any component that produces an electrical 
+discharge. Compliance with this specification may be shown by installation of drainage shrouds 
+around flammable fluid lines or fittings; installation of spray shields to deflect leaking fuel away 
+from ignition sources, and general component location on the Engine which minimises the 
+possibility of starting and supporting a fire. Therefore, the overall substantiation should show 
+that leaked flammable fluid would be unlikely to impinge on an ignition source to the extent of 
+starting and supporting a fire.  
+[Amdt No: E/1]  
+[Amdt No: E/5] 
+[Amdt No: E/8] 
+CS-E 135  Electrical Bonding  
+(See AMC E 135) 
+Any components, modules, equipment and accessories that are susceptible to or are potential sources 
+of static discharges or currents from electrical Faults, must be designed and constructed so as to be 
+grounded to the main Engine earth, as necessary to minimise the accumulation of electro-static or 
+electrical charge that would cause: 
+— Injury from electrical shock, 
+— Unintentional ignition in areas where flammable fluids or vapours could be present, 
+— Unacceptable interference with electrical or electronic equipment.  
+[Amdt. No.: E/1] 
+AMC E 135  Electrical Bonding 
+Electrical bonding is a means to protect against the effects of electro-static discharges and currents 
+from electrical Faults. The overall intent of CS-E 135 is to ensure that: 
+(i) 
+a main Engine earth is provided. This is generally achieved by showing that all the elements of 
+the Engine carcass are electrically bonded together. 
+(ii) 
+a current path for electrical bonding exists between certain components that are mounted 
+externally to the Engine and the main Engine earth.  

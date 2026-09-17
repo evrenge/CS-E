@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 238 of 262 
+ 
+In general, experience has shown that Failures of shafts occur at a rate in excess of Extremely 
+Remote. Consequently, shaft systems should be designed to fail safe as required by CS-E 
+850(a)(1). However, it is accepted under CS-E 850(a)(3) that, for conventional designs, this is 
+not possible for all parts of a shaft system, but the use of this provision should be strictly limited. 
+Two possible hazardous effects of shaft Failure should be particularly considered: a release of 
+the complete fan or compressor moving forward and an over-speed of the turbine leading to 
+disc burst. 
+Industry experience with shaft Failures should be considered under CS-E 850(b)(2)(v). In 
+particular, the following Failure modes have all led to shaft Failures in service:  
+— Degradation of a bearing, leading to shaft orbiting and subsequent contact between the 
+shaft and other rotating or static parts;  
+— Blade Failure, resulting in an imbalance and rubbing of the shaft on other parts;  
+— Corrosion inside the shaft;  
+— Fuel flow instability in the Engine Control System inducing a resonance in the shaft;  
+— An oil fire around the shaft;  
+— Impingement of hot air on the shaft; 
+— A bearing Failure;  
+— An HCF Failure from a stress concentration feature;  
+— A loss of lubrication of a spline.  
+Further, features such as splines, oil feed holes, couplings, bearing tracks that are integral with 
+the shaft and sealing fins should be shown to be well understood and conducive to well-
+established and validated stressing techniques.  
+When the assessment for compliance with CS-E 850(b)(2)(iii) is that a shaft Failure due to the 
+environment can be discounted, the ability to inspect the critical section of a shaft at the defined 
+intervals and the appropriateness of the inspection method should be taken into account. For 
+example, the Failure of a section of a shaft, which could cause Hazardous Engine Effects, in an 
+area which would make inspection of the critical section in accordance with the manual difficult, 
+may not be acceptable.  
+(4) 
+Design Assessment 
+(a) 
+The following aspects should be included when assessing the causes and probabilities of 
+a shaft Failure - 
+(i) 
+The potential for, and possible effects of, undetected material defects; 
+(ii) 
+The effects of manufacturing tolerances allowed by the design; 
+(iii) 
+Rubbing between any torque-loaded section of the shaft and adjacent surfaces 
+(e.g. other shafts, oil seals, air seals) to the extent that significant over-heating or 
+reduction in strength could occur; 
+(iv) 
+The effect on the shaft of a bearing Failure and the desirability of provision (e.g. by 
+maintenance techniques and/or flight instrumentation) for the detection of an 
+incipient bearing Failure. The possibility of isolating the bearing from the shaft and 
+thus increasing the damage tolerance of the system should be considered; 

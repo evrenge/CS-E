@@ -1,0 +1,35 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 198 of 262 
+ 
+rain and hail in Appendix A represent ambient conditions, not test conditions at the 
+Engine inlet.  
+(c) 
+Rain and Hail Concentration Amplification and Attenuation Effects 
+During in-flight encounters with rain and hail, changes in Engine power/thrust and flight 
+speed can alter the rain or hail concentration within the Engine for any given atmospheric 
+rain or hail content.  
+(i) 
+Scoop Factor Effect (Refer to Figure 1) 
+The inlet capture stream tube for airflow varies widely across the spectrum of 
+Engine power/thrust and flight speed. At low Engine power/thrust and high flight 
+speed, the air intake specifications are minimal in comparison to the available ram 
+air. Consequently, a significant portion of the air in front of the inlet spills outside 
+the inlet lip (see Figure 1). Due to their mass, large rain droplets and hail are 
+relatively unaffected by this spillage and will be captured by the inlet. The amount 
+of rain or hail captured through the inlet will be established by the inlet highlight 
+area. The amount of this amplification effect is equal to the ratio of the nacelle 
+inlet highlight area (Ah) to the captured air stream tube area (Ac). This ratio is the 
+scoop factor and it increases with decreasing Engine speed and increasing aircraft 
+speed, due to the increase in inlet airflow spillage resulting from a smaller captured 
+air stream tube. Further, by-pass turbofan engines may have an additional internal 
+scoop factor effect due to the divergence of the Engine core stream tube from the 
+nacelle inlet to the core inlet at low Engine power and high flight speed. Therefore 
+although the scoop factor effect generally results in concentration amplification, 
+the amplification is greatest when high flight speed is combined with low power / 
+thrust. 

@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 92 of 262 
+ 
+Because the Failure of an Engine Critical Part is likely to result in a Hazardous Engine Effect, it is 
+necessary to take precautions to avoid the occurrence of Failures of such parts. Under CS-E 
+510(c), they are required to meet prescribed integrity specifications.  
+For that purpose, an Engineering Plan, a Manufacturing Plan and a Service Management Plan 
+are required under CS-E 515. These three plans define a closed-loop system which link the 
+assumptions made in the Engineering Plan to how the part is manufactured and maintained in 
+service; the latter two aspects are controlled by the Manufacturing and Service Management 
+Plans respectively. These plans may generate limitations which are published in the 
+Airworthiness Limitation Section of the Instruction for Continued Airworthiness. This AMC 
+provides means for the establishment of such plans.  
+(2) 
+General 
+(a) 
+Identification of Engine Critical Parts  
+The safety analysis required under CS-E 510 identifies Engine Critical Parts that are 
+required to comply with CS-E 515. An Engine Critical Part is a Critical Part, by definition, 
+with regard to compliance with Part 21.  
+If a part is made of various sub-parts, which are finally integrated in an inseparable 
+manner into a unique part, and any one of the sub-parts is identified as an Engine Critical 
+Part, the entire part is then treated as an Engine Critical Part.  
+(b) 
+Attributes of a part 
+‘Attributes’ include, but are not limited to, material mechanical properties, material 
+microstructure, material anomalies, residual stress, surface condition, and geometric 
+tolerances. Processes such as alloy melting practise, ingot conversion to billet or bar, 
+forging, casting, machining, welding, coating, shot peening, finishing, assembly, 
+inspection, storage, repair, maintenance and handling may influence the Attributes of the 
+finished part. Environmental conditions experienced in service may also affect the 
+Attributes.  
+(c) 
+Content of a plan 
+The Engineering Plan, Manufacturing Plan and Service Management Plan should provide 
+clear and unambiguous information for the management of the Engine Critical Parts.  
+‘Plan’, in the context of this rule, does not necessarily mean having all technical 
+information contained in a single document. If the relevant information exists elsewhere, 
+the plan may make reference to drawings, material specifications, process specifications, 
+manuals, etc., as appropriate. It should be noted that these references should be clear 
+enough to uniquely identify the referenced document. The plan should allow the history 
+of the individual part number to be traced.  
+(3) 
+Means for defining an Engineering Plan 
+(a) 
+Introduction 
+The Engineering Plan consists of comprehensive life assessment processes and 
+technologies that ensure that each Engine Critical Part can be withdrawn from service at 
+a life before Hazardous Engine Effects can occur. These processes and technologies 
+address the design, test validation, and certification aspects, and also define those 
+manufacturing and service management processes that should be controlled in order to 
+achieve the Engine Critical Part design intent.  
+(b) 
+Elements of the Engineering Plan 

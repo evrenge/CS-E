@@ -1,0 +1,34 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 261 of 262 
+ 
+— If the long-time Faults were to be addressed using the periodic inspection/repair maintenance 
+approach, the inspection/repair interval could not be longer than 500 hours for entry level system 
+and 2,700 hours for a mature level system. This in accordance with Table 3. 
+— If the short-time Faults were to be addressed using the periodic inspection/repair maintenance 
+approach, the inspection/repair interval could not be longer than 250 hours for entry level system 
+and 300 hours for a mature level system. This in accordance with Table 3. 
+ 
+Figure 2: Different possible ways of managing Dispatch with Engine Faults 
+ 
+[Amdt No: E/1] 
+CS-E 1040 ETOPS 
+(See AMC 20-6) 
+In order to be approved for ETOPS capability, the engine shall achieve an IFSD rate that is compatible 
+with the safety target associated to the maximum flight duration and the longest diversion time for 
+which approval is being sought. 
+[Amdt. No.: E/3] 
+CS-E 1050 Exposure to volcanic cloud hazards 
+(See AMC E 1050) 
+(a) 
+The susceptibility of turbine Engine features to the effects of volcanic cloud hazards must be 
+established. 
+(b) 
+Information necessary for safe operation must be provided in the relevant documentation. 
+[Amdt. No. E/4] 

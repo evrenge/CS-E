@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 235 of 262 
+ 
+(i) 
+The sample rotor was initially run at conditions not less severe than those required 
+for compliance with CS-E 840(a), and 
+(ii) 
+CS-E 840(d) can be complied with using an approved analytical modelling method. 
+(4) 
+Factors To Be Considered When Determining Test Conditions 
+(a) 
+Temperature 
+The rotor temperatures required by CS-E 840(b) are:  
+(i) 
+For CS-E 840(b)(1) or (b)(2) the material temperatures and temperature gradients 
+equal to the most adverse which could be achieved when operating in the Engine 
+at the required rating condition. 
+(ii) 
+For CS-E 840(b)(3) or (b)(4) the material temperatures and temperature gradients 
+equal to the most adverse which could be achieved when operating in the Engine 
+at the required rating condition immediately prior to the Failure(s). 
+These temperatures and temperature gradients should be established by temperature 
+surveys on an Engine, or derived by a validated analysis. Adjustments of test speed or 
+blade mass or both should be applied to compensate for any deviation from the required 
+temperatures and temperature gradients.  
+(b) 
+Sample Rotor Material Properties 
+Material properties of the sample rotor may be determined from attached test rings/bars 
+when the correlation of their properties has been established by a validated method 
+using coupons obtained from forgings/castings of the type to be approved.  
+When attached test rings/bars are not available to determine the material properties of 
+the sample rotor, a value for the material properties may be established by assuming that 
+the sample rotor possesses material properties equal to known average properties of 
+similar rotors from the same manufacturing process lot if it can be shown that the 
+assumption is valid within acceptable confidence limits.  
+(c) 
+Dimensional tolerances 
+Analysis of dimensional tolerances should be made to identify the most adverse 
+combination with respect to the integrity of the rotors. 
+(5) 
+Failure Cases 
+In order to determine the highest over-speed resulting from a loss of load to be considered 
+under CS-E 840(c), it will be necessary to consider, for possible Failure locations, such factors as 
+system inertia, available gas energy, whether the rotor is held in plane, over-speed protection 
+devices, etc. 
+[Amdt. No.: E/1] 
+[Amdt No: E/5] 
+CS-E 850 Compressor, Fan and Turbine Shafts 
+(See AMC E 850) 
+(a) 
+Objectives. 
+(1) 
+It must be demonstrated that Failures of the shaft systems will not result in Hazardous 
+Engine Effects, except as provided in CS-E 850(a)(3).  

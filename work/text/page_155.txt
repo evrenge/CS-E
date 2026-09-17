@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 155 of 262 
+ 
+The following examples illustrate an approach, but not the only approach, to create an alternate 
+endurance test that uses the comparative severity methodology presented in paragraph 5 of 
+this AMC. 
+In these examples, comparative severity to the original intent of the classic endurance test is 
+based on the creep failure mode, as explained in paragraphs 4 and 5 of this AMC. Damage 
+factors relating to this failure mode are calculated for one hour of operation at each of the 
+intended limiting power settings and input into a spreadsheet accounting tool (see Figure 7.1). 
+ 
+ 
+Figure 7.1. Severity Factors (Life Usage Rate) for Critical Components 
+ 
+The specifications of CS-E 740(c)(4)(iv) ‘Engine Operating Limits Demonstration’ are illustrated 
+in Figure 7.2, along with the damage factors associated with Engine operation at each power 
+setting condition for each prescribed duration. These test specifications represent minimum 
+durations in a prescribed portion of the test. Additional testing at these conditions may be 
+required based on the results of the applicant’s CPA. 
+ 
+Figure 7.2. Severity Usage for Engine Operating Limit Demonstrations 
+ 
+Compliance with the specifications of CS-E 740(c)(4)(vii) consists of testing at 15 equally spaced 
+thrust/power settings between idle and MCT. A duration of 10 minutes is prescribed at each 
+Test Segment
+Component #1 Component #2 Component #3
+MTO NL OL
+0.00324
+MTO NH OL
+0.01354
+MTO EGT OL
+0.00726
+MCT NL OL
+0.00284
+MCT NH OL
+0.00933
+MCT EGT OL
+0.00448
+MTO EGT Limiting
+0.00551
+MCT EGT Limiting
+0.00273
+MTO Rated Thrust
+0.00156
+MCT Rated Thrust
+0.00142
+Severity / Hr for Critical Components
+Damage factors for 
+each 
+condition 
+normalised to one 
+hour 
+at 
+that 
+condition 

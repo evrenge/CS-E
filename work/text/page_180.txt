@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 180 of 262 
+ 
+Limited Engine damage should satisfy the following criteria: 
+(a)  
+Continued In-Service Use. The applicant should evaluate any resultant Engine 
+damage and demonstrate that it does not affect the Engine performance and 
+operability for continued in-service use. This includes continued safe operation 
+with no imminent failures expected, no significant power or thrust loss, and no 
+significant aeromechanical effect. 
+(b)  
+Sustained Power or Thrust Losses. The Engine should not experience any sustained 
+power loss beyond 1.5 % (that is, the nominal accepted level considered to be 
+within measurement capability). 
+(c)  
+Temporary or Momentary Power Loss. Where possible, early coordination with the 
+aircraft manufacturer is recommended to assess the acceptability of temporary or 
+momentary power or thrust losses. 
+(d)  
+Validation Basis. Analytical tools used to substantiate the criteria for determining 
+acceptable damage should demonstrate an acceptable validation basis. For 
+example, validation could utilise Engine tests or rig tests to substantiate the 
+accuracy of results. An acceptable analytical tool validation basis includes test data 
+which yields conservative results. 
+(e)  
+Engine Damage. Damage to the Engine or Engine components as a result of icing 
+compliance testing should not exceed the limits provided in the Instructions for 
+Continued Airworthiness. Cumulative damage from repeated encounters should 
+be considered a part of this assessment. Any damage findings should be brought 
+to the attention of the Agency for approval. 
+(f)  
+High Vibration. The applicant must ensure that high vibration that may occur 
+during operation in icing conditions is assessed for the specific aircraft installation. 
+The acceptability of high vibration with regard to its potential impact on the safety 
+of the aircraft should be evaluated in cooperation with the aircraft manufacturer, 
+where possible. 
+Water Impingement Rate: The rate of water collection on an Engine surface during a 
+specific period of time. The units of the water impingement rate are g/m2/min. 
+Note: Additional definitions can be found in Reference 2. — SAE ARP 5624. 
+(1.2) References 
+1.  
+Mixed-Phase Icing Condition: A review (DOT/FAA/AR-98/76), Dr. Riley, James T, 
+Office of Aviation Research, Washington D.C. 20591, U.S. Department of 
+Transportation, Federal Aviation Administration, December 1998. 
+2.  
+SAE Aerospace Recommended Practice (ARP) 5624 — ‘Aircraft Inflight Icing 
+Terminology’, issued on 3.3.2008, reaffirmed on 23.4.2013. 
+(1.3) Test Configuration — Engine 
+Because the Engine behaviour cannot easily be divorced from the effects of the Engine 
+air intake and Propeller, where possible, it is recommended that the tests be conducted 
+on an Engine complete with representative air intake, Propeller (or those parts of the 
+Propeller which affect the Engine air intake), and Engine air data probes. Separate 
+assessment and/or testing of the air intake, Propeller and air data probes are not 
+excluded but in such circumstances, the details of the assumed Engine installation will be 
+defined in the manuals containing instructions for installing and operating the Engine 

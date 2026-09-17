@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 108 of 262 
+ 
+(4) 
+Validation of the Engine model static structure is achieved by a combination of Engine and 
+component tests, which include structural tests on major load path components, or by analysis, 
+or both. The adequacy of the Engine model to predict rotor critical speeds and forced response 
+behaviour is verified by measuring Engine vibratory response when imbalances are added to 
+the fan and other rotors (See CS-E 650). Vibration data is routinely monitored on a number of 
+Engines during the engine development cycle, thereby providing a solid basis for model 
+correlation.  
+(5) 
+Correlation of the model against the CS-E 810 blade loss Engine test is a demonstration that the 
+model accurately represents: 
+— initial blade release event loads,  
+— any rundown resonant response behaviour,  
+— frequencies,  
+— Failure sequences, and  
+— general Engine movements and displacements, including interface features between 
+Engine and aircraft. 
+(6) 
+To enable this correlation to be performed, instrumentation of the blade loss engine test should 
+be used (e.g. use of high-speed cinema and video cameras, accelerometers, strain gauges, 
+continuity wires, and shaft speed tachometers). This instrumentation should be capable of 
+measuring loads on the engine attachment structure.  
+(7) 
+The aircraft and Engine manufacturers should mutually agree upon the definition of the model, 
+based on test and experience.  
+[Amdt No: E/2] 
+[Amdt No: E/7] 
+AMC E 520(d) Strength – Local Failures 
+Local Failures of the Engine casing may include localised cracking. For any casing design that allows for 
+residual crack growth:  
+(a)  
+it should be demonstrated that the condition of the casing, including the maximum predicted 
+crack size, will not lead to a Hazardous Engine Effect;  
+(b)  
+if the Failure of the casing, for instance as the result of ultimate crack growth, could result in a 
+Hazardous Engine Effect, then the part should be classified as a Critical Part in accordance with 
+CS-E 510(a)(2) and be in compliance with the Integrity Specifications of CS-E 515. 
+[Amdt No: E/5] 
+CS-E 525 Continued Rotation 
+(see AMC E 525) 
+If any of the Engine’s main rotating systems will continue to rotate after the Engine is shutdown for 
+any reason while in flight, and means to prevent that continued rotation, are not provided, any 
+continued rotation during the maximum period of flight and in the flight conditions expected to occur 
+with that Engine inoperative must not result in effects that would be unacceptable under CS-E 510. 
+[Amdt. No.: E/1] 

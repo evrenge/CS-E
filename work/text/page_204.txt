@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 204 of 262 
+ 
+(c) 
+Operational Factors 
+With knowledge of the power-loss and instability phenomena, the applicant can establish 
+an operating envelope which minimises the power-loss and instability threats.  
+(i) 
+Increased power/thrust levels 
+Increasing Engine power/thrust will increase rotor speeds and air intake 
+specifications. This is beneficial because an increase in rotor speed will tend to 
+improve centrifuging, while an increase in airflow will tend to decrease the adverse 
+scoop factor effect. Combustor stability margin will also be improved with 
+increased power / thrust. 
+(ii)  
+Avoidance of Engine transients  
+Avoidance of Engine transients improves the stall and surge tolerance of the Engine 
+and reduces the likelihood of rundown. However, avoidance of throttle transients 
+should not be used by the applicant to show compliance with the rain and hail 
+ingestion specifications.  
+(iii) 
+Decreased flight speeds 
+Reduced aircraft speed, like increased power levels, is beneficial because it 
+improves centrifuging while decreasing the adverse scoop factor effect.  
+(4) 
+Critical Point Analysis 
+(a) 
+General 
+Compliance with the specifications of CS-E 790(a)(2) is a two-step procedure. The first 
+step is to identify, through analysis, the critical operating points for rain and hail 
+ingestion. The second step is to test the Engine at selected critical points to validate the 
+Engine's capability to adequately withstand extreme rain and hail encounters. The 
+applicant should develop a critical point analysis and submit the analysis to the Agency 
+for concurrence, prior to the rain and hail ingestion testing. 
+(b) 
+Critical Point Analysis Elements 
+The purpose of the critical point analysis is to identify operating points within the Engine 
+flight envelope where operability margins are minimised due to the ingestion of rain or 
+hail. The analysis should encompass the full range of all pertinent variables. These 
+variable include, but are not limited to:  
+(i) 
+Atmospheric conditions 
+The rain and hail threats identified in Figure A1 and Tables A1 to A4 in Appendix A 
+of CS-E should be used for this purpose. The critical point analysis should consider 
+the effects of nominal, as well as extreme, levels of rain or hail on the function of 
+all relevant Engine components and systems.  
+(ii) 
+Rain and hail concentration amplification and attenuation effects 
+The critical point analysis should quantify the amount of rain and, separately, the 
+amount of hail ingested into the Engine core. Therefore, amplification and 
+attenuation effects, such as the scoop factor effect and the relative velocity effect, 
+should be quantified. This may necessitate assessing a representative installation 
+aerodynamic flow field and probable flight profiles. In the case of rain ingestion, 
+droplet break-up characteristics need to be established or conservatively assessed. 
+In the case of hail ingestion, the trajectories of hail particles after impacting nose 

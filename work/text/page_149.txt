@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 149 of 262 
+ 
+(A) 
+The temperature rise under service conditions is the result of a local increase 
+in the oil temperature at the temperature sensing position (e.g. as may occur 
+on reducing power at the top of the climb when fuel is used as the oil cooling 
+medium), 
+(B) 
+There is no significant increase in the maximum local temperature of either 
+the Engine components or the oil in any Engine Critical Part, and 
+(C) 
+There is no undue deterioration of the oil in such circumstances and no 
+adverse effect on any system using the oil as a working fluid (e.g. Propeller 
+control). 
+(g) 
+Incremental Periods. 
+(1) 
+If a significant vibration response is found to exist on relevant components in the course 
+of establishing compliance with CS-E 650 at any condition within the operating range of 
+the Engine (not prohibited under CS-E 650(f)), not less than 10 hours, but not exceeding 
+50 %, of the incremental periods of Part 4 in CS-E 740(c)(1), (2) or (3) of the endurance 
+test, or CS-E 740(c)(4)(vii) of the alternate endurance test, if applicable, must be run with 
+the rotational speed varied continuously over the range for which vibrations of the largest 
+amplitude were disclosed by the vibration survey; if there are other ranges of rotational 
+speed within the operational range of the Engine where approximately the same 
+amplitude exists, a further 10 hours must be run in the same way for each such range. 
+The speed variation must be effected by automatic means using a method acceptable to 
+the Agency. (See AMC E 740(g)(1)) 
+(2) 
+In the case of Engines operating at constant speed, the thrust and/or power may be 
+varied in lieu of speed, in Part 4 of the endurance test. 
+(3) 
+In the case of free power-turbine Engines, the normal operating range of power-turbine 
+speed must be covered. This may be run concurrently with the range of gas generator 
+speed. 
+(4) 
+In the case of a free power-turbine Engine for Rotorcraft, 10 minutes of Part 4 in each 
+stage of the endurance test must be run at the Maximum Power-turbine Speed for 
+Autorotation with the gas generator producing the most critical conditions associated 
+with this flight configuration. 
+(h) 
+Engine Performance Target after Test Completion. 
+After completion of the endurance test, the Engine must be able to provide the rated thrust or 
+power levels without exceeding operating limitations. 
+(i) 
+Inspection Checks 
+(1) 
+After completion of the test, the Engine must be subject to a strip inspection, and the 
+dimensions measured in accordance with CS-E 740(b)(5) must be re-measured and 
+recorded. The condition of the Engine must be satisfactory for safe continued operation. 
+Separately functioning Engine components and equipment must be functionally checked 
+prior to strip to ensure that any changes in function or settings are satisfactory for normal 
+operation. 
+(2) 
+Engines with 30-Second and 2-Minute OEI Power ratings must be subjected to a full strip 
+inspection after completing the additional endurance test of CS-E 740(c)(3)(iii). (See 
+AMC E 740(i)(2)) 

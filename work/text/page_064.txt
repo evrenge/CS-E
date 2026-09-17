@@ -1,0 +1,43 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 64 of 262 
+ 
+(3) 
+200 reverse pitch change cycles (braking or manoeuvring, whichever is greater), and 
+sustaining the appropriate maximum declared Engine conditions for 1 minute during each 
+cycle. In this case, the periods of the endurance test covering the range of cruising 
+conditions may be reduced by a total of 3 hours. 
+(4) 
+1 reverse (manoeuvring) pitch change cycle, sustaining the appropriate maximum 
+declared Engine conditions for 5 minutes. 
+(c) 
+Additional tests with Reversible Pitch Propellers on Piston Engines - 
+(1) 
+Where approval of an Engine for use with Reversible Pitch Propellers is sought, the 
+appropriate tests of Certification Specifications for Propellers must be run on Engines 
+sufficiently representative of the type design. 
+(2) 
+After completion of these tests, those parts of the Engines which may be affected by the 
+reversed thrust or air flow, must be removed and examined and must be shown to have 
+suffered no adverse effects. 
+(d) 
+Any other tests considered necessary to demonstrate that the Propeller-Engine combination 
+will function satisfactorily. 
+[Amdt. No.: E/1] 
+AMC E 180  Propeller Functioning Tests 
+For Propeller approval the remaining tests of CS-P may be conducted on another Engine of the same 
+type providing the same Propeller without further adjustment is used. 
+For Piston Engines, auxiliary cooling may be used during tests of CS-E 180(b)(3) and (4). 
+[Amdt. No.: E/1] 
+CS-E 190  Engines for Aerobatic Use 
+Where approval is sought for an Engine intended for use in an aeroplane for which the Flight Manual 
+will approve aerobatics or semi-aerobatic flight, the ability of the Engine to continue to function safely 
+in conditions of inverted flight or for intentional negative g conditions for specified periods must be 
+demonstrated. Where the evidence is considered to be acceptable, and such tests as are necessary 
+have been completed satisfactorily, the Engine Type certificate data sheet will be endorsed by means 
+of a note, e.g. ‘the Engine may be used under sustained negative g or inverted flight conditions for 
+continuous periods not exceeding... seconds’. 

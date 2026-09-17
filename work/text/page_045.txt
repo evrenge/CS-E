@@ -1,0 +1,82 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 45 of 262 
+ 
+ENVIRONMENTAL CONDITIONS  
+ACCEPTABLE TESTS/PROCEDURES  
+1  
+High Temperature  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.5  
+2  
+Low Temperature  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.7  
+3  
+Room Temperature  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 4 or Mil-E-5007 paragraph 4.6.2.2.6  
+4  
+Contaminated Fluids  
+As a reminder.  
+See relevant CS-E specifications for fuel/oil/air 
+specifications  
+or  
+Mil-E-5007 paragraph 3.7.3.3.2 Table X 
+(fuel test only) 
+5  
+Vibration  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 8  
+6  
+Operational shock and crash safety  
+EUROCAE ED-14 / RTCA/DO-160,  
+Sections 7.2 and 7.3.1 
+7  
+Sand and Dust  
+EUROCAE ED-14 / RTCA/DO-160, Section 12, 
+Category D or MIL-STD-810  
+8  
+Fluid Susceptibility  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 11, Category F  
+9  
+Salt Spray  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 14, Category S or MIL-STD-810  
+10  
+Fuel System Icing  
+As a reminder. See CS-E 560 (e)  
+11  
+Induction Icing  
+As a reminder. See CS-E 230 & CS-E 780  
+12  
+Fungus  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 13, Category F  
+13  
+Temperature and altitude  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 4  
+ 
+High Temperature  
+The high temperature demonstration is to verify that the equipment can function 
+properly in its maximum temperature environment and to identify any damage caused 
+by exposure to maximum temperature that could lead to equipment Failure. Maximum 
+conditions should take into account ambient, external and internal fluid temperatures to 
+which the equipment is exposed. Historical specifications can be found in MIL-E-5007 
+Paragraph 4.6.2.2.5. EUROCAE ED-14 /RTCA/DO160 Section 4 tests have been used to 
+show compliance.  
+Low Temperature  
+The low temperature demonstration is to verify that the equipment can function properly 
+in its minimum temperature environment and identify any damage caused by exposure 
+to minimum temperature that could lead to equipment Failure. Minimum conditions 
+should take into account ambient, external and internal fluid temperatures to which the 
+equipment is exposed. Historical specifications can be found in MIL-E-5007 Paragraph 
+4.6.2.2.7. EUROCAE ED-14 /RTCA/DO160 Section 4 tests have been used to show 
+compliance.  
+Room Temperature  

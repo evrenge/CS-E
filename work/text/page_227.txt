@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 227 of 262 
+ 
+(iii) 
+by other evidence acceptable to the Agency. 
+(b) 
+Tests for containment are detailed in (2) and those for running following blade Failure are 
+detailed in (3), but where the most critical blade from the point of view of blade 
+containment is the same as that for the subsequent out-of-balance running, it is 
+acceptable to combine the tests of (2) and (3).  
+(c)  
+In order to comply with CS-E 810(a), the threat represented by any blade Failure must be 
+addressed. Therefore, the applicant should assess other possible blade Failure conditions 
+(e.g. blade released at a different angular position, partial blade Failure, or release at 
+speeds below the maximum to be approved) to ensure that the conditions of paragraphs 
+(2)(c)(i) and (2)(c)(ii) below would be satisfied for any blade Failure. It is recognised that 
+limitations on prediction capabilities exist, particularly in relation to the prediction of 
+axially released debris. Engineering judgement based on available test and service 
+experience may be used to evaluate these threats.  
+(d)  
+When assessing the potential Hazardous Engine Effect resulting from other damage 
+before Engine shutdown, the applicant should consider the long-term effects (e.g. 
+unbalance loads) of blade Failures which would not be detected by the declared 
+instrumentation, such as vibration detectors. If reliance is placed on Engine shutdown by 
+the flight crew to prevent propagation to Hazardous Engine Effect, then appropriate 
+means should be provided to ensure flight crew action and adequate instructions are 
+required in the Engine manuals required by CS-E 20(d). 
+(2) 
+Containment 
+(a) 
+General. Containment tests should be made, either - 
+(i) 
+on the complete Engine; or 
+(ii) 
+on the individual stage concerned with the adjacent stators, where - 
+(A) 
+the actual strength of casing under the anticipated operation conditions (e.g. 
+temperature and pressure) is taken into account; and 
+(B) 
+adequate evidence is available such as to indicate that the aircraft would not 
+be endangered by the effect of the blade Failure on subsequent blade rows. 
+(b) 
+Test Conditions. Separate tests on each compressor and turbine stage adjudged to be 
+most critical from the point of view of blade containment (account being taken of blade 
+size, material, radius of rotation, Rotational Speed and the relative strength of the 
+adjacent Engine casing under operating temperature and pressure conditions) should be 
+carried out in accordance with the conditions of (i) and (ii). 
+NOTE: Where the Engine design is such that potentially Engine Critical Parts overlie the 
+compressor or turbine casing (e.g. bypass Engines, or reverse flow Engines where the 
+combustion systems may be outside the rotors), consideration should also be given to 
+possible hazardous internal damage caused by blades penetrating the rotor casings, even 
+though they are contained within the external geometry of the Engine. Consideration 
+should also be given to AMC E 520(c)(1) paragraph (2).  
+(i) 
+Number of blades to be detached. One blade should be released at the top of the 
+retention member. 
+(A)  
+For composite fan blades only, the fan blade may be released at the inner 
+annulus flow path line, provided that:  

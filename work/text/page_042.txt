@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 42 of 262 
+ 
+(a) 
+Forgings should be classified as Class 1, Class 2 or Class 3 parts in accordance with the 
+following: 
+— Class1 Those parts, the Failure of which could hazard the aircraft. 
+— Class 2 Stressed parts not covered by the terms of Class 1.  
+— Class 3 Unstressed or only lightly stressed parts, not covered by the terms of Class 1. 
+The means of maintaining the required quality of all forgings should be established by 
+such methods as analysis for correct chemical composition, tests of mechanical 
+properties, microscopic examination, fracture examination, strength tests, radiographic 
+examination, etc.  
+On the drawings of Class 1 parts, the direction of grain required should be indicated 
+clearly in a manner which will ensure that it is brought to the notice of the person 
+responsible for deciding the forging technique to be adopted. The agreed material 
+properties should also be identified.  
+All forgings should be subjected to a suitable crack-detection process at an appropriate 
+stage. Additional crack-detection tests should be made after any subsequent heat 
+treatment has been completed. Where the level and location of residual stresses in 
+forged Engine Critical Parts could be significant in relation to the intended loads, and 
+cannot be assessed by experience on similar designs using similar materials and forging 
+methods, sufficient physical tests should be carried out to give adequate assurance of the 
+level of residual stress likely to be present and of freedom from unacceptable variability.  
+When radiographic or ultrasonic examination is called for, this should be continued until 
+a satisfactory standard of quality has been established. Subsequent relaxation may be 
+introduced in quantity production at the Engine constructor's discretion using a system 
+acceptable to the Agency.  
+The drawings of each forging should contain information sufficient to identify the 
+relevant means of manufacture (e.g. the optimum fabrication method and sequence to 
+obtain the desired level of residual stress and the correct grain flow in the finished 
+forgings) and quality control either by detailing the necessary information or quoting the 
+relevant process control documents.  
+The strength of forgings classified as Class 1 or Class 2 parts should be proved to be 
+satisfactory by calculation, by test, or comparison with a forging of similar design already 
+proved to be satisfactory.  
+(b) 
+Tests 
+Each Class 1 and Class 2 forging should normally incorporate one or more projections 
+which, after heat treatment of the forging, can be used as test piece(s) to establish that 
+the material qualities of the forging are satisfactory.  
+The location(s) and dimensions of the test piece(s) should be decided in consultation with 
+the forging manufacturer. The forging manufacturer should certify that the test piece(s) 
+achieve the required material properties.  
+In cases where the incorporation of test pieces is unpractical, or would adversely affect 
+the design, the drawing should indicate that such test pieces are not required. In such 
+cases a suitable technique of sample testing should be agreed.  
+(c) 
+No change of forging constructor or significant change of forging technique should be 
+made without the agreement of the Engine constructor and such agreement should 

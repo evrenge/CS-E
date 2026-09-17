@@ -1,0 +1,29 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 199 of 262 
+ 
+ 
+Figure 1 Scoop Factor 
+ 
+(ii) 
+Relative velocity centrifuging effects 
+Some of the rain and hail will be centrifuged away from the Engine core by a fan 
+and, to a lesser extent, away from the Engine by a Propeller. This beneficial effect 
+is dependent upon the fan or Propeller geometry and rotational speed, inlet design 
+and location, Engine design, aircraft velocity and on the sizes of the rain droplets 
+and hailstones. 
+(A) 
+Turbofan and turbojet aeroplane Engines (Refer to Figure 2) 
+— Rain 
+The inlet diffusing flow field pressure gradients act to shear large 
+droplets into small droplets that decelerate and enter the fan at 
+velocities close to the inlet air velocity. As depicted in Figure 2, the 
+majority of droplets that enter the Engine at gas path speeds will strike 
+the fan and be centrifuged away from the Engine core.  
+The forces acting upon the rain droplets in flight will vary with 
+aeroplane velocity and altitude. A portion of the rain droplets entering 

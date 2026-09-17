@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 79 of 262 
+ 
+AMC E 440(b)(3) Endurance Test - Schedule for Engine Incorporating 
+a Turbocharger 
+Altitude testing may be simulated provided it is shown that the Engine and turbocharger are being 
+subjected to mechanical loads and operation temperatures no less severe than if run at actual altitude 
+conditions. 
+[Amdt. No.: E/1] 
+CS-E 450  Ignition Tests 
+For spark-ignition Engines:  
+(a) 
+If the design of the ignition system includes redundancy, the reduction in Engine power resulting 
+from loss of redundancy shall be established. Tests shall be carried out with the Engine running 
+at Take-off power setting at the beginning and at the end of each part of the endurance test of 
+CS-E 440.  
+(b) 
+In no case shall the reduction in power during the test exceed the value declared under CS-E 
+240(b)(1).  
+CS-E 460  Backfire Tests 
+For spark ignition Engines: 
+(a) 
+After completion of the endurance test of CS-E 440, functioning tests of the Engine shall be 
+made to determine if there is any tendency for the Engine to backfire when using the normal 
+means of starting and during accelerations effected by any reasonable means.  
+(b) 
+(1) 
+If after the completion of the endurance test, no tendency for the Engine to backfire is 
+established, three backfires shall be produced artificially on an Engine of the same type. 
+If, however, a tendency to backfire is established, at least twenty backfires shall be 
+produced artificially on an Engine of the same type. 
+(2) 
+If necessary, mechanical mal-adjustment shall be used to cause backfiring. 
+Maladjustment may include the mixture setting (if applicable) artificially weakened, non-
+standard ignition timing, an inlet tappet adjusted to hold the valve off its seat, or crossed 
+ignition leads. 
+(3) 
+The effect of backfires occurring during starting and during running conditions shall be 
+established. 
+(4) 
+In order to qualify for approval, the Engine shall not suffer serious damage as a result of 
+these tests. 
+CS-E 470  Contaminated Fuel 
+(See AMC E 470) 
+Evidence shall be provided that the complete Engine fuel system is capable of operating without 
+Engine malfunctioning under any likely quantities of solid contaminant, water and ice present in the 
+fuel. If compliance relies upon fuel anti-icing additive(s) or other means incorporated in the aircraft 
+fuel system, this shall be declared under CS-E 30 together with a statement of the conditions under 
+which use of additive(s) is approved. 

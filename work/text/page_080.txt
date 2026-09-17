@@ -1,0 +1,28 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 80 of 262 
+ 
+[Amdt. No.: E/1] 
+AMC E 470  Contaminated Fuel 
+In complying with CS-E 470, the following contaminant specifications and levels are considered 
+acceptable: 
+(1) 
+Solid Contaminants 
+(a) 
+Contaminant with the characteristics detailed in MIL–E–5007D. 
+(b) 
+A contamination rate of 1.0 g of contaminant per 1,000 litres. 
+(2) 
+Water Contaminant 
+(a) 
+Contaminated fuel initially saturated with water at a fuel/water temperature of 27°C into 
+which a further 0.2 ml of free water per litre of fuel has been evenly dispersed. 
+(b) 
+The contaminated fuel mixture should be at the most critical conditions for fuel icing 
+likely to be encountered in operation. 
+[Amdt. No. E/1] 

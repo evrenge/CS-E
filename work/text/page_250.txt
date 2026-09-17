@@ -1,0 +1,72 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 250 of 262 
+ 
+(6) 
+Determination of the IMP 
+(i) 
+Full Cycle Test 
+For a successful full cycle test, the applicant may take credit for the full number of 
+cycles and the full number of hours demonstrated during the test when proposing 
+an IMP. 
+(ii) 
+Accelerated Severity Cycle Test 
+For a successful accelerated severity cycle test, the applicant may take credit for 
+the full number of cycles for those Engine parts for which the test cycle was shown 
+to be equal to or more severe than the assumed Engine flight cycle. 
+(iii) 
+High Thrust Settings during Selected Test Cycle 
+The test cycle used (e.g. accelerated severity cycle) may involve a high thrust 
+setting operation for durations that significantly exceed those of the Engine flight 
+cycle. If so, EASA may accept that the applicant takes credit for interval(s) longer 
+than the IMP test length.  
+This approach requires caution because: 
+— 
+some Engine parts will wear as a function of time at load, rather than from 
+low cycle fatigue; 
+— 
+life extrapolation based on material property data alone is imprecise. 
+Under these circumstances, the applicant may need to draw supporting evidence 
+from other: 
+— 
+Engine tests, 
+— 
+component tests, 
+— 
+sub-assembly tests. 
+(7) 
+Using the early ETOPS test of AMC 20-6B 
+(i) 
+General 
+The applicant may use a test performed as per AMC 20-6B (Appendix 1, 
+Section 2.b), in lieu of a separate IMP test. The use of the early ETOPS test allows 
+the applicant to demonstrate compliance with both CS-E 930 and CS-E 1040 
+through a single test on one Engine. 
+If the applicant uses this method, the following conditions apply. 
+(A) 
+After completing the full number of test cycles required for an IMP test 
+performed as per CS-E 930, the AMC 20-6B test should be interrupted to 
+conduct a complete on-wing (or other) inspection.  
+ 
+Please note the following: 
+(a) 
+The inspection should be acceptable to EASA in order to demonstrate 
+compliance with CS-E 930; 
+(b) 
+An acceptable on-wing inspection should include but is not limited to 
+the inspections and tests listed in paragraph (d)(7)(ii) of this AMC. 
+(B) 
+The AMC 20-6B test should be completed in its entirety. This will provide 
+further evidence that no undiscovered Engine fault exists during the IMP 
+portion of the test. 
+(C) 
+The application of the general pass/fail criteria defined in paragraph (d)(5) 
+of this AMC should demonstrate that the Engine is fully serviceable as per 
+the ICA, unless otherwise accepted by EASA. 
+(ii) 
+On-Wing Inspection 

@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 62 of 262 
+ 
+For those systems or components which cannot be adequately substantiated by other tests of CS-E, 
+additional tests or analyses must be conducted to demonstrate that the systems or components are 
+able to perform the intended functions in all declared environmental and operating conditions. 
+[Amdt. No.: E/1] 
+AMC E 170  Engine systems and component verification 
+The intent of CS-E 170 is to define the additional tests or analysis which would be necessary for those 
+systems or components which are not necessarily tested during the endurance test of CS-E 440 or CS-
+E 740.  
+It is also recognised that the other specifications of CS-E do not always provide sufficient testing to 
+cover all the conditions (pressure, temperature, vibration, etc.) which could affect the airworthiness 
+of a piece of equipment throughout the declared flight envelope and within all the declared 
+installation conditions.  
+Other reasons for testing under CS-E 170 include, but are not limited to, the following examples:  
+— When testing is required in support of CS-E 50(a) for validation throughout the declared flight 
+envelope and within all the declared installation conditions.  
+— When a pressure relief valve, in the inlet manifold of a turbocharged Engine, and the effect of its 
+operation on the Engine and turbocharger are untested during the scheduled test of CS-E 440. 
+— When, for example, an over-speed protection system (or a torque limiter) is unlikely to be tested 
+during the scheduled tests of CS-E 740.  
+— When an Electronic Engine Control System has a mechanical back-up which is not normally used 
+during the endurance test.  
+— When demonstration that a Failure indicating system, on which dependence is placed in the 
+Engine safety analysis, will function satisfactorily when required.  
+The Engine manufacturer should define all necessary testing and / or analysis for those accessories or 
+systems that need specific substantiation, in addition to the certification tests performed on a 
+complete Engine, with attention paid to their location and operating conditions. Unless it is necessary 
+to test the functioning of a system itself, substantiation of individual components can be made 
+separately from the system they are part of. 
+The objective of CS-E 50(a), in conjunction with CS-E 80 or CS-E 170, is to demonstrate that the Engine 
+Control System can perform its intended function in its installed environment. In particular, Electronic 
+Engine Control Systems are sensitive to lightning and other electromagnetic interference and these 
+conditions can be common to more than one Engine. Advisory material for environmental effects 
+other than lightning and electromagnetic effects can be found in AMC E 80.  
+If, for compliance with CS-E 170, high intensity radiated fields (HIRF)/Lightning tests are carried out on 
+anything other than a representative complete Engine, the test results may depend on the validity of 
+the assumed electrical bonding between those elements of the Engine that are tested and the main 
+Engine earth. In such cases, the applicant should demonstrate that these electrical bonding 
+assumptions are valid.  This may be accomplished by examination of the type design drawings, 
+electrical continuity checks, or actual inspection of a representative Engine.  
+For compliance with CS-E 170, the functional integrity of the Engine Control System should be 
+maintained when subjected to designated levels of electric or electromagnetic induction, including 
+effects from external radiation and lightning. The environment, including radiated and conducted 
+emissions, to which the Engine Control System and its components are qualified should be entered 

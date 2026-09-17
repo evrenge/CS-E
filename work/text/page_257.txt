@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 257 of 262 
+ 
+The following are typical dispatch categories: 
+(a) 
+No Dispatch. Configurations that do not comply with CS-E 1030(b) and/or (c) or do not 
+qualify for another category should be categorised as No Dispatch.  
+(b) 
+Short Time Dispatch. Configurations that comply with CS-E 1030(b) and/or (c) and satisfy 
+the following condition should be categorised as Short Time Dispatch: the computed 
+LOTC/LOPC rate with the Fault(s) present is less than or equal to an upper limit that has 
+been set at 10 times the fleet-wide average reliability criteria or “average LOTC/LOPC 
+rate” for the installation. (The LOTC/LOPC rates for different installations may be found 
+in AMC 20-3.)  
+However, even if the Long Time Dispatch LOTC/LOPC rate is met, configurations where 
+the EECS has reverted to essentially single channel operation or has lost a significant 
+degree of redundancy should be categorised as Short Time. 
+(c) 
+Long Time Dispatch. Configurations that comply with CS-E 1030(b) and/or (c) and satisfy 
+the following condition should be categorised as Long Time Dispatch: the computed 
+LOTC/LOPC rate with the Fault(s) present is less than or equal to 75 percent of an upper 
+limit that has been set at 10 times the fleet-wide average reliability criteria or “average 
+LOTC/LOPC rate” for the installation. (The LOTC/LOPC rates for different installations may 
+be found in AMC 20-3.) 
+(d) 
+Applicant defined dispatch. This category is for Faults that do not have an impact on the 
+LOTC/LOPC rate. These Faults do not have to be included in the LOTC/LOPC analysis. It 
+should be substantiated that these Fault conditions do not have an impact on the 
+LOTC/LOPC rate. These configurations should be included in the TLD summary report to 
+enable an appropriate maintenance programme to be developed. 
+(7)  
+TLD Operations Associated with the “MEL Maintenance Approach” and with the 
+“Inspection/Repair Maintenance Approach.” 
+The dispatch intervals for Short Time and Long Time dispatch will also depend upon the 
+approach used in the maintenance programme. Where a “MEL Maintenance Approach” is used, 
+and hence the time of initial occurrence of the Fault is known, the dispatch interval starts from 
+the point in time when the MEL procedures identify the presence of the fault. In the 
+“Inspection/Repair maintenance approach”, the Fault is assumed to have occurred half-way 
+through the inspection interval and the dispatch interval is therefore assumed to have started 
+accordingly from this mid-point. In each case, the analysis should support the dispatch 
+interval(s). Table 3 shows an example of operating times for TLD Operations Associated with 
+the “MEL Maintenance Approach” and with the “Inspection/Repair Maintenance Approach.” 
+(8) 
+Declaration of approved TLD operating limitations  
+The approved TLD operating limitations should be declared in the manuals specified in CS-E 
+20(d) and CS-E 25(a), whichever is appropriate, and provided to operators as required by Part 
+21A.61. The approved TLD operating limitations are the times allowed for rectification of Faults. 
+An example of the typical operating limitations for TLD is provided in Table 1. The fact that the 
+Engine has been approved for TLD operations should be recorded in the Engine TCDS (See CS-E 
+40(d)). 
+(9)  
+Flight Crew Indication 

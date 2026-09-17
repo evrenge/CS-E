@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 207 of 262 
+ 
+up can result in reduced conservatism due to additional centrifuging by the 
+fan or Propeller and spinner. The concentration of the rain may need to be 
+increased to compensate for the added centrifuging resulting from ground-
+level testing.  
+(ii)  
+Engine test facility 
+The Engine test facility should provide a uniform water droplet or hail spatial 
+distribution within the critical area of a plane within the Engine intake, and that 
+plane should be agreed to by the Agency. The facility should also provide proper 
+droplet or particle sizes and proper velocity distributions, unless otherwise justified 
+in accordance with Appendix A to CS-E.  
+(iii)  
+Instrumentation  
+Instrumentation and data sampling rates should be sufficient to establish the rain 
+and hail temperatures and concentrations, particle velocities and size distributions, 
+and the Engine response. Primary exhaust water-to-air ratio measurements via gas 
+sampling should be considered. Instrumentation accuracy and repeatability should 
+be demonstrated by suitable means.  
+(iv)  
+Test procedure  
+The test procedure should consider the following for operability critical point tests 
+and for the thermal shock (rain only) critical point test:  
+(A) 
+Stabilise the Engine at the critical point conditions. 
+(B) 
+Take steady-state data readings before introducing rain or hail. 
+(C) 
+Start the continuous transient data recording prior to the initiation of rain or 
+hail flow. 
+(D) 
+Establish the altitude equivalent rain or hail flow at the proper inlet velocity 
+and size distribution. The maximum rain and hail ingestion rates should 
+occur within 10 seconds. 
+(E) 
+Conduct operability critical point tests at the following steady-state 
+conditions: 
+(a) 
+Deliver rain for a minimum of 3 minutes, at the altitude equivalent 
+concentration defined in Figure A1 and Table A1 in Appendix A of CS-
+E. 
+(b)  
+Deliver hail for a minimum of 30 seconds, at the altitude equivalent 
+concentration defined in Figure A1 and Table A2 in Appendix A of CS-
+E. 
+(c)  
+Deliver a short burst of high-concentration hail of 13 g/m3 hail water 
+content (HWC) under conditions representative of a 15 000-ft altitude 
+for a minimum of 5 seconds.  
+Note: Applicants can elect to integrate the test point required by paragraph 
+(E)(c) within the 30-Second test point required by paragraph (E)(b), or 
+consider it separately using test or analysis. Applicants may also 
+propose justifiable alternatives to assess similar short-term, high-
+concentration threats. 

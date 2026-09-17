@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 85 of 262 
+ 
+During the aircraft certification, the Engine effect will be considered in the context of the 
+whole aircraft. Account will be taken of the actual aircraft component Failure rate.  
+Such assumptions should be addressed in compliance with CS-E 30.  
+(d) 
+Hazardous Engine Effects 
+(i) 
+The acceptable occurrence rate of Hazardous Engine Effects applies to each 
+individual effect. It will be accepted that, in dealing with probabilities of this low 
+order of magnitude, absolute proof is not possible and reliance should be placed 
+on engineering judgement and previous experience combined with sound design 
+and test philosophies. 
+The probability target of not greater than 10-7 per Engine flight hour for each 
+Hazardous Engine Effect applies to the summation of the probabilities of this 
+Hazardous Engine Effect arising from individual Failure modes or combinations of 
+Failure modes other than the Failure of Engine Critical Parts (e.g., discs, hubs, 
+spacers). For example, the total rate of occurrence of uncontrolled fires, obtained 
+by adding up the individual Failure modes and combination of Failure modes 
+leading to an uncontrolled fire, should not exceed 10-7 per Engine flight hour. The 
+possible dormant period of Failures should be included in the calculations of Failure 
+rates.  
+If each individual Failure is less than 10-8 per Engine flight hour then summation is 
+not required.  
+(ii) 
+When considering primary Failures of certain single elements such as Engine 
+Critical Parts, the numerical Failure rate cannot be sensibly estimated. If the Failure 
+of such elements is likely to result in Hazardous Engine Effects, reliance should be 
+placed on their meeting the prescribed integrity specifications, such as CS-E 515, 
+among others. These specifications are considered to support a design goal that, 
+among other goals, primary LCF (Low Cycle Fatigue) Failure of the component 
+should be Extremely Remote throughout its operational life. There is no 
+specification to include the estimated primary Failure rates of such single elements 
+in the summation of Failures for each Hazardous Engine Effect due to the difficulty 
+in producing and substantiating such an estimate.  
+(iii) 
+Non-containment of high-energy debris. 
+Uncontained debris covers a large spectrum of energy levels due to the various 
+sizes and velocities of parts released in an Engine Failure.  
+As a general principle, if a Failure can result in debris being released with an energy 
+and trajectory that cause an unsafe condition (refer to AMC1 21.A.3B(b)), such 
+debris should be considered as uncontained high-energy debris causing a 
+Hazardous Engine Effect. 
+Major Rotating Parts 
+Due to the extremely high energies involved, the Engine containment structures 
+are not required to contain major rotating parts should they fail. Unless 
+containment has been demonstrated, the Failure of discs, hubs, impellers, large 
+rotating seals, and other similar large rotating components should therefore be 
+assumed to result in uncontained high-energy debris, causing a Hazardous Engine 
+Effect. For such parts, the Extremely Remote probability objective necessary for 

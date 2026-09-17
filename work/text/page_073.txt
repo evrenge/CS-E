@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 73 of 262 
+ 
+(i) 
+Power against rotational speed at constant power setting, starting from each rating 
+to be declared, over the full range of rotational speeds appropriate to that rating. 
+(ii) 
+Power against power setting at constant speed, in at least five increments of 
+rotational speed between Maximum Take-off rated speed and 60% of best 
+economy cruising speed, over the full range of power settings appropriate to that 
+speed. The increments selected should include all rated rotational speeds. 
+(b) 
+The effect on Engine power should be established of all parameters that may affect the 
+power produced (e.g. altitude, ambient air temperature, cylinder/coolant temperature, 
+mixture setting, fuel specification.). 
+(2) 
+In complying with CS-E 350(b), the calibration testing outlined in paragraph (1)(a) of this AMC 
+should normally be considered adequate. 
+[Amdt. No.: E/1] 
+CS-E 360  Detonation Tests 
+For spark ignition Engines:  
+(a) 
+A test shall be conducted to demonstrate that the Engine can function without detonation at 
+all operating conditions within the flight envelope. If the design of the ignition system includes 
+redundancy, this test shall be repeated in degraded operating modes. 
+(b) 
+During the test of CS-E 360(a), the Engine shall be operated throughout the range from the 
+lowest Engine rotational speed intended to be used for cruising, to the declared maximum 
+Engine rotational speed, at the conditions of power setting, mixture setting (if applicable), oil 
+temperature, coolant or cylinder-head temperatures, and manifold air pressure and air 
+temperature, most likely to cause detonation. An agreed method shall be used to determine 
+the degree of detonation. 
+[Amdt. No.: E/1] 
+CS-E 370  Starting Tests 
+(a) 
+At least 100 successful Engine starts must be made, either during or at the end of the endurance 
+test of CS-E 440, using the normal means of starting and the technique recommended by the 
+Engine constructor. Half the starts must be made with the Engine cold and half with the Engine 
+hot. 
+(b) 
+Time to start, number of attempts, ambient air temperature, and (in the case of electric starters) 
+current consumption, must be recorded at the beginning of each 10-hour period. In addition, a 
+record must be made of the means and amount of priming, if employed, and whether or not oil 
+dilution is used. 
+(c) 
+If alternative means of starting are provided for emergency or standby use, not less than 10 
+additional starts on each of the alternative means of starting provided must be made. These 
+tests may be made either as part of the endurance test of CS-E 440 or separately in which case 
+they must be followed by a suitable strip examination. 
+CS-E 380  Low Temperature Starting Tests 
+(see AMC E 380) 

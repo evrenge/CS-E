@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 100 of 262 
+ 
+The overall objective of service damage monitoring is to review data obtained from 
+field operation of the Engine type design to determine whether there are 
+anomalous conditions which require corrective action(s). Appropriate action(s) 
+may include the assessment of the impact of damage observed on one 
+part/location on other parts/locations. 
+Applicants should determine whether the damage that has been detected is 
+consistent with the serviceable and repairable limits and determine whether 
+additional actions are required to prevent Failure and rectify any potential unsafe 
+condition which may be identified.  
+The establishment of a service damage monitoring process consists of the 
+following: 
+a. 
+Determine the serviceable and repairable damage limits using a process 
+approved by the Agency and summarised within the service management plan. 
+Damage size limits should be a function of part, part location, and damage type. 
+Damage should include but may not be limited to nicks, dents, scratches and 
+cracks. The serviceable and repairable limits must be published in the Instructions 
+for Continued Airworthiness. 
+b. 
+Establish a monitoring process to record damage that meets all of the 
+following criteria: 
+— 
+is inconsistent with or exceeds the repairable limits, 
+— 
+is made available to the type certificate holder (TCH) or supplemental type 
+certificate holder (STCH) through an appropriate reporting system. 
+The applicant should, as appropriate, consider the effectiveness of existing 
+reporting systems as new product types/operations are introduced. 
+Document the monitoring process in the service management plan. This activity 
+should record at a minimum the damage size, type and location observed during 
+service inspections for each Critical Part. 
+c. 
+Assess damage meeting the criteria defined in b. above. This assessment 
+should consider: 
+— 
+the impact of the observed damage on the life of the damaged part, 
+— 
+the likelihood for recurrence of similar damage, 
+— 
+whether the damage has been determined as having flown, 
+— 
+whether the damage is likely to be undetected before the part is released to 
+service, 
+— 
+recommended corrective actions to identify/prevent/eliminate the source 
+of the damage. 
+During the service life of the part, a summary of the damage information obtained 
+by the service damage monitoring process, as well as the corrective actions 
+implemented, should be made available to the Agency. 
+(e) 
+Establishment of the Approved Life — Static, pressure loaded parts 
+(i) 
+General Principles  

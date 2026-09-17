@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 103 of 262 
+ 
+— Engine development experience;  
+— lessons learned from other engine projects;  
+— any in-service events.  
+(h) 
+Influencing Parts  
+Engine Critical Parts are part of a complex system and other parts of the Engine can have 
+an impact on the Engine Critical Parts and their life capability. Therefore, the Engineering 
+Plan needs to address these parts, and particularly changes to them. Examples of 
+influencing parts include a turbine blade, a mating part, and a static part that impacts on 
+the environment (temperatures, pressures, etc.) around the Engine Critical Part. 
+Examples of changes to influencing parts include a blade with a different weight, centre 
+of gravity, or root coating; a mating part made of a material that has a different coefficient 
+of thermal expansion; and a static part where changes in geometry or material modify 
+the thermal and/or mechanical response of the component and could, as a result, affect 
+the environment around the Engine Critical Part.  
+(4) 
+Means for Defining a Manufacturing Plan 
+(a) 
+Introduction 
+The Manufacturing Plan is a portion of the overall integrity process intended to ensure 
+the life capability of the part. The Engineering Plan includes assumptions about how 
+Engine Critical Parts are designed, manufactured, operated and maintained: each can 
+have an impact on the part life capability. Therefore, it is essential to ensure that the 
+Attributes required by the Engineering Plan are maintained.  
+(b) 
+Elements of a Manufacturing Plan 
+The part specific Manufacturing Plan should consider the Attributes of the part delivered 
+by the manufacturing process from raw material to finished part and should highlight all 
+sensitive parameters identified as being significant with regard to part life which should 
+not be changed without proper verification. Such parameters may include, but may not 
+be limited to: material controls, including any zoned areas for special properties, 
+manufacturing method specifications, manufacturing method order of application, 
+inspection method and sensitivity, and any special part rough machining methods or 
+finishing method(s), especially any methods intended to improve fatigue capability or 
+minimise induced anomalies.  
+(c) 
+Development and Verification of the Manufacturing Plan 
+The Manufacturing Plan should be reviewed and verified by the following key Engineering 
+and Manufacturing skills:  
+— Engineering (Design & Lifing)  
+— Material Engineering  
+— Non-Destructive Inspection  
+— Quality Assurance  
+— Manufacturing Engineering (Development & Production)  
+Hence, this same skill mix should evaluate and approve process validation and the 
+procedures for manufacturing change control and non-conformance disposition to 

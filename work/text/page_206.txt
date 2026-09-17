@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 206 of 262 
+ 
+water requires nearly 40 g/m3 to compensate for the higher air density (refer 
+to Figure A1 in Appendix A of CS-E).  
+(B)  
+Atmospheric parameters  
+In respect of air temperature and other atmospheric parameters, the 
+appropriate ISA data may be assumed when adjusting concentrations of rain 
+and hail.  
+(C)  
+Scoop factor  
+The appropriate rain and hail concentration amplification due to the scoop 
+factor effect should be applied to further increase the quantities of rain and 
+hail for the ground-level tests. This necessitates having knowledge of the 
+inlet diffusing flow field throughout the Engine Power/Thrust range and 
+flight envelope.  
+(D)  
+Engine rotational speeds  
+The low rotor speed for the ground-level test should be no greater than the 
+altitude critical point condition. This is particularly important for turbofan 
+Engines since the rotational speed determines the rain and hail centrifuging 
+effects which prevent some of the rain and hail from reaching the Engine 
+core. The rain and hail concentrations may be adjusted to compensate for 
+any necessary deviation from critical point rotational speeds.  
+(E) 
+Variable systems 
+All variable systems, such as Engine bleeds, whose position can affect the 
+Engine operation in rain and hail, should be set in the position associated 
+with the critical point.  
+(F)  
+Engine power extraction  
+It should be shown by analysis or test that sufficient margin exists for the 
+extraction of the representative electrical or shaft power loads and service 
+air bleeds.  
+(G)  
+Thermodynamic cycle differences  
+There may be thermodynamic cycle differences between the test point and 
+the critical point which affect the operability of the Engine. There should be 
+compensation for these cycle differences, or it should be shown that these 
+differences provide additional conservatism.  
+(H) 
+Enthalpy of water 
+Rain and hail concentrations may be adjusted to ensure that the heat 
+extraction resulting from their ingestion is the same as the critical point. If 
+the ingestion of liquid water droplets is accepted (see paragraph 5(d) for 
+compliance alternatives) for critical hail point testing, then the water 
+concentration should at least be increased to compensate for the heat of 
+fusion of ice.  
+(I)  
+Rain droplet break-up  
+In the ground-level test environment, forces applied to accelerate the 
+simulated rain droplets to flight speed, as well as shear forces between the 
+droplets and the Engine airflow, are apt to break up the droplets. This break-

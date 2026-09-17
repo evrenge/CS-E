@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 225 of 262 
+ 
+expected interaction of the Engine with these systems during ingestion events. Of 
+particular interest would be dynamic interactions such as auto surge recovery, any 
+propeller autofeather. 
+(3) 
+Impact 
+(a) 
+The front of the Engine is defined as any part of the Engine which can be struck by a bird. 
+This includes but is not limited to components such as a nose cone/spinner on the fan or 
+compressor rotor, an Engine inlet guide vane assembly including the centrebody, any 
+protection device, or inletmounted components. 
+(b) 
+Ingestion is defined as the passage of a bird into the rotating blades. 
+(c) 
+The term 'first stage rotor blades' when used in CS-E 800 includes the first stage of any 
+fan or compressor rotor which is susceptible to a bird strike or bird ingestion. These first 
+stage rotor blades are considered to be part of the front of the Engine. This definition 
+encompasses ducted, unducted and aft fan designs. For aft fan designs, blades on two 
+different rotors (in the primary and secondary flows) would probably need to be 
+considered. 
+(4) 
+General 
+(a) 
+The Engine configuration for the test should comply with CS-E 140. The normal 
+functioning of automatic systems that do not require pilot intervention is acceptable 
+provided that the dispatch criticality is addressed in the appropriate documentation. 
+Systems which are not part of the Engine, such as a propeller autofeather system, should 
+be disabled. Any OEI ratings do not have to be taken into account for compliance with CS-
+E 800(d). 
+(b) 
+The minimum Engine referred to in CS-E 800(b)(1)(i) or (d)(1)(i) is defined as a new Engine 
+that exhibits the type design’s most limiting operating parameters with respect to the 
+bird ingestion conditions prescribed by CS-E 800. These operating parameters include, 
+but are not limited to the power or thrust, turbine temperature and rotor speed(s).  
+(c) 
+CS-E 800(g)(1) is intended to allow the certification of design changes or derivative 
+Engines without conducting a full Engine test. It is not intended, considering the present 
+state of the art, to be used for the certification of new Engines. However, it offers the 
+possibility of future advancement. Any parametric analysis used to substantiate 
+derivative Engines as allowed under CS-E 800(g)(1) should fall within a 10% variation in 
+the CIP that was used to substantiate the original base Engine. The CIP(s) is (are) often 
+associated with the impact load at the point of bird and rotor blade contact. This is 
+generally a function of bird speed, rotor speed, and blade twist angle. This 10% variation 
+in the CIP should not be assumed to be a direct tolerance on the applicant's proposed 
+changes to the take-off power or thrust ratings themselves.  
+(d) 
+Any analytical means used in place of a test demonstration (where analysis is permitted) 
+should be validated by evidence that is based on representative tests and should have 
+demonstrated its capability to predict Engine test results. 
+(e) 
+When reference is made to an “exposed location”, this should be understood to be any 
+part of the Engine which is not shielded. 
+(f) 
+When the CS-E 810 test is proposed as an alternative to the single large bird test (see CS-
+E 800(g)(2)), the demonstration should include consideration of unbalance, as well as 
+effects of the axial loading from the bird strike on bearings or other structures. 

@@ -1,0 +1,51 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 128 of 262 
+ 
+The design characteristics and operating conditions run in the baseline test(s) should be 
+shown to be sufficiently similar and inclusive of the domain of applicability for the Engine 
+being certified, as defined in this AMC, paragraph (14)(b)(i), (ii) and (iii). 
+A test from which the results are used to calibrate an analysis is not in general eligible to 
+be considered a baseline test in relation to the validation of that analysis. The same test 
+results cannot be used both to calibrate and validate an analysis. 
+(b) 
+Validated Analysis 
+(i) 
+Development of the Validated Analysis. 
+The analytical model should be validated against one or more baseline tests. 
+For each baseline test on which the validation is based, it should be shown that the 
+analysis consistently predicts the observed behaviour and vibratory responses of 
+the components investigated to an acceptable precision and accuracy. 
+Alternatively, it could be shown that predictions reliably overpredict the vibratory 
+response.  
+The applicant should clearly define the domain of applicability of the analysis, 
+comprising the ranges of design characteristics and operating conditions for which 
+the analysis will be deemed to be validated. Typical design characteristics and 
+operating conditions which may constitute a definition of the domain of 
+applicability are as follows: 
+—  Engine architecture: 
+—  general configuration, for example 2- or 3-shaft design, turboshaft, 
+turbofan, open rotor, geared fan; 
+—  secondary air system; 
+—  number, location and type of bearings, including installation 
+(inner/outer race grounded, inter-shaft, damped, etc.), and associated 
+support structures. 
+—  Module type, for example high or low pressure turbine, axial or radial 
+compressor. 
+—  Component geometry, for example shrouded or unshrouded blades, aerofoil 
+aerodynamic shapes (‘2D’ or ‘3D’). 
+—  Structural dynamic characteristics: 
+—  natural frequencies, which will influence the resonance speeds and 
+aerodynamic stability (flutter); 
+—  mode shape similarity, for example a measure of accuracy that is often 
+employed is the Modal Assurance Criterion (MAC). Typically, a MAC 
+value greater than 0.9 indicates there is close agreement between 
+measured and calculated mode shapes. Close matching of mode shapes 
+implies that response to the same forcing will be similar; 
+—  mechanical damping levels; any difference will be directly reflected in 
+the resonant response level or flutter suppression; 

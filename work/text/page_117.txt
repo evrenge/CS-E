@@ -1,0 +1,85 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 117 of 262 
+ 
+Pc = Po × 1013 ∙25
+B
+× √288
+θ 
+ 
+(2) 
+Notation 
+B  
+= 
+Barometric pressure in test chamber 
+hPa 
+θ 
+= 
+Observed intake temperature, corrected for instrument 
+temperature and scale errors only 
+K 
+P 
+= 
+Pressure 
+hPa 
+T 
+= 
+Temperature 
+K 
+N 
+= 
+Rotational speed 
+rpm 
+F 
+= 
+Thrust 
+kN 
+W 
+= 
+Mass air flow 
+kg/s 
+w 
+= 
+Fuel flow 
+kg/h 
+P 
+= 
+Power 
+kW 
+ 
+(3) 
+Suffixes 
+Suffix ‘o’ denotes an observed result, corrected for instrument temperature and scale errors 
+only. Suffix ‘c’ denotes a result corrected to the standard atmospheric pressure and 
+temperature conditions of CS-E 620. 
+[Amdt. No.: E/1] 
+CS-E 640 Pressure Loads 
+(See AMC E 640) 
+(a) 
+Static Pressure Loads 
+It must be established by test, validated analysis or combination thereof that all static parts 
+which are subject to significant gas or liquid pressure loads will not, for a stabilised period of 
+one minute:  
+(1) 
+Exhibit permanent distortion beyond serviceable limits or exhibit leakage which could 
+result in a Hazardous Engine Effect when subjected to the greater of the following 
+pressures: 
+(i) 
+1.1 times the maximum working pressure or, 
+(ii) 
+1.33 times the normal working pressure or, 
+(iii) 
+35 kPa above the normal working pressure, and 
+(2) 
+Exhibit fracture or burst when subjected to the greater of the following pressures: 
+(i) 
+1·15 times the maximum possible pressure or, 
+(ii) 
+1·5 times the maximum working pressure or, 
+(iii) 
+35 kPa above the maximum possible pressure. 

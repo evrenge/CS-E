@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 122 of 262 
+ 
+Engine test, such as the amount of instrumentation capable of being fitted or the range 
+of inlet conditions that can be tested. Rig tests generally consist of testing full or part of 
+Engine modules. If rig tests are employed, the applicant should demonstrate that all 
+pertinent interface conditions and physical hardware closely replicate actual Engine 
+conditions. 
+(b) 
+Speed requirements 
+It should be the goal of the test programme to cover at least the ranges of conditions 
+required under CS-E 650(b) and (c). 
+CS-E 650(b)(1) requires consideration of 103 % of the maximum rotational speed 
+permitted for rating periods of two minutes or longer, but where it proves physically 
+impracticable to achieve the appropriate extended test conditions, the Agency may 
+accept an alternative that complies with the intent of the requirement. Historically, the 3 
+% margin has been imposed to account for transient overshoot. If it can be demonstrated 
+that the characteristics of the Engine Control System are such that the maximum rated 
+speed cannot be exceeded in fault-free operation, the required maximum tested speed 
+may, with the agreement of the Agency, be adjusted downward, but may not be less than 
+100 %. 
+Where an extension to the range required by CS-E 650(b) is considered necessary for the 
+identification of the effects of a rising vibratory stress peak, as required under CS-E 650(c), 
+but it proves physically impracticable to achieve the appropriate extended test 
+conditions, the Agency may accept an alternative that complies with the intent of the 
+requirement. Historically, the requirement has been imposed to account for Engine-to-
+Engine variability. The Engine manufacturing and build tolerances can result in peak 
+vibratory stresses occurring at slightly different rotor speeds for Engines and Engine parts 
+(for example blades) of the same type design. If tested components are deliberately 
+selected to cover an adverse range of manufacturing variability or any other effect 
+normally captured by increasing the test maximum speed by a further 2 %, the required 
+maximum tested speed may, with the agreement of the Agency, be adjusted downward, 
+but may not be less than the maximum speed established for compliance with CS-E 
+650(b). 
+Any reduction in the speed range requirements of CS-E 650(b) and (c) proposed for the 
+test programme should be justified by the applicant and agreed by the Agency. Normally, 
+it would be expected that any test shortfall is covered by validated analysis. 
+Refer also to paragraph (5) ‘Altitude and Temperature Effects’ and (8) ‘Flutter’ for 
+complementary guidance on affecting speeds. 
+(c) 
+Instrumentation 
+To acquire the data required under CS-E 650 when conducting vibration surveys, the 
+applicant should use suitable instrumentation, data acquisition, and analyser systems. 
+Vibration-specific instrumentation may include dynamic strain gauges, accelerometers, 
+dynamic pressure gauges and time-of-arrival sensors. 
+Vibratory stresses are most commonly calculated using dynamic strain gauges placed at 
+predetermined locations and oriented to measure specific directional strains. These 
+strain gauges should maintain their accuracy throughout the test conditions, particularly 
+when repeatedly exposed to high temperatures for extended periods. The applicant 
+should aim to take measurements at locations which are sensitive to the peak responses 
+of interest but are also tolerant of a degree of mislocation/alignment variability. When 

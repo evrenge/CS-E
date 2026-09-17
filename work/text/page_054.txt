@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 54 of 262 
+ 
+appropriate Engine and close the appropriate fuel shutoff valve(s). This cuts off the 
+source of fuel. 
+Oil system components of turbine Engines, however, may continue to flow oil after the 
+Engine has been shut down because of continued rotation. The supply of oil to the fire 
+might exist for as long as the continued rotation effects are present or until the oil supply 
+is depleted.  
+According to these assumptions, in general, components which convey flammable fluids 
+can be evaluated to a Fire resistant standard provided the normal supply of flammable 
+fluid is stopped by a shutoff feature (also see CS-E 570(e)(1)).  
+Oil system components may need to be evaluated from the standpoint of fire hazard 
+(quantity, pressure, flow rate, etc.) to determine whether Fire-resistant or Fireproof 
+standards should apply. It should be noted that, historically, most oil system components 
+have been evaluated to a Fireproof standard.  
+Other flammable fluid conveying components (except flammable fluid tanks), such as 
+hydraulic and thrust augmentation systems, should be evaluated in a similar manner. 
+Flammable fluid tanks should be Fireproof as required by CS-E 130(c). 
+(d) 
+Pass / fail criteria 
+When a fire test is performed, the following acceptance criteria should be considered:  
+— To maintain the ability to perform those functions intended to be provided in case of 
+fire,  
+— No leakage of hazardous quantities of flammable fluids, vapours or other materials,  
+— No support of combustion by the constituent material of the article being tested,  
+— No burn through of firewalls,  
+— No other conditions which could produce Hazardous Engine Effects.  
+(i) 
+Functions 
+The functions intended to be provided in case of fire will be determined on a case 
+by case basis. For example, Engine Control Systems should not cause a Hazardous 
+Engine Effect while continuing to operate but should allow or may cause a safe 
+shutdown of the Engine at any time within the required exposure time period.  
+A safe Engine shutdown at any time during the fire resistance test is an acceptable 
+outcome for this type of component, provided the safe shutdown is maintained 
+until the end of the 5 minutes test period.  
+For a flammable fluid tank shutoff valve, the valve should be operable (to close) or 
+should default closed, and be capable of maintaining this position without leakage 
+of a hazardous quantity of flammable fluid until the end of the 15 minute test 
+period.  
+The above examples are included to illustrate the case by case nature of making 
+this determination.  
+(ii) 
+Leakage of flammable fluid 
+At no time during or at the end of the test should the test article leak a hazardous 
+quantity of flammable fluid.  
+(iii) 
+Support of combustion 

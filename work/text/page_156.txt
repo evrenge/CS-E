@@ -1,0 +1,25 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 156 of 262 
+ 
+thrust/power setting. Twenty-five total cycles are also prescribed. The accumulated damage at 
+the MCT power setting is accounted for. The damage accumulated at the lower power settings 
+is minor, and not accounted for in the overall comparison. 
+ 
+Figure 7.3. Severity Usage for Stair Step Cycles as per Part 4 of CS-E 740(c)(1) 
+ 
+EGT demonstration testing (refer to CS-E 740(c)(4)(v)) is a performance-based aspect of the 
+alternate endurance test. It requires analysis from the applicant to support the limiting 
+temperature, and methodologies for how to perform the test to represent the limiting 
+temperature, and for demonstrating its severity. Figure 7.4 illustrates a mix of cycles at 
+durations related to operation (e.g. 5 or 10 minutes at MTO, 30 or 90 minutes at MCT), and 
+includes some cyclic content that contributes to the minimum cycle count defined in CS-
+E 740(c)(4)(viii) ‘Ancillary TCDS Limits Definition’. 
+ 
+Figure 7.4. Severity Usage for Extended Operating Periods 
+ 

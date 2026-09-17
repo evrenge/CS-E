@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 178 of 262 
+ 
+determined. Those conditions shall be appropriate to the Engine installation on the 
+aircraft. These assumptions must be included in the manuals containing instructions for 
+installing and operating the Engine under CS-E 20(d). 
+[Amdt No: E/1] 
+[Amdt No: E/4] 
+[Amdt No: E/7] 
+AMC E 780 Icing Conditions 
+(1) 
+Introduction 
+This AMC provides Guidance Material and Acceptable Means of Compliance for showing 
+compliance with CS-E 780. 
+Test evidence is normally required for Supercooled Liquid Water (SLW) icing conditions. For 
+other applicable icing conditions, compliance may be demonstrated by a combination of test, 
+analysis and service experience.  
+(1.1) Definitions 
+Auto-Recovery Systems: Engine systems that ensure that Engines operate just before or 
+immediately after an upset (that is, power loss or stall) without operator intervention. 
+Auto-recovery systems include auto-relight systems, stall recovery systems, and other 
+Engine systems intended to recover the operability of an Engine following a flameout, 
+surge, stall, or a combination of these. 
+Freezing Fraction: The ratio of the mass of water that freezes at a point on a surface to 
+the total mass of incoming water at that point. 
+Highlight Area: The area bounded by the leading edge of the nacelle inlet. This may be 
+different for turboshaft installations where complex inlet schemes are utilised. 
+Ice Formations: Ice formations resulting from the impact of supercooled water droplets 
+on propulsion system surfaces are classified as follows: 
+(a) 
+Glaze Ice: This is a transparent or translucent ice formed by liquid water droplets 
+that do not freeze immediately on impact and has horns. Droplets impacting the 
+surface do not freeze immediately, but run back along the surface until freezing 
+occurs. Glaze ice typically has a non-aerodynamic shape and is more susceptible to 
+aerodynamic forces that result in shedding. Glaze ice typically has both a lower 
+freezing fraction and lower adhesive properties than rime ice. Glaze ice is often a 
+concern for static hardware while rime ice is often a concern for rotating hardware. 
+(b) 
+Rime Ice: This is a milky and opaque ice formed by liquid cloud droplets that freeze 
+immediately on impact. Rime ice typically forms in an aerodynamic shape, on both 
+rotating and static Engine hardware. The freezing fraction is high for rime ice, 
+typically approaching a value of 1.0. Rime ice typically has greater adhesion 
+properties than glaze ice but often a lower density. Adhesion properties increase 
+with lower temperature up to a test point where no additional adhesion is gained 
+with additional lower temperature. 
+Ice Shed Cycle: The time period required to build up and then shed ice on a propulsion 
+system surface for a given power and icing condition. A shed cycle can be identified 
+visually (for example, with high-speed cameras), and with Engine instrumentation (such 
+as vibration pickups, temperature probes, pressure probes, speed pickups, etc.). The ice 

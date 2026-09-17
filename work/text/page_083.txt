@@ -1,0 +1,68 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 83 of 262 
+ 
+(f) 
+If applicable, the safety analysis must also consider, but not be limited to, investigation of - 
+(1) 
+Indicating equipment, 
+(2) 
+Aircraft-supplied data or electrical power, 
+(3) 
+Compressor bleed systems, 
+(4) 
+Refrigerant injection systems, 
+(5) 
+Gas temperature control systems, 
+(6) 
+Engine speed, power or thrust governors and fuel control systems, 
+(7) 
+Engine over-speed, over-temperature or topping limiters, 
+(8) 
+Propeller control systems, and 
+(9) 
+Engine or propeller thrust reversal systems. 
+(g) 
+For compliance with CS-E, the following Failure definitions apply to the Engine: 
+(1) 
+An Engine Failure in which the only consequence is partial or complete loss of thrust or 
+power (and associated Engine services) from the Engine must be regarded as a Minor 
+Engine Effect. 
+(2) 
+The following effects must be regarded as Hazardous Engine Effects: 
+(i) 
+Non-containment of high-energy debris, 
+(ii) 
+Concentration of toxic products in the Engine bleed air for the cabin sufficient to 
+incapacitate crew or passengers, 
+(iii) 
+Significant thrust in the opposite direction to that commanded by the pilot, 
+(iv) 
+Uncontrolled fire, 
+(v) 
+Failure of the Engine mount system leading to inadvertent Engine separation, 
+(vi) 
+Release of the propeller by the Engine, if applicable, 
+(vii) 
+Complete inability to shut the Engine down. 
+(3) 
+An effect falling between those covered in CS-E 510(g)(1) and (2) must be regarded as a 
+Major Engine Effect. 
+[Amdt. No.: E/1] 
+AMC E 510  Safety analysis 
+(1) 
+Introduction. 
+Compliance with CS-E 510 requires a safety analysis which should be substantiated, when 
+necessary, by appropriate testing and/or comparable service experience.  
+The depth and scope of an acceptable safety assessment depend on the complexity and 
+criticality of the functions performed by the systems, components or assemblies under 
+consideration, the severity of related Failure conditions, the uniqueness of the design and 
+extent of relevant service experience, the number and complexity of the identified Failures, and 
+the detectability of contributing Failures.  
+Examples of methodologies are Fault Tree Analysis (FTA), Failure Mode and Effects Analysis 
+(FMEA) and Markov Analysis.  

@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 50 of 262 
+ 
+Table 6  
+REFERENCE  
+SPECIFICATION  
+a  
+Quality control of containment means  
+b  
+Establishment that drive mechanism will prevent the Engine driving the starter to a 
+dangerous speed, unless such a probability is Extremely Remote (see CS-E 590)  
+c  
+Establishment of Approved Life and quality control of rotating Engine Critical Parts 
+(see CS-E 515, E 70 and E 110)  
+d  
+Integrity test of rotating parts (see CS-E 840)  
+e  
+Clearance between rotating and fixed parts (see CS-E 520(b))  
+ 
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+CS-E 90  Prevention of Corrosion and Deterioration 
+(a) 
+Each Engine component and each item of equipment must be protected from corrosion and 
+deterioration in an approved manner. 
+(b) 
+Materials which will render the Engine inherently self-protecting against corrosion, without the 
+use of internal and external corrosion inhibitors, must be used wherever possible. 
+CS-E 100  Strength 
+(a) 
+The maximum stresses developed in the Engine must not exceed values conforming to those 
+established by satisfactory practice for the material involved, due account being taken of the 
+particular form of construction and the most severe operating conditions. Where a new type of 
+material is involved, evidence must be available to substantiate the assumed material 
+characteristics. For Turbine Engines, due consideration must be given to the effects of any 
+residual stresses in Engine Critical Parts. 
+(b) 
+The Engine components which form part of the Engine mounting and any other parts of the 
+Engine liable to be critically affected must, when the Engine is properly supported by a suitable 
+Enginemounting structure, have sufficient strength to withstand the flight and ground loads for 
+the aircraft as a whole in combination with the local loads arising from the operation of the 
+Engine. 
+(c) 
+Each Engine must be designed and constructed to function throughout its declared flight 
+envelope and operating range of rotational speeds and power/thrust, without inducing 
+excessive stress in any Engine part because of vibration and without imparting excessive 
+vibration forces to the aircraft structure. 
+CS-E 110  Drawings and Marking of Parts – Assembly of Parts 
+(a) 
+The drawings for each Engine component and each item of equipment must give full particulars 
+of the design and must indicate the materials used in terms of their specifications. The 
+protective finish and, where applicable, the surface finish, must be indicated. Any tests 
+necessary to establish the manufacturing quality of components or equipment must be quoted 
+on the relevant drawings either directly or by reference to other suitable documents. 
+(b) 
+Except where otherwise agreed each part must be marked so that it can be identified with the 
+drawing to which it was made. The position of the markings must be indicated on the drawing. 

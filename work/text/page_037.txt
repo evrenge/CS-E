@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 37 of 262 
+ 
+For rotorcraft Engine Control Systems that have a power turbine speed governing mode, the 
+specification of CS-E 50(a)(3) for modulation of Engine power should be interpreted as the 
+ability to manage power as required to maintain power turbine speed within specified limits. 
+(4) 
+Integrity 
+The intent of CS-E 50(c) is to establish Engine Control System integrity specifications consistent 
+with operational specifications of the various applications. In particular, the introduction of 
+Electronic Engine Control Systems should provide at least an equivalent level of safety and 
+reliability for the Engine as achieved by Engines equipped with hydromechanical control and 
+protection systems, and magneto systems. 
+(5) 
+Aircraft Supplied Power 
+Engine Control Systems implemented in hydromechanical technology or technology other than 
+electrical and electronic technology should inherently be compliant with CS-E 50(h). However, 
+if the system has functions implemented electrically or electronically that depend on aircraft-
+supplied electrical power, the system should be evaluated for compliance with this rule (see 
+AMC 20-1 and AMC 20-3 for relevant interpretation). 
+(6) 
+Air Signal Lines 
+CS-E 50(i) covers cases of ingress of foreign matter (e.g. sand, dust, water, or insects) which 
+could result in blockage of the lines and result in an adverse effect on Engine operation. For 
+example, the experience has shown that lines used for measuring the static pressure in the 
+compressor of turbine Engines could be blocked by frozen water, leading to a loss of power. 
+Precautions should therefore be taken, such as use of protected openings, filters, drains for 
+water, heating of the lines to prevent freezing of condensed water. Corrosion effects should 
+also be addressed. 
+[Amdt. No.: E/1] 
+AMC E 50(e)  Rotor integrity 
+The Engine control devices, systems and instruments referred to in CS-E 50(e) are usually provided in 
+modern engines by over-speed protection and/or circuits which although they may be provided as 
+independent devices are generally provided as part of the electronic Engine Control System. One 
+acceptable method for showing compliance with the specification for "reasonable assurance" of 
+providing functionality of the protection systems or circuits is to have them periodically tested by built-
+in test equipment (BITE) or a functional test. 
+In case of the over-speed protection system, the BITE test should provide complete test of the 
+electrical/electronic part of the protection system. The need for inspections or tests of the mechanical 
+or actuating part of the protection system should be based on the results of the safety analysis for this 
+part. 
+[Amdt. No.: E/1] 
+AMC E 50(j) Controls - Engines having a 30-Second OEI Power Rating 
+(1) 
+The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event 
+of one Engine becoming inoperative. The flight and operating conditions requiring use of this 
+rating may create a high pilot workload to maintain safe flight. Therefore the 30-Second OEI 
+rating should be applied and controlled by an automatic means that requires no pilot input or 
+control other than termination command. Once activated, it automatically controls the 30-

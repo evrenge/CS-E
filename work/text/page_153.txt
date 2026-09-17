@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 153 of 262 
+ 
+In addition, the alternate endurance test should demonstrate equal or more damage 
+accumulation in the other damage mechanisms.  
+(4) 
+Elements to be Used in a Severity Comparison 
+To demonstrate that the proposed alternate test is adequately severe (i.e. commensurate with 
+the intent of the classic endurance test), a method of severity comparison with the classic 
+endurance test intent is required. In addition to creep as the primary damage mechanism, other 
+damage mechanisms should be assessed at the operating conditions determined by the CPA.  
+The following elements should be considered in a severity comparison: 
+(a) 
+Declared operating limits,  
+(b) 
+Temperature-related and physical-speed-related damage mechanisms (creep, sustained 
+peak low cycle fatigue (SPLCF), thermomechanical fatigue (TMF), etc.),  
+(c) 
+Cyclic content, 
+(d) 
+Transients,  
+(e) 
+Oil system demonstrations,  
+(f) 
+Fuel system demonstrations,  
+(g) 
+Start/stop.  
+This list is not exhaustive, and the applicant should evaluate its proposed type design for all 
+significant elements and damage mechanisms.  
+(5) 
+Application of a Severity Comparison  
+The comparative methodology and damage mechanism(s) are dependent on the applicant’s 
+CPA, and on the details of the Engine application.  
+(a) 
+Comparative Severity Analysis  
+The primary approach is to use creep damage to critical gas path components as a 
+comparative arbiter to the original intent of the classic endurance test. Stress rupture and 
+creep damage were the prevalent failure mechanisms when the classic endurance test 
+was originally adapted for turbine Engines.  
+An approach based on creep damage as a comparative means to assess severity for an 
+alternate test does not mean that the alternate test must be defined only to identify 
+creep issues, or that it will not adequately assess other potential failure mechanisms. 
+Rather, it is a means of comparing any alternate test’s severity to that of the original 
+intent of the classic endurance test for the creep mechanism. Within the applicant’s 
+severity assessment and comparison, it is expected that any other relevant damage 
+mechanisms will be identified and an Engine-specific comparison of the classic with the 
+alternate endurance test will be provided to demonstrate that the proposed test will 
+adequately expose the Engine to the relevant failure and/or deterioration mechanisms 
+to meet the test intent. Paragraph 8 of this AMC provides additional guidance for severity 
+assessment. 
+(b) 
+Reference Severity 
+The reference severity is a theoretically determined value based on the material 
+temperatures of the critical component(s) identified using the CPA and on the time at 
+elevated temperature and rotor speed to which the component(s) will be subjected when 
+the Engine is tested in accordance with CS-E 740(c)(1). The rotor speeds assumed for this 

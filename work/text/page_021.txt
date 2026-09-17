@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 21 of 262 
+ 
+(5) 
+The applicant should also provide information on methods by which to assure that Engine 
+limiter settings would not prevent the Engine from reaching the 30-Second or 2-Minute OEI 
+power which would be automatically available in compliance with CS-E 50(j). These limiter 
+settings may include Engine speed, measured gas temperature and fuel flow. Particular 
+attention should be given to take-off conditions with a cold-soaked Engine. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 
+CS-E 25 Instructions for Continued Airworthiness 
+(See AMC E 25) 
+(a) 
+Manual(s) must be established containing instructions for continued airworthiness of the 
+Engine. They must be updated as necessary according to changes to existing instructions or 
+changes in Engine definition. 
+(b) 
+The instructions for continued airworthiness must contain a section titled airworthiness 
+limitations that is segregated and clearly distinguishable from the rest of the document(s). 
+For Engine Critical Parts, this section must also include any mandatory action or limitation for 
+inservice maintenance and repair identified in the Service Management Plan required under 
+CS-E 515. 
+(1) 
+For all Engines, the airworthiness limitations section must set forth each mandatory 
+replacement time, inspection interval and related procedure required for type 
+certification. 
+(2) 
+For Engines having 30-Second OEI and 2-Minute OEI power ratings, in addition to 
+complying with CS-E 25(b)(1), the airworthiness limitations section must also prescribe 
+the mandatory postflight inspections and maintenance actions associated with any use 
+of either the rated 30-Second OEI or 2-Minute OEI Power. The adequacy of these 
+inspections and maintenance actions must be validated and an in-service Engine 
+evaluation programme must be established to assure the adequacy of the data of CS-E 
+20(f) pertaining to power availability and the instructions for the mandatory post flight 
+inspections and maintenance actions.  
+The programme must include service Engine tests or equivalent service Engine test 
+experience on Engines of similar design and/or evaluations of service usage of the 30-
+Second / 2-Minute OEI ratings.  
+(c) 
+The following information must be considered, as appropriate, for inclusion into the manual(s) 
+required by CS-E 25(a).  
+(1) 
+A detailed description of the Engine and its components, systems and installations. 
+(2) 
+Handling instructions, including proper procedures for uncrating, de inhibiting, 
+acceptance checking, lifting and attaching accessories, with any necessary checks. 
+(3) 
+Basic control and operating information describing how the Engine components, systems 
+and installations operate. Information describing the methods of starting, running, 
+testing and stopping the Engine or its components and systems including any special 
+procedures and limitations that apply. 
+(4) 
+Servicing information that covers details regarding servicing points, capacities of tanks, 
+reservoirs, types of fluids to be used, pressures applicable to the various systems, 

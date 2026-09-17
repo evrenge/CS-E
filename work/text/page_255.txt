@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 255 of 262 
+ 
+The factors and limitations used throughout this AMC, and in Tables 2 and 3 in particular, are 
+examples and are used for illustrative purposes only. However, where supporting data and 
+analysis are not available, the values quoted may be used as default values. 
+The TLD analysis should establish the dispatchable configurations. The TLD report should define 
+the dispatchable configurations in terms of the Faults and their associated dispatch intervals. 
+The TLD analysis, typically a Markov analysis or Fault tree analysis, should show that the fleet-
+wide average reliability or “average LOTC/LOPC rate,” which includes full-up as well as degraded 
+system dispatches (including those resulting from Uncovered Faults), meets the required 
+LOTC/LOPC rate for the assumed installation (see also AMC 20-3). 
+The TLD analysis that substantiates compliance with the required LOTC/LOPC rate should be 
+summarised in a graph. An example of such a graph is shown in Figure 1. The ordinates of the 
+graph should be the estimate of fleet-wide average LOTC/LOPC rate of the EECS versus the 
+dispatch interval(s) (in hours) for the EECS Faults. 
+If dispatchable EECS Faults have been grouped into two categories, a short-time dispatch (or 
+repair) category and a long time dispatch (or repair) category (see paragraph (6) below), the 
+ordinate of the graph should show a long time dispatch interval of at least twice the length of 
+time of the dispatch interval being requested. When calculating the LOTC/LOPC rate as a 
+function of the long time dispatch interval, the assumed short-time dispatch interval should be 
+twice the requested short-time dispatch interval. This factor of two is used to cover 
+uncertainties in the analysis itself.  
+In the TLD analysis, all Uncovered Faults should be assumed to lead to LOTC/LOPC unless it can 
+be shown that they do not directly result in an LOTC/LOPC. The TLD analysis should provide the 
+rationale and substantiation for the Failure rates used for Uncovered Faults. 
+(5) 
+Certification specifications for all dispatchable configurations. 
+(a)  
+CS-E 1030(b) and (c) prescribes the requirements for all dispatchable configurations. 
+(b)  
+CS-E 1030(b)(3) is directed at protection systems within the EECS that provide the sole 
+means of mitigation from Hazardous Engine Effects. There may be some cases that have 
+a degree of protection from other sources. Such cases may best be addressed through 
+the MMEL rather than the TLD.  
+(c) 
+CS-E 1030(b)(5) stipulates that when dispatching with single or multiple Faults, there can 
+be no further single Failure in the Engine Control System that would create a Hazardous 
+Engine Effect. For example, it is necessary to ensure that the over-speed protection 
+system function is operational at dispatch to guard against a Hazardous Engine Effect 
+resulting from a single additional Fault driving fuel flow upwards.  
+(d)  
+CS-E 1030(b)(6) requires that the applicant shows that the Engine, in all dispatchable 
+configurations, continues to operate satisfactorily in the external threat levels for the 
+system and remain compliant with the corresponding certification specifications. The 
+Engine in each permitted TLD configuration should maintain the capability of operating 
+through the external threats considered during Engine certification e.g. icing, rain, hail, 
+birds, EMI, HIRF and lightning.  
+Relative to HIRF and lightning, compliance is typically, but not always, addressed by 
+conducting the tests in the worst-case dispatchable configuration. This worst case is often 
+represented by single channel operation. The other external threats are typically 
+addressed by analysis.  

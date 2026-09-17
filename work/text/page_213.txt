@@ -1,0 +1,42 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 213 of 262 
+ 
+(iii) 
+The bird mass must be at least as defined below: 
+Engine Inlet Throat Area (A) m2  
+Mass of Bird kg  
+A < 2.50  
+Not applicable  
+2.50 ≤ A < 3.50 
+1.85  
+3.50 ≤ A < 3.90 
+2.10  
+3.90 ≤ A  
+2.50  
+ 
+(iv) 
+The bird must be targeted on the first exposed rotating stage(s) at a blade aerofoil 
+height of not less than 50%, measured at the leading edge. 
+(v) 
+The following test schedule must be used: 
+Step 1 -  Ingestion followed by 1 minute without power lever movement.  
+Step 2 -  13 minutes at not less than 50% of Rated Take-off Thrust.  
+Step 3 -  2 minutes at a thrust set between 30 and 35% of Rated Take-off Thrust.  
+Step 4 -  1 minute at a thrust increased from that set in step 3 by between 5 and 
+10% of Rated Take-off Thrust.  
+Step 5 -  2 minutes at a thrust decreased from that set in step 4 by between 5 
+and 10% of Rated Take-off Thrust.  
+Step 6 -  At least 1 minute at ground idle followed by Engine shutdown.  
+ 
+Each specified step duration is the time at the defined step conditions. The power lever 
+movement between each step will be 10 seconds or less in duration, except that power 
+lever movement for setting theconditions of step 3 will be 30 seconds or less. Within 
+step 2, power lever movements are allowed and are not limited. 
+ 
+Run-on For Large Flocking Bird Rule 

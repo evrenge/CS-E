@@ -1,0 +1,58 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 127 of 262 
+ 
+Consideration should also be given to the speed range from zero to minimum rotational speed, 
+especially in the case of supercritical shafts. Some predicted potentially damaging transient 
+responses may require an aggressive control input to provoke a representative response. 
+(12) Instrumentation Incompatibility 
+If the dimensions of the components to be tested are incompatible with the necessary 
+instrumentation, instrumented Engine tests to substantiate the vibration characteristics of 
+these components and the variation of the Endurance Test incremental running as prescribed 
+in CS-E 740(g)(1) may be waived wholly or in part if the Agency is satisfied that the total hours 
+of operation accumulated on test beds or in flight, under representative conditions, prior to 
+certification are sufficient to demonstrate that the vibration stress levels are acceptable. 
+(13) Installation Compatibility 
+The intent of CS-E 650(h) is to ensure vibratory compatibility between the Engine and each 
+intended installation configuration when the Engine is installed and operated in accordance 
+with the manufacturer’s approved instructions. The applicant will normally be expected to 
+provide sufficient information in the Engine instructions for installation to enable the aircraft 
+manufacturer(s) to establish that the installation does not unacceptably affect the Engine’s 
+vibration characteristics. In establishing vibratory compatibility between the Engine and the 
+installation, consideration should be given to the need to declare operating limitations and 
+procedures. Where appropriate, at least the following aspects and installation features should 
+be considered: 
+— 
+ each Propeller approved for use on the Engine; 
+— 
+ each thrust reverser approved for use on the Engine; 
+— 
+ installation influences on inlet and exhaust conditions; 
+— 
+ stiffness and damping of the mount system; and 
+— 
+ rotor drive systems. 
+(14) Modelling and Analysis 
+Acceptable analytical methods are based on the complementary concepts of a baseline test and 
+validated analysis. The general principle is that a baseline test in conjunction with validated 
+analysis is equivalent to a new test. 
+(a) 
+Baseline test 
+A baseline test is usually one of the following: 
+(i) 
+An Engine or rig test run on the first model of an Engine type during the type 
+certification programme. The validated analysis developed on the basis of this test 
+may then be used for derivative models that are added to the same type certificate. 
+(ii) 
+An Engine or rig test run on a previously certified Engine type. The validated 
+analysis developed on the basis of this test may then be used for Engines whose 
+design characteristics and operating conditions are shown to be sufficiently similar 
+to those of the Engine in the baseline test. 
+(iii) 
+An Engine or rig test specifically run to support the creation of the validated 
+analysis. 

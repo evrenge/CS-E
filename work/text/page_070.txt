@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART C — PISTON ENGINES, TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 70 of 262 
+ 
+AMC E 300(f)  Conditions Applicable to all Tests - Torque 
+Measurement 
+In establishing an acceptable method for determination of the Engine torque, consideration should be 
+given to the following: 
+(1) 
+Where a method of direct Engine torque measurement is to be used, the overall accuracy of 
+the torque measurement system should be determined. 
+(2) 
+Where no direct means for measuring Engine torque is available, an appropriate method for 
+establishing the torque will be needed. 
+(a) 
+Normally this requires the use of suitable Engine parameters (e.g. power setting, and 
+Engine speed) to correlate the Engine torque measured on a dynamometer with the 
+Engine torque achieved in the test configuration. 
+(b) 
+The correlation should take into account any effect due to environmental changes (e.g. 
+temperature, humidity, ambient pressure) and of test bench configuration changes (e.g. 
+air inlet, exhaustand engine cooling system differences between the dynamometer 
+installation and the test configuration). 
+(c) 
+The overall accuracy of the method used for determining Engine torque should be 
+determined. 
+[Amdt. No.: E/1] 
+CS-E 320  Performance Correction 
+(See AMC E 320) 
+(a) 
+All performance results shall be corrected to the conditions of the Standard Atmosphere, in 
+accordance with an internationally recognised method. 
+(b) 
+Where Engine power is affected by cylinder temperature or coolant temperature the 
+performance results shall be corrected to the minimum engine power within the range of 
+temperatures to be approved for use. 
+[Amdt. No.: E/1] 
+AMC E 320 Performance Correction 
+(1) 
+An acceptable method for calculating performance corrections is defined in ISO 1585:2020, 
+Road vehicles - Engine test code - Net power. 
+(2) 
+Since the effect of free water on power output is within ±1% over the range of water/air ratios 
+normally encountered in operation, and the amount of free water is exceedingly difficult to 
+measure, no corrections for free water need to be made. 
+[Amdt No: E/1] 
+[Amdt No: E/8] 
+ 

@@ -1,0 +1,52 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 115 of 262 
+ 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+CS-E 600 Tests - General 
+(a) 
+All tests must be made with air intakes conforming to an acceptable design that is as 
+representative of the powerplant intakes as is practicable. 
+(b) 
+All tests must be made with acceptable representative jet pipes and propelling nozzles, except 
+as permitted under CS-E 740(f)(4)(i). The approval of other jet pipes and / or propelling nozzles 
+for particular installations will be considered individually as necessary. 
+(c) 
+Unless otherwise required for specific tests, any optional air bleed must be closed during all 
+relevant tests. 
+(d) 
+In cases where dirt accumulates within the Engine due to the test house environment, it will be 
+acceptable to clean the Engine internally at agreed intervals during the endurance test of CS-E 
+740 by an agreed method which does not involve stripping any part of the Engine or necessitate 
+the removal of the Engine from the test bed. 
+(e) 
+Engines for Rotorcraft. All tests must normally be made with the Engine mounted in the attitude 
+in which it will be installed. (See AMC E 600(e)). 
+[Amdt. No.: E/1] 
+AMC E 600(e) Test - General 
+The applicant should justify any difference between the Engine attitude during the tests and the 
+Engine attitude in the intended rotorcraft installations. 
+[Amdt. No.: E/1] 
+CS-E 620 Performance Correction 
+(See AMC E 620) 
+(a) 
+All performance results must be corrected to the following assumed conditions of atmospheric 
+pressure and temperature at mean sea level: 
+(1) 
+Pressure. 1013.25 hPa 
+(2) 
+Temperature. 288 K 
+(3) 
+Atmosphere. Dry air (if correction is significant). 
+(b) 
+Correction of Humidity. No correction for humidity of the air supply may be made to the power 
+obtained. Humidity corrections appropriate to high atmospheric temperatures, at altitudes up 
+to 4 500 m must be established, however, for each type of turbine Engine, for use in the 
+assessment of aircraft performance in these conditions. 
+[Amdt. No.: E/1] 

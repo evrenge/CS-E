@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 205 of 262 
+ 
+cones, spinners, inlet surfaces, blades and vanes, etc. need to be established or 
+conservatively assessed for determining critical points.  
+(iii)  
+Engine power level  
+The entire envelope of power/thrust conditions should be analysed. While 
+rundown and flameout are predominantly low power/thrust anomalies, 
+compressor stability problems could occur at high power/thrust.  
+(iv)  
+Engine parasitics  
+The variability of Engine parasitics, such as air bleeds and accessory loads, should 
+be analysed for their effect on the critical points.  
+(c) 
+Critical Point Analysis Procedure 
+The critical point analysis is an assessment of the Engine's capability throughout its 
+operating envelope, given the range of event variables described above and any Engine 
+operability condition which is affected by ingested rain or hail. Typical operability 
+conditions to consider include surge and stall margin, fuel control rundown margin, 
+combustor flameout margin and instrumentation sensing errors. The critical point 
+analysis should also address case contraction.  
+(5) 
+Compliance Methods 
+(a) 
+General 
+An Engine compliance test method consistent with the critical point analysis may include 
+the use of a ground-level static facility with appropriate means of conducting Engine tests 
+with the ingestion of simulated rain and hail at the increased concentrations that are 
+necessary to produce in-flight effects on the concentrations of ingested rain and hail and 
+to compensate for the differences between the critical point conditions and the ground-
+level test conditions. Other possibilities for demonstrating compliance include wind 
+tunnel testing, direct core water-injection tests, component rig tests, scale model tests, 
+and analyses.  
+(b) 
+Test Point Selection 
+The critical hail point(s) and rain point(s) that yield the least operability margin should be 
+demonstrated by Engine ingestion testing. Additional test points should be considered if 
+any of the operability margins are determined to be minimal (i.e. compressor surge and 
+stall, combustor blow-out, fuel control rundown, instrumentation sensing errors, etc.).  
+(c) 
+Critical Point Testing At Ground Level 
+The applicant may test the Engine at ground-level conditions, provided the relevant 
+Engine operational factors of the critical points are reproduced in a meaningful 
+relationship.  
+(i) 
+Test Compensation 
+The applicant should compensate for differences between the critical point 
+conditions and the test facility conditions. These differences may include:  
+(A) 
+Air density 
+The critical point percentage of rain and hail concentration by weight should 
+be reproduced during the test. For example, 20 g/m3 of rain at 20 000 feet is 
+approximately 3 per cent water by weight. At sea level this percentage of 

@@ -1,0 +1,24 @@
+ 
+CS-E — Amendment 8 
+SUBPART B — PISTON ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 68 of 262 
+ 
+(d) 
+Adequate oil cooling shall be provided, or the required oil cooling means shall be defined in the 
+instructions for installation, to ensure that temperature limits are not exceeded in any normal 
+operating condition within the flight envelope. 
+(e) 
+Each type of oil, and brand if appropriate, must be declared and substantiated, along with any 
+associated limitations. 
+(f) 
+Any oil characteristic which is likely to be critical for Engine functioning or durability must be 
+identified. Where necessary, Engine or rig testing using appropriate oil shall be conducted. 
+CS-E 290  Hand Turning 
+It must be possible to rotate the crankshaft in controlled slow motion. Where this is effected by hand-
+turning gear as distinct from the Propeller, a means of safe guarding the operator against injury, if the 
+Engine starts or kicks back, must be provided. It must not be possible to damage the Engine by use of 
+the hand-turning gear. 

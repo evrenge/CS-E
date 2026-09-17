@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 130 of 262 
+ 
+— 
+Where test speeds required by CS-E 650(b) and (c) are not achieved, by 
+agreement with the Agency as described in paragraph (4)(b) of this AMC. The 
+validated analysis would be expected to cover the speed range(s) or 
+operating conditions not achieved during testing. 
+— 
+Where instrumentation has been lost, for example due to the extreme test 
+conditions. The validated analysis would be expected to cover the speed 
+range(s) or operating conditions for which instrumentation was lost. 
+— 
+Where stresses are not measured directly at critical locations. In that case, 
+the peak stresses may be derived based on measurements taken at 
+reference locations. This requires a detailed understanding of the modal 
+composition of the response and the associated mode shapes to derive the 
+relationship between each location. 
+— 
+Where it proves necessary to justify the acceptability of any significant 
+responses whether observed or predicted. 
+(iii) 
+Update of the Validated Analysis 
+It is expected that the applicant may regularly update the validated analysis, for 
+instance following new testing performed or service experience. The updated 
+validated analysis and/or its domain of applicability should be reviewed and 
+accepted by the Agency. 
+(15) Inspection Specifications 
+The pre-certification activity necessary for determining which Engine components require 
+verification by Engine test and also for determining the proper location of Engine test 
+instrumentation will typically include substantive tests and analyses for determining 
+component (or system) natural frequencies, mode shapes, steady-state mean stress and 
+vibratory stress distributions. These development activities will generate engineering data 
+essential to supporting the certification test and should be exempt from formal Agency approval 
+of test plans and reports. Inspection of type design hardware in accordance with the 
+requirements of point 21.A.33 of Part 21 should be limited to only those pertinent Engine 
+components and associated instrumentation that constitute the certification Engine test or the 
+baseline tests supporting the validated analysis.  
+[Amdt No: E/1] 
+[Amdt No: E/4] 
+[Amdt No: E/7] 
+[Amdt No: E/8] 
+CS-E 660 Fuel Pressure and Temperature 
+(See AMC E 660) 
+A substantiation must be made to establish the minimum and maximum fuel pressure and fuel 
+temperature limits to be approved for the Engine. The details of the substantiation, which may involve 
+rig tests and/or complete Engine tests, must be agreed with the Agency. 
+[Amdt. No.: E/1] 

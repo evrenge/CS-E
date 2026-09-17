@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 194 of 262 
+ 
+— 
+ anomalous Engine behaviour that has been found acceptable following ice shed 
+ingestion; 
+any damage observed following the icing tests considered acceptable by the applicant and by 
+the Agency; 
+— 
+ minimum power/thrust required for safe operation of the Engine in icing conditions (if 
+necessary); and 
+— 
+ for ground icing operation, the conditions established during the test in terms of time, 
+temperature (if any limitation exists) and run-up procedures. 
+If the Engine is certified under the assumption that the protection device considered under CS-
+E 780(f)(3) is provided by the aircraft installation, and if (with respect to ice formed forward of 
+the protection device) the compliance with CS-E 780(f)(1) to (f)(2) is waived, then the Engine 
+approval would be endorsed accordingly and the Engine instructions for installation would need 
+to impose the conditions of CS-E 780(f)(3)(i) to (iii) to the installation. 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/4] 
+[Amdt. No.: E/7] 
+CS-E 790  Ingestion of Rain and Hail 
+(a) 
+All Engines. 
+(1) 
+The ingestion of large hailstones (0.8 to 0.9 specific gravity) at the maximum true 
+airspeed, for altitudes up to 4 500 metres, associated with a representative aircraft 
+operating in rough air, with the Engine at Maximum Continuous Power or Thrust, must 
+not cause unacceptable mechanical damage or unacceptable Power or Thrust loss after 
+the ingestion, or require the Engine to be shut down.  
+ Engine tests must be performed as follows, unless it is agreed that alternative evidence 
+can be used, such as results from other Engine test(s), rig test(s), analysis, or an 
+appropriate combination of these, provided by the applicant from their experience with 
+Engines of comparable size, design, construction, performance and handling 
+characteristics, obtained during development, certification or operation. 
+ One-half the number of hailstones must be aimed randomly over the inlet face area and 
+the other half aimed at the critical inlet face area. The hailstones must be ingested in a 
+rapid sequence to simulate a hailstone encounter and the number and size of the 
+hailstones must be determined as follows: 
+(i) 
+one 25-millimetres diameter hailstone for Engines with inlet throat areas of not 
+more than 0.0645 m2; 
+(ii) 
+one 25-millimetres diameter and one 50-millimetres diameter hailstone for each 
+0.0968 m2 of inlet throat area, or fraction thereof, for Engines with inlet throat 
+areas of more than 0.0645 m2. 
+(2) 
+In addition to complying with CS-E 790(a)(1) and except as provided in CS-E 790(b), it 
+must be shown that each Engine is capable of acceptable operation throughout its 
+specified operating envelope when subjected to sudden encounters with the certification 
+standard concentrations of rain and hail as defined in Appendix A to CS-E. Acceptable 
+Engine operation precludes, during any 3-Minute continuous period in rain and during 
+any 30-Second continuous period in hail, the occurrence of flameout, rundown, 

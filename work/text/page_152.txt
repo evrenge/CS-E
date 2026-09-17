@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 152 of 262 
+ 
+The applicant should assess the Engine operating envelope using thermodynamic models for 
+new and fully deteriorated Engines to identify conditions at the most critical point(s), including 
+any coincident maxima. These conditions will probably be associated with limit temperature 
+cases (for a secondary air system operating at design conditions, it is reasonable to assume that 
+the highest exhaust gas temperatures (EGTs) are coincident with the highest metal 
+temperatures (Tmetal), even if Tmetal is not directly scalable with the EGT). 
+The CPA is expected to provide the following two types of data outputs. 
+• 
+CPA data for production Engine in-service operating limits (OL) study. Necessary to 
+establish conditions for the speed and temperature OL demonstrations (see CS-
+E 740(c)(4)(iv)). 
+Output data.  
+Cumulative exposure time of concurrent rotor speeds OL (individually in the case of 
+multiple rotors) and EGT OL.  
+Note: A tendency to concurrent OL levels at the end of the service interval would suggest 
+that the alternate endurance test is inappropriate for the given eEngine type. 
+Cumulative exposure time at, and in close proximity to, rotor speeds OL and associated 
+EGTs (EGT below EGT OL).  
+Note: To be compared with mandatory demonstration times required by CS-
+E 740(c)(4)(iv). 
+Cumulative exposure time at, and in close proximity to, EGT OL and associated maximum 
+rotor speeds.  
+• 
+CPA data for severity comparison purposes. Necessary to establish conditions for the test 
+severity demonstration (refer to CS-E 740(c)(4)(v)). 
+Output data.  
+Identification of the critical component(s) and associated damage mechanism(s). 
+Maximum damage conditions for the critical components at EGT OL.  
+Note: For consideration of metal creep damage, and other temperature-related damage, 
+the highest component temperature, Tmetal, should be established, to be used in the 
+assessment of reference severity as part of the severity analysis of the classic endurance 
+test, and in assessing the required power settings and eventual severity value of the 
+physical alternate test. 
+(3) 
+Severity Equivalence between the Alternate and Classic Endurance Tests  
+The key input parameters to characterise the severity of a test are the time on condition, the 
+number of cycles run to critical component temperatures and the physical Engine speeds 
+reached while operating at rated thrust. 
+This classic endurance test provides a number of challenges to the Engine design. The primary 
+intent is to perform an accelerated severity test of the creep capability (i.e. the durability at 
+sustained high turbine temperature and physical speed) and of the effects of deterioration on 
+operability driven by the prescribed operating conditions (not inclusive of all flight environment 
+deterioration effects). 
+Therefore, the severity equivalence of the alternate endurance test should be assessed on the 
+basis of accelerated creep life usage as compared with the intent of the classic endurance test.  

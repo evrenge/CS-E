@@ -1,0 +1,76 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 120 of 262 
+ 
+(e) 
+Evaluations must be made of the effects on vibration characteristics of operating with 
+scheduled changes (including allowance for tolerances) to variable vane angles, compressor 
+bleeds, accessory loading, the most adverse inlet airflow distortion pattern declared by the 
+applicant and the most adverse conditions in the exhaust duct(s). 
+(f) 
+Except as provided by CS-E 650(g), the vibratory stresses associated with the vibration 
+characteristics determined under this CS-E 650, when combined with the appropriate steady 
+stresses, must provide suitable margins to the endurance limit of each component, after making 
+due allowances for operating conditions and for the permitted variations in properties of the 
+associated materials. The suitability of these stress margins must be justified for each 
+component. If it is determined that certain operating conditions, or ranges, need to be limited, 
+operating and installation limitations must be established. 
+(g) 
+The effects on vibration characteristics of excitation forces caused by Fault conditions must be 
+evaluated and shown not to result in a Hazardous Engine Effect. 
+(h) 
+Compliance with this CS-E 650 must be substantiated for each specific installation configuration 
+that can affect the vibration characteristics of the Engine. If these vibration effects cannot be 
+fully investigated during Engine certification, the methods by which they can be evaluated and 
+compliance shown must be substantiated and defined in the Engine instructions for installation 
+required under CS-E 20(d). 
+[Amdt. No.: E/1] 
+[Amdt. No. E/4] 
+AMC E 650 Vibration Surveys 
+(1) 
+Definitions. The following are defined for the purpose of this AMC: 
+Vibration 
+Survey: 
+A vibration survey is a test or series of tests which, either alone or in conjunction with 
+validated analysis, establishes the vibratory characteristics of Engine components. 
+Baseline 
+Test: 
+A baseline test is one which was performed for the purpose of establishing 
+experimentally the dynamic characteristics of Engine components using hardware, 
+and/or under conditions, different from those for which approval is currently sought, 
+and is an essential requirement for a complementary validated analysis. 
+Validated 
+Analysis: 
+A validated analysis is one with demonstrated predictive capability within a specified 
+domain of applicability that encompasses one or more complementary baseline tests. 
+Module: 
+A module is either a compressor or a turbine which may be single or multi-stage, or a 
+gear box. If multi-stage, the rotating elements are mechanically joined and rotate at the 
+same speed. The gas path entry and exit points are clearly defined and are frequently 
+nodal points in a performance model.  
+Note: A single stage or subset of stages isolated from a multi-stage compressor or 
+turbine does not constitute a module. 
+Physical 
+Rotational 
+Speed (Nr): 
+The physical rotational speed of the rotating elements of a module is the raw 
+uncorrected rotational speed. It is rotational speed as normally understood. The 
+descriptor ‘physical’ is added in order to differentiate it clearly from corrected speed. 
+Minimum 
+Rotational 
+Speed (Min 
+Nr): 
+The minimum rotational speed of the rotating elements of a module is the lowest 
+steady state rotational speed which can be obtained within the limits imposed by the 
+Engine Control System under Fault free conditions throughout the declared flight 
+envelope. 
+Corrected 
+Speed (Nc): 
+The corrected speed of the rotating elements of a module is the rotational speed 
+normalised to a standard inlet temperature of 15°C in accordance with the formula: 
+Nc = Nr/(T inlet/288)𝑒 

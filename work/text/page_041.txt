@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 41 of 262 
+ 
+above the Take-off Rating limits but within the limits established under CS-E 820, 830, and 870 
+need not be considered as usage of 30-Second/2-Minute OEI Power Ratings if the event was a 
+true over-torque, over-speed or over-temperature event and it can be demonstrated that the 
+recording system is able to distinguish between; 
+(i) 
+an Engine over-speed, over-torque or over-temperature with all Engines operating, and 
+(ii) 
+use of the 30 Second/2 Minute OEI Power Ratings with one Engine inoperative.  
+[Amdt. No.: E/1] 
+CS-E 70  Materials and Manufacturing Methods 
+(See AMC E 70) 
+(a) 
+The suitability and durability of materials used in the Engine must be established on the basis 
+of experience or tests. The assumed design values of properties of materials must be suitably 
+related to the minimum properties stated in the material specification. 
+(b) 
+Manufacturing methods and processes must be such as to produce sound structure and 
+mechanisms which retain the original mechanical properties under reasonable service 
+conditions. 
+[Amdt. No.: E/1] 
+AMC E 70  Castings, Forgings, Welded Structures and Welded 
+Components 
+(1) 
+Castings 
+The means of maintaining the required quality of all castings should be established by such 
+methods as analysis for correct chemical composition, tests of mechanical properties, 
+microscopic examination, break-up examination, strength tests, radiographic examination, etc. 
+While other forms of examination may be adequate for most parts of castings, radiographic 
+examination, where practicable, should be carried out on the more highly stressed portions in 
+order to establish that the foundry technique is satisfactory.  
+When radiographic examination is called for, this should be continued until a satisfactory 
+standard of quality has been established. Subsequent relaxation may be introduced, in quantity 
+production, at the Engine constructor's discretion using a system acceptable to the Agency.  
+All castings should be subjected to a suitable flaw-detection process. Such processes should be 
+completed subsequent to any heat treatment.  
+The drawings of each casting should contain information sufficient to identify the relevant 
+means of manufacture and quality control, either by detailing the necessary information, or 
+quoting the relevant documents. Where necessary, areas of high stress should be identified, 
+but this may be done by a separate drawing.  
+No change of foundry (i.e. castings constructor) or significant change of foundry technique 
+should be made without the agreement of the Engine constructor, and such agreement should 
+involve review of the need for the repetition of certain tests and/or a revision of the method of 
+quality control.  
+(2) 
+Forgings 

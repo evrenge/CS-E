@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 86 of 262 
+ 
+compliance with CS-E 510 (a)(3), can only be ensured through compliance with CS-
+E 515, supplemented by CS-E 840 and CS-E 850. 
+Blades 
+The Engine must be designed to ensure that debris resulting from the shedding of 
+compressor or turbine blades, either singly or in likely combinations, will be radially 
+contained (see CS-E 520(c)(1)). 
+Although blade Failures must be radially contained, it is possible that debris 
+(typically lower-energy blade fragments) is released from the Engine, forward, 
+rearward, or otherwise outside the Engine containment structure, as a result of the 
+blade Failure. If this debris is released with an energy and trajectory that could 
+cause an unsafe condition (refer to AMC1 21.A.3B(b)), such debris should be 
+considered as uncontained high-energy debris causing a Hazardous Engine Effect. 
+In order to demonstrate the Extremely Remote probability objective necessary for 
+compliance with CS-E 510 (a)(3), the overall probability of occurrence of the unsafe 
+condition should be assessed. 
+The integrity specifications of CS-E 515 provide some reliability benefits when 
+applied to a blade (particularly when it forms a part of a blisk (also named integrally 
+bladed rotor)). However, these specifications do not provide a valid basis to 
+demonstrate an Extremely Remote blade failure probability. Blade reliability is 
+affected by many factors. Whilst some of these are addressed by CS-E 515 (e.g. 
+low- and high-cycle fatigue, manufacturing quality, service management), others 
+are not (e.g. foreign object damage). Engineering judgement based on available 
+test and service experience of comparable designs should therefore be used as the 
+basis for a conservative estimate of blade reliability. 
+The likelihood of a blade failure resulting in an unsafe condition should be 
+determined primarily based on debris energy and trajectories observed in testing 
+and in service, along with an assessment of the trajectories which have the 
+potential to impact the aircraft and cause an unsafe condition. Where possible, the 
+threat to the safety of the aircraft should be assessed in coordination with the 
+aircraft manufacturer, as this may allow some identified threats to be shown not 
+to cause an unsafe condition when considering the particular installation. In any 
+case, assumptions regarding the ability of the aircraft to withstand debris impact 
+should be included in the Manuals required by CS-E 20(d). 
+Other Sources of Uncontained High-Energy Debris 
+The potential exists for other component(s) to be released from the Engine 
+following Failure. For instance, service experience has shown that the rupture of 
+the high-pressure casings can generate high-energy debris. Such Failures may 
+therefore need to be considered as potentially causing the release of high-energy 
+debris. 
+In such cases, the probability that an unsafe condition results from the Failure 
+should be assessed. An Extremely Remote probability must be demonstrated for 
+compliance with CS-E 510 (a)(3). 
+(iv) 
+Toxic products. 

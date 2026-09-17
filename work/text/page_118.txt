@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 118 of 262 
+ 
+(b) 
+Compliance with CS-E 640(a) must take account of  
+(1) 
+The operating temperature of the part, 
+(2) 
+Any other significant static loads in addition to pressure loads, 
+(3) 
+Minimum properties representative of both the material and the processes used in the 
+construction of the part, and 
+(4) 
+Any adverse geometry conditions allowed by the type design. 
+[Amdt. No.: E/1] 
+AMC E 640 Pressure Loads 
+(1) 
+Definitions. For the purpose of CS-E 640(a) the following definitions apply and should be related 
+to the Engine when installed in a typical installation. 
+Normal Working Pressure. 
+The maximum pressure differential likely to occur on most 
+flights including any pressure fluctuations as a result of the 
+normal operation of valves, cocks, etc, where these could 
+produce significant surge pressures.  
+Maximum Working Pressure. 
+The maximum pressure differential which could occur under 
+the most adverse operational conditions (e.g. forward speed, 
+altitude, ambient temperature, Engine speed, use of OEI 
+ratings) likely to be encountered in service, including any 
+pressure fluctuations as a result of the normal operation of 
+valves, cocks, etc., where these could produce significant surge 
+pressures.  
+Maximum Possible Pressure. 
+The maximum pressure differential which could occur under 
+the most adverse combination of operational conditions (e.g. 
+forward speed, altitude, ambient temperature, Engine Speed, 
+use of OEI ratings) likely to be experienced in service, together 
+with Failure of any relevant parts of the Engine or control 
+system, or combinations of Failures which are more likely than 
+Extremely Remote. Consideration should be given to any 
+pressure fluctuations as a result of normal or emergency use of 
+valves, cocks, etc., where these could produce significant surge 
+pressures.  
+Static Parts subject to significant gas or liquid pressure loads. The components subject to high-
+pressure loads or whose design is influenced by the gas or liquid 
+pressure loads to be contained. Examples might include the 
+compressor, combustor and turbine casings, heat exchangers, 
+bleed valve solenoids, starter motors or fuel, oil and hydraulic 
+system components. Special attention should be given to any 
+filler cap. 
+(2) 
+Static Pressure Tests (see CS-E 640(a)) 
+The anticipated Engine manual serviceable limits may be used as the criteria to judge the 
+acceptability of any permanent distortion.  

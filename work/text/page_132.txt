@@ -1,0 +1,73 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 132 of 262 
+ 
+CONTAMINANT  
+PARTICLE SIZE  
+QUANTITY  
+Cotton linters  
+Below 7 staple (US Dept of 
+Agriculture Grading 
+Standards SRA-AMS 180 
+and 251)  
+0.03 g/1000 litre  
+Crude Napthenic Acid  
+0.03 percent by volume  
+Salt water prepared by dissolving 
+salt in distilled water or other 
+water containing not more than 
+200 parts per million of total solids  
+4 parts by weight of NaC1 
+ 
+96 parts by weight of H2 0  
+0.01 percent by volume  
+ 
+Additionally, for engines to be fitted to Aircraft with Carbon Fibre Composite Material 
+Fuel Tanks: 
+Carbon fibre rods of tensile 
+strength 5.59 GPa nominal.  
+5 microns nominal diameter 
+0 to 2000 microns in length 
+Population distribution: 
+0 - 25 microns (43% ± 5%)  
+25 - 50 microns (25% ± 5%)  
+50 - 75 microns (13% ± 5%)  
+75 - 125 microns (12% ± 5%)  
+>125 microns (7% ± 5%) 
+Maximum fibre length  
+2000 microns  
+0.54 g/1000 litre  
+ 
+(b) 
+A test on the complete fuel system should be carried out either on a running Engine, or 
+on a rig, using fuel continuously contaminated at a rate of 4.5 g of contaminant per 
+4 500 litres. 
+(c) 
+The point at which impending filter blockage will be indicated to the flight crew should 
+also be established and the fuel system should be shown to be capable of continuing to 
+operate without causing Engine malfunction for a further period equal to at least half the 
+maximum flight duration of the aircraft in which it is likely to be installed. Once this has 
+been established, it is permissible to clean or replace filter(s) as frequently as necessary 
+for the remainder of the test. If blockage has not occurred by the time the total quantity 
+of contaminant has reached the level specified in paragraph (d) below, the objective of 
+this paragraph (c) may be considered to have been met. 
+(d) 
+The test should then be continued at typical running conditions with respect to Rotational 
+Speeds, pressures, fuel flow, etc., for a sufficient time to ensure that the total weight of 
+contaminant passing into the system would be equivalent to 500 hours of normal 
+operation with fuel contaminated to a level of 0.5 g per 4 500 litres. At the conclusion of 
+the test, the fuel system should be functioning satisfactorily. 
+(2) 
+Water Contaminant 
+A test on the fuel system should be carried out, using the fuel contaminated with water, either 
+on a running Engine or on a rig.  
+The contaminated fuel should consist of fuel initially saturated with water at a fuel/water 
+temperature of 27°C into which a further 0.2 ml of free water per litre of fuel has been evenly 
+dispersed. 
+The test should be conducted with the contaminated mixture cooled to the most critical 
+condition for icing likely to be encountered in operation. 

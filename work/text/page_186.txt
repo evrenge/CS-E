@@ -1,0 +1,63 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 186 of 262 
+ 
+When a non-altitude test is used to simulate in-flight icing conditions, any 
+differences in Engine operating conditions, LWC, ice accretion, and 
+sheddingbetween the altitude condition to be simulated and the test conditions, 
+which could affect the Engine behaviour in icing conditions, should be taken into 
+account when establishing the test points to be carried out. This could involve the 
+modification of Engine operating conditions and other test conditions of this 
+paragraph in order to adequately simulate all icing threats and effects which are 
+relevant for the test conditions..  
+The icing threats which should be considered include but are not limited to: 
+— 
+vibration; 
+— 
+surge; 
+— 
+flameout; 
+— 
+core blockage; and 
+— 
+ice impact energy and location following shedding. 
+For instance, if more ice would accrete at a critical location under altitude 
+conditions, then the test conditions (e.g. LWC) may need to be adjusted. Similarly, 
+if the rotor speed in flight would be higher, this should be considered to ensure 
+that the Blade impact energy is at least as severe under test conditions. 
+Furthermore, altitude effects on Engine performance, including surge and 
+flameout margins, should be taken into account, either in the tested conditions, or 
+through post-test assessment. 
+Because different Engine modules react differently to variations in altitude 
+conditions (e.g. low pressure shaft speeds v high pressure shaft speeds), the 
+various icing threats are also impacted differently by varying altitude conditions. 
+Consequently, this may require running multiple test points to simulate all 
+relevant/applicable icing threats associated with a single atmospheric condition. 
+In that context, a single atmospheric condition could either be: 
+— 
+a single standard test point as listed in Table 1 above, or  
+— 
+a single test point identified by a CPA (refer to AMC E 780 (2.1)). 
+Effects which should be considered and corrected for include but are not limited 
+to: 
+— 
+Engine shaft speeds; 
+— 
+By-pass ratio; 
+— 
+ice concentration and dilution effects at Engine and core inlet (i.e. scoop 
+factor); 
+— 
+mass flow (total and core Engine); and 
+— 
+temperature effects. 
+The effects of density, hardness, and adhesion strength of the ice as it sheds should 
+be assessed in realistic flight conditions. For example, in realistic flight conditions, 
+the ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced 
+by the rotor speed and the adhesive strength of the ice to the surface. The adhesive 
+strength of ice generally increases with decreasing surface temperature. The ice 

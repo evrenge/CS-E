@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 23 of 262 
+ 
+(3) 
+The manuals required under CS-E 25 should include, where applicable, details of the division of 
+the Engine into modules, giving the nomenclature and clearly defining the boundaries for each 
+module. 
+(4) 
+Inspection and maintenance actions for engines having 30-Second and 2-Minute OEI Power 
+ratings. (See CS-E 25(b)(2))  
+(a) 
+For Engines with 30-Second and 2-Minute OEI Power ratings, the airworthiness 
+limitations section of the instructions for continued airworthiness are required to 
+prescribe the mandatory post-flight inspections and maintenance actions which are 
+applicable following the use of either of these two ratings, or both, prior to next flight. 
+If the 2-Minute OEI Power rating time period is extended to 2 1/2 minutes, as described 
+in paragraph (5) of AMC E 40(b), the additional 30 seconds period is considered as a de-
+rated 30-Second OEI Power rating and the maintenance actions prescribed for the 30-
+Second OEI rating should be used. Alternatively, the applicant may seek approval for 
+prescribing a different set of inspections and maintenance actions for time exceedence 
+of Engine operation at the 2-Minute OEI Power rating if this is appropriately justified and 
+validated. For instance, if the Engine is essentially the same as one which has a 2 1/2-
+Minute OEI rating equivalent to the new 2-Minute OEI rating, then the maintenance 
+considerations of the 2 1/2-Minute OEI rating might also be applicable after use of the 2-
+Minute OEI rating for up to 2.5 minutes.  
+If only the accumulated usage time is recorded under CS-E 60(d)(2), the inspection and 
+maintenance action prescribed as required by CS-E 25(b)(2) should be based on the total 
+recorded time duration regardless of the number of applications at the ratings used in 
+one flight.  
+(b) 
+The 30-Second and 2-Minute OEI ratings were originally intended to allow brief periods 
+of operation close to the limits of the Engine design. This may result in component 
+deterioration beyond serviceable limits so that they would not be suitable for further use. 
+The extent to which use of the ratings cause component damage or life reduction, in 
+particular the life of Engine Critical Parts, is primarily a function of Engine design margins, 
+application exposure level and duration, hardware condition prior to use and operating 
+environment. Because Engine operating conditions and time recording are specifications 
+for this rating, the maintenance actions can be related directly to an actual documented 
+usage level, time and, if applicable, known condition prior to rating application (hours / 
+cycles / prior rating exposure, etc.). 
+Depending on the actual operating parameters such as temperature and time exposure 
+which are recorded during usage of these ratings in accordance with CS-E 60(d), it is 
+possible to pre-define a maintenance action and decrement of the remaining time before 
+overhaul or component replacement, based on the type, level and duration of exposure. 
+If the mandatory maintenance instructions result in no maintenance action, then the 
+minimum specification would be the interpretation of recorded event data and 
+documentation of the data in the maintenance log(s). The instructions for continued 
+airworthiness should also include the definition of data to be provided by the operator 
+on the Engine during service to support the applicant in completing the Engine in service 
+evaluation programme  
+(c) 
+Validation of mandatory post-flight inspection and maintenance actions. 
+(i) 
+Under CS-E 40(f), at any time during its service life, the Engine should be 
+maintained in a condition which would assure that the 30-Second and 2-Minute 

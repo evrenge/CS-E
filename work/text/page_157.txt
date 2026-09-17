@@ -1,0 +1,68 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 157 of 262 
+ 
+Engine-rated performance demonstration is also a performance-based element of the alternate 
+endurance test and supported by analysis that assesses the accumulated damage to critical 
+components as part of the overall test severity assessed. A similar mix of various cycles and 
+durations has also been used in this illustration, along with the respective accumulated damage. 
+In this example (Figure 7.5), much of the cyclic content is conducted during this test segment. 
+ 
+Figure 7.5. Severity Usage for Additional Extended Conditions 
+ 
+Finally, in Figure 7.6, a summary of the test times and accumulated damage is compiled. This 
+accumulated damage can be normalised by the reference severity, which, for this example, was 
+the creep damage caused by 18.75 hours of operation at MTO limits and 45 hours of operation 
+at MCT limits, the total accumulated times at these conditions in the classic endurance test. 
+ 
+Figure 7.6. Cumulative Severity Usage for Whole Test – first example 
+ 
+Power-Setting
+Test Time 
+(hrs.)
+Cycles
+No.
+Power-Setting
+Accumulated 
+Damage
+Reference 
+Damage
+Normalized 
+Damage
+MTO
+30.7
+MTO
+380
+MTO
+0.09128
+0.16000
+0.57051
+MCT
+70.7
+MCT
+70
+MCT
+0.17327
+0.06000
+2.88783
+Idle
+50.0
+Total Cycles
+450
+Total Damage
+0.26455
+0.22000
+1.20251
+Part Power Thrust
+54.2
+Total Time
+205.5
+Endurance Test Dashboard
+Accumulated damage 
+normalized by the 
+reference severity

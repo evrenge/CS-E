@@ -1,0 +1,65 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 197 of 262 
+ 
+The following terms are defined for the purpose of this AMC:  
+Critical point(s)  
+Operating conditions within the Engine flight envelope at 
+which an Engine's operability margin is reduced to a minimum 
+level. Operability margin includes compressor surge and stall 
+margin, fuel control rundown margin, combustor flameout 
+margin and instrumentation sensing errors.  
+Flameout  
+The total extinction of flame within the combustor, resulting in 
+a rundown and, ultimately, a shutdown of the Engine.  
+Hail  
+Water in a solid granular state, either in its naturally occurring 
+form or in a fabricated form, for the purpose of testing Engines.  
+Hail water content (HWC) 
+The concentration, in the air, of water in the form of hail, 
+expressed in grams of hail per cubic metre of air.  
+Rain  
+Water in liquid droplet state, either in its naturally occurring 
+form, or created artificially by discharging water from spray 
+nozzles, for the purpose of testing Engines.  
+Rain water content (RWC) 
+The concentration, in the air, of water in the form of rain, 
+expressed in grams of rain per cubic metre of air. 
+Rundown 
+The uncommanded reduction of Engine rotor speed that will 
+result from the fuel control steady state operating line 
+coinciding with the fuel control acceleration schedule. 
+Scoop factor 
+The ratio of nacelle inlet highlight area (Ah) to the area of the 
+captured air stream tube (Ac) (Scoop factor = Ah/Ac). 
+Stall 
+An airflow breakdown at one or more compressor aerofoil 
+stages. 
+Surge 
+The response of an entire Engine that is characterised by a 
+significant airflow stoppage or reversal in the compression 
+system.  
+Sustained power or thrust loss A permanent reduction in power or thrust at the Engine's 
+primary power/thrust set parameter (e.g., rotor speed, Engine 
+pressure ratio, torque, shaft power). 
+ 
+(2) 
+Power-Loss and Instability Phenomena 
+(a) 
+General 
+There have been multiple Engine power-loss and instability events, forced landings, and 
+accidents attributed to turbine Engine malfunction in extreme conditions of rain or hail. 
+Investigations have revealed that ambient concentrations of rain and hail can be 
+amplified significantly through the Engine core at certain combinations of flight speed 
+and Engine power/thrust condition. In some instances, the resulting increased amounts 
+of ingested rain and hail have been sufficient to produce Engine anomalies such as 
+surging, power loss and Engine flameout.  
+(b) 
+Meteorological Data 
+Appendix A to CS-E defines the atmospheric conditions of rain and hail for the purpose of 
+establishing certification test standards. Note that the water concentrations defined for 

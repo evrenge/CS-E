@@ -1,0 +1,41 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 220 of 262 
+ 
+(iii) 
+The complete loss of power or thrust is acceptable after the ingestion of the single 
+large bird. 
+(b) 
+Large flocking bird 
+The following advisory material applies to the test required by CS-E 800(c): 
+(i) 
+The minimum first stage rotor rotational speed (N1) at which the Engine should be 
+stabilised before ingestion should be determined from the Engine performance 
+data. The term 'Rated Take Off Thrust' means the maximum take-off thrust 
+produced at sea-level static conditions on an ISA standard day. 
+(ii) 
+The applicant should select a target on the first exposed rotating stage(s) of the 
+Engine (e.g. the fan) at a blade span height of 50%, or further outboard, as required 
+by CS-E 800(c)(1)(iv) (see the figure below). The specified target location is at the 
+discretion of the applicant. 
+ 
+The use of ‘stage(s)’ is intended to allow for alternative designs such as rear-
+mounted fans for which each exposed stage will be evaluated independently. 
+(iii) 
+When setting the thrust between the steps of the 20-minutes run-on period, 
+momentary thrust drops below the specified values may be acceptable as long as 
+the duration does not exceed 3 seconds. 
+(iv) 
+The Engine is required to continue to run for 20 minutes and produce no less than 
+50% of the Rated Take-off Thrust for the initial 14 minutes. During the first minute, 
+the thrust lever is not to be manipulated. During step 2, the thrust lever may be 
+manipulated at the discretion of the applicant to seek a power setting where the 
+engine can continue to operate, for example to minimise exceedances and/or 
+vibration, provided that at least 50% of the Rated Take-off Thrust is maintained. 
+However, a momentary thrust drop below this value may be acceptable as long as 
+the duration does not exceed 3 seconds. 

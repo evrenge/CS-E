@@ -1,0 +1,2965 @@
+[
+ {
+  "page": 1,
+  "subpart": "",
+  "chars": 373,
+  "words": 51,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 2,
+  "subpart": "",
+  "chars": 3720,
+  "words": 256,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 3,
+  "subpart": "",
+  "chars": 4163,
+  "words": 276,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 4,
+  "subpart": "",
+  "chars": 4190,
+  "words": 275,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 5,
+  "subpart": "",
+  "chars": 4130,
+  "words": 270,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 6,
+  "subpart": "",
+  "chars": 4233,
+  "words": 323,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 7,
+  "subpart": "",
+  "chars": 2244,
+  "words": 156,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 8,
+  "subpart": "",
+  "chars": 1341,
+  "words": 208,
+  "images": 1,
+  "tables": 2,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 9,
+  "subpart": "",
+  "chars": 1697,
+  "words": 275,
+  "images": 1,
+  "tables": 3,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 10,
+  "subpart": "",
+  "chars": 1665,
+  "words": 265,
+  "images": 1,
+  "tables": 3,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 11,
+  "subpart": "",
+  "chars": 1485,
+  "words": 242,
+  "images": 1,
+  "tables": 2,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 12,
+  "subpart": "",
+  "chars": 1387,
+  "words": 219,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 13,
+  "subpart": "",
+  "chars": 1481,
+  "words": 229,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 14,
+  "subpart": "",
+  "chars": 616,
+  "words": 97,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 15,
+  "subpart": "A",
+  "chars": 3133,
+  "words": 517,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC General",
+   "CS-E 10 Applicability",
+   "AMC E 10(b) Thrust Reversers"
+  ]
+ },
+ {
+  "page": 16,
+  "subpart": "A",
+  "chars": 2813,
+  "words": 453,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 15 Terminology"
+  ]
+ },
+ {
+  "page": 17,
+  "subpart": "A",
+  "chars": 2583,
+  "words": 381,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 18,
+  "subpart": "A",
+  "chars": 2967,
+  "words": 447,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 20 Engine Configuration and Interfaces"
+  ]
+ },
+ {
+  "page": 19,
+  "subpart": "A",
+  "chars": 3231,
+  "words": 476,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 20 Engine Configuration and Interfaces"
+  ]
+ },
+ {
+  "page": 20,
+  "subpart": "A",
+  "chars": 3850,
+  "words": 570,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 20(f) Power Assurance Data for Engines with One or More OEI Power Ratings"
+  ]
+ },
+ {
+  "page": 21,
+  "subpart": "A",
+  "chars": 3141,
+  "words": 445,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 25 Instructions for Continued Airworthiness"
+  ]
+ },
+ {
+  "page": 22,
+  "subpart": "A",
+  "chars": 3009,
+  "words": 424,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 25 Instructions for continued airworthiness"
+  ]
+ },
+ {
+  "page": 23,
+  "subpart": "A",
+  "chars": 3772,
+  "words": 582,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 24,
+  "subpart": "A",
+  "chars": 3408,
+  "words": 489,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 25,
+  "subpart": "A",
+  "chars": 3450,
+  "words": 507,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 26,
+  "subpart": "A",
+  "chars": 3260,
+  "words": 512,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 27,
+  "subpart": "A",
+  "chars": 2318,
+  "words": 335,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "TABLE 1"
+  ],
+  "headings": [
+   "CS-E 30 Assumptions",
+   "AMC E 30 Assumptions"
+  ]
+ },
+ {
+  "page": 28,
+  "subpart": "A",
+  "chars": 2591,
+  "words": 351,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 29,
+  "subpart": "A",
+  "chars": 1629,
+  "words": 238,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": [
+   "CS-E 40 Ratings"
+  ]
+ },
+ {
+  "page": 30,
+  "subpart": "A",
+  "chars": 3221,
+  "words": 517,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 40 Ratings",
+   "AMC E 40(b)(3) and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings"
+  ]
+ },
+ {
+  "page": 31,
+  "subpart": "A",
+  "chars": 3599,
+  "words": 553,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 40(d) Operating Limitations"
+  ]
+ },
+ {
+  "page": 32,
+  "subpart": "A",
+  "chars": 1953,
+  "words": 257,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 33,
+  "subpart": "A",
+  "chars": 2292,
+  "words": 330,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 50 Engine Control System"
+  ]
+ },
+ {
+  "page": 34,
+  "subpart": "A",
+  "chars": 3324,
+  "words": 512,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 35,
+  "subpart": "A",
+  "chars": 3059,
+  "words": 454,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 36,
+  "subpart": "A",
+  "chars": 3258,
+  "words": 481,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 50 Engine Control System"
+  ]
+ },
+ {
+  "page": 37,
+  "subpart": "A",
+  "chars": 3357,
+  "words": 509,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 50(e) Rotor integrity",
+   "AMC E 50(j) Controls - Engines having a 30-Second OEI Power Rating"
+  ]
+ },
+ {
+  "page": 38,
+  "subpart": "A",
+  "chars": 3325,
+  "words": 509,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC to CS-E 50(l) Information system security protection",
+   "CS-E 60 Provision for Instruments"
+  ]
+ },
+ {
+  "page": 39,
+  "subpart": "A",
+  "chars": 3160,
+  "words": 483,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 60 Provision for instruments"
+  ]
+ },
+ {
+  "page": 40,
+  "subpart": "A",
+  "chars": 3847,
+  "words": 589,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 60(d) Provision for instruments"
+  ]
+ },
+ {
+  "page": 41,
+  "subpart": "A",
+  "chars": 2841,
+  "words": 418,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 70 Materials and Manufacturing Methods",
+   "AMC E 70 Castings, Forgings, Welded Structures and Welded Components"
+  ]
+ },
+ {
+  "page": 42,
+  "subpart": "A",
+  "chars": 3409,
+  "words": 522,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 43,
+  "subpart": "A",
+  "chars": 2776,
+  "words": 421,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 80 Equipment"
+  ]
+ },
+ {
+  "page": 44,
+  "subpart": "A",
+  "chars": 3051,
+  "words": 457,
+  "images": 1,
+  "tables": 0,
+  "captions": [
+   "Table 1"
+  ],
+  "headings": [
+   "AMC E 80 Equipment"
+  ]
+ },
+ {
+  "page": 45,
+  "subpart": "A",
+  "chars": 2412,
+  "words": 338,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 46,
+  "subpart": "A",
+  "chars": 3334,
+  "words": 503,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 47,
+  "subpart": "A",
+  "chars": 2245,
+  "words": 321,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 2"
+  ],
+  "headings": []
+ },
+ {
+  "page": 48,
+  "subpart": "A",
+  "chars": 3204,
+  "words": 479,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 3"
+  ],
+  "headings": []
+ },
+ {
+  "page": 49,
+  "subpart": "A",
+  "chars": 2770,
+  "words": 435,
+  "images": 1,
+  "tables": 3,
+  "captions": [
+   "Table 4",
+   "Table 5"
+  ],
+  "headings": []
+ },
+ {
+  "page": 50,
+  "subpart": "A",
+  "chars": 2947,
+  "words": 454,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 6"
+  ],
+  "headings": [
+   "CS-E 90 Prevention of Corrosion and Deterioration",
+   "CS-E 100 Strength",
+   "CS-E 110 Drawings and Marking of Parts \u2013 Assembly of Parts"
+  ]
+ },
+ {
+  "page": 51,
+  "subpart": "A",
+  "chars": 3028,
+  "words": 481,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 120 Identification",
+   "CS-E 130 Fire Protection"
+  ]
+ },
+ {
+  "page": 52,
+  "subpart": "A",
+  "chars": 2917,
+  "words": 474,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 53,
+  "subpart": "A",
+  "chars": 2838,
+  "words": 442,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 130 Fire Protection"
+  ]
+ },
+ {
+  "page": 54,
+  "subpart": "A",
+  "chars": 2860,
+  "words": 459,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 55,
+  "subpart": "A",
+  "chars": 3211,
+  "words": 511,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 56,
+  "subpart": "A",
+  "chars": 2776,
+  "words": 434,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 57,
+  "subpart": "A",
+  "chars": 3632,
+  "words": 543,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 58,
+  "subpart": "A",
+  "chars": 3804,
+  "words": 610,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 59,
+  "subpart": "A",
+  "chars": 2803,
+  "words": 425,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 135 Electrical Bonding",
+   "AMC E 135 Electrical Bonding"
+  ]
+ },
+ {
+  "page": 60,
+  "subpart": "A",
+  "chars": 3256,
+  "words": 526,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 140 Tests - Engine Configuration",
+   "AMC E 140 Test - Engine configuration"
+  ]
+ },
+ {
+  "page": 61,
+  "subpart": "A",
+  "chars": 2552,
+  "words": 412,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 150 Tests - General Conduct of Tests",
+   "AMC E 150(a) Tests - General conduct of tests",
+   "CS-E 160 Tests - History",
+   "CS-E 170 Engine Systems and Component Verification"
+  ]
+ },
+ {
+  "page": 62,
+  "subpart": "A",
+  "chars": 3796,
+  "words": 577,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 170 Engine systems and component verification"
+  ]
+ },
+ {
+  "page": 63,
+  "subpart": "A",
+  "chars": 2775,
+  "words": 430,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 180 Propeller Functioning Tests"
+  ]
+ },
+ {
+  "page": 64,
+  "subpart": "A",
+  "chars": 2219,
+  "words": 343,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 180 Propeller Functioning Tests",
+   "CS-E 190 Engines for Aerobatic Use"
+  ]
+ },
+ {
+  "page": 65,
+  "subpart": "B",
+  "chars": 2449,
+  "words": 377,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 210 Failure Analysis",
+   "AMC E 210 Failure Analysis"
+  ]
+ },
+ {
+  "page": 66,
+  "subpart": "B",
+  "chars": 2575,
+  "words": 385,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 230 De-Icing and Anti-Icing Precautions",
+   "CS-E 240 Ignition",
+   "AMC E 240 Ignition"
+  ]
+ },
+ {
+  "page": 67,
+  "subpart": "B",
+  "chars": 3357,
+  "words": 513,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 250 Fuel System",
+   "CS-E 260 Engine Cooling System",
+   "CS-E 270 Lubrication System"
+  ]
+ },
+ {
+  "page": 68,
+  "subpart": "B",
+  "chars": 1068,
+  "words": 171,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 290 Hand Turning"
+  ]
+ },
+ {
+  "page": 69,
+  "subpart": "C",
+  "chars": 2605,
+  "words": 429,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "TABLE 1"
+  ],
+  "headings": [
+   "CS-E 300 Conditions Applicable to All Tests"
+  ]
+ },
+ {
+  "page": 70,
+  "subpart": "C",
+  "chars": 2157,
+  "words": 327,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 300(f) Conditions Applicable to all Tests - Torque Measurement",
+   "CS-E 320 Performance Correction",
+   "AMC E 320 Performance Correction"
+  ]
+ },
+ {
+  "page": 71,
+  "subpart": "C",
+  "chars": 3764,
+  "words": 618,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 330 Tests - General",
+   "CS-E 340 Vibration Tests"
+  ]
+ },
+ {
+  "page": 72,
+  "subpart": "C",
+  "chars": 2697,
+  "words": 416,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 340 Vibration Tests",
+   "CS-E 350 Calibration Tests",
+   "AMC E 350 Calibration Tests"
+  ]
+ },
+ {
+  "page": 73,
+  "subpart": "C",
+  "chars": 2871,
+  "words": 454,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 360 Detonation Tests",
+   "CS-E 370 Starting Tests",
+   "CS-E 380 Low Temperature Starting Tests"
+  ]
+ },
+ {
+  "page": 74,
+  "subpart": "C",
+  "chars": 3122,
+  "words": 493,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 380 Low Temperature Starting Tests",
+   "CS-E 390 Acceleration Tests"
+  ]
+ },
+ {
+  "page": 75,
+  "subpart": "C",
+  "chars": 2748,
+  "words": 452,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 400 Over-speed Tests",
+   "CS-E 430 Water Spray Tests"
+  ]
+ },
+ {
+  "page": 76,
+  "subpart": "C",
+  "chars": 3375,
+  "words": 542,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 440 Endurance Test"
+  ]
+ },
+ {
+  "page": 77,
+  "subpart": "C",
+  "chars": 2895,
+  "words": 460,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 78,
+  "subpart": "C",
+  "chars": 3297,
+  "words": 540,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 79,
+  "subpart": "C",
+  "chars": 2578,
+  "words": 406,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 440(b)(3) Endurance Test - Schedule for Engine Incorporating a Turbocharger",
+   "CS-E 450 Ignition Tests",
+   "CS-E 460 Backfire Tests",
+   "CS-E 470 Contaminated Fuel"
+  ]
+ },
+ {
+  "page": 80,
+  "subpart": "C",
+  "chars": 799,
+  "words": 122,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 470 Contaminated Fuel"
+  ]
+ },
+ {
+  "page": 81,
+  "subpart": "D",
+  "chars": 2142,
+  "words": 338,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 500 Functioning",
+   "AMC E 500 Functioning - Control of Engines (Turbine Engines for Aeroplanes)",
+   "CS-E 510 Safety Analysis"
+  ]
+ },
+ {
+  "page": 82,
+  "subpart": "D",
+  "chars": 3813,
+  "words": 598,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 83,
+  "subpart": "D",
+  "chars": 2354,
+  "words": 343,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 510 Safety analysis"
+  ]
+ },
+ {
+  "page": 84,
+  "subpart": "D",
+  "chars": 3286,
+  "words": 481,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 85,
+  "subpart": "D",
+  "chars": 3291,
+  "words": 492,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 86,
+  "subpart": "D",
+  "chars": 3176,
+  "words": 474,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 87,
+  "subpart": "D",
+  "chars": 3145,
+  "words": 461,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 88,
+  "subpart": "D",
+  "chars": 3075,
+  "words": 471,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 89,
+  "subpart": "D",
+  "chars": 3605,
+  "words": 519,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 90,
+  "subpart": "D",
+  "chars": 3349,
+  "words": 484,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 91,
+  "subpart": "D",
+  "chars": 2610,
+  "words": 388,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 515 Engine Critical Parts",
+   "AMC E 515 Engine Critical Parts"
+  ]
+ },
+ {
+  "page": 92,
+  "subpart": "D",
+  "chars": 3357,
+  "words": 493,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 93,
+  "subpart": "D",
+  "chars": 1576,
+  "words": 235,
+  "images": 2,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 94,
+  "subpart": "D",
+  "chars": 3231,
+  "words": 458,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 95,
+  "subpart": "D",
+  "chars": 3536,
+  "words": 523,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 96,
+  "subpart": "D",
+  "chars": 2899,
+  "words": 392,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 97,
+  "subpart": "D",
+  "chars": 3113,
+  "words": 441,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 98,
+  "subpart": "D",
+  "chars": 2483,
+  "words": 357,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 99,
+  "subpart": "D",
+  "chars": 3088,
+  "words": 461,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 100,
+  "subpart": "D",
+  "chars": 2690,
+  "words": 398,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 101,
+  "subpart": "D",
+  "chars": 3496,
+  "words": 524,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 102,
+  "subpart": "D",
+  "chars": 3238,
+  "words": 504,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 103,
+  "subpart": "D",
+  "chars": 2874,
+  "words": 417,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 104,
+  "subpart": "D",
+  "chars": 3031,
+  "words": 452,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 105,
+  "subpart": "D",
+  "chars": 3261,
+  "words": 480,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 106,
+  "subpart": "D",
+  "chars": 2799,
+  "words": 449,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 520 Strength",
+   "AMC E 520(a) Strength - High Cycle Fatigue"
+  ]
+ },
+ {
+  "page": 107,
+  "subpart": "D",
+  "chars": 3175,
+  "words": 495,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 520(c)(1) Strength - Shedding of Blades",
+   "AMC E 520(c)(2) Engine Model Validation"
+  ]
+ },
+ {
+  "page": 108,
+  "subpart": "D",
+  "chars": 2683,
+  "words": 418,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 520(d) Strength \u2013 Local Failures",
+   "CS-E 525 Continued Rotation"
+  ]
+ },
+ {
+  "page": 109,
+  "subpart": "D",
+  "chars": 2939,
+  "words": 459,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 525 Continued rotation",
+   "CS-E 540 Strike and Ingestion of Foreign Matter",
+   "AMC E 540 Strike and ingestion of foreign matter"
+  ]
+ },
+ {
+  "page": 110,
+  "subpart": "D",
+  "chars": 3428,
+  "words": 539,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 560 Fuel System"
+  ]
+ },
+ {
+  "page": 111,
+  "subpart": "D",
+  "chars": 3408,
+  "words": 559,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 560 Fuel System"
+  ]
+ },
+ {
+  "page": 112,
+  "subpart": "D",
+  "chars": 3128,
+  "words": 485,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 570 Oil System"
+  ]
+ },
+ {
+  "page": 113,
+  "subpart": "D",
+  "chars": 3519,
+  "words": 579,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 114,
+  "subpart": "D",
+  "chars": 3043,
+  "words": 486,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 570 Oil system",
+   "CS-E 580 Air Systems",
+   "CS-E 590 Starter Systems"
+  ]
+ },
+ {
+  "page": 115,
+  "subpart": "E",
+  "chars": 2134,
+  "words": 337,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 600 Tests - General",
+   "AMC E 600(e) Test - General",
+   "CS-E 620 Performance Correction"
+  ]
+ },
+ {
+  "page": 116,
+  "subpart": "E",
+  "chars": 1098,
+  "words": 192,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 620 Performance: Formulae"
+  ]
+ },
+ {
+  "page": 117,
+  "subpart": "E",
+  "chars": 1599,
+  "words": 258,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 640 Pressure Loads"
+  ]
+ },
+ {
+  "page": 118,
+  "subpart": "E",
+  "chars": 2559,
+  "words": 378,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 640 Pressure Loads"
+  ]
+ },
+ {
+  "page": 119,
+  "subpart": "E",
+  "chars": 3144,
+  "words": 497,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 650 Vibration Surveys"
+  ]
+ },
+ {
+  "page": 120,
+  "subpart": "E",
+  "chars": 3789,
+  "words": 559,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": [
+   "AMC E 650 Vibration Surveys"
+  ]
+ },
+ {
+  "page": 121,
+  "subpart": "E",
+  "chars": 3227,
+  "words": 505,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 122,
+  "subpart": "E",
+  "chars": 3643,
+  "words": 542,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 123,
+  "subpart": "E",
+  "chars": 3934,
+  "words": 564,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 124,
+  "subpart": "E",
+  "chars": 3976,
+  "words": 600,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 125,
+  "subpart": "E",
+  "chars": 3603,
+  "words": 548,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 126,
+  "subpart": "E",
+  "chars": 3399,
+  "words": 491,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 127,
+  "subpart": "E",
+  "chars": 3039,
+  "words": 451,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 128,
+  "subpart": "E",
+  "chars": 2614,
+  "words": 381,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 129,
+  "subpart": "E",
+  "chars": 2538,
+  "words": 370,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 130,
+  "subpart": "E",
+  "chars": 2684,
+  "words": 395,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 660 Fuel Pressure and Temperature"
+  ]
+ },
+ {
+  "page": 131,
+  "subpart": "E",
+  "chars": 2484,
+  "words": 393,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": [
+   "AMC E 660 Fuel Pump Tests (Turbine Engines for Aeroplanes)",
+   "CS-E 670 Contaminated Fuel",
+   "AMC E 670 Contaminated Fuel Testing"
+  ]
+ },
+ {
+  "page": 132,
+  "subpart": "E",
+  "chars": 2838,
+  "words": 478,
+  "images": 1,
+  "tables": 2,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 133,
+  "subpart": "E",
+  "chars": 2167,
+  "words": 343,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 680 Inclination and Gyroscopic Load Effects",
+   "AMC E 680 Inclination and Gyroscopic Load Effects",
+   "CS-E 690 Engine Bleed"
+  ]
+ },
+ {
+  "page": 134,
+  "subpart": "E",
+  "chars": 2830,
+  "words": 466,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 690 Engine bleed",
+   "CS-E 700 Excess Operating Conditions"
+  ]
+ },
+ {
+  "page": 135,
+  "subpart": "E",
+  "chars": 3524,
+  "words": 563,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 700 Excess Operating Conditions (Turbine Engines for Aeroplanes)"
+  ]
+ },
+ {
+  "page": 136,
+  "subpart": "E",
+  "chars": 3297,
+  "words": 534,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 710 Rotor Locking Tests",
+   "AMC E 710 Rotor locking tests",
+   "CS-E 720 Continuous Ignition"
+  ]
+ },
+ {
+  "page": 137,
+  "subpart": "E",
+  "chars": 2851,
+  "words": 454,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 720(a) Continuous Ignition",
+   "CS-E 730 Engine Calibration Test",
+   "AMC E 730 Calibration Tests"
+  ]
+ },
+ {
+  "page": 138,
+  "subpart": "E",
+  "chars": 3045,
+  "words": 499,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 740 Endurance Tests"
+  ]
+ },
+ {
+  "page": 139,
+  "subpart": "E",
+  "chars": 2728,
+  "words": 463,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 140,
+  "subpart": "E",
+  "chars": 2842,
+  "words": 475,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 141,
+  "subpart": "E",
+  "chars": 2690,
+  "words": 439,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 142,
+  "subpart": "E",
+  "chars": 2749,
+  "words": 391,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 143,
+  "subpart": "E",
+  "chars": 3207,
+  "words": 473,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 144,
+  "subpart": "E",
+  "chars": 3204,
+  "words": 489,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 145,
+  "subpart": "E",
+  "chars": 3041,
+  "words": 468,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 146,
+  "subpart": "E",
+  "chars": 3461,
+  "words": 534,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 147,
+  "subpart": "E",
+  "chars": 3412,
+  "words": 537,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 148,
+  "subpart": "E",
+  "chars": 3306,
+  "words": 519,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 149,
+  "subpart": "E",
+  "chars": 3174,
+  "words": 513,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 150,
+  "subpart": "E",
+  "chars": 3089,
+  "words": 491,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 740(c)(2)(i) Endurance Tests \u2013 30-Minute Power Rating",
+   "AMC E 740(c)(3) Endurance Tests"
+  ]
+ },
+ {
+  "page": 151,
+  "subpart": "E",
+  "chars": 3440,
+  "words": 516,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 740(c)(4) Alternate Endurance Testing \u2013 Turbofan Engine"
+  ]
+ },
+ {
+  "page": 152,
+  "subpart": "E",
+  "chars": 3139,
+  "words": 465,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 153,
+  "subpart": "E",
+  "chars": 3005,
+  "words": 441,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 154,
+  "subpart": "E",
+  "chars": 3677,
+  "words": 559,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 155,
+  "subpart": "E",
+  "chars": 1867,
+  "words": 288,
+  "images": 2,
+  "tables": 1,
+  "captions": [
+   "Figure 7."
+  ],
+  "headings": []
+ },
+ {
+  "page": 156,
+  "subpart": "E",
+  "chars": 1122,
+  "words": 171,
+  "images": 3,
+  "tables": 0,
+  "captions": [
+   "Figure 7."
+  ],
+  "headings": []
+ },
+ {
+  "page": 157,
+  "subpart": "E",
+  "chars": 1510,
+  "words": 227,
+  "images": 2,
+  "tables": 1,
+  "captions": [
+   "Figure 7."
+  ],
+  "headings": []
+ },
+ {
+  "page": 158,
+  "subpart": "E",
+  "chars": 2899,
+  "words": 454,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Figure 7."
+  ],
+  "headings": []
+ },
+ {
+  "page": 159,
+  "subpart": "E",
+  "chars": 731,
+  "words": 103,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 160,
+  "subpart": "E",
+  "chars": 1557,
+  "words": 229,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 161,
+  "subpart": "E",
+  "chars": 2194,
+  "words": 360,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 162,
+  "subpart": "E",
+  "chars": 599,
+  "words": 95,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 163,
+  "subpart": "E",
+  "chars": 245,
+  "words": 36,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 164,
+  "subpart": "E",
+  "chars": 135,
+  "words": 20,
+  "images": 2,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 165,
+  "subpart": "E",
+  "chars": 208,
+  "words": 30,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 166,
+  "subpart": "E",
+  "chars": 242,
+  "words": 34,
+  "images": 3,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 167,
+  "subpart": "E",
+  "chars": 189,
+  "words": 28,
+  "images": 3,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 168,
+  "subpart": "E",
+  "chars": 1790,
+  "words": 290,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 169,
+  "subpart": "E",
+  "chars": 269,
+  "words": 40,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 170,
+  "subpart": "E",
+  "chars": 237,
+  "words": 34,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 171,
+  "subpart": "E",
+  "chars": 236,
+  "words": 34,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": []
+ },
+ {
+  "page": 172,
+  "subpart": "E",
+  "chars": 1428,
+  "words": 220,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 8."
+  ],
+  "headings": [
+   "AMC E 740(f)(1) Multi-spool Engines"
+  ]
+ },
+ {
+  "page": 173,
+  "subpart": "E",
+  "chars": 3302,
+  "words": 493,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 740(g)(1) Endurance Tests - Incremental Periods",
+   "AMC E 740(i)(2) Endurance tests - Inspection checks"
+  ]
+ },
+ {
+  "page": 174,
+  "subpart": "E",
+  "chars": 3262,
+  "words": 509,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 745 Engine Acceleration"
+  ]
+ },
+ {
+  "page": 175,
+  "subpart": "E",
+  "chars": 3428,
+  "words": 537,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 745 Engine Acceleration",
+   "CS-E 750 Starting Tests"
+  ]
+ },
+ {
+  "page": 176,
+  "subpart": "E",
+  "chars": 2643,
+  "words": 417,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 750(b) Starting tests",
+   "CS-E 770 Low Temperature Starting Tests",
+   "AMC E 770 Low Temperature Starting Tests",
+   "CS-E 780 Icing Conditions"
+  ]
+ },
+ {
+  "page": 177,
+  "subpart": "E",
+  "chars": 3486,
+  "words": 532,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 178,
+  "subpart": "E",
+  "chars": 3129,
+  "words": 479,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 780 Icing Conditions"
+  ]
+ },
+ {
+  "page": 179,
+  "subpart": "E",
+  "chars": 3603,
+  "words": 553,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 180,
+  "subpart": "E",
+  "chars": 3319,
+  "words": 480,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 181,
+  "subpart": "E",
+  "chars": 3352,
+  "words": 507,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 182,
+  "subpart": "E",
+  "chars": 3251,
+  "words": 475,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 183,
+  "subpart": "E",
+  "chars": 2858,
+  "words": 434,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 184,
+  "subpart": "E",
+  "chars": 3061,
+  "words": 492,
+  "images": 1,
+  "tables": 0,
+  "captions": [
+   "Table 1"
+  ],
+  "headings": []
+ },
+ {
+  "page": 185,
+  "subpart": "E",
+  "chars": 3027,
+  "words": 462,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 1"
+  ],
+  "headings": []
+ },
+ {
+  "page": 186,
+  "subpart": "E",
+  "chars": 2757,
+  "words": 423,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 187,
+  "subpart": "E",
+  "chars": 2772,
+  "words": 435,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 2"
+  ],
+  "headings": []
+ },
+ {
+  "page": 188,
+  "subpart": "E",
+  "chars": 2883,
+  "words": 417,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 189,
+  "subpart": "E",
+  "chars": 3292,
+  "words": 481,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 3"
+  ],
+  "headings": []
+ },
+ {
+  "page": 190,
+  "subpart": "E",
+  "chars": 2764,
+  "words": 393,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 191,
+  "subpart": "E",
+  "chars": 3162,
+  "words": 499,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 192,
+  "subpart": "E",
+  "chars": 3561,
+  "words": 531,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 193,
+  "subpart": "E",
+  "chars": 3273,
+  "words": 495,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 194,
+  "subpart": "E",
+  "chars": 3121,
+  "words": 477,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 790 Ingestion of Rain and Hail"
+  ]
+ },
+ {
+  "page": 195,
+  "subpart": "E",
+  "chars": 3550,
+  "words": 544,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 196,
+  "subpart": "E",
+  "chars": 3073,
+  "words": 488,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 790 Rain and Hail Ingestion",
+   "AMC E 790(a)(1) Rain and Hail Ingestion Certification for Design Changes and Derivative Engines \u2013 Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
+   "AMC E 790(a)(2) Rain and Hail Ingestion \u2013 Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail"
+  ]
+ },
+ {
+  "page": 197,
+  "subpart": "E",
+  "chars": 2791,
+  "words": 421,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 198,
+  "subpart": "E",
+  "chars": 1922,
+  "words": 307,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 199,
+  "subpart": "E",
+  "chars": 1114,
+  "words": 183,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 1"
+  ],
+  "headings": []
+ },
+ {
+  "page": 200,
+  "subpart": "E",
+  "chars": 1712,
+  "words": 266,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 2"
+  ],
+  "headings": []
+ },
+ {
+  "page": 201,
+  "subpart": "E",
+  "chars": 1843,
+  "words": 265,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 3"
+  ],
+  "headings": []
+ },
+ {
+  "page": 202,
+  "subpart": "E",
+  "chars": 3233,
+  "words": 501,
+  "images": 1,
+  "tables": 0,
+  "captions": [
+   "Figure 3"
+  ],
+  "headings": []
+ },
+ {
+  "page": 203,
+  "subpart": "E",
+  "chars": 2985,
+  "words": 461,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 204,
+  "subpart": "E",
+  "chars": 3107,
+  "words": 458,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 205,
+  "subpart": "E",
+  "chars": 2926,
+  "words": 416,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 206,
+  "subpart": "E",
+  "chars": 2656,
+  "words": 403,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 207,
+  "subpart": "E",
+  "chars": 2644,
+  "words": 396,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 208,
+  "subpart": "E",
+  "chars": 3171,
+  "words": 465,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 209,
+  "subpart": "E",
+  "chars": 2554,
+  "words": 402,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 210,
+  "subpart": "E",
+  "chars": 1749,
+  "words": 272,
+  "images": 2,
+  "tables": 2,
+  "captions": [],
+  "headings": [
+   "Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail"
+  ]
+ },
+ {
+  "page": 211,
+  "subpart": "E",
+  "chars": 1258,
+  "words": 226,
+  "images": 1,
+  "tables": 3,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 212,
+  "subpart": "E",
+  "chars": 2686,
+  "words": 450,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": [
+   "CS-E 800 Bird Strike and Ingestion"
+  ]
+ },
+ {
+  "page": 213,
+  "subpart": "E",
+  "chars": 1433,
+  "words": 264,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 214,
+  "subpart": "E",
+  "chars": 1650,
+  "words": 267,
+  "images": 2,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 215,
+  "subpart": "E",
+  "chars": 2373,
+  "words": 409,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 216,
+  "subpart": "E",
+  "chars": 2889,
+  "words": 545,
+  "images": 1,
+  "tables": 1,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 217,
+  "subpart": "E",
+  "chars": 3045,
+  "words": 502,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 218,
+  "subpart": "E",
+  "chars": 3271,
+  "words": 524,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 219,
+  "subpart": "E",
+  "chars": 2669,
+  "words": 426,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 800 Bird Strike and Ingestion"
+  ]
+ },
+ {
+  "page": 220,
+  "subpart": "E",
+  "chars": 1922,
+  "words": 315,
+  "images": 2,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 221,
+  "subpart": "E",
+  "chars": 3434,
+  "words": 530,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 222,
+  "subpart": "E",
+  "chars": 3293,
+  "words": 531,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 223,
+  "subpart": "E",
+  "chars": 2235,
+  "words": 354,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 224,
+  "subpart": "E",
+  "chars": 4040,
+  "words": 655,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 225,
+  "subpart": "E",
+  "chars": 3524,
+  "words": 570,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 226,
+  "subpart": "E",
+  "chars": 2536,
+  "words": 418,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 810 Compressor and Turbine Blade Failure",
+   "AMC E 810 Compressor and Turbine Blade Failure"
+  ]
+ },
+ {
+  "page": 227,
+  "subpart": "E",
+  "chars": 3375,
+  "words": 521,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 228,
+  "subpart": "E",
+  "chars": 3232,
+  "words": 495,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 229,
+  "subpart": "E",
+  "chars": 3150,
+  "words": 519,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 820 Over-torque Test"
+  ]
+ },
+ {
+  "page": 230,
+  "subpart": "E",
+  "chars": 2768,
+  "words": 447,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 820(a)(2) Over-torque Test",
+   "CS-E 830 Maximum Engine Over-speed",
+   "AMC E 830(c) Maximum Engine Over-speed"
+  ]
+ },
+ {
+  "page": 231,
+  "subpart": "E",
+  "chars": 3361,
+  "words": 533,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 840 Rotor Integrity"
+  ]
+ },
+ {
+  "page": 232,
+  "subpart": "E",
+  "chars": 2968,
+  "words": 457,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 840 Rotor Integrity"
+  ]
+ },
+ {
+  "page": 233,
+  "subpart": "E",
+  "chars": 3595,
+  "words": 541,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 234,
+  "subpart": "E",
+  "chars": 3287,
+  "words": 525,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 235,
+  "subpart": "E",
+  "chars": 2678,
+  "words": 406,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 850 Compressor, Fan and Turbine Shafts"
+  ]
+ },
+ {
+  "page": 236,
+  "subpart": "E",
+  "chars": 2641,
+  "words": 412,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 850 Compressor, Fan and Turbine Shafts"
+  ]
+ },
+ {
+  "page": 237,
+  "subpart": "E",
+  "chars": 3501,
+  "words": 544,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 238,
+  "subpart": "E",
+  "chars": 3012,
+  "words": 475,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 239,
+  "subpart": "E",
+  "chars": 2806,
+  "words": 433,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 860 Turbine Rotor Over-temperature",
+   "CS-E 870 Exhaust Gas Over-temperature Test"
+  ]
+ },
+ {
+  "page": 240,
+  "subpart": "E",
+  "chars": 2890,
+  "words": 444,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 870(a)(3) Exhaust Gas Over-temperature Test",
+   "CS-E 880 Tests with Refrigerant Injection for Take-Off and/or 2\u00bd- Minute OEI Power"
+  ]
+ },
+ {
+  "page": 241,
+  "subpart": "E",
+  "chars": 3277,
+  "words": 520,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 890 Thrust Reverser Tests"
+  ]
+ },
+ {
+  "page": 242,
+  "subpart": "E",
+  "chars": 3257,
+  "words": 511,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 890 Thrust Reverser Tests"
+  ]
+ },
+ {
+  "page": 243,
+  "subpart": "E",
+  "chars": 3273,
+  "words": 512,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 900 Propeller Parking Brake",
+   "CS-E 910 Relighting In Flight"
+  ]
+ },
+ {
+  "page": 244,
+  "subpart": "E",
+  "chars": 2949,
+  "words": 450,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 910 Relighting In Flight",
+   "CS-E 920 Over-temperature Test"
+  ]
+ },
+ {
+  "page": 245,
+  "subpart": "E",
+  "chars": 2852,
+  "words": 434,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 920 Over-temperature test",
+   "CS-E 930 Initial Maintenance Programme Test",
+   "AMC E 930 Initial Maintenance Programme Test"
+  ]
+ },
+ {
+  "page": 246,
+  "subpart": "E",
+  "chars": 3164,
+  "words": 464,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 247,
+  "subpart": "E",
+  "chars": 2652,
+  "words": 414,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 248,
+  "subpart": "E",
+  "chars": 2618,
+  "words": 374,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 249,
+  "subpart": "E",
+  "chars": 2632,
+  "words": 396,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 250,
+  "subpart": "E",
+  "chars": 2630,
+  "words": 427,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 251,
+  "subpart": "E",
+  "chars": 1768,
+  "words": 259,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 252,
+  "subpart": "F",
+  "chars": 1894,
+  "words": 294,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 1000 General",
+   "AMC E 1000 Environmental and Operational Design Specifications - General",
+   "CS-E 1010 Fuel Venting",
+   "CS-E 1020 Engine Emissions",
+   "AMC E 1020 Engine emissions"
+  ]
+ },
+ {
+  "page": 253,
+  "subpart": "F",
+  "chars": 2609,
+  "words": 406,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "CS-E 1030 Time Limited Dispatch",
+   "AMC E 1030 Time limited dispatch"
+  ]
+ },
+ {
+  "page": 254,
+  "subpart": "F",
+  "chars": 3502,
+  "words": 526,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 255,
+  "subpart": "F",
+  "chars": 3835,
+  "words": 576,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 256,
+  "subpart": "F",
+  "chars": 3670,
+  "words": 548,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 257,
+  "subpart": "F",
+  "chars": 3473,
+  "words": 533,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": []
+ },
+ {
+  "page": 258,
+  "subpart": "F",
+  "chars": 3392,
+  "words": 549,
+  "images": 1,
+  "tables": 1,
+  "captions": [
+   "Table 1."
+  ],
+  "headings": []
+ },
+ {
+  "page": 259,
+  "subpart": "F",
+  "chars": 1982,
+  "words": 284,
+  "images": 1,
+  "tables": 2,
+  "captions": [
+   "Table 2.",
+   "Table 3."
+  ],
+  "headings": []
+ },
+ {
+  "page": 260,
+  "subpart": "F",
+  "chars": 1158,
+  "words": 200,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 1."
+  ],
+  "headings": []
+ },
+ {
+  "page": 261,
+  "subpart": "F",
+  "chars": 1383,
+  "words": 216,
+  "images": 2,
+  "tables": 0,
+  "captions": [
+   "Figure 2:"
+  ],
+  "headings": [
+   "CS-E 1040 ETOPS",
+   "CS-E 1050 Exposure to volcanic cloud hazards"
+  ]
+ },
+ {
+  "page": 262,
+  "subpart": "F",
+  "chars": 2403,
+  "words": 346,
+  "images": 1,
+  "tables": 0,
+  "captions": [],
+  "headings": [
+   "AMC E 1050 Exposure to volcanic cloud hazards"
+  ]
+ }
+]

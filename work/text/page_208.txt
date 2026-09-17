@@ -1,0 +1,62 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 208 of 262 
+ 
+(F) 
+When testing low-power critical points (i.e. the minimum flameout and/or 
+rundown margin), conduct tests with ingestion during the following 
+transient operating conditions: 
+(α) 
+accelerate the Engine with a 1-Second throttle movement to the rated 
+Take-off Power or Thrust from the minimum rotor speed defined by 
+the critical point analysis; and 
+(β) 
+stabilise the Engine at 50% of the rated Take-off Power or Thrust with 
+ingestion, then, with a 1-Second throttle movement, decelerate to the 
+minimum rotor speed defined by the critical point analysis; or 
+(γ) 
+if test conditions or test facility limitations prevent transient testing as 
+defined in (α) and (β) above, the applicant may propose alternative 
+test criteria, provided that such alternative test criteria (and any 
+complementary substantiation) validates that the Engine has 
+sufficient operability margins to account for likely flight operations 
+such as missed approaches (i.e., go-around) and likely throttle 
+movements during descent. 
+(G) 
+Conduct the thermal shock critical point test by delivering rain for 3 minutes 
+at the critical Power/Thrust condition following a normal stabilisation period 
+without water ingestion. The maximum rain ingestion rate should occur 
+within 10 seconds. 
+(v) 
+Probable factors 
+It should be demonstrated by test or analysis, that the Engine tested in accordance 
+with paragraph (5)(c)(iv) of this AMC would have operated acceptably if it was 
+exposed to other probable factors associated with a rain or hail encounter. These 
+other probable factors would include, but are not limited to, typical Engine 
+performance losses, installation effects, and typical autothrottle power excursions.  
+(vi)  
+Acceptance criteria  
+Acceptable Engine operation precludes flameout, rundown, continued or non- 
+recoverable surge or stall, or a loss of acceleration and deceleration capability. A 
+momentary flameout, surge or stall that arrests itself without operational 
+intervention (e.g. without throttle manipulation) is acceptable. If, after test, it is 
+found that damage has occurred, further running or other evidence may be 
+required to show that subsequent Failures resulting from the damage are unlikely 
+to occur before the damage is rectified. Engine performance should be measured 
+before and after the rain and hail ingestion tests to assess steady-state 
+performance changes. Data should be normalised according to the applicant's 
+standard practices and the evaluation of sustained loss or degradation of power or 
+thrust should encompass the full range of Engine power or thrust.  
+If compliance with these criteria is dependent upon the functioning of an 
+automatic protection system, such as continuous ignition, auto-relight, surge 
+recovery system, then the availability of this system is considered to be critical for 
+dispatch.  
+(A) 
+Sustained power or thrust loss 
+The sustained power or thrust loss as a result of a shift or error in measured 
+thrust or power against the primary thrust or power set parameter(s) 

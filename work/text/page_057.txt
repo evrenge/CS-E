@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 57 of 262 
+ 
+throughout the test either the flow parameters should be shown to be constant 
+throughout the test or a post-test calibration should be performed to show equivalency 
+with pre-test values.  
+(b) 
+Flame impingement location 
+The test flame generally should be applied to the test article feature(s) that is determined 
+by analysis or test to be the most critical with respect to surviving the effects of the fire.  
+For this approach, determination of the flame impingement location(s) should consider, 
+as a minimum, the following potential factors: materials; geometry; part features; local 
+torching effects; vibration; internal fluid level, pressure and flow rate; surface coatings; 
+fire protection features; etc.  
+Alternatively, the applicant may consider all potential sources of fire in the intended 
+installation when determining test flame impingement location specifications.  
+The intent is to identify locations or features which cannot be directly impinged by fire, 
+and evaluating critical features which can be directly impinged. If the applicant chooses 
+this installation analysis approach, it should be based on the actual intended installation, 
+and should consider, as a minimum, the factors noted above, plus the following potential 
+installation specific factors: cowling and nacelle structure; under cowl airflow; aircraft 
+Engine build up hardware; etc. 
+Such installation analyses should avoid simple generalities, such as “the most likely flame 
+direction is vertical assuming fuel collects at the bottom of the cowl,” and should be co-
+ordinated with the installer. If this approach is utilised, each new installation will need to 
+be re-evaluated against the original fire protection substantiation to confirm its 
+applicability to the new installation. Lastly, due consideration should be given to fire 
+protection features such as fire shields, fire protective coatings or other methods so as 
+not to discourage or invalidate their use with respect to compliance with CS-E 130. 
+(c) 
+Operating parameters for test articles 
+The operating characteristics and parameters of the test article should be consistent, but 
+conservative, with respect to the conditions which might occur during an actual fire 
+situation. For example, where a high internal fluid flow increases the heat sink effect, and 
+is less conservative with respect to fire susceptibility, a minimum flow condition should 
+be specified for the test. The same is true for examples relating to internal fluid 
+temperatures or quantity or other parameters.  
+(d) 
+Electrical Systems components 
+For compliance with CS-E 130(e), the effects of fire on components of the electrical 
+system should be evaluated. Electrical cables, connectors, terminals and equipment, 
+installed in or on the Engine, in designated fire zones should be at least fire resistant.  
+(5) 
+Flammable fluid tank fire test 
+In the absence of an acceptable installation assessment, the fire test flame should be applied to 
+the tank location(s) or feature(s) that has been determined by analysis or test to be the most 
+critical with respect to fire susceptibility (i.e. the location or feature least likely to survive the 
+test conditions or meet the test pass / fail criteria).  
+In selecting the flame application location, the tank installation and all features of the tank 
+assembly should be considered. Typical tank features include, but are not limited to tank body, 
+inlet and outlet assemblies, sight glass, drain plug, magnetic chip detector, quantity sender 

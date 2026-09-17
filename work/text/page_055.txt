@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 55 of 262 
+ 
+Consideration should be given to non-self-extinguishing fire test events. This type 
+of event could be either combustion of the constituent material of the test article 
+or combustion of flammable fluid leaking from the component. In general, these 
+events should continue to be cause for Failure of the test, unless it can be shown 
+that the constituent material supporting combustion is not a hazardous quantity 
+of flammable fluid, vapour, or material as defined in this AMC. 
+This has been the case for certain electronic components. Current technology 
+electronic components often use circuit board potting compounds internal to the 
+casings of the Engine Control System that may support combustion when heated 
+sufficiently or when exposed to fire. These compounds can also flow under high 
+heat and may leak through the casings. Therefore, such materials may support a 
+small intensity fire internal and / or external to the casing for a limited period of 
+time after the test flame is removed.  
+(iv) 
+Firewall  
+At no time during or at the end of the test should a firewall component fail to 
+contain the fire within the intended zone or area. Implied with this outcome is the 
+expectation that the firewall component will not develop a burn through hole and 
+will not fail in any manner at its attachment or fire seal points around the periphery 
+of the component and will not continue to burn after the test flame is removed. 
+There should not be backside ignition.  
+(v) 
+Other conditions  
+At no time during or at the end of the test should a Hazardous Engine Effect result.  
+(3) 
+Materials 
+(a) 
+Experience has shown that when using materials such as magnesium and titanium alloys, 
+appropriate design precautions may be required to prevent an unacceptable fire hazard. 
+Consideration should be given to the possibility of fire as a result of rubbing or contact 
+with hot gases. 
+Any material used for abradable linings needs to be assessed to ensure that fire or 
+explosion hazards are avoided. Consideration should also be given to the effects of 
+mechanical Failure of any Engine component and to the effects of dimensional changes 
+resulting from thermal effects within the Engine.  
+(b) 
+Use of Titanium 
+Many titanium alloys used for manufacturing Engine rotor and stator blades will ignite 
+and may sustain combustion, if the conditions are appropriate. In general, titanium fires 
+burn very fast and are extremely intense. The molten particles in titanium fires generate 
+highly erosive hot sprays which have burned through compressor casings with resulting 
+radial expulsion of molten or incandescent metal. In such cases, depending on the 
+installation, the aircraft could be hazarded.  
+In showing compliance with CS-E 130(a) the applicant should assess the overall design for 
+vulnerability to titanium fires. If this assessment cannot rule out the possibility of a 
+sustained fire, then it should be shown that a titanium fire does not result in a Hazardous 
+Engine Effect. 
+Based on experience, the following precautions can reduce the susceptibility of Engines 
+to titanium fires:  

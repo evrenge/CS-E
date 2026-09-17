@@ -1,0 +1,54 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 61 of 262 
+ 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/2] 
+CS-E 150  Tests - General Conduct of Tests 
+(a) 
+The fuel and oil used for all tests must normally be chosen from those specified by the Applicant, 
+but, where it may have relevance to the results of any particular test, the actual fuel and oil to 
+be used (including any additives) must be justified. (See AMC E 150(a)) 
+(b) 
+During all tests, only servicing and minor repairs must be permitted except that major repairs 
+or replacement of parts may be resorted to, provided that the parts in question are subjected 
+to an agreed level of penalty testing. 
+(c) 
+Except where declared by the Applicant, no artificial means of increasing the humidity of the 
+ambient air must be employed. 
+(d) 
+For all tests, parameters relevant to the purpose of the test must be agreed and recorded at 
+appropriate times during the test. Where possible, Engine conditions must be allowed to 
+stabilise before observations are taken. In particular, observations taken less than 3 minutes 
+after a change of Engine conditions must not be included in assessment of performance, unless 
+the rating cannot be used for more than 3 minutes. 
+(e) 
+Adjustments made in compliance with CS-E 140(c) must be checked and unintended variations 
+from the original settings recorded after each test.  
+(f) 
+All test bed equipment and all measuring equipment used for tests must be appropriately 
+calibrated. 
+[Amdt. No.: E/1] 
+AMC E 150(a)  Tests - General conduct of tests 
+For piston Engines, where the operating conditions of a test represent Maximum Continuous Power 
+at altitude, a higher grade fuel or any other approved anti-detonant may be used if such is required to 
+suppress detonation during the test. 
+[Amdt. No.: E/1] 
+CS-E 160  Tests - History 
+(a) 
+In order to enable compliance with point 21.A.20(d)2 of Part 21, should a Failure of an Engine 
+part occur during the certification tests, its cause must be determined and the effect on the 
+airworthiness of the Engine must be assessed. Any necessary corrective actions must be 
+determined and substantiated. 
+(b) 
+The development history of the Engine or component or equipment of the Engine must be 
+considered. Any significant event, relevant to airworthiness of the Engine, occurring during 
+development and not corrected before certification tests, must also be assessed under CS-E 
+160(a).  
+[Amdt No: E/7] 
+CS-E 170  Engine Systems and Component Verification 
+(See AMC E 170) 

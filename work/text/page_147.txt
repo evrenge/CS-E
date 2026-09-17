@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 147 of 262 
+ 
+(2) 
+If Stages 3, 7, 13, 17 and 23, or an equivalent demonstration in the alternate endurance 
+test specified in CS-E 740(c)(4), if applicable, with bleed(s) in operation, require the use 
+of a rotational speed less than the maximum without bleed (as permitted by CS-E 
+690(a)(1)(iii)), these Stages , or the equivalent demonstration, need not be included in 
+the assessment of the mean rotational speed value, subject to agreement by the Agency.  
+(3) 
+In the case of Engines incorporating free power-turbines, if the requisite periods are not 
+run at the maximum power-turbine torque for which approval is sought, evidence of 
+additional running will be required. This may be obtained from tests equivalent to the 
+endurance test on a similar Engine, the endurance test Engine or the relevant parts of it. 
+In all such additional running the appropriate periods must be run at the maximum 
+rotational speed for which approval of the maximum torque is required. 
+(4) 
+Temperatures. 
+(i) 
+All periods of the test corresponding to a rating to be approved must be run at the 
+appropriate maximum turbine entry temperature for this rating unless otherwise 
+agreed. The means of achieving this (e.g. by adjustment of the nozzle areas, the 
+use of bleed) must be justified. 
+(ii) 
+In the case of the alternate test specified in CS-E 740(c)(4), the TCDS-declared EGT 
+operating limits temperatures for MTO and MCT will be determined by analysis 
+upon completion of the test and are established as the lower of the following 
+values: 
+(A) 
+Values no greater than the EGT values demonstrated in the EGT operating 
+limits demonstration as per CS-E 740(c)(4)(iv)(3); 
+(B) 
+Derived EGT values for MTO and MCT for which the severity demonstration 
+for the entire test can be shown to have cumulative severity, for the critical 
+component, greater than or equal to the reference severity. 
+ 
+Depending on the option chosen in CS-E 740(c)(4)(v), EGT values used in this 
+analysis will be either the turbine gas path temperature established during the test 
+or the gas path temperature that corresponds to the maximum critical component 
+temperature. 
+(iii) 
+In general, essentially the average of the maximum temperatures achieved during 
+the appropriate periods of the test will be utilised to establish the operating 
+limitations of temperature for the Engine. The average EGTs will be reduced, 
+however, by the amounts necessary to ensure that the turbine entry temperatures 
+in flight do not exceed the turbine entry temperatures established by endurance 
+test at the appropriate rating conditions. During the accelerations and short 
+periods at Take-off Power, attempts must be made to run at maximum 
+temperatures but if, owing to the unstabilised conditions, lower temperature 
+readings are recorded, these need not be included in calculating the average. 
+(iv) 
+Engines for Aeroplanes. Where the Engine characteristics are such that an 
+acceleration from cold produces a transient over-temperature in excess of that for 
+steady state running, a maximum EGT operating limit for acceleration with a time 
+limitation of either up to 30 seconds or up to 2 minutes may be approved.  
+(A) 
+In the case of the classic endurance test, transient EGT operating limits may 
+be approved as follows.  

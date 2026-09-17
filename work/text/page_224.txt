@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 224 of 262 
+ 
+(a) 
+The test facility should be appropriately calibrated to ensure that those controlling 
+parameters defined by the analysis of the critical conditions which cannot be accurately 
+controlled (e.g. the bird speed, aiming locations) are within an acceptable tolerance. This 
+tolerance band should be derived from an analysis of the sensitivity of the critical impact 
+parameter (CIP) to variations in the controlling parameters. 
+The 'critical impact parameter (CIP)' is defined as a parameter that is used to characterise 
+the state of stress, strain, deflection, twist, or other condition which will result in the 
+maximum impact damage to the Engine for the prescribed bird ingestion condition.  
+The CIP is generally a function of such things as the bird mass, bird velocity, fan/rotor 
+speed, impact location, and fan/rotor blade geometry. The state of maximum impact 
+damage to the Engine is relative to the ability to meet the criteria of CS-E 800. The CIP for 
+most modern turbofan Engines is the fan blade leading edge stress, although other 
+features or parameters may be more critical as a function of the operating conditions or 
+the basic design. For turboprop and turbojet Engines, a core feature will most likely be 
+the critical consideration. Regardless of the Engine design, the most limiting parameter 
+should be identified and understood prior to any demonstration, as any unplanned 
+variations in controlling test parameters will be evaluated for their effect on the CIP and 
+CS-E 800 specifications.  
+For turbofan first stage fan blades, increasing the bird velocity or bird mass will increase 
+the slice mass, and could shift the CIP from the leading edge stress to the blade root 
+stress. For fan blades with part span shrouds, it may be the blade deflection that produces 
+shroud shingling and either a thrust loss or a blade fracture that could be the limiting 
+event. For unshrouded wide chord fan blades it may be the twist of the blade in the 
+dovetail that allows it to impact the trailing blade, resulting in trailing blade damage.  
+For certification tests, the CIP variation should not be greater than 10% as a function of 
+any deviation in the controlling parameters of the test.  
+(b) 
+The installation and especially the gun arrangement in some test facilities can induce air 
+distortion in the Engine inlet, which can artificially reduce the stability margins of the 
+Engine. This should be identified prior to the test. 
+(c) 
+Power or thrust should be measured by a means which can be shown to be accurate 
+throughout the test to enable the power or thrust to be set without undue delay and 
+maintained to within ± 3 percentage points of the specified levels. For the test of CS-E 
+800(d), if, after the first 2 minutes, operation at the specified power or thrust levels would 
+result in a sustained high vibratory condition, the power or thrust may be varied within 
+the ± 3% band. Alternative load devices of some test facilities may be unable to control 
+the power level tolerance band to the desired level. This should be identified and 
+approved prior to the test. Any exceedance of this ± 3% band should be justified in 
+relation to the objectives of CS-E 540(b) or CS-E 800(d). 
+(d) 
+If turboprop or turboshaft Engines are tested using an alternative load device which could 
+induce different Engine response characteristics than when the Engine is coupled with a 
+propeller or installed in the aircraft, the interface with the test facility and aircraft or 
+propeller systems should be monitored during the test and should be used to determine 
+how the Engine would respond in a representative installation, and to ensure that the 
+Engine would then comply with the specifications. 
+(e) 
+Input and output data across the Engine interfaces with the aircraft systems should be 
+provided by the Engine manufacturer in the instructions for installation regarding the 

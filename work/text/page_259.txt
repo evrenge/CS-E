@@ -1,0 +1,112 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 259 of 262 
+ 
+Table 2. An Example of Operating Times for TLD Operations associated with the MEL maintenance approach. 
+Limitations on Electronic Engine Control System Operations with Faults Present 
+Experience 
+Level 
+No Dispatch 
+Category 
+Short Time Faults 
+Category - maximum 
+operating time 
+Long Time Faults 
+Category – maximum 
+operating time 
+Electronic Engine Control 
+System Faults Not Affecting 
+the LOTC/LOPC Rate 
+Entry Level 
+No Flight 
+Allowed 
+125 Engine flight 
+hours. 
+250 Engine flight 
+hours. 
+(2) 
+Mature Level 
+No Flight 
+Allowed 
+(1) 
+(1) 
+(2) 
+Notes: 
+(1) 
+Times vary depending upon the results of the TLD Analysis. 
+(2) 
+The time to repair should be included in an appropriate document. 
+ 
+ 
+Table 3. Maximum Operating Times for TLD Operations Associated with the “MEL maintenance approach” and 
+“Inspection/Repair maintenance approach.” 
+Limitations on Electronic Engine Control System Short Time and Long Time Operations with Faults 
+Present 
+ 
+Short Time Faults 
+Long Time Faults 
+Experience 
+Level 
+Time of Fault 
+occurrence known 
+and MEL 
+maintenance 
+approach used 
+– 
+max operating time 
+with Fault(s) 
+present 
+Time of Fault 
+occurrence unknown 
+and Periodic 
+Inspection/ 
+Repair maintenance 
+approach used 
+–  
+max periodic 
+inspection/repair 
+interval 
+Time of Fault 
+occurrence known 
+and MEL 
+maintenance 
+approach used 
+–  
+max operating time 
+with Fault(s) present 
+Time of Fault 
+occurrence unknown 
+and Periodic 
+Inspection/ 
+Repair maintenance 
+approach used 
+–  
+max periodic 
+inspection/repair 
+interval 
+Entry Level 
+125 engine flight 
+hours. 
+250 engine flight 
+hours. 
+250 engine flight 
+hours. 
+500 engine flight 
+hours. 
+Mature 
+Level 
+(1) 
+(2) 
+(1) 
+(2) 
+Notes: 
+(1) 
+Times vary depending upon the results of the TLD Analysis. 
+(2) 
+Should be equal to two times the value of note (1) 

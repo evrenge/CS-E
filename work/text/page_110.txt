@@ -1,0 +1,60 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 110 of 262 
+ 
+As well as being part of the demonstration of compliance with CS-E 540(a), the effects of the 
+large bird ingestion test of CS-E 800 on the spinner or any Engine static part, as a result of a bird 
+strike, should be assessed against the criteria of CS-E 510. Main frame struts or bifurcation strut 
+fairings may be exposed to impact from birds or bird debris. Such frame struts or strut fairings 
+may house fuel, oil, hydraulic, high-pressure bleed air lines, or wiring associated with the engine 
+control system. The applicant should consider the potential for bird induced damage to these 
+ducts, lines or wires with regard to the objective of CS-E 540. 
+In order to verify the Extremely Remote criteria for Hazardous Engine Effects in case of bird 
+strikes as required in CS-E 540(a), consideration should be given to the possibility of aircraft 
+operation at speeds higher than 200 knots, associated with the corresponding probability of 
+occurrence of encountering a single bird under such conditions.  
+(2) 
+CS-E 540(b) is intended to address for example rain, hail, ice, gravel, sand, small and medium 
+birds. For some threats the interpretation of the specifications of CS-E 540(b) should be made 
+in relation to other CS-E specifications, such as CS-E 800 for birds or CS-E 790 for rain and hail, 
+which may quantify the safety objectives of CS-E 540(b). These related paragraphs are therefore 
+intended to be sufficient for demonstrating compliance with CS-E 540(b) for the considered 
+subject. Nevertheless, any unusual finding made during these demonstrations of compliance 
+should be assessed against the safety objective of CS-E 540(b) continued safe flight and landing.  
+[Amdt No: E/1] 
+CS-E 560 Fuel System 
+(See AMC E 560) 
+(a) 
+(1) 
+Each fuel specification to be approved, including any additive, and the associated 
+limitations in flow, temperature and pressure that ensure proper Engine functioning 
+under all intended operating conditions must be declared and substantiated. 
+(2) 
+Any parameter of the fuel specification which is likely to adversely affect Engine 
+functioning or durability must be identified so that, where necessary, Engine or rig testing 
+using appropriate fuel may be conducted. 
+(3) 
+The Engine fuel pump must have a margin of capacity over the maximum Engine demand 
+in the flight envelope consistent with the assumed aircraft installation specifications. 
+(b) 
+(1) 
+Filters, strainers or other equivalent means must be provided to protect the fuel system 
+from malfunction due to contaminants. These devices must have the capacity to 
+accommodate any likely quantity of contaminants, including water, in relation to 
+recommended servicing intervals and, if provided, the blockage or by-pass indication 
+system (see also CS-E 670). 
+(2) 
+Any main fuel filter or strainer provided between the Engine fuel inlet and any device 
+having a significant function for the control of the thrust or power must have a means to 
+permit indication of impending blockage of the filter or strainer either: 
+(i) 
+To the flight crew or 
+(ii) 
+To the maintenance crew, if it can be shown that the Engine will continue to 
+operate normally with the levels of contamination specified, for a period equal to 
+the inspection interval of the impending blockage indicator. 

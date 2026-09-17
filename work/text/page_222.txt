@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 222 of 262 
+ 
+ 
+The calculation of the core ingestion test Engine rotor speeds associated with the 
+climb phase will depend on the aeroplane and the type of flight that is flown. For 
+each Engine model and installation (where known), the Engine manufacturer 
+should:  
+— determine the Engine rotor speeds that provide the thrust that is required, at 
+an altitude of 3 000 ft (above ground level) to climb  
+— through that altitude, in International Standard Atmosphere (ISA) standard day 
+conditions at 250 knots indicated airspeed (IAS);  
+— include the rotor speeds that were assumed in the instructions for installation 
+as required by CS-E 20(d);  
+— establish the associated minimum mechanical fan rotor speed for this 
+condition using Engine performance simulations;  
+— the fan speed chosen should be associated with the lowest rated thrust Engine 
+model offered for that aircraft installation; if multiple climb settings are 
+available for an intended aircraft, then the lowest climb setting should be used 
+to determine the core ingestion rotor speed targets.  
+(ii)  
+Climb rotor speed considerations  
+There is typically little or no difference between the take-off and climb rotor speeds 
+for the smaller turbofan Engines that are installed on business jets. For this reason, 
+the climb conditions for the core ingestion demonstration will often be very close 
+to the conditions prescribed for the medium flocking bird (MFB) test of CS-E 800(d), 
+in which the largest MFB is targeted at the core at the full-rated take-off condition.  
+The most significant difference between the MFB test and the core ingestion 
+demonstration is expected to be the bird speed determined in CS-E 800(f) versus 
+the 250-knot IAS core Engine test bird speed. An applicant who wants to 
+demonstrate the recommended 250-knot IAS core bird within the existing MFB 
+rated take-off test may do so if the applicant can show an equivalent level of test 
+severity. Therefore, it is possible for the MFB core ingestion requirements to be 
+satisfied by a single test at the rated Take-off Thrust in which the largest MFB that 
+is aimed at the core is fired into the engine at the 250-knot IAS climb airspeed while 
+the remaining bird velocities, targeting and run-on would follow the current MFB 
+criteria. All the birds in the test would still have to be fired within the 1-second 
+requirement of CS-E 800(d)(1)(iii). The objective is to show that the core ingestion 
+is as rigorous at the current MFB fan speed condition as it would be at the 
+aeroplane recommended climb fan speed condition.  
+(iii)  
+Target selection and timing  
+— The bird should be targeted at the Engine in order to maximise the amount of 
+bird material that enters the core for the given test condition. This will ensure 
+that the core ingestion test properly challenges the core during an Engine 
+demonstration.  
+— The optimum target location varies with the Engine design. The span-wise 
+location will depend on the geometric features of the front of the Engine.  
+— The core bird target location should be determined so that it maximises the 
+amount of core ingested bird material for the core ingestion test by:  

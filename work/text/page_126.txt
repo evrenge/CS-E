@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 126 of 262 
+ 
+Allowance should be made as follows for the permitted variations in material properties, critical 
+dimensions and resulting natural frequencies of production components when interpreting test 
+results or making analytical predictions: 
+(a) 
+Material allowable stresses 
+The material property that is important in relation to the requirements of CS-E 650(f) is 
+the endurance limit associated with specific combinations of mean stress and alternating 
+stress, usually represented on a Goodman diagram. The influence on the endurance limit 
+of manufacturing processes, the local geometrical features, and temperatures should 
+also be taken into account. 
+(b) 
+Stress margins 
+CS-E 650(f) requires suitable stress margins for each part evaluated, usually represented 
+by the stress margins at the critical or limiting locations. The stress margin is the 
+difference between the material allowable at a particular location and the measured 
+vibratory stress at that location. The criteria for stress margin suitability should account 
+for the variability in design, operation (including the effects due to icing, rain and hail 
+conditions, consistent with the corresponding certification test evidence) and other 
+mitigating factors identified during the certification test. 
+(c) 
+Modal response 
+The total vibratory stress at any given location is the sum of the resonant stresses 
+associated with all active and concurrent normal modes, plus any other vibratory stresses 
+that occur at that particular rotational speed. Due to variability in properties (material 
+and geometry) the frequencies and separation of the modes may be different from blade 
+to blade (or other component). The applicant should consider the stress amplitudes that 
+occur within permitted blade-to-blade variations of natural frequency. For example, if for 
+a particular blade design the natural frequency (fn) range is fn ± 2.5 %, then the combined 
+amplitudes within this range should be considered. 
+Where there is potential for more than one mode to be excited at the same time/speed, 
+the overall amplitude will be a combination of contributions from each individual 
+response. The combined stress is typically calculated by breaking down the vibratory 
+stress of each mode into its stress components and then combining the modal 
+contributions in proportion to the individual measured responses to obtain the overall 
+principal or equivalent vibratory stresses. 
+(10) Dwell Testing 
+The applicant should determine all significant responses within the operating conditions 
+prescribed in CS-E 650 and allow sufficient time for any associated resonant modes to respond. 
+This is usually accomplished during slow acceleration and deceleration speed sweeps covering 
+the range of required speeds.  
+If any significant response is found, then the relevant components should be subjected to 
+sufficient cycles of vibration close to, and/or on, the response peak to demonstrate compliance 
+with CS-E 650(f). This dwell testing would normally be incorporated into the incremental periods 
+of the CS-E 740 Endurance Test as required by CS-E 740(g)(1).Components subjected to such 
+dwell testing should subsequently also meet the strip inspection requirements of CS-E 740(i). 
+(11) Transient Response 

@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 102 of 262 
+ 
+should be made of these additional loads and their effect examined. If the effect 
+of these loads is small, it may be possible to simulate them by an addition to the 
+test pressure differential. However, if the loads are of significant magnitude or 
+cannot adequately be represented by a pressure increment, the test should be 
+carried out with such loads acting in addition to the pressure loads.  
+The part should be tested at the temperature associated with the most critical 
+stress case or alternatively the test pressure differential may be increased to 
+simulate the loss of relevant properties as a result of temperature.  
+Any fatigue scatter factors used should be justified.  
+During pressure testing, the methods of mounting and restraint by the test facility 
+or test equipment of any critical section should be such as to simulate the actual 
+conditions occurring on the Engine. 
+(iii) 
+Analytical Modelling Methods  
+An analytical modelling method may be used to determine the adequate fatigue 
+life, provided that the modelling method is validated by testing or successful field 
+experience with parts of similar design.  
+(f) 
+Establishment of the Approved Life - Other Parts 
+It is possible that the Safety Analysis required by CS-E 510 may identify Engine Critical 
+Parts other than rotating parts or static pressure loaded parts. In such instances, a 
+methodology for determining the Approved Life will need to be agreed with the 
+Authority, using the general principles for rotating and static pressure loaded parts as a 
+guideline. 
+(g) 
+Maintaining the Approved Life 
+At certification, the Approved Life is based on predictions of the Engine operation, 
+material behaviour, environment, etc., which all can be expected to influence the life at 
+which the part should be withdrawn from service to avoid Hazardous Engine Effects.  
+After certification, it may be necessary to check the accuracy of such predictions, 
+recognising that many aspects, for example, the usage of the Engine and its operating 
+environment, may change during its operational life, especially with a change of 
+ownership. It is important to use any service feedback to confirm that any assumptions 
+made in the Engineering Plan remain valid, or are modified if required. The Engineering 
+Plan should describe not only the basis of the Approved Life, but also those actions 
+subsequent to certification, which will be necessary to ensure that the Approved Life is 
+appropriate throughout the operational life of the Engine.  
+A regular review of the assumptions made when establishing the Approved Life may be 
+required, depending on the conservative nature of the assumptions made when 
+determining the Approved Life. The Engineering Plan should detail when such reviews 
+should occur and what information will be required in order to complete the review.  
+Aspects which may be considered include, but need not be limited to: 
+— the frequency of Approved Life reviews;  
+— detailed inspection of service run parts, including time-expired parts;  
+— review of flight plans;  
+— findings during maintenance;  

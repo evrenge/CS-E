@@ -1,0 +1,71 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 247 of 262 
+ 
+— 
+reverse thrust use, 
+— 
+component stress and temperature, 
+— 
+exhaust gas temperature (EGT), 
+— 
+Engine vibration, 
+— 
+cycle / operating time cumulative damage, 
+— 
+other critical factors. 
+If the Engine includes OEI power ratings, representation of cumulative usage of 
+those OEI power ratings before maintenance should be included in the Engine 
+flight cycles of the IMP test. 
+For multiple aircraft applications, the applicant should show that the test cycle 
+adequately represents all identified or anticipated installations and Engine flight 
+cycles. 
+Test cycles that have been used in the past include: 
+— 
+full cycle (paragraph (d)(1)(ii)), 
+— 
+accelerated severity cycle (paragraph (d)(1)(iii)), 
+— 
+combinations of the above test cycle types. 
+The applicant may combine the IMP test with the AMC 20-6B early ETOPS test 
+(refer to Appendix 1, Section 2.b). In this case, the applicant must successfully 
+complete the early ETOPS test prior to EIS. See paragraph (d)(7). 
+(ii) 
+Full Cycle Test 
+The full cycle test requires that the Engine is run through the exact thrust or power 
+setting sequences for the time periods identified in the Engine flight cycle. Thus, 
+one complete cycle of a full cycle test should include: 
+— 
+a typical Engine flight cycle,  
+— 
+the exact number of operating hours, from Engine start through complete 
+shutdown. 
+(iii) 
+Accelerated Severity Cycle Test 
+The accelerated severity cycle test provides a rigorous test of those Engines (or 
+Engine parts) for which durability is primarily affected by cyclic operation. This type 
+of test makes it possible to vary the following aspects of the Engine flight cycle: 
+— 
+time at various thrust or power settings, 
+— 
+sequence of thrust or power selections. 
+To determine the relationship between the accelerated severity cycle test and the 
+full flight cycle as required above, a detailed analysis should be performed of: 
+— 
+the stress, 
+— 
+the temperature, and 
+— 
+the resulting life of each affected part of the Engine. 
+The accelerated severity cycle test may include the equivalent of several flight 
+cycles during a given portion of the overall Engine test. This can result in a small 
+number of Engine hours in comparison with the number of Engine flight cycles 
+demonstrated. 
+The accelerated severity cycle test is generally not considered ideal for Engine parts 
+whose durability is primarily affected by hours of operation rather than by cycles. 
+For those cases, the IMP substantiation may require other test or in-service 

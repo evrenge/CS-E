@@ -1,0 +1,71 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 49 of 262 
+ 
+22  
+Pressure Cycling  
+AMC E 515(3)(e)  
+23  
+Fire  
+CS-E 130 (note: the Engine Control System should 
+also comply with CS-E 130(e))  
+ 
+The related AMC E 130 and AMC E 640 are therefore relevant.  
+(d) 
+Specialised Equipment Testing  
+Table 4  
+SUBJECT  
+ACCEPTABLE TESTS/PROCEDURE  
+24  
+Overheat for Engine electronic 
+control systems  
+AMC 20-1 and AMC 20-3 
+ 
+Overheat  
+The purpose of this test or analysis is to verify that the electrical/electronic portions of 
+the Engine Control System, when subjected to an overheat condition leading to Failure, 
+will not cause a hazardous Engine effect. See also AMC 20-1 and AMC 20-3. If an overheat 
+test/analysis is not completed, this should be declared as an installation limitation in the 
+Engine instructions for installation and the possibility of an overheat should be addressed 
+at aircraft certification.  
+(3) 
+The provision of a weak link in the drive or the specification of a weak link in the equipment will 
+normally be an acceptable means of limiting excessive torque. However for some equipment 
+which might be included under CS-E 20(c) (e.g. a high output electrical generator) a weak link 
+might not provide an adequate safeguard against damage to the Engine from overheating and 
+break-up of the equipment. In such a case other means of disconnect would need to be provided 
+or specified in order to permit disengagement of the equipment with the Engine running. 
+(4) 
+Equipment with high-energy rotors. Compliance with the specifications of CS-E 80(d) can be 
+demonstrated by reference to the four containment categories in Table 5 relating to a turbine-
+starter having air or gas supplied from an external source and specifies the specifications 
+appropriate to each category. Other equipment will be considered on a similar basis, using the 
+Fault analysis of the whole system to determine the critical speeds which may result from 
+Failures. 
+Table 5 
+CONTAINMENT CATEGORY DEMONSTRATED  
+SECTION SPECIFICATIONS APPLICABLE (see Table 6) 
+1. Blade containment only  
+a, b, c, d and e  
+2. Tri-hub burst within the normal operating 
+speed (i.e. at the highest permitted speed 
+without Failure of the system but including 
+maximum governor over-swing)  
+a, b, c (a reduction of the fatigue scatter factor may 
+be permissible), d and e  
+3. Tri-hub burst at the maximum "no load" 
+speed, under all Fault or combination of 
+Fault conditions (including those affecting 
+fluid supply) other than Extremely Remote 
+Fault conditions  
+a and b  
+4. Engine-driven case if more critical than 3. 
+Hub burst containment at the maximum 
+driven speed or the maximum burst speed, 
+whichever is the lesser  
+a only  
+ 

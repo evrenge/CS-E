@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 107 of 262 
+ 
+AMC E 520(c)(1) Strength - Shedding of Blades 
+(1) 
+In order to reduce the risk of a single blade Failure leading to a multiple blade Failure and 
+possible non-containment, particular attention should be paid to such items as blade material, 
+blade root fixing and the design of casing joints in vulnerable areas. 
+(2) 
+In providing containment for compressor and turbine blades account should be taken of the 
+possibility that the final trajectory of a failed blade may not be directly in the plane of its 
+rotation. This is particularly important when the final containment provisions are external to 
+the Engine casing and lie some distance from it (impact points on the aircraft structure of failed 
+blades have been experienced at angles up to ± 30° from the point of intersection of the Engine 
+centre line and the plane of rotation) or where the Engine casing containment capability is 
+reduced adjacent to the plane of rotation of the blades, e.g. by virtue of cut-outs for adjacent 
+stator roots, bleed ports, etc. This AMC is not meant to impose an obligation on the Engine 
+constructor to provide containment in the direction of the intake and exhaust, provided the 
+limits of the angles to which containment is assured are made available to the aircraft 
+constructor installing the Engine. 
+[Amdt. No.: E/1] 
+AMC E 520(c)(2) Engine Model Validation 
+(1) 
+Validated data specifically for blade loss analysis typically includes: 
+— finite element model, 
+— out-of-balance,  
+— component Failure,  
+— rubs (blade-to-casing, and intershaft),  
+— resulting stiffness changes, 
+— aerodynamic effects, such as thrust loss and engine surge,  
+— variations with time of the rotational speed(s) of the Engine’s main rotating system(s) 
+after Failure, and 
+— dynamic displacement of interface features between Engine and aircraft. 
+(2) 
+Manufacturers whose Engines fail the rotor support structure by design during the blade loss 
+event should also evaluate the effect of the loss of support on Engine structural response.  
+ 
+In addition, manufacturers should evaluate the effect of the most severe blade Failure which 
+would not cause the Failure of the rotor structural support. The effect on the Engine and on the 
+loads transmitted to the aircraft should be included in this evaluation. 
+(3) 
+The model should be validated based on vibration tests and results of the blade loss test 
+required for compliance with CS-E 810, giving due allowance for the effects of the test mount 
+structure, and any other differences between the test configuration and the aircraft installation 
+(e.g. production inlet configuration replaced by test intake configuration). The model should be 
+capable of accurately predicting the transient loads from blade release through run-down to 
+steady state. In cases where compliance with CS-E 810 is granted by similarity instead of test, 
+the model should be correlated to prior experience. Assumptions about the Engine installation 
+configuration should be documented in the Manuals required by CS-E 20(d). 

@@ -1,0 +1,90 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 158 of 262 
+ 
+In this example, the total test time is more than 35 % longer than the classic endurance test, 
+with the portions performed at or above the MTO and MCT ratings approximately 50 % longer. 
+This example alternate endurance test also includes 30 % more cyclic content than the classic 
+endurance test. The comparative severity of this example alternate endurance test indicates 
+that it is 20 % more severe with regard to creep damage than the original intent of the classic 
+endurance test. 
+A different mix of cycles more weighted to MCT operation illustrates that more time at lower 
+temperatures can yield the same comparative severity. The second example (Figure 7.7) uses a 
+ratio between MTO and MCT power settings that better reflects how a modern large aeroplane 
+is operated. In this example, the total test time is nearly 60 % longer than that of the classic 
+endurance test, but the comparative severity to the original intent of the classic endurance test 
+is the same as in the previous example. 
+ 
+Figure 7.7. Cumulative Severity Usage for Whole Test – second example 
+ 
+ 
+(8) 
+Severity Equivalence Assessment for Tmetal and EGT methods 
+(a) 
+Introduction 
+This paragraph provides a breakdown of the steps involved in establishing the alternate 
+endurance test severity equivalence, and hence EGT OL, for the alternate test. The 
+process visualisation provided by the following flow charts intends to provide a better 
+understanding of two optional alternate endurance test approaches: the Tmetal method 
+and the simpler EGT OL method. 
+(b) 
+Description of the methods 
+(i) 
+Tmetal method. For the alternate test, using the Tmetal method, the EGT OL is derived 
+from the metal temperatures demonstrated during the test. This derivation 
+requires that the applicant is able to establish the metal temperatures (using 
+performance/thermal modelling of the test Engine), and the EGT values 
+corresponding to this metal temperature, which will be claimed as EGT OL, for the 
+case of a deteriorated version of the Engine by similar modelling. The metal 
+temperatures are also used to assess the accumulated severity of the alternate test 
+and to ensure equivalence to the target severity, which comes from a simulation 
+of the classic endurance test (which assumes the metal temperature for the case 
+of a deteriorated version of the Engine). Validated analytical methods would be 
+necessary for these steps (see Figure 8.1). 
+ 
+Power-Setting
+Test Time 
+(hrs.)
+Cycles
+No.
+Power-Setting
+Accumulated 
+Damage
+Reference 
+Damage
+Normalized 
+Damage
+MTO
+17.9
+MTO
+240
+MTO
+0.04111
+0.16000
+0.25692
+MCT
+130.7
+MCT
+240
+MCT
+0.22462
+0.06000
+3.74367
+Idle
+31.7
+Total Cycles
+480
+Total Damage
+0.26573
+0.22000
+1.20785
+Part Power Thrust
+54.2
+Total Time
+234.4
+Endurance Test Dashboard

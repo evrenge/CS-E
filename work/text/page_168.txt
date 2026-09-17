@@ -1,0 +1,33 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 168 of 262 
+ 
+(f) 
+EGT as a proxy for Tmetal 
+A significant simplification to the Tmetal approach is to run the test using EGT as a proxy 
+for Tmetal. The immediate benefit of this approach is that the EGT recorded for the test is 
+accepted as the approved operating limitation, contingent upon substantiation of the 
+severity equivalence to the target severity. The drawback of the approach is that metal 
+temperatures of some turbine components may be different (normally assumed to be 
+higher, but theoretically lower is also possible, in which case the Tmetal method is more 
+appropriate) compared with a Tmetal method when substantiating the same EGT OL value. 
+The test will be similar to the classic endurance test with the exception that the target 
+speed OL is not met during all take-off and MCT settings; hence the need for the severity 
+equivalence assessment to establish the additional penalty running required. The 
+applicant wanting to use the EGT method would need to show that it would be 
+conservative on Tmetal relative to CPA conditions. 
+With regard to the process for this approach, Figures 8.9–8.12 illustrate the steps and 
+provide a comparison with the Tmetal process. As can be seen, the modelling sequence is 
+significantly simplified. 
+Note that the flow charts indicate that the damage mechanism assumed by the EGT 
+approach, as for the classic endurance test, is creep. The assumption is taken because the 
+process in this case, as for the classic endurance test, does not demand that a specific 
+component be identified. This does not rule out that an EGT-based test could be assessed 
+for severity of damage mechanisms other than creep. 
+ 
+ 

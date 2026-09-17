@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 191 of 262 
+ 
+—  relative kinetic energy normal to the leading edge chord, 
+—  incidence angle — relative slab speed and blade speed, 
+—  slab dimensions, 
+—  sab orientation, and 
+—  impact location. 
+(ii) 
+Any predicted power/thrust loss or blade damage (distortion, cracking, tearing) 
+should be assessed against the criteria of this AMC.  
+(iii) 
+The relative kinetic energy of the ice slab should be determined from an 
+assessment of the flight conditions that control Engine rotor speed versus ice slab 
+velocity. Engine test results from previous ice slab testing may be used to support 
+the predicted ice slab velocity. The applicant’s analysis should assume the most 
+critical orientation, unless it can be shown that an alternate ice slab orientation is 
+more conservative for ice slab testing. 
+(iv) 
+Ice Slab Break-Up. Typically, the ice slab breaks up into smaller pieces during an ice 
+slab ingestion. The applicant’s analysis should use the largest slab size consistent 
+with a conservative assessment of a slab ‘break-up’ that can occur within the air 
+stream ahead of the fan. Data derived from a number of tests shows that the 
+largest ice piece is typically 1/3 to 1/2 of the original size. For analysis purposes, 
+the applicant may assume 1/2 of the original slab greatest dimension unless 
+evidence suggests that this is not conservative relative to the ice slab testing. 
+(d) 
+Test Results  
+CS-E 780(f)(2) requires that, following ice ingestion, the Engine must comply with CS-E 
+780(a). The below elements should be considered: 
+(i) 
+Engine Loss of Performance. Applicants should evaluate the impact of any 
+first stage blade bending or damage on potential sustained Engine 
+power/thrust loss. Sustained power/thrust loss associated with first stage 
+damage from the slab should be less than 1.5 %. Ice and birds are ‘soft body’ 
+objects in their impact behaviour, i.e. they are both highly deformable on 
+impact and flow over the structure, spreading the impact load. They also 
+have similar densities; thus they create similar strain footprints and, 
+consequently, similar damage. As soft body fan damage is common from 
+medium bird ingestion, applicants may use the medium bird ingestion test 
+results to show compliance with this requirement. If the medium bird 
+ingestion test results in less than 1.5 % permanent power/thrust loss, and 
+no cracks, tears or blade piece breakout occur due to a bird ingested at the 
+outer 33 % of the first stage blade span, then the CS-E 780(f)(2) requirement 
+is met. 
+(A) 
+If power/thrust loss exceeds 1.5 % when utilising the bird test, the 
+applicant should provide a validated analysis that shows consistency 
+with the bird test results. The applicant should also demonstrate that 
+the standard ice slab would produce less than the 1.5 % power/thrust 
+loss. 
+(B) 
+Applicants should also demonstrate by test that any cracks, tears or 
+blade piece breakout will not result in ‘unacceptable sustained power 
+or thrust loss’ within 100 flight cycles (considered sufficient to allow 

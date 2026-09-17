@@ -1,0 +1,66 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 218 of 262 
+ 
+(ii)  
+Followed by 2 minutes at between 30 and 35 % of the maximum rated Take-off 
+Power or Thrust.  
+(iii)  
+Followed by 1 minute with the power or thrust increased from that set in 
+subparagraph (e)(6)(ii), by between 5 and 10 % of the maximum rated Take-off 
+Power or Thrust.  
+(iv)  
+Followed by 2 minutes with the power or thrust reduced from that set in 
+subparagraph (e)(6)(iii), by between 5 and 10 % of maximum rated Take-off Power 
+or Thrust.  
+(v)  
+Followed by a minimum of 1 minute at ground idle, then an Engine shutdown. The 
+durations specified are times at the defined conditions.  
+The power lever movement between each condition shall be 10 seconds or less in 
+duration, except power lever movements that are allowed within subparagraph 
+(e)(6)(iii), that are not limited, and those for setting power under subparagraph 
+(e)(6)(iv), which shall be 30 seconds or less in duration.  
+(7)  
+Applicants must show that no unsafe condition will result if any Engine operating limit is 
+exceeded during the run-on demonstration.  
+(8)  
+The core Engine flocking bird ingestion test of subparagraph (e) may be combined with 
+the medium flocking bird test of subparagraph (d), if the climb fan rotor speed calculated 
+in subparagraph (e)(1) is within 1 % of the first stage rotor speed required by 
+subparagraph (d)(1).  
+(f) 
+Impact. The impact against the front of the Engine of the largest medium bird required by CS-E 
+800(d)(1)(v)(A) and of the large bird required by CS-E 800(b)(1)(ii) must be evaluated for 
+compliance with CS-E 540 under the Engine conditions specified for the ingestion tests. The bird 
+speed must be the critical bird ingestion speed for the critical locations within the range of 
+airspeeds for normal flight operations up to 450 m (1 500 ft) above ground level, but not less 
+than V1 minimum for Engines to be installed on aeroplanes or higher than the speeds for the 
+ingestion tests.  
+The impact evaluation may be carried out separately from the ingestion evaluation; however, 
+any damage resulting from the impact on the front of the Engine must be assessed in relation 
+to consequential damage on the rotating blades.  
+(g) 
+General  
+(1) 
+Engine tests must be performed as required under CS-E 800(b), (c), (d) and (e) unless it is 
+agreed that alternative evidence such as from Engine tests, rig tests, analysis or an 
+appropriate combination of these, may come from the spplicant’s experience with 
+engines of comparable size, design, construction, performance and handling 
+characteristics, obtained during development, certification or operation.  
+(2) 
+The Engine test described in CS-E 800(b)(1), with regard to the single large bird, may be 
+waived if it can be shown by test or analysis that the specifications of CS-E 810(a) are 
+more severe.  
+(3) 
+Compliance with CS-E 800(c), in place of an Engine test, may be shown by:  
+(i) 
+incorporating the run-on specifications of CS-E 800(c)(1)(v) into the Engine test 
+demonstration specified in CS-E 800(b)(1); or  
+(ii) 
+using a component test at the conditions of CS-E 800(b)(1) or (c)(1), subject to the 
+following additional conditions:  

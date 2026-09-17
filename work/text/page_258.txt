@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 258 of 262 
+ 
+CS-E 1030(e) requires provisions for indication to the flight crew for no-dispatch configurations. 
+This does not mean that indication during flight is required. Indication on the ground only is an 
+acceptable means of compliance. 
+ 
+Table 1. Typical Operating Limitations for TLD 
+This page gives the EASA-approved time limits to operate this engine (identify engine manufacturer and 
+model) with control system Faults present. These limits are also defined in engine report (identify report 
+number and date), the Engine Control System Time-Limited-Dispatch Summary Report.  
+Fault Category 
+Operational Limitation 
+NO DISPATCH  
+DISPATCH NOT ALLOWED WITH THIS CONDITION PRESENT. 
+Note 1: There must be a flight deck display of the presence of a no dispatch condition 
+SHORT TIME  
+DISPATCH IS ALLOWED WITH SHORT TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF 
+APPLICABLE) EXPOSURE TIME OF THE SYSTEM TO THESE FAULTS MUST BE LIMITED TO 
+(insert XXX) FLIGHT HOURS. 
+ 
+Note 2: All Faults in this short time category must be corrected within a time period, such 
+that (a) each Fault in the group does not have an exposure time greater than (insert XXX) 
+hours, OR (b) the average exposure time for short time Faults does not exceed (insert XXX) 
+hours. Also, it is noted that the time limitations contained herein with respect to short time 
+EECS Faults may only be changed with approval of the agency.  
+— If an MEL Maintenance Approach is used for this Fault category, there should be an 
+appropriate generic flight deck display of the presence of a short time Fault condition(s).  
+— If a Periodic Inspection/Repair Maintenance Approach is used, the system should be 
+inspected for short time Faults at an interval, such that if Faults are found, they can be 
+repaired so that the average length of time that a Fault is present in the system (average 
+fault exposure time) does not exceed the specified (insert XXX) hour limitation.  
+Reference SAE ARP5107 revB for a more complete understanding of these maintenance 
+approaches. 
+LONG 
+TIME 
+ 
+DISPATCH IS ALLOWED WITH LONG TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF 
+APPLICABLE) EXPOSURE TIME OF THE SYSTEM TO THESE FAULTS MUST BE LIMITED TO 
+(insert YYY) FLIGHT HOURS. 
+ 
+Note 3: All Faults in this long time category must be corrected within a time period, such 
+that (a) each Fault in the group does not have an exposure time greater than (insert YYY) 
+hours, OR (b) the average exposure time for long time Faults does not exceed (insert YYY) 
+hours. Also, it is noted that the time limitations contained herein with respect to long time 
+Electronic Engine Control System Faults may only be changed with approval of the agency.  
+— If an MEL Maintenance Approach is used for this Fault category, there should be an 
+appropriate generic flight deck display of the presence of a long time Fault condition(s).  
+— If a Periodic Inspection/Repair Maintenance Approach is used, the system should be 
+inspected for long time Faults at an interval, such that if Faults are found, they can be 
+repaired so that the average length of time that a Fault is present in the system (i.e., 
+average fault exposure time) does not exceed the specified (insert YYY) hour limitation. 
+ 
+ 

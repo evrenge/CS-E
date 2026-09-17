@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 151 of 262 
+ 
+(a) 
+After the basic 150-hour endurance test, the Engine may be subjected to a strip 
+inspection in accordance with CS-E 740(i)(1). 
+The Engine is then reassembled using the same parts used for the 150-hour endurance 
+test except as otherwise allowed by CS-E 740(i)(2)(ii) and the additional 2-hour endurance 
+test is run to CS-E 740(c)(3)(iii).  
+Completion of the additional 2-hour endurance test would be followed by compliance 
+with the strip inspection specifications of CS-E 740(i)(2)(iii); or  
+(b) 
+The 2-hour additional endurance test of CS-E 740(c)(3)(iii) may be run immediately after 
+the basic 150-hour endurance test without Engine disassembly.  
+The strip inspection standards that will be applied after completion of the additional 2-
+hour endurance test will be those prescribed in CS-E 740(i)(2).  
+(2) 
+Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated 
+with the 30-Second OEI Power rating. Nevertheless, for ensuring the shortest time of 
+establishment of the corresponding power, it might be necessary to design the Engine control 
+in such a manner that a short overshoot of the speed will occur at the beginning of the 30 
+seconds period. This is acceptable if this is validated throughout the CS-E 740(c)(3)(iii) test.  
+(3) 
+In the event of a stop occurring during the four test sequences of CS-E 740(c)(3)(iii), the 
+interrupted sequence needs to be repeated in full or can be re-started from the interrupt point 
+if there is a technical justification acceptable to the Agency. If it is determined that the sequence 
+need not be repeated in its entirety, the test should be restarted from a point where the Engine 
+thermal condition would be the same as at the time of interruption. (See CS-E 740(b)(1)).  
+[Amdt. No.: E/1] 
+[Amdt No: E/8] 
+ 
+AMC E 740(c)(4) Alternate Endurance Testing – Turbofan Engine 
+(1) 
+Alternate Endurance Test Concept 
+The alternate endurance test is intended to address a problem faced by turbofan-Engine designs 
+disadvantaged by the classic endurance test where speed and temperature limiting conditions 
+must be demonstrated concurrently. These Engines, for which this demonstration is not 
+representative of the in-service operation, can be subjected to excessively severe conditions 
+(normally due to reduced effectiveness of secondary air-cooling systems) during the test. The 
+alternate endurance test allows more representative conditions to be tested, provided that 
+those conditions are established by a validated critical point analysis, and provided that the 
+overall severity of the test is at least equivalent to the intent of the classic endurance test by an 
+extended test duration. This, in turn, makes it possible to test a more representative hardware 
+configuration (avoiding modifications otherwise necessary to be able to complete the classic 
+endurance test, also called ‘enabling’ modifications). 
+(2) 
+Critical Point Analysis (CPA) 
+The CPA is the process in which the actual/expected in-service running conditions of a 
+production Engine are assessed (taking into account new to fully deteriorated Engine condition, 
+and the whole Engine operating envelope). This assessment should then be considered further 
+in the severity assessment for creep and other relevant damage mechanisms.  

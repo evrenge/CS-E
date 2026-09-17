@@ -1,0 +1,50 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 215 of 262 
+ 
+(1 500 ft) above ground level, but not less than the V1 minimum for Engines to be 
+installed on aeroplanes. 
+(iii) 
+Except for Rotorcraft Engines, the following test schedule must be used: 
+— Perform an ingestion to simulate a flock encounter within 1 second;  
+— 2 minutes without any power lever movement; 
+— 3 minutes at 75% of the test conditions of CS-E 800(d)(1)(i);  
+— 6 minutes at 60% of the test conditions of CS-E 800(d)(1)(i);  
+— 6 minutes at 40% of the test conditions of CS-E 800(d)(1)(i); 
+— 1 minute at approach idle;  
+— 2 minutes at 75% of the test conditions of CS-E 800(d)(1)(i); 
+— Stabilise the Engine at idle and then shut the Engine down.  
+These durations are times at the defined conditions, the power lever being moved 
+between each condition in less than 10 seconds.  
+(iv) 
+For Rotorcraft Engines, the following test schedule must be used: 
+— Perform an ingestion to simulate a flock encounter within 1 second;  
+— 3 minutes at 75% of the test conditions of CS-E 800(d)(1)(i);  
+— 90 seconds at minimum test bed idle;  
+— 30 seconds at 75% of the test conditions of CS-E 800(d)(1)(i); 
+— Stabilise the Engine at idle and then shut the Engine down.  
+These durations are times at the defined conditions, the power lever being moved 
+between each condition in less than 10 seconds.  
+(v) 
+(A) 
+Medium birds. The masses and quantities of birds will be determined from 
+the second column of Table A. When only one bird is specified, it must be 
+aimed at the Engine core primary flow path; the other critical locations on 
+the Engine face area must be addressed by appropriate tests or analysis or 
+both.  
+When two or more birds are specified, the largest must be aimed at the 
+Engine core primary flow path and a second bird must be aimed at the most 
+critical exposed location on the first stage rotor blades. Any remaining birds 
+must be evenly distributed over the Engine face area.  
+(B) 
+Small birds. One 85-g bird for each 0.032 m2 of the inlet throat area or 
+fraction thereof with a maximum of 16 birds, distributed to take account of 
+any critical exposed locations on the first stage rotor blades, but otherwise 
+evenly distributed over the Engine face area.  
+TABLE A of CS-E 800 
+Medium (flocking) birds 

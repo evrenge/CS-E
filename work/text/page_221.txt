@@ -1,0 +1,64 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 221 of 262 
+ 
+(v) 
+Following the initial 14 minutes, the thrust is reduced, and a maximum of 30 
+seconds is allowed for the applicant to manipulate the thrust lever to find the 
+specified thrust. This is to allow for potential damage to the Engine, which might 
+require careful throttle management. 
+(vi) 
+The components referred to in CS-E 800(g)(3)(ii)(A) include, for example, fan blades 
+and their retention / spacer components, fan outlet guide vanes, spinners, fan disks 
+and shafts, fan cases, frames, main bearings and bearing supports, including 
+frangible bearing assemblies or devices. The intent is that a subassembly test 
+should adequately represent the mechanical aspects of a type design Engine during 
+the large flocking bird ingestion.  
+(vii) 
+The dynamic effects (and related operability concerns) referred to in CS-E 
+800(g)(3)(ii)(C) include, but are not limited to, surge and stall, flameout, limit 
+exceedances, and any other considerations relative to the ability of the type-design 
+Engine to comply with the specifications of CS-E 800(c). 
+(c) 
+Medium and small flocking birds 
+(i) 
+The Engine test of CS-E 800(d) will demonstrate that the Engine will produce the 
+required power or thrust, while maintaining acceptable handling characteristics 
+during a 20-minute run-on simulating a return to the airport after the ingestion of 
+medium or small flocking birds at take-off. This will consequently demonstrate 
+compliance with CS-E 540(b).  
+(ii) 
+The applicant will identify under CS-E 800(d)(1)(ii) all the critical locations and 
+those which have to be used during the small or medium bird engine ingestion 
+tests, and appropriately consider the potential effects of the assumed aircraft 
+installations. The spinner and the other parts of the front of the Engine may be 
+evaluated separately under CS-E 800(f).  
+(iii) 
+In the tests performed under paragraph CS-E 800(d), the Engine is required to 
+produce at least 75% of the test conditions power or thrust after the ingestion of 
+either small or medium birds. Nevertheless, a momentary power/ thrust drop 
+below this value is acceptable, but its duration should not exceed 3 seconds after 
+the ingestion.  
+(iv) 
+Exceedances of Engine operating limitations associated with Take-off conditions 
+should not occur during the first 2 minutes following the ingestion of the birds in 
+the 20-minute run-on test. If an exceedance of limits occurs during these 2 
+minutes, except during the first 3 seconds of the test, this should be considered 
+when complying with CS-E 700. After these initial 2 minutes without any power 
+lever movement, it is permitted to control exceedances, if any. Any intervention to 
+control exceedances should be recorded, and suitable instructions should be 
+provided in the instructions for the installation of the Engine. After any such power 
+lever adjustment, the Engine should still produce the required power or thrust for 
+the test. In CS-E 800(d)(1)(iii) and (iv), a movement of the power lever means an 
+action on the means which provides a power or thrust setting for the Engine 
+control. This can be a mechanical device in the test facility control room or an 
+electronic signal sent to the Engine Control System.  
+(d) 
+ Core Engine flocking bird ingestion test  
+(i)  
+Determining climb rotor speeds  

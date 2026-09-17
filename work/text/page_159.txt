@@ -1,0 +1,36 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 159 of 262 
+ 
+ 
+ 
+Figure 8.1. Tmetal method overview. 
+ 
+Abbreviations  
+Calc.  
+calculation 
+End.:   
+endurance 
+M/C:  
+maximum continuous thrust  
+NH:   
+core rotor speed 
+Perf:  
+performance  
+T/O:   
+take-off thrust  
+Tm = Tmetal: 
+metal temperature  
+ 
+(ii) 
+EGT OL method. For the alternate test, using the EGT OL method, a compromise 
+alternate test, avoiding the complications of the Tmetal temperature method above, 
+the EGT recorded for the test is accepted as the OL (complying with CS-E 740(f)(4)), 
+contingent upon substantiation of the severity equivalence to the target severity 
+(see Figure 8.2). 
+ 

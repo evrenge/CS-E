@@ -1,0 +1,67 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 139 of 262 
+ 
+(E) 
+Stages 16 to 25, each of 30 minutes duration covering the range in 6 
+approximately equal speed increments between Maximum Continuous and 
+Takeoff Power or Thrust. 
+Part 3  1 hour and 30 minutes at Maximum Continuous Power or Thrust.  
+Part 4  2 hours and 30 minutes covering the range in 15 approximately equal speed 
+increments from Ground Idling up to but not including Maximum Continuous 
+Power or Thrust.  
+Part 5  30 minutes of accelerations and decelerations consisting of 6 cycles from Ground 
+Idling to Take-off Power or Thrust, maintaining Take-off Power or Thrust for a 
+period of 30 seconds, the remaining time being at Ground Idling.  
+(2) 
+(i) 
+Schedule for Standard Ratings with 2½-Minute OEI and/or Continuous OEI Rating 
+and/or 30-Minute OEI Rating and/or 30-Minute Power (when appropriate). 
+25 6-hour stages, each stage comprising: 
+Part 1  1 hour of alternate 5-minute periods at Take-off Power or Thrust and 
+minimum ground idle, or, for rotorcraft Engines, minimum test bed idle, 
+except that – 
+(A) 
+In Stages 3 to 20, in place of two of the 5-minute periods at Take-off 
+Power or Thrust, run 2½ minutes at Take-off Power or Thrust followed 
+by 2½ minutes at 2½-Minute OEI Power or Thrust. 
+(B) 
+In Stages 21 to 25, in place of three of the 5-minute periods at Take-
+off Power or Thrust, run 1 minute at Take-off Power or Thrust 
+followed by 2 minutes at 2½Minute OEI Power or Thrust and 2 
+minutes at Take-off Power or Thrust. 
+Part 2 
+(A)  
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous 
+Power or Thrust.  
+(B) 
+Stages 16 to 25, each of 30 minutes duration at Take-off Power or 
+Thrust, except that in one stage a period of 5 minutes in the middle of 
+a 30-minute period must be run at 2½-Minute OEI Power or Thrust. 
+For Engines for Aeroplanes. Where Engine rotational speeds between 
+Maximum Continuous and Take-off may be used in service, e.g. for reduced 
+thrust take-off or due to variations in the ambient temperature, and these 
+speeds would not be adequately covered by other Parts of the endurance 
+test, then the following Part 2 must be substituted:  
+(C) 
+Stages 1 to 15, each of 30 minutes duration at Maximum Continuous 
+Power or Thrust.  
+(D) 
+Stages 16 to 20, each of 30 minutes duration at Take-off Power or 
+Thrust except that in Stage 16 a period of 5 minutes in the middle of 
+the 30-minute period must be run at 2½-Minute OEI Power/Thrust. 
+(E) 
+Stages 21 to 25, each of 30 minutes duration covering the range in six 
+approximately 
+equal 
+speed 
+increments 
+between 
+Maximum 
+Continuous and Take-off Power or Thrust. 
+Part 3  

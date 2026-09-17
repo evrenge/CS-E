@@ -1,0 +1,57 @@
+ 
+CS-E — Amendment 8 
+SUBPART D – TURBINE ENGINES: DESIGN 
+AND CONSTRUCTION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 106 of 262 
+ 
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+[Amdt No: E/7] 
+CS-E 520 Strength 
+(a) 
+The major rotating components of the Engine must have adequate strength to withstand both 
+the thermal and dynamic conditions of normal operation and any excessive thermal or dynamic 
+conditions that may result from abnormal speeds, abnormal temperatures or abnormal 
+vibration loads. In assessing the abnormal conditions to be considered, account must be taken 
+of the Failure analysis prescribed in CS-E 510. (See AMC E 520(a)) 
+(b) 
+Fixed structure in close proximity to rotating parts must be so arranged that any rub caused 
+either by - 
+(1) 
+Thermal expansion or contraction of parts to the extremes of movement within the 
+operating envelope of the Engine, or 
+(2) 
+Movement resulting from likely Fault conditions of either the fixed or rotating parts, will 
+occur in a manner not likely to result in a Hazardous Engine Effect. As an alternative, a 
+device giving warning of such unintended movement must be provided. 
+(c) 
+(1)  
+The design of the Engine must be such that debris resulting from the shedding of 
+compressor or turbine blades, either singly or in likely combinations, will be radially 
+contained (see AMC E 520(c)(1)). 
+(2) 
+Validated data (from analysis or test or both) must be established and provided for the 
+purpose of enabling each aircraft constructor to ascertain the forces that could be 
+imposed on the aircraft structure and systems as a consequence of out-of-balance 
+running and during any continued rotation with rotor unbalance after shutdown of the 
+Engine following the occurrence of blade Failure as demonstrated in compliance with CS-
+E 810. If the Failure of a shaft, bearing or bearing support or bird strike event, as required 
+under CS-E 800, result in higher forces being developed, such Failures must also be 
+considered, except for bird strike in relation to continued out-of-balance running. (see 
+AMC E 520 (c)(2)). 
+(d) 
+Design consideration must be given to avoiding the risk of major rupture of Engine casings 
+(particularly those which are subjected to high pressure loads) in the event of a local Failure in 
+the casing or damage to the casing arising, for example, from a torching flame following a 
+combustion system Failure. 
+[Amdt. No.: E/1] 
+[Amdt. No.: E/2] 
+[Amdt. No.: E/7] 
+AMC E 520(a) Strength - High Cycle Fatigue 
+In order to minimise the adverse consequences of Failures due to unpredicted high cycle fatigue it is 
+recommended that, normally, the relative fatigue strengths of the blade/disc are graded such that 
+they lie in the ascending order: blade form, blade root, disc blade attachment, disc rim. 
+[Amdt. No.: E/1] 

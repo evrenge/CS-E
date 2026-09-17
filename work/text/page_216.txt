@@ -1,0 +1,93 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 216 of 262 
+ 
+Engine test 
+(CS-E 800(d)(1))  
+Additional integrity assessment  
+(CS-E 800(d)(3)) 
+Engine inlet throat area (A)  
+m2  
+Number of birds x mass of birds  
+kg  
+Number x mass of birds  
+kg  
+ A < 0.05  
+ none 
+none 
+0.05 ≤ A < 0.10  
+1 x 0.35  
+none 
+0.10 ≤ A < 0.20  
+1x 0.45  
+none 
+0.20 ≤ A < 0.40  
+2x 0.45  
+none 
+0.40 ≤ A < 0.60  
+2x 0.70  
+none  
+0.60 ≤ A < 1.00  
+3x 0.70  
+none 
+1.00 ≤ A < 1.35  
+4x 0.70  
+none 
+1.35 ≤ A < 1.70  
+1 x 1.15 + 3 x 0.70  
+1 x 1.15 
+1.70 ≤ A < 2.10  
+1 x 1.15 + 4 x 0.70  
+1 x 1.15 
+2.10 ≤ A < 2.50  
+1 x 1.15 + 5 x 0.70  
+1 x 1.15 
+2.50 ≤ A < 2.90 
+1 x 1.15 + 6 x 0.70 
+1 x 1.15 
+2.90 ≤ A < 3.90  
+1 x 1.15 + 6 x 0.70 
+2x 1.15 
+3.90 ≤ A < 4.50 
+3 x 1.15 
+1 x 1.15 + 6 x 0.70 
+4.50 ≤ A 
+4 x 1.15 
+1 x 1.15 + 6 x 0.70 
+ 
+(2) 
+Acceptance criteria. The ingestion must not cause: 
+— more than a sustained 25% power or thrust loss; 
+— the Engine to be shut down during the test.  
+(3) 
+In addition, except for Rotorcraft Engines, it must be substantiated by appropriate tests 
+or analysis or both that, when the full first stage rotor assembly is subjected to the 
+quantity and mass of medium birds from the third Column of Table A fired at the most 
+critical locations on the first stage rotor, the effects will not be such as to make the Engine 
+incapable of complying with the acceptance criteria of CS-E 800(d)(2).  
+(e)  
+Core Engine flocking bird ingestion test. For turbofan Engines, an ingestion test shall be 
+performed as follows:  
+(1) 
+A core Engine flocking bird ingestion test shall be performed with one bird, using the 
+heaviest bird specified in the second column of Table A above and ingested at a bird 
+speed of 250 knots, unless it is shown by test or validated analysis that no bird material 
+will be ingested into the core under the conditions of this subparagraph, in which case 
+subparagraphs (e)(4), (5) and (6) should be applied. Prior to the ingestion, the Engine shall 
+be stabilised at the mechanical rotor speed of the first exposed stage or stages that, on a 
+standard day, would produce the lowest expected power or thrust required during a 
+climb through 3 000 ft above ground level in revenue service. The bird must be targeted 
+on the first exposed rotating stage or stages at the blade aerofoil height measured at the 
+leading edge that would maximise the bird material that is ingested into the Engine core.  
+(2) 
+Ingestion into the Engine core of a bird under the conditions prescribed in subparagraph 
+(e)(1) shall not cause any of the following:  
+(i)  
+A sustained reduction in power or thrust to less than 50 % of the maximum rated 
+Take-off Power or Thrust during the run-on specified under paragraph (e)(3)(iii) 
+below, that cannot be restored only by movement of the power lever.  

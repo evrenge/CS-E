@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 116 of 262 
+ 
+AMC E 620 Performance: Formulae 
+(1) 
+The following corrections from the observed test conditions to the assumed atmospheric 
+conditions of pressure and temperature should be used within the range of conditions 
+appropriate to the particular type of Engine, i.e. taking into account the characteristics of the 
+Engine Control System, and the possible effect of Reynolds Number, unless more accurate or 
+additional corrections for a particular type of Engine have been agreed or required by the 
+Agency. 
+Gas Pressures 
+S.I. Units 
+Pc = Po × 1013 ∙25
+B
+ 
+ 
+Gas Temperatures 
+Tc = To × 288
+θ 
+ 
+Rotational Speed 
+Nc = No × √288
+𝜃 
+ 
+Thrust 
+S.I. Units 
+Fc = Fo × 1013 ∙25
+B
+ 
+ 
+Mass Air Flow 
+S.I. Units 
+Wc = Wo × 1013 ∙25
+B
+× √𝜃
+288 
+ 
+In cases where certain proprietary types of air flowmeter are employed, it should be noted that 
+Wo is the actual air consumption of the Engine during test. 
+Fuel Flow 
+S.I. Units 
+Wc = Wo × 1013 ∙25
+B
+× √288
+θ 
+ 
+Power 
+S.I. Units 

@@ -1,0 +1,61 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 239 of 262 
+ 
+(v) 
+The effect on the shaft of any likely Engine fire and the necessity for provision of 
+an early warning of any internal fires that may occur; 
+(vi) 
+The effect on the shaft of loads which could be transmitted by shock loading 
+resulting from bird strikes, blade Failures, etc.; 
+(vii) 
+The effect on the shaft of oscillatory loading, for example, resulting from fuel 
+system oscillations. 
+(b) 
+The shaft system should be subjected to the following investigations and/or testing to 
+support the design assessment and the compliance with the objectives of CS-E 850(a). 
+(i) 
+Strain gauge or other suitable means of investigation in order to satisfy the 
+vibration survey specifications of CS-E 650 and to ensure that shaft whirling is not 
+present to any significant degree at any likely Engine operating condition.  
+(ii) 
+Fatigue evaluation of each shaft in torsional modes, in order to confirm its 
+predicted safe life. An oscillatory torque of a magnitude equal to the maximum 
+envisaged in a representative installation, but not less than ±5% of the normal 
+maximum steady-state torque, should be superimposed on that steady-state 
+torque. In addition, consideration should also be given to any high-frequency 
+vibrations determined from paragraph (4)(b)(i) above and any possible shaft 
+bending. 
+(iii) 
+Where necessary, confirmation of stress assumptions by static strength tests. 
+(iv) 
+Where necessary, substantiation by test of the design considerations detailed in 
+paragraph (4)(a) above such as to demonstrate that shaft Failure is acceptably 
+remote. 
+[Amdt No: E/1] 
+[Amdt No: E/5] 
+CS-E 860 Turbine Rotor Over-temperature 
+(a) 
+The most critical temperature conditions which the turbine rotor(s) can attain in the event of 
+Failures of the cooling air supply must be established by analysis and tests, as appropriate. 
+Failure of individual components of the Engine that can be classified as Extremely Remote need 
+not be included in the analysis or tests. 
+(b) 
+Evidence to demonstrate that instrumentation is not required under CS-E 60(e) may be 
+obtained from endurance running in an Engine or on rigs, or, where adequate margins can be 
+demonstrated, by calculation. Where practicable, the duration of endurance running may be 
+reduced by compensating increases in the test temperature. 
+CS-E 870 Exhaust Gas Over-temperature Test 
+(a) 
+General 
+(1) 
+Where the Applicant wishes to establish a Maximum Exhaust Gas Over-temperature limit 
+compliance must be shown with this paragraph CS-E 870. 
+(2) 
+The test may be run, if desired, as part of the endurance test of CS-E 740. Alternatively, 
+test evidence may be provided from an Engine of the same type. 

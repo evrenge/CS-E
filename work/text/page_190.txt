@@ -1,0 +1,90 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 190 of 262 
+ 
+80/0.0516128 
+0.25/6.35 
+6/15.24 
+3.6/9.144 
+300/0.193548 
+0.25/6.35 
+12/30.48 
+3.6/9.144 
+700/0.451612 
+0.25/6.35 
+12/30.48 
+4.8/12.192 
+2 800/1.806448 
+0.35/8.89 
+12/30.48 
+8.5/21.59 
+5 000/3.2258 
+0.43/10.922 
+12/30.48 
+11.0/27.94 
+7 000/4.51612 
+0.50/12.7 
+12/30.48 
+12.7/32.258 
+7 900/5.096764 
+0.50/12.7 
+12/30.48 
+13.4/34.036 
+9 500/6.12902 
+0.50/12.7 
+12/30.48 
+14.6/37.084 
+11 300/7.290308 
+0.50/12.7 
+12/30.48 
+15.9/40.386 
+13 300/8.580628 
+0.50/12.7 
+12/30.48 
+17.1/43.434 
+16 500/10.64514 
+0.50/12.7 
+12/30.48 
+18.9/48.006 
+20 000/12.9032 
+0.50/12.7 
+12/30.48 
+20.0/50.8 
+Note: Applicants should use a minimum ice slab density equivalent to a 0.9 specific gravity 
+unless a different value is considered more appropriate. 
+The applicant should also include in its compliance plan an analysis of the potential 
+installation effects of the Engine induction system. 
+The applicant and the installer should closely coordinate the ice slab sizing. This 
+coordination ensures that potential airframe ice accumulation that can be ingested by 
+the Engine are addressed under CS-E 780(f). 
+(b) 
+Compliance Considerations  
+Compliance may be demonstrated through the standard Engine ice slab ingestion test or 
+by means of a validated analysis procedure that uses an equivalent soft body testing. 
+The test demonstration should use ice slab trajectories aimed at critical Engine locations. 
+Applicants should pick locations based on the ice accretion and shed characteristics of 
+the induction system likely to be installed on the Engine. The most critical impact location 
+should be tested. 
+Engine operation will be at the maximum cruise power or thrust unless lower power or 
+thrust is shown to be more critical. 
+(c) 
+Elements of a Validated Analysis  
+This analytical model may be used alone or in conjunction with the results of a 
+certification medium bird ingestion test. A validated analysis should contain sufficient 
+elements to show compliance. These elements may include: 
+—  full fan (fan Engines) or first stage compressor (non-fan Engines) blade model using 
+the latest techniques such as finite element analysis; 
+—  blade material properties for yield or failure, or both, as appropriate; 
+—  dynamic and time variant capability; 
+—  thrust or power variance prediction if required to account for blade damage; and 
+—  appropriate Engine or component testing, or both, with impact at the outer 1/3 of 
+the first stage blade span location. The fan is the first stage blade row for turbofan 
+Engines. 
+(i) 
+The analysis of the ice slab impact on the fan should properly account for critical 
+controlling parameters: 

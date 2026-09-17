@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 25 of 262 
+ 
+Proper definition of the instructions for continued airworthiness is expected to 
+have anticipated and accounted for such in-service conditions; this programme 
+should however be structured to validate that such in-service differences are 
+properly accounted for. If the data obtained during the execution of the 
+programme indicates that the in-service differences are not properly accounted 
+for, then the data from the programme or from additional Engine testing should 
+be used to modify the instructions as appropriate.  
+(ii) 
+The in-service Engine evaluation programme should include some type of service 
+Engine testing and / or evaluations of service usage of the 30-Second / 2-Minute 
+OEI ratings, although equivalent service Engine test experience on engines of 
+similar design is acceptable as an alternative. This part of the programme would 
+consist of, but not be limited to, one or more of the following elements: 
+— Scheduled tests of in-service Engines imposing three applications of 30 seconds 
+OEI rated power, while either installed in the rotorcraft or in an Engine test 
+cell. For selected representative aged engines, the programme would include 
+number and frequency of samples, as well as inspection and test specifications. 
+Such specifications should include the recording of data on the available power 
+and the identification of the hardware condition before and after 30-Second 
+and 2-Minute OEI rating usage.  
+— Unscheduled tests of engines of opportunity imposing three applications of 30 
+seconds OEI rated power. The programme may include actions to be taken 
+when Engines become available that meet certain predetermined criteria. 
+Definition of selection criteria for representative aged engines should be 
+included in the programme. Inspection / test specifications on such engines 
+should include the recording of data on the available power and the 
+identification of the hardware condition before and after 30-Second and 2-
+Minute OEI rating usage.  
+— Service usage of 30-second/2 minute OEI rated power. This may include 
+recorded power available data, post usage power available data and / or 
+results of the mandatory maintenance and inspection actions.  
+— The equivalent service test on engines of similar design is acceptable although 
+it should be demonstrated as being representative.  
+The aircraft certification testing of the 30-Second and/or 2-Minute OEI ratings 
+could also provide additional recorded data with respect to available power, post-
+usage power data and results of hardware maintenance and inspection of the 
+Engine, to support the programme. 
+In addition to the tests on engines from service, the in-service evaluation 
+programme may also include test evidence from development or certification tests 
+to reduce, but not eliminate, the required number of engines from service. 
+During the execution of the in-service evaluation programme, the instructions for 
+continued airworthiness should be modified as necessary, based on the results. 
+Similarly, if circumstances warrant, the programme itself may be modified, as 
+additional in-service data become available. 
+(iii) 
+The information or actions needed from the operator to support the in-service 
+evaluation programme may be prescribed in the airworthiness limitation section 
+of the instructions for continued airworthiness. 

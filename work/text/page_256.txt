@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 256 of 262 
+ 
+(e)  
+In showing compliance with CS-E 1030(b)(7), justification of the proposed dispatch 
+intervals should be based on a reliability analysis. The reliability analysis is typically the 
+result of a model of the EECS, like a Markov Model or a Fault Tree Analysis, and is based 
+largely on electronic component databases for failure rates.  
+A Summary Report of the Engine Control System time-limited-dispatch analysis should be 
+prepared and made available to the installer. This report should contain the list of the non-
+dispatchable and time limited dispatch configurations.  
+A means to monitor the in-service LOTC/LOPC rate should be established. This should compare 
+service experience of component Failures with the modes, effects, rates, and exposure times 
+predicted in the TLD analysis. The data collected by this means may be used to support 
+applications for changing dispatch intervals and may be incorporated into the system required 
+by Part 21A.3. 
+Entry level and mature level EECSs are differentiated to consider factors not included in a 
+reliability analysis.  
+A mature level system is an EECS that has achieved a stable in-service LOTC/LOPC rate that 
+meets the required LOTC/LOPC rate for the intended application and is consistent with the 
+analysis on which TLD approval is based. For engines installed in large transport aeroplanes this 
+might not be achieved until 250,000 Engine flight hours in-service operation have been 
+accumulated. 
+An EECS is classified as an entry-level system if it is not a mature level system.  
+The applicant may request alleviation from entry level classification if it has sufficiently similar 
+systems operating in the field that have accumulated enough flight hours to establish stable 
+behaviour over time. Such applications will be reviewed on a case-by-case basis.  
+A reliability analysis is typically based on electronic component databases. These databases 
+consider components to be mature and, hence, only random Failures are considered. Failures 
+due to design, manufacturing, quality and operating environment of the EECS, as well as 
+maintenance errors, are not included.  
+Since such failures due to design, manufacturing, quality and operating environment of the 
+EECS, as well as maintenance errors, are not covered by the reliability analysis, and because 
+these Faults tend to be exposed and corrected only as in-service time is accumulated, the EECS 
+is classified as an entry-level system and appropriate limitations are applied as shown in Table 
+2. Thus, more conservative criteria for dispatch intervals for entry-level systems are applied 
+compared to mature level systems, even though the reliability analysis may support dispatch 
+for a longer dispatch interval for entry-level systems. 
+The TLD analysis report should include a tabulation of the various proposed dispatch 
+configurations and provide: (1) the expected frequency of occurrence of the Faults leading to 
+those dispatchable configurations; and (2) the LOTC/LOPC rate of the system when operating in 
+those configurations.  
+The report should tabulate the chosen category described in paragraph (6) for each Fault 
+covered in the analysis. The report should also show that the exposure time chosen for the short 
+and long time Fault categories allows the EECS to continue to meet its reliability requirements.  
+(6) 
+Dispatch Categories 
+The dispatch intervals determined in compliance with CS-E 1030(b)(7) and (c) are usually 
+grouped into dispatch categories. 

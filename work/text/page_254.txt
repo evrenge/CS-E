@@ -1,0 +1,56 @@
+ 
+CS-E — Amendment 8 
+SUBPART F — TURBINE ENGINES - 
+ENVIRONMENTAL AND OPERATIONAL 
+DESIGN REQUIREMENTS 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 254 of 262 
+ 
+The objective of TLD is to allow dispatch with certain EECS Faults present but without them 
+compromising the prescribed fleet-wide average LOTC/LOPC rates and Hazardous Engine 
+Effects rates. 
+TLD methodology is one way of managing dispatch with EECS Faults. Faults in systems or 
+equipment other than EECS or EECS Faults other than loss of redundancy are typically addressed 
+through the Master Minimum Equipment List (MMEL). Figure 2 illustrates the various ways of 
+managing dispatch with engine faults. 
+TLD operations have been applied to EECS equipped engines used in multi-engine Aircraft 
+applications, particularly those engines used in large transport Aeroplanes (certified under CS-
+25). The TLD requirements and limitations for those multi-engine Aircraft discussed in this 
+advisory material should be acceptable in single engine Aircraft applications. However, the 
+criteria used to establish acceptable TLD operations may need to be reviewed for those other 
+applications. This assessment of control system reliability and availability requirements for 
+single engine Aircraft applies to both piston and turbine engines.  
+(2) 
+Definitions 
+Definitions may be found in CS-Definitions, CS-E 15 and AMC 20-3. For the purpose of this AMC 
+E 1030 the following additional definitions apply: 
+“Average fault exposure time” means the average period of time between the Fault occurring 
+and that Fault being repaired. It applies when the periodic inspection/repair maintenance 
+approach is used. In this case the time of occurrence of the Fault may not be known. One-half 
+of the periodic inspection interval will be used in the TLD analysis since the Fault could have 
+occurred at any time during the interval. This assumes that the Fault rate of occurrence is 
+constant throughout the interval. If the Fault rate is not constant throughout the interval, the 
+average exposure time should be adjusted accordingly.  
+“Dispatch interval” means the maximum time interval approved for dispatch with Faults 
+present in the system before corrective maintenance is required.  
+“MEL maintenance approach” means that the presence of a detected TLD approved fault in the 
+EECS will be annunciated in the cockpit and that in the presence of the fault indication dispatch 
+will be allowed by including the indication in the MMEL. The operator can then keep the 
+indication listed within their approved MEL and disposition the indication as they do any other 
+MEL items. 
+“Inspection/Repair maintenance approach” means that a periodic inspection and repair 
+strategy has been approved to manage FADEC system faults. Within this approach, the presence 
+of a detected TLD approved fault in the EECS need not be annunciated to the flight crew. The 
+FADEC system must be interrogated by maintenance for the presence of faults during periodic 
+inspections, and the faults found must be repaired within a specified time period or interval, so 
+that the average exposure time of a fault in a particular category does not exceed the maximum 
+average allowed exposure time for that category. 
+(3) 
+Referenced Documents 
+ARP 5107 revB, Time-Limited-Dispatch (TLD) Analysis for Electronic Engine Control Systems, 
+dated November 2006. 
+SAE World Headquarters, 400 Commonwealth Drive, Warrendale, PA 15096-0001, USA.  
+(4) 
+Time Limited Dispatch Analysis 

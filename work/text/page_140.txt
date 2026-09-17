@@ -1,0 +1,59 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 140 of 262 
+ 
+(A)  
+For Engines for Aeroplanes:  
+30 minutes at Maximum Continuous Power or Thrust followed by one 
+hour at Continuous OEI Power or Thrust.  
+(B) 
+For Engines for Rotorcraft –  
+Either (for Engines to be approved with a Continuous OEI rating) 
+30 minutes at Maximum Continuous Power followed by 1 hour at 
+Continuous OEI Power or (for Engines to be approved with a 30-
+Minute OEI Rating) 1 hour at Maximum Continuous Power followed 
+by 30 minutes at 30-Minute OEI Power. A Continuous OEI Rating and 
+a 30-Minute OEI Rating at a higher power level can be cleared in the 
+same test, if desired, by running 30 minutes at Maximum Continuous 
+Power followed by 30 minutes at Continuous OEI Power and then 
+30 minutes at 30-Minute OEI Power. 
+For an Engine to be approved with the 30-Minute Power rating, the 
+Engine must be run for continuous periods of 30 minutes at the power 
+level and associated operating limitations of the 30-Minute Power 
+rating. These periods must be alternated with periods at Maximum 
+Continuous Power, or less. The accumulated total additional running 
+time shall be 25 hours at the 30-Minute Power rating, and the time 
+spent at ‘standard’ Take-off Power shall not be counted towards this 
+total. 
+Part 4  2 hours and 30 minutes covering the range in 15 approximately equal 
+increments from Ground Idling, or, for rotorcraft Engines, minimum test bed 
+idle, up to but not including Maximum Continuous Power.  
+Part 5  30 minutes of accelerations and decelerations consisting of 6 cycles from 
+Ground Idling, or, for rotorcraft Engines, minimum test bed idle, to Take-off 
+Power or Thrust, maintaining Take-off Power or Thrust for a period of 30 
+seconds, the remaining time being at Ground Idling, or, for rotorcraft 
+Engines, minimum test bed idle.  
+(ii) 
+If only one additional rating is required, then the periods at the rating that is not 
+required must be run at the power or thrust level appropriate to the next rating 
+down the scale. 
+(iii) 
+If a constructor desires an en-route OEI rating for 30 minutes only, then the 
+appropriate FAR 33.87 Schedule may be used in place of this Schedule. If this 
+option is taken and a 2½ - Minute OEI Power rating is also desired, then the 
+appropriate Schedule of FAR 33.87 must be used. 
+(3) 
+For Engines with 30-Second and 2-Minute OEI Power ratings (See AMC E 740(c)(3)), 
+(i) 
+If a Continuous OEI Power rating is associated with the 30-Second and 2-Minute 
+OEI Power ratings, the following tests must be conducted and must be 
+complemented by the additional test of CS-E 740(c)(3)(iii): 
+25 six-hour stages, each stage comprising – 
+Part 1 One hour of alternate 5 minute periods at Take-off Power and minimum test 
+bed idle.  
+Part 2  

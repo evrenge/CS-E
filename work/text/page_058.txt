@@ -1,0 +1,55 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 58 of 262 
+ 
+assembly, vent line assembly, filler cap and scupper, mounts, shutoff valve, temperature sensor, 
+and air/fluid separator assembly. Tanks can be designed and manufactured with any 
+combination of the above features, or other features not listed, and of varying materials.  
+Therefore, in some instances, compliance with CS-E 130 may need to be supported by data from 
+other fire tests, multiple location testing, sub component level tests, or service experience, to 
+cover all tank assembly features.  
+Also, other aspects of determining impingement location should be considered, such as vent 
+system performance (experience has shown that oil tank fire tests have failed due to high 
+internal pressure and inadequate venting), the lack of heat sink effect for tank features at or 
+above the operating level of the tanks fluid contents and the effect of any special protective 
+features (shields, coatings, feature placement, etc.) incorporated into the design.  
+With respect to fluid quantity, the tank quantity at the start of the test should be no greater 
+than the minimum dispatchable quantity, unless a greater quantity is more severe. Relative to 
+flow rate, the first 5 minutes of the test should be conducted at the most critical operating 
+condition (typically a minimum flight idle flow rate) and the subsequent 10 minutes should be 
+conducted at an Engine shutdown flow rate with consideration of the effect of any continued 
+rotation. The test may be run, at the applicant’s option, for 15 minutes at the most critical 
+condition (worst case of Engine operating or in flight shutdown conditions).  
+With respect to fluid temperature, this should be at its maximum value (the greatest of steady 
+state or transient limit) at the start of the test, unless a lower temperature is more severe. The 
+tank internal pressure should be the normal working pressure for the operating conditions at 
+the start of the test. It is understood that these values may change due to the test conditions.  
+The tank design and its intended application should be reviewed to provide reasonable 
+assurance that the test set-up reflects the most critical flame impingement orientation and 
+operating conditions for the intended application.  
+(6) 
+Drain and Vent Systems 
+CS-E 130(b) allows certain parts to be exempt from the specifications because they do not 
+typically contain or convey flammable fluids during normal Engine operation. This refers to 
+normal operation in a typical flight mission. It is not intended to impose a fire resistance 
+demonstration for all parts of the Engine which might contain, convey or be wetted by 
+flammable fluids in all possible Failure scenarios.  
+An example of parts which might be exempted is a combustor drain system which typically 
+drains off residual fuel after an aborted Engine start. This might also be the case of the majority 
+of individual drains and vents.  
+However, a shrouded fuel line is considered as being a single assembly which cannot be 
+dissociated into the main fuel line and its envelop (acting as a drain in case of a Failure in the 
+main fuel line) and should comply with CS-E 130 as a component carrying flammable fluid. In 
+this particular case, after the exposure to the flame, the external envelope may be destroyed 
+provided the general pass / fail criteria described in paragraph (2)(d) of this AMC are complied 
+with. 
+In the case of a drain and vent system which would flow a hazardous quantity of flammable 
+fluid during continued rotation after shut down of the Engine, then a fireproof standard may be 
+appropriate. The function of each drain or vent should be carefully reviewed in making these 
+determinations  
+(7) 
+Air Sources 

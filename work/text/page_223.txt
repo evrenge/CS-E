@@ -1,0 +1,53 @@
+ 
+CS-E — Amendment 8 
+SUBPART E – TURBINE ENGINES: TYPE 
+SUBSTANTIATION 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 223 of 262 
+ 
+— analysis based on component testing;  
+— dynamic simulation verified by test; or  
+— experience with similar designs.  
+(iv)  
+Engine operation  
+— A momentary, 3 seconds maximum, power or thrust decrease below the 
+required value of each segment, or when setting power between 
+segments, is acceptable.  
+— A power or thrust loss of greater than 3 seconds duration below the 
+required value of each segment, or when setting power between 
+segments, is considered to be a sustained power loss.  
+(v)  
+Run-on sequence requirements  
+— The total test duration may exceed 20 minutes, due to the time used for 
+accelerations and decelerations.  
+— If a percentage of the maximum rated Take-off Power or Thrust is specified, 
+the rotor speed to attain the specified Power setting will vary with the test day 
+conditions.  
+— The Power settings are a percentage of the maximum rated Take-off Power or 
+Thrust, and not a percentage of the actual test day pre-ingestion Power or 
+Thrust specified in CS-E 800(e)(1) or (4).  
+(vi)  
+Core ingestion prediction analyses  
+— Some Engine configurations may include features that reject all bird material 
+from the core intake at the take-off and climb conditions specified in CS-E 
+800(d) and (e)(1). Such Engines would be:  
+— exempt from the recommended climb ingestion criteria;  
+— subject only to the approach core ingestion test; and  
+— required to demonstrate 100 % bird rejection capability by analysis or 
+similarity.  
+— Any analyses used to predict core ingestion will need to be validated using data 
+that may be derived from:  
+— rig testing;  
+— Engine testing; or  
+— field experience.  
+— If the standard CS-E 800(d) MFB core demonstration results in any amount of 
+bird material being found in the core, including a single feather or tissue 
+fluorescence under ultraviolet light illumination, then:  
+— the prediction of zero core ingestion under the climb conditions of CS-E 
+800(e)(1) will be considered to be invalid; and  
+— the core ingestion capability in the climb condition should be 
+demonstrated.  
+(2) 
+Test facility related conditions 

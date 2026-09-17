@@ -1,0 +1,68 @@
+ 
+CS-E — Amendment 8 
+SUBPART A – GENERAL 
+ 
+ 
+Annex to ED Decision 2025/003/R 
+Page 47 of 262 
+ 
+The salt spray demonstration is to verify proper equipment operation after exposure to 
+a salt spray environment. For environmentally sealed equipment, the specification may 
+be substantiated by an analysis that shows that the equipment external materials are 
+immune to a salt spray environment.  
+Testing may be performed according to EUROCAE ED-14 / RTCA/DO-160 sections 14, 
+category S.  
+Fuel System Icing  
+Fuel system equipment normally substantiate their capability to operate in icing 
+environment through system test or analysis.  
+Induction Icing  
+Equipment exposed to Engine gas path or bleed system icing normally substantiate their 
+capability to operate in icing environment through an Engine test or analysis.  
+Fungus  
+The fungus demonstration is substantiated by test or an analysis which shows that no 
+materials which support the growth of fungus are used in the equipment. Testing may be 
+performed as defined in EUROCAE ED-14 / RTCA/DO-160, section 13, category F (Fungus 
+Resistance).  
+Temperature and Altitude  
+The purpose is to verify by test or an analysis that the equipment operates per design 
+intent throughout the Engine flight envelope. Testing may be performed as defined in 
+EUROCAE ED-14 / RTCA/DO-160, section 4.  
+(b) 
+General Environmental Conditions for Electrical /Electronic Equipment. 
+The following environmental conditions should be considered for all electrical / electronic 
+equipment or equipment with electrical / electronic sub-components. Additional 
+advisory material on EMI, HIRF and lightning strikes may be found in AMC 20-1 and 
+AMC 20-3. 
+Table 2  
+Electrical  
+General  
+ENVIRONMENTAL 
+CONDITIONS  
+ACCEPTABLE TESTS/PROCEDURES  
+14  
+Thermal Cycle  
+EUROCAE ED-14 /RTCA/DO-160,  
+Section 5  
+15  
+Explosion Proofness  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 9  
+16  
+Humidity  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 6 or  
+MIL-STD-810  
+17  
+Waterproofness  
+EUROCAE ED-14 / RTCA/DO-160,  
+Section 10 or  
+MIL-STD-810 (RAIN)  
+18  
+EMI, HIRF & lightning  
+See AMC 20-1 and AMC 20-3 
+19  
+Power Input  
+EUROCAE ED-14 / RTCA/DO-160, Section 16 and 
+17 or MIL-STD-704  
+ 
+Thermal Cycle  
