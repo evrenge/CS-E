@@ -35,6 +35,8 @@ Protected against corrosion.
 (e)
 In addition to specifications of CS-E 130(a) and (b), Engine control system components which
 are located in a designated fire zone must be at least Fire Resistant
+(f)
+Unintentional accumulation of hazardous quantities of flammable fluid within the Engine must
 be prevented by draining and venting.
 (g)
 Those features of the Engine which form part of the mounting structure or Engine attachment

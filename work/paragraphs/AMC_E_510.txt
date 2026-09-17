@@ -15,6 +15,7 @@ extent of relevant service experience, the number and complexity of the identifi
 the detectability of contributing Failures.
 Examples of methodologies are Fault Tree Analysis (FTA), Failure Mode and Effects Analysis
 (FMEA) and Markov Analysis.
+AND CONSTRUCTION
 (2)
 Objective.
 The ultimate objective of a safety analysis is to ensure that the risk to the aircraft from all Engine
@@ -63,6 +64,7 @@ the Engine instructions for installation, the list of Failures of aircraft compo
 may result in or contribute to Hazardous or Major Engine Effects. The mode of
 propagation to this effect should be described and the assumed Failure rates should be
 stated.
+AND CONSTRUCTION
 During the aircraft certification, the Engine effect will be considered in the context of the
 whole aircraft. Account will be taken of the actual aircraft component Failure rate.
 Such assumptions should be addressed in compliance with CS-E 30.
@@ -111,6 +113,7 @@ containment has been demonstrated, the Failure of discs, hubs, impellers, large
 rotating seals, and other similar large rotating components should therefore be
 assumed to result in uncontained high-energy debris, causing a Hazardous Engine
 Effect. For such parts, the Extremely Remote probability objective necessary for
+AND CONSTRUCTION
 compliance with CS-E 510 (a)(3), can only be ensured through compliance with CS-
 E 515, supplemented by CS-E 840 and CS-E 850.
 Blades
@@ -155,6 +158,7 @@ should be assessed. An Extremely Remote probability must be demonstrated for
 compliance with CS-E 510 (a)(3).
 (iv)
 Toxic products.
+AND CONSTRUCTION
 CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by
 abnormal Engine operation sufficient to incapacitate the crew or passengers during
 the flight. Possible scenarios include:
@@ -200,6 +204,7 @@ even at low thrust or power, represents a hazard. These circumstances include th
 inhibition of safe evacuation of passengers and crew, directional control problems
 during landing due to the inability to eliminate thrust or power, or the inability to
 ensure safe shut down when required following a Failure.
+AND CONSTRUCTION
 It is acceptable to take account of aircraft-supplied equipment (fuel cut-off means,
 etc.) to protect against the “complete inability” to shut down the Engine.
 The inclusion of this item within the Hazardous Engine Effects should not preclude
@@ -244,6 +249,7 @@ to the installer as part of the Engine instructions for installation.
 Minor Engine Effects.
 It is generally recognised that Engine Failures involving complete loss of thrust or power
 from the affected Engine can be expected to occur in service, and that the aircraft should
+AND CONSTRUCTION
 be capable of controlled flight following such an event. For the purpose of the Engine
 safety analysis and Engine certification, Engine Failure with no external effect other than
 loss of thrust and services may be regarded as a Failure with a minor effect. This
@@ -291,6 +297,8 @@ occurred in service and have caused one or more serious events:
 — Failure to restore oil system or borescope access integrity after routine maintenance
 (oil chip detector or filter check). Similar consideration should be given to other
 systems.
+AND CONSTRUCTION
+— Mis-installation of, or Failure to refit, O-rings,
 — Servicing with incorrect fluids,
 — Failure to install, omitting to torque, under-torquing, or over-torquing nuts.
 Improper maintenance on parts such as discs, hubs, and spacers has led to Failures
@@ -335,6 +343,8 @@ Related documents.
 ED-79A, Guidelines for Development of Civil Aircraft and Systems.
 — Society of Automotive Engineers (SAE), Document No. ARP 926A, "Fault/Failure Analysis
 Procedure".
+AND CONSTRUCTION
+— Society of Automotive Engineers (SAE), Document No. ARP 4761, "Guidelines and
 Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and
 Equipment".
 — Carter, A.D.S., Mechanical Reliability (2nd ed.). Macmillan, 1986.

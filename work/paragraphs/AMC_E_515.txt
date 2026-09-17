@@ -6,6 +6,7 @@
 
 (1)
 Introduction
+AND CONSTRUCTION
 Because the Failure of an Engine Critical Part is likely to result in a Hazardous Engine Effect, it is
 necessary to take precautions to avoid the occurrence of Failures of such parts. Under CS-E
 510(c), they are required to meet prescribed integrity specifications.
@@ -57,6 +58,7 @@ manufacturing and service management processes that should be controlled in orde
 achieve the Engine Critical Part design intent.
 (b)
 Elements of the Engineering Plan
+AND CONSTRUCTION
 The Engineering Plan should address the following subjects:
 — Analytical and empirical engineering processes applied to determine the Approved
 Life.
@@ -80,6 +82,7 @@ the usage of the part to be properly tracked.
 Establishment of the Approved Life — Rotating parts
 The following describes a typical process for establishing the Approved Life of rotating
 parts:
+AND CONSTRUCTION
 The major elements of the analysis are:
 (i)
 Operating conditions.
@@ -127,6 +130,7 @@ on part stress of Engine speed, pressure, part temperature and thermal gradients
 at many discrete Engine cycle conditions. From this, the part’s cyclic stress history
 is constructed. All methods of stress analysis should be validated by experimental
 measurements.
+AND CONSTRUCTION
 (iv)
 Life analysis.
 The life analysis combines the stress, strain, temperature and material data to
@@ -176,6 +180,7 @@ demonstrated that material-, manufacturing- and service-induced anomalies do
 occur which can potentially degrade the structural integrity of Engine Critical Parts.
 Historically, life management methodology has been founded on the assumption
 of the existence of nominal material variations and manufacturing conditions.
+AND CONSTRUCTION
 Consequently, the methodology has not explicitly addressed the occurrence of
 such anomalies, although some level of tolerance to anomalies is implicitly built-in
 using design margins, factory and field inspections, etc. A Damage Tolerance
@@ -224,6 +229,7 @@ established limits.
 4.
 Establishment of a minimum level of damage tolerance capability.
 a. Probabilistic approach.
+AND CONSTRUCTION
 Probabilistic damage tolerance approaches exist to address anomalies described in
 paragraph (3)(d)(v)(2) above. Hereafter are some examples:
 FAA Advisory Circular (AC) 33.70-2, Damage Tolerance of Hole Features in
@@ -270,6 +276,8 @@ of the anomaly;
 — the condition of the surface condition and cleanliness of the parts;
 — the material being inspected (such as its composition, grain size, conductivity,
 surface texture, etc.);
+AND CONSTRUCTION
+— variations in the inspection materials or equipment (such as the specific
 penetrant fluid and developer, equipment capability or condition, etc.);
 — specific inspection process parameters such as the scan index;
 the inspector (such as their visual acuity, attention span, training, etc.). i. Risk
@@ -323,6 +331,7 @@ The process utilised to carry out the probabilistic approach needs to be agreed 
 the Agency.
 The objectives in terms of probabilities of Failures of Critical Parts having
 Hazardous Engine Effects are defined in CS-E 510(a)(3).
+AND CONSTRUCTION
 Note: An individual Failure is considered to be a Failure occurring anywhere in the
 engine as a result of a damage mechanism intended to be addressed by the
 damage tolerance assessment and it is not related to the Failure of an individual
@@ -372,6 +381,7 @@ Anomalies should be treated as sharp propagating cracks from the first
 stress cycle, placed in the most unfavourable orientation and location.
 5.
 Establishment of a Service Damage Monitoring Process.
+AND CONSTRUCTION
 The overall objective of service damage monitoring is to review data obtained from
 field operation of the Engine type design to determine whether there are
 anomalous conditions which require corrective action(s). Appropriate action(s)
@@ -425,6 +435,7 @@ implemented, should be made available to the Agency.
 Establishment of the Approved Life — Static, pressure loaded parts
 (i)
 General Principles
+AND CONSTRUCTION
 The general principles which are used to establish the Approved Life are similar to
 those used for rotating parts.
 However, for static pressure loaded parts, the Approved Life may be based on the
@@ -472,6 +483,7 @@ reversal in the Engine Flight Cycle for example, the fatigue capability in opera
 should be established by an additional analysis.
 If the part is subject to loads in addition to those resulting from differential
 pressure (e.g. flight manoeuvre loads, Engine mounting loads, etc.), an analysis
+AND CONSTRUCTION
 should be made of these additional loads and their effect examined. If the effect
 of these loads is small, it may be possible to simulate them by an addition to the
 test pressure differential. However, if the loads are of significant magnitude or
@@ -518,6 +530,8 @@ Aspects which may be considered include, but need not be limited to:
 — detailed inspection of service run parts, including time-expired parts;
 — review of flight plans;
 — findings during maintenance;
+AND CONSTRUCTION
+— Engine development experience;
 — lessons learned from other engine projects;
 — any in-service events.
 (h)
@@ -563,6 +577,7 @@ and Manufacturing skills:
 — Manufacturing Engineering (Development & Production)
 Hence, this same skill mix should evaluate and approve process validation and the
 procedures for manufacturing change control and non-conformance disposition to
+AND CONSTRUCTION
 ensure that the product of manufacturing is consistent with the design assumptions of
 the Engineering Plan. The intent is that:
 — Manufacturing processes are developed and applied with the appropriate level of
@@ -608,6 +623,7 @@ non-conformance to ensure the product of any repair or maintenance is consistent
 the engineering specification. The intent is that:
 — Repair and maintenance processes and practices are developed with the appropriate
 level of oversight, and with due regard to their possible impact on the life capability
+AND CONSTRUCTION
 of the part. Substantiation programmes are agreed up-front and executed as part of
 the validation process.
 — Changes to such processes and practices are visible to all parties, and are not made
@@ -655,5 +671,7 @@ method for accounting for the number of cycles used in operation at the OEI rati
 may be accomplished by adding a finite number of cycles to the expended life of the
 affected Engine Critical Parts or by using appropriate life reduction factors for each of the
 OEI power excursions.
+AND CONSTRUCTION
+[Amdt No: E/1]
 [Amdt No: E/5]
 [Amdt No: E/7]

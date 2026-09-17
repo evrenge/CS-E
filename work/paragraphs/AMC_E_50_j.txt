@@ -10,6 +10,7 @@ of one Engine becoming inoperative. The flight and operating conditions requirin
 rating may create a high pilot workload to maintain safe flight. Therefore the 30-Second OEI
 rating should be applied and controlled by an automatic means that requires no pilot input or
 control other than termination command. Once activated, it automatically controls the 30-
+Second OEI power and prevents the Engine from exceeding its limits, specified in the Engine's
 type certificate data sheet and associated with this rating. Because the 30-Second OEI rating
 could already use almost all the available margins in the Engine design, it is considered that
 exceeding the limits associated with this rating would likely result in an Engine Failure, which

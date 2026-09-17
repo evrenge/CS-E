@@ -12,6 +12,7 @@ the Engine carcass are electrically bonded together.
 (ii)
 a current path for electrical bonding exists between certain components that are mounted
 externally to the Engine and the main Engine earth.
+With respect to the accumulation of electro-static or electrical charge, the applicant should show that
 the modules, assemblies, components and accessories installed in or on the Engine are electrically
 bonded to the main Engine earth. This may be accomplished by examination of the type design
 drawings, electrical continuity checks, or actual inspection of a representative Engine.

@@ -34,6 +34,8 @@ pitch and rotational speed.
 as part of the Engine, the ability to complete one cycle (i.e. one feather and unfeather)
 when the supply of oil has been reduced to the feathering reserve oil (see CS-E
 570(f)(3)(i)) must be demonstrated.
+(3)
+200 reverse pitch change cycles (braking or manoeuvring, whichever is greater), and
 sustaining the appropriate maximum declared Engine conditions for 1 minute during each
 cycle. In this case, the periods of the endurance test covering the range of cruising
 conditions may be reduced by a total of 3 hours.

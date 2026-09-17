@@ -36,6 +36,7 @@ RWC values at other altitudes may be determined by linear interpolation.
 TABLE A2 – CERTIFICATION STANDARD ATMOSPHERIC HAIL CONCENTRATIONS
 Altitude (feet)
 Hail Water Content (HWC) (grams water/cubic metre air)
+SUBSTANTIATION
 0
 6.0
 7 300
@@ -119,6 +120,7 @@ Hailstone Diameter (mm)
 35.0 – 39.9
 1.50
 40.0 – 44.9
+SUBSTANTIATION
 Contribution to total HWC (%)
 Hailstone Diameter (mm)
 0.75

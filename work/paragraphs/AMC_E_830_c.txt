@@ -6,3 +6,5 @@
 
 In order to comply with CS-E 830(c), it should be shown that an over-speed event does not
 compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.
+SUBSTANTIATION
+[Amdt. No.: E/1]

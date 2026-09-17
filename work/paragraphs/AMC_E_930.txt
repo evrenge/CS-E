@@ -17,6 +17,7 @@ reliability. The ICA may be required by the type certificate holder in the ‘Ai
 Limitations’ section of the ICA or may be recommended at certain intervals. The IMP may
 use hard time-based maintenance programming or on-condition-based maintenance
 programming, or a combination of both.
+SUBSTANTIATION
 (3)
 ‘Initial maintenance inspection (IMI) intervals’. An IMP approach for maintenance tasks
 based on hard time policy (i.e. maximum hours or cycles that an Engine or Engine module
@@ -71,6 +72,8 @@ that the proposed test cycle represents the expected in-service engine flight cy
 including:
 —
 established power/thrust ratings,
+SUBSTANTIATION
+—
 reverse thrust use,
 —
 component stress and temperature,
@@ -132,6 +135,7 @@ demonstrated.
 The accelerated severity cycle test is generally not considered ideal for Engine parts
 whose durability is primarily affected by hours of operation rather than by cycles.
 For those cases, the IMP substantiation may require other test or in-service
+SUBSTANTIATION
 experience data (including, if available, comparison of relevant past IMP
 demonstrations with subsequent successful entry-into-service (EIS) Engine
 experience).
@@ -191,6 +195,8 @@ stress,
 component temperature,
 —
 EGT,
+SUBSTANTIATION
+—
 unbalance vibration.
 (4)
 Test Duration
@@ -248,6 +254,7 @@ inspections,
 intervals,
 —
 accept/reject criteria.
+SUBSTANTIATION
 (6)
 Determination of the IMP
 (i)
@@ -310,6 +317,7 @@ of this AMC should demonstrate that the Engine is fully serviceable as per
 the ICA, unless otherwise accepted by EASA.
 (ii)
 On-Wing Inspection
+SUBSTANTIATION
 (A)
 Borescope Inspection
 The applicant should fully borescope-inspect all accessible gas path stages
@@ -350,5 +358,6 @@ applicant should:
 — substantiate the fixed Engine overhaul period from the test results as per
 paragraph (d)(5)(iii).
 [Amdt No: E/8]
-SUBPART F — TURBINE ENGINES - ENVIRONMENTAL
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 AND OPERATIONAL DESIGN REQUIREMENTS

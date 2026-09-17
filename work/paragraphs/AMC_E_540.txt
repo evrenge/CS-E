@@ -9,6 +9,7 @@ When complying with CS-E 540(a), the substantiation of the strike and ingestion 
 foreign objects such as cleaning cloths, hand tools, rivets, bolts and screws needs only to be
 carried out if these are likely to be more severe than those of the single large bird strike /
 ingestion.
+AND CONSTRUCTION
 As well as being part of the demonstration of compliance with CS-E 540(a), the effects of the
 large bird ingestion test of CS-E 800 on the spinner or any Engine static part, as a result of a bird
 strike, should be assessed against the criteria of CS-E 510. Main frame struts or bifurcation strut

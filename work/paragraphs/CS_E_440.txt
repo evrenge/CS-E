@@ -49,6 +49,7 @@ conditions.
 (iii)
 Limitations not Simultaneously Attainable . If a fixed pitch Propeller is fitted for the
 tests, the Engine must be operated at the maximum power setting or maximum
+SUBSTANTIATION
 crankshaft rotational speed appropriate to the conditions of the tests, whichever
 limitation is reached first.
 (6)
@@ -105,6 +106,7 @@ A 15-hour run in the lower gear ratio consisting of alternate periods of one hou
 Part 2
 at Maximum Continuous Power and speed and ½ hour at 75% Maximum
 Continuous Power and 91% Maximum Continuous speed.
+SUBSTANTIATION
 A 15-hour run in the lower gear ratio consisting of alternate periods of one hour
 Part 3
 at Maximum Continuous Power and speed and ½ hour at 70% Maximum
@@ -160,3 +162,4 @@ The condition of the Engine must be satisfactory for safe continued operation. S
 functioning Engine components and equipment must be functionally checked prior to strip to
 ensure that any changes in function or settings are satisfactory for normal operation.
 [Amdt. No.: E/1]
+SUBSTANTIATION

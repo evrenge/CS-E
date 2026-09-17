@@ -48,6 +48,7 @@ prescribed mandatory post-flight inspection and maintenance actions.
 An Engine can be approved with 30-Second/2-Minute OEI Power Ratings and any combination
 of Maximum Engine Over-torque, Maximum Engine Over-speed and Maximum Exhaust Gas
 Over-Temperature in compliance with CS-E 820, 830, and 870. In such a case, Engine operation
+above the Take-off Rating limits but within the limits established under CS-E 820, 830, and 870
 need not be considered as usage of 30-Second/2-Minute OEI Power Ratings if the event was a
 true over-torque, over-speed or over-temperature event and it can be demonstrated that the
 recording system is able to distinguish between;

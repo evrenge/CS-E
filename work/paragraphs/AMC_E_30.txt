@@ -41,6 +41,8 @@ mounting structure or Engine attachment points that are not Fireproof.
 Electrical Bonding
 Reliance placed on aircraft provisions for electrical bonding of the Engine.
 CS-E 135
+Assumptions
+Specifications/References
 Propeller Functioning Tests
 Propeller system.
 CS-E 180
@@ -120,6 +122,8 @@ Flight relighting envelope.
 Relighting in Flight
 CS-E 910
 PISTON ENGINES
+Assumptions
+Specifications/References
 De-icing and anti-icing
 Temperature rise provided.
 CS-E 230

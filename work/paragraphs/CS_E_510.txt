@@ -15,6 +15,7 @@ Aircraft-level devices and procedures assumed to be associated with a typical
 installation. Such assumptions must be stated in the analysis.
 (ii)
 Consequential secondary Failures and dormant Failures.
+AND CONSTRUCTION
 (iii)
 Multiple Failures referred to in CS-E 510(d) or that result in the Hazardous Engine
 Effects defined in CS-E 510(g)(2).
@@ -72,6 +73,7 @@ The provision of specific instrumentation not otherwise required.
 (4)
 Flight crew actions. These actions must be identified in the operating instructions
 required under CS-E 20(d).
+AND CONSTRUCTION
 (f)
 If applicable, the safety analysis must also consider, but not be limited to, investigation of -
 (1)

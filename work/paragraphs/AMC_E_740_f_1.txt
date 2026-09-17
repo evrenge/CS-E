@@ -11,6 +11,7 @@ AMC indicates an acceptable basis for conducting such supplementary tests.
 The Engine on which the supplementary tests are conducted may be the same Engine as that
 which completed the Endurance Test, or an Engine of a standard similar in all those aspects
 which could be affected by the increased rotational speed.
+SUBSTANTIATION
 (2)
 Where increased rotational speed limitations are desired in respect of both Take-off and
 Maximum Continuous Power/Thrust conditions, the supplementary testing should provide for

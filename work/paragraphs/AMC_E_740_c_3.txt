@@ -6,6 +6,7 @@
 
 (1)
 Two procedures for running the tests required under CS-E 740(c)(3) are acceptable:
+SUBSTANTIATION
 (a)
 After the basic 150-hour endurance test, the Engine may be subjected to a strip
 inspection in accordance with CS-E 740(i)(1).

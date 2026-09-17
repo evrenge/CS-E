@@ -5,6 +5,7 @@
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 170)
+For those systems or components which cannot be adequately substantiated by other tests of CS-E,
 additional tests or analyses must be conducted to demonstrate that the systems or components are
 able to perform the intended functions in all declared environmental and operating conditions.
 [Amdt. No.: E/1]

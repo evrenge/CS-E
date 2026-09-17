@@ -11,3 +11,5 @@ established.
 (b)
 Information necessary for safe operation must be provided in the relevant documentation.
 [Amdt. No. E/4]
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS

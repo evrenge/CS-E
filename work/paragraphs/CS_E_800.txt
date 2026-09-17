@@ -54,6 +54,7 @@ than the mechanical rotor speed of the first exposed stage(s) that, on an ISA
 standard day, would produce 90% of the sea level static Rated Take-off Thrust.
 (ii)
 The bird speed must be 200 knots.
+SUBSTANTIATION
 (iii)
 The bird mass must be at least as defined below:
 Engine Inlet Throat Area (A) m 2
@@ -84,6 +85,7 @@ movement between each step will be 10 seconds or less in duration, except that p
 lever movement for setting theconditions of step 3 will be 30 seconds or less. Within
 step 2, power lever movements are allowed and are not limited.
 Run-on For Large Flocking Bird Rule
+SUBSTANTIATION
 (2)
 Acceptance criteria.
 The test of CS-E 800(c)(1)(v) must not cause:
@@ -111,6 +113,7 @@ determined by analysis or component tests or both. They must include but are not
 limited to the effects of the bird speed, the critical target location and the first
 stage rotor speed. The critical bird ingestion speed must reflect the most critical
 condition within the range of airspeeds for normal flight operations up to 450 m
+SUBSTANTIATION
 (1 500 ft) above ground level, but not less than the V 1 minimum for Engines to be
 installed on aeroplanes.
 (iii)
@@ -152,6 +155,7 @@ any critical exposed locations on the first stage rotor blades, but otherwise
 evenly distributed over the Engine face area.
 TABLE A of CS-E 800
 Medium (flocking) birds
+SUBSTANTIATION
 Additional integrity assessment
 Engine test
 (CS-E 800(d)(1))
@@ -235,6 +239,7 @@ Ingestion into the Engine core of a bird under the conditions prescribed in subp
 A sustained reduction in power or thrust to less than 50 % of the maximum rated
 Take-off Power or Thrust during the run-on specified under paragraph (e)(3)(iii)
 below, that cannot be restored only by movement of the power lever.
+SUBSTANTIATION
 (ii)
 A sustained reduction in power or thrust to less than flight idle power or thrust
 during the run-on segment specified under paragraph (e)(3) below.
@@ -294,6 +299,7 @@ the conditions specified in paragraph CS-E 800(b)(2).
 The following test schedule must be used:
 (i)
 Ingestion followed by 1 minute without any power lever movement.
+SUBSTANTIATION
 (ii)
 Followed by 2 minutes at between 30 and 35 % of the maximum rated Take-off
 Power or Thrust.
@@ -351,6 +357,7 @@ demonstration specified in CS-E 800(b)(1); or
 (ii)
 using a component test at the conditions of CS-E 800(b)(1) or (c)(1), subject to the
 following additional conditions:
+SUBSTANTIATION
 (A)
 All components that are critical to achieving the run-on criteria of CS-E 800(c)
 are included in the component test; and

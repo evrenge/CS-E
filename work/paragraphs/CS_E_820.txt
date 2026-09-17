@@ -19,6 +19,7 @@ The test conditions must be as follows:
 (1)
 A total of 15 minutes run at the Maximum Engine Over-torque to be approved. This may
 be done in separate runs, each being of at least 2½-minutes duration.
+SUBSTANTIATION
 (2)
 A power turbine rotational speed equal to the highest speed at which the Maximum
 Engine Over-torque can occur in service, but not more than the limit speed of Take-off or

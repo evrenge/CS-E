@@ -12,6 +12,7 @@ compliance must be shown with this paragraph CS-E 870.
 (2)
 The test may be run, if desired, as part of the endurance test of CS-E 740. Alternatively,
 test evidence may be provided from an Engine of the same type.
+SUBSTANTIATION
 (3)
 On conclusion of the tests, the stripped condition of the Engine must be satisfactory for
 continued running. (See AMC E 870(a)(3))

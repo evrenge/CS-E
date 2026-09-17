@@ -29,6 +29,7 @@ Calibration Tests. Include a calibration test with each bleed in operation separ
 one with all bleeds in operation. (See CS-E 730)
 (3)
 Endurance Test.
+SUBSTANTIATION
 (i)
 If the applicant uses an endurance test as per CS-E 740(c)(1), (2) or (3), run Stages
 3, 7, 13, 17 and 23 with the bleed(s) in operation during all the conditions of

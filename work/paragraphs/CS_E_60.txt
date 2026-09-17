@@ -29,6 +29,8 @@ E 60(d)):
 Have means, or provision for means, to alert the pilot when the Engine is at the 30-Second
 OEI and the 2-Minute OEI Power levels, when the event begins, and when the time
 interval expires.
+(2)
+Have means or provision for means, which cannot be reset in flight, to
 (i)
 Automatically record each usage and duration of power at the 30-Second and 2-
 Minute OEI Power levels.

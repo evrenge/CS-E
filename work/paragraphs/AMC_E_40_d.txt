@@ -13,6 +13,8 @@ Environmental conditions. (Flight envelope)
 (b)
 Maximum declared Engine conditions for Reversible Pitch Propeller operations.
 (If applicable)
+(c)
+Types of Propellers approved. (If applicable)
 (d)
 Equipment approved for use on the Engine.
 (2)
@@ -69,6 +71,8 @@ Inlet air distortion at the Engine inlet.
 Maximum and minimum fuel pressure.
 (g)
 Maximum and minimum fuel temperature.
+(h)
+Maximum indicated oil temperature for:
 — Take-off conditions.
 — Maximum Continuous conditions.
 — Contingency conditions.

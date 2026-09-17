@@ -10,3 +10,4 @@ any reason while in flight, and means to prevent that continued rotation, are no
 continued rotation during the maximum period of flight and in the flight conditions expected to occur
 with that Engine inoperative must not result in effects that would be unacceptable under CS-E 510.
 [Amdt. No.: E/1]
+AND CONSTRUCTION

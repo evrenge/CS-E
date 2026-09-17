@@ -42,6 +42,7 @@ For compliance with CS-E 170, the functional integrity of the Engine Control Sys
 maintained when subjected to designated levels of electric or electromagnetic induction, including
 effects from external radiation and lightning. The environment, including radiated and conducted
 emissions, to which the Engine Control System and its components are qualified should be entered
+into the Engine instructions for installation, and is considered to be an installation limitation for the
 installer.
 When the installer specifies the environmental conditions of the installation, compliance with this
 specification may be demonstrated by meeting the specified installation specifications.

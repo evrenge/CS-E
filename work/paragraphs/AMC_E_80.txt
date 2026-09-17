@@ -29,6 +29,8 @@ evaluating equipment airworthiness.
 General Environmental Conditions
 The following environmental conditions should be considered for all equipment.
 Table 1
+ACCEPTABLE TESTS/PROCEDURES
+ENVIRONMENTAL CONDITIONS
 1
 EUROCAE ED-14 / RTCA/DO-160,
 High Temperature
@@ -100,6 +102,7 @@ equipment is exposed. Historical specifications can be found in MIL-E-5007 Parag
 4.6.2.2.7. EUROCAE ED-14 /RTCA/DO160 Section 4 tests have been used to show
 compliance.
 Room Temperature
+The room temperature demonstration is to identify any damage caused by extended
 operation at room temperature that could lead to equipment Failure. EUROCAE ED-14 /
 RTCA/DO-160, section 4 tests have been used to show compliance. Historical
 specifications can also be found in MIL-E-5007 Paragraph 4.6.2.2.6. This test may be
@@ -144,6 +147,7 @@ inspected for entry of the test fluid. If evidence of fluid entry is detected, t
 should provide the rationale for accepting the test results based on the criticality of the
 quantity and location of the fluid entry point.
 Salt Spray
+The salt spray demonstration is to verify proper equipment operation after exposure to
 a salt spray environment. For environmentally sealed equipment, the specification may
 be substantiated by an analysis that shows that the equipment external materials are
 immune to a salt spray environment.
@@ -202,6 +206,7 @@ EUROCAE ED-14 / RTCA/DO-160, Section 16 and
 Power Input
 17 or MIL-STD-704
 Thermal Cycle
+The thermal cycle demonstration is to demonstrate that an item of equipment will
 continue to operate and not fail or be damaged when exposed to temperature cycles and
 thermal transients consistent with the declared temperature environment. Equipment
 testing may follow the procedures defined in EUROCAE ED-14 /RTCA/DO-160, Section 5.
@@ -251,6 +256,9 @@ Proof Pressure
 21
 Burst Pressure
 CS-E 640(a)(2)
+22
+AMC E 515(3)(e)
+Pressure Cycling
 23
 CS-E 130 (note: the Engine Control System should
 Fire
@@ -308,6 +316,7 @@ a only
 Hub burst containment at the maximum
 driven speed or the maximum burst speed,
 whichever is the lesser
+Table 6
 REFERENCE
 SPECIFICATION
 Quality control of containment means

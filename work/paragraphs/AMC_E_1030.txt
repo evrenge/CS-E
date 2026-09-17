@@ -10,6 +10,8 @@ This AMC provides guidance for obtaining type design approval of engines with EE
 degraded condition with respect to redundancy when these systems are to be dispatched with
 Faults present for limited time intervals before maintenance actions are required. This is
 commonly referred to as time limited dispatch (TLD).
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 The objective of TLD is to allow dispatch with certain EECS Faults present but without them
 compromising the prescribed fleet-wide average LOTC/LOPC rates and Hazardous Engine
 Effects rates.
@@ -56,6 +58,8 @@ dated November 2006.
 SAE World Headquarters, 400 Commonwealth Drive, Warrendale, PA 15096-0001, USA.
 (4)
 Time Limited Dispatch Analysis
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 The factors and limitations used throughout this AMC, and in Tables 2 and 3 in particular, are
 examples and are used for illustrative purposes only. However, where supporting data and
 analysis are not available, the values quoted may be used as default values.
@@ -105,6 +109,8 @@ Relative to HIRF and lightning, compliance is typically, but not always, address
 conducting the tests in the worst-case dispatchable configuration. This worst case is often
 represented by single channel operation. The other external threats are typically
 addressed by analysis.
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 (e)
 In showing compliance with CS-E 1030(b)(7), justification of the proposed dispatch
 intervals should be based on a reliability analysis. The reliability analysis is typically the
@@ -151,6 +157,8 @@ and long time Fault categories allows the EECS to continue to meet its reliabili
 Dispatch Categories
 The dispatch intervals determined in compliance with CS-E 1030(b)(7) and (c) are usually
 grouped into dispatch categories.
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 The following are typical dispatch categories:
 (a)
 No Dispatch. Configurations that do not comply with CS-E 1030(b) and/or (c) or do not
@@ -200,6 +208,8 @@ Engine has been approved for TLD operations should be recorded in the Engine TCD
 40(d)).
 (9)
 Flight Crew Indication
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 CS-E 1030(e) requires provisions for indication to the flight crew for no-dispatch configurations.
 This does not mean that indication during flight is required. Indication on the ground only is an
 acceptable means of compliance.
@@ -245,6 +255,8 @@ appropriate generic flight deck display of the presence of a long time Fault con
 inspected for long time Faults at an interval, such that if Faults are found, they can be
 repaired so that the average length of time that a Fault is present in the system (i.e.,
 average fault exposure time) does not exceed the specified (insert YYY) hour limitation.
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 Table 2. An Example of Operating Times for TLD Operations associated with the MEL maintenance approach.
 Limitations on Electronic Engine Control System Operations with Faults Present
 Electronic Engine Control
@@ -344,6 +356,8 @@ Notes:
 Times vary depending upon the results of the TLD Analysis.
 (2)
 Should be equal to two times the value of note (1)
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 Figure 1. Example of the analysis results for a system with both Short Time Dispatch and Long Time Dispatch
 In this example,
 — The analysis was conducted with the Short Time dispatch interval set to 300 hours based on the
@@ -357,6 +371,8 @@ accordance with paragraph (4).
 — In the case of an entry level system the short-time Fault category would be limited to an
 operational time period of 125 hours, and Faults in the long-time interval would be limited to an
 operational time of 250 hours. This is in accordance with Table 2.
+ENVIRONMENTAL AND OPERATIONAL
+DESIGN REQUIREMENTS
 — If the long-time Faults were to be addressed using the periodic inspection/repair maintenance
 approach, the inspection/repair interval could not be longer than 500 hours for entry level system
 and 2,700 hours for a mature level system. This in accordance with Table 3.

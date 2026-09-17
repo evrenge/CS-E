@@ -20,6 +20,7 @@ and the excess torque that are likely to occur.
 (ii)
 To comply with CS-E 800(b)(1)(ii)(A), rig tests may be used to determine whether a
 bird of a particular size will pass through the inlet.
+SUBSTANTIATION
 (iii)
 The complete loss of power or thrust is acceptable after the ingestion of the single
 large bird.
@@ -51,6 +52,7 @@ engine can continue to operate, for example to minimise exceedances and/or
 vibration, provided that at least 50% of the Rated Take-off Thrust is maintained.
 However, a momentary thrust drop below this value may be acceptable as long as
 the duration does not exceed 3 seconds.
+SUBSTANTIATION
 (v)
 Following the initial 14 minutes, the thrust is reduced, and a maximum of 30
 seconds is allowed for the applicant to manipulate the thrust lever to find the
@@ -106,6 +108,7 @@ electronic signal sent to the Engine Control System.
 Core Engine flocking bird ingestion test
 (i)
 Determining climb rotor speeds
+SUBSTANTIATION
 The calculation of the core ingestion test Engine rotor speeds associated with the
 climb phase will depend on the aeroplane and the type of flight that is flown. For
 each Engine model and installation (where known), the Engine manufacturer
@@ -152,6 +155,8 @@ demonstration.
 location will depend on the geometric features of the front of the Engine.
 — The core bird target location should be determined so that it maximises the
 amount of core ingested bird material for the core ingestion test by:
+SUBSTANTIATION
+— analysis based on component testing;
 — dynamic simulation verified by test; or
 — experience with similar designs.
 (iv)
@@ -195,6 +200,7 @@ fluorescence under ultraviolet light illumination, then:
 demonstrated.
 (2)
 Test facility related conditions
+SUBSTANTIATION
 (a)
 The test facility should be appropriately calibrated to ensure that those controlling
 parameters defined by the analysis of the critical conditions which cannot be accurately
@@ -246,6 +252,7 @@ Engine would then comply with the specifications.
 (e)
 Input and output data across the Engine interfaces with the aircraft systems should be
 provided by the Engine manufacturer in the instructions for installation regarding the
+SUBSTANTIATION
 expected interaction of the Engine with these systems during ingestion events. Of
 particular interest would be dynamic interactions such as auto surge recovery, any
 propeller autofeather.
@@ -301,6 +308,7 @@ part of the Engine which is not shielded.
 When the CS-E 810 test is proposed as an alternative to the single large bird test (see CS-
 E 800(g)(2)), the demonstration should include consideration of unbalance, as well as
 effects of the axial loading from the bird strike on bearings or other structures.
+SUBSTANTIATION
 (g)
 Artificial birds may be used in the tests if they are internationally standardised and are
 acceptable to the Agency.

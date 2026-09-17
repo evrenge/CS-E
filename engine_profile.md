@@ -20,29 +20,26 @@ Mapped onto CS-E Amendment 8 terms. The left column is the applicant's naming.
 |---|---|---|---|
 | Maximum Continuous Power | Maximum Continuous Power | CS-E 40(a) | Mandatory for all Engines |
 | Maximum Take-off 5 min | Take-off Power | CS-E 40(a) | Mandatory for all Engines |
-| Maximum Take-off 30 min | Rated 30-Minute Power | CS-E 40(b)(4) | **[VERIFY]** — see below |
+| Maximum Take-off 30 min | Rated 30-Minute Power | CS-E 40(b)(4) | Confirmed by applicant |
 | OEI 30 sec | 30-Second OEI Power | CS-E 40(b)(3)(i) | Claimed |
 | OEI 2 min | 2-Minute OEI Power | CS-E 40(b)(3)(ii) | Claimed |
 | OEI Continuous | Continuous OEI Power | CS-E 40(b)(3)(v) | Claimed |
-| OEI override | no CS-E 40 equivalent | — | **[VERIFY]** — see below |
+| OEI override | not a rating | CS-E 50 | Control-system feature, confirmed by applicant. Not a CS-E 40 rating |
 | Flight Idle, Ground Idle | not a CS-E 40 rating | CS-E 745, CS-E 750 | Operating conditions, not ratings |
 
 **Not claimed:** 2½-Minute OEI Power (CS-E 40(b)(3)(iii)), 30-Minute OEI Power
 (CS-E 40(b)(3)(iv)).
 
-### Open items
+### Resolved
 
-- **`Maximum Take-off 30 min`** — read as CS-E 40(b)(4) Rated 30-Minute Power.
-  AMC E 40(b)(3)(7) defines it as "the approved brake horsepower, developed under
-  static conditions at specified altitudes and temperatures within the operating
-  limitations established for the Engine, and limited in use for periods of no
-  more than 30 minutes", settable "at any level between the Maximum Continuous up
-  to and including the take-off rating". Confirm the declared rating matches that
-  definition.
-- **`OEI override`** — not a rating named in CS-E 40. Likely an internal name for
-  a topping or override function rather than a certified rating. Confirm whether
-  it is a declared rating or a control-system feature; if the latter it belongs
-  under CS-E 50, not CS-E 40.
+- **`Maximum Take-off 30 min`** is CS-E 40(b)(4) Rated 30-Minute Power, confirmed
+  by the applicant. AMC E 40(b)(3)(7) defines it as "the approved brake
+  horsepower, developed under static conditions at specified altitudes and
+  temperatures within the operating limitations established for the Engine, and
+  limited in use for periods of no more than 30 minutes".
+- **`OEI override`** is a control-system feature, not a declared rating, confirmed
+  by the applicant. It is therefore assessed under CS-E 50 / AMC E 50 and the
+  CS-E 510 safety analysis, not under CS-E 40 ratings. No CS-E 40 entry.
 
 ## Systems
 
@@ -66,8 +63,11 @@ Mapped onto CS-E Amendment 8 terms. The left column is the applicant's naming.
 one hour at Continuous OEI Power, plus the additional 2-hour test of
 CS-E 740(c)(3)(iii).
 
-**[VERIFY]** how the additional 25 hours that AMC E 740(c)(2)(i) attaches to a
-30-Minute Power rating combines with the CS-E 740(c)(3)(i) schedule.
+Rated 30-Minute Power is claimed, so AMC E 740(c)(2)(i) also applies: the
+applicant "may propose either to include the required additional 25 hours within
+the" endurance test or run them separately. **[VERIFY]** how those 25 hours
+combine with the CS-E 740(c)(3)(i) schedule — the AMC offers a choice and the
+selected option should be agreed with EASA.
 
 ## Effect on the applicability matrix
 

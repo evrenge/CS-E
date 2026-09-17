@@ -34,6 +34,7 @@ To the flight crew or
 To the maintenance crew, if it can be shown that the Engine will continue to
 operate normally with the levels of contamination specified, for a period equal to
 the inspection interval of the impending blockage indicator.
+AND CONSTRUCTION
 (c)
 If a by-pass means is provided on any filter or strainer, it must be designed such that, if the filter
 or strainer element is completely blocked, fuel will continue to flow at an acceptable rate

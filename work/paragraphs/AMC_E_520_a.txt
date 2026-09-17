@@ -8,3 +8,4 @@ In order to minimise the adverse consequences of Failures due to unpredicted hig
 recommended that, normally, the relative fatigue strengths of the blade/disc are graded such that
 they lie in the ascending order: blade form, blade root, disc blade attachment, disc rim.
 [Amdt. No.: E/1]
+AND CONSTRUCTION

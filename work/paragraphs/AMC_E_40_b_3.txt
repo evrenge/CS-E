@@ -25,6 +25,7 @@ While the 30-Second and 2-Minute OEI Power ratings were originally conceived as 
 ratings, using the available margins in the Engine design, and followed by a mandatory Engine
 overhaul, the experience has shown that the manufacturers provide engines with differing
 capabilities and different margins. Therefore some flexibility is possible in defining the
+mandatory maintenance actions, provided they are appropriately validated during certification
 (see also AMC E 25).
 (4)
 These ratings have been intended for one usage per flight in an emergency during the take-off

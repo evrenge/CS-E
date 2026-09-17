@@ -43,6 +43,7 @@ For EECS, AMC 20-1 and AMC 20-3 provides additional and detailed interpretation 
 with special consideration to interfaces with the aircraft, and the Propeller when applicable.
 (3)
 Rotocraft Engines
+For rotorcraft Engine Control Systems that have a power turbine speed governing mode, the
 specification of CS-E 50(a)(3) for modulation of Engine power should be interpreted as the
 ability to manage power as required to maintain power turbine speed within specified limits.
 (4)

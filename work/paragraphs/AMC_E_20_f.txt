@@ -51,6 +51,8 @@ assessment of in-service engines, including the rate of deterioration. The testi
 production will eventually establish Engine-to-Engine variation, but an estimated worst
 variation should be assumed initially, based on the experience of engines of the same or similar
 design.
+(5)
+The applicant should also provide information on methods by which to assure that Engine
 limiter settings would not prevent the Engine from reaching the 30-Second or 2-Minute OEI
 power which would be automatically available in compliance with CS-E 50(j). These limiter
 settings may include Engine speed, measured gas temperature and fuel flow. Particular

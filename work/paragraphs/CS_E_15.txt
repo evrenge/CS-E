@@ -45,6 +45,7 @@ atmospheric pressure.
 Charge Cooling
 means the percentage degree of charge cooling, quantitatively
 expressed as:
+((t2 – t3) / (t2 – t1)) x 100
 where
 t1 is the temperature of the air entering the charge cooler coolant
 radiator in the powerplant,
@@ -97,6 +98,8 @@ to result in a Hazardous Engine Effect.
 Engine Flight Cycle
 means the flight profile, or combination of profiles, upon which the
 Approved Life is based.
+Engineering Plan
+means a compilation of the assumptions, technical data and actions
 required to establish and to maintain the life capability of an Engine
 Critical Part. The Engineering Plan is established and executed as part
 of the pre- and post-certification activities.

@@ -17,6 +17,7 @@ either by blade Failure experience with Engines agreed by the Agency to be of
 comparable size, design and construction, or by blade Failures which have occurred
 during the development of the Engine, provided that the conditions of Engine
 speed, shutdown period, etc., are sufficiently representative;
+SUBSTANTIATION
 (iii)
 by other evidence acceptable to the Agency.
 (b)
@@ -73,6 +74,7 @@ retention member.
 (A)
 For composite fan blades only, the fan blade may be released at the inner
 annulus flow path line, provided that:
+SUBSTANTIATION
 (1)
 tests and analyses, or other methods that are acceptable to the
 Agency, substantiate that the minimum material properties of the fan
@@ -127,6 +129,7 @@ documented in the Manuals required by CS-E 20(d).
 Note (2): The above assessment is required to demonstrate that the likelihood of
 a Hazardous Engine Effect due to blade Failure is low enough to be accepted for
 Engine certification (i.e. Extremely Remote). Additional considerations may be
+SUBSTANTIATION
 applied during aircraft certification to further mitigate the potential effects of
 blade Failures at the aircraft level.
 Note (3): A Hazardous Engine Effect following a blade Failure may be found

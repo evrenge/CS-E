@@ -8,5 +8,5 @@ It must be possible to rotate the crankshaft in controlled slow motion. Where th
 turning gear as distinct from the Propeller, a means of safe guarding the operator against injury, if the
 Engine starts or kicks back, must be provided. It must not be possible to damage the Engine by use of
 the hand-turning gear.
-SUBPART C — PISTON ENGINES, TYPE
+SUBSTANTIATION
 SUBSTANTIATION

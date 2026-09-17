@@ -29,6 +29,7 @@ extension need not cover more than a further 2 percentage points increase beyond
 (d)
 The surveys must also cover the aerodynamic and aeromechanical factors which might induce
 or influence flutter in those systems susceptible to that form of vibration.
+SUBSTANTIATION
 (e)
 Evaluations must be made of the effects on vibration characteristics of operating with
 scheduled changes (including allowance for tolerances) to variable vane angles, compressor

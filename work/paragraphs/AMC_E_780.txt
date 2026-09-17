@@ -43,6 +43,7 @@ Ice Shed Cycle: The time period required to build up and then shed ice on a prop
 system surface for a given power and icing condition. A shed cycle can be identified
 visually (for example, with high-speed cameras), and with Engine instrumentation (such
 as vibration pickups, temperature probes, pressure probes, speed pickups, etc.). The ice
+SUBSTANTIATION
 shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed
 and the adhesive strength of the ice to the surface. In general, ice adhesive strength
 increases as surface temperature decreases.
@@ -93,6 +94,7 @@ damage from repeated icing conditions encounters. This should include the exposu
 repeated induced vibration loads (at frequencies and magnitudes corresponding to the
 vibration spectrum predicted using available test evidence) and to repeated shed ice
 impacts.
+SUBSTANTIATION
 Limited Engine damage should satisfy the following criteria:
 (a)
 Continued In-Service Use. The applicant should evaluate any resultant Engine
@@ -145,6 +147,7 @@ Propeller which affect the Engine air intake), and Engine air data probes. Separ
 assessment and/or testing of the air intake, Propeller and air data probes are not
 excluded but in such circumstances, the details of the assumed Engine installation will be
 defined in the manuals containing instructions for installing and operating the Engine
+SUBSTANTIATION
 (under CS-E 20(d)). It would then finally be the responsibility of the aircraft manufacturer
 to show that the Engine tests would still be valid for the particular air intake and Propeller,
 taking into account:
@@ -188,6 +191,7 @@ drop icing conditions, and falling and blowing snow conditions.
 The test altitude need not exceed any limitations proposed for aircraft approval, provided
 that a suitable altitude margin is demonstrated, and the altitude limitation is reflected in
 the manuals containing instructions for installing and operating the Engine.
+SUBSTANTIATION
 (1.7) Compliance of Rotorcraft Engines with Icing Conditions
 Specific provisions for rotorcraft Engines are currently not included in this AMC. Until
 guidance has been established, the necessary compliance method required for rotorcraft
@@ -237,6 +241,7 @@ fusion effects, metal-to-ice heat transfer effects, and ice-insulating effects).
 (iii)
 For anti-iced parts, the CPA should identify a critical test point determined
 from energy balance calculations of required heat loads encompassing the
+SUBSTANTIATION
 range of possible combinations of icing conditions and Engine power/thrust.
 The effects of non-aerodynamic ice formations and their shedding as well as
 runback ice shedding should be assessed.
@@ -288,6 +293,7 @@ Engine Operability.
 The applicant should consider Engine operability as part of their CPA. Engine
 accelerations and decelerations relative to operability challenges (for
 example, surge and stall) should also be considered. The most adverse
+SUBSTANTIATION
 Engine bleed settings for the condition being analysed should be assumed
 to minimise the operability margin. The establishment of CPA points should
 consider those conditions where the minimum operability margin is
@@ -337,6 +343,7 @@ been observed.
 At the conclusion of each test point, the Engine should be run up to the
 maximum power/thrust corresponding to the test conditions, using a one
 second thrust/power lever movement, to demonstrate any effect of ice
+SUBSTANTIATION
 shedding. If repeat build/shed cycles have been established, the acceleration
 should be delayed to maximise the impact energy of the ice shed.
 Table 1 — Standard test points
@@ -411,6 +418,7 @@ environment. It also allows accurate control of the icing conditions. However, i
 recognised that such facilities are not always available, and alternative test
 methods are also considered acceptable, providing that evidence demonstrates
 that such testing is at least as severe.
+SUBSTANTIATION
 When a non-altitude test is used to simulate in-flight icing conditions, any
 differences in Engine operating conditions, LWC, ice accretion, and
 sheddingbetween the altitude condition to be simulated and the test conditions,
@@ -465,6 +473,7 @@ be assessed in realistic flight conditions. For example, in realistic flight con
 the ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced
 by the rotor speed and the adhesive strength of the ice to the surface. The adhesive
 strength of ice generally increases with decreasing surface temperature. The ice
+SUBSTANTIATION
 thickness, ice properties and rotor speed at the time of the shed define the impact
 threat.
 (2.3) Establishment of Test Points for Ground Operation
@@ -539,6 +548,7 @@ ice condition
 (Note 2)
 comparative
 analysis) or
+SUBSTANTIATION
 combination of the
 two.
 Note 1: These conditions are provided as a guide, but they may need to be modified to address the
@@ -587,6 +597,7 @@ variable geometry with stagnation points outside the flow path that could
 lead to accreted ice re-entering the flow path upon geometry movement;
 (vii) airfoils with low tolerance to soft body damage immediately downstream of
 a potential ice accretion location;
+SUBSTANTIATION
 (viii) Engine control sensors and measurement systems which may be affected by
 operation in ice crystal conditions and which may result in unacceptable
 control system response;
@@ -643,6 +654,7 @@ Area (inch²/m²)
 0/0
 0/0
 3.6/9.144
+SUBSTANTIATION
 0.25/6.35
 3.6/9.144
 6/15.24
@@ -724,6 +736,8 @@ Engines.
 (i)
 The analysis of the ice slab impact on the fan should properly account for critical
 controlling parameters:
+SUBSTANTIATION
+— relative kinetic energy normal to the leading edge chord,
 — incidence angle — relative slab speed and blade speed,
 — slab dimensions,
 — sab orientation, and
@@ -775,6 +789,7 @@ loss.
 Applicants should also demonstrate by test that any cracks, tears or
 blade piece breakout will not result in ‘unacceptable sustained power
 or thrust loss’ within 100 flight cycles (considered sufficient to allow
+SUBSTANTIATION
 Engine operation until the next scheduled ‘A’ check). Furthermore,
 any damage resulting from this test should be documented in the
 manuals containing instructions for installing and operating the
@@ -827,6 +842,7 @@ critical probe icing conditions. In that respect, the guidance material of AMC 2
 should be used along with appropriate consideration of the installation effects and dependence
 on Engine airflow. In doing that, the substantiation may be limited to the icing environment
 applicable to the aircraft on which the Engine is to be installed.
+SUBSTANTIATION
 In assessing whether data from an Engine air data probe is critical, the Engine system(s)
 response to erroneous in-range data and to data during transitions to/from icing conditions
 should be considered.
@@ -876,6 +892,8 @@ the Engine configuration);
 —
 effects that may be observed during or after the encounter with icing conditions, such as
 vibrations, temporary power/thrust loss, change in Engine power/thrust response;
+SUBSTANTIATION
+—
 anomalous Engine behaviour that has been found acceptable following ice shed
 ingestion;
 any damage observed following the icing tests considered acceptable by the applicant and by

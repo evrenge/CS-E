@@ -57,6 +57,7 @@ means to be Fireproof. It should then be determined which level of fire protecti
 be shown for each component requiring a fire protection evaluation.
 The 5-minute exposure which is associated with a “Fire-Resistant” status provides a
 reasonable time period for the flight crew to recognise a fire condition, shut down the
+appropriate Engine and close the appropriate fuel shutoff valve(s). This cuts off the
 source of fuel.
 Oil system components of turbine Engines, however, may continue to flow oil after the
 Engine has been shut down because of continued rotation. The supply of oil to the fire
@@ -102,6 +103,7 @@ At no time during or at the end of the test should the test article leak a hazar
 quantity of flammable fluid.
 (iii)
 Support of combustion
+Consideration should be given to non-self-extinguishing fire test events. This type
 of event could be either combustion of the constituent material of the test article
 or combustion of flammable fluid leaking from the component. In general, these
 events should continue to be cause for Failure of the test, unless it can be shown
@@ -150,6 +152,7 @@ sustained fire, then it should be shown that a titanium fire does not result in 
 Engine Effect.
 Based on experience, the following precautions can reduce the susceptibility of Engines
 to titanium fires:
+— The type of alloy i.e. its constituents other than titanium;
 — Blade / casing coatings or mechanical linings which inhibit ignition or subsequent
 combustion;
 — The way in which the design minimises potentially dangerous rubs by such methods
@@ -196,6 +199,7 @@ Acceptable procedures for calibration of the relevant burners for the tests, and
 standard flame, are defined in the ISO 2685 standard.
 A pre test calibration to verify that the standard flame temperature and heat flux is
 achieved is necessary for each test. To ensure that flame conditions are constant
+throughout the test either the flow parameters should be shown to be constant
 throughout the test or a post-test calibration should be performed to show equivalency
 with pre-test values.
 (b)
@@ -243,6 +247,7 @@ test conditions or meet the test pass / fail criteria).
 In selecting the flame application location, the tank installation and all features of the tank
 assembly should be considered. Typical tank features include, but are not limited to tank body,
 inlet and outlet assemblies, sight glass, drain plug, magnetic chip detector, quantity sender
+assembly, vent line assembly, filler cap and scupper, mounts, shutoff valve, temperature sensor,
 and air/fluid separator assembly. Tanks can be designed and manufactured with any
 combination of the above features, or other features not listed, and of varying materials.
 Therefore, in some instances, compliance with CS-E 130 may need to be supported by data from
@@ -289,6 +294,7 @@ appropriate. The function of each drain or vent should be carefully reviewed in 
 determinations
 (7)
 Air Sources
+In accordance with CS-E 130(a), the applicant should evaluate the effect of fire on components
 conveying bleed air and evaluate whether Failure of such components could further increase
 the severity or duration of a fire within a fire zone.
 (8)

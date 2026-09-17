@@ -46,6 +46,8 @@ certificate data sheet.
 (d)
 Operating limitations appropriate to the intended operating conditions for the Engine must be
 established (see AMC E 40(d)).
+(e)
+The Engine’s rated Powers/Thrusts and any operating limitations established under this CS-E 40
 which must be respected by the crew of an aircraft must be listed in the Engine type certificate
 data sheet specified in point 21.A.41 of Part 21. The Engine type certificate data sheet must also
 identify, or make reference to, all other information found necessary for the safe operation of

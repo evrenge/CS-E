@@ -18,6 +18,8 @@ Where it is permitted to carry out certain tests with the engines installed in t
 relevant manual(s) should provide information on the way in which minimum installed
 performance levels will be verified (if necessary) and related to the static sea-level test-bed
 ratings approved for the Engine.
+(3)
+The manuals required under CS-E 25 should include, where applicable, details of the division of
 the Engine into modules, giving the nomenclature and clearly defining the boundaries for each
 module.
 (4)
@@ -68,6 +70,7 @@ Validation of mandatory post-flight inspection and maintenance actions.
 (i)
 Under CS-E 40(f), at any time during its service life, the Engine should be
 maintained in a condition which would assure that the 30-Second and 2-Minute
+OEI ratings can be attained and sustained. This specification has a bearing on both
 power assurance procedures and instructions for continued airworthiness. The
 mandatory maintenance following the use of 30-Second or 2-Minute OEI rating
 should be capable of identifying and correcting any component distress which
@@ -117,6 +120,7 @@ Similarly, differences may exist in hardware condition and power assurance
 characteristics from in-service engines after usage of the 30-Second or 2-Minute
 OEI ratings versus similar parameters observed following the two-hour additional
 endurance test of CS-E 740(c)(3)(iii).
+Proper definition of the instructions for continued airworthiness is expected to
 have anticipated and accounted for such in-service conditions; this programme
 should however be structured to validate that such in-service differences are
 properly accounted for. If the data obtained during the execution of the
@@ -164,6 +168,8 @@ additional in-service data become available.
 The information or actions needed from the operator to support the in-service
 evaluation programme may be prescribed in the airworthiness limitation section
 of the instructions for continued airworthiness.
+(5)
+For an Engine with a 30-Minute Power rating, the usage of this rating should be considered in
 the establishment of instructions for continued airworthiness. Usage limitations, such as the
 cumulated time limit for the 30-Minute Power rating, should be specified in the appropriate
 section of the ICA. Instructions should also be included for when these limits are reached.

@@ -46,6 +46,7 @@ The corrected speed of the rotating elements of a module is the rotational speed
 Speed (Nc):
 normalised to a standard inlet temperature of 15°C in accordance with the formula:
 Nc = Nr/(T inlet/288) 𝑒
+SUBSTANTIATION
 where T inlet is the module gas path inlet temperature in Kelvin and the exponent e is
 determined empirically but has a typical value of 0.5. Corrected speed is a parameter
 widely used in performance modelling.
@@ -109,6 +110,7 @@ baseline, the following conditions apply:
 Rig testing
 Normally, a full Engine test is the preferred means to complete the survey. However, an
 applicant may elect to use rig tests for overcoming limitations associated with a full
+SUBSTANTIATION
 Engine test, such as the amount of instrumentation capable of being fitted or the range
 of inlet conditions that can be tested. Rig tests generally consist of testing full or part of
 Engine modules. If rig tests are employed, the applicant should demonstrate that all
@@ -157,6 +159,7 @@ strain gauges should maintain their accuracy throughout the test conditions, par
 when repeatedly exposed to high temperatures for extended periods. The applicant
 should aim to take measurements at locations which are sensitive to the peak responses
 of interest but are also tolerant of a degree of mislocation/alignment variability. When
+SUBSTANTIATION
 these locations are not suitable or accessible for that purpose, stresses may be measured
 nearby provided that the relationships between the stresses at these locations and those
 at critical locations are known and predictable. To identify the accessible locations that
@@ -206,6 +209,7 @@ Engine tests may be conducted by means of flight test or in altitude facilities 
 such that the effects of altitude and temperature are properly represented and can be
 evaluated. Suitable test equipment and instrumentation should be used for each situation. The
 dependency of certain vibratory phenomena on temperature and altitude can be characterised
+SUBSTANTIATION
 as a dependency on corrected speed, which enables such phenomena to be investigated by
 means of sea-level testing, provided that the entire required corrected speed range can be
 achieved. In general, a high corrected speed implies that the airflow over the blading has a high
@@ -256,6 +260,7 @@ The presence of flutter may be acceptable in some circumstances, for example in 
 range encountered only briefly or infrequently, or where the flutter amplitude is limited
 to a safe level. However, the resulting vibration stresses must always satisfy the
 requirements of CS-E 650(f). A thorough investigation of the flutter response and its
+SUBSTANTIATION
 effects should be completed to show that the flutter does not result in a Hazardous
 Engine Effect. The investigation may include testing as required under paragraph (10)
 below for a significant response.
@@ -312,6 +317,7 @@ the hardware standard, the intake conditions and margins to account for Engine
 deterioration.
 (9)
 Variations in Material Properties and Natural Frequencies
+SUBSTANTIATION
 Allowance should be made as follows for the permitted variations in material properties, critical
 dimensions and resulting natural frequencies of production components when interpreting test
 results or making analytical predictions:
@@ -358,6 +364,7 @@ with CS-E 650(f). This dwell testing would normally be incorporated into the inc
 of the CS-E 740 Endurance Test as required by CS-E 740(g)(1).Components subjected to such
 dwell testing should subsequently also meet the strip inspection requirements of CS-E 740(i).
 (11) Transient Response
+SUBSTANTIATION
 Consideration should also be given to the speed range from zero to minimum rotational speed,
 especially in the case of supercritical shafts. Some predicted potentially damaging transient
 responses may require an aggressive control input to provoke a representative response.
@@ -407,6 +414,7 @@ to those of the Engine in the baseline test.
 (iii)
 An Engine or rig test specifically run to support the creation of the validated
 analysis.
+SUBSTANTIATION
 The design characteristics and operating conditions run in the baseline test(s) should be
 shown to be sufficiently similar and inclusive of the domain of applicability for the Engine
 being certified, as defined in this AMC, paragraph (14)(b)(i), (ii) and (iii).
@@ -449,6 +457,8 @@ measured and calculated mode shapes. Close matching of mode shapes
 implies that response to the same forcing will be similar;
 — mechanical damping levels; any difference will be directly reflected in
 the resonant response level or flutter suppression;
+SUBSTANTIATION
+— mistuning levels; the degree of scatter in frequency between blades
 will strongly influence the vibration amplitudes variability in a bladed
 disc and will have a stabilising influence on flutter.
 — All structural dynamic characteristics affected by:
@@ -490,6 +500,8 @@ baseline test(s) used to create the validated analysis, and the analysis perform
 on the Engine for which approval is currently sought.
 Examples where validated analysis may be used include but are not limited to the
 following:
+SUBSTANTIATION
+—
 Where test speeds required by CS-E 650(b) and (c) are not achieved, by
 agreement with the Agency as described in paragraph (4)(b) of this AMC. The
 validated analysis would be expected to cover the speed range(s) or

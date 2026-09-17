@@ -11,6 +11,7 @@ operated ignition system, the specifications of CS-E 720(b) together with either
 (b)
 Separate tests as agreed by the Agency must be conducted to show that continuous ignition
 systems are safe and effective in the conditions for which their use is permitted or required.
+SUBSTANTIATION
 (c)
 The system must be operated during a suitable Engine endurance test for periods
 representative of the duration and frequency of operation of the system during likely service

@@ -5,6 +5,7 @@
 # source: CS-E_Amendment_8.pdf
 
 (see AMC E 380)
+SUBSTANTIATION
 (a)
 Tests shall be carried out to demonstrate that the Engine can be started under the lowest
 temperature conditions to be approved, without causing damage to the Engine. At least 25

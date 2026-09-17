@@ -1,4 +1,4 @@
-# Project: CS-E Amendment 8 — Turboshaft Plain-Language Deck
+# Project: CS-E Amendment 8 — Turboshaft Plain-Language Vault
 
 ## Audience
 Turkish gas turbine engineers. Strong technical background, English is a second language.
@@ -8,46 +8,101 @@ Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF
 ## Source of truth
 - source/CS-E_Amendment_8.pdf is the ONLY authority for requirement content.
 - Change Information PDFs are used ONLY to tag what changed in Amdt 7 / Amdt 8.
-- Never use memory or general knowledge for requirement content. If the source does not say it, it does not go on a slide.
+- Never use memory or general knowledge for requirement content. If the source does not say it, it does not go in a note.
 
 ## Scope
 - Turbine engine rules only: Subparts A, D, E, F (per CS-E 10(d)). Exclude Subparts B and C.
-- Turboshaft (rotorcraft) application only. Classify every paragraph as:
-  APPLIES / CONDITIONAL (depends on engine variables below) / EXCLUDED (give reason).
+- Turboshaft (rotorcraft) application only. Classify every paragraph as
+  APPLIES / EXCLUDED (give reason). A paragraph classified EXCLUDED gets no note.
 - Aeroplane-only AMCs, thrust reverser, propeller, ETOPS, and the turbofan alternate
   endurance test CS-E 740(c)(4) are EXCLUDED unless the text says otherwise.
+
+### Pruning inside a note (the point of this vault)
+Cutting whole paragraphs is not enough. Most paragraphs that apply still contain
+sub-points that are dead ends for a turboshaft — piston ratings, aeroplane-only
+schedules, propeller clauses, turbofan cases. Cut them.
+
+- Drop any sub-point that cannot apply to this engine. Do not paraphrase it, do
+  not "cover it briefly".
+- Keep an out-of-scope sub-point ONLY when it changes what we must do: it sets a
+  contrast that defines our case (CS-E 800's aeroplane 200 kt vs the rotorcraft
+  speed), or our case is written as an alternative to it (CS-E 790(b) is an
+  alternative to CS-E 790(a)(2)).
+- Every cut is recorded in the note's `Dropped` section, one line, with the
+  sub-point reference and the reason. A reader must always be able to tell
+  "deliberately excluded" from "forgotten". Silent omission is a defect.
+- Record the cut, never the content: `Dropped` says what was removed and why, not
+  what it said.
 
 ## Engine variables
 Declared in `engine_profile.md`, which also maps the applicant's rating names onto
 CS-E terms and records the open [VERIFY] items. Summary:
 - OEI ratings claimed: 30-Second OEI, 2-Minute OEI, Continuous OEI.
   NOT claimed: 2.5-Minute OEI, 30-Minute OEI.
-- 30-Minute Power rating: yes (CS-E 40(b)(4)) [VERIFY the declared name maps to it]
+- 30-Minute Power rating: yes, CS-E 40(b)(4) Rated 30-Minute Power
 - Control system: EECS-FADEC, full authority
 - Refrigerant injection: no
 - Time-limited dispatch claimed: no
+- 'OEI override' is a control-system feature, not a rating: assess under CS-E 50,
+  not CS-E 40
 
 ## Accuracy rules (non-negotiable)
-1. Every statement on a slide carries its paragraph reference, e.g. [CS-E 740(c)(3)].
+1. Every statement in a note carries its paragraph reference, e.g. [CS-E 740(c)(3)].
 2. Preserve obligation strength exactly: CS "must" -> "Required"; AMC "should" -> "Accepted method".
    Never upgrade or downgrade.
 3. Copy all numbers, times, percentages, probabilities exactly, with units.
-4. One short verbatim quote (max 1 sentence) per slide from the key CS text, in a "Rule text" box.
+4. One short verbatim quote (max 1 sentence) per note from the key CS text, in the "Rule text" callout.
 5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
 6. For pages with figures or tables, render the page to PNG and read the image. Do not rely on extracted text.
 
-## Slide template (Markdown, one slide per "---")
-### <Slide title>
-**Paragraphs:** CS-E xxx, AMC E xxx
-**Status:** APPLIES | CONDITIONAL (<variable>) | Changed in Amdt 7/8
-**Rule text:** "<one original sentence>" [ref]
-**What it means:** 2–4 plain sentences.
-**What we must do:** bullet list of tasks/evidence (test, analysis, document).
-**Turboshaft note:** rotorcraft-specific point, or "None".
-**Speaker notes:** longer explanation, AMC detail, examples.
+## Note template (Obsidian, one file per paragraph, `vault/`)
+Filename is the paragraph id: `CS-E 740.md`, `AMC E 740(c)(3).md`.
+
+```markdown
+---
+id: "CS-E 740"
+type: CS                     # CS | AMC
+subpart: E
+pages: 138-149
+status: APPLIES
+changed_in: [Amdt8]          # [] when unchanged
+tags: [endurance, oei, test]
+---
+# CS-E 740 — Endurance Tests
+
+> [!quote] Rule text
+> "<one original sentence>" — CS-E 740(c)(3)(i)
+
+## What it means
+2-4 plain sentences, B2 level, max ~20 words each, active voice.
+
+## What we must do
+- test / analysis / document items, each with its [ref]
+
+## Turboshaft note
+Rotorcraft-specific point, or "None".
+
+## Dropped
+- CS-E 740(c)(4) — turbofan alternate endurance test, not applicable.
+- CS-E 740(c)(1) Part 1 aeroplane schedule — superseded by the rotorcraft case.
+
+## Accepted means
+[[AMC E 740(c)(3)]] · [[AMC E 740(i)(2)]]
+
+## Related
+[[CS-E 730]] · [[CS-E 50]]
+
+## Notes
+Longer explanation, AMC detail, worked examples.
+```
+
+An AMC note carries `## Specification` linking back to its parent CS instead of
+`## Accepted means`. A note with nothing cut omits `## Dropped` entirely.
 
 ## Working method
 - Work subpart by subpart. Write output to files. Do not hold the whole document in context.
+- Notes are generated into `vault/`. Out-of-scope cross-references are rendered as
+  plain text, never as links, so the graph has no ghost nodes.
 - Stop at every checkpoint in the task prompt and wait for my approval.
 
 ---

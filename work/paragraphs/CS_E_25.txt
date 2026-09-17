@@ -47,6 +47,7 @@ procedures and limitations that apply.
 (4)
 Servicing information that covers details regarding servicing points, capacities of tanks,
 reservoirs, types of fluids to be used, pressures applicable to the various systems,
+locations of lubrication points, lubricants to be used and equipment required for
 servicing.
 (5)
 Scheduling information for each part of the Engine that provides the recommended

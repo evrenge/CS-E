@@ -59,6 +59,7 @@ Stages 1 to 10, each of 30 minutes duration at Maximum Continuous Power
 or Thrust.
 (D)
 Stages 11 to 15, each of 30 minutes duration at Take-off Power or Thrust.
+SUBSTANTIATION
 (E)
 Stages 16 to 25, each of 30 minutes duration covering the range in 6
 approximately equal speed increments between Maximum Continuous and
@@ -117,6 +118,7 @@ increments
 speed
 Continuous and Take-off Power or Thrust.
 Part 3
+SUBSTANTIATION
 (A)
 For Engines for Aeroplanes:
 30 minutes at Maximum Continuous Power or Thrust followed by one
@@ -167,6 +169,7 @@ complemented by the additional test of CS-E 740(c)(3)(iii):
 Part 1 One hour of alternate 5 minute periods at Take-off Power and minimum test
 bed idle.
 Part 2
+SUBSTANTIATION
 (A)
 Stages 1 to 15, each of 30 minutes duration at Maximum Continuous
 Power.
@@ -215,6 +218,7 @@ However, where the greatest is the 30-Minute OEI Power, that sixty-five
 minutes period must consist of thirty minutes at 30-Minute OEI Power
 followed by thirty-five minutes at whichever is the greater of Continuous OEI
 Power and Maximum Continuous Power, as applicable.
+SUBSTANTIATION
 Part 5: One minute at 50 percent of Take-off Power.
 Part 6: Thirty seconds at 30-Second OEI Power.
 Part 7: Two minutes at 2-Minute OEI Power.
@@ -267,6 +271,7 @@ physical speeds, temperatures, altitude, etc.) representing the most severe
 operation and the extent of exposure to those levels.
 For the purpose of operating limits demonstrations, the CPA must establish the
 extent of exposure to the operating limits levels and close proximity to those levels.
+SUBSTANTIATION
 The CPA must also establish maximum levels of corresponding rotor speed for an
 operating limit temperature case, and maximum levels of temperature for an
 operating limit speed case. If it is found that operating limits conditions could at
@@ -313,6 +318,7 @@ accordingly. Where the CPA shows a longer period is required for MCT, the
 testing will be extended at MCT conditions to cover that period.
 When demonstrated in conjunction with meeting the minimum severity
 requirements of CS-E 740(c)(4)(v), this demonstration comprises the
+SUBSTANTIATION
 appropriate period of the test for establishing the TCDS MTO- and MCT-
 declared core speed limits in accordance with CS-E 740(f).
 (2)
@@ -361,6 +367,7 @@ to as the ‘reference severity’; see also AMC E 740(c)(4), Section 5(b)).
 The limiting temperature is either the turbine gas path temperature operating limit
 or the gas path temperature that corresponds to the maximum critical component
 temperature where this has been established for both a production Engine and the
+SUBSTANTIATION
 test Engine, as defined by the applicant’s CPA (refer to AMC E 740(c)(4) for further
 considerations of severity assessment). The applicant should therefore decide
 which limiting temperature method will be used during the test.
@@ -413,6 +420,7 @@ Turbine Engines for Aeroplanes.
 (A)
 Readings of power/ thrust, speed and EGT must be recorded at every
 significant change of Engine conditions. Following accelerations, the over-
+SUBSTANTIATION
 run of speed and temperature above the steady conditions at Take-off must
 be noted.
 (B)
@@ -466,6 +474,7 @@ turbine entry temperatures for which approval is sought, and evidence from
 supplementary endurance testing, to a schedule acceptable to the Agency, must be
 provided to substantiate the approval of any higher rotational speed limitations desired.
 (See AMC E 740(f)(1))
+SUBSTANTIATION
 (2)
 If Stages 3, 7, 13, 17 and 23, or an equivalent demonstration in the alternate endurance
 test specified in CS-E 740(c)(4), if applicable, with bleed(s) in operation, require the use
@@ -520,6 +529,7 @@ limitation of either up to 30 seconds or up to 2 minutes may be approved.
 (A)
 In the case of the classic endurance test, transient EGT operating limits may
 be approved as follows.
+SUBSTANTIATION
 Transient EGT operating limits up to 30 seconds may be approved by
 •
 running the Engine at the required temperature for 30 seconds of 50
@@ -575,6 +585,7 @@ under service conditions above the maximum established during the endurance
 test such higher temperature may be approved as the Maximum Oil Temperature
 (with an appropriate time limitation) without additional endurance testing,
 provided that it can be demonstrated that –
+SUBSTANTIATION
 (A)
 The temperature rise under service conditions is the result of a local increase
 in the oil temperature at the temperature sensing position (e.g. as may occur
@@ -630,6 +641,7 @@ operation.
 Engines with 30-Second and 2-Minute OEI Power ratings must be subjected to a full strip
 inspection after completing the additional endurance test of CS-E 740(c)(3)(iii). (See
 AMC E 740(i)(2))
+SUBSTANTIATION
 (i)
 If the Engine was not subjected to a strip examination before commencing the
 additional endurance test, then the strip inspection specifications of CS-E 740(i)(1)

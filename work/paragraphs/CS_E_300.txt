@@ -56,3 +56,4 @@ provided that the temperatures do not vary appreciably from those declared.
 Torque Measurement - For testing requiring the measurement of Engine power, an acceptable
 method of establishing the torque of the Engine shall be defined. (See AMC E 300(f))
 [Amdt. No.: E/1]
+SUBSTANTIATION

@@ -26,6 +26,7 @@ In compliance with CS-E 560(d) and (e), the applicant should consider the effect
 operability of the transient fuel icing conditions likely to be encountered in service. In the
 absence of a completed threat assessment by the aircraft manufacturer, the applicant should
 make an assessment of the potential threat, or declare that no capability has been
+AND CONSTRUCTION
 demonstrated. The limitations on the demonstrated capability, any related assumptions, and
 potential effects on operability should be documented in the Engine installation manual, as
 required under CS-E 30(a) and CS-E 20(d). This should include but should not be limited to the

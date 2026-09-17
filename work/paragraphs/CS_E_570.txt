@@ -19,6 +19,7 @@ fitment, and
 (ii)
 To prevent entrance into the oil tank or into any oil tank outlet of any object that
 might obstruct the flow of oil through the system,
+AND CONSTRUCTION
 (3)
 Tank filler caps must be designed to provide an oil tight seal and designed so that they
 will not loosen in flight and must be marked with the word ‘oil’.
@@ -80,6 +81,7 @@ to the feathering pump.
 (ii)
 Provision must be made to prevent sludge or foreign matter from entering the
 Propeller feathering system.
+AND CONSTRUCTION
 (iii)
 The design of the Engine oil system must be such that it is possible to complete the
 feathering and unfeathering operation under all normal operating conditions.

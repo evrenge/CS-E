@@ -29,8 +29,19 @@ OUT = ROOT / "work" / "paragraphs"
 
 WHITE = 16777215
 HEADING_MIN_SIZE = 14.0
-HEADER_Y = 95.0    # running header sits above this
-FOOTER_Y = 770.0   # running footer below this
+
+# The running header and footer are removed by MATCHING THEM, not by vertical
+# position. A y-window cannot work here: header lines run y 37.9-107.7 while body
+# lines start at y 48.8, so the two ranges overlap. An earlier 95.0 cutoff
+# silently dropped 294 body lines - among them the opening of CS-E 40(e), whose
+# first line sits at y 92.7 on page 30.
+RUNNING = re.compile(
+    r"^(?:CS-E\s*[—-]\s*Amendment\s*\d+"
+    r"|SUBPART\s+[A-F]\b"
+    r"|Annex to ED Decision"
+    r"|Page\s+\d+\s+of\s+\d+)",
+    re.IGNORECASE,
+)
 ID = r"(?:AMC to CS-E|CS-E|AMC E|GM E)\s*\d{1,4}(?:\([^)\s]{1,6}\))*"
 HEAD_ID = re.compile(rf"^({ID})\s*(.*)$")
 
@@ -66,17 +77,21 @@ def banner_positions(page: pymupdf.Page) -> list[tuple[float, str]]:
 
 
 def body_lines(page: pymupdf.Page, y_from: float, y_to: float) -> list[str]:
-    """Text lines on one page between two vertical bounds, header/footer removed."""
+    """Text lines on one page within the paragraph's vertical span.
+
+    y_from / y_to bound the paragraph (below its own banner, above the next).
+    The running header and footer are removed by pattern, never by position.
+    """
     lines: list[tuple[float, str]] = []
     for block in page.get_text("dict")["blocks"]:
         if block["type"] != 0:
             continue
         for line in block["lines"]:
             y = round(line["bbox"][1], 1)
-            if y < max(y_from, HEADER_Y) or y >= min(y_to, FOOTER_Y):
+            if y < y_from or y >= y_to:
                 continue
             text = " ".join(" ".join(s["text"] for s in line["spans"]).split())
-            if text:
+            if text and not RUNNING.match(text):
                 lines.append((y, text))
     return [t for _, t in sorted(lines)]
 
@@ -107,7 +122,7 @@ def main() -> int:
         chunks: list[str] = []
         for n in range(pno, end_page + 1):
             page = doc[n - 1]
-            lo = y + 1 if n == pno else 0.0
+            lo = y + 1 if n == pno else 0.0  # 0.0: header is filtered by pattern
             hi = end_y if n == end_page else 10_000.0
             chunks += body_lines(page, lo, hi)
 

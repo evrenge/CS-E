@@ -54,6 +54,7 @@ whether it is the result of a Failure within the Engine or external to the Engin
 Over-speeds resulting from any other single Failure must be considered. Over-speeds resulting
 from multiple Failures must also be considered unless they can be shown to be Extremely
 Remote.
+SUBSTANTIATION
 (d)
 In addition, for each fan, compressor, and turbine rotor, it must be established by test, analysis,
 or combination thereof, that a rotor which has the most adverse combination of material

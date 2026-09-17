@@ -23,6 +23,7 @@ The CPA is the process in which the actual/expected in-service running condition
 production Engine are assessed (taking into account new to fully deteriorated Engine condition,
 and the whole Engine operating envelope). This assessment should then be considered further
 in the severity assessment for creep and other relevant damage mechanisms.
+SUBSTANTIATION
 The applicant should assess the Engine operating envelope using thermodynamic models for
 new and fully deteriorated Engines to identify conditions at the most critical point(s), including
 any coincident maxima. These conditions will probably be associated with limit temperature
@@ -68,6 +69,7 @@ operability driven by the prescribed operating conditions (not inclusive of all 
 deterioration effects).
 Therefore, the severity equivalence of the alternate endurance test should be assessed on the
 basis of accelerated creep life usage as compared with the intent of the classic endurance test.
+SUBSTANTIATION
 In addition, the alternate endurance test should demonstrate equal or more damage
 accumulation in the other damage mechanisms.
 (4)
@@ -121,6 +123,7 @@ The reference severity is a theoretically determined value based on the material
 temperatures of the critical component(s) identified using the CPA and on the time at
 elevated temperature and rotor speed to which the component(s) will be subjected when
 the Engine is tested in accordance with CS-E 740(c)(1). The rotor speeds assumed for this
+SUBSTANTIATION
 determination will include the operating limits levels (for the appropriate test sections)
 that are intended to be claimed at the conclusion of the test. Therefore, the severity
 representing the intent of the classic endurance test is the damage that would be accrued
@@ -170,6 +173,7 @@ and TMF-type damage to aerofoil components. A cycle is defined as a rapid accele
 a rapid deceleration back to ground idle.
 (7)
 Alternate endurance test examples
+SUBSTANTIATION
 The following examples illustrate an approach, but not the only approach, to create an alternate
 endurance test that uses the comparative severity methodology presented in paragraph 5 of
 this AMC.
@@ -217,6 +221,7 @@ required based on the results of the applicant’s CPA.
 Figure 7.2. Severity Usage for Engine Operating Limit Demonstrations
 Compliance with the specifications of CS-E 740(c)(4)(vii) consists of testing at 15 equally spaced
 thrust/power settings between idle and MCT. A duration of 10 minutes is prescribed at each
+SUBSTANTIATION
 thrust/power setting. Twenty-five total cycles are also prescribed. The accumulated damage at
 the MCT power setting is accounted for. The damage accumulated at the lower power settings
 is minor, and not accounted for in the overall comparison.
@@ -229,6 +234,7 @@ durations related to operation (e.g. 5 or 10 minutes at MTO, 30 or 90 minutes at
 includes some cyclic content that contributes to the minimum cycle count defined in CS-
 E 740(c)(4)(viii) ‘Ancillary TCDS Limits Definition’.
 Figure 7.4. Severity Usage for Extended Operating Periods
+SUBSTANTIATION
 Engine-rated performance demonstration is also a performance-based element of the alternate
 endurance test and supported by analysis that assesses the accumulated damage to critical
 components as part of the overall test severity assessed. A similar mix of various cycles and
@@ -284,6 +290,7 @@ Accumulated damage
 normalized by the
 reference severity
 Figure 7.6. Cumulative Severity Usage for Whole Test – first example
+SUBSTANTIATION
 In this example, the total test time is more than 35 % longer than the classic endurance test,
 with the portions performed at or above the MTO and MCT ratings approximately 50 % longer.
 This example alternate endurance test also includes 30 % more cyclic content than the classic
@@ -361,6 +368,7 @@ and to ensure equivalence to the target severity, which comes from a simulation
 of the classic endurance test (which assumes the metal temperature for the case
 of a deteriorated version of the Engine). Validated analytical methods would be
 necessary for these steps (see Figure 8.1).
+SUBSTANTIATION
 Figure 8.1. T metal method overview.
 Abbreviations
 Calc.
@@ -383,6 +391,7 @@ alternate test, avoiding the complications of the T metal temperature method abo
 the EGT recorded for the test is accepted as the OL (complying with CS-E 740(f)(4)),
 contingent upon substantiation of the severity equivalence to the target severity
 (see Figure 8.2).
+SUBSTANTIATION
 Figure 8.2. EGT method overview.
 Abbreviations
 Calc.
@@ -408,6 +417,7 @@ commencement of an Engine test to establish an accurate test plan (Figure 8.4). 
 three separate calculation processes are envisaged, each represented by a separate flow
 chart: the calculation of the Engine target/idealised test severity level, the calculation of
 the planned test severity level and the calculation of the actual test severity level.
+SUBSTANTIATION
 The main flow charts (Figures 8.3–8.5 and 8.9–8.11) are divided into two parts.
 —
 The left-hand side is the main loop that will be repeated for each fixed condition
@@ -443,6 +453,8 @@ parameters ( 𝑦 𝑚 and 𝑧 𝑚 ). Other typical parameters include both in
 conditions ( 𝑧 𝑚 ) and derived Engine conditions ( 𝑦 𝑚 ). Typical instrumented Engine
 conditions ( 𝑧 𝑚 ) include N1, N2, EGT, EPR, etc. Typical derived Engine conditions ( 𝑦 𝑚 )
 include 𝑚̇ 𝑏𝑙𝑒𝑒𝑑 , 𝑇 𝑏𝑙𝑒𝑒𝑑 , 𝑃 𝑏𝑙𝑒𝑒𝑑 , 𝑃 𝑢𝑝𝑠𝑡𝑟𝑒𝑎𝑚 , 𝑃 𝑑𝑜𝑤𝑛𝑠𝑡𝑟𝑒𝑎𝑚 , 𝑇 𝑢𝑝𝑠𝑡𝑟𝑒𝑎𝑚 , 𝑇 𝑏𝑢𝑙𝑘 , etc.
+SUBSTANTIATION
+Ⓔ The derived Engine conditions are calculated by performance analyses, CFD, FEA, etc.
 Ultimately, each of the derived Engine conditions is a function of the instrumented Engine
 conditions.
 𝑦 𝑚 = 𝑦 𝑚 (𝑧 1 , 𝑧 2 , 𝑧 3 , 𝑧 4 , . . , 𝑧 𝑛 )
@@ -450,14 +462,20 @@ Therefore, while very complicated and including potentially multiple modelling
 calculations, each of the local inputs can ultimately be written as a function of the
 instrumented Engine conditions.
 𝑥 𝑚 = 𝑥 𝑚 (𝑧 1 , 𝑧 2 , 𝑧 3 , 𝑧 4 , . . , 𝑧 𝑛 )
+SUBSTANTIATION
 (e)
 Main T metal method flow charts
 Figure 8.3. Endurance Test Severity Process – Idealised Test (Severity Ref )
+SUBSTANTIATION
+SUBSTANTIATION
 Figure 8.4. Endurance Test Severity Process – Planned Test (Severity Plan )
+SUBSTANTIATION
 Figure 8.5. Endurance Test Severity Process – Actual Test (Severity Act )
 Figure 8.6. Performance Model
+SUBSTANTIATION
 Figure 8.7. Design Model
 Figure 8.8. Damage Model
+SUBSTANTIATION
 (f)
 EGT as a proxy for T metal
 A significant simplification to the T metal approach is to run the test using EGT as a proxy
@@ -480,13 +498,17 @@ approach, as for the classic endurance test, is creep. The assumption is taken b
 process in this case, as for the classic endurance test, does not demand that a specific
 component be identified. This does not rule out that an EGT-based test could be assessed
 for severity of damage mechanisms other than creep.
+SUBSTANTIATION
 (g)
 Main EGT method flow charts
 Figure 8.9. Endurance Test Severity Process using EGT OL Demonstration – Idealised Test (Severity Ref )
+SUBSTANTIATION
 Figure 8.10. Endurance Test Severity Process using EGT OL Demonstration – Idealised Test
 (Severity Plan )
+SUBSTANTIATION
 Figure 8.11. Endurance Test Severity Process using EGT OL Demonstration – Idealised Test
 (Severity Act )
+SUBSTANTIATION
 Figure 8.12. EGT Method Damage Model
 (h)
 Conclusion

@@ -47,6 +47,7 @@ presented.
 (f)
 If excessive vibration is found to be present in the operating range of the Engine, suitable
 remedial measures must be taken prior to the endurance test of CS-E 440.
+SUBSTANTIATION
 (g)
 If moderate vibration is found to exist, which is not sufficiently serious to warrant the
 introduction of modifications but needs proof of its effect on the Engine, a vibration penalty

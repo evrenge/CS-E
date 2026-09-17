@@ -23,6 +23,8 @@ Allows modulation of Engine power or thrust with adequate sensitivity and accura
 the declared range of Engine operating conditions, and
 (4)
 Does not create unacceptable thrust or power oscillations.
+(b)
+Control Transitions. It must be demonstrated that, when a Fault or Failure results in a change
 from one Control Mode to another, or from one channel to another, or from the Primary System
 to the Back-up System, the change occurs so that:
 (1)
@@ -78,6 +80,7 @@ designed, implemented and verified to minimise the existence of errors by using 
 method consistent with the criticality of the performed functions.
 (g)
 Aircraft Supplied Data.
+Single Failures leading to loss, interruption or corruption of Aircraft-Supplied Data, or data
 shared between Engines must:
 (1)
 Not result in a Hazardous Engine Effect for any Engine.
@@ -132,6 +135,7 @@ Engine Control Systems, including networks, software and data, must be designed 
 so that they are protected from intentional unauthorised electronic interactions (IUEIs) that
 may result in adverse effects on the safety of the aircraft. The security risks and vulnerabilities
 must be identified, assessed, and mitigated as necessary. The applicant must make procedures
+and Instructions for Continued Airworthiness (ICA) available that ensure that the security
 protections of the Engine controls are maintained.
 [Amdt No: E/1]
 [Amdt No: E/5]

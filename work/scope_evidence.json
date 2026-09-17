@@ -38,7 +38,7 @@
   "pages": "15-15",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 430,
+  "words": 446,
   "hits": {
    "reverser": 18,
    "thrust": 18
@@ -55,7 +55,7 @@
   "pages": "16-17",
   "changed_in": "none",
   "figure": "no",
-  "words": 791,
+  "words": 812,
   "hits": {
    "piston": 1
   },
@@ -110,7 +110,7 @@
   "pages": "20-20",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 597,
+  "words": 612,
   "hits": {
    "oei": 9
   },
@@ -125,7 +125,7 @@
   "pages": "21-21",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 610,
+  "words": 622,
   "hits": {
    "oei": 10
   },
@@ -140,19 +140,19 @@
   "pages": "22-26",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 2101,
+  "words": 2160,
   "hits": {
    "rotorcraft": 1,
-   "shaft": 6,
-   "oei": 61,
-   "p30min": 1,
+   "shaft": 7,
+   "oei": 62,
+   "p30min": 2,
    "piston": 1
   },
   "quotes": {
    "rotorcraft": "sist of, but not be limited to, one or more of the following elements: \u2014 Scheduled tests of in-service Engines imposing three applications of 30 seconds OEI rated power, while either installed in the rotorcraft or in an Engine tes",
    "shaft": "(4) Inspection and maintenance actions for engines having 30-Second and 2-Minute OEI Power ratings.",
    "oei": "(4) Inspection and maintenance actions for engines having 30-Second and 2-Minute OEI Power ratings.",
-   "p30min": "Usage limitations, such as the cumulated time limit for the 30-Minute Power rating, should be specified in the appropriate section of the ICA.",
+   "p30min": "(5) For an Engine with a 30-Minute Power rating, the usage of this rating should be considered in the establishment of instructions for continued airworthiness.",
    "piston": "(6) The applicant for the certification of a piston Engine may substantiate a time between overhauls (TBO) or a time between replacements (TBR)."
   }
  },
@@ -174,7 +174,7 @@
   "pages": "27-28",
   "changed_in": "Amdt7",
   "figure": "yes",
-  "words": 542,
+  "words": 546,
   "hits": {
    "propeller": 6,
    "reverser": 1,
@@ -195,7 +195,7 @@
   "pages": "29-29",
   "changed_in": "Amdt7",
   "figure": "yes",
-  "words": 347,
+  "words": 361,
   "hits": {
    "aeroplane": 1,
    "rotorcraft": 2,
@@ -237,7 +237,7 @@
   "pages": "30-30",
   "changed_in": "none",
   "figure": "no",
-  "words": 733,
+  "words": 743,
   "hits": {
    "rotorcraft": 6,
    "shaft": 10,
@@ -258,9 +258,9 @@
   "pages": "31-32",
   "changed_in": "none",
   "figure": "no",
-  "words": 411,
+  "words": 424,
   "hits": {
-   "propeller": 2,
+   "propeller": 3,
    "refrigerant": 1,
    "piston": 1,
    "thrust": 1
@@ -279,7 +279,7 @@
   "pages": "33-35",
   "changed_in": "none",
   "figure": "no",
-  "words": 1076,
+  "words": 1118,
   "hits": {
    "oei": 4,
    "thrust": 10
@@ -296,13 +296,15 @@
   "pages": "36-36",
   "changed_in": "none",
   "figure": "no",
-  "words": 682,
+  "words": 696,
   "hits": {
    "propeller": 1,
+   "rotorcraft": 1,
    "eecs": 3
   },
   "quotes": {
    "propeller": "For EECS, AMC 20-1 and AMC 20-3 provides additional and detailed interpretation of CS-E 50 with special consideration to interfaces with the aircraft, and the Propeller when applicable.",
+   "rotorcraft": "(3) Rotocraft Engines For rotorcraft Engine Control Systems that have a power turbine speed governing mode, the specification of CS-E 50(a)(3) for modulation of Engine power should be interpreted as the ability to manage power as ",
    "eecs": "might be hydromechanical or hydromechanical with a limited authority electronic supervisor or single channel full authority Engine control with hydromechanical back-up or dual channel full authority Electronic Engine Control Syste"
   }
  },
@@ -324,10 +326,10 @@
   "pages": "37-37",
   "changed_in": "none",
   "figure": "no",
-  "words": 218,
+  "words": 233,
   "hits": {
    "rotorcraft": 1,
-   "oei": 10
+   "oei": 11
   },
   "quotes": {
    "rotorcraft": "(1) The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event of one Engine becoming inoperative.",
@@ -352,7 +354,7 @@
   "pages": "38-38",
   "changed_in": "none",
   "figure": "no",
-  "words": 374,
+  "words": 388,
   "hits": {
    "rotorcraft": 1,
    "oei": 12
@@ -369,7 +371,7 @@
   "pages": "39-39",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 333,
+  "words": 351,
   "hits": {
    "reverser": 2,
    "thrust": 2
@@ -386,7 +388,7 @@
   "pages": "40-40",
   "changed_in": "none",
   "figure": "no",
-  "words": 581,
+  "words": 597,
   "hits": {
    "rotorcraft": 1,
    "oei": 29
@@ -414,7 +416,7 @@
   "pages": "41-42",
   "changed_in": "none",
   "figure": "no",
-  "words": 986,
+  "words": 1020,
   "hits": {},
   "quotes": {}
  },
@@ -436,7 +438,7 @@
   "pages": "44-49",
   "changed_in": "none",
   "figure": "yes",
-  "words": 2272,
+  "words": 2322,
   "hits": {},
   "quotes": {}
  },
@@ -473,7 +475,7 @@
   "pages": "50-50",
   "changed_in": "none",
   "figure": "yes",
-  "words": 217,
+  "words": 234,
   "hits": {},
   "quotes": {}
  },
@@ -495,7 +497,7 @@
   "pages": "51-52",
   "changed_in": "none",
   "figure": "no",
-  "words": 715,
+  "words": 728,
   "hits": {
    "piston": 2,
    "thrust": 1
@@ -512,7 +514,7 @@
   "pages": "53-58",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 3055,
+  "words": 3131,
   "hits": {
    "propeller": 2,
    "thrust": 1
@@ -540,7 +542,7 @@
   "pages": "59-59",
   "changed_in": "none",
   "figure": "no",
-  "words": 120,
+  "words": 135,
   "hits": {},
   "quotes": {}
  },
@@ -566,7 +568,7 @@
   "pages": "60-60",
   "changed_in": "none",
   "figure": "no",
-  "words": 61,
+  "words": 64,
   "hits": {},
   "quotes": {}
  },
@@ -614,7 +616,7 @@
   "pages": "61-61",
   "changed_in": "none",
   "figure": "no",
-  "words": 35,
+  "words": 50,
   "hits": {},
   "quotes": {}
  },
@@ -625,7 +627,7 @@
   "pages": "62-62",
   "changed_in": "none",
   "figure": "no",
-  "words": 662,
+  "words": 678,
   "hits": {
    "eecs": 3
   },
@@ -640,7 +642,7 @@
   "pages": "63-63",
   "changed_in": "none",
   "figure": "no",
-  "words": 389,
+  "words": 402,
   "hits": {
    "propeller": 9,
    "piston": 2,
@@ -676,7 +678,7 @@
   "pages": "64-64",
   "changed_in": "none",
   "figure": "no",
-  "words": 111,
+  "words": 106,
   "hits": {
    "aeroplane": 1
   },
@@ -719,7 +721,7 @@
   "pages": "81-82",
   "changed_in": "none",
   "figure": "no",
-  "words": 869,
+  "words": 873,
   "hits": {
    "propeller": 3,
    "refrigerant": 1,
@@ -738,7 +740,7 @@
   "pages": "83-90",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 3482,
+  "words": 3518,
   "hits": {
    "propeller": 1,
    "reverser": 1,
@@ -770,7 +772,7 @@
   "pages": "91-105",
   "changed_in": "Amdt7",
   "figure": "yes",
-  "words": 5836,
+  "words": 5885,
   "hits": {
    "rotorcraft": 1,
    "shaft": 1,
@@ -800,7 +802,7 @@
   "pages": "106-106",
   "changed_in": "none",
   "figure": "no",
-  "words": 49,
+  "words": 51,
   "hits": {},
   "quotes": {}
  },
@@ -822,7 +824,7 @@
   "pages": "107-107",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 466,
+  "words": 468,
   "hits": {
    "thrust": 1
   },
@@ -848,7 +850,7 @@
   "pages": "108-108",
   "changed_in": "none",
   "figure": "no",
-  "words": 73,
+  "words": 75,
   "hits": {},
   "quotes": {}
  },
@@ -889,7 +891,7 @@
   "pages": "109-109",
   "changed_in": "none",
   "figure": "no",
-  "words": 323,
+  "words": 325,
   "hits": {},
   "quotes": {}
  },
@@ -900,7 +902,7 @@
   "pages": "110-110",
   "changed_in": "none",
   "figure": "no",
-  "words": 527,
+  "words": 529,
   "hits": {
    "thrust": 1
   },
@@ -915,7 +917,7 @@
   "pages": "111-111",
   "changed_in": "none",
   "figure": "no",
-  "words": 603,
+  "words": 605,
   "hits": {},
   "quotes": {}
  },
@@ -926,7 +928,7 @@
   "pages": "112-113",
   "changed_in": "none",
   "figure": "no",
-  "words": 748,
+  "words": 752,
   "hits": {
    "propeller": 3
   },
@@ -963,7 +965,7 @@
   "pages": "114-114",
   "changed_in": "none",
   "figure": "no",
-  "words": 115,
+  "words": 110,
   "hits": {},
   "quotes": {}
  },
@@ -1004,7 +1006,7 @@
   "pages": "115-115",
   "changed_in": "none",
   "figure": "no",
-  "words": 98,
+  "words": 99,
   "hits": {},
   "quotes": {}
  },
@@ -1015,7 +1017,7 @@
   "pages": "116-116",
   "changed_in": "none",
   "figure": "no",
-  "words": 269,
+  "words": 270,
   "hits": {
    "thrust": 2
   },
@@ -1030,7 +1032,7 @@
   "pages": "117-117",
   "changed_in": "none",
   "figure": "no",
-  "words": 191,
+  "words": 192,
   "hits": {},
   "quotes": {}
  },
@@ -1041,7 +1043,7 @@
   "pages": "118-118",
   "changed_in": "none",
   "figure": "no",
-  "words": 546,
+  "words": 547,
   "hits": {
    "oei": 2
   },
@@ -1056,7 +1058,7 @@
   "pages": "119-119",
   "changed_in": "none",
   "figure": "no",
-  "words": 450,
+  "words": 451,
   "hits": {
    "thrust": 1
   },
@@ -1071,7 +1073,7 @@
   "pages": "120-129",
   "changed_in": "Amdt7;Amdt8",
   "figure": "yes",
-  "words": 4886,
+  "words": 4908,
   "hits": {
    "propeller": 1,
    "reverser": 1,
@@ -1094,7 +1096,7 @@
   "pages": "130-130",
   "changed_in": "none",
   "figure": "no",
-  "words": 50,
+  "words": 51,
   "hits": {},
   "quotes": {}
  },
@@ -1131,7 +1133,7 @@
   "pages": "131-132",
   "changed_in": "none",
   "figure": "yes",
-  "words": 657,
+  "words": 659,
   "hits": {},
   "quotes": {}
  },
@@ -1164,7 +1166,7 @@
   "pages": "133-133",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 434,
+  "words": 435,
   "hits": {},
   "quotes": {}
  },
@@ -1186,7 +1188,7 @@
   "pages": "134-134",
   "changed_in": "none",
   "figure": "no",
-  "words": 73,
+  "words": 74,
   "hits": {
    "thrust": 1
   },
@@ -1201,7 +1203,7 @@
   "pages": "135-135",
   "changed_in": "none",
   "figure": "no",
-  "words": 537,
+  "words": 538,
   "hits": {
    "aeroplane": 4,
    "thrust": 3
@@ -1244,7 +1246,7 @@
   "pages": "136-136",
   "changed_in": "none",
   "figure": "no",
-  "words": 202,
+  "words": 203,
   "hits": {},
   "quotes": {}
  },
@@ -1285,7 +1287,7 @@
   "pages": "137-137",
   "changed_in": "none",
   "figure": "no",
-  "words": 156,
+  "words": 157,
   "hits": {
    "shaft": 1,
    "oei": 2,
@@ -1304,7 +1306,7 @@
   "pages": "138-149",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 5703,
+  "words": 5715,
   "hits": {
    "aeroplane": 7,
    "propeller": 3,
@@ -1354,7 +1356,7 @@
   "pages": "150-150",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 298,
+  "words": 299,
   "hits": {
    "shaft": 1,
    "oei": 2
@@ -1371,7 +1373,7 @@
   "pages": "151-171",
   "changed_in": "Amdt8",
   "figure": "yes",
-  "words": 3989,
+  "words": 4023,
   "hits": {
    "aeroplane": 1,
    "turbofan": 1,
@@ -1390,12 +1392,12 @@
   "pages": "172-172",
   "changed_in": "none",
   "figure": "yes",
-  "words": 297,
+  "words": 298,
   "hits": {
    "thrust": 5
   },
   "quotes": {
-   "thrust": "(2) Where increased rotational speed limitations are desired in respect of both Take-off and Maximum Continuous Power/Thrust conditions, the supplementary testing should provide for running at the increased rotational speed of equ"
+   "thrust": "SUBSTANTIATION (2) Where increased rotational speed limitations are desired in respect of both Take-off and Maximum Continuous Power/Thrust conditions, the supplementary testing should provide for running at the increased rotation"
   }
  },
  {
@@ -1416,7 +1418,7 @@
   "pages": "173-173",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 360,
+  "words": 361,
   "hits": {
    "oei": 2
   },
@@ -1431,7 +1433,7 @@
   "pages": "174-174",
   "changed_in": "none",
   "figure": "no",
-  "words": 363,
+  "words": 364,
   "hits": {
    "aeroplane": 3,
    "rotorcraft": 2,
@@ -1465,7 +1467,7 @@
   "pages": "175-175",
   "changed_in": "none",
   "figure": "no",
-  "words": 284,
+  "words": 288,
   "hits": {
    "rotorcraft": 2
   },
@@ -1519,7 +1521,7 @@
   "pages": "176-177",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 600,
+  "words": 602,
   "hits": {},
   "quotes": {}
  },
@@ -1530,7 +1532,7 @@
   "pages": "178-193",
   "changed_in": "Amdt7",
   "figure": "yes",
-  "words": 7332,
+  "words": 7359,
   "hits": {
    "aeroplane": 2,
    "propeller": 7,
@@ -1542,7 +1544,7 @@
   "quotes": {
    "aeroplane": "Note: If Engine air data probe signals are used by the aircraft system(s) on a CS-25 aeroplane, the aeroplane manufacturer will be responsible for showing that the involved Engine air data probe complies with CS 25.",
    "propeller": "3) Test Configuration \u2014 Engine Because the Engine behaviour cannot easily be divorced from the effects of the Engine air intake and Propeller, where possible, it is recommended that the tests be conducted on an Engine complete wit",
-   "turbofan": "The ice shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed and the adhesive strength of the ice to the surface.",
+   "turbofan": "The ice SUBSTANTIATION shed cycle for rotating surfaces, such as fan blades, is strongly influenced by rotor speed and the adhesive strength of the ice to the surface.",
    "rotorcraft": "7) Compliance of Rotorcraft Engines with Icing Conditions Specific provisions for rotorcraft Engines are currently not included in this AMC.",
    "shaft": "This may be different for turboshaft installations where complex inlet schemes are utilised.",
    "thrust": "Power/Thrust Loss Instabilities: Engine operating anomalies that cause Engine instabilities."
@@ -1555,7 +1557,7 @@
   "pages": "194-195",
   "changed_in": "none",
   "figure": "no",
-  "words": 885,
+  "words": 887,
   "hits": {
    "aeroplane": 2,
    "rotorcraft": 2,
@@ -1565,7 +1567,7 @@
   "quotes": {
    "aeroplane": "(c) Engines for Supersonic Aeroplanes \u2013 In addition to complying with CS-E 790(a)(1) and (a)(2), a separate test for supersonic aeroplane Engines only must be conducted with three hailstones ingested at supersonic cruise velocity,",
    "rotorcraft": "(b) Engines for Rotorcraft \u2013 As an alternative to the specifications specified in CS-E 790(a)(2), but for rotorcraft turbine Engines only, it must be shown that each Engine is capable of acceptable operation during and after the i",
-   "oei": "Acceptable Engine operation precludes, during any 3-Minute continuous period in rain and during any 30-Second continuous period in hail, the occurrence of flameout, rundown, continued or non recoverable surge or stall, or loss of ",
+   "oei": "Acceptable Engine operation precludes, during any 3-Minute continuous period in rain and during any 30-Second continuous period in hail, the occurrence of flameout, rundown, SUBSTANTIATION continued or non recoverable surge or sta",
    "thrust": "9 specific gravity) at the maximum true airspeed, for altitudes up to 4 500 metres, associated with a representative aircraft operating in rough air, with the Engine at Maximum Continuous Power or Thrust, must not cause unacceptab"
   }
  },
@@ -1606,7 +1608,7 @@
   "pages": "196-209",
   "changed_in": "none",
   "figure": "yes",
-  "words": 4698,
+  "words": 4726,
   "hits": {
    "aeroplane": 6,
    "propeller": 15,
@@ -1619,13 +1621,13 @@
   },
   "quotes": {
    "aeroplane": "(A) Turbofan and turbojet aeroplane Engines (Refer to Figure 2) \u2014 Rain The inlet diffusing flow field pressure gradients act to shear large droplets into small droplets that decelerate and enter the fan at velocities close to the ",
-   "propeller": "Figure 1 Scoop Factor (ii) Relative velocity centrifuging effects Some of the rain and hail will be centrifuged away from the Engine core by a fan and, to a lesser extent, away from the Engine by a Propeller.",
+   "propeller": "N Figure 1 Scoop Factor (ii) Relative velocity centrifuging effects Some of the rain and hail will be centrifuged away from the Engine core by a fan and, to a lesser extent, away from the Engine by a Propeller.",
    "turbofan": "Further, by-pass turbofan engines may have an additional internal scoop factor effect due to the divergence of the Engine core stream tube from the nacelle inlet to the core inlet at low Engine power and high flight speed.",
    "turbojet": "(A) Turbofan and turbojet aeroplane Engines (Refer to Figure 2) \u2014 Rain The inlet diffusing flow field pressure gradients act to shear large droplets into small droplets that decelerate and enter the fan at velocities close to the ",
    "rotorcraft": "Figure 3 Typical Engine Control Characteristics (d) Rotorcraft Turbine Engines For rotorcraft applications, testing to the specifications of CS-E 790(a)(2) may be replaced by the static rain ingestion test specified in CS-E 790(b)",
    "shaft": ", rotor speed, Engine pressure ratio, torque, shaft power).",
    "oei": "Note: Applicants can elect to integrate the test point required by paragraph (E)(c) within the 30-Second test point required by paragraph (E)(b), or consider it separately using test or analysis.",
-   "thrust": "Thrust Loss and Instability in Extreme Conditions of Rain and Hail (1) Definitions The following terms are defined for the purpose of this AMC: Operating conditions within the Engine flight envelope at Critical point(s) which an E"
+   "thrust": "Thrust Loss and Instability in Extreme Conditions of Rain and Hail (1) Definitions SUBSTANTIATION The following terms are defined for the purpose of this AMC: Operating conditions within the Engine flight envelope at Critical poin"
   }
  },
  {
@@ -1635,7 +1637,7 @@
   "pages": "210-211",
   "changed_in": "none",
   "figure": "yes",
-  "words": 478,
+  "words": 480,
   "hits": {},
   "quotes": {}
  },
@@ -1646,7 +1648,7 @@
   "pages": "212-218",
   "changed_in": "none",
   "figure": "yes",
-  "words": 3101,
+  "words": 3108,
   "hits": {
    "aeroplane": 3,
    "turbofan": 1,
@@ -1667,7 +1669,7 @@
   "pages": "219-225",
   "changed_in": "none",
   "figure": "yes",
-  "words": 2965,
+  "words": 2978,
   "hits": {
    "aeroplane": 2,
    "propeller": 4,
@@ -1678,13 +1680,13 @@
    "thrust": 33
   },
   "quotes": {
-   "aeroplane": "(d) Core Engine flocking bird ingestion test (i) Determining climb rotor speeds The calculation of the core ingestion test Engine rotor speeds associated with the climb phase will depend on the aeroplane and the type of flight tha",
+   "aeroplane": "Engine flocking bird ingestion test (i) Determining climb rotor speeds SUBSTANTIATION The calculation of the core ingestion test Engine rotor speeds associated with the climb phase will depend on the aeroplane and the type of flig",
    "propeller": "(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics than when the Engine is coupled with a propeller or installed in the aircraft, the int",
    "turbofan": "(vi) The components referred to in CS-E 800(g)(3)(ii)(A) include, for example, fan blades and their retention / spacer components, fan outlet guide vanes, spinners, fan disks and shafts, fan cases, frames, main bearings and bearin",
    "turbojet": "For turboprop and turbojet Engines, a core feature will most likely be the critical consideration.",
    "shaft": "(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics than when the Engine is coupled with a propeller or installed in the aircraft, the int",
    "oei": "Any OEI ratings do not have to be taken into account for compliance with CS- E 800(d).",
-   "thrust": "(iii) The complete loss of power or thrust is acceptable after the ingestion of the single large bird."
+   "thrust": "SUBSTANTIATION (iii) The complete loss of power or thrust is acceptable after the ingestion of the single large bird."
   }
  },
  {
@@ -1709,13 +1711,13 @@
   "pages": "226-228",
   "changed_in": "Amdt7",
   "figure": "no",
-  "words": 1435,
+  "words": 1438,
   "hits": {
    "turbofan": 7,
    "shaft": 1
   },
   "quotes": {
-   "turbofan": "(A) For composite fan blades only, the fan blade may be released at the inner annulus flow path line, provided that: (1) tests and analyses, or other methods that are acceptable to the Agency, substantiate that the minimum materia",
+   "turbofan": "(A) For composite fan blades only, the fan blade may be released at the inner annulus flow path line, provided that: SUBSTANTIATION (1) tests and analyses, or other methods that are acceptable to the Agency, substantiate that the ",
    "shaft": "Alternatively, tests may be carried out on a rig but consideration should be given to the effects of shaft power input, further subsequent damage, heavy out-of-balance forces on other parts of the Engine, possible shaft Failure, e"
   }
  },
@@ -1726,12 +1728,12 @@
   "pages": "229-229",
   "changed_in": "none",
   "figure": "no",
-  "words": 273,
+  "words": 274,
   "hits": {
    "oei": 4
   },
   "quotes": {
-   "oei": "(2) A power turbine rotational speed equal to the highest speed at which the Maximum Engine Over-torque can occur in service, but not more than the limit speed of Take-off or OEI ratings of a duration longer than 2 minutes."
+   "oei": "SUBSTANTIATION (2) A power turbine rotational speed equal to the highest speed at which the Maximum Engine Over-torque can occur in service, but not more than the limit speed of Take-off or OEI ratings of a duration longer than 2 "
   }
  },
  {
@@ -1771,7 +1773,7 @@
   "pages": "230-230",
   "changed_in": "none",
   "figure": "no",
-  "words": 30,
+  "words": 34,
   "hits": {
    "oei": 3
   },
@@ -1786,7 +1788,7 @@
   "pages": "231-231",
   "changed_in": "none",
   "figure": "no",
-  "words": 777,
+  "words": 778,
   "hits": {
    "oei": 5
   },
@@ -1801,7 +1803,7 @@
   "pages": "232-234",
   "changed_in": "none",
   "figure": "no",
-  "words": 1536,
+  "words": 1539,
   "hits": {},
   "quotes": {}
  },
@@ -1812,7 +1814,7 @@
   "pages": "235-235",
   "changed_in": "none",
   "figure": "no",
-  "words": 324,
+  "words": 325,
   "hits": {},
   "quotes": {}
  },
@@ -1823,7 +1825,7 @@
   "pages": "236-238",
   "changed_in": "none",
   "figure": "no",
-  "words": 1313,
+  "words": 1316,
   "hits": {},
   "quotes": {}
  },
@@ -1845,7 +1847,7 @@
   "pages": "239-239",
   "changed_in": "none",
   "figure": "no",
-  "words": 151,
+  "words": 152,
   "hits": {},
   "quotes": {}
  },
@@ -1871,7 +1873,7 @@
   "pages": "240-240",
   "changed_in": "none",
   "figure": "no",
-  "words": 629,
+  "words": 630,
   "hits": {
    "aeroplane": 2,
    "rotorcraft": 1,
@@ -1894,7 +1896,7 @@
   "pages": "241-241",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 512,
+  "words": 513,
   "hits": {
    "aeroplane": 1,
    "reverser": 5,
@@ -1913,7 +1915,7 @@
   "pages": "242-242",
   "changed_in": "none",
   "figure": "no",
-  "words": 524,
+  "words": 525,
   "hits": {
    "reverser": 8,
    "etops": 1,
@@ -1947,7 +1949,7 @@
   "pages": "243-243",
   "changed_in": "none",
   "figure": "no",
-  "words": 48,
+  "words": 49,
   "hits": {},
   "quotes": {}
  },
@@ -1973,7 +1975,7 @@
   "pages": "244-244",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 164,
+  "words": 165,
   "hits": {
    "shaft": 2,
    "oei": 7
@@ -2018,7 +2020,7 @@
   "pages": "245-251",
   "changed_in": "Amdt8",
   "figure": "no",
-  "words": 2326,
+  "words": 2332,
   "hits": {
    "propeller": 4,
    "reverser": 1,
@@ -2033,7 +2035,7 @@
    "shaft": "(iv) Turbopropeller Applications For turbopropeller Engine applications, the test should be run with an installation- eligible propeller installed.",
    "oei": "If the Engine includes OEI power ratings, representation of cumulative usage of those OEI power ratings before maintenance should be included in the Engine flight cycles of the IMP test.",
    "etops": "The applicant may combine the IMP test with the AMC 20-6B early ETOPS test (refer to Appendix 1, Section 2.",
-   "thrust": "In this assessment, the applicant should show that the proposed test cycle represents the expected in-service engine flight cycles, including: \u2014 established power/thrust ratings, reverse thrust use, \u2014 component stress and temperat"
+   "thrust": "In this assessment, the applicant should show that the proposed test cycle represents the expected in-service engine flight cycles, including: \u2014 established power/thrust ratings, SUBSTANTIATION \u2014 reverse thrust use, \u2014 component st"
   }
  },
  {
@@ -2091,7 +2093,7 @@
   "pages": "252-252",
   "changed_in": "none",
   "figure": "no",
-  "words": 101,
+  "words": 106,
   "hits": {},
   "quotes": {}
  },
@@ -2121,7 +2123,7 @@
   "pages": "253-260",
   "changed_in": "none",
   "figure": "yes",
-  "words": 3208,
+  "words": 3248,
   "hits": {
    "aeroplane": 2,
    "eecs": 28,
@@ -2157,7 +2159,7 @@
   "pages": "261-261",
   "changed_in": "none",
   "figure": "yes",
-  "words": 37,
+  "words": 42,
   "hits": {},
   "quotes": {}
  },

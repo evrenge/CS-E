@@ -36,6 +36,7 @@ maximum rotational speed with refrigerant injection differs from the Take-off ma
 rotational speed without refrigerant injection. Only an Over-speed test with refrigerant
 injection need be run if all the critical conditions are more severe with refrigerant
 injection, than without. The 15-minute Over-speed test with refrigerant injection need
+SUBSTANTIATION
 not be run non-stop, but the duration of the individual periods of running at this condition
 must be not less than 3 minutes.
 (c)

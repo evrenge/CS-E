@@ -13,6 +13,8 @@ on the relevant drawings either directly or by reference to other suitable docum
 (b)
 Except where otherwise agreed each part must be marked so that it can be identified with the
 drawing to which it was made. The position of the markings must be indicated on the drawing.
+(c)
+Certain parts (including Engine Critical Parts, see CS-E 515) as may be required by the Agency
 must be marked and the constructor must maintain records related to this marking such that it
 is possible to establish the relevant manufacturing history of the parts.
 (d)

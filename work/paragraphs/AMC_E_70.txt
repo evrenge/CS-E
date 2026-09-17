@@ -28,6 +28,8 @@ involve review of the need for the repetition of certain tests and/or a revision
 quality control.
 (2)
 Forgings
+(a)
+Forgings should be classified as Class 1, Class 2 or Class 3 parts in accordance with the
 following:
 — Class1 Those parts, the Failure of which could hazard the aircraft.
 — Class 2 Stressed parts not covered by the terms of Class 1.
@@ -73,6 +75,7 @@ cases a suitable technique of sample testing should be agreed.
 (c)
 No change of forging constructor or significant change of forging technique should be
 made without the agreement of the Engine constructor and such agreement should
+involve review of the need for the repetition of certain tests and/or a revision of the
 method of quality control.
 (3)
 Welded Structures and Welded Components

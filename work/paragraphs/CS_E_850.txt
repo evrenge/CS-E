@@ -10,6 +10,7 @@ Objectives.
 (1)
 It must be demonstrated that Failures of the shaft systems will not result in Hazardous
 Engine Effects, except as provided in CS-E 850(a)(3).
+SUBSTANTIATION
 (2)
 It must be established that the shaft systems are designed so that Failures are predicted
 to occur at a rate not in excess of that defined as Remote.
