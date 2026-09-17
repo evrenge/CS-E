@@ -107,32 +107,41 @@ basis for the **Status: Changed in Amdt 7/8** field:
   780, 810 amended or created.
 
 Note that `AMC E 740(c)(4)` — the turbofan alternate endurance test — is an
-Amdt 8 addition and is EXCLUDED by the scope rule above. It is the single largest
-change in Amendment 8, so expect most of the Amdt 8 redline to fall outside scope.
+Amdt 8 addition and is EXCLUDED by the scope rule above. The Explanatory Note
+gives the alternate endurance test as a headline objective of ED Decision
+2025/003/R, so expect a large share of the Amdt 8 redline to fall outside scope,
+and expect CS-E 740 itself to need careful APPLIES / EXCLUDED splitting rather
+than a single verdict.
 
 ## Redline extraction — read before writing any tagging code
 
-The two Change Information PDFs do **not** share a markup convention:
+Both Change Information PDFs use the same marking scheme, verified by rendering
+pages and by reading the content stream:
 
-- **Amdt 7 CI** is a word-level redline: deletions drawn in red (`1 0 0 rg`,
-  ~6.5% of characters), insertions black with an underline rule drawn as a thin
-  filled rectangle.
-- **Amdt 8 CI** is mostly *block replacement* — whole affected paragraphs
-  reprinted in black (97% of characters, 0.48% red). Word-level polarity is
-  largely absent.
+| Change | How it is drawn | How to detect it |
+|---|---|---|
+| Inserted text | black text on a **cyan** highlight | filled rectangle with non-stroking colour `0 1 1` behind the run (148 fills in the Amdt 7 CI, 114 in the Amdt 8 CI) |
+| Deleted text | **red** text with a strikethrough rule | text fill `1 0 0 rg` (4,118 chars in Amdt 7, 395 in Amdt 8), plus a red rule rectangle |
+| Unchanged context | plain black, no fill behind it | neither of the above |
 
-Consequences:
+Amendment 8 carries far less red than Amendment 7 because it is predominantly
+**additive** — new paragraphs such as CS-E 930 and AMC E 740(c)(4) — not because
+it uses a different convention.
 
-1. `PdfReader.extract_text()` is **not** safe on the Amdt 7 redline. It
-   concatenates deleted and inserted words into a single run with no marker,
-   yielding text that reads as normative but never existed in either amendment.
-   Recover polarity from the content stream (fill colour via
-   `visitor_operand_before`, underline rules via `re` rectangle geometry), or
-   render the page and read the image.
-2. Amendment-level tagging must come from the paragraph-level declarations
-   (`"CS-E 740 is amended as follows"`), which parse cleanly from both files.
-   To show *what* changed inside a paragraph, diff `CS-E_Amendment_7.pdf`
-   against `CS-E_Amendment_8.pdf` rather than trusting the Amdt 8 redline.
+Two consequences:
+
+1. `PdfReader.extract_text()` alone is **unsafe** on either redline. It drops both
+   markers and concatenates deleted and inserted words into a single run, yielding
+   sentences that read as normative but never existed in any amendment. A real
+   example from Amdt 7 CI p. 16 extracts as
+   `"generate equivalent ice accretion adequately simulate all icing threats"`,
+   where `generate equivalent ice accretion` is struck and the rest is new.
+   Recover polarity from the content stream (`visitor_operand_before` for fill
+   colour and rectangle geometry), or render the page and read the image.
+2. Paragraph-level tagging is independent of all this: both files declare their
+   changes in prose (`"CS-E 740 is amended as follows"`), which parses cleanly.
+   Use those declarations for the **Status** field and the colour/geometry pass
+   only when a slide needs to show what specifically changed inside a paragraph.
 
 ## Page rendering
 

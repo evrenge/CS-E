@@ -52,23 +52,22 @@ Verified with `pypdf` (see `scripts/verify_sources.py`):
 - Both Change Information PDFs parse into a clean change inventory: 20 declared
   changes at Amdt 7, 16 at Amdt 8.
 
-### Redline markup conventions differ between the two Change Information files
+### Redline markup scheme
 
-This matters for tagging and is not obvious from reading them:
+Both Change Information PDFs mark changes the same way (verified by rendering
+pages and by reading the content stream):
 
-- **Amdt 7 CI** is a word-level redline. Deleted text is drawn in red
-  (fill `1 0 0 rg`, 6.5% of characters); inserted text is black with an
-  underline rule drawn as a thin filled rectangle. Polarity is recoverable,
-  but only from the content stream — plain `extract_text()` silently
-  concatenates deleted and inserted words into one unreadable run.
-- **Amdt 8 CI** is mostly *block replacement*: whole affected paragraphs are
-  reprinted in black (97% of characters), with only 0.48% red. Word-level
-  polarity is largely absent.
+- **Inserted text** — black, on a cyan highlight drawn as a filled rectangle with
+  non-stroking colour `0 1 1`. 148 such fills in the Amdt 7 CI, 114 in the Amdt 8 CI.
+- **Deleted text** — red (`1 0 0 rg`) with a strikethrough rule. 4,118 red
+  characters in the Amdt 7 CI, 395 in the Amdt 8 CI.
 
-Consequence: a word-level redline cannot be recovered uniformly from the Amdt 8
-CI. Use the CI files as the authority for *which* paragraphs changed, and derive
-"what changed" inside a paragraph from a text diff of `CS-E_Amendment_7.pdf`
-against `CS-E_Amendment_8.pdf`, corroborated against the CI.
+Amendment 8 carries less red because it is predominantly additive, not because it
+uses a different convention.
+
+`extract_text()` drops both markers and merges deleted and inserted words into one
+run — the result reads as normative text that never existed in either amendment.
+Recover polarity from the content stream or from a rendered page.
 
 ## Provenance rule
 
