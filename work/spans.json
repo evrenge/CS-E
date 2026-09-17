@@ -1,0 +1,1234 @@
+[
+ {
+  "id": "AMC General",
+  "title": "",
+  "subpart": "A",
+  "start_page": 15,
+  "end_page": 15
+ },
+ {
+  "id": "CS-E 10",
+  "title": "Applicability",
+  "subpart": "A",
+  "start_page": 15,
+  "end_page": 15
+ },
+ {
+  "id": "AMC E 10(b)",
+  "title": "Thrust Reversers",
+  "subpart": "A",
+  "start_page": 15,
+  "end_page": 16
+ },
+ {
+  "id": "CS-E 15",
+  "title": "Terminology",
+  "subpart": "A",
+  "start_page": 16,
+  "end_page": 18
+ },
+ {
+  "id": "CS-E 20",
+  "title": "Engine Configuration and Interfaces",
+  "subpart": "A",
+  "start_page": 18,
+  "end_page": 18
+ },
+ {
+  "id": "AMC E 20",
+  "title": "Engine Configuration and Interfaces",
+  "subpart": "A",
+  "start_page": 19,
+  "end_page": 19
+ },
+ {
+  "id": "AMC E 20(f)",
+  "title": "Power Assurance Data for Engines with One or More OEI Power Ratings",
+  "subpart": "A",
+  "start_page": 20,
+  "end_page": 21
+ },
+ {
+  "id": "CS-E 25",
+  "title": "Instructions for Continued Airworthiness",
+  "subpart": "A",
+  "start_page": 21,
+  "end_page": 22
+ },
+ {
+  "id": "AMC E 25",
+  "title": "Instructions for continued airworthiness",
+  "subpart": "A",
+  "start_page": 22,
+  "end_page": 27
+ },
+ {
+  "id": "CS-E 30",
+  "title": "Assumptions",
+  "subpart": "A",
+  "start_page": 27,
+  "end_page": 27
+ },
+ {
+  "id": "AMC E 30",
+  "title": "Assumptions",
+  "subpart": "A",
+  "start_page": 27,
+  "end_page": 29
+ },
+ {
+  "id": "CS-E 40",
+  "title": "Ratings",
+  "subpart": "A",
+  "start_page": 29,
+  "end_page": 30
+ },
+ {
+  "id": "AMC E 40",
+  "title": "Ratings",
+  "subpart": "A",
+  "start_page": 30,
+  "end_page": 30
+ },
+ {
+  "id": "AMC E 40(b)(3)",
+  "title": "and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings",
+  "subpart": "A",
+  "start_page": 30,
+  "end_page": 31
+ },
+ {
+  "id": "AMC E 40(d)",
+  "title": "Operating Limitations",
+  "subpart": "A",
+  "start_page": 31,
+  "end_page": 33
+ },
+ {
+  "id": "CS-E 50",
+  "title": "Engine Control System",
+  "subpart": "A",
+  "start_page": 33,
+  "end_page": 36
+ },
+ {
+  "id": "AMC E 50",
+  "title": "Engine Control System",
+  "subpart": "A",
+  "start_page": 36,
+  "end_page": 37
+ },
+ {
+  "id": "AMC E 50(e)",
+  "title": "Rotor integrity",
+  "subpart": "A",
+  "start_page": 37,
+  "end_page": 37
+ },
+ {
+  "id": "AMC E 50(j)",
+  "title": "Controls - Engines having a 30-Second OEI Power Rating",
+  "subpart": "A",
+  "start_page": 37,
+  "end_page": 38
+ },
+ {
+  "id": "AMC to CS-E 50(l)",
+  "title": "Information system security protection",
+  "subpart": "A",
+  "start_page": 38,
+  "end_page": 38
+ },
+ {
+  "id": "CS-E 60",
+  "title": "Provision for Instruments",
+  "subpart": "A",
+  "start_page": 38,
+  "end_page": 39
+ },
+ {
+  "id": "AMC E 60",
+  "title": "Provision for instruments",
+  "subpart": "A",
+  "start_page": 39,
+  "end_page": 40
+ },
+ {
+  "id": "AMC E 60(d)",
+  "title": "Provision for instruments",
+  "subpart": "A",
+  "start_page": 40,
+  "end_page": 41
+ },
+ {
+  "id": "CS-E 70",
+  "title": "Materials and Manufacturing Methods",
+  "subpart": "A",
+  "start_page": 41,
+  "end_page": 41
+ },
+ {
+  "id": "AMC E 70",
+  "title": "Castings, Forgings, Welded Structures and Welded Components",
+  "subpart": "A",
+  "start_page": 41,
+  "end_page": 43
+ },
+ {
+  "id": "CS-E 80",
+  "title": "Equipment",
+  "subpart": "A",
+  "start_page": 43,
+  "end_page": 44
+ },
+ {
+  "id": "AMC E 80",
+  "title": "Equipment",
+  "subpart": "A",
+  "start_page": 44,
+  "end_page": 50
+ },
+ {
+  "id": "CS-E 90",
+  "title": "Prevention of Corrosion and Deterioration",
+  "subpart": "A",
+  "start_page": 50,
+  "end_page": 50
+ },
+ {
+  "id": "CS-E 100",
+  "title": "Strength",
+  "subpart": "A",
+  "start_page": 50,
+  "end_page": 50
+ },
+ {
+  "id": "CS-E 110",
+  "title": "Drawings and Marking of Parts \u2013 Assembly of Parts",
+  "subpart": "A",
+  "start_page": 50,
+  "end_page": 51
+ },
+ {
+  "id": "CS-E 120",
+  "title": "Identification",
+  "subpart": "A",
+  "start_page": 51,
+  "end_page": 51
+ },
+ {
+  "id": "CS-E 130",
+  "title": "Fire Protection",
+  "subpart": "A",
+  "start_page": 51,
+  "end_page": 52
+ },
+ {
+  "id": "AMC E 130",
+  "title": "Fire Protection",
+  "subpart": "A",
+  "start_page": 53,
+  "end_page": 59
+ },
+ {
+  "id": "CS-E 135",
+  "title": "Electrical Bonding",
+  "subpart": "A",
+  "start_page": 59,
+  "end_page": 59
+ },
+ {
+  "id": "AMC E 135",
+  "title": "Electrical Bonding",
+  "subpart": "A",
+  "start_page": 59,
+  "end_page": 60
+ },
+ {
+  "id": "CS-E 140",
+  "title": "Tests - Engine Configuration",
+  "subpart": "A",
+  "start_page": 60,
+  "end_page": 60
+ },
+ {
+  "id": "AMC E 140",
+  "title": "Test - Engine configuration",
+  "subpart": "A",
+  "start_page": 60,
+  "end_page": 61
+ },
+ {
+  "id": "CS-E 150",
+  "title": "Tests - General Conduct of Tests",
+  "subpart": "A",
+  "start_page": 61,
+  "end_page": 61
+ },
+ {
+  "id": "AMC E 150(a)",
+  "title": "Tests - General conduct of tests",
+  "subpart": "A",
+  "start_page": 61,
+  "end_page": 61
+ },
+ {
+  "id": "CS-E 160",
+  "title": "Tests - History",
+  "subpart": "A",
+  "start_page": 61,
+  "end_page": 61
+ },
+ {
+  "id": "CS-E 170",
+  "title": "Engine Systems and Component Verification",
+  "subpart": "A",
+  "start_page": 61,
+  "end_page": 62
+ },
+ {
+  "id": "AMC E 170",
+  "title": "Engine systems and component verification",
+  "subpart": "A",
+  "start_page": 62,
+  "end_page": 63
+ },
+ {
+  "id": "CS-E 180",
+  "title": "Propeller Functioning Tests",
+  "subpart": "A",
+  "start_page": 63,
+  "end_page": 64
+ },
+ {
+  "id": "AMC E 180",
+  "title": "Propeller Functioning Tests",
+  "subpart": "A",
+  "start_page": 64,
+  "end_page": 64
+ },
+ {
+  "id": "CS-E 190",
+  "title": "Engines for Aerobatic Use",
+  "subpart": "A",
+  "start_page": 64,
+  "end_page": 65
+ },
+ {
+  "id": "CS-E 210",
+  "title": "Failure Analysis",
+  "subpart": "B",
+  "start_page": 65,
+  "end_page": 65
+ },
+ {
+  "id": "AMC E 210",
+  "title": "Failure Analysis",
+  "subpart": "B",
+  "start_page": 65,
+  "end_page": 66
+ },
+ {
+  "id": "CS-E 230",
+  "title": "De-Icing and Anti-Icing Precautions",
+  "subpart": "B",
+  "start_page": 66,
+  "end_page": 66
+ },
+ {
+  "id": "CS-E 240",
+  "title": "Ignition",
+  "subpart": "B",
+  "start_page": 66,
+  "end_page": 66
+ },
+ {
+  "id": "AMC E 240",
+  "title": "Ignition",
+  "subpart": "B",
+  "start_page": 66,
+  "end_page": 67
+ },
+ {
+  "id": "CS-E 250",
+  "title": "Fuel System",
+  "subpart": "B",
+  "start_page": 67,
+  "end_page": 67
+ },
+ {
+  "id": "CS-E 260",
+  "title": "Engine Cooling System",
+  "subpart": "B",
+  "start_page": 67,
+  "end_page": 67
+ },
+ {
+  "id": "CS-E 270",
+  "title": "Lubrication System",
+  "subpart": "B",
+  "start_page": 67,
+  "end_page": 68
+ },
+ {
+  "id": "CS-E 290",
+  "title": "Hand Turning",
+  "subpart": "B",
+  "start_page": 68,
+  "end_page": 69
+ },
+ {
+  "id": "CS-E 300",
+  "title": "Conditions Applicable to All Tests",
+  "subpart": "C",
+  "start_page": 69,
+  "end_page": 70
+ },
+ {
+  "id": "AMC E 300(f)",
+  "title": "Conditions Applicable to all Tests - Torque Measurement",
+  "subpart": "C",
+  "start_page": 70,
+  "end_page": 70
+ },
+ {
+  "id": "CS-E 320",
+  "title": "Performance Correction",
+  "subpart": "C",
+  "start_page": 70,
+  "end_page": 70
+ },
+ {
+  "id": "AMC E 320",
+  "title": "Performance Correction",
+  "subpart": "C",
+  "start_page": 70,
+  "end_page": 71
+ },
+ {
+  "id": "CS-E 330",
+  "title": "Tests - General",
+  "subpart": "C",
+  "start_page": 71,
+  "end_page": 71
+ },
+ {
+  "id": "CS-E 340",
+  "title": "Vibration Tests",
+  "subpart": "C",
+  "start_page": 71,
+  "end_page": 72
+ },
+ {
+  "id": "AMC E 340",
+  "title": "Vibration Tests",
+  "subpart": "C",
+  "start_page": 72,
+  "end_page": 72
+ },
+ {
+  "id": "CS-E 350",
+  "title": "Calibration Tests",
+  "subpart": "C",
+  "start_page": 72,
+  "end_page": 72
+ },
+ {
+  "id": "AMC E 350",
+  "title": "Calibration Tests",
+  "subpart": "C",
+  "start_page": 72,
+  "end_page": 73
+ },
+ {
+  "id": "CS-E 360",
+  "title": "Detonation Tests",
+  "subpart": "C",
+  "start_page": 73,
+  "end_page": 73
+ },
+ {
+  "id": "CS-E 370",
+  "title": "Starting Tests",
+  "subpart": "C",
+  "start_page": 73,
+  "end_page": 73
+ },
+ {
+  "id": "CS-E 380",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "C",
+  "start_page": 73,
+  "end_page": 74
+ },
+ {
+  "id": "AMC E 380",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "C",
+  "start_page": 74,
+  "end_page": 74
+ },
+ {
+  "id": "CS-E 390",
+  "title": "Acceleration Tests",
+  "subpart": "C",
+  "start_page": 74,
+  "end_page": 75
+ },
+ {
+  "id": "CS-E 400",
+  "title": "Over-speed Tests",
+  "subpart": "C",
+  "start_page": 75,
+  "end_page": 75
+ },
+ {
+  "id": "CS-E 430",
+  "title": "Water Spray Tests",
+  "subpart": "C",
+  "start_page": 75,
+  "end_page": 76
+ },
+ {
+  "id": "CS-E 440",
+  "title": "Endurance Test",
+  "subpart": "C",
+  "start_page": 76,
+  "end_page": 79
+ },
+ {
+  "id": "AMC E 440(b)(3)",
+  "title": "Endurance Test - Schedule for Engine Incorporating a Turbocharger",
+  "subpart": "C",
+  "start_page": 79,
+  "end_page": 79
+ },
+ {
+  "id": "CS-E 450",
+  "title": "Ignition Tests",
+  "subpart": "C",
+  "start_page": 79,
+  "end_page": 79
+ },
+ {
+  "id": "CS-E 460",
+  "title": "Backfire Tests",
+  "subpart": "C",
+  "start_page": 79,
+  "end_page": 79
+ },
+ {
+  "id": "CS-E 470",
+  "title": "Contaminated Fuel",
+  "subpart": "C",
+  "start_page": 79,
+  "end_page": 80
+ },
+ {
+  "id": "AMC E 470",
+  "title": "Contaminated Fuel",
+  "subpart": "C",
+  "start_page": 80,
+  "end_page": 81
+ },
+ {
+  "id": "CS-E 500",
+  "title": "Functioning",
+  "subpart": "D",
+  "start_page": 81,
+  "end_page": 81
+ },
+ {
+  "id": "AMC E 500",
+  "title": "Functioning - Control of Engines (Turbine Engines for Aeroplanes)",
+  "subpart": "D",
+  "start_page": 81,
+  "end_page": 81
+ },
+ {
+  "id": "CS-E 510",
+  "title": "Safety Analysis",
+  "subpart": "D",
+  "start_page": 81,
+  "end_page": 83
+ },
+ {
+  "id": "AMC E 510",
+  "title": "Safety analysis",
+  "subpart": "D",
+  "start_page": 83,
+  "end_page": 91
+ },
+ {
+  "id": "CS-E 515",
+  "title": "Engine Critical Parts",
+  "subpart": "D",
+  "start_page": 91,
+  "end_page": 91
+ },
+ {
+  "id": "AMC E 515",
+  "title": "Engine Critical Parts",
+  "subpart": "D",
+  "start_page": 91,
+  "end_page": 106
+ },
+ {
+  "id": "CS-E 520",
+  "title": "Strength",
+  "subpart": "D",
+  "start_page": 106,
+  "end_page": 106
+ },
+ {
+  "id": "AMC E 520(a)",
+  "title": "Strength - High Cycle Fatigue",
+  "subpart": "D",
+  "start_page": 106,
+  "end_page": 107
+ },
+ {
+  "id": "AMC E 520(c)(1)",
+  "title": "Strength - Shedding of Blades",
+  "subpart": "D",
+  "start_page": 107,
+  "end_page": 107
+ },
+ {
+  "id": "AMC E 520(c)(2)",
+  "title": "Engine Model Validation",
+  "subpart": "D",
+  "start_page": 107,
+  "end_page": 108
+ },
+ {
+  "id": "AMC E 520(d)",
+  "title": "Strength \u2013 Local Failures",
+  "subpart": "D",
+  "start_page": 108,
+  "end_page": 108
+ },
+ {
+  "id": "CS-E 525",
+  "title": "Continued Rotation",
+  "subpart": "D",
+  "start_page": 108,
+  "end_page": 109
+ },
+ {
+  "id": "AMC E 525",
+  "title": "Continued rotation",
+  "subpart": "D",
+  "start_page": 109,
+  "end_page": 109
+ },
+ {
+  "id": "CS-E 540",
+  "title": "Strike and Ingestion of Foreign Matter",
+  "subpart": "D",
+  "start_page": 109,
+  "end_page": 109
+ },
+ {
+  "id": "AMC E 540",
+  "title": "Strike and ingestion of foreign matter",
+  "subpart": "D",
+  "start_page": 109,
+  "end_page": 110
+ },
+ {
+  "id": "CS-E 560",
+  "title": "Fuel System",
+  "subpart": "D",
+  "start_page": 110,
+  "end_page": 111
+ },
+ {
+  "id": "AMC E 560",
+  "title": "Fuel System",
+  "subpart": "D",
+  "start_page": 111,
+  "end_page": 112
+ },
+ {
+  "id": "CS-E 570",
+  "title": "Oil System",
+  "subpart": "D",
+  "start_page": 112,
+  "end_page": 114
+ },
+ {
+  "id": "AMC E 570",
+  "title": "Oil system",
+  "subpart": "D",
+  "start_page": 114,
+  "end_page": 114
+ },
+ {
+  "id": "CS-E 580",
+  "title": "Air Systems",
+  "subpart": "D",
+  "start_page": 114,
+  "end_page": 114
+ },
+ {
+  "id": "CS-E 590",
+  "title": "Starter Systems",
+  "subpart": "D",
+  "start_page": 114,
+  "end_page": 115
+ },
+ {
+  "id": "CS-E 600",
+  "title": "Tests - General",
+  "subpart": "E",
+  "start_page": 115,
+  "end_page": 115
+ },
+ {
+  "id": "AMC E 600(e)",
+  "title": "Test - General",
+  "subpart": "E",
+  "start_page": 115,
+  "end_page": 115
+ },
+ {
+  "id": "CS-E 620",
+  "title": "Performance Correction",
+  "subpart": "E",
+  "start_page": 115,
+  "end_page": 116
+ },
+ {
+  "id": "AMC E 620",
+  "title": "Performance: Formulae",
+  "subpart": "E",
+  "start_page": 116,
+  "end_page": 117
+ },
+ {
+  "id": "CS-E 640",
+  "title": "Pressure Loads",
+  "subpart": "E",
+  "start_page": 117,
+  "end_page": 118
+ },
+ {
+  "id": "AMC E 640",
+  "title": "Pressure Loads",
+  "subpart": "E",
+  "start_page": 118,
+  "end_page": 119
+ },
+ {
+  "id": "CS-E 650",
+  "title": "Vibration Surveys",
+  "subpart": "E",
+  "start_page": 119,
+  "end_page": 120
+ },
+ {
+  "id": "AMC E 650",
+  "title": "Vibration Surveys",
+  "subpart": "E",
+  "start_page": 120,
+  "end_page": 130
+ },
+ {
+  "id": "CS-E 660",
+  "title": "Fuel Pressure and Temperature",
+  "subpart": "E",
+  "start_page": 130,
+  "end_page": 131
+ },
+ {
+  "id": "AMC E 660",
+  "title": "Fuel Pump Tests (Turbine Engines for Aeroplanes)",
+  "subpart": "E",
+  "start_page": 131,
+  "end_page": 131
+ },
+ {
+  "id": "CS-E 670",
+  "title": "Contaminated Fuel",
+  "subpart": "E",
+  "start_page": 131,
+  "end_page": 131
+ },
+ {
+  "id": "AMC E 670",
+  "title": "Contaminated Fuel Testing",
+  "subpart": "E",
+  "start_page": 131,
+  "end_page": 133
+ },
+ {
+  "id": "CS-E 680",
+  "title": "Inclination and Gyroscopic Load Effects",
+  "subpart": "E",
+  "start_page": 133,
+  "end_page": 133
+ },
+ {
+  "id": "AMC E 680",
+  "title": "Inclination and Gyroscopic Load Effects",
+  "subpart": "E",
+  "start_page": 133,
+  "end_page": 133
+ },
+ {
+  "id": "CS-E 690",
+  "title": "Engine Bleed",
+  "subpart": "E",
+  "start_page": 133,
+  "end_page": 134
+ },
+ {
+  "id": "AMC E 690",
+  "title": "Engine bleed",
+  "subpart": "E",
+  "start_page": 134,
+  "end_page": 134
+ },
+ {
+  "id": "CS-E 700",
+  "title": "Excess Operating Conditions",
+  "subpart": "E",
+  "start_page": 134,
+  "end_page": 135
+ },
+ {
+  "id": "AMC E 700",
+  "title": "Excess Operating Conditions (Turbine Engines for Aeroplanes)",
+  "subpart": "E",
+  "start_page": 135,
+  "end_page": 136
+ },
+ {
+  "id": "CS-E 710",
+  "title": "Rotor Locking Tests",
+  "subpart": "E",
+  "start_page": 136,
+  "end_page": 136
+ },
+ {
+  "id": "AMC E 710",
+  "title": "Rotor locking tests",
+  "subpart": "E",
+  "start_page": 136,
+  "end_page": 136
+ },
+ {
+  "id": "CS-E 720",
+  "title": "Continuous Ignition",
+  "subpart": "E",
+  "start_page": 136,
+  "end_page": 137
+ },
+ {
+  "id": "AMC E 720(a)",
+  "title": "Continuous Ignition",
+  "subpart": "E",
+  "start_page": 137,
+  "end_page": 137
+ },
+ {
+  "id": "CS-E 730",
+  "title": "Engine Calibration Test",
+  "subpart": "E",
+  "start_page": 137,
+  "end_page": 137
+ },
+ {
+  "id": "AMC E 730",
+  "title": "Calibration Tests",
+  "subpart": "E",
+  "start_page": 137,
+  "end_page": 138
+ },
+ {
+  "id": "CS-E 740",
+  "title": "Endurance Tests",
+  "subpart": "E",
+  "start_page": 138,
+  "end_page": 150
+ },
+ {
+  "id": "AMC E 740(c)(2)(i)",
+  "title": "Endurance Tests \u2013 30-Minute Power Rating",
+  "subpart": "E",
+  "start_page": 150,
+  "end_page": 150
+ },
+ {
+  "id": "AMC E 740(c)(3)",
+  "title": "Endurance Tests",
+  "subpart": "E",
+  "start_page": 150,
+  "end_page": 151
+ },
+ {
+  "id": "AMC E 740(c)(4)",
+  "title": "Alternate Endurance Testing \u2013 Turbofan Engine",
+  "subpart": "E",
+  "start_page": 151,
+  "end_page": 172
+ },
+ {
+  "id": "AMC E 740(f)(1)",
+  "title": "Multi-spool Engines",
+  "subpart": "E",
+  "start_page": 172,
+  "end_page": 173
+ },
+ {
+  "id": "AMC E 740(g)(1)",
+  "title": "Endurance Tests - Incremental Periods",
+  "subpart": "E",
+  "start_page": 173,
+  "end_page": 173
+ },
+ {
+  "id": "AMC E 740(i)(2)",
+  "title": "Endurance tests - Inspection checks",
+  "subpart": "E",
+  "start_page": 173,
+  "end_page": 174
+ },
+ {
+  "id": "CS-E 745",
+  "title": "Engine Acceleration",
+  "subpart": "E",
+  "start_page": 174,
+  "end_page": 175
+ },
+ {
+  "id": "AMC E 745",
+  "title": "Engine Acceleration",
+  "subpart": "E",
+  "start_page": 175,
+  "end_page": 175
+ },
+ {
+  "id": "CS-E 750",
+  "title": "Starting Tests",
+  "subpart": "E",
+  "start_page": 175,
+  "end_page": 176
+ },
+ {
+  "id": "AMC E 750(b)",
+  "title": "Starting tests",
+  "subpart": "E",
+  "start_page": 176,
+  "end_page": 176
+ },
+ {
+  "id": "CS-E 770",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "E",
+  "start_page": 176,
+  "end_page": 176
+ },
+ {
+  "id": "AMC E 770",
+  "title": "Low Temperature Starting Tests",
+  "subpart": "E",
+  "start_page": 176,
+  "end_page": 176
+ },
+ {
+  "id": "CS-E 780",
+  "title": "Icing Conditions",
+  "subpart": "E",
+  "start_page": 176,
+  "end_page": 178
+ },
+ {
+  "id": "AMC E 780",
+  "title": "Icing Conditions",
+  "subpart": "E",
+  "start_page": 178,
+  "end_page": 194
+ },
+ {
+  "id": "CS-E 790",
+  "title": "Ingestion of Rain and Hail",
+  "subpart": "E",
+  "start_page": 194,
+  "end_page": 196
+ },
+ {
+  "id": "AMC E 790",
+  "title": "Rain and Hail Ingestion",
+  "subpart": "E",
+  "start_page": 196,
+  "end_page": 196
+ },
+ {
+  "id": "AMC E 790(a)(1)",
+  "title": "Rain and Hail Ingestion Certification for Design Changes and Derivative Engines \u2013 Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
+  "subpart": "E",
+  "start_page": 196,
+  "end_page": 196
+ },
+ {
+  "id": "AMC E 790(a)(2)",
+  "title": "Rain and Hail Ingestion \u2013 Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
+  "subpart": "E",
+  "start_page": 196,
+  "end_page": 210
+ },
+ {
+  "id": "Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail",
+  "title": "",
+  "subpart": "E",
+  "start_page": 210,
+  "end_page": 212
+ },
+ {
+  "id": "CS-E 800",
+  "title": "Bird Strike and Ingestion",
+  "subpart": "E",
+  "start_page": 212,
+  "end_page": 219
+ },
+ {
+  "id": "AMC E 800",
+  "title": "Bird Strike and Ingestion",
+  "subpart": "E",
+  "start_page": 219,
+  "end_page": 226
+ },
+ {
+  "id": "CS-E 810",
+  "title": "Compressor and Turbine Blade Failure",
+  "subpart": "E",
+  "start_page": 226,
+  "end_page": 226
+ },
+ {
+  "id": "AMC E 810",
+  "title": "Compressor and Turbine Blade Failure",
+  "subpart": "E",
+  "start_page": 226,
+  "end_page": 229
+ },
+ {
+  "id": "CS-E 820",
+  "title": "Over-torque Test",
+  "subpart": "E",
+  "start_page": 229,
+  "end_page": 230
+ },
+ {
+  "id": "AMC E 820(a)(2)",
+  "title": "Over-torque Test",
+  "subpart": "E",
+  "start_page": 230,
+  "end_page": 230
+ },
+ {
+  "id": "CS-E 830",
+  "title": "Maximum Engine Over-speed",
+  "subpart": "E",
+  "start_page": 230,
+  "end_page": 230
+ },
+ {
+  "id": "AMC E 830(c)",
+  "title": "Maximum Engine Over-speed",
+  "subpart": "E",
+  "start_page": 230,
+  "end_page": 231
+ },
+ {
+  "id": "CS-E 840",
+  "title": "Rotor Integrity",
+  "subpart": "E",
+  "start_page": 231,
+  "end_page": 232
+ },
+ {
+  "id": "AMC E 840",
+  "title": "Rotor Integrity",
+  "subpart": "E",
+  "start_page": 232,
+  "end_page": 235
+ },
+ {
+  "id": "CS-E 850",
+  "title": "Compressor, Fan and Turbine Shafts",
+  "subpart": "E",
+  "start_page": 235,
+  "end_page": 236
+ },
+ {
+  "id": "AMC E 850",
+  "title": "Compressor, Fan and Turbine Shafts",
+  "subpart": "E",
+  "start_page": 236,
+  "end_page": 239
+ },
+ {
+  "id": "CS-E 860",
+  "title": "Turbine Rotor Over-temperature",
+  "subpart": "E",
+  "start_page": 239,
+  "end_page": 239
+ },
+ {
+  "id": "CS-E 870",
+  "title": "Exhaust Gas Over-temperature Test",
+  "subpart": "E",
+  "start_page": 239,
+  "end_page": 240
+ },
+ {
+  "id": "AMC E 870(a)(3)",
+  "title": "Exhaust Gas Over-temperature Test",
+  "subpart": "E",
+  "start_page": 240,
+  "end_page": 240
+ },
+ {
+  "id": "CS-E 880",
+  "title": "Tests with Refrigerant Injection for Take-Off and/or 2\u00bd- Minute OEI Power",
+  "subpart": "E",
+  "start_page": 240,
+  "end_page": 241
+ },
+ {
+  "id": "CS-E 890",
+  "title": "Thrust Reverser Tests",
+  "subpart": "E",
+  "start_page": 241,
+  "end_page": 242
+ },
+ {
+  "id": "AMC E 890",
+  "title": "Thrust Reverser Tests",
+  "subpart": "E",
+  "start_page": 242,
+  "end_page": 243
+ },
+ {
+  "id": "CS-E 900",
+  "title": "Propeller Parking Brake",
+  "subpart": "E",
+  "start_page": 243,
+  "end_page": 243
+ },
+ {
+  "id": "CS-E 910",
+  "title": "Relighting In Flight",
+  "subpart": "E",
+  "start_page": 243,
+  "end_page": 244
+ },
+ {
+  "id": "AMC E 910",
+  "title": "Relighting In Flight",
+  "subpart": "E",
+  "start_page": 244,
+  "end_page": 244
+ },
+ {
+  "id": "CS-E 920",
+  "title": "Over-temperature Test",
+  "subpart": "E",
+  "start_page": 244,
+  "end_page": 245
+ },
+ {
+  "id": "AMC E 920",
+  "title": "Over-temperature test",
+  "subpart": "E",
+  "start_page": 245,
+  "end_page": 245
+ },
+ {
+  "id": "CS-E 930",
+  "title": "Initial Maintenance Programme Test",
+  "subpart": "E",
+  "start_page": 245,
+  "end_page": 245
+ },
+ {
+  "id": "AMC E 930",
+  "title": "Initial Maintenance Programme Test",
+  "subpart": "E",
+  "start_page": 245,
+  "end_page": 252
+ },
+ {
+  "id": "CS-E 1000",
+  "title": "General",
+  "subpart": "F",
+  "start_page": 252,
+  "end_page": 252
+ },
+ {
+  "id": "AMC E 1000",
+  "title": "Environmental and Operational Design Specifications - General",
+  "subpart": "F",
+  "start_page": 252,
+  "end_page": 252
+ },
+ {
+  "id": "CS-E 1010",
+  "title": "Fuel Venting",
+  "subpart": "F",
+  "start_page": 252,
+  "end_page": 252
+ },
+ {
+  "id": "CS-E 1020",
+  "title": "Engine Emissions",
+  "subpart": "F",
+  "start_page": 252,
+  "end_page": 252
+ },
+ {
+  "id": "AMC E 1020",
+  "title": "Engine emissions",
+  "subpart": "F",
+  "start_page": 252,
+  "end_page": 253
+ },
+ {
+  "id": "CS-E 1030",
+  "title": "Time Limited Dispatch",
+  "subpart": "F",
+  "start_page": 253,
+  "end_page": 253
+ },
+ {
+  "id": "AMC E 1030",
+  "title": "Time limited dispatch",
+  "subpart": "F",
+  "start_page": 253,
+  "end_page": 261
+ },
+ {
+  "id": "CS-E 1040",
+  "title": "ETOPS",
+  "subpart": "F",
+  "start_page": 261,
+  "end_page": 261
+ },
+ {
+  "id": "CS-E 1050",
+  "title": "Exposure to volcanic cloud hazards",
+  "subpart": "F",
+  "start_page": 261,
+  "end_page": 262
+ },
+ {
+  "id": "AMC E 1050",
+  "title": "Exposure to volcanic cloud hazards",
+  "subpart": "F",
+  "start_page": 262,
+  "end_page": 262
+ }
+]

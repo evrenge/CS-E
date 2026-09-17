@@ -54,6 +54,13 @@ CS-E terms and records the open [VERIFY] items. Summary:
 4. One short verbatim quote (max 1 sentence) per note from the key CS text, in the "Rule text" callout.
 5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
 6. For pages with figures or tables, render the page to PNG and read the image. Do not rely on extracted text.
+7. Never cap a list. Every obligation in an applicable sub-point reaches the note.
+   When `What we must do` exceeds ~10 items, group them under `###` sub-headings by
+   theme instead of trimming. Dropping an obligation to fit a length target is the
+   same defect as silent omission.
+8. A note never repeats content that has its own note. Link to it instead. Two
+   copies of the same requirement drift apart, and the graph exists precisely so
+   that one copy can serve every reader.
 
 ## Note template (Obsidian, one file per paragraph, `vault/`)
 Filename is the paragraph id: `CS-E 740.md`, `AMC E 740(c)(3).md`.
@@ -78,6 +85,7 @@ tags: [endurance, oei, test]
 
 ## What we must do
 - test / analysis / document items, each with its [ref]
+- over ~10 items, group under `###` sub-headings by theme — never trim (rule 7)
 
 ## Turboshaft note
 Rotorcraft-specific point, or "None".
@@ -93,7 +101,9 @@ Rotorcraft-specific point, or "None".
 [[CS-E 730]] · [[CS-E 50]]
 
 ## Notes
-Longer explanation, AMC detail, worked examples.
+Only what belongs nowhere else: what changed at Amdt 7/8 and why it matters,
+worked examples, and [VERIFY] items. Detail that has its own note is linked,
+never restated (rule 8).
 ```
 
 An AMC note carries `## Specification` linking back to its parent CS instead of
@@ -125,6 +135,7 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
+    ├── spans.json           # true page span per paragraph
     ├── paragraph_index.csv  # id, title, subpart, pages, figures, changed_in
     ├── applicability.md     # turboshaft verdict + reason per paragraph
     └── phase1_report.md
@@ -142,16 +153,23 @@ Where to look instead of trusting a number written here:
 ## Regenerating
 
 ```bash
-.venv/bin/python scripts/extract_text.py         # pages  -> work/text/
+.venv/bin/python scripts/extract_text.py         # pages  -> work/text/, work/pages.json
+.venv/bin/python scripts/paragraph_text.py       # paras  -> work/paragraphs/, work/spans.json
 .venv/bin/python scripts/build_index.py          # index  -> work/paragraph_index.csv
-.venv/bin/python scripts/paragraph_text.py       # paras  -> work/paragraphs/
 .venv/bin/python scripts/scope_evidence.py       # scope keyword evidence
 .venv/bin/python scripts/build_applicability.py  # verdicts -> work/applicability.md
+.venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/verify_sources.py       # source integrity
 ```
 
+Order matters: `paragraph_text.py` establishes the true page span of each
+paragraph (`work/spans.json`) and `build_index.py` consumes it. Deriving the span
+any other way gets it wrong wherever a heading banner sits part-way down a page.
+
 `build_applicability.py` fails loudly if the classification and the index
-disagree, or if the topic grouping misses a paragraph that applies. Trust it over
+disagree, or if the topic grouping misses a paragraph that applies.
+`lint_vault.py` fails on a ghost wikilink, frontmatter that contradicts the index,
+a missing section, or a note for a paragraph that is not APPLIES. Trust them over
 any prose.
 
 ## Redline marking scheme

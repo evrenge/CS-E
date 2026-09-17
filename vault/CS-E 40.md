@@ -50,6 +50,4 @@ Two rotorcraft OEI ratings exist that we do not claim: 2½-Minute OEI [CS-E 40(b
 ## Notes
 Changed at Amendment 7. The redline declaration is `CS-E 40 is amended as follows:` — see `changed_refs` in `work/paragraph_index.csv`.
 
-Rated 30-Minute Power is defined in AMC E 40(b)(3)(7) as "the approved brake horsepower, developed under static conditions at specified altitudes and temperatures within the operating limitations established for the Engine, and limited in use for periods of no more than 30 minutes". It may be set at any level between Maximum Continuous up to and including the take-off rating, and may be used for multiple periods of up to 30 minutes each, at any time between take-off and landing.
-
-The 30-Second and 2-Minute OEI ratings are two separate ratings, but AMC E 40(b)(3)(1) notes they are "associated in a combined structure of 2.5 minutes duration".
+Rated 30-Minute Power, and the way the 30-Second and 2-Minute OEI ratings combine, are defined in [[AMC E 40(b)(3)]]. The levels and their time limits live in that note, not here.

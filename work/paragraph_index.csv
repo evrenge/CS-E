@@ -1,177 +1,177 @@
 id,title,subpart,start_page,end_page,has_figure_or_table,changed_in,changed_refs
-AMC General,AMC General,A,15,15,no,none,
+AMC General,,A,15,15,no,none,
 CS-E 10,Applicability,A,15,15,no,Amdt7,[Amdt7] CS-E 10 is amended as follows:
-AMC E 10(b),Thrust Reversers,A,15,15,no,Amdt7,[Amdt7] AMC E 10(b) is amended as follows:
-CS-E 15,Terminology,A,16,17,no,none,
+AMC E 10(b),Thrust Reversers,A,15,16,no,Amdt7,[Amdt7] AMC E 10(b) is amended as follows:
+CS-E 15,Terminology,A,16,18,no,none,
 CS-E 20,Engine Configuration and Interfaces,A,18,18,no,none,
 AMC E 20,Engine Configuration and Interfaces,A,19,19,no,none,
-AMC E 20(f),Power Assurance Data for Engines with One or More OEI Power Ratings,A,20,20,no,Amdt8,[Amdt8] AMC E 20(f) is amended as follows:
-CS-E 25,Instructions for Continued Airworthiness,A,21,21,no,Amdt7,[Amdt7] CS-E 25 is amended as follows:
-AMC E 25,Instructions for continued airworthiness,A,22,26,no,Amdt8,[Amdt8] Point (6) is added in AMC E 25 as follows:
+AMC E 20(f),Power Assurance Data for Engines with One or More OEI Power Ratings,A,20,21,no,Amdt8,[Amdt8] AMC E 20(f) is amended as follows:
+CS-E 25,Instructions for Continued Airworthiness,A,21,22,no,Amdt7,[Amdt7] CS-E 25 is amended as follows:
+AMC E 25,Instructions for continued airworthiness,A,22,27,yes,Amdt8,[Amdt8] Point (6) is added in AMC E 25 as follows:
 CS-E 30,Assumptions,A,27,27,yes,none,
-AMC E 30,Assumptions,A,27,28,yes,Amdt7,[Amdt7] AMC E 30 is amended as follows:
-CS-E 40,Ratings,A,29,29,yes,Amdt7,[Amdt7] CS-E 40 is amended as follows:
+AMC E 30,Assumptions,A,27,29,yes,Amdt7,[Amdt7] AMC E 30 is amended as follows:
+CS-E 40,Ratings,A,29,30,yes,Amdt7,[Amdt7] CS-E 40 is amended as follows:
 AMC E 40,Ratings,A,30,30,no,none,
-AMC E 40(b)(3),"and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings",A,30,30,no,none,
-AMC E 40(d),Operating Limitations,A,31,32,no,none,
-CS-E 50,Engine Control System,A,33,35,no,none,
-AMC E 50,Engine Control System,A,36,36,no,none,
+AMC E 40(b)(3),"and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Power Ratings",A,30,31,no,none,
+AMC E 40(d),Operating Limitations,A,31,33,no,none,
+CS-E 50,Engine Control System,A,33,36,no,none,
+AMC E 50,Engine Control System,A,36,37,no,none,
 AMC E 50(e),Rotor integrity,A,37,37,no,none,
-AMC E 50(j),Controls - Engines having a 30-Second OEI Power Rating,A,37,37,no,none,
+AMC E 50(j),Controls - Engines having a 30-Second OEI Power Rating,A,37,38,no,none,
 AMC to CS-E 50(l),Information system security protection,A,38,38,no,none,
-CS-E 60,Provision for Instruments,A,38,38,no,none,
-AMC E 60,Provision for instruments,A,39,39,no,Amdt7,[Amdt7] AMC E 60 is amended as follows:
-AMC E 60(d),Provision for instruments,A,40,40,no,none,
+CS-E 60,Provision for Instruments,A,38,39,no,none,
+AMC E 60,Provision for instruments,A,39,40,no,Amdt7,[Amdt7] AMC E 60 is amended as follows:
+AMC E 60(d),Provision for instruments,A,40,41,no,none,
 CS-E 70,Materials and Manufacturing Methods,A,41,41,no,none,
-AMC E 70,"Castings, Forgings, Welded Structures and Welded Components",A,41,42,no,none,
-CS-E 80,Equipment,A,43,43,no,none,
-AMC E 80,Equipment,A,44,49,yes,none,
+AMC E 70,"Castings, Forgings, Welded Structures and Welded Components",A,41,43,no,none,
+CS-E 80,Equipment,A,43,44,yes,none,
+AMC E 80,Equipment,A,44,50,yes,none,
 CS-E 90,Prevention of Corrosion and Deterioration,A,50,50,yes,none,
 CS-E 100,Strength,A,50,50,yes,none,
-CS-E 110,Drawings and Marking of Parts – Assembly of Parts,A,50,50,yes,none,
+CS-E 110,Drawings and Marking of Parts – Assembly of Parts,A,50,51,yes,none,
 CS-E 120,Identification,A,51,51,no,Amdt7,[Amdt7] CS-E 120 is amended as follows:
 CS-E 130,Fire Protection,A,51,52,no,none,
-AMC E 130,Fire Protection,A,53,58,no,Amdt8,[Amdt8] AMC E 130 is amended as follows:
+AMC E 130,Fire Protection,A,53,59,no,Amdt8,[Amdt8] AMC E 130 is amended as follows:
 CS-E 135,Electrical Bonding,A,59,59,no,none,
-AMC E 135,Electrical Bonding,A,59,59,no,none,
+AMC E 135,Electrical Bonding,A,59,60,no,none,
 CS-E 140,Tests - Engine Configuration,A,60,60,no,none,
-AMC E 140,Test - Engine configuration,A,60,60,no,none,
+AMC E 140,Test - Engine configuration,A,60,61,no,none,
 CS-E 150,Tests - General Conduct of Tests,A,61,61,no,none,
 AMC E 150(a),Tests - General conduct of tests,A,61,61,no,none,
 CS-E 160,Tests - History,A,61,61,no,Amdt7,[Amdt7] CS-E 160 is amended as follows:
-CS-E 170,Engine Systems and Component Verification,A,61,61,no,none,
-AMC E 170,Engine systems and component verification,A,62,62,no,none,
-CS-E 180,Propeller Functioning Tests,A,63,63,no,none,
+CS-E 170,Engine Systems and Component Verification,A,61,62,no,none,
+AMC E 170,Engine systems and component verification,A,62,63,no,none,
+CS-E 180,Propeller Functioning Tests,A,63,64,no,none,
 AMC E 180,Propeller Functioning Tests,A,64,64,no,none,
-CS-E 190,Engines for Aerobatic Use,A,64,64,no,none,
+CS-E 190,Engines for Aerobatic Use,A,64,65,no,none,
 CS-E 210,Failure Analysis,B,65,65,no,none,
-AMC E 210,Failure Analysis,B,65,65,no,Amdt7,[Amdt7] AMC E 210 is amended as follows:
+AMC E 210,Failure Analysis,B,65,66,no,Amdt7,[Amdt7] AMC E 210 is amended as follows:
 CS-E 230,De-Icing and Anti-Icing Precautions,B,66,66,no,none,
 CS-E 240,Ignition,B,66,66,no,none,
-AMC E 240,Ignition,B,66,66,no,Amdt7,[Amdt7] AMC E 240 is created as follows:
+AMC E 240,Ignition,B,66,67,no,Amdt7,[Amdt7] AMC E 240 is created as follows:
 CS-E 250,Fuel System,B,67,67,no,none,
 CS-E 260,Engine Cooling System,B,67,67,no,none,
-CS-E 270,Lubrication System,B,67,67,no,none,
-CS-E 290,Hand Turning,B,68,68,no,none,
-CS-E 300,Conditions Applicable to All Tests,C,69,69,yes,none,
+CS-E 270,Lubrication System,B,67,68,no,none,
+CS-E 290,Hand Turning,B,68,69,yes,none,
+CS-E 300,Conditions Applicable to All Tests,C,69,70,yes,none,
 AMC E 300(f),Conditions Applicable to all Tests - Torque Measurement,C,70,70,no,none,
 CS-E 320,Performance Correction,C,70,70,no,none,
-AMC E 320,Performance Correction,C,70,70,no,Amdt8,[Amdt8] AMC E 320 is amended as follows:
+AMC E 320,Performance Correction,C,70,71,no,Amdt8,[Amdt8] AMC E 320 is amended as follows:
 CS-E 330,Tests - General,C,71,71,no,none,
-CS-E 340,Vibration Tests,C,71,71,no,none,
+CS-E 340,Vibration Tests,C,71,72,no,none,
 AMC E 340,Vibration Tests,C,72,72,no,none,
 CS-E 350,Calibration Tests,C,72,72,no,none,
-AMC E 350,Calibration Tests,C,72,72,no,none,
+AMC E 350,Calibration Tests,C,72,73,no,none,
 CS-E 360,Detonation Tests,C,73,73,no,none,
 CS-E 370,Starting Tests,C,73,73,no,none,
-CS-E 380,Low Temperature Starting Tests,C,73,73,no,none,
+CS-E 380,Low Temperature Starting Tests,C,73,74,no,none,
 AMC E 380,Low Temperature Starting Tests,C,74,74,no,none,
-CS-E 390,Acceleration Tests,C,74,74,no,none,
+CS-E 390,Acceleration Tests,C,74,75,no,none,
 CS-E 400,Over-speed Tests,C,75,75,no,none,
-CS-E 430,Water Spray Tests,C,75,75,no,none,
-CS-E 440,Endurance Test,C,76,78,no,none,
+CS-E 430,Water Spray Tests,C,75,76,no,none,
+CS-E 440,Endurance Test,C,76,79,no,none,
 AMC E 440(b)(3),Endurance Test - Schedule for Engine Incorporating a Turbocharger,C,79,79,no,none,
 CS-E 450,Ignition Tests,C,79,79,no,none,
 CS-E 460,Backfire Tests,C,79,79,no,none,
-CS-E 470,Contaminated Fuel,C,79,79,no,none,
-AMC E 470,Contaminated Fuel,C,80,80,no,none,
+CS-E 470,Contaminated Fuel,C,79,80,no,none,
+AMC E 470,Contaminated Fuel,C,80,81,no,none,
 CS-E 500,Functioning,D,81,81,no,none,
 AMC E 500,Functioning - Control of Engines (Turbine Engines for Aeroplanes),D,81,81,no,none,
-CS-E 510,Safety Analysis,D,81,82,no,none,
-AMC E 510,Safety analysis,D,83,90,no,Amdt7,[Amdt7] AMC E 510 is amended as follows:
+CS-E 510,Safety Analysis,D,81,83,no,none,
+AMC E 510,Safety analysis,D,83,91,no,Amdt7,[Amdt7] AMC E 510 is amended as follows:
 CS-E 515,Engine Critical Parts,D,91,91,no,none,
-AMC E 515,Engine Critical Parts,D,91,105,yes,Amdt7,[Amdt7] AMC E 515(3)(d)(v) is amended as follows: | [Amdt7] AMC E 515(e)(i) is amended as follows:
+AMC E 515,Engine Critical Parts,D,91,106,yes,Amdt7,[Amdt7] AMC E 515(3)(d)(v) is amended as follows: | [Amdt7] AMC E 515(e)(i) is amended as follows:
 CS-E 520,Strength,D,106,106,no,Amdt7,[Amdt7] CS-E 520 is amended as follows:
-AMC E 520(a),Strength - High Cycle Fatigue,D,106,106,no,none,
+AMC E 520(a),Strength - High Cycle Fatigue,D,106,107,no,none,
 AMC E 520(c)(1),Strength - Shedding of Blades,D,107,107,no,none,
-AMC E 520(c)(2),Engine Model Validation,D,107,107,no,Amdt7,[Amdt7] AMC E 520(c)(2) is amended as follows:
+AMC E 520(c)(2),Engine Model Validation,D,107,108,no,Amdt7,[Amdt7] AMC E 520(c)(2) is amended as follows:
 AMC E 520(d),Strength – Local Failures,D,108,108,no,none,
-CS-E 525,Continued Rotation,D,108,108,no,none,
+CS-E 525,Continued Rotation,D,108,109,no,none,
 AMC E 525,Continued rotation,D,109,109,no,none,
 CS-E 540,Strike and Ingestion of Foreign Matter,D,109,109,no,none,
-AMC E 540,Strike and ingestion of foreign matter,D,109,109,no,none,
-CS-E 560,Fuel System,D,110,110,no,none,
-AMC E 560,Fuel System,D,111,111,no,none,
-CS-E 570,Oil System,D,112,113,no,none,
+AMC E 540,Strike and ingestion of foreign matter,D,109,110,no,none,
+CS-E 560,Fuel System,D,110,111,no,none,
+AMC E 560,Fuel System,D,111,112,no,none,
+CS-E 570,Oil System,D,112,114,no,none,
 AMC E 570,Oil system,D,114,114,no,none,
 CS-E 580,Air Systems,D,114,114,no,none,
-CS-E 590,Starter Systems,D,114,114,no,none,
+CS-E 590,Starter Systems,D,114,115,no,none,
 CS-E 600,Tests - General,E,115,115,no,none,
 AMC E 600(e),Test - General,E,115,115,no,none,
-CS-E 620,Performance Correction,E,115,115,no,none,
-AMC E 620,Performance: Formulae,E,116,116,no,none,
-CS-E 640,Pressure Loads,E,117,117,no,none,
-AMC E 640,Pressure Loads,E,118,118,no,none,
-CS-E 650,Vibration Surveys,E,119,119,no,none,
-AMC E 650,Vibration Surveys,E,120,129,yes,Amdt7;Amdt8,[Amdt7] AMC E 650 is amended as follows: | [Amdt8] AMC E 650(10) is amended as follows:
-CS-E 660,Fuel Pressure and Temperature,E,130,130,no,none,
+CS-E 620,Performance Correction,E,115,116,no,none,
+AMC E 620,Performance: Formulae,E,116,117,no,none,
+CS-E 640,Pressure Loads,E,117,118,no,none,
+AMC E 640,Pressure Loads,E,118,119,no,none,
+CS-E 650,Vibration Surveys,E,119,120,yes,none,
+AMC E 650,Vibration Surveys,E,120,130,yes,Amdt7;Amdt8,[Amdt7] AMC E 650 is amended as follows: | [Amdt8] AMC E 650(10) is amended as follows:
+CS-E 660,Fuel Pressure and Temperature,E,130,131,yes,none,
 AMC E 660,Fuel Pump Tests (Turbine Engines for Aeroplanes),E,131,131,yes,none,
 CS-E 670,Contaminated Fuel,E,131,131,yes,none,
-AMC E 670,Contaminated Fuel Testing,E,131,132,yes,none,
+AMC E 670,Contaminated Fuel Testing,E,131,133,yes,none,
 CS-E 680,Inclination and Gyroscopic Load Effects,E,133,133,no,none,
 AMC E 680,Inclination and Gyroscopic Load Effects,E,133,133,no,none,
-CS-E 690,Engine Bleed,E,133,133,no,Amdt8,[Amdt8] CS-E 690 is amended as follows:
+CS-E 690,Engine Bleed,E,133,134,no,Amdt8,[Amdt8] CS-E 690 is amended as follows:
 AMC E 690,Engine bleed,E,134,134,no,Amdt8,[Amdt8] AMC E 690 is amended as follows:
-CS-E 700,Excess Operating Conditions,E,134,134,no,none,
-AMC E 700,Excess Operating Conditions (Turbine Engines for Aeroplanes),E,135,135,no,none,
+CS-E 700,Excess Operating Conditions,E,134,135,no,none,
+AMC E 700,Excess Operating Conditions (Turbine Engines for Aeroplanes),E,135,136,no,none,
 CS-E 710,Rotor Locking Tests,E,136,136,no,none,
 AMC E 710,Rotor locking tests,E,136,136,no,none,
-CS-E 720,Continuous Ignition,E,136,136,no,none,
+CS-E 720,Continuous Ignition,E,136,137,no,none,
 AMC E 720(a),Continuous Ignition,E,137,137,no,none,
 CS-E 730,Engine Calibration Test,E,137,137,no,Amdt8,[Amdt8] CS-E 730 is amended as follows:
-AMC E 730,Calibration Tests,E,137,137,no,none,
-CS-E 740,Endurance Tests,E,138,149,no,Amdt8,[Amdt8] CS-E 740 is amended as follows:
+AMC E 730,Calibration Tests,E,137,138,no,none,
+CS-E 740,Endurance Tests,E,138,150,no,Amdt8,[Amdt8] CS-E 740 is amended as follows:
 AMC E 740(c)(2)(i),Endurance Tests – 30-Minute Power Rating,E,150,150,no,Amdt8,[Amdt8] AMC E 740(c)(2)(i) is amended as follows:
-AMC E 740(c)(3),Endurance Tests,E,150,150,no,Amdt8,[Amdt8] AMC E 740(c)(3) is amended as follows:
-AMC E 740(c)(4),Alternate Endurance Testing – Turbofan Engine,E,151,171,yes,Amdt8,[Amdt8] The following AMC E 740(c)(4) is added:
-AMC E 740(f)(1),Multi-spool Engines,E,172,172,yes,none,
+AMC E 740(c)(3),Endurance Tests,E,150,151,no,Amdt8,[Amdt8] AMC E 740(c)(3) is amended as follows:
+AMC E 740(c)(4),Alternate Endurance Testing – Turbofan Engine,E,151,172,yes,Amdt8,[Amdt8] The following AMC E 740(c)(4) is added:
+AMC E 740(f)(1),Multi-spool Engines,E,172,173,yes,none,
 AMC E 740(g)(1),Endurance Tests - Incremental Periods,E,173,173,no,none,
-AMC E 740(i)(2),Endurance tests - Inspection checks,E,173,173,no,Amdt8,[Amdt8] AMC E 740(h)(2) is renamed as AMC E 740(i)(2) and its content is amended as follows:
-CS-E 745,Engine Acceleration,E,174,174,no,none,
+AMC E 740(i)(2),Endurance tests - Inspection checks,E,173,174,no,Amdt8,[Amdt8] AMC E 740(h)(2) is renamed as AMC E 740(i)(2) and its content is amended as follows:
+CS-E 745,Engine Acceleration,E,174,175,no,none,
 AMC E 745,Engine Acceleration,E,175,175,no,none,
-CS-E 750,Starting Tests,E,175,175,no,none,
+CS-E 750,Starting Tests,E,175,176,no,none,
 AMC E 750(b),Starting tests,E,176,176,no,none,
 CS-E 770,Low Temperature Starting Tests,E,176,176,no,none,
 AMC E 770,Low Temperature Starting Tests,E,176,176,no,none,
-CS-E 780,Icing Conditions,E,176,177,no,Amdt7,[Amdt7] CS-E 780 is amended as follows:
-AMC E 780,Icing Conditions,E,178,193,yes,Amdt7,[Amdt7] AMC E 780 is amended as follows:
-CS-E 790,Ingestion of Rain and Hail,E,194,195,no,none,
+CS-E 780,Icing Conditions,E,176,178,no,Amdt7,[Amdt7] CS-E 780 is amended as follows:
+AMC E 780,Icing Conditions,E,178,194,yes,Amdt7,[Amdt7] AMC E 780 is amended as follows:
+CS-E 790,Ingestion of Rain and Hail,E,194,196,no,none,
 AMC E 790,Rain and Hail Ingestion,E,196,196,no,none,
 AMC E 790(a)(1),Rain and Hail Ingestion Certification for Design Changes and Derivative Engines – Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,196,no,none,
-AMC E 790(a)(2),Rain and Hail Ingestion – Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,209,yes,none,
-Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail,Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail,E,210,211,yes,none,
-CS-E 800,Bird Strike and Ingestion,E,212,218,yes,none,
-AMC E 800,Bird Strike and Ingestion,E,219,225,yes,none,
+AMC E 790(a)(2),Rain and Hail Ingestion – Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,210,yes,none,
+Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail,,E,210,212,yes,none,
+CS-E 800,Bird Strike and Ingestion,E,212,219,yes,none,
+AMC E 800,Bird Strike and Ingestion,E,219,226,yes,none,
 CS-E 810,Compressor and Turbine Blade Failure,E,226,226,no,Amdt7,[Amdt7] CS-E 810 is amended as follows:
-AMC E 810,Compressor and Turbine Blade Failure,E,226,228,no,Amdt7,[Amdt7] AMC E 810 is amended as follows:
-CS-E 820,Over-torque Test,E,229,229,no,none,
+AMC E 810,Compressor and Turbine Blade Failure,E,226,229,no,Amdt7,[Amdt7] AMC E 810 is amended as follows:
+CS-E 820,Over-torque Test,E,229,230,no,none,
 AMC E 820(a)(2),Over-torque Test,E,230,230,no,none,
 CS-E 830,Maximum Engine Over-speed,E,230,230,no,none,
-AMC E 830(c),Maximum Engine Over-speed,E,230,230,no,none,
-CS-E 840,Rotor Integrity,E,231,231,no,none,
-AMC E 840,Rotor Integrity,E,232,234,no,none,
-CS-E 850,"Compressor, Fan and Turbine Shafts",E,235,235,no,none,
-AMC E 850,"Compressor, Fan and Turbine Shafts",E,236,238,no,none,
+AMC E 830(c),Maximum Engine Over-speed,E,230,231,no,none,
+CS-E 840,Rotor Integrity,E,231,232,no,none,
+AMC E 840,Rotor Integrity,E,232,235,no,none,
+CS-E 850,"Compressor, Fan and Turbine Shafts",E,235,236,no,none,
+AMC E 850,"Compressor, Fan and Turbine Shafts",E,236,239,no,none,
 CS-E 860,Turbine Rotor Over-temperature,E,239,239,no,none,
-CS-E 870,Exhaust Gas Over-temperature Test,E,239,239,no,none,
+CS-E 870,Exhaust Gas Over-temperature Test,E,239,240,no,none,
 AMC E 870(a)(3),Exhaust Gas Over-temperature Test,E,240,240,no,none,
-CS-E 880,Tests with Refrigerant Injection for Take-Off and/or 2½- Minute OEI Power,E,240,240,no,none,
-CS-E 890,Thrust Reverser Tests,E,241,241,no,Amdt8,[Amdt8] CS-E 890 is amended as follows:
-AMC E 890,Thrust Reverser Tests,E,242,242,no,none,
+CS-E 880,Tests with Refrigerant Injection for Take-Off and/or 2½- Minute OEI Power,E,240,241,no,none,
+CS-E 890,Thrust Reverser Tests,E,241,242,no,Amdt8,[Amdt8] CS-E 890 is amended as follows:
+AMC E 890,Thrust Reverser Tests,E,242,243,no,none,
 CS-E 900,Propeller Parking Brake,E,243,243,no,none,
-CS-E 910,Relighting In Flight,E,243,243,no,none,
+CS-E 910,Relighting In Flight,E,243,244,no,none,
 AMC E 910,Relighting In Flight,E,244,244,no,none,
-CS-E 920,Over-temperature Test,E,244,244,no,Amdt8,[Amdt8] CS-E 920 is amended as follows:
+CS-E 920,Over-temperature Test,E,244,245,no,Amdt8,[Amdt8] CS-E 920 is amended as follows:
 AMC E 920,Over-temperature test,E,245,245,no,Amdt8,[Amdt8] AMC E 920 is amended as follows:
 CS-E 930,Initial Maintenance Programme Test,E,245,245,no,Amdt8,[Amdt8] The following CS-E 930 is added:
-AMC E 930,Initial Maintenance Programme Test,E,245,251,no,Amdt8,[Amdt8] The following AMC E 930 is added:
+AMC E 930,Initial Maintenance Programme Test,E,245,252,no,Amdt8,[Amdt8] The following AMC E 930 is added:
 CS-E 1000,General,F,252,252,no,none,
 AMC E 1000,Environmental and Operational Design Specifications - General,F,252,252,no,none,
 CS-E 1010,Fuel Venting,F,252,252,no,none,
 CS-E 1020,Engine Emissions,F,252,252,no,none,
-AMC E 1020,Engine emissions,F,252,252,no,none,
+AMC E 1020,Engine emissions,F,252,253,no,none,
 CS-E 1030,Time Limited Dispatch,F,253,253,no,none,
-AMC E 1030,Time limited dispatch,F,253,260,yes,none,
+AMC E 1030,Time limited dispatch,F,253,261,yes,none,
 CS-E 1040,ETOPS,F,261,261,yes,none,
-CS-E 1050,Exposure to volcanic cloud hazards,F,261,261,yes,none,
+CS-E 1050,Exposure to volcanic cloud hazards,F,261,262,yes,none,
 AMC E 1050,Exposure to volcanic cloud hazards,F,262,262,no,none,

@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 PDF = ROOT / "source" / "CS-E_Amendment_8.pdf"
 SIDECAR = ROOT / "work" / "pages.json"
 OUT = ROOT / "work" / "paragraphs"
+SPANS = ROOT / "work" / "spans.json"
 
 WHITE = 16777215
 HEADING_MIN_SIZE = 14.0
@@ -113,6 +114,7 @@ def main() -> int:
             banners.append((i + 1, y, text))
 
     written = 0
+    spans: list[dict] = []
     for idx, (pno, y, heading) in enumerate(banners):
         if idx + 1 < len(banners):
             end_page, end_y = banners[idx + 1][0], banners[idx + 1][1]
@@ -137,9 +139,25 @@ def main() -> int:
             f"# source: CS-E_Amendment_8.pdf\n\n"
         )
         (OUT / name).write_text(header + "\n".join(chunks) + "\n", encoding="utf-8")
+        # True last page: the last one this paragraph actually puts body text on.
+        # Not next_banner_page - 1: a banner part-way down a page leaves the
+        # previous paragraph occupying the top of that same page, as CS-E 40(e)-(h)
+        # do on page 30 before the AMC E 40 banner.
+        last = pno
+        for n in range(pno, end_page + 1):
+            lo = y + 1 if n == pno else 0.0
+            hi = end_y if n == end_page else 10_000.0
+            if body_lines(doc[n - 1], lo, hi):
+                last = n
+        spans.append({
+            "id": pid, "title": heading[len(pid):].strip() if heading.startswith(pid) else heading,
+            "subpart": pages[pno]["subpart"], "start_page": pno, "end_page": last,
+        })
         written += 1
 
+    SPANS.write_text(json.dumps(spans, indent=1), encoding="utf-8")
     print(f"wrote {written} paragraph files to {OUT.relative_to(ROOT)}")
+    print(f"wrote {SPANS.relative_to(ROOT)}")
     return 0
 
 

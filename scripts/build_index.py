@@ -33,6 +33,7 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent.parent
 SIDECAR = ROOT / "work" / "pages.json"
+SPANS = ROOT / "work" / "spans.json"
 INDEX = ROOT / "work" / "paragraph_index.csv"
 CI = {
     "Amdt7": ROOT / "source" / "Change_Information_CS-E_Amdt_7.pdf",
@@ -90,27 +91,17 @@ def main() -> int:
         sys.exit("run scripts/extract_text.py first")
     pages = json.loads(SIDECAR.read_text())
     by_page = {p["page"]: p for p in pages}
-    last_page = max(by_page)
 
-    # Ordered heading list.
-    entries: list[dict] = []
-    for p in pages:
-        for heading in p["headings"]:
-            m = HEAD_ID.match(heading)
-            if m:
-                pid, title = " ".join(m.group(1).split()), m.group(2).strip()
-            else:
-                pid, title = heading.split("  ")[0].strip(), heading
-            entries.append({
-                "id": pid,
-                "title": title,
-                "subpart": p["subpart"],
-                "start_page": p["page"],
-            })
+    # Spans come from paragraph_text.py, which slices banner-to-banner and so
+    # knows the true last page of each paragraph. Deriving end_page here as
+    # "next heading's page minus one" is wrong whenever a banner sits part-way
+    # down a page: CS-E 40(e)-(h) occupy the top of page 30 above the AMC E 40
+    # banner, so CS-E 40 ends on page 30, not 29.
+    if not SPANS.exists():
+        sys.exit("run scripts/paragraph_text.py first (it writes work/spans.json)")
+    entries = [dict(e) for e in json.loads(SPANS.read_text())]
 
-    for i, e in enumerate(entries):
-        nxt = entries[i + 1]["start_page"] if i + 1 < len(entries) else last_page + 1
-        e["end_page"] = max(e["start_page"], nxt - 1)
+    for e in entries:
         span = range(e["start_page"], e["end_page"] + 1)
         e["has_figure_or_table"] = "yes" if any(
             by_page[n]["images"] > 1 or by_page[n]["tables"] > 0 or by_page[n]["captions"]
