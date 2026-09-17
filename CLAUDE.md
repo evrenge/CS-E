@@ -17,12 +17,15 @@ Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF
 - Aeroplane-only AMCs, thrust reverser, propeller, ETOPS, and the turbofan alternate
   endurance test CS-E 740(c)(4) are EXCLUDED unless the text says otherwise.
 
-## Engine variables (fill in; if blank, treat related paragraphs as CONDITIONAL)
-- OEI ratings claimed: [30-s / 2-min / 2.5-min / 30-min OEI / continuous OEI / none]
-- 30-Minute Power rating: [yes/no]
-- Control system: [EECS-FADEC / hydromechanical / hybrid]
-- Refrigerant injection: [yes/no]
-- Time-limited dispatch claimed: [yes/no]
+## Engine variables
+Declared in `engine_profile.md`, which also maps the applicant's rating names onto
+CS-E terms and records the open [VERIFY] items. Summary:
+- OEI ratings claimed: 30-Second OEI, 2-Minute OEI, Continuous OEI.
+  NOT claimed: 2.5-Minute OEI, 30-Minute OEI.
+- 30-Minute Power rating: yes (CS-E 40(b)(4)) [VERIFY the declared name maps to it]
+- Control system: EECS-FADEC, full authority
+- Refrigerant injection: no
+- Time-limited dispatch claimed: no
 
 ## Accuracy rules (non-negotiable)
 1. Every statement on a slide carries its paragraph reference, e.g. [CS-E 740(c)(3)].
@@ -51,126 +54,87 @@ Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF
 
 # Repository reference
 
-Everything below is repository state and tooling. It does not modify the rules above.
+Rules and invariants only. **Measured or derived values do not belong in this
+file** — they go stale and then mislead. Anything a script can recompute lives in
+`work/` or in `source/SOURCES.md`.
 
 ## Layout
 
 ```
 .
-├── CLAUDE.md                              # this file
-├── requirements.txt                       # pypdf (parsing), pypdfium2 (page -> PNG)
-├── source/                                # EASA source PDFs (authoritative, read-only)
-│   ├── SOURCES.md                         # provenance, roles, machine-readability notes
-│   ├── CHECKSUMS.sha256                   # integrity baseline
-│   ├── CS-E_Amendment_8.pdf               # 262 pp — the only authority for requirement content
-│   ├── CS-E_Amendment_7.pdf               # 228 pp — previous baseline, verbatim "before" text
-│   ├── Change_Information_CS-E_Amdt_8.pdf #  47 pp — change tags, Amdt 8
-│   ├── Change_Information_CS-E_Amdt_7.pdf #  30 pp — change tags, Amdt 7
-│   └── EN_to_ED_Decision_2025-003-R.pdf   #  11 pp — Explanatory Note, rationale only
-├── template/
-│   └── company_template.pptx              # optional TEI template (not present yet)
-└── scripts/
-    ├── fetch_sources.py                   # re-download a source from easa.europa.eu
-    └── verify_sources.py                  # integrity + text-layer + change-inventory check
+├── CLAUDE.md                # this file — rules
+├── engine_profile.md        # declared engine configuration — project input
+├── requirements.txt
+├── source/                  # EASA source PDFs, read-only. See source/SOURCES.md
+├── scripts/                 # extraction, indexing, classification, rendering
+└── work/                    # everything derived. Regenerate, never hand-edit
+    ├── text/                # one file per PDF page
+    ├── paragraphs/          # one file per CS-E / AMC paragraph
+    ├── paragraph_index.csv  # id, title, subpart, pages, figures, changed_in
+    ├── applicability.md     # turboshaft verdict + reason per paragraph
+    └── phase1_report.md
 ```
 
-Amendment 8 was issued by ED Decision 2025/003/R (8 Apr 2025); Amendment 7 by
-ED Decision 2023/020/R (15 Dec 2023). `EN_to_ED_Decision_2025-003-R.pdf` is the
-Explanatory Note to the Amdt 8 decision — background for the writer, never slide
-content, per the source-of-truth rule above.
+Where to look instead of trusting a number written here:
 
-`CS-E_Amendment_7.pdf` is the fifth file, beyond the original four. It supplies
-the verbatim pre-Amdt-8 text of any paragraph, which is what lets a "Changed in
-Amdt 8" slide say what the wording actually was.
+| Question | Source of truth |
+|---|---|
+| Which paragraphs changed, and at which amendment | `work/paragraph_index.csv` (`changed_in`, `changed_refs`) |
+| Does a paragraph apply to a turboshaft, and why | `work/applicability.md` |
+| Page counts, checksums, provenance | `source/SOURCES.md`, `source/CHECKSUMS.sha256` |
+| Declared ratings and systems | `engine_profile.md` |
 
-## Verified state
-
-All five PDFs are committed and verified: `/Author = EASA`, expected titles,
-page counts 262 / 228 / 47 / 30 / 11, a complete text layer on every page
-(no OCR needed anywhere), SHA-256 pinned in `source/CHECKSUMS.sha256`.
+## Regenerating
 
 ```bash
-pip install -r requirements.txt
-python3 scripts/verify_sources.py             # integrity + text layer + change inventory
-python3 scripts/verify_sources.py --inventory # list every declared change
-python3 scripts/fetch_sources.py --check      # checksum check only, no dependencies
+.venv/bin/python scripts/extract_text.py         # pages  -> work/text/
+.venv/bin/python scripts/build_index.py          # index  -> work/paragraph_index.csv
+.venv/bin/python scripts/paragraph_text.py       # paras  -> work/paragraphs/
+.venv/bin/python scripts/scope_evidence.py       # scope keyword evidence
+.venv/bin/python scripts/build_applicability.py  # verdicts -> work/applicability.md
+.venv/bin/python scripts/verify_sources.py       # source integrity
 ```
 
-Declared change inventory, parsed from the Change Information PDFs — this is the
-basis for the **Status: Changed in Amdt 7/8** field:
+`build_applicability.py` fails loudly if the classification and the index
+disagree, or if the topic grouping misses a paragraph that applies. Trust it over
+any prose.
 
-- **Amdt 8, 16 changes:** CS-E 690, 730, 740, 890, 920 amended; CS-E 930 added;
-  AMC E 20(f), 130, 320, 650(10), 690, 740(c)(2)(i), 740(c)(3), 920 amended;
-  AMC E 740(c)(4) and AMC E 930 added.
-- **Amdt 7, 20 changes:** CS-E 10, 25, 40, 120, 160, 520, 780, 810 amended;
-  AMC E 10(b), 30, 60, 210, 240, 510, 515(3)(d)(v), 515(e)(i), 520(c)(2), 650,
-  780, 810 amended or created.
+## Redline marking scheme
 
-Note that `AMC E 740(c)(4)` — the turbofan alternate endurance test — is an
-Amdt 8 addition and is EXCLUDED by the scope rule above. The Explanatory Note
-gives the alternate endurance test as a headline objective of ED Decision
-2025/003/R, so expect a large share of the Amdt 8 redline to fall outside scope,
-and expect CS-E 740 itself to need careful APPLIES / EXCLUDED splitting rather
-than a single verdict.
-
-## Redline extraction — read before writing any tagging code
-
-Both Change Information PDFs use the same marking scheme, verified by rendering
-pages and by reading the content stream:
+Both Change Information PDFs mark changes the same way:
 
 | Change | How it is drawn | How to detect it |
 |---|---|---|
-| Inserted text | black text on a **cyan** highlight | filled rectangle with non-stroking colour `0 1 1` behind the run (148 fills in the Amdt 7 CI, 114 in the Amdt 8 CI) |
-| Deleted text | **red** text with a strikethrough rule | text fill `1 0 0 rg` (4,118 chars in Amdt 7, 395 in Amdt 8), plus a red rule rectangle |
-| Unchanged context | plain black, no fill behind it | neither of the above |
+| Inserted | black text on a **cyan** highlight | filled rectangle, non-stroking colour `0 1 1`, behind the run |
+| Deleted | **red** text with a strikethrough rule | text fill `1 0 0 rg` plus a red rule rectangle |
+| Unchanged | plain black, nothing behind it | neither |
 
-Amendment 8 carries far less red than Amendment 7 because it is predominantly
-**additive** — new paragraphs such as CS-E 930 and AMC E 740(c)(4) — not because
-it uses a different convention.
-
-Two consequences:
-
-1. `PdfReader.extract_text()` alone is **unsafe** on either redline. It drops both
-   markers and concatenates deleted and inserted words into a single run, yielding
-   sentences that read as normative but never existed in any amendment. A real
-   example from Amdt 7 CI p. 16 extracts as
-   `"generate equivalent ice accretion adequately simulate all icing threats"`,
-   where `generate equivalent ice accretion` is struck and the rest is new.
-   Recover polarity from the content stream (`visitor_operand_before` for fill
-   colour and rectangle geometry), or render the page and read the image.
-2. Paragraph-level tagging is independent of all this: both files declare their
-   changes in prose (`"CS-E 740 is amended as follows"`), which parses cleanly.
-   Use those declarations for the **Status** field and the colour/geometry pass
-   only when a slide needs to show what specifically changed inside a paragraph.
+`extract_text()` drops both markers and merges deleted and inserted words into one
+run, producing sentences that read as normative but exist in no amendment. Read
+the content stream (`visitor_operand_before` for fill colour and rectangle
+geometry) or render the page. Amendment-level tagging does not need any of this:
+both files declare their changes in prose, which parses cleanly.
 
 ## Page rendering
 
-Accuracy rule 6 (render figure and table pages to PNG and read the image) needs a
-rasteriser. `pypdfium2` is in `requirements.txt` and renders a page with
-`PdfDocument(path)[i].render(scale=2).to_pil()`. No poppler or system package is
-required.
+Accuracy rule 6 needs a rasteriser. `pypdfium2`:
+`PdfDocument(path)[i].render(scale=2).to_pil()`. No system package required.
 
 ## Environment
 
-Python 3.11. `scripts/fetch_sources.py` is dependency-free; everything else needs
-`pip install -r requirements.txt`. The sandbox image ships a broken system
-`cryptography`, so install into a virtualenv rather than with
+Python 3.11, virtualenv at `.venv`. The sandbox image ships a broken system
+`cryptography`, so install into the virtualenv, never with
 `pip --break-system-packages`.
 
-**Sandbox egress:** `www.easa.europa.eu` is blocked by the Claude Code remote
-sandbox network policy (gateway 403 to CONNECT, for both the container proxy and
-WebFetch). A remote session cannot re-fetch a source; it must be supplied from a
-machine with ordinary internet access. This does not affect normal work, since all
-five files are committed.
+`www.easa.europa.eu` is blocked by the sandbox egress policy, so a remote session
+cannot re-fetch a source. All five are committed, so this does not affect normal
+work.
 
 ## Working rules for `source/`
 
-- `source/` is **read-only input**. Never edit, re-save, rewrite or "clean up" a
-  PDF there — re-saving changes the SHA-256 and breaks the provenance chain. If a
-  file looks wrong, re-fetch it and update `CHECKSUMS.sha256` deliberately.
-- Cite paragraph numbers, never page numbers — EASA pagination shifts between
+- `source/` is **read-only input**. Never edit or re-save a PDF there — it changes
+  the SHA-256 and breaks provenance. Re-fetch and update `CHECKSUMS.sha256`
+  deliberately.
+- Cite paragraph numbers, never page numbers — pagination shifts between
   amendments.
-- Generated output belongs in `output/` (gitignored). Regenerate rather than
-  hand-edit.
-- `template/company_template.pptx` is optional and currently absent. Tooling must
-  fall back to a plain default layout when it is missing.
+- `work/` is generated. Regenerate rather than hand-edit.

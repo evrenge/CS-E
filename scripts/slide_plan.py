@@ -1,12 +1,15 @@
-"""Phase 2 — proposed slide grouping for the turboshaft deck.
+"""Phase 2 — topic grouping for the turboshaft vault.
 
-(section, title, [paragraph ids], note). Grouping rule from the task: one or two
-CS paragraphs plus their AMCs per slide. Large AMCs are split across slides; the
+Originally a slide plan; the deliverable is now an Obsidian vault, so this is the
+reading order and the basis for the map-of-content notes, not a deck outline.
+
+(section, title, [paragraph ids], note). Grouping rule: one or two CS
+paragraphs plus their AMCs per topic. Large AMCs are split across slides; the
 `note` says why a slide exists or what it must carry.
 
 Every APPLIES and CONDITIONAL paragraph appears on exactly one content slide.
-EXCLUDED paragraphs are not covered individually — they are listed on the
-exclusions slide in the closing section.
+EXCLUDED paragraphs get no note — they are listed together in the exclusions
+map-of-content note.
 """
 
 PLAN: list[tuple[str, str, list[str], str]] = [
@@ -67,14 +70,12 @@ PLAN: list[tuple[str, str, list[str], str]] = [
     ("E", "Over-torque, over-speed and rotor integrity", ["CS-E 820", "CS-E 830", "CS-E 840", "AMC E 840"], "Over-torque is the turboshaft power-turbine load path."),
     ("E", "Shafts and over-temperature", ["CS-E 850", "AMC E 850", "CS-E 860", "CS-E 870"], "Compressor, fan and turbine shafts; turbine rotor and exhaust gas over-temperature."),
     ("E", "OEI capability after an over-limit event", ["AMC E 820(a)(2)", "AMC E 830(c)", "AMC E 870(a)(3)"], "CONDITIONAL on 30-Second / 2-Minute OEI. Three one-sentence AMCs with the same test."),
-    ("E", "Tests with refrigerant injection", ["CS-E 880"], "CONDITIONAL on refrigerant injection and 2½-Minute OEI. Opens '(a) Engines for Rotorcraft.'"),
     ("E", "Relighting and the over-temperature test", ["CS-E 910", "AMC E 910", "CS-E 920", "AMC E 920"], "CS-E 920 and AMC E 920 changed at Amdt 8."),
     ("E", "Initial Maintenance Programme test 1 — what it is", ["CS-E 930", "AMC E 930"], "Split 1 of 2. NEW at Amdt 8 — CS-E 930 and AMC E 930 did not exist in Amendment 7."),
     ("E", "Initial Maintenance Programme test 2 — build, cycle, evidence", ["AMC E 930"], "Split 2 of 2. NEW at Amdt 8. Covers OEI cumulative usage where those ratings are claimed."),
 
     # --------------------------------------------------------------- Subpart F
     ("F", "Subpart F scope, fuel venting and emissions", ["CS-E 1000", "AMC E 1000", "CS-E 1010", "CS-E 1020", "AMC E 1020"], "CS-34 emissions compliance."),
-    ("F", "Time limited dispatch", ["CS-E 1030", "AMC E 1030"], "CONDITIONAL on TLD claimed and EECS fitted. AMC E 1030 is 3,208 words; split if TLD is claimed. FIGURES on p. 260."),
     ("F", "Volcanic cloud hazards", ["CS-E 1050", "AMC E 1050"], "Note CS-E 1040 ETOPS is excluded. FIGURE on p. 261."),
 
     # ----------------------------------------------------------------- Closing

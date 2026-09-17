@@ -13,9 +13,9 @@ engine variable is true, the verdict is CONDITIONAL.
 
 | Verdict | Count | Share |
 |---|---:|---:|
-| APPLIES | 120 | 83% |
-| CONDITIONAL | 12 | 8% |
-| EXCLUDED | 13 | 9% |
+| APPLIES | 129 | 89% |
+| CONDITIONAL | 0 | 0% |
+| EXCLUDED | 16 | 11% |
 | **Total in scope** | **145** | |
 
 33 of the 145 carry an amendment tag (see `changed_in` in `work/paragraph_index.csv`).
@@ -29,15 +29,10 @@ each row waits on.
 
 | Variable | CONDITIONAL rows waiting on it |
 |---|---:|
-| OEI ratings claimed | 9 |
-| 30-Minute Power rating | 2 |
-| Time-limited dispatch | 2 |
-| Control system (EECS) | 2 |
-| Refrigerant injection | 1 |
 
 ## Subpart A — General
 
-45 paragraphs — 37 APPLIES, 4 CONDITIONAL, 4 EXCLUDED
+45 paragraphs — 41 APPLIES, 0 CONDITIONAL, 4 EXCLUDED
 
 | Paragraph | Title | Pages | Fig/Tab | Changed | Verdict | Reason |
 |---|---|---|:--:|---|---|---|
@@ -47,23 +42,23 @@ each row waits on.
 | `CS-E 15` | Terminology | 16–17 | — | — | **APPLIES** | Defines terms for '(b) All Engines' and '(c) Turbine Engines'; both cover a turboshaft. |
 | `CS-E 20` | Engine Configuration and Interfaces | 18 | — | — | **APPLIES** | Engine configuration and interface declarations apply to every Engine; '(f) For Engines having one or more OEI Ratings' is OEI-conditional. |
 | `AMC E 20` | Engine Configuration and Interfaces | 19 | — | — | **APPLIES** | Interface guidance for all Engines, and expressly cites 'recording of rotorcraft One Engine Inoperative data' as an aircraft-supplied resource. |
-| `AMC E 20(f)` | Power Assurance Data for Engines with One or More OEI Powe | 20 | — | Amdt8 | **CONDITIONAL** | OEI ratings — entire AMC is scoped '(1) For Engines having one or more OEI ratings, the applicant should provide in the instructions for installation the necessary Engine data'. |
+| `AMC E 20(f)` | Power Assurance Data for Engines with One or More OEI Powe | 20 | — | Amdt8 | **APPLIES** | OEI ratings are claimed (30-Second, 2-Minute, Continuous OEI), so '(1) For Engines having one or more OEI ratings, the applicant should provide in the instructions for installation the necessary Engine data' is live. |
 | `CS-E 25` | Instructions for Continued Airworthiness | 21 | — | Amdt7 | **APPLIES** | ICA required for every Engine; '(b)(2) For Engines having 30-Second OEI and 2-Minute OEI power ratings' adds OEI-conditional content. |
 | `AMC E 25` | Instructions for continued airworthiness | 22–26 | — | Amdt8 | **APPLIES** | ICA guidance for all Engines; its 30-Second/2-Minute OEI and 30-Minute Power passages are conditional on those ratings. |
 | `CS-E 30` | Assumptions | 27 | yes | — | **APPLIES** | States the assumptions underlying compliance; no engine-type restriction. |
 | `AMC E 30` | Assumptions | 27–28 | yes | Amdt7 | **APPLIES** | Tabulates assumptions for all Engines; the listed 'Propeller or thrust reverser effects' row does not arise for a turboshaft. |
 | `CS-E 40` | Ratings | 29 | yes | Amdt7 | **APPLIES** | Ratings apply to every Engine; '(b)(3) Turbine Engines for multi-engined Rotorcraft' lists the rotorcraft OEI ratings, while '(b)(2) Turbine Engines for multi-engined aeroplanes' does not apply. |
 | `AMC E 40` | Ratings | 30 | — | — | **APPLIES** | Short rating guidance with no engine-type restriction. |
-| `AMC E 40(b)(3)` | and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Powe | 30 | — | — | **CONDITIONAL** | OEI ratings and 30-Minute Power — 'These are optional ratings that may be specifically requested by the applicant' and '(7) For Rotorcraft turbine Engines, Rated 30-Minute Power is the approved brake horsepower'. |
+| `AMC E 40(b)(3)` | and (b)(4) 30-Second OEI, 2-Minute OEI and 30- minute Powe | 30 | — | — | **APPLIES** | 30-Second and 2-Minute OEI are claimed: 'The 30-Second and 2-Minute OEI Power ratings are two separate ratings. However, they are associated in a combined structure of 2.5 minutes duration.' The 30-Minute Power provision at (7) also applies. 2½-Minute OEI and 30-Minute OEI are not claimed. |
 | `AMC E 40(d)` | Operating Limitations | 31–32 | — | — | **APPLIES** | Operating-limitation list for all Engines; '(s) Maximum refrigerant flow rate (if applicable)' and the Reversible Pitch Propeller row are self-limiting. |
 | `CS-E 50` | Engine Control System | 33–35 | — | — | **APPLIES** | Engine Control System specifications apply to every Engine; '(j) Engines having a 30-Second OEI Power Rating must incorporate means…' is rating-conditional. |
 | `AMC E 50` | Engine Control System | 36 | — | — | **APPLIES** | Control-system guidance spanning hydromechanical through full-authority EECS architectures. |
 | `AMC E 50(e)` | Rotor integrity | 37 | — | — | **APPLIES** | Rotor integrity guidance under CS-E 50; no engine-type restriction. |
-| `AMC E 50(j)` | Controls - Engines having a 30-Second OEI Power Rating | 37 | — | — | **CONDITIONAL** | 30-Second OEI rating — '(1) The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event of one Engine becoming inoperative.' |
+| `AMC E 50(j)` | Controls - Engines having a 30-Second OEI Power Rating | 37 | — | — | **APPLIES** | 30-Second OEI is claimed — '(1) The 30-Second OEI rating is intended to provide a rotorcraft with a power reserve in the event of one Engine becoming inoperative', and CS-E 50(j) requires automatic availability and control of that rating. |
 | `AMC to CS-E 50(l)` | Information system security protection | 38 | — | — | **APPLIES** | Information system security protection; no engine-type restriction. |
 | `CS-E 60` | Provision for Instruments | 38 | — | — | **APPLIES** | Instrument provisions apply to every Engine; '(d) Rotorcraft turbine Engines having 30-Second and 2-Minute OEI Power Ratings must…' is rating-conditional but rotorcraft-specific. |
 | `AMC E 60` | Provision for instruments | 39 | — | Amdt7 | **APPLIES** | Instrument guidance for all Engines; the thrust-reverser position indication case is cited only as an example. |
-| `AMC E 60(d)` | Provision for instruments | 40 | — | — | **CONDITIONAL** | 30-Second / 2-Minute OEI ratings — 'the 30-Second OEI power level is considered to be used whenever one or more of the operating limitations applicable to the 2-Minute OEI power…'. |
+| `AMC E 60(d)` | Provision for instruments | 40 | — | — | **APPLIES** | 30-Second and 2-Minute OEI are claimed, so the usage-recording and alerting provisions apply: 'the 30-Second OEI power level is considered to be used whenever one or more of the operating limitations applicable to the 2-Minute OEI power…'. |
 | `CS-E 70` | Materials and Manufacturing Methods | 41 | — | — | **APPLIES** | Materials and manufacturing methods; no engine-type restriction. |
 | `AMC E 70` | Castings, Forgings, Welded Structures and Welded Component | 41–42 | — | — | **APPLIES** | Castings, forgings and welded structures; no engine-type restriction. |
 | `CS-E 80` | Equipment | 43 | — | — | **APPLIES** | Equipment specifications; no engine-type restriction. |
@@ -117,7 +112,7 @@ each row waits on.
 
 ## Subpart E — Turbine Engines: Type Substantiation
 
-69 paragraphs — 56 APPLIES, 6 CONDITIONAL, 7 EXCLUDED
+69 paragraphs — 61 APPLIES, 0 CONDITIONAL, 8 EXCLUDED
 
 | Paragraph | Title | Pages | Fig/Tab | Changed | Verdict | Reason |
 |---|---|---|:--:|---|---|---|
@@ -146,8 +141,8 @@ each row waits on.
 | `CS-E 730` | Engine Calibration Test | 137 | — | Amdt8 | **APPLIES** | Calibration test applies to every turbine Engine: 'thrust or power calibration curves of the test Engine must be established… up to the highest rated powers except for 30-Second and 2-Minute OEI Power ratings.' |
 | `AMC E 730` | Calibration Tests | 137 | — | — | **APPLIES** | Calibration guidance; the 30-Second / 2-Minute OEI carve-out applies only where those ratings are claimed. |
 | `CS-E 740` | Endurance Tests | 138–149 | — | Amdt8 | **APPLIES** | Endurance test applies, but per sub-paragraph: '(2)(i) Schedule for Standard Ratings with 2½-Minute OEI and/or Continuous OEI Rating and/or 30-Minute OEI Rating and/or 30-Minute Power' is the rotorcraft path, while '(c)(4) Alternate Endurance Testing – Turbofan Engine' is EXCLUDED and the turbo-propeller flight-propeller clause does not arise. |
-| `AMC E 740(c)(2)(i)` | Endurance Tests – 30-Minute Power Rating | 150 | — | Amdt8 | **CONDITIONAL** | 30-Minute Power rating — 'For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the…'. |
-| `AMC E 740(c)(3)` | Endurance Tests | 150 | — | Amdt8 | **CONDITIONAL** | 30-Second OEI rating — '(2) Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating.' |
+| `AMC E 740(c)(2)(i)` | Endurance Tests – 30-Minute Power Rating | 150 | — | Amdt8 | **APPLIES** | 30-Minute Power is claimed: 'For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the…'. [VERIFY: confirm the declared 'Maximum Take-off 30min' rating is CS-E 40(b)(4) Rated 30-Minute Power per AMC E 40(b)(3)(7), and how its extra 25 hours combines with the CS-E 740(c)(3)(i) schedule.] |
+| `AMC E 740(c)(3)` | Endurance Tests | 150 | — | Amdt8 | **APPLIES** | 30-Second and 2-Minute OEI are claimed, so CS-E 740(c)(3) and this AMC apply: '(2) Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating.' |
 | `AMC E 740(c)(4)` | Alternate Endurance Testing – Turbofan Engine | 151–171 | yes | Amdt8 | **EXCLUDED** | Turbofan-only: 'The alternate endurance test is intended to address a problem faced by turbofan-Engine designs disadvantaged by the classic endurance test.' Excluded by the CLAUDE.md scope rule. |
 | `AMC E 740(f)(1)` | Multi-spool Engines | 172 | yes | — | **APPLIES** | Multi-spool engine endurance guidance; a free power-turbine turboshaft is multi-spool. |
 | `AMC E 740(g)(1)` | Endurance Tests - Incremental Periods | 173 | — | — | **APPLIES** | Incremental endurance periods; no engine-type restriction. |
@@ -170,17 +165,17 @@ each row waits on.
 | `CS-E 810` | Compressor and Turbine Blade Failure | 226 | — | Amdt7 | **APPLIES** | Compressor and turbine blade failure applies to every turbine Engine; the composite fan blade clause '(c)' applies only if such blades are fitted. |
 | `AMC E 810` | Compressor and Turbine Blade Failure | 226–228 | — | Amdt7 | **APPLIES** | Blade failure guidance; the composite fan blade release method is one case within it. |
 | `CS-E 820` | Over-torque Test | 229 | — | — | **APPLIES** | Over-torque test is written around power-turbine torque, which is the turboshaft load path; no engine-type restriction. |
-| `AMC E 820(a)(2)` | Over-torque Test | 230 | — | — | **CONDITIONAL** | 30-Second / 2-Minute OEI ratings — the whole AMC reads 'it should be shown that an over-torque event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
+| `AMC E 820(a)(2)` | Over-torque Test | 230 | — | — | **APPLIES** | 30-Second and 2-Minute OEI are claimed: 'it should be shown that an over-torque event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
 | `CS-E 830` | Maximum Engine Over-speed | 230 | — | — | **APPLIES** | Maximum engine over-speed test; no engine-type restriction. |
-| `AMC E 830(c)` | Maximum Engine Over-speed | 230 | — | — | **CONDITIONAL** | 30-Second / 2-Minute OEI ratings — the whole AMC reads 'it should be shown that an over-speed event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
+| `AMC E 830(c)` | Maximum Engine Over-speed | 230 | — | — | **APPLIES** | 30-Second and 2-Minute OEI are claimed: 'it should be shown that an over-speed event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
 | `CS-E 840` | Rotor Integrity | 231 | — | — | **APPLIES** | Rotor integrity; no engine-type restriction. |
 | `AMC E 840` | Rotor Integrity | 232–234 | — | — | **APPLIES** | Rotor integrity guidance; no engine-type restriction. |
 | `CS-E 850` | Compressor, Fan and Turbine Shafts | 235 | — | — | **APPLIES** | Compressor, fan and turbine shafts; directly relevant to a power-turbine shaft. |
 | `AMC E 850` | Compressor, Fan and Turbine Shafts | 236–238 | — | — | **APPLIES** | Shaft guidance; no engine-type restriction. |
 | `CS-E 860` | Turbine Rotor Over-temperature | 239 | — | — | **APPLIES** | Turbine rotor over-temperature; no engine-type restriction. |
 | `CS-E 870` | Exhaust Gas Over-temperature Test | 239 | — | — | **APPLIES** | Exhaust gas over-temperature test; no engine-type restriction. |
-| `AMC E 870(a)(3)` | Exhaust Gas Over-temperature Test | 240 | — | — | **CONDITIONAL** | 30-Second / 2-Minute OEI ratings — the whole AMC reads 'it should be shown that an over-temperature event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
-| `CS-E 880` | Tests with Refrigerant Injection for Take-Off and/or 2½- M | 240 | — | — | **CONDITIONAL** | Refrigerant injection, and 2½-Minute OEI — scoped by its title 'Tests with Refrigerant Injection for Take-Off and/or 2½-Minute OEI Power' and opening '(a) Engines for Rotorcraft.' Rotorcraft-specific but only if refrigerant injection is used. |
+| `AMC E 870(a)(3)` | Exhaust Gas Over-temperature Test | 240 | — | — | **APPLIES** | 30-Second and 2-Minute OEI are claimed: 'it should be shown that an over-temperature event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.' |
+| `CS-E 880` | Tests with Refrigerant Injection for Take-Off and/or 2½- M | 240 | — | — | **EXCLUDED** | Refrigerant injection is not used. The paragraph covers power augmentation only — '(b) … Refrigerant Injection Used to Increase ISA Take-off and/or 2½-Minute OEI Performance' and '(c) … Used to Restore ISA Take-off … at Higher Ambient Temperature'. This is not water ingestion, which is CS-E 790. 2½-Minute OEI is also not claimed. |
 | `CS-E 890` | Thrust Reverser Tests | 241 | — | Amdt8 | **EXCLUDED** | Thrust reverser only: 'CS-E 890 is applicable to thrust reversers intended to be installed on turbine Engines.' A rotorcraft turboshaft has none. |
 | `AMC E 890` | Thrust Reverser Tests | 242 | — | — | **EXCLUDED** | Serves CS-E 890 and is written around the thrust reverser used in the CS-E 740 test. Not applicable without a thrust reverser. |
 | `CS-E 900` | Propeller Parking Brake | 243 | — | — | **EXCLUDED** | Propeller-only: 'If a Propeller parking brake is provided it must be operated 100 times during the endurance test.' |
@@ -193,7 +188,7 @@ each row waits on.
 
 ## Subpart F — Turbine Engines — Environmental and Operational Design Requirements
 
-10 paragraphs — 7 APPLIES, 2 CONDITIONAL, 1 EXCLUDED
+10 paragraphs — 7 APPLIES, 0 CONDITIONAL, 3 EXCLUDED
 
 | Paragraph | Title | Pages | Fig/Tab | Changed | Verdict | Reason |
 |---|---|---|:--:|---|---|---|
@@ -202,8 +197,8 @@ each row waits on.
 | `CS-E 1010` | Fuel Venting | 252 | — | — | **APPLIES** | Fuel venting; no engine-type restriction. |
 | `CS-E 1020` | Engine Emissions | 252 | — | — | **APPLIES** | 'It must be demonstrated… that the Engine type design complies with the emission specifications of CS 34.2 in effect at date of Engine certification.' No engine-type carve-out in CS-E. |
 | `AMC E 1020` | Engine emissions | 252 | — | — | **APPLIES** | Emissions note format and CS-34 assessment guidance; no engine-type restriction. |
-| `CS-E 1030` | Time Limited Dispatch | 253 | — | — | **CONDITIONAL** | Time-limited dispatch claimed, and EECS fitted — '(a) If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS), a time limited dispatch (TLD) analysis of the EECS must…'. |
-| `AMC E 1030` | Time limited dispatch | 253–260 | yes | — | **CONDITIONAL** | Time-limited dispatch claimed, and EECS fitted — 'This AMC provides guidance for obtaining type design approval of engines with EECS in a degraded condition with respect to redundancy.' [VERIFY: the AMC notes TLD 'have been applied to EECS equipped engines used in multi-engine Aircraft applications, particularly those engines used in large transport Aeroplanes' — confirm rotorcraft acceptance with EASA if TLD is claimed.] |
+| `CS-E 1030` | Time Limited Dispatch | 253 | — | — | **EXCLUDED** | Time-limited dispatch is not claimed. The paragraph is optional by its own wording: '(a) If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS)…'. Re-openable later without affecting any other paragraph. |
+| `AMC E 1030` | Time limited dispatch | 253–260 | yes | — | **EXCLUDED** | Serves CS-E 1030, which is not claimed. 'This AMC provides guidance for obtaining type design approval of engines with EECS in a degraded condition with respect to redundancy.' |
 | `CS-E 1040` | ETOPS | 261 | yes | — | **EXCLUDED** | ETOPS, excluded by the CLAUDE.md scope rule: 'In order to be approved for ETOPS capability, the engine shall achieve an IFSD rate that is compatible with the safety target associated to the maximum flight d[iversion time]'. ETOPS is an aeroplane operation. |
 | `CS-E 1050` | Exposure to volcanic cloud hazards | 261 | yes | — | **APPLIES** | Exposure to volcanic cloud hazards; no engine-type restriction. |
 | `AMC E 1050` | Exposure to volcanic cloud hazards | 262 | — | — | **APPLIES** | Volcanic cloud guidance; no engine-type restriction. |
@@ -214,30 +209,30 @@ each row waits on.
 |---|---|
 | Aeroplane-only | `AMC E 500`, `AMC E 660`, `AMC E 700`, `CS-E 190` |
 | ETOPS | `CS-E 1040` |
-| No rotorcraft provisions in the AMC | `AMC E 780` |
+| No rotorcraft provisions in the AMC | `AMC E 1030`, `AMC E 780`, `CS-E 1030`, `CS-E 880` |
 | Propeller | `AMC E 180`, `CS-E 180`, `CS-E 900` |
 | Thrust reverser | `AMC E 10(b)`, `AMC E 890`, `CS-E 890` |
 | Turbofan-only | `AMC E 740(c)(4)` |
 
-## Proposed slide grouping
+## Topic grouping (reading order / MOC basis)
 
-**60 slides.** Grouping rule: one or two CS paragraphs plus their AMCs
-per slide. Large AMCs are split; a split slide repeats the paragraph id and says
-which part it carries. Every APPLIES and CONDITIONAL paragraph appears on exactly
-one content slide — checked by this script. EXCLUDED paragraphs get no content
-slide; they are listed together on the closing exclusions slide.
+**58 topics.** Grouping rule: one or two CS paragraphs plus their AMCs
+per topic. Each paragraph still gets its own note; this grouping drives the
+map-of-content notes and the reading order. Every APPLIES paragraph appears in
+exactly one topic — checked by this script. EXCLUDED paragraphs get no note;
+they are listed in the exclusions MOC.
 
-| Section | Slides |
+| Section | Topics |
 |---|---:|
 | Intro | 6 |
 | A | 15 |
 | D | 7 |
-| E | 26 |
-| F | 3 |
+| E | 25 |
+| F | 2 |
 | Closing | 3 |
-| **Total** | **60** |
+| **Total** | **58** |
 
-| # | Section | Slide | Paragraphs | Note |
+| # | Section | Topic | Paragraphs | Note |
 |---:|:--:|---|---|---|
 | 1 | Intro | CS-E Amendment 8 for turboshaft engines — what this deck covers | — | Scope statement: Subparts A, D, E, F; rotorcraft turboshaft; 145 paragraphs; 13 excluded. |
 | 2 | Intro | How CS-E is built: Book 1 and Book 2, Subparts A–F | `CS-E 10`, `AMC General` | Document map. CS = specification, AMC = accepted means. CS-E 10(d) is the scope anchor. |
@@ -289,15 +284,13 @@ slide; they are listed together on the closing exclusions slide.
 | 48 | E | Over-torque, over-speed and rotor integrity | `CS-E 820`, `CS-E 830`, `CS-E 840`, `AMC E 840` | Over-torque is the turboshaft power-turbine load path. |
 | 49 | E | Shafts and over-temperature | `CS-E 850`, `AMC E 850`, `CS-E 860`, `CS-E 870` | Compressor, fan and turbine shafts; turbine rotor and exhaust gas over-temperature. |
 | 50 | E | OEI capability after an over-limit event | `AMC E 820(a)(2)`, `AMC E 830(c)`, `AMC E 870(a)(3)` | CONDITIONAL on 30-Second / 2-Minute OEI. Three one-sentence AMCs with the same test. |
-| 51 | E | Tests with refrigerant injection | `CS-E 880` | CONDITIONAL on refrigerant injection and 2½-Minute OEI. Opens '(a) Engines for Rotorcraft.' |
-| 52 | E | Relighting and the over-temperature test | `CS-E 910`, `AMC E 910`, `CS-E 920`, `AMC E 920` | CS-E 920 and AMC E 920 changed at Amdt 8. |
-| 53 | E | Initial Maintenance Programme test 1 — what it is | `CS-E 930`, `AMC E 930` | Split 1 of 2. NEW at Amdt 8 — CS-E 930 and AMC E 930 did not exist in Amendment 7. |
-| 54 | E | Initial Maintenance Programme test 2 — build, cycle, evidence | `AMC E 930` | Split 2 of 2. NEW at Amdt 8. Covers OEI cumulative usage where those ratings are claimed. |
-| 55 | F | Subpart F scope, fuel venting and emissions | `CS-E 1000`, `AMC E 1000`, `CS-E 1010`, `CS-E 1020`, `AMC E 1020` | CS-34 emissions compliance. |
-| 56 | F | Time limited dispatch | `CS-E 1030`, `AMC E 1030` | CONDITIONAL on TLD claimed and EECS fitted. AMC E 1030 is 3,208 words; split if TLD is claimed. FIGURES on p. 260. |
-| 57 | F | Volcanic cloud hazards | `CS-E 1050`, `AMC E 1050` | Note CS-E 1040 ETOPS is excluded. FIGURE on p. 261. |
-| 58 | Closing | What does not apply, and why | — | The 13 EXCLUDED paragraphs grouped by reason: thrust reverser, propeller, turbofan-only, aeroplane-only, ETOPS, and the AMC E 780 rotorcraft gap. |
-| 59 | Closing | Open items and engine variables to confirm | — | The five CLAUDE.md variables, every [VERIFY] raised, and the AMC E 780 / AMC E 1030 items needing EASA agreement. |
-| 60 | Closing | Compliance matrix template | — | One row per in-scope paragraph: status, method (test / analysis / similarity), evidence document, owner. Exported as deck/compliance_matrix.xlsx in Phase 5. |
+| 51 | E | Relighting and the over-temperature test | `CS-E 910`, `AMC E 910`, `CS-E 920`, `AMC E 920` | CS-E 920 and AMC E 920 changed at Amdt 8. |
+| 52 | E | Initial Maintenance Programme test 1 — what it is | `CS-E 930`, `AMC E 930` | Split 1 of 2. NEW at Amdt 8 — CS-E 930 and AMC E 930 did not exist in Amendment 7. |
+| 53 | E | Initial Maintenance Programme test 2 — build, cycle, evidence | `AMC E 930` | Split 2 of 2. NEW at Amdt 8. Covers OEI cumulative usage where those ratings are claimed. |
+| 54 | F | Subpart F scope, fuel venting and emissions | `CS-E 1000`, `AMC E 1000`, `CS-E 1010`, `CS-E 1020`, `AMC E 1020` | CS-34 emissions compliance. |
+| 55 | F | Volcanic cloud hazards | `CS-E 1050`, `AMC E 1050` | Note CS-E 1040 ETOPS is excluded. FIGURE on p. 261. |
+| 56 | Closing | What does not apply, and why | — | The 13 EXCLUDED paragraphs grouped by reason: thrust reverser, propeller, turbofan-only, aeroplane-only, ETOPS, and the AMC E 780 rotorcraft gap. |
+| 57 | Closing | Open items and engine variables to confirm | — | The five CLAUDE.md variables, every [VERIFY] raised, and the AMC E 780 / AMC E 1030 items needing EASA agreement. |
+| 58 | Closing | Compliance matrix template | — | One row per in-scope paragraph: status, method (test / analysis / similarity), evidence document, owner. Exported as deck/compliance_matrix.xlsx in Phase 5. |
 
-Paragraphs deliberately split across more than one slide: `AMC E 130`, `AMC E 510`, `AMC E 515`, `AMC E 650`, `AMC E 800`, `AMC E 930`, `CS-E 740`, `CS-E 800`.
+Paragraphs deliberately spread across more than one topic: `AMC E 130`, `AMC E 510`, `AMC E 515`, `AMC E 650`, `AMC E 800`, `AMC E 930`, `CS-E 740`, `CS-E 800`.

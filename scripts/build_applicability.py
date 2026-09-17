@@ -160,26 +160,26 @@ def main() -> int:
     must_cover = {p for p, (st, _) in verdict.items() if st in ("APPLIES", "CONDITIONAL")}
     uncovered = sorted(must_cover - set(covered))
     if uncovered:
-        sys.exit("slide plan misses: " + ", ".join(uncovered))
+        sys.exit("topic grouping misses: " + ", ".join(uncovered))
     excluded_on_slides = sorted(
         p for p in covered if verdict[p][0] == "EXCLUDED")
     if excluded_on_slides:
-        sys.exit("slide plan covers EXCLUDED paragraphs: " + ", ".join(excluded_on_slides))
+        sys.exit("topic grouping covers EXCLUDED paragraphs: " + ", ".join(excluded_on_slides))
 
     section_counts = Counter(sec for sec, _, _, _ in PLAN)
-    w("## Proposed slide grouping\n")
-    w(f"**{len(PLAN)} slides.** Grouping rule: one or two CS paragraphs plus their AMCs")
-    w("per slide. Large AMCs are split; a split slide repeats the paragraph id and says")
-    w("which part it carries. Every APPLIES and CONDITIONAL paragraph appears on exactly")
-    w("one content slide — checked by this script. EXCLUDED paragraphs get no content")
-    w("slide; they are listed together on the closing exclusions slide.\n")
-    w("| Section | Slides |")
+    w("## Topic grouping (reading order / MOC basis)\n")
+    w(f"**{len(PLAN)} topics.** Grouping rule: one or two CS paragraphs plus their AMCs")
+    w("per topic. Each paragraph still gets its own note; this grouping drives the")
+    w("map-of-content notes and the reading order. Every APPLIES paragraph appears in")
+    w("exactly one topic — checked by this script. EXCLUDED paragraphs get no note;")
+    w("they are listed in the exclusions MOC.\n")
+    w("| Section | Topics |")
     w("|---|---:|")
     for sec in ("Intro", "A", "D", "E", "F", "Closing"):
         w(f"| {sec} | {section_counts[sec]} |")
     w(f"| **Total** | **{len(PLAN)}** |")
     w("")
-    w("| # | Section | Slide | Paragraphs | Note |")
+    w("| # | Section | Topic | Paragraphs | Note |")
     w("|---:|:--:|---|---|---|")
     for i, (sec, title, pids, note) in enumerate(PLAN, 1):
         refs = ", ".join(f"`{x}`" for x in pids) if pids else "—"
@@ -187,7 +187,7 @@ def main() -> int:
     w("")
     repeated = sorted(p for p, n in covered.items() if n > 1)
     if repeated:
-        w("Paragraphs deliberately split across more than one slide: "
+        w("Paragraphs deliberately spread across more than one topic: "
           + ", ".join(f"`{p}`" for p in repeated) + ".\n")
 
     OUT.write_text("\n".join(out), encoding="utf-8")
