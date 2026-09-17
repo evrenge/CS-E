@@ -1,88 +1,48 @@
-# CS-E Deck
+# Project: CS-E Amendment 8 — Turboshaft Plain-Language Deck
 
-Working repository for building a briefing deck on **EASA CS-E (Certification
-Specifications and Acceptable Means of Compliance for Engines), Amendment 8**,
-with per-slide tagging of what changed at Amendment 7 and Amendment 8.
+## Audience
+Turkish gas turbine engineers. Strong technical background, English is a second language.
+Target English level: B2. Short sentences (max ~20 words). Active voice. No legal phrasing.
+Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF, OEI) as-is.
 
-This is a **document/content repository**, not a software project. The only code
-is tooling that fetches sources or generates output.
+## Source of truth
+- source/CS-E_Amendment_8.pdf is the ONLY authority for requirement content.
+- Change Information PDFs are used ONLY to tag what changed in Amdt 7 / Amdt 8.
+- Never use memory or general knowledge for requirement content. If the source does not say it, it does not go on a slide.
 
-> The repository root *is* the `cs-e-deck/` root from the project sketch — no
-> nested `cs-e-deck/` directory. The repo is `evrenge/CS-E`.
+## Scope
+- Turbine engine rules only: Subparts A, D, E, F (per CS-E 10(d)). Exclude Subparts B and C.
+- Turboshaft (rotorcraft) application only. Classify every paragraph as:
+  APPLIES / CONDITIONAL (depends on engine variables below) / EXCLUDED (give reason).
+- Aeroplane-only AMCs, thrust reverser, propeller, ETOPS, and the turbofan alternate
+  endurance test CS-E 740(c)(4) are EXCLUDED unless the text says otherwise.
 
-## Layout
+## Engine variables (fill in; if blank, treat related paragraphs as CONDITIONAL)
+- OEI ratings claimed: [30-s / 2-min / 2.5-min / 30-min OEI / continuous OEI / none]
+- 30-Minute Power rating: [yes/no]
+- Control system: [EECS-FADEC / hydromechanical / hybrid]
+- Refrigerant injection: [yes/no]
+- Time-limited dispatch claimed: [yes/no]
 
-```
-.
-├── CLAUDE.md                              # this file
-├── source/                                # EASA source PDFs (authoritative, read-only)
-│   ├── SOURCES.md                         # what each file is + where it came from
-│   ├── CS-E_Amendment_8.pdf
-│   ├── Change_Information_CS-E_Amdt_8.pdf
-│   ├── Change_Information_CS-E_Amdt_7.pdf
-│   └── EN_to_ED_Decision_2025-003-R.pdf
-├── template/
-│   └── company_template.pptx              # optional TEI deck template
-└── scripts/
-    └── fetch_sources.py                   # downloads source/ from easa.europa.eu
-```
+## Accuracy rules (non-negotiable)
+1. Every statement on a slide carries its paragraph reference, e.g. [CS-E 740(c)(3)].
+2. Preserve obligation strength exactly: CS "must" -> "Required"; AMC "should" -> "Accepted method".
+   Never upgrade or downgrade.
+3. Copy all numbers, times, percentages, probabilities exactly, with units.
+4. One short verbatim quote (max 1 sentence) per slide from the key CS text, in a "Rule text" box.
+5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
+6. For pages with figures or tables, render the page to PNG and read the image. Do not rely on extracted text.
 
-## Source documents
+## Slide template (Markdown, one slide per "---")
+### <Slide title>
+**Paragraphs:** CS-E xxx, AMC E xxx
+**Status:** APPLIES | CONDITIONAL (<variable>) | Changed in Amdt 7/8
+**Rule text:** "<one original sentence>" [ref]
+**What it means:** 2–4 plain sentences.
+**What we must do:** bullet list of tasks/evidence (test, analysis, document).
+**Turboshaft note:** rotorcraft-specific point, or "None".
+**Speaker notes:** longer explanation, AMC detail, examples.
 
-| File | Role |
-|---|---|
-| `CS-E_Amendment_8.pdf` | Normative baseline. All requirement text quoted on slides comes from here. |
-| `Change_Information_CS-E_Amdt_8.pdf` | Redline, Amdt 8 vs. Amdt 7. Drives the "changed at Amdt 8" tag. |
-| `Change_Information_CS-E_Amdt_7.pdf` | Redline, Amdt 7 vs. Amdt 6. Drives the "changed at Amdt 7" tag. |
-| `EN_to_ED_Decision_2025-003-R.pdf` | Explanatory Note to ED Decision 2025/003/R. Rationale only — never a source of normative text. |
-
-Amendment 8 was issued by ED Decision 2025/003/R; Amendment 7 by ED Decision
-2023/020/R. Full provenance, landing pages and a manual-recovery note are in
-`source/SOURCES.md`.
-
-### Populating `source/`
-
-```bash
-python3 scripts/fetch_sources.py          # fetch anything missing
-python3 scripts/fetch_sources.py --check  # status + sha256 of what is present
-python3 scripts/fetch_sources.py --force  # re-fetch all four
-```
-
-Standard library only, no dependencies. The script resolves each PDF by scraping
-its EASA landing page, because EASA rotates the numeric IDs behind
-`/en/downloads/<id>/en` on republication. It downloads nothing unless the payload
-starts with `%PDF`.
-
-**Known constraint:** `www.easa.europa.eu` is blocked by the egress policy of the
-Claude Code remote sandbox (gateway returns 403 to CONNECT, for both the container
-proxy and WebFetch). Sources must therefore be fetched from a machine with
-ordinary internet access and pushed, or the block lifted for that host. A remote
-session will not be able to populate `source/` on its own.
-
-## Working rules
-
-- `source/` is **read-only input**. Never edit, re-save, rewrite or "clean up" a
-  PDF in that directory. If a file looks wrong, re-fetch it.
-- Every normative claim on a slide must be traceable to a CS-E paragraph number
-  (e.g. `CS-E 740`) in `CS-E_Amendment_8.pdf`. Cite the paragraph, not a page number
-   — EASA pagination shifts between amendments.
-- Amendment tags are derived from the Change Information PDFs, never inferred by
-  diffing prose or by recollection.
-- Keep EASA text verbatim when quoted. Paraphrase only in clearly-marked
-  commentary, and never paraphrase a requirement into a slide bullet that reads
-  as normative.
-- Generated decks belong in `output/` (gitignored). Regenerate rather than
-  hand-edit; hand edits to a generated deck are lost on the next run.
-- `template/company_template.pptx` is optional. Tooling must fall back to a plain
-  default layout when it is absent.
-
-## Environment
-
-Python 3.11, no third-party dependencies required for `scripts/`. Any deck
-generation that needs `python-pptx` or a PDF parser should declare it in a
-`requirements.txt` added at that time.
-
-## Status
-
-Scaffolding only. The deck specification — scope, slide taxonomy, tagging scheme
-and output format — has not been defined yet and will be added here once it is.
+## Working method
+- Work subpart by subpart. Write output to files. Do not hold the whole document in context.
+- Stop at every checkpoint in the task prompt and wait for my approval.
