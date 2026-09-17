@@ -1,3 +1,7 @@
 # Tooling dependencies. scripts/fetch_sources.py needs none of these — it is
 # standard library only. Everything that reads a PDF needs pypdf.
 pypdf>=6.0
+
+# Page -> PNG rendering, for accuracy rule 6 (figures and tables are read as
+# images, not as extracted text). No poppler or system package required.
+pypdfium2>=4.30
