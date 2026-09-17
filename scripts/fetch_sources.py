@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download the four EASA CS-E source PDFs into source/.
+"""Download the five EASA CS-E source PDFs into source/.
 
 Standard library only. EASA rotates the numeric IDs behind
 /en/downloads/<id>/en whenever a document is republished, so every target is
@@ -10,7 +10,7 @@ first and falls back to scraping.
 Usage:
     python3 scripts/fetch_sources.py            # fetch anything missing
     python3 scripts/fetch_sources.py --force    # re-fetch everything
-    python3 scripts/fetch_sources.py --check    # report status, download nothing
+    python3 scripts/fetch_sources.py --check    # verify against CHECKSUMS.sha256
 """
 
 from __future__ import annotations
@@ -54,6 +54,11 @@ TARGETS: list[Target] = [
         filename="Change_Information_CS-E_Amdt_8.pdf",
         landing=CS_E_8,
         anchor_pattern=r"change\s*information",
+    ),
+    Target(
+        filename="CS-E_Amendment_7.pdf",
+        landing=CS_E_7,
+        anchor_pattern=r"CS-E\s*[\u2014-]?\s*Amendment\s*7",
     ),
     Target(
         filename="Change_Information_CS-E_Amdt_7.pdf",
@@ -111,6 +116,19 @@ def resolve(target: Target) -> list[str]:
     return candidates + [u for u in target.fallbacks if u not in candidates]
 
 
+def read_checksums() -> dict[str, str]:
+    """Parse source/CHECKSUMS.sha256 into {filename: sha256}."""
+    path = SOURCE_DIR / "CHECKSUMS.sha256"
+    if not path.exists():
+        return {}
+    out: dict[str, str] = {}
+    for line in path.read_text().splitlines():
+        parts = line.split()
+        if len(parts) == 2:
+            out[parts[1].lstrip("*")] = parts[0]
+    return out
+
+
 def fetch(target: Target, force: bool) -> bool:
     dest = SOURCE_DIR / target.filename
     if dest.exists() and not force:
@@ -140,29 +158,38 @@ def fetch(target: Target, force: bool) -> bool:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--force", action="store_true", help="re-download existing files")
-    ap.add_argument("--check", action="store_true", help="report status only")
+    ap.add_argument("--check", action="store_true", help="verify against CHECKSUMS.sha256")
     args = ap.parse_args()
 
     SOURCE_DIR.mkdir(parents=True, exist_ok=True)
 
     if args.check:
-        missing = 0
+        expected = read_checksums()
+        bad = 0
         for t in TARGETS:
             p = SOURCE_DIR / t.filename
-            if p.exists():
-                digest = hashlib.sha256(p.read_bytes()).hexdigest()
-                print(f"= {t.filename}  {p.stat().st_size:,} B  sha256:{digest}")
-            else:
+            if not p.exists():
                 print(f"x {t.filename}  MISSING")
-                missing += 1
-        return 1 if missing else 0
+                bad += 1
+                continue
+            digest = hashlib.sha256(p.read_bytes()).hexdigest()
+            want = expected.get(t.filename)
+            if want is None:
+                status = "no recorded checksum"
+            elif want == digest:
+                status = "OK"
+            else:
+                status = f"MISMATCH (expected {want[:16]}...)"
+                bad += 1
+            print(f"= {t.filename}  {p.stat().st_size:,} B  sha256:{digest[:16]}...  {status}")
+        return 1 if bad else 0
 
     failures = [t.filename for t in TARGETS if not fetch(t, args.force)]
     if failures:
         print("\nUnresolved:", ", ".join(failures))
         print("Resolve manually from the landing pages listed in source/SOURCES.md.")
         return 1
-    print("\nAll four source documents present.")
+    print("\nAll source documents present.")
     return 0
 
 
