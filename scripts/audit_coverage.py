@@ -61,6 +61,27 @@ ID = r"(?:AMC to CS-E|CS-E|AMC E|GM E)\s*\d{1,4}(?:\([^)\s]{1,6}\))*"
 HEAD_ID = re.compile(rf"^({ID})\s*(.*)$")
 
 
+APPENDIX = re.compile(r"^(Appendix\s+[A-Z])\b")
+
+
+def paragraph_id(heading: str, match) -> str:
+    """The id of a paragraph, from its banner.
+
+    A CS-E or AMC banner yields its number. An appendix banner does not match
+    that pattern, and falling back to the whole heading gives an id 77
+    characters long -- "Appendix A Certification Standard Atmospheric
+    Concentrations of Rain and Hail" -- which then becomes the note filename and
+    the prefix of every figure crop. classification.py already calls it
+    "Appendix A", so the banner is cut to the same thing.
+    """
+    if match:
+        return " ".join(match.group(1).split())
+    m = APPENDIX.match(heading.strip())
+    if m:
+        return m.group(1)
+    return heading.split("  ")[0].strip()
+
+
 def norm(text: str) -> str:
     return " ".join(text.split())
 
@@ -108,7 +129,7 @@ def main() -> int:
     body: dict[str, str] = {}
     for pno, y, heading in banners:
         m = HEAD_ID.match(heading)
-        pid = norm(m.group(1)) if m else heading.split("  ")[0].strip()
+        pid = paragraph_id(heading, m)
         f = PARAS / f"{slug(pid)}.txt"
         if f.exists():
             body[pid] = norm(" ".join(
@@ -125,7 +146,7 @@ def main() -> int:
         if found is None:
             return None
         m = HEAD_ID.match(found)
-        return norm(m.group(1)) if m else found.split("  ")[0].strip()
+        return paragraph_id(found, m)
 
     # Every body line must reach its paragraph file (loss), AND every line in a
     # paragraph file must come from the body (injection). The loss check alone

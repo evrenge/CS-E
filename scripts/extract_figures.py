@@ -35,6 +35,7 @@ SPANS = ROOT / "work" / "spans.json"
 OUT = ROOT / "vault" / "figures"
 sys.path.insert(0, str(ROOT / "scripts"))
 from classification import CLASSIFICATION  # noqa: E402
+from vault_map import verdict_of  # noqa: E402
 
 MARGIN = 12.0       # points of whitespace kept around the cropped region
 MIN_AREA = 4000.0   # ignore rules, borders and other decoration
@@ -130,7 +131,7 @@ def main() -> int:
 
     for span in spans:
         pid = span["id"]
-        if verdict.get(pid) != "APPLIES":
+        if verdict_of(pid, verdict) != "APPLIES":
             continue
         if args.only and pid != args.only:
             continue

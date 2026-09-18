@@ -33,6 +33,26 @@ def note_name(paragraph_id: str) -> str:
     return paragraph_id          # AMC General, Appendix A, ...
 
 
+def verdict_of(paragraph_id: str, verdict: dict[str, str]) -> str | None:
+    """The classification of a paragraph, tolerating a spelled-out span id.
+
+    classification.py keys the appendix as "Appendix A"; the banner, and
+    therefore spans.json and the index, spell it "Appendix A Certification
+    Standard Atmospheric Concentrations of Rain and Hail". A plain dict lookup
+    returns None for it, which reads as "not APPLIES" and silently drops the
+    paragraph -- that is how three table crops went missing from the appendix.
+    """
+    if paragraph_id in verdict:
+        return verdict[paragraph_id]
+    for key, status in verdict.items():
+        # The remainder must start at a word boundary. A bare startswith()
+        # matches "CS-E 300" against "CS-E 30" and hands back the wrong
+        # verdict for a Subpart C paragraph.
+        if paragraph_id.startswith(key + " "):
+            return status
+    return None
+
+
 def expected_notes(verdict: dict[str, str]) -> dict[str, dict]:
     """{note name: merged metadata} for every note the vault should contain."""
     rows = {r["id"]: r for r in csv.DictReader(INDEX.open())}

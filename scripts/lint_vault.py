@@ -49,6 +49,10 @@ EMBED = re.compile(r"!\[\[([^\]|#]+)\]\]")
 LINK_PAREN = re.compile(r"\]\]\(")
 FM_FIELD = re.compile(r"^(\w+):\s*(.*)$")
 SUMMARY = re.compile(r">\s*\[!summary\]")
+# Everything a note legitimately needs beyond ASCII: typography the house style
+# uses, and the technical notation the source carries. Anything else is a slip —
+# a stray CJK character once landed mid-sentence in CS-E 790 and read as a word.
+ALLOWED_NON_ASCII = set("·—–…½°±×−√θ⁻⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉‘’“”")
 # Quotation marks are paired by POSITION, not matched by a regex: a regex cannot
 # tell an opening quote from a closing one, so it matches the prose BETWEEN two
 # separate quotations and reports it as unverifiable.
@@ -300,6 +304,13 @@ def main() -> int:
         for img in {i.strip() for i in EMBED.findall(text)}:
             if not (VAULT / "figures" / img).exists():
                 say(f"missing-image ![[{img}]] — not in vault/figures/")
+
+        # --- stray characters
+        for n, line in enumerate(text.splitlines(), 1):
+            bad = {c for c in line if ord(c) > 127 and c not in ALLOWED_NON_ASCII}
+            if bad:
+                chars = ", ".join(f"{c!r} (U+{ord(c):04X})" for c in sorted(bad))
+                say(f"line {n}: unexpected character {chars}")
 
         # --- terminology
         for banned in ("Book 1", "Book 2"):

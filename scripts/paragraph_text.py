@@ -61,6 +61,27 @@ ID = r"(?:AMC to CS-E|CS-E|AMC E|GM E)\s*\d{1,4}(?:\([^)\s]{1,6}\))*"
 HEAD_ID = re.compile(rf"^({ID})\s*(.*)$")
 
 
+APPENDIX = re.compile(r"^(Appendix\s+[A-Z])\b")
+
+
+def paragraph_id(heading: str, match) -> str:
+    """The id of a paragraph, from its banner.
+
+    A CS-E or AMC banner yields its number. An appendix banner does not match
+    that pattern, and falling back to the whole heading gives an id 77
+    characters long -- "Appendix A Certification Standard Atmospheric
+    Concentrations of Rain and Hail" -- which then becomes the note filename and
+    the prefix of every figure crop. classification.py already calls it
+    "Appendix A", so the banner is cut to the same thing.
+    """
+    if match:
+        return " ".join(match.group(1).split())
+    m = APPENDIX.match(heading.strip())
+    if m:
+        return m.group(1)
+    return heading.split("  ")[0].strip()
+
+
 def slug(pid: str) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "_", pid).strip("_")
 
@@ -222,7 +243,7 @@ def main() -> int:
             chunks += body_lines(page, lo, hi)
 
         m = HEAD_ID.match(heading)
-        pid = " ".join(m.group(1).split()) if m else heading.split("  ")[0].strip()
+        pid = paragraph_id(heading, m)
         name = f"{slug(pid)}.txt"
         # True last page: the last one this paragraph actually puts body text on.
         # Not next_banner_page - 1: a banner part-way down a page leaves the
