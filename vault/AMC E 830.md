@@ -45,9 +45,10 @@ The AMC applies wherever [[CS-E 830]] is elected, and it names the two ratings
 this engine declares.
 
 The criterion has a practical consequence for the over-limit ratings as a group.
-The usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] turns on the engine
-still delivering the OEI ratings after the event, which is exactly what this AMC
-requires the test to prove. The two are halves of one argument.
+A declared Maximum Engine Over-speed is one of the three limits the usage-counting
+relief at [[AMC E 60|AMC E 60(d)(5)]] is conditioned on, and this AMC is what makes
+that declaration worth having: an over-speed limit the engine cannot survive with
+its OEI ratings intact would not pass CS-E 830(c).
 
 The short OEI ratings are excluded from the test conditions themselves:
 [[CS-E 830|CS-E 830(b)(2)]] sets the turbine entry gas temperature from

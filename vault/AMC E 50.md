@@ -170,9 +170,13 @@ interpretation of CS-E 50 for EECS. Neither is held in `source/`.]
 
 ### Over-speed protection
 
-The engine uses a full-authority EECS, so over-speed protection falls under the
-electronic route of [[CS-E 50|CS-E 50(e)(1)]] rather than the hydromechanical route of
-(e)(2). The BITE method described here is the applicable accepted means.
+[VERIFY: which route of [[CS-E 50|CS-E 50(e)]] governs over-speed protection on
+this engine. Sub-point (e)(1) applies where the protection is electronic and
+(e)(2) where it is not, and AMC E 50(1) names a third case —
+blade-shedding or engine-design over-speed protection — that is outside the
+Engine Control System altogether. A full-authority EECS does not by itself settle
+which, and `engine_profile.md` does not declare the protection technology. The
+BITE method described here is the accepted means for the electronic route.]
 
 AMC E 50(1) records that blade shedding or engine design related over-speed
 protection is not part of the Engine Control System, because it is purely

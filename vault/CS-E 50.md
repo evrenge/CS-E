@@ -25,7 +25,8 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 |---|---|---|
 | **(a)** | Substantiate by test, analysis or a combination that the Engine Control System performs its intended functions. | Required |
 | **(a)(1)** | Maintain selected values of relevant control parameters and keep the engine within approved operating limits over changing atmospheric conditions in the declared flight envelope. | Required |
-| **(a)(2)** | Comply with the operability specifications of CS-E 500(a) and CS-E 745 under all likely system inputs and allowable power demands, unless it is demonstrated that this is not required for non-dispatchable specific Control Modes. The engine approval is endorsed accordingly. | Required |
+| **(a)(2)** | Comply with the operability specifications of CS-E 500(a) and CS-E 745 under all likely system inputs and allowable power demands, unless it is demonstrated that this is not required for non-dispatchable specific Control Modes. | Required |
+| **(a)(2)** | In that case the engine approval will be endorsed accordingly. | Statement |
 | **(a)(3)** | Allow modulation of power with adequate sensitivity and accuracy over the declared range of operating conditions. | Required |
 | **(a)(4)** | Do not create unacceptable power oscillations. | Required |
 | **(b)** | Demonstrate that a Fault or Failure changing Control Mode, changing channel, or moving from the Primary System to the Back-up System produces the outcomes at (b)(1) to (b)(3). | Required |
@@ -116,7 +117,8 @@ automatic availability and automatic control of that rating are mandatory.
 assessed here and in the [[CS-E 510]] safety assessment required by (d).
 
 The engine uses a full-authority EECS, so the electronic route at (e)(1) applies
-to over-speed protection rather than the hydromechanical route at (e)(2), and the
+to over-speed protection, if the protection is electronic, rather than the
+hydromechanical route at (e)(2), and the
 software obligations at (f) carry their full weight.
 
 Sub-point (a)(2) cites CS-E 390 as well as CS-E 500(a) and CS-E 745. CS-E 390 is

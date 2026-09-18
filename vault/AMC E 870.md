@@ -48,9 +48,10 @@ The AMC applies wherever [[CS-E 870]] is elected, and it names two of the three
 OEI ratings this engine declares. Continuous OEI is not named, in this AMC or in
 its two counterparts.
 
-The criterion is what links the over-limit tests to the usage recording rules of
-[[AMC E 60|AMC E 60(d)(5)]]. This AMC is where the capability that relief depends
-on is proved, for the over-temperature case.
+A declared Maximum Exhaust Gas Over-temperature is one of the three limits the
+usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] is conditioned on. This AMC
+is what makes the declaration worth having: an over-temperature limit the engine
+cannot survive with its OEI ratings intact would not pass CS-E 870(a)(3).
 
 Turbine condition after the 15-minute exposure of [[CS-E 870|CS-E 870(b)(1)]]
 is the governing evidence. The AMC does not say which damage mechanisms matter,

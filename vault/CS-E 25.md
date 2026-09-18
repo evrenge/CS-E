@@ -88,9 +88,10 @@ Amended at Amendment 7. The amendment deleted the opening qualifier "In
 accordance with 21.A.61(a)," from sub-point (a), so the obligation to establish
 the manuals now stands on its own. No change to what the manuals must contain.
 
-[[AMC E 25]] was separately amended at Amendment 8. The change is inside point
-(1): the initial maintenance programme test was inserted into the list of
-certification testing from which the maintenance actions are determined, alongside
-the endurance, over-speed and over-temperature tests. It follows the new
-[[CS-E 930]]. No point (6) was added; AMC E 25(6) is the piston engine time
-between overhauls provision and is unchanged.
+[[AMC E 25]] was separately amended at Amendment 8, in two places. Point (1)
+gained the initial maintenance programme test in the list of certification
+testing from which the maintenance actions are determined, alongside the
+endurance, over-speed and over-temperature tests; that follows the new
+[[CS-E 930]] and it reaches this engine. A new point (6) was also added, on time
+between overhauls and time between replacements for piston engines; that material
+is out of scope. Only the first change bears on a turboshaft.

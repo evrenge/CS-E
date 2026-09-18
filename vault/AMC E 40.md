@@ -34,7 +34,8 @@ endurance evidence.
 |---|---|---|
 | **(1)** | The 30-Second and 2-Minute OEI Power ratings are two separate ratings, associated in a combined structure of 2.5 minutes duration. | Statement |
 | **(2)** | Both are optional ratings, requested by the applicant, intended only for continuation of the one-flight operation after the Failure of one engine in a multi-engine rotorcraft during take-off, climb or landing. | Statement |
-| **(3)** | The ratings were originally conceived as high power ratings using available design margins and followed by a mandatory engine overhaul. Experience has shown differing manufacturer capabilities and margins, so some flexibility is possible in defining them. | Statement |
+| **(3)** | The ratings were originally conceived as high power ratings, using the available margins in the engine design and followed by a mandatory engine overhaul. Experience has shown that manufacturers provide engines with differing capabilities and different margins. | Statement |
+| **(3)** | Therefore some flexibility is possible in defining the mandatory maintenance actions, provided they are appropriately validated during certification. | Permitted |
 | **(4)** | The ratings are intended for one usage per flight in an emergency during take-off or landing. The certification specifications are nevertheless defined around a worst case of three uses in one flight. The required mandatory maintenance actions apply after any use of the rating powers. | Statement |
 | **(5)** | Where the highest power used during a 2.5-minute OEI event is below the 30-Second OEI power band but within the certified 2-Minute OEI band, the 2-Minute OEI rating may be extended to a total duration of 2.5 minutes. That additional 30-second period is then a derated 30-Second OEI Power rating. | Permitted |
 | **(6)** | The 30-Second and 2-Minute OEI Power ratings should account for any deterioration observed during the applicable portion of the 2-hour additional endurance test of CS-E 740(c)(3)(iii). | Accepted method |
@@ -174,7 +175,7 @@ EASA before entering these rows in the TCDS.]
 ## Not applicable
 
 - CS-E 350 and CS-E 440 — the piston engine calibration and endurance tests, in Subpart C, cited by the general AMC.
-- The 2½-Minute OEI and 30-Minute OEI ratings at CS-E 40(b)(3)(iii) and (iv) are not claimed, so point (5)'s comparison to an engine holding a 2½-Minute OEI rating is background only.
+- **CS-E 40(b)(3)(iii)**, **(iv)** — the 2½-Minute OEI and 30-Minute OEI rating definitions. Neither is claimed. AMC E 40(b)(3)(5), which permits extending the 2-Minute OEI rating to a total of 2.5 minutes, is a different provision, is live for this engine and is carried above.
 - **(1)(b)** — maximum declared engine conditions for Reversible Pitch Propeller operations.
 - **(1)(c)** — types of Propellers approved.
 - **(2)** — the eighteen piston engine limitations.

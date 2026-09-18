@@ -97,6 +97,7 @@ front of the engine.
 | **(4)(b)** | Alternatively, consider all potential sources of fire in the intended installation when determining flame impingement location specifications. | Permitted |
 | **(4)(b)** | Base an installation analysis on the actual intended installation, considering also cowling and nacelle structure, under-cowl airflow and aircraft engine build-up hardware; avoid simple generalities; and co-ordinate it with the installer. | Accepted method |
 | **(4)(b)** | Where the installation analysis approach is used, re-evaluate each new installation against the original fire protection substantiation to confirm its applicability. | Accepted method |
+| **(4)(b)** | Lastly, give due consideration to fire protection features such as fire shields, fire protective coatings or other methods, so as not to discourage or invalidate their use with respect to compliance with CS-E 130. | Accepted method |
 | **(4)(c)** | Make the operating characteristics and parameters of the test article consistent but conservative with respect to the conditions that might occur during an actual fire. Where high internal fluid flow increases the heat sink effect and is less conservative, specify a minimum flow condition for the test. | Accepted method |
 | **(4)(d)** | For compliance with CS-E 130(e), evaluate the effects of fire on components of the electrical system. Electrical cables, connectors, terminals and equipment installed in or on the engine, in designated fire zones, should be at least fire resistant. | Accepted method |
 

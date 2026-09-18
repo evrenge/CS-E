@@ -29,7 +29,6 @@ tags: [blade-failure, containment, out-of-balance, debris, shutdown, extremely-r
 | **(1)(c)** | In order to comply with CS-E 810(a), the threat represented by any blade Failure must be addressed. | Required |
 | **(1)(c)** | Therefore assess other possible blade Failure conditions — for example a blade released at a different angular position, a partial blade Failure, or release at speeds below the maximum to be approved — to ensure that the conditions of (2)(c)(i) and (2)(c)(ii) would be satisfied for any blade Failure. | Accepted method |
 | **(1)(c)** | It is recognised that limitations on prediction capabilities exist, particularly for axially released debris. Engineering judgement based on available test and service experience may be used to evaluate these threats. | Permitted |
-| **(1)(c)** | Engineering judgement based on available test and service experience may be used to evaluate these threats, since limitations on prediction capabilities exist, particularly in relation to the prediction of axially released debris. | Permitted |
 | **(1)(d)** | When assessing the potential Hazardous Engine Effect resulting from other damage before engine shutdown, consider the long-term effects, such as unbalance loads, of blade Failures which would not be detected by the declared instrumentation, such as vibration detectors. | Accepted method |
 | **(1)(d)** | If reliance is placed on engine shutdown by the flight crew to prevent propagation to a Hazardous Engine Effect, provide appropriate means to ensure flight crew action, and include adequate instructions in the engine manuals required by CS-E 20(d). | Accepted method |
 
@@ -51,7 +50,7 @@ and the instructions must exist.
 | **(2)(a)(ii)** | For a stage test, take into account the actual strength of the casing under the anticipated operating conditions, such as temperature and pressure, and have adequate evidence indicating that the aircraft would not be endangered by the effect of the blade Failure on subsequent blade rows. | Accepted method |
 | **(2)(b)** | Carry out separate tests on each compressor and turbine stage adjudged most critical from the point of view of blade containment, taking account of blade size, material, radius of rotation, rotational speed and the relative strength of the adjacent engine casing under operating temperature and pressure conditions. | Accepted method |
 | **(2)(b)(i)** | Release one blade at the top of the retention member. | Accepted method |
-| **(2)(b)(ii)(A)** | Release the blade at the maximum rotational speed to be approved, other than Maximum Engine Over-speed, and the associated maximum casing temperature. | Accepted method |
+| **(2)(b)(ii)(A)** | Release the blade at the maximum rotational speed to be approved, other than Maximum Engine Overspeed, and the associated maximum casing temperature. | Accepted method |
 | **(2)(b)(ii)(B)** | …or at any likely combination of the non-transient rotational speed, intake temperature and casing temperature that is considered to be more critical. | Permitted |
 | **(2)(b)(ii)** | Any deficiency in the required casing temperature may be compensated for by means of a suitable increase in the engine speed. | Permitted |
 | **(2)(c)** | On completion of the tests, a complete engine shutdown is acceptable. | Permitted |

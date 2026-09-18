@@ -41,7 +41,8 @@ tags: [safety-analysis, fmea, fault-tree, hazardous-engine-effect, debris, toxic
 | **(3)(c)** | "Typical installation" in CS-E 510(a)(1)(i) does not imply the aircraft-level effects are known, but that assumptions of typical aircraft devices and procedures — fire-extinguishing equipment, annunciation devices and similar — are clearly stated in the analysis. | Statement |
 | **(3)(c)** | Where the applicant cannot determine the detailed Failure sequence, rate of occurrence or dormancy period of Failures of aircraft components, the applicant will assume a Failure rate for those components for engine certification. | Statement |
 | **(3)(c)** | CS-E 510(a)(1)(i) requires the applicant to take account of aircraft-level devices in the engine safety analysis; the effects on the engine of a Failure of aircraft air ducts is the example the AMC gives. | Statement |
-| **(3)(c)** | Provide, in the engine instructions for installation, the list of Failures of aircraft components that may result in or contribute to Hazardous or Major Engine Effects, describe the mode of propagation, and state the assumed Failure rates. | Accepted method |
+| **(3)(c)** | Compliance with CS-E 510(e) requires the applicant to provide, in the engine instructions for installation, the list of Failures of aircraft components that may result in or contribute to Hazardous or Major Engine Effects. | Required |
+| **(3)(c)** | The mode of propagation to this effect should be described and the assumed Failure rates should be stated. | Accepted method |
 | **(3)(c)** | Address such assumptions in compliance with CS-E 30. | Accepted method |
 
 The instructions-for-installation duty in (3)(c) is the mechanism that makes the
@@ -70,7 +71,8 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(iii)** | Use engineering judgement based on available test and service experience of comparable designs as the basis for a conservative estimate of blade reliability. | Accepted method |
 | **(3)(d)(iii)** | Determine the likelihood of a blade failure resulting in an unsafe condition primarily from debris energy and trajectories observed in testing and in service, with an assessment of the trajectories that could impact the aircraft. | Accepted method |
 | **(3)(d)(iii)** | Where possible, assess the threat to aircraft safety in coordination with the aircraft manufacturer. In any case, include assumptions regarding the ability of the aircraft to withstand debris impact in the Manuals required by CS-E 20(d). | Accepted method |
-| **(3)(d)(iii)** | Consider that other components may be released following Failure — service experience has shown that rupture of the high-pressure casings can generate high-energy debris — and assess the probability that an unsafe condition results. An Extremely Remote probability must be demonstrated for compliance with CS-E 510(a)(3). | Accepted method |
+| **(3)(d)(iii)** | Consider that other components may be released following Failure; service experience has shown that rupture of the high-pressure casings can generate high-energy debris. Assess the probability that an unsafe condition results from such a Failure. | Accepted method |
+| **(3)(d)(iii)** | An Extremely Remote probability must be demonstrated for compliance with CS-E 510(a)(3). | Required |
 | **(3)(d)(iv)** | CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by abnormal engine operation sufficient to incapacitate crew or passengers during the flight. | Statement |
 | **(3)(d)(iv)** | Make no assumptions of cabin air dilution or mixing in the engine-level analysis; these can only be properly evaluated during aircraft certification. | Accepted method |
 | **(3)(d)(iv)** | The intent of CS-E 510(g)(2)(ii) is to address the relative concentration of toxic products in the engine bleed air delivery. The Hazardous Engine Effect of toxic products relates to significant concentrations, with "significant" defined as concentrations sufficient to incapacitate persons exposed to those concentrations. | Statement |
@@ -142,8 +144,9 @@ of protective coatings, as service examples.
 
 The multi-engine concern in (3)(h) is that similar incorrect actions performed on
 several engines during the same maintenance availability by one crew defeat
-redundancy. The AMC calls this primarily an aircraft-level concern but still
-requires engine-design precautions.
+redundancy. The AMC calls this primarily an aircraft-level concern and says precautions
+should be taken in the engine design to minimise the likelihood of such
+maintenance errors.
 
 ### AMC E 510(4) to (6) — techniques, documents, definitions
 
@@ -213,9 +216,9 @@ are excess power above the maximum rated value and uncontrollable power
 oscillation. The list is explicitly non-exhaustive and not all items apply to all
 engines, so this is interpretation rather than omission.
 
-**The control system.** AMC E 510(3)(b) requires the CS-E 50
-specifications for the Engine Control System to be integrated into the overall
-engine safety analysis rather than analysed separately. For a full-authority
+**The control system.** AMC E 510(3)(b) says the CS-E 50 specifications for the
+Engine Control System should be integrated into the overall engine safety
+analysis rather than analysed separately. For a full-authority
 EECS this is the central structural requirement of the analysis, and it is the
 analysis that [[AMC E 60|AMC E 60(d)(3)]] draws on for the development assurance
 level of the OEI recording and retrieval system.

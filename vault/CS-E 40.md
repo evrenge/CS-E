@@ -25,6 +25,7 @@ tags: [ratings, oei, limitations, tcds]
 | **(c)** | The engine Power ratings will be based on standard atmospheric conditions, without aircraft bleed, with only accessories essential to engine functioning. Any other basis is declared in the TCDS. | Statement |
 | **(d)** | Establish operating limitations for the intended operating conditions. | Required |
 | **(e)** | List rated powers, and limitations the crew must respect, in the TCDS under point 21.A.41 of Part 21. | Required |
+| **(e)** | The engine type certificate data sheet must also identify, or make reference to, all other information found necessary for the safe operation of the engine. | Required |
 | **(f)** | Define each rating for the lowest power all engines of the type produce, and define the minimum testing that ensures it. | Required |
 | **(g)** | Account for the accuracy limits of the Engine Control System and instrumentation, as defined in CS-E 60(b). | Required |
 
