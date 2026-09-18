@@ -2,7 +2,6 @@
 id: "AMC E 20"
 type: AMC
 subpart: A
-chapter: A
 pages: 19-21
 changed_in: [Amdt8]
 tags: [type-design, interfaces, eecs, installation, oei, power-assurance]

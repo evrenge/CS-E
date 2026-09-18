@@ -2,7 +2,6 @@
 id: "CS-E 25"
 type: CS
 subpart: A
-chapter: A
 pages: 21-22
 changed_in: [Amdt7]
 tags: [ica, airworthiness-limitations, oei, critical-parts, maintenance]

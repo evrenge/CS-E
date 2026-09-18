@@ -2,7 +2,6 @@
 id: "AMC E 40"
 type: AMC
 subpart: A
-chapter: B
 pages: 30-33
 changed_in: []
 tags: [ratings, oei, 30-minute-power, operating-limitations, tcds, maintenance]

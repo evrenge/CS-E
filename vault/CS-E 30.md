@@ -2,7 +2,6 @@
 id: "CS-E 30"
 type: CS
 subpart: A
-chapter: A
 pages: 27-27
 changed_in: []
 tags: [assumptions, installation, interfaces]

@@ -2,7 +2,6 @@
 id: "AMC General"
 type: AMC
 subpart: A
-chapter: A
 pages: 15-15
 changed_in: []
 tags: [structure, amc]

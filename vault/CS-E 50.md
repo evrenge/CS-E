@@ -2,7 +2,6 @@
 id: "CS-E 50"
 type: CS
 subpart: A
-chapter: B
 pages: 33-36
 changed_in: []
 tags: [control-system, eecs, fadec, lotc, software, security, oei]

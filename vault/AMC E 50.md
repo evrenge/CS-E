@@ -2,7 +2,6 @@
 id: "AMC E 50"
 type: AMC
 subpart: A
-chapter: B
 pages: 36-38
 changed_in: []
 tags: [control-system, eecs, fadec, over-speed, oei, security, rotorcraft]

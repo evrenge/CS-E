@@ -2,7 +2,6 @@
 id: "CS-E 15"
 type: CS
 subpart: A
-chapter: A
 pages: 16-18
 changed_in: []
 tags: [terminology, definitions, probability, critical-parts]
