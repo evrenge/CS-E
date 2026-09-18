@@ -8,8 +8,12 @@ tags: [terminology, definitions, probability, critical-parts]
 ---
 # CS-E 15 — Terminology
 
-> [!quote] CS-E 15(a)
-> "The terminology of this CS-E 15 must be used in conjunction with the issue of CS-Definitions current at the date of issue of this CS-E."
+> [!summary]
+> Defines the terms CS-E uses, and requires them to be read together with the
+> issue of CS-Definitions current at the date of CS-E. The practical rule is the
+> initial-capital convention: a capitalised term inside a CS-E sentence is a
+> defined term. The probability terms — Extremely Remote, Remote, Reasonably
+> Probable — carry numerical ranges that drive the safety analysis of CS-E 510.
 
 ## Requirement
 

@@ -8,8 +8,11 @@ tags: [structure, amc]
 ---
 # AMC General
 
-> [!quote] AMC General
-> "AMC-20 may also provide acceptable means of compliance to the specifications … of this CS-E."
+> [!summary]
+> A single sentence recording that the AMC E paragraphs are not the only source
+> of acceptable means: AMC-20, a separate EASA document, may also supply one for
+> a CS-E specification. The practical consequence is a search obligation — check
+> AMC-20 before concluding that no acceptable means exists for a specification.
 
 ## Requirement
 

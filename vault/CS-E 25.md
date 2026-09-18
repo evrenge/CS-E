@@ -8,8 +8,14 @@ tags: [ica, airworthiness-limitations, oei, critical-parts, maintenance]
 ---
 # CS-E 25 — Instructions for Continued Airworthiness
 
-> [!quote] CS-E 25(a)
-> "Manual(s) must be established containing instructions for continued airworthiness of the Engine."
+> [!summary]
+> Requires the Instructions for Continued Airworthiness, and inside them a
+> segregated airworthiness limitations section carrying every mandatory
+> replacement time, inspection interval and procedure. For an engine with
+> 30-Second and 2-Minute OEI ratings it also requires mandatory post-flight
+> inspections after any use of either rating, their validation, and an in-service
+> engine evaluation programme. That regime is the operational cost of declaring
+> the two ratings.
 
 ## Requirement
 
@@ -61,7 +67,7 @@ OEI, so the mandatory post-flight inspection regime, its validation, and the
 in-service evaluation programme are all required.
 
 That regime is the operational cost of the two ratings. Every use of either
-rating triggers mandatory post-flight action, and [[AMC E 40(b)(3)]] records that
+rating triggers mandatory post-flight action, and [[AMC E 40|AMC E 40(b)(3)]] records that
 certification assumes the worst case of three uses in one flight.
 
 Item (c)(13) binds because the engine carries a full-authority EECS: the security
@@ -74,7 +80,7 @@ inclusion is unaffected.
 ## References
 
 Accepted means: [[AMC E 25]]
-Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 515]] · [[AMC E 40(b)(3)]]
+Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 515]] · [[AMC E 40|AMC E 40(b)(3)]]
 
 ## Amendment history
 

@@ -8,8 +8,12 @@ tags: [assumptions, installation, interfaces, oil-consumption]
 ---
 # AMC E 30 — Assumptions
 
-> [!quote] AMC E 30
-> "The details required by CS-E 30 concerning assumptions should normally include information on, at least, the items listed in Table 1."
+> [!summary]
+> Table 1 is the working checklist for CS-E 30. It pairs each assumption the
+> applicant must declare with the CS-E paragraph that gives rise to it, so an
+> installer can trace an assumption back to the specification it serves. The
+> table's layout does not survive text extraction, so the three source pages are
+> embedded as images.
 
 ## Requirement
 

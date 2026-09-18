@@ -52,7 +52,11 @@ CS-E terms and records the open [VERIFY] items. Summary:
    **Obligation strength** below, chosen by the source's own verb. Never upgrade
    or downgrade, and never invent a wording outside that list.
 3. Copy all numbers, times, percentages, probabilities exactly, with units.
-4. One short verbatim quote (max 1 sentence) per note from the key CS text, in the "Rule text" callout.
+4. Quote verbatim wherever exact wording is decisive, in quotation marks with its
+   reference — never as decoration. A quoted passage of 40 characters or more is
+   checked word-for-word against the source. The note opens with a `[!summary]`
+   callout, not a quotation: repeating the first sentence duplicates what the
+   Requirement table already states.
 5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
 6. For figures and tables, embed the cropped image in the note rather than
    describing it. The content is absent from the text layer, so a description is
@@ -76,11 +80,13 @@ subpart: E
 pages: 138-149
 changed_in: [Amdt8]          # [] when unchanged
 tags: [endurance, oei, test]
+covers: ["AMC E 740(c)(3)", ...]   # merged AMC notes only; omit otherwise
 ---
 # CS-E 740 — Endurance Tests
 
-> [!quote] CS-E 740(c)(3)(i)
-> "<one verbatim sentence from the key CS text>"
+> [!summary]
+> What this paragraph requires overall, and what it means for this engine.
+> Two to four sentences. Not a quotation.
 
 ## Requirement
 A table mirroring the applicable sub-points in source order: reference,
@@ -120,6 +126,17 @@ Related: [[CS-E 730]] · [[CS-E 50]]
 What Amendment 7 or 8 changed in this paragraph and whether it alters obligation.
 Omit when `changed_in` is empty.
 ```
+
+### One AMC note per CS-E number
+EASA splits its AMC material unevenly: AMC E 40, AMC E 40(b)(3) and AMC E 40(d)
+are three separate banners, while AMC E 25 is one. Mirroring that heading for
+heading produces a vault that looks arbitrary.
+
+So the vault holds **one AMC note per CS-E number**, named `AMC E 40.md`, with a
+`###` section per sub-AMC and a `covers:` list in the frontmatter. CS and AMC stay
+in separate files, so the graph keeps its specification-to-means edges.
+`scripts/vault_map.py` is the authority on which note a paragraph belongs to, and
+`lint_vault.py` rejects a note whose name is not one the map expects.
 
 An AMC note labels its References line `Specification:` and links its parent CS.
 A figure or table owned by the paragraph is embedded as an image, not described:

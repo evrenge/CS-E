@@ -8,8 +8,14 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 ---
 # CS-E 50 — Engine Control System
 
-> [!quote] CS-E 50(a)
-> "It must be substantiated by tests, analysis or a combination thereof that the Engine Control System performs the intended functions …"
+> [!summary]
+> The longest paragraph in Subpart A, with 28 obligations covering control system
+> operation, Control Mode transitions, failure rates, the system safety
+> assessment, over-speed protection, software, aircraft-supplied data and power,
+> air signal lines, rapid shutdown and information security. For this engine it
+> also requires automatic availability and automatic control of 30-Second OEI
+> power. Two of its cross-references — CS-E 390 and CS-E 210 — are piston
+> paragraphs and do not bind a turbine engine.
 
 ## Requirement
 
@@ -77,7 +83,7 @@ recommendation inside a binding specification, and is weaker than the "must" in
 
 - Control system functional substantiation by test, analysis or a combination [CS-E 50(a)].
 - Demonstration of Control Mode, channel and Primary-to-Back-up transitions [CS-E 50(b)].
-- Over-speed protection availability test, by the route matching the protection technology [CS-E 50(e)(1), (e)(2)], guidance at [[AMC E 50(e)]].
+- Over-speed protection availability test, by the route matching the protection technology [CS-E 50(e)(1), (e)(2)], guidance at [[AMC E 50|AMC E 50(e)]].
 - Demonstration that low voltage transients outside declared limits meet (h)(1), and that normal operation resumes [CS-E 50(h)(4)].
 
 ### Analysis
@@ -88,7 +94,7 @@ recommendation inside a binding specification, and is weaker than the "must" in
 - Local event analysis: fire, overheat and control component damage [CS-E 50(c)(4)].
 - Air pressure signal line blockage and leakage, within the (d) assessment [CS-E 50(i)].
 - Aircraft-supplied data failure evaluation, documented across the flight envelope [CS-E 50(g)(2)].
-- Security risk and vulnerability assessment [CS-E 50(l)], guidance at [[AMC to CS-E 50(l)]].
+- Security risk and vulnerability assessment [CS-E 50(l)], guidance at [[AMC E 50|AMC to CS-E 50(l)]].
 
 ### Documents
 
@@ -104,7 +110,7 @@ AMC 20-3 and AMC 20-115, which are not held in `source/`.
 
 Sub-point (j) binds. The applicant declares a 30-Second OEI Power rating, so
 automatic availability and automatic control of that rating are mandatory.
-[[AMC E 50(j)]] governs the method.
+[[AMC E 50|AMC E 50(j)]] governs the method.
 
 "OEI override" is a control-system feature, not a rating under [[CS-E 40]]. It is
 assessed here and in the [[CS-E 510]] safety assessment required by (d).
@@ -124,7 +130,7 @@ method.]
 
 ## References
 
-Accepted means: [[AMC E 50]] · [[AMC E 50(e)]] · [[AMC E 50(j)]] · [[AMC to CS-E 50(l)]]
+Accepted means: [[AMC E 50]] · [[AMC E 50|AMC E 50(e)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 50|AMC to CS-E 50(l)]]
 Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 510]] · [[AMC E 170]]
 
 ## Amendment history

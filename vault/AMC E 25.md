@@ -8,8 +8,13 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 ---
 # AMC E 25 — Instructions for continued airworthiness
 
-> [!quote] AMC E 25(1)
-> "The maintenance actions are determined through certification testing, including, where applicable, endurance tests, initial maintenance programme test, over-speed tests, over-temperature tests, and supplemented by development testing and service experience of Engines of the same type or of similar design."
+> [!summary]
+> The accepted means for the Instructions for Continued Airworthiness, and the
+> heaviest AMC in Subpart A. Most of it governs the 30-Second and 2-Minute OEI
+> ratings: what the mandatory post-flight actions must achieve, how they are
+> validated, and the in-service engine evaluation programme that must be approved
+> by EASA before certification. Its Amendment 8 addition is piston TBO/TBR
+> material and does not apply here.
 
 ## Requirement
 
@@ -106,7 +111,7 @@ CS-E 740(c)(3)(iii) — the test that the declared rating combination selects. S
 [[CS-E 740]].
 
 The "three applications of 30 seconds OEI rated power" in the programme elements
-matches the worst-case assumption in [[AMC E 40(b)(3)|AMC E 40(b)(3)(4)]]: three uses in one
+matches the worst-case assumption in [[AMC E 40|AMC E 40(b)(3)(4)]]: three uses in one
 flight at take-off, baulked landing and final landing.
 
 Point (4)(a) offers a choice where 2-Minute OEI is extended to 2½ minutes: apply
@@ -120,7 +125,7 @@ second route needs justification and validation.
 ## References
 
 Specification: [[CS-E 25]]
-Related: [[CS-E 40]] · [[CS-E 60]] · [[CS-E 515]] · [[CS-E 740]] · [[AMC E 20(f)]] · [[AMC E 40(b)(3)]] · [[AMC E 50(j)]] · [[AMC E 60(d)]]
+Related: [[CS-E 40]] · [[CS-E 60]] · [[CS-E 515]] · [[CS-E 740]] · [[AMC E 20|AMC E 20(f)]] · [[AMC E 40|AMC E 40(b)(3)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 60|AMC E 60(d)]]
 
 ## Amendment history
 

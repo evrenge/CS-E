@@ -1,23 +1,21 @@
 #!/usr/bin/env python3
-"""Phase 3 — check every vault note against the index and the CLAUDE.md rules.
+"""Check every vault note against the index and the CLAUDE.md rules.
 
 Catches the mistakes that are invisible when writing one note at a time:
 
-  ghost-link     a [[wikilink]] to a paragraph that gets no note (EXCLUDED, or
-                 out of scope). CLAUDE.md requires those as plain text.
-  bad-link       a [[wikilink]] to something that is not a paragraph id at all
-  missing-image  an ![[embed]] whose file is absent from vault/figures/
-  link-paren     [[X]](y), which GitHub parses as a link to the path "y"
-  frontmatter    missing field, or a value that disagrees with the index
-                 (pages, subpart, status, changed_in)
-  sections       a required section missing, or Dropped present but empty
-  rule-4         not exactly one [!quote] callout
+  unexpected     a note whose name is not one the vault should contain
+  frontmatter    a missing field, or a value that disagrees with the index
+                 (pages, subpart, type, changed_in, covers)
+  sections       a required section missing, or 'Not applicable' present but empty
+  summary        not exactly one [!summary] callout
+  quote          a quoted passage of 40 characters or more that is not verbatim
+                 anywhere in CS-E Amendment 8
   strength       a Strength cell outside the seven allowed values
+  ref-format     a Ref cell splitting nested sub-points, e.g. "(a) (2)"
+  link-paren     [[X]](y), which GitHub parses as a link to the path "y"
+  ghost-link     a [[wikilink]] to a note the vault will not contain
+  missing-image  an ![[embed]] whose file is absent from vault/figures/
   terminology    the note uses "Book 1" or "Book 2", which CLAUDE.md bans
-  ref-format     a Ref cell splits nested sub-points, e.g. "(a) (2)"
-  quote          the Rule text quote is not verbatim in the paragraph's source
-                 text (work/paragraphs/), after whitespace normalisation
-  orphan         a note whose paragraph is not classified APPLIES
 
 Exit status is 0 only when every note passes.
 
@@ -27,7 +25,6 @@ Usage:
 
 from __future__ import annotations
 
-import csv
 import re
 import sys
 from pathlib import Path
@@ -35,23 +32,25 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from classification import CLASSIFICATION  # noqa: E402
+from vault_map import expected_notes, note_name  # noqa: E402
 
 VAULT = ROOT / "vault"
-INDEX = ROOT / "work" / "paragraph_index.csv"
 PARAS = ROOT / "work" / "paragraphs"
+
 REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
             "## References"]
-# The only permitted values of the Requirement table's Strength column.
 STRENGTHS = {"Required", "Required if claimed", "Recommended",
              "Accepted method", "Permitted", "Relief", "Statement"}
-# A link is [[...]]; an EMBED is ![[...]] and is an image, not a paragraph link.
-# An alias link is [[Target|Display]] - only the target is checked.
+
 WIKILINK = re.compile(r"(?<!!)\[\[([^\]|#]+)")
-# [[X]](y) is parsed by GitHub as [link text](url), producing a hyperlink to a
-# path that does not exist. Use the alias form [[X|X(y)]] instead.
-LINK_PAREN = re.compile(r"\]\]\(")
 EMBED = re.compile(r"!\[\[([^\]|#]+)\]\]")
-QUOTE = re.compile(r">\s*\[!quote\][^\n]*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
+LINK_PAREN = re.compile(r"\]\]\(")
+FM_FIELD = re.compile(r"^(\w+):\s*(.*)$")
+SUMMARY = re.compile(r">\s*\[!summary\]")
+# Quotation marks are paired by POSITION, not matched by a regex: a regex cannot
+# tell an opening quote from a closing one, so it matches the prose BETWEEN two
+# separate quotations and reports it as unverifiable.
+MIN_QUOTE = 40
 
 
 def slug(pid: str) -> str:
@@ -59,65 +58,86 @@ def slug(pid: str) -> str:
 
 
 def norm(text: str) -> str:
-    """Whitespace-flatten and normalise the quote marks EASA and Markdown differ on."""
-    text = text.replace("\u2019", "'").replace("\u2018", "'")
-    text = text.replace("\u201c", '"').replace("\u201d", '"')
-    text = text.replace("\u2011", "-").replace("\u2013", "-").replace("\u2014", "-")
-    text = " ".join(text.split())
-    # EASA wraps hyphenated tokens across lines, so "AMC-\n20" flattens to
-    # "AMC- 20" while the note quotes "AMC-20". Collapsing hyphen+space on BOTH
-    # sides keeps the comparison honest without weakening it.
-    return re.sub(r"-\s+", "-", text)
-FM_FIELD = re.compile(r"^(\w+):\s*(.*)$")
+    text = (text.replace("’", "'").replace("‘", "'")
+                .replace("“", '"').replace("”", '"')
+                .replace("‑", "-").replace("–", "-").replace("—", "-"))
+    return re.sub(r"-\s+", "-", " ".join(text.split()))
+
+
+def source_text(ids: list[str]) -> str:
+    """Concatenated source text of every paragraph a note covers."""
+    out = []
+    for pid in ids:
+        f = PARAS / f"{slug(pid)}.txt"
+        if f.exists():
+            out += [ln for ln in f.read_text(encoding="utf-8").splitlines()
+                    if not ln.startswith("#")]
+    return norm(" ".join(out))
+
+
+_WHOLE: str | None = None
+
+
+def whole_document() -> str:
+    """All of CS-E Amendment 8, as the fallback haystack.
+
+    A note may legitimately quote a paragraph it links to rather than one it
+    covers — AMC E 50 quoting CS-E 50(a)(3), say. The quotation still has to be
+    verbatim, just not necessarily from this note's own paragraphs.
+    """
+    global _WHOLE
+    if _WHOLE is None:
+        out = []
+        for f in sorted(PARAS.glob("*.txt")):
+            out += [ln for ln in f.read_text(encoding="utf-8").splitlines()
+                    if not ln.startswith("#")]
+        _WHOLE = norm(" ".join(out))
+    return _WHOLE
 
 
 def main() -> int:
     verdict = {i: s for i, s, _ in CLASSIFICATION}
-    index = {r["id"]: r for r in csv.DictReader(INDEX.open())}
-    # Paragraphs that are entitled to a note.
-    expected = {i for i, s in verdict.items() if s == "APPLIES"}
-
+    expected = expected_notes(verdict)
     problems: list[str] = []
     seen: set[str] = set()
 
     for note in sorted(VAULT.glob("*.md")):
-        pid = note.stem
+        name = note.stem
         text = note.read_text(encoding="utf-8")
-        seen.add(pid)
+        seen.add(name)
         say = lambda msg: problems.append(f"{note.name}: {msg}")  # noqa: E731
 
-        if pid not in expected:
-            say(f"orphan — {pid!r} is {verdict.get(pid, 'not classified')}, not APPLIES")
+        meta = expected.get(name)
+        if meta is None:
+            say(f"unexpected note — {name!r} is not a note this vault should contain")
+            continue
 
         # --- frontmatter
         if not text.startswith("---\n"):
             say("frontmatter missing")
-        else:
-            fm_raw = text.split("---\n", 2)[1]
             fm = {}
-            for line in fm_raw.splitlines():
+        else:
+            fm = {}
+            for line in text.split("---\n", 2)[1].splitlines():
                 m = FM_FIELD.match(line)
                 if m:
                     fm[m.group(1)] = m.group(2).strip()
-            for field in ("id", "type", "subpart", "pages", "changed_in", "tags"):
-                if field not in fm:
-                    say(f"frontmatter missing field {field!r}")
-            row = index.get(pid)
-            if row:
-                want_pages = f"{row['start_page']}-{row['end_page']}"
-                if fm.get("pages") != want_pages:
-                    say(f"pages {fm.get('pages')!r} but index says {want_pages!r}")
-                if fm.get("subpart") != row["subpart"]:
-                    say(f"subpart {fm.get('subpart')!r} but index says {row['subpart']!r}")
-                want_ch = ([] if row["changed_in"] == "none"
-                           else row["changed_in"].split(";"))
-                got_ch = [c.strip(" '\"") for c in
-                          fm.get("changed_in", "[]").strip("[]").split(",") if c.strip()]
-                if sorted(got_ch) != sorted(want_ch):
-                    say(f"changed_in {got_ch} but index says {want_ch}")
-            want_type = "CS" if pid.startswith("CS-E") else "AMC"
-            if fm.get("type") not in (want_type, "AMC" if pid == "AMC General" else want_type):
-                say(f"type {fm.get('type')!r}, expected {want_type!r}")
+        for field in ("id", "type", "subpart", "pages", "changed_in", "tags"):
+            if field not in fm:
+                say(f"frontmatter missing field {field!r}")
+        want_pages = f"{meta['start']}-{meta['end']}"
+        if fm.get("pages") != want_pages:
+            say(f"pages {fm.get('pages')!r} but the index says {want_pages!r}")
+        if fm.get("subpart") != meta["subpart"]:
+            say(f"subpart {fm.get('subpart')!r} but the index says {meta['subpart']!r}")
+        if fm.get("type") != meta["type"]:
+            say(f"type {fm.get('type')!r}, expected {meta['type']!r}")
+        got = sorted(c.strip(" '\"") for c in
+                     fm.get("changed_in", "[]").strip("[]").split(",") if c.strip())
+        if got != meta["changed_in"]:
+            say(f"changed_in {got} but the index says {meta['changed_in']}")
+        if len(meta["ids"]) > 1 and "covers" not in fm:
+            say(f"merged note must list covers: {meta['ids']}")
 
         # --- sections
         for section in REQUIRED:
@@ -128,12 +148,33 @@ def main() -> int:
             if not [ln for ln in block.splitlines() if ln.strip().startswith("-")]:
                 say("'Not applicable' present but empty — omit it instead")
 
-        # --- rule 4: exactly one Rule text callout
-        n_quote = text.count("> [!quote]")
-        if n_quote != 1:
-            say(f"{n_quote} [!quote] callouts, expected exactly 1")
+        # --- exactly one summary callout
+        n = len(SUMMARY.findall(text))
+        if n != 1:
+            say(f"{n} [!summary] callouts, expected exactly 1")
 
-        # --- rule 2: Strength column uses the fixed vocabulary
+        # --- every long quoted passage must be verbatim in the source.
+        # Flatten first: a quote wrapped over several lines, or sitting inside a
+        # "> " callout, is still one quotation.
+        body_flat = " ".join(
+            re.sub(r"^\s*>\s?", "", ln)
+            for ln in text.split("---\n", 2)[-1].splitlines())
+        haystack = source_text(meta["ids"])
+        pieces = body_flat.replace("\u201c", '"').replace("\u201d", '"').split('"')
+        for quoted in {q.strip() for q in pieces[1::2]}:
+            if len(quoted) < MIN_QUOTE:
+                continue
+            parts = [f.strip() for f in quoted.split("…") if f.strip()]
+            if all(norm(part) in haystack for part in parts):
+                continue
+            # A note may quote a paragraph it links to rather than one it covers.
+            # The quotation must still be verbatim, just not necessarily from
+            # this note's own paragraphs.
+            if all(norm(part) in whole_document() for part in parts):
+                continue
+            say(f"quoted passage not verbatim in source: {quoted[:70]!r}...")
+
+        # --- Requirement table
         if "## Requirement" in text:
             block = text.split("## Requirement", 1)[1].split("\n## ", 1)[0]
             for row in block.splitlines():
@@ -141,7 +182,8 @@ def main() -> int:
                 if len(cells) != 3 or not row.strip().startswith("|"):
                     continue
                 strength = cells[2].replace("*", "").strip()
-                if not strength or strength in ("Strength", "---") or set(strength) <= {"-", ":"}:
+                if (not strength or strength in ("Strength", "---")
+                        or set(strength) <= {"-", ":"}):
                     continue
                 if strength not in STRENGTHS:
                     say(f"Strength {strength!r} is not one of the seven allowed values")
@@ -149,54 +191,34 @@ def main() -> int:
                 if re.search(r"\)\s+\(", ref):
                     say(f"Ref {ref!r} splits nested sub-points — write (a)(2)")
 
-        # --- rule 4 content: the quote must exist verbatim in the source
-        m = QUOTE.search(text)
-        if m:
-            quoted = m.group(1).strip().lstrip(">").strip()
-            # Drop the trailing attribution, e.g. '... " - CS-E 740(c)(3)(i)'
-            quoted = re.sub(r'"\s*[-\u2014]\s*(?:CS-E|AMC|GM)[^"]*$', '"', quoted).strip()
-            quoted = quoted.strip('"').strip()
-            src = PARAS / f"{slug(pid)}.txt"
-            if not src.exists():
-                say(f"no source text at {src.name} to verify the quote against")
-            else:
-                haystack = norm(src.read_text(encoding="utf-8"))
-                # "…" marks an elision. Each fragment must still be verbatim.
-                for part in (f.strip() for f in quoted.split("\u2026")):
-                    if part and norm(part) not in haystack:
-                        say(f"quote not verbatim in source: {part[:70]!r}...")
-
-        # --- embedded images must exist
-        for img in {i.strip() for i in EMBED.findall(text)}:
-            if not (VAULT / "figures" / img).exists():
-                say(f"missing-image ![[{img}]] — not in vault/figures/")
-
-        # --- link form
+        # --- link form and targets
         if LINK_PAREN.search(text):
             say("link-paren: [[X]](y) renders as a broken hyperlink on GitHub; "
                 "use the alias form [[X|X(y)]]")
-
-        # --- terminology
-        for banned in ("Book 1", "Book 2"):
-            if banned in text:
-                say(f"uses {banned!r} — CLAUDE.md bans it; CS-E has CS and AMC paragraphs only")
-
-        # --- links
         body = text.split("---\n", 2)[-1]
         for target in {t.strip() for t in WIKILINK.findall(body)}:
             if target in expected:
                 continue
-            if target in verdict:
-                say(f"ghost-link [[{target}]] — that paragraph is "
-                    f"{verdict[target]} and gets no note; use plain text")
-            elif target in index:
-                say(f"ghost-link [[{target}]] — out of scope (subpart "
-                    f"{index[target]['subpart']}); use plain text")
+            resolved = note_name(target)
+            if resolved in expected:
+                say(f"[[{target}]] — link to the note {resolved!r} instead")
+            elif target in verdict:
+                say(f"ghost-link [[{target}]] — that paragraph is {verdict[target]} "
+                    "and gets no note; use plain text")
             else:
-                say(f"bad-link [[{target}]] — not a paragraph id")
+                say(f"bad-link [[{target}]] — not a note this vault contains")
+        for img in {i.strip() for i in EMBED.findall(text)}:
+            if not (VAULT / "figures" / img).exists():
+                say(f"missing-image ![[{img}]] — not in vault/figures/")
+
+        # --- terminology
+        for banned in ("Book 1", "Book 2"):
+            if banned in text:
+                say(f"uses {banned!r} — CLAUDE.md bans it; "
+                    "CS-E has CS and AMC paragraphs only")
 
     print(f"{len(seen)} notes checked, {len(expected)} expected in total "
-          f"({len(expected - seen)} not yet written)")
+          f"({len(set(expected) - seen)} not yet written)")
     if problems:
         print(f"\n{len(problems)} problem(s):")
         for p in problems:

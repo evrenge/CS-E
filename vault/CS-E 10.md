@@ -8,8 +8,12 @@ tags: [applicability, scope, structure]
 ---
 # CS-E 10 — Applicability
 
-> [!quote] CS-E 10(d)
-> "The specifications of subparts A, D, E and F apply to Turbine Engines."
+> [!summary]
+> The scope anchor for the whole vault. Subparts A, D, E and F apply to turbine
+> engines, so all four apply to a turboshaft, while Subparts B and C are piston
+> only. The paragraph imposes no test or analysis; it fixes which subparts form
+> the certification basis. Its only practical effect here is the thrust reverser
+> endorsement, since no reverser is fitted.
 
 ## Requirement
 

@@ -8,8 +8,14 @@ tags: [assumptions, installation, interfaces]
 ---
 # CS-E 30 — Assumptions
 
-> [!quote] CS-E 30(a)
-> "In order that the validity of the conditions assumed in the Engine certification may be assessed for any particular installation, prior to Engine certification, the details of the assumptions made must be submitted."
+> [!summary]
+> CS-E certifies an engine without a specific aircraft, so certification rests on
+> assumptions about what the installation will impose. This paragraph forces
+> those assumptions into the open: they must be submitted before certification
+> and carried in the instructions for installation, so an installer can check
+> them against the real aircraft. Where the engine relies on components outside
+> its type design, their interface conditions and reliability specifications must
+> be specified too.
 
 ## Requirement
 

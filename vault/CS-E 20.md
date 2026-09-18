@@ -8,8 +8,13 @@ tags: [type-design, interfaces, manuals, installation, oei]
 ---
 # CS-E 20 — Engine Configuration and Interfaces
 
-> [!quote] CS-E 20(a)
-> "The list of all the parts and equipment, including references to the relevant drawings, which defines the proposed type design of the Engine, must be established."
+> [!summary]
+> Fixes the boundary of the type certificate: what is inside the declared engine
+> configuration, what sits on the engine but outside it, and what the installer
+> must be told. It requires the installation and operating manuals, the engine
+> performance data pack, and — for an engine with OEI ratings — the data the
+> aircraft manufacturer needs to build power assurance procedures. All of it
+> binds here, including sub-point (f).
 
 ## Requirement
 
@@ -33,14 +38,14 @@ what is inside it, and sub-point (c) says what sits on the engine but is not.
 - Installation manual: physical and functional interfaces, Control Mode descriptions and their limitations, interface security requirements where necessary [CS-E 20(d)].
 - Operating manual [CS-E 20(d)].
 - Performance data pack supporting minimum and maximum engine derivation, with bleed, off-take, forward speed, ambient pressure, temperature and humidity effects [CS-E 20(e)].
-- OEI performance characteristics and variability data for power assurance [CS-E 20(f)], scope per [[AMC E 20(f)]].
+- OEI performance characteristics and variability data for power assurance [CS-E 20(f)], scope per [[AMC E 20|AMC E 20(f)]].
 
 Guidance on all of the above: [[AMC E 20]].
 
 ## Application to this engine
 
 Sub-point (f) binds. The applicant declares 30-Second OEI, 2-Minute OEI and
-Continuous OEI, so the power assurance data set is mandatory. [[AMC E 20(f)]] was
+Continuous OEI, so the power assurance data set is mandatory. [[AMC E 20|AMC E 20(f)]] was
 amended at Amendment 8 and governs its content.
 
 Sub-point (d) requires the Control Mode description. For a full-authority EECS
@@ -56,9 +61,9 @@ names recorded rotorcraft OEI data as one such resource.
 
 ## References
 
-Accepted means: [[AMC E 20]] · [[AMC E 20(f)]]
+Accepted means: [[AMC E 20]] · [[AMC E 20|AMC E 20(f)]]
 Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 50]] · [[CS-E 40]]
 
 ## Amendment history
 
-Unchanged at Amendments 7 and 8. [[AMC E 20(f)]] was amended at Amendment 8.
+Unchanged at Amendments 7 and 8. [[AMC E 20|AMC E 20(f)]] was amended at Amendment 8.
