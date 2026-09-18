@@ -257,6 +257,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/audit_cuts.py           # recorded cuts vs what the source says
+.venv/bin/python scripts/external_refs.py        # every reference to a document we do not hold
 .venv/bin/python scripts/verify_sources.py       # source integrity
 .venv/bin/python scripts/build_matrix.py        # vault -> deck/compliance_matrix.xlsx
 ```
@@ -281,6 +282,13 @@ removal of something the source never said asserts content into the regulation,
 and is worse than a missing entry. It also checks cited sub-point labels against
 the labels the target paragraph carries, though only weakly — nesting is not
 recoverable from the flat text and the check refuses to guess it.
+
+`external_refs.py` lists every reference the in-scope paragraphs and the notes
+make to a document outside `source/` — Part 21, the AMC 20 series, CS-Definitions,
+CS-23/25/27/29, CS-34, FAA material and industry standards. Those are the vault's
+dead ends: a reader who follows one leaves and cannot come back with an answer.
+A reference that appears only inside an embedded table is marked as such, because
+accuracy rule 6 puts it in the crop rather than the text.
 
 `build_matrix.py` reads the `## Requirement` tables out of the vault and writes one
 row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the compliance
