@@ -96,8 +96,12 @@ the aeroplane and aircraft wording difference between the specification and this
 AMC.
 
 [VERIFY: whether the intended rotorcraft has carbon fibre composite material fuel
-tanks. The carbon fibre rod entry in the contaminant table applies only then, and
-it is the largest single solid contaminant quantity in the table.]
+tanks. The carbon fibre rod entry in the contaminant table is added only then —
+the source introduces it with "Additionally, for engines to be fitted to Aircraft
+with Carbon Fibre Composite Material Fuel Tanks". At 0.54 g/1000 litre it is
+mid-range by quantity, but its particles reach 2000 microns in length, against
+1500 microns for the coarsest quartz grade, so it is the longest contaminant the
+filtration must pass or arrest.]
 
 **The by-pass interaction.** The test at (1)(c) runs past the blockage indication,
 which is the region where [[CS-E 560|CS-E 560(c)]] governs: a by-pass must keep

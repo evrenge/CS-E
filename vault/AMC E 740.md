@@ -10,7 +10,8 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 # AMC E 740 — Endurance Tests
 
 > [!summary]
-> Five AMC paragraphs serve CS-E 740. AMC E 740(c)(2)(i) governs the 25 hours of
+> Six AMC paragraphs serve CS-E 740, of which five are carried here; the sixth,
+> AMC E 740(c)(4), is the turbofan alternate endurance test and is excluded. AMC E 740(c)(2)(i) governs the 25 hours of
 > additional running for a 30-Minute Power rating and where it may sit.
 > AMC E 740(c)(3) gives two acceptable procedures for the additional OEI test and
 > accepts a short speed overshoot at the start of the 30-second period.
@@ -48,7 +49,9 @@ that then becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
 | **(c)(3)(1)(b)** | Alternatively, the 2-hour additional endurance test may be run immediately after the basic 150-hour endurance test without engine disassembly; the strip inspection standards applied afterwards are those prescribed in CS-E 740(i)(2). | Permitted |
 | **(c)(3)(2)** | Per CS-E 50(j), the engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating. | Accepted method |
 | **(c)(3)(2)** | Nevertheless, for ensuring the shortest time of establishment of the corresponding power, it might be necessary to design the engine control in such a manner that a short overshoot of the speed will occur at the beginning of the 30 seconds period. This is acceptable if it is validated throughout the CS-E 740(c)(3)(iii) test. | Permitted |
-| **(c)(3)(3)** | In the event of a stop during the four test sequences of CS-E 740(c)(3)(iii), repeat the interrupted sequence in full, or re-start it from the interrupt point where there is a technical justification acceptable to the Agency. | Accepted method |
+| **(c)(3)(3)** | In the event of a stop during the four test sequences of CS-E 740(c)(3)(iii), the interrupted sequence needs to be repeated in full. | Required |
+| **(c)(3)(3)** | It can be re-started from the interrupt point if there is a technical justification acceptable to the Agency. | Permitted |
+| **(c)(3)(3)** | Where it is determined that the sequence need not be repeated in its entirety, the test should be restarted from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
 | **(c)(3)(3)** | If it is determined that the sequence need not be repeated in its entirety, re-start the test from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
 
 The two procedures in (1) differ in what they preserve. Procedure (a) gives a
@@ -90,7 +93,7 @@ test instead.
 | **(i)(2)(2)** | For the structural integrity specification of CS-E 740(i)(2)(iii), show that no Failure of any significant engine component occurs during test or during shutdown, or becomes evident during the subsequent strip examination. | Accepted method |
 | **(i)(2)(2)** | Where any Failure becomes evident, analyse it and take corrective actions, or impose certain limitations on the engine as appropriate. | Accepted method |
 | **(i)(2)(2)** | The engine parts deemed significant are those that can affect the structural integrity, including but not limited to mountings, casings, bearing supports, shafts and rotors. | Statement |
-| **(i)(2)(3)** | The engine condition exhibited after the additional endurance test required by CS-E 740(c)(3)(iii) may be used to validate the mandatory maintenance actions after use of 30-Second and 2-Minute OEI ratings as required by CS-E 25(b)(2). | Permitted |
+| **(i)(2)(3)** | The engine condition exhibited after the additional endurance test required by CS-E 740(c)(3)(iii) may be used to validate the mandatory maintenance actions after use of 30-Second and 2-Minute OEI ratings as required by CS-E 25(b)(2) and described in the associated AMC material. | Permitted |
 | **(i)(2)(4)** | For components distressed beyond serviceable limits during the test of CS-E 740(c)(3)(iii), show that the inspections and mandatory maintenance actions for those components, as specified in the Instructions for Continued Airworthiness, are adequate. | Accepted method |
 | **(i)(2)(4)** | Include in the instructions means for proper identification of these component conditions, and appropriately defined maintenance actions. | Accepted method |
 | **(i)(2)(4)** | Determine the component deterioration as it affects performance during the test, and the component condition after test. The distress seen as a result of the 2-hour test should not create a potentially hazardous condition. | Accepted method |
@@ -123,7 +126,7 @@ actions that [[CS-E 25|CS-E 25(b)]] requires following use of the 30-Second and
 
 ## Application to this engine
 
-Four of the five AMC paragraphs bind directly, and two of them exist for this
+Four of the five AMC paragraphs carried here bind directly, and two of them exist for this
 exact rating combination.
 
 **The 30-Minute Power rating.** [[AMC E 740|AMC E 740(c)(2)(i)]] is written "For
@@ -169,13 +172,18 @@ simultaneously at sea-level test bed conditions for this engine. If not,
 CS-E 740(f)(1) requires supplementary endurance testing to an agreed schedule to
 substantiate the higher speed limitations, and AMC E 740(f)(1) sets the basis.]
 
+## Not applicable
+
+- **AMC E 740(c)(4)** — Alternate Endurance Testing, Turbofan Engine, the sixth AMC banner under CS-E 740 and the largest. It serves [[CS-E 740|CS-E 740(c)(4)]], which CLAUDE.md excludes by scope, and it is excluded with it. It is not listed in this note's `covers:`.
+
 ## References
 
 Specification: [[CS-E 740]]
 Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 150]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 690]] · [[CS-E 730]] · [[AMC E 650]] · [[AMC E 690]] · [[AMC E 730]]
 ## Amendment history
 
-All five AMC paragraphs, and their parent, were amended at Amendment 8. Every
+All five AMC paragraphs carried here, and their parent, were amended at
+Amendment 8. Every
 change to these AMC paragraphs is a cross-reference correction following the
 re-lettering of CS-E 740, except one that corrects a citation into CS-E 50 and
 one spelling change.
