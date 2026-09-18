@@ -256,6 +256,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/extract_redline.py      # before/after -> work/redline.json
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
+.venv/bin/python scripts/audit_cuts.py           # recorded cuts vs what the source says
 .venv/bin/python scripts/verify_sources.py       # source integrity
 .venv/bin/python scripts/build_matrix.py        # vault -> deck/compliance_matrix.xlsx
 ```
@@ -273,6 +274,13 @@ that paragraph's file. It is the check that catches silent extraction loss.
 a missing section, a section out of template order, a note for a paragraph that is
 not APPLIES, or a Rule text quote that is not verbatim in the source. Trust them
 over any prose.
+
+`audit_cuts.py` checks the one thing `## Not applicable` exists to guarantee:
+that a recorded cut is a cut of text the source contains. An entry describing the
+removal of something the source never said asserts content into the regulation,
+and is worse than a missing entry. It also checks cited sub-point labels against
+the labels the target paragraph carries, though only weakly — nesting is not
+recoverable from the flat text and the check refuses to guess it.
 
 `build_matrix.py` reads the `## Requirement` tables out of the vault and writes one
 row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the compliance

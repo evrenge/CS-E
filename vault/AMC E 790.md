@@ -187,7 +187,7 @@ transients in for exactly that reason.
 - **(a)(2)(2)(c)(ii)(A)** — the relative velocity centrifuging discussion for turbofan and turbojet aeroplane engines, and its rain and hail velocity vector treatment through the fan.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines, including the Propeller solidity effect, the Propeller spinner redirection of hail, and the conservatism of testing without a Propeller. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
 - **(a)(2)(1)**, in part — the scoop factor definition is framed on nacelle inlet highlight area. It is retained above because AMC E 790(a)(2)(2)(d) reasons from the scoop factor being small for a rotorcraft.
-- **(1)**, **(5)**, in part — the references to CS-E 790(c), the supersonic aeroplane hailstone test, which does not apply to this engine.
+- **(1)**, **(5)**, in part — the references to CS-E 790(c). That paragraph is out of scope for this engine, so the accepted means serving it are not carried.
 
 ## References
 

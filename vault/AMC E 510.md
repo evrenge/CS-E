@@ -39,7 +39,7 @@ tags: [safety-analysis, fmea, fault-tree, hazardous-engine-effect, debris, toxic
 | **(3)(b)** | A component level safety analysis may be an auditable part of the design process, or may be conducted specifically to demonstrate compliance. | Permitted |
 | **(3)(b)** | Integrate the specific specifications of CS-E 50 for the Engine Control System into the overall engine safety analysis. | Accepted method |
 | **(3)(c)** | "Typical installation" in CS-E 510(a)(1)(i) does not imply the aircraft-level effects are known, but that assumptions of typical aircraft devices and procedures — fire-extinguishing equipment, annunciation devices and similar — are clearly stated in the analysis. | Statement |
-| **(3)(c)** | Where the applicant cannot determine the detailed Failure sequence, rate of occurrence or dormancy period of Failures of aircraft components, assume a Failure rate for those components for engine certification. | Accepted method |
+| **(3)(c)** | Where the applicant cannot determine the detailed Failure sequence, rate of occurrence or dormancy period of Failures of aircraft components, the applicant will assume a Failure rate for those components for engine certification. | Statement |
 | **(3)(c)** | Provide, in the engine instructions for installation, the list of Failures of aircraft components that may result in or contribute to Hazardous or Major Engine Effects, describe the mode of propagation, and state the assumed Failure rates. | Accepted method |
 | **(3)(c)** | Address such assumptions in compliance with CS-E 30. | Accepted method |
 
@@ -57,18 +57,22 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(i)** | Include the possible dormant period of Failures in the calculations of Failure rates. | Accepted method |
 | **(3)(d)(i)** | If each individual Failure is less than 10⁻⁸ per Engine flight hour, summation is not required. | Relief |
 | **(3)(d)(ii)** | Where the numerical Failure rate of primary Failures of certain single elements such as Engine Critical Parts cannot be sensibly estimated, and their Failure is likely to result in Hazardous Engine Effects, place reliance on their meeting the prescribed integrity specifications, such as CS-E 515 among others. | Accepted method |
+| **(3)(d)(ii)** | These specifications are considered to support a design goal that, among other goals, primary LCF (Low Cycle Fatigue) Failure of the component should be Extremely Remote throughout its operational life. | Statement |
 | **(3)(d)(ii)** | There is no specification to include the estimated primary Failure rates of such single elements in the summation of Failures for each Hazardous Engine Effect, due to the difficulty of producing and substantiating such an estimate. | Relief |
 | **(3)(d)(iii)** | As a general principle, if a Failure can result in debris being released with an energy and trajectory that cause an unsafe condition, consider such debris as uncontained high-energy debris causing a Hazardous Engine Effect. | Accepted method |
 | **(3)(d)(iii)** | Engine containment structures are not required to contain major rotating parts should they fail. Unless containment has been demonstrated, assume the Failure of discs, hubs, impellers, large rotating seals and other similar large rotating components results in uncontained high-energy debris, causing a Hazardous Engine Effect. | Accepted method |
 | **(3)(d)(iii)** | For such parts, the Extremely Remote probability objective necessary for compliance with CS-E 510(a)(3) can only be ensured through compliance with CS-E 515, supplemented by CS-E 840 and CS-E 850. | Statement |
 | **(3)(d)(iii)** | The engine must be designed to ensure that debris resulting from the shedding of compressor or turbine blades, either singly or in likely combinations, will be radially contained. | Required |
 | **(3)(d)(iii)** | Where blade debris is released forward, rearward or otherwise outside the containment structure with an energy and trajectory that could cause an unsafe condition, consider it uncontained high-energy debris causing a Hazardous Engine Effect, and assess the overall probability of occurrence of the unsafe condition. | Accepted method |
-| **(3)(d)(iii)** | Use engineering judgement based on available test and service experience of comparable designs as the basis for a conservative estimate of blade reliability. The integrity specifications of CS-E 515 do not provide a valid basis to demonstrate an Extremely Remote blade failure probability. | Accepted method |
+| **(3)(d)(iii)** | The integrity specifications of CS-E 515 provide some reliability benefits when applied to a blade, particularly when it forms a part of a blisk, also named integrally bladed rotor. | Statement |
+| **(3)(d)(iii)** | However, those specifications do not provide a valid basis to demonstrate an Extremely Remote blade Failure probability. Blade reliability is affected by many factors; CS-E 515 addresses some, such as low- and high-cycle fatigue, manufacturing quality and service management, and not others, such as foreign object damage. | Statement |
+| **(3)(d)(iii)** | Use engineering judgement based on available test and service experience of comparable designs as the basis for a conservative estimate of blade reliability. | Accepted method |
 | **(3)(d)(iii)** | Determine the likelihood of a blade failure resulting in an unsafe condition primarily from debris energy and trajectories observed in testing and in service, with an assessment of the trajectories that could impact the aircraft. | Accepted method |
 | **(3)(d)(iii)** | Where possible, assess the threat to aircraft safety in coordination with the aircraft manufacturer. In any case, include assumptions regarding the ability of the aircraft to withstand debris impact in the Manuals required by CS-E 20(d). | Accepted method |
 | **(3)(d)(iii)** | Consider that other components may be released following Failure — service experience has shown that rupture of the high-pressure casings can generate high-energy debris — and assess the probability that an unsafe condition results. An Extremely Remote probability must be demonstrated for compliance with CS-E 510(a)(3). | Accepted method |
 | **(3)(d)(iv)** | CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by abnormal engine operation sufficient to incapacitate crew or passengers during the flight. | Statement |
 | **(3)(d)(iv)** | Make no assumptions of cabin air dilution or mixing in the engine-level analysis; these can only be properly evaluated during aircraft certification. | Accepted method |
+| **(3)(d)(iv)** | The intent of CS-E 510(g)(2)(ii) is to address the relative concentration of toxic products in the engine bleed air delivery. The Hazardous Engine Effect of toxic products relates to significant concentrations, with "significant" defined as concentrations sufficient to incapacitate persons exposed to those concentrations. | Statement |
 | **(3)(d)(iv)** | Provide information on delivery rates and concentrations of toxic products in the engine bleed air for the cabin to the installer as part of the engine instructions for installation. | Accepted method |
 | **(3)(d)(vi)** | Interpret an uncontrolled fire as an extensive or persistent nacelle fire not effectively confined to a designated fire zone, or which cannot be extinguished using the aircraft means identified in the assumptions. | Accepted method |
 | **(3)(d)(vi)** | Provision for flammable fluid drainage, fire containment, fire detection and fire extinguishing may be taken into account when assessing the severity of the effects of a fire. | Permitted |
@@ -101,10 +105,15 @@ Remote blade failure claim because it does not address foreign object damage.
 | **(3)(e)** | No summation of probabilities of Failure modes resulting in the same Major Engine Effect is required. | Relief |
 | **(3)(e)** | Major Engine Effects are likely to significantly increase crew workload, or reduce the safety margins. Not all the listed effects may be applicable to all engines or installations, and the list is not intended to be exhaustive. | Statement |
 | **(3)(e)** | Typically the following may be considered Major Engine Effects: controlled fires; case burn-through where no propagation to Hazardous Engine Effects is shown; release of low-energy parts where no such propagation is shown; vibration levels causing crew discomfort; concentration of toxic products in the engine bleed air for the cabin sufficient to degrade crew performance; thrust in the opposite direction to that commanded by the pilot below the hazardous level; loss of integrity of the load path of the engine supporting system without actual engine separation; generation of thrust greater than maximum rated thrust; significant uncontrollable thrust oscillation. | Statement |
+| **(3)(e)** | The concentration of toxic products in the engine bleed air may be interpreted as generation and delivery of toxic products, as a result of abnormal engine operation, that would incapacitate the crew or passengers, except that the products are slow-enough acting and/or readily detectable so as to be stopped by crew action prior to incapacitation. | Permitted |
+| **(3)(e)** | Consider possible reductions in crew capabilities due to their exposure while acting in identifying and stopping the products, if appropriate. | Accepted method |
 | **(3)(e)** | Provide information on delivery rates and concentrations of toxic products in the engine bleed air for the cabin to the installer as part of the engine instructions for installation. | Accepted method |
-| **(3)(f)** | Engine Failure with no external effect other than loss of thrust and services may be regarded as a Failure with a minor effect, for the purpose of the engine safety analysis and engine certification. | Permitted |
-| **(3)(f)** | The Failure to achieve any given power or thrust rating for which the engine is certificated should be covered in the safety analysis, and may be regarded as a minor engine effect. | Accepted method |
-| **(3)(f)** | Both assumptions may be revisited during aircraft certification, particularly multi-engine rotorcraft certification. The re-examination applies only to aircraft certification and is not intended to impact engine certification. | Statement |
+| **(3)(f)** | It is generally recognised that engine Failures involving complete loss of power from the affected engine can be expected to occur in service, and that the aircraft should be capable of controlled flight following such an event. | Statement |
+| **(3)(f)** | Engine Failure with no external effect other than loss of power and services may be regarded as a Failure with a minor effect, for the purpose of the engine safety analysis and engine certification. | Permitted |
+| **(3)(f)** | That assumption may be revisited during aircraft certification, where installation effects such as engine redundancy may be fully taken into consideration. | Permitted |
+| **(3)(f)** | The Failure to achieve any given power rating for which the engine is certificated should be covered in the safety analysis, and may be regarded as a minor engine effect. | Accepted method |
+| **(3)(f)** | Similarly, that assumption may be revisited during aircraft certification, particularly multi-engine rotorcraft certification. | Permitted |
+| **(3)(f)** | The re-examination applies only to aircraft certification and is not intended to impact engine certification. | Statement |
 
 ### AMC E 510(3)(g) to (h) — determining effects, and reliance on maintenance
 
@@ -176,14 +185,23 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 
 The AMC applies throughout, less the two passages recorded below.
 
-**Rotorcraft is named explicitly.** [[AMC E 510|AMC E 510(3)(f)]] states that the
-minor-effect assumptions "may be revisited during aircraft certification,
-particularly multi-Engine rotorcraft certification". Engine certification is
-unaffected, but the assumption that complete power loss is a Minor Engine Effect
-is provisional at aircraft level for a multi-engine rotorcraft. This is the same
-boundary the OEI ratings exist to manage, and it links to
-[[AMC E 20|AMC E 20(f)]], where the safety analysis must consider dormant
-Failures leading to non-availability of the OEI ratings.
+**Rotorcraft is named explicitly, and so is engine redundancy.**
+[[AMC E 510|AMC E 510(3)(f)]] carries two minor-effect assumptions and gives each
+its own qualifier, which are not interchangeable. The assumption that an engine
+Failure with no external effect beyond loss of power is a Minor Engine Effect
+"may be revisited during aircraft certification, where installation effects such
+as Engine redundancy may be fully taken into consideration". The separate
+assumption, that failing to achieve a certificated rating is a minor engine
+effect, may be revisited "particularly multi-Engine rotorcraft certification".
+
+Both bear on this engine, and the first bears harder: a multi-engine rotorcraft
+is precisely an installation whose redundancy the aircraft applicant will take
+into account. Engine certification is unaffected either way — the AMC says the
+re-examination "applies only to aircraft certification" — but both assumptions
+are provisional at aircraft level. This is the same boundary the OEI ratings
+exist to manage, and it links to [[AMC E 20|AMC E 20(f)]], where the safety
+analysis must consider dormant Failures leading to non-availability of the OEI
+ratings.
 
 **Power, not thrust.** Several passages are written in thrust terms — "Generation
 of thrust greater than maximum rated thrust" and "Significant uncontrollable
@@ -219,7 +237,6 @@ sources of detailed descriptions of analytical techniques, not as obligations.]
 ## Not applicable
 
 - **(3)(d)(v)** — the elaboration of significant thrust in the opposite direction to that commanded by the pilot. All three examples given are out of scope for this engine: uncommanded thrust reverser deployment, unintended movement of the Propeller blades below the established minimum in-flight low-pitch position, and high forward thrust when reverse thrust is commanded. The source qualifies the list with "if applicable to CS-E certification". The parent definition at [[CS-E 510|CS-E 510(g)(2)(iii)]] therefore has no accepted-means elaboration that reaches a turboshaft.
-- **(3)(d)(iii)**, in part — the fan is named among the rotating components in the general debris discussion. A turboshaft has no fan; the compressor, turbine, disc, hub, impeller and rotating seal cases all apply.
 
 ## References
 
