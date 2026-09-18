@@ -59,7 +59,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 |---|---|---|
 | **(g)(1)** | Single Failures causing loss, interruption or corruption of Aircraft-Supplied Data, or of data shared between engines, do not result in a Hazardous Engine Effect for any engine. | Required |
 | **(g)(2)** | Such Failures must be detected and accommodated. The accommodation strategy must not cause an unacceptable power change or an unacceptable change in operating and starting characteristics. Evaluate and document these effects throughout the flight envelope. | Required |
-| **(g)(2)** exception | CS-E 50(g)(2) does not apply to thrust or power command signals from the aircraft. | Relief |
+| **(g)(2)** | CS-E 50(g)(2) does not apply to power command signals from the aircraft. | Statement |
 | **(h)(1)** | Design the control system so that loss or interruption of aircraft-supplied electrical power does not result in a Hazardous Engine Effect (i) or cause unacceptable transmission of erroneous data (ii). Take that effect into account when complying with CS-E 50(c)(1). | Required |
 | **(h)(2)** | Where an engine-dedicated power source is required for compliance with CS-E 50(h)(1), its capacity should provide sufficient margin for engine operation below idle where the control system is designed to recover engine operation automatically. | Recommended |
 | **(h)(3)** | Identify and declare in the instructions for installation the need for, and characteristics of, any aircraft-supplied electrical power for starting and operating the engine, including transient and steady-state voltage limits. | Required |
