@@ -84,6 +84,8 @@ feedback all feed the Approved Life certification:
 | **(3)(d)(v)(4)(a)** | Identify the intervals for each specified in-service inspection; incorporate the manufacturing inspections assumed into the Manufacturing Plan, and integrate the assumed in-service inspection procedures and intervals into the Service Management Plan and the Airworthiness Limitations Section. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Base the Probability of Detection of each inspection process on a statistical review of sufficient quantities of relevant testing or experience, judging relevance by anomaly character, part surface condition and cleanliness, the material, variations in inspection materials or equipment, specific process parameters, and the inspector. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Integrate these elements in a probabilistic risk assessment predicting the relative probability of Failure for each part, and compare it to the allowable design target risk values. Designs satisfying the allowable values will be considered in compliance with the appropriate damage tolerance assessment required by CS-E 515(a). | Accepted method |
+| **(3)(d)(v)(4)(a)** | The allowable DTR values may be found in published FAA ACs addressing specific materials and/or anomaly types, for example FAA AC 33.70-2. | Permitted |
+| **(3)(d)(v)(4)(a)** | Designs that satisfy the allowable values will be considered to be in compliance with the appropriate damage tolerance assessment required by CS-E 515(a). | Statement |
 | **(3)(d)(v)(4)(a)** | Where a published industry or company-specific probabilistic approach is pursued, provide and agree with the Agency the data that has an impact on the resulting risk levels, and agree the process itself with the Agency. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Demonstrate that adequate processes are in place to validate the assumptions used in the analysis, and validate them throughout the life of the certified product. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Repeat the risk assessment on any departure from the original assumptions and communicate the results to the Agency. | Accepted method |
@@ -154,11 +156,15 @@ material change modifies the thermal or mechanical response.
 
 | Ref | Obligation | Strength |
 |---|---|---|
+| **(4)(a)** | The Manufacturing Plan is a portion of the overall integrity process intended to ensure the life capability of the part. The Engineering Plan includes assumptions about how Engine Critical Parts are designed, manufactured, operated and maintained, each of which can affect that capability. | Statement |
+| **(4)(a)** | Therefore it is essential to ensure that the Attributes required by the Engineering Plan are maintained. | Statement |
 | **(4)(b)** | Consider in the part-specific Manufacturing Plan the Attributes delivered by the manufacturing process from raw material to finished part, and highlight all sensitive parameters identified as significant with regard to part life which should not be changed without proper verification. | Accepted method |
 | **(4)(b)** | Such parameters may include material controls, including any zoned areas for special properties; manufacturing method specifications; manufacturing method order of application; inspection method and sensitivity; and any special part rough machining or finishing methods, especially those intended to improve fatigue capability or minimise induced anomalies. | Statement |
 | **(4)(c)** | Review and verify the Manufacturing Plan by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, and Manufacturing Engineering (Development and Production). | Accepted method |
 | **(4)(c)** | Have that same skill mix evaluate and approve process validation and the procedures for manufacturing change control and non-conformance disposition. | Accepted method |
 | **(4)(c)** | Develop and apply manufacturing processes with the appropriate level of oversight, agree substantiation programmes up-front and execute them as part of the process validation, make changes visible and subject to crossfunctional review and approval, and review any suspected non-conformance with the appropriate skill mix before disposition. | Accepted method |
+| **(5)(a)** | The Service Management Plan is intended to maintain the integrity of Engine Critical Parts throughout their service life, and conveys the processes for in-service repair and maintenance to remain consistent with the assumptions made in the Engineering Plan. | Statement |
+| **(5)(a)** | Therefore it is essential to ensure that those assumptions remain valid. | Statement |
 | **(5)(b)** | Review repair and maintenance processes by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, Product Support Engineering, and Repair Development Engineering. | Accepted method |
 | **(5)(b)** | Include process validation, change control and non-conformance in that review, to ensure the product of any repair or maintenance is consistent with the engineering specification. | Accepted method |
 | **(5)(b)** | The intent is that repair and maintenance processes and practices are developed with the appropriate level of oversight, and with due regard to their possible impact on the life capability of the part, with substantiation programmes agreed up-front and executed as part of the validation process. | Statement |
@@ -216,7 +222,7 @@ licensees, may materially affect these limits." [AMC E 515(6)(a)]
 
 ## Application to this engine
 
-The AMC applies in full, and two of its provisions are written for rotorcraft
+The AMC applies, less the passages recorded below, and two of its provisions are written for rotorcraft
 engines specifically.
 
 **The 30-minute Power rating in the flight cycle.** "For Rotorcraft turbine
@@ -262,7 +268,6 @@ Part 21 is not held in `source/`.]
 ## Not applicable
 
 - **(3)(d)(i)**, in part — the reverse segment of the flight-segment list. A turboshaft driving a rotorcraft transmission has no reverse mode.
-- **(4)(a)**, **(5)(a)** — the Manufacturing Plan and Service Management Plan introductions. They restate the purpose of plans that CS-E 515(b) and (c) already establish, and carry no obligation of their own.
 - **(4)(c)**, in part — the sentence saying the level of detail in the Plan may vary with the process step, its sensitivity and the level of control required. Rationale rather than obligation.
 
 ## References

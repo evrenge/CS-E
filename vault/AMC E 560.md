@@ -24,6 +24,7 @@ tags: [fuel-system, additives, contamination, transient-fuel-icing, filter, asse
 | **(1)** | More than one type of fuel may be allowed; CS-E 560(a) applies to each type and covers additives in the fuel, for example a fuel system icing inhibitor. | Permitted |
 | **(1)** | Where the engine may be adversely affected by a parameter of the fuel specification, such as sulphur or gum content, identify this in the appropriate documentation. | Accepted method |
 | **(1)** | When defining the fuel specifications under CS-E 560(a), consider CS-E 90 for effects induced in the fuel system by the fuel itself, fuel additives or water in the fuel. | Accepted method |
+| **(1)** | Some engines may use other fluids, such as water methanol. When appropriate, the word "fuel" in CS-E 560 should be interpreted as covering these fluids as well. | Accepted method |
 | **(2)** | To comply with CS-E 560(b)(1), consider contaminants likely to be present in the fuel delivered to the engine from the aircraft, and contaminants resulting from wear of a part or component of the engine fuel system, such as a fuel pump bearing. | Accepted method |
 | **(3)** | In compliance with CS-E 560(e), any means provided for protection against icing in the fuel system may either be in operation continuously or commence operation automatically when required. | Permitted |
 | **(4)** | In compliance with CS-E 560(d) and (e), consider the effect on engine operability of the transient fuel icing conditions likely to be encountered in service. | Accepted method |
@@ -99,10 +100,6 @@ leakage being a potential fire hazard, so it ties [[CS-E 110|CS-E 110(d)]] to
 [[CS-E 130]] and to the incorrect fitment assessment that
 [[CS-E 110|CS-E 110(e)]] places inside the system safety assessment of
 [[CS-E 50|CS-E 50(d)]].
-
-## Not applicable
-
-- **(1)**, in part — the interpretation extending the word "fuel" to other fluids such as water methanol. `engine_profile.md` declares no refrigerant injection. It is silent on water methanol and on boost fluids generally, so this cut rests on the refrigerant declaration alone. [VERIFY: whether any boost fluid is used. If one is, this interpretation applies and the cut must be reversed.] The multiple fuel type provision in the same point applies.
 
 ## References
 

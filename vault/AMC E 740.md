@@ -174,7 +174,7 @@ substantiate the higher speed limitations, and AMC E 740(f)(1) sets the basis.]
 ## Not applicable
 
 - **AMC E 740(c)(4)** — Alternate Endurance Testing, Turbofan Engine, the sixth AMC banner under CS-E 740 and the largest. It serves [[CS-E 740|CS-E 740(c)(4)]], which CLAUDE.md excludes by scope, and it is excluded with it. It is not listed in this note's `covers:`.
-- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
+- Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

@@ -68,7 +68,8 @@ where the material supporting combustion is not a hazardous quantity.
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(3)(a)** | Where materials such as magnesium and titanium alloys are used, appropriate design precautions may be required to prevent an unacceptable fire hazard; give consideration to fire resulting from rubbing or contact with hot gases. | Accepted method |
+| **(3)(a)** | Experience has shown that when using materials such as magnesium and titanium alloys, appropriate design precautions may be required to prevent an unacceptable fire hazard. | Permitted |
+| **(3)(a)** | Consideration should be given to the possibility of fire as a result of rubbing or contact with hot gases. | Accepted method |
 | **(3)(a)** | Assess any material used for abradable linings to ensure fire or explosion hazards are avoided, and give consideration to the effects of mechanical Failure of any engine component and to dimensional changes from thermal effects within the engine. | Accepted method |
 | **(3)(b)** | In showing compliance with CS-E 130(a), assess the overall design for vulnerability to titanium fires. If the assessment cannot rule out the possibility of a sustained fire, show that a titanium fire does not result in a Hazardous Engine Effect. | Accepted method |
 | **(3)(c)** | In showing compliance with CS-E 130, assess the overall design for vulnerability to magnesium fires. If the assessment cannot rule out a sustained fire, show that a magnesium fire would be confined to areas within the engine such that it does not result in a Hazardous Engine Effect. | Accepted method |

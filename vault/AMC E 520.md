@@ -67,6 +67,7 @@ obligation converts from a design duty into an installation-information duty.
 | **(c)(2)(3)** | Document assumptions about the engine installation configuration in the Manuals required by CS-E 20(d). | Accepted method |
 | **(c)(2)(4)** | Achieve validation of the engine model static structure by a combination of engine and component tests including structural tests on major load path components, or by analysis, or both. | Accepted method |
 | **(c)(2)(4)** | Verify the adequacy of the engine model to predict rotor critical speeds and forced response behaviour by measuring engine vibratory response when imbalances are added to the rotors. | Accepted method |
+| **(c)(2)(4)** | Vibration data is routinely monitored on a number of engines during the engine development cycle, thereby providing a solid basis for model correlation. | Statement |
 | **(c)(2)(5)** | Correlate the model against the CS-E 810 blade loss engine test to demonstrate that it accurately represents: initial blade release event loads; any rundown resonant response behaviour; frequencies; Failure sequences; and general engine movements and displacements, including interface features between engine and aircraft. | Accepted method |
 | **(c)(2)(6)** | Instrument the blade loss engine test to enable that correlation — for example high-speed cinema and video cameras, accelerometers, strain gauges, continuity wires and shaft speed tachometers — and make the instrumentation capable of measuring loads on the engine attachment structure. | Accepted method |
 | **(c)(2)(7)** | The aircraft and engine manufacturers should mutually agree upon the definition of the model, based on test and experience. | Accepted method |
@@ -146,9 +147,10 @@ Related: [[CS-E 510]] · [[CS-E 515]] · [[CS-E 500]] · [[CS-E 525]] · [[CS-E 
 
 ## Amendment history
 
-AMC E 520(c)(2) was amended at Amendment 7 in four places: the validated data
+AMC E 520(c)(2) was amended at Amendment 7 in five places: the validated data
 list gained an item, the evaluation duties gained a case, the test-condition
-comparison gained a clause, and a documentation duty was added.
+comparison gained a clause, a documentation duty was added, and the interface
+features clause was inserted at (c)(2)(5).
 
 Before the amendment the list ended at "variations with time of the rotational
 speed(s) of the Engine's main rotating system(s) after failure". Amendment 7
@@ -172,7 +174,7 @@ obligation among the four, rather than an extension of an existing one.
 Into (c)(2)(5) it inserted ", including interface features between Engine and
 aircraft".
 
-All four changes add work, and all point the same way: towards what the aircraft
+All five changes add work, and all point the same way: towards what the aircraft
 sees at the interface. The new data item and the new evaluation case are the
 model-side counterpart of the CS-E 520(c)(1) rewrite at the same amendment, which
 moved the blade shedding specification from a consequence test to a radial

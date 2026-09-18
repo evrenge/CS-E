@@ -58,7 +58,7 @@ names recorded rotorcraft OEI data as one such resource.
 ## Not applicable
 
 - **(d)**, propeller clause — the Control System interface description covers "including the Propeller when applicable"; a turboshaft drives a rotor and has no propeller control interface.
-- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
+- Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

@@ -279,7 +279,7 @@ transients in for exactly that reason.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
 - **(a)(2)(5)(c)(v)**, in part — typical autothrottle power excursions, the third of the three probable factors. An autothrottle is aeroplane equipment.
 - **(a)(2)(3)(b)(i)**, **(a)(2)(3)(b)(iii)** — the fan blade and propeller design feature, and the bypass splitter, which exists only on a turbofan. The other five design features, (ii) and (iv) to (vii), are carried in full.
-- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
+- Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

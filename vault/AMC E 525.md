@@ -51,8 +51,9 @@ interface conditions into the engine model work already required by
 The AMC applies, and paragraph (1) is written for this installation. Clutch drag
 "in the case of a multi-engined rotorcraft" is named as a mechanism alongside
 windmilling [AMC E 525(1)], so continued rotation here is not only aerodynamic.
-The free-wheel unit is the means that would prevent driven rotation, and its drag
-is what keeps the case live.
+The source does not identify the component. It says "mechanical effects such as
+clutch drag" [AMC E 525(1)], and CS-E 525 requires "means to prevent that
+continued rotation" without naming them.
 
 Paragraph (2) asks for consideration of all expected aircraft applications. For
 this engine the declared application is a rotorcraft, which bounds the exercise:

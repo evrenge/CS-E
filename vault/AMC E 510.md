@@ -61,6 +61,7 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(ii)** | Where the numerical Failure rate of primary Failures of certain single elements such as Engine Critical Parts cannot be sensibly estimated, and their Failure is likely to result in Hazardous Engine Effects, place reliance on their meeting the prescribed integrity specifications, such as CS-E 515 among others. | Accepted method |
 | **(3)(d)(ii)** | These specifications are considered to support a design goal that, among other goals, primary LCF (Low Cycle Fatigue) Failure of the component should be Extremely Remote throughout its operational life. | Statement |
 | **(3)(d)(ii)** | There is no specification to include the estimated primary Failure rates of such single elements in the summation of Failures for each Hazardous Engine Effect, due to the difficulty of producing and substantiating such an estimate. | Relief |
+| **(3)(d)(iii)** | Uncontained debris covers a large spectrum of energy levels, due to the various sizes and velocities of parts released in an engine Failure. | Statement |
 | **(3)(d)(iii)** | As a general principle, if a Failure can result in debris being released with an energy and trajectory that cause an unsafe condition, consider such debris as uncontained high-energy debris causing a Hazardous Engine Effect. | Accepted method |
 | **(3)(d)(iii)** | Engine containment structures are not required to contain major rotating parts should they fail. Unless containment has been demonstrated, assume the Failure of discs, hubs, impellers, large rotating seals and other similar large rotating components results in uncontained high-energy debris, causing a Hazardous Engine Effect. | Accepted method |
 | **(3)(d)(iii)** | For such parts, the Extremely Remote probability objective necessary for compliance with CS-E 510(a)(3) can only be ensured through compliance with CS-E 515, supplemented by CS-E 840 and CS-E 850. | Statement |
@@ -187,7 +188,7 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 
 ## Application to this engine
 
-The AMC applies throughout, less the two passages recorded below.
+The AMC applies throughout, less the passages recorded below.
 
 **Rotorcraft is named explicitly, and so is engine redundancy.**
 AMC E 510(3)(f) carries two minor-effect assumptions and gives each
@@ -240,7 +241,8 @@ sources of detailed descriptions of analytical techniques, not as obligations.]
 
 ## Not applicable
 
-- **(3)(d)(v)** — the elaboration of significant thrust in the opposite direction to that commanded by the pilot. All three examples given are out of scope for this engine: uncommanded thrust reverser deployment, unintended movement of the Propeller blades below the established minimum in-flight low-pitch position, and high forward thrust when reverse thrust is commanded. The source qualifies the list with "if applicable to CS-E certification". The parent definition at [[CS-E 510|CS-E 510(g)(2)(iii)]] therefore has no accepted-means elaboration that reaches a turboshaft.
+- **(3)(d)(v)** — the elaboration of significant thrust in the opposite direction to that commanded by the pilot, and all three of the examples it gives. Each names thrust reverser or propeller equipment this engine does not have, and the source qualifies the list with "if applicable to CS-E certification". The parent definition at [[CS-E 510|CS-E 510(g)(2)(iii)]] therefore has no accepted-means elaboration that reaches a turboshaft.
+- Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 
