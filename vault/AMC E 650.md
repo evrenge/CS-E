@@ -9,7 +9,7 @@ tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, cor
 # AMC E 650 — Vibration Surveys
 
 > [!summary]
-> The longest AMC in Subpart E. It defines the vocabulary the specification uses,
+> One of the longest AMCs in Subpart E. It defines the vocabulary the specification uses,
 > then works through component selection, test conditions, environmental effects,
 > Fault conditions, inlet distortion, flutter, material and frequency variation,
 > dwell testing, transient response, installation compatibility and the
@@ -106,6 +106,7 @@ enlargement, and blockages of fuel nozzles.
 | **(8)(c)** | Experience has shown there are differences in susceptibility to flutter from one blade set to another, and that 'tuned' blade sets might be more sensitive. | Statement |
 | **(8)(d)** | Where tests will be conducted at sea level only, propose a procedure acceptable to the Agency to account for altitude effects. | Accepted method |
 | **(8)(d)** | For certain engine modules, especially compressors, this is expected to be achieved by testing throughout the range of corrected speed the module will encounter in service, in which case the CS-E 650(b) and (c) speed requirements should be considered to apply also to corrected speed. | Accepted method |
+| **(8)(d)** | The provisions of paragraph (4)(b) of this AMC are also applicable. | Statement |
 | **(8)(e)** | For some turbines the propensity to flutter is not increased at maximum corrected speed, and other methods of demonstrating the absence of damaging flutter throughout the declared flight envelope may be more appropriate. | Permitted |
 | **(8)(e)** | Ensure that the maximum stage inlet pressure at each physical speed is achieved, or that compensation is provided. | Accepted method |
 | **(8)(f)** | Include in the methods used to verify the absence of damaging flutter consideration of applicable combinations of: the ranges of physical and corrected rotational speeds for each rotor module; the simultaneous occurrence of maximum compressor inlet air total temperature and maximum corrected rotational speed; the range of compressor operating lines within the flight envelope; the most adverse of other compressor inlet air conditions within the flight envelope; and the hardware standard, the intake conditions and margins to account for engine deterioration. | Accepted method |
@@ -150,6 +151,11 @@ combined amplitudes within this range should be considered"
 | **(14)(b)(i)** | Clearly define the domain of applicability of the analysis, comprising the ranges of design characteristics and operating conditions for which it will be deemed validated, and have the analysis and its domain accepted by the Agency. | Accepted method |
 | **(14)(b)(ii)** | Justify the similarity of the engine, module or components to be certified with previously tested and certified designs, and show that the design characteristics and operating conditions fall within the established domain of applicability. | Accepted method |
 | **(14)(b)(ii)** | The demonstration of compliance will be considered to be the combination of the baseline tests used to create the validated analysis and the analysis performed on the engine for which approval is sought. | Statement |
+| **(14)(b)(ii)** | Examples where validated analysis may be used include, but are not limited to, the four cases below. | Permitted |
+| **(14)(b)(ii)** | Where the test speeds required by CS-E 650(b) and (c) are not achieved, by agreement with the Agency as described in paragraph (4)(b) of this AMC. The validated analysis would be expected to cover the speed ranges or operating conditions not achieved during testing. | Permitted |
+| **(14)(b)(ii)** | Where instrumentation has been lost, for example due to the extreme test conditions. The validated analysis would be expected to cover the speed ranges or operating conditions for which instrumentation was lost. | Permitted |
+| **(14)(b)(ii)** | Where stresses are not measured directly at critical locations. The peak stresses may then be derived from measurements taken at reference locations, which requires a detailed understanding of the modal composition of the response and the associated mode shapes to derive the relationship between each location. | Permitted |
+| **(14)(b)(ii)** | Where it proves necessary to justify the acceptability of any significant responses, whether observed or predicted. | Permitted |
 | **(14)(b)(iii)** | Where the validated analysis is updated, for instance following new testing or service experience, have the updated analysis or its domain of applicability reviewed and accepted by the Agency. | Accepted method |
 | **(15)** | Pre-certification development activities generating engineering data essential to supporting the certification test should be exempt from formal Agency approval of test plans and reports. | Accepted method |
 | **(15)** | Limit inspection of type design hardware in accordance with point 21.A.33 of Part 21 to only those pertinent engine components and associated instrumentation that constitute the certification engine test or the baseline tests supporting the validated analysis. | Accepted method |

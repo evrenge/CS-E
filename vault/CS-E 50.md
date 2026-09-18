@@ -42,7 +42,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 | **(c)(2)** | In the Full-up Configuration, be essentially single-Fault tolerant for electrical and electronic Failures with respect to LOPC events. | Required |
 | **(c)(3)** | Single Failures of control system components do not result in a Hazardous Engine Effect. | Required |
 | **(c)(4)** | Foreseeable Failures or malfunctions causing local events in the intended installation — fire, overheat, or damage to control system components — do not result in a Hazardous Engine Effect. | Required |
-| **(d)** | Complete a system safety assessment for the Engine Control System when complying with CS-E 510. It must identify Faults or Failures causing a power change, a transmission of erroneous data, or an effect on operability, together with their predicted frequency of occurrence. | Required |
+| **(d)** | Complete a system safety assessment for the Engine Control System when complying with CS-E 510. It must identify Faults or Failures causing a power change, a transmission of erroneous data, or an effect on operability, together with their predicted frequency of occurrence. See also [[CS-E 110|CS-E 110(e)]]. | Required |
 
 ### Protection systems, software and signal lines
 
@@ -128,10 +128,15 @@ is the turbine engine route.
 not held in `source/`. Obtain them before settling the control system compliance
 method.]
 
+## Not applicable
+
+- **(a)(2)**, in part — the reference to CS-E 390, a Subpart C piston engine paragraph, alongside CS-E 500. Subpart C is outside this vault by scope.
+- **(d)**, in part — the reference to CS-E 210, a Subpart B piston engine paragraph. Subpart B is outside this vault by scope. The CS-E 110(e) reference in the same sub-point is in scope and is carried.
+
 ## References
 
 Accepted means: [[AMC E 50]] · [[AMC E 50|AMC E 50(e)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 50|AMC to CS-E 50(l)]]
-Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 510]] · [[AMC E 170]]
+Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 110]] · [[CS-E 510]] · [[AMC E 170]]
 
 ## Amendment history
 
