@@ -6,6 +6,7 @@ Catches the mistakes that are invisible when writing one note at a time:
   ghost-link     a [[wikilink]] to a paragraph that gets no note (EXCLUDED, or
                  out of scope). CLAUDE.md requires those as plain text.
   bad-link       a [[wikilink]] to something that is not a paragraph id at all
+  missing-image  an ![[embed]] whose file is absent from vault/figures/
   frontmatter    missing field, or a value that disagrees with the index
                  (pages, subpart, status, changed_in)
   sections       a required section missing, or Dropped present but empty
@@ -42,7 +43,9 @@ REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
 # The only permitted values of the Requirement table's Strength column.
 STRENGTHS = {"Required", "Required if claimed", "Recommended",
              "Accepted method", "Permitted", "Relief", "Statement"}
-WIKILINK = re.compile(r"\[\[([^\]|#]+)")
+# A link is [[...]]; an EMBED is ![[...]] and is an image, not a paragraph link.
+WIKILINK = re.compile(r"(?<!!)\[\[([^\]|#]+)")
+EMBED = re.compile(r"!\[\[([^\]|#]+)\]\]")
 QUOTE = re.compile(r">\s*\[!quote\][^\n]*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
 
 
@@ -157,6 +160,11 @@ def main() -> int:
                 for part in (f.strip() for f in quoted.split("\u2026")):
                     if part and norm(part) not in haystack:
                         say(f"quote not verbatim in source: {part[:70]!r}...")
+
+        # --- embedded images must exist
+        for img in {i.strip() for i in EMBED.findall(text)}:
+            if not (VAULT / "figures" / img).exists():
+                say(f"missing-image ![[{img}]] — not in vault/figures/")
 
         # --- terminology
         for banned in ("Book 1", "Book 2"):
