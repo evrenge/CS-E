@@ -98,10 +98,10 @@ tables are not the test input. They remain relevant in two ways. The 4 percent
 figure is stated in
 [[AMC E 790|AMC E 790(a)(2)(2)(d)]] as an increase "from Appendix A values" that
 "will usually compensate for any flight effects", so the tables are the baseline
-the alternative is calibrated against. And Figure A1 plots the 1 %, 2 %, 3 % and
-4 % water-to-air lines alongside the rain and hail threat curves, which shows
-directly how the 4 percent condition relates to the ambient threat across
-altitude.
+the alternative is calibrated against. Figure A1, embedded above, is where the
+4 percent condition can be read against the ambient threat; the source describes
+it only as an "Illustration of Rain and Hail Threats" [Appendix A], so what it
+plots is not stated in the text layer and is not restated here.
 
 The altitude range of the tables runs to 46 000 feet, far above a rotorcraft
 envelope. The CS-E 790(a)(1) hailstone ingestion is separately bounded at

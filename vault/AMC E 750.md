@@ -22,13 +22,13 @@ covers: ["AMC E 750(b)"]
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(b)** | The declared drainage period referred to in CS-E 750(b) is the minimum period necessary to allow surplus fuel to drain from the engine prior to making a further attempt to start the engine. | Statement |
-| **(b)** | The period is measured from the time at which the starter is switched off, or the engine fuel cock is closed, during a false start. | Statement |
+| **(b)** | The period is measured from the time at which the starter is switched off and/or the engine fuel cock is closed, during a false start. | Statement |
 
 AMC E 750(b) is a definition and the only AMC material under CS-E 750.
 
 Two things follow from it. The period is a **minimum**, so declaring a longer one
 does not satisfy the definition more safely — it is the shortest period that
-achieves drainage. And the clock starts at the shutdown action, not at the point
+achieves drainage. The clock starts at the shutdown action, at the point
 where the start attempt was abandoned, so the declared value must be measured
 from a defined event.
 
