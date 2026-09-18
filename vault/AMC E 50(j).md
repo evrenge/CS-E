@@ -39,31 +39,31 @@ speed and gas path temperatures.
 Point (1) requires the means to prevent the engine exceeding rating limits.
 Point (2) requires the same means not to prevent the engine reaching and
 sustaining rated 30-Second OEI Power. The control must sit between those bounds,
-which is why [[AMC E 20(f)]](5) asks for evidence that limiter settings do not
+which is why [[AMC E 20(f)|AMC E 20(f)(5)]] asks for evidence that limiter settings do not
 block the rating.
 
 ## Compliance
 
-- Automatic activation and control design for 30-Second OEI power, requiring no pilot input other than a termination command [AMC E 50(j)(1)], satisfying [[CS-E 50]](j).
+- Automatic activation and control design for 30-Second OEI power, requiring no pilot input other than a termination command [AMC E 50(j)(1)], satisfying [[CS-E 50|CS-E 50(j)]].
 - Demonstration that automatic control is effective in normal and abnormal operation [AMC E 50(j)(1)].
-- Demonstration that the means does not prevent the engine reaching and maintaining rated 30-Second OEI Power [AMC E 50(j)(2)], evidenced jointly with [[AMC E 20(f)]](5).
-- Type certificate data sheet entry for the limits associated with the rating [AMC E 50(j)(1)], under [[CS-E 40]](e).
+- Demonstration that the means does not prevent the engine reaching and maintaining rated 30-Second OEI Power [AMC E 50(j)(2)], evidenced jointly with [[AMC E 20(f)|AMC E 20(f)(5)]].
+- Type certificate data sheet entry for the limits associated with the rating [AMC E 50(j)(1)], under [[CS-E 40|CS-E 40(e)]].
 
 ## Application to this engine
 
 This note binds. The applicant declares a 30-Second OEI Power rating, so
-[[CS-E 50]](j) applies and this is its accepted means.
+[[CS-E 50|CS-E 50(j)]] applies and this is its accepted means.
 
 The engine uses a full-authority EECS, which is the architecture this AMC assumes:
 automatic application, automatic limiting, and no pilot monitoring of shaft
 torque, shaft speed, gas generator speed or gas path temperature during the event.
 
-The link to [[AMC E 20(f)]](5) is a compliance dependency, not a cross-reference.
+The link to [[AMC E 20(f)|AMC E 20(f)(5)]] is a compliance dependency, not a cross-reference.
 The same limiter settings — engine speed, measured gas temperature and fuel flow —
 must be shown both to protect the engine and not to block the rating, with
 particular attention to take-off with a cold-soaked engine.
 
-[[AMC E 40(b)(3)]](4) records that certification assumes up to three uses of the
+[[AMC E 40(b)(3)|AMC E 40(b)(3)(4)]] records that certification assumes up to three uses of the
 rating in one flight, and that mandatory maintenance follows any use.
 
 ## References

@@ -7,6 +7,7 @@ Catches the mistakes that are invisible when writing one note at a time:
                  out of scope). CLAUDE.md requires those as plain text.
   bad-link       a [[wikilink]] to something that is not a paragraph id at all
   missing-image  an ![[embed]] whose file is absent from vault/figures/
+  link-paren     [[X]](y), which GitHub parses as a link to the path "y"
   frontmatter    missing field, or a value that disagrees with the index
                  (pages, subpart, status, changed_in)
   sections       a required section missing, or Dropped present but empty
@@ -44,7 +45,11 @@ REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
 STRENGTHS = {"Required", "Required if claimed", "Recommended",
              "Accepted method", "Permitted", "Relief", "Statement"}
 # A link is [[...]]; an EMBED is ![[...]] and is an image, not a paragraph link.
+# An alias link is [[Target|Display]] - only the target is checked.
 WIKILINK = re.compile(r"(?<!!)\[\[([^\]|#]+)")
+# [[X]](y) is parsed by GitHub as [link text](url), producing a hyperlink to a
+# path that does not exist. Use the alias form [[X|X(y)]] instead.
+LINK_PAREN = re.compile(r"\]\]\(")
 EMBED = re.compile(r"!\[\[([^\]|#]+)\]\]")
 QUOTE = re.compile(r">\s*\[!quote\][^\n]*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
 
@@ -165,6 +170,11 @@ def main() -> int:
         for img in {i.strip() for i in EMBED.findall(text)}:
             if not (VAULT / "figures" / img).exists():
                 say(f"missing-image ![[{img}]] — not in vault/figures/")
+
+        # --- link form
+        if LINK_PAREN.search(text):
+            say("link-paren: [[X]](y) renders as a broken hyperlink on GitHub; "
+                "use the alias form [[X|X(y)]]")
 
         # --- terminology
         for banned in ("Book 1", "Book 2"):

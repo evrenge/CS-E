@@ -143,6 +143,23 @@ to the verb the source uses.
 is a recommendation inside a binding specification. The two are not the same
 strength and must not share a label.
 
+### Links and citations
+Two forms, and they mean different things:
+
+- `[[CS-E 740]]` is **navigation** — an Obsidian wikilink to that note. Use the
+  alias form when naming a sub-point: `[[CS-E 50|CS-E 50(j)]]` displays
+  "CS-E 50(j)" and links to the CS-E 50 note.
+- `[CS-E 740(c)(3)]` is a **citation** — notation, not a link. Every statement
+  carries one under accuracy rule 1. Making all of them links would bury the
+  navigation in noise.
+
+**Never write `[[X]](y)`.** GitHub parses it as `[link text](url)` and renders a
+hyperlink to a path that does not exist. Obsidian tolerates it; GitHub does not.
+
+Obsidian wikilinks do not resolve on GitHub at all — GitHub supports `[[...]]`
+only in wikis, not in repository files. The vault is built for Obsidian; GitHub
+is a review surface, and links there show as literal text. That is expected.
+
 ### Terminology
 CS-E contains exactly two kinds of paragraph, and notes name them that way:
 

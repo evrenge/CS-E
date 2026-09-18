@@ -82,7 +82,7 @@ the number of engines required from service.
 
 - ICA manuals, including module division with nomenclature and boundaries [AMC E 25(3)].
 - Installed-test procedure describing verification of minimum installed performance against static sea-level test-bed ratings [AMC E 25(2)].
-- Airworthiness limitations section: mandatory post-flight inspections and maintenance actions after any use of 30-Second or 2-Minute OEI [AMC E 25(4)(a)], under [[CS-E 25]](b)(2).
+- Airworthiness limitations section: mandatory post-flight inspections and maintenance actions after any use of 30-Second or 2-Minute OEI [AMC E 25(4)(a)], under [[CS-E 25|CS-E 25(b)(2)]].
 - Cumulated time limit for Rated 30-Minute Power, with instructions for when the limit is reached [AMC E 25(5)].
 - Definition of the operator data needed to support the in-service programme [AMC E 25(4)(b)], optionally in the airworthiness limitations section [AMC E 25(4)(d)(iii)].
 
@@ -106,7 +106,7 @@ CS-E 740(c)(3)(iii) — the test that the declared rating combination selects. S
 [[CS-E 740]].
 
 The "three applications of 30 seconds OEI rated power" in the programme elements
-matches the worst-case assumption in [[AMC E 40(b)(3)]](4): three uses in one
+matches the worst-case assumption in [[AMC E 40(b)(3)|AMC E 40(b)(3)(4)]]: three uses in one
 flight at take-off, baulked landing and final landing.
 
 Point (4)(a) offers a choice where 2-Minute OEI is extended to 2½ minutes: apply

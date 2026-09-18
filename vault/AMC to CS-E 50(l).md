@@ -24,10 +24,10 @@ reaches every control system on the aircraft at once.
 
 ## Compliance
 
-- Security risk and vulnerability assessment under AMC 20-42 [AMC to CS-E 50(l)], satisfying [[CS-E 50]](l).
+- Security risk and vulnerability assessment under AMC 20-42 [AMC to CS-E 50(l)], satisfying [[CS-E 50|CS-E 50(l)]].
 - Explicit treatment of common-mode IUEIs affecting all engine control systems of an aircraft, alongside single-engine cases [AMC to CS-E 50(l)].
 - Assessment of external engine interfaces and aircraft-to-engine interfaces [AMC to CS-E 50(l)].
-- Procedures and Instructions for Continued Airworthiness maintaining the security protections [CS-E 50(l)], carried into [[CS-E 25]](c)(13).
+- Procedures and Instructions for Continued Airworthiness maintaining the security protections [CS-E 50(l)], carried into [[CS-E 25|CS-E 25(c)(13)]].
 
 ## Application to this engine
 

@@ -37,7 +37,7 @@ Sub-point (f) governs the declared value. The rating reflects the weakest engine
 - Operating limitations schedule [CS-E 40(d)], scope per [[AMC E 40(d)]].
 - TCDS entry under point 21.A.41 of Part 21, listing rated powers and crew-respected limitations [CS-E 40(e)].
 - Minimum-engine substantiation: the test programme and conditions demonstrating that every engine of the type meets the declared ratings [CS-E 40(f)].
-- Accuracy budget for the Engine Control System and instrumentation [CS-E 40(g)], against the tolerances of [[CS-E 60]](b).
+- Accuracy budget for the Engine Control System and instrumentation [CS-E 40(g)], against the tolerances of [[CS-E 60|CS-E 60(b)]].
 
 ## Application to this engine
 

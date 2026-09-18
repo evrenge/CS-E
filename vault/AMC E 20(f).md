@@ -55,11 +55,11 @@ with a cold-soaked engine.
 All five points bind. The applicant declares 30-Second OEI, 2-Minute OEI and
 Continuous OEI, and point (1) applies to an engine having one or more OEI ratings.
 
-Point (5) links directly to [[CS-E 50]](j) and [[AMC E 50(j)]]: the 30-Second OEI
+Point (5) links directly to [[CS-E 50|CS-E 50(j)]] and [[AMC E 50(j)]]: the 30-Second OEI
 power must be automatically available, and limiter settings must not defeat that.
 
 [VERIFY: point (1) cites CS-27.45(f) or CS-29.45(f). The applicable aircraft
-certification specification code is identified under [[CS-E 20]](b) and is not yet
+certification specification code is identified under [[CS-E 20|CS-E 20(b)]] and is not yet
 fixed in `engine_profile.md`.]
 
 ## References

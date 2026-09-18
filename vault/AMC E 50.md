@@ -53,22 +53,22 @@ and heating of the lines to prevent freezing of condensed water.
 
 - Control system boundary definition, stating what is inside and outside the Engine Control System [AMC E 50(1)].
 - Component-level coverage of control system items under [[CS-E 80]] and [[CS-E 170]] in addition to CS-E 50 [AMC E 50(2)].
-- Power modulation demonstration expressed as power turbine speed control within specified limits [AMC E 50(3)], against [[CS-E 50]](a)(3).
-- Integrity case showing at least equivalent safety and reliability to a hydromechanical and magneto system [AMC E 50(4)], supporting [[CS-E 50]](c).
-- Evaluation against [[CS-E 50]](h) for every function depending on aircraft-supplied electrical power [AMC E 50(5)].
-- Air signal line design precautions and corrosion assessment [AMC E 50(6)], within the safety assessment of [[CS-E 50]](d).
+- Power modulation demonstration expressed as power turbine speed control within specified limits [AMC E 50(3)], against [[CS-E 50|CS-E 50(a)(3)]].
+- Integrity case showing at least equivalent safety and reliability to a hydromechanical and magneto system [AMC E 50(4)], supporting [[CS-E 50|CS-E 50(c)]].
+- Evaluation against [[CS-E 50|CS-E 50(h)]] for every function depending on aircraft-supplied electrical power [AMC E 50(5)].
+- Air signal line design precautions and corrosion assessment [AMC E 50(6)], within the safety assessment of [[CS-E 50|CS-E 50(d)]].
 
 ## Application to this engine
 
 Point (3) is the rotorcraft-specific provision and it changes what must be
 demonstrated. On a turboshaft with power turbine speed governing, "modulation of
-Engine power with adequate sensitivity and accuracy" under [[CS-E 50]](a)(3)
+Engine power with adequate sensitivity and accuracy" under [[CS-E 50|CS-E 50(a)(3)]]
 means holding power turbine speed within limits, not managing thrust.
 
 Point (5) binds fully. The engine uses a full-authority EECS, so it does not
 inherit the inherent compliance that a hydromechanical system enjoys, and every
 aircraft-supplied electrical power dependency must be evaluated against
-[[CS-E 50]](h).
+[[CS-E 50|CS-E 50(h)]].
 
 Point (1) settles where "OEI override" is assessed. If the feature controls,
 limits or monitors engine operation and is necessary for continued airworthiness,

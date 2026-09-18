@@ -25,17 +25,17 @@ is decided by safety analysis rather than by this AMC.
 
 ## Compliance
 
-- BITE or functional test design providing a complete test of the electrical and electronic part of the over-speed protection [AMC E 50(e)], satisfying [[CS-E 50]](e)(1).
+- BITE or functional test design providing a complete test of the electrical and electronic part of the over-speed protection [AMC E 50(e)], satisfying [[CS-E 50|CS-E 50(e)(1)]].
 - Safety analysis of the mechanical or actuating part of the protection system, establishing whether inspection or test is needed and at what interval [AMC E 50(e)], within [[CS-E 510]].
 - Manual test specification in the instructions for operation where the test is not fully automatic [CS-E 50(e)(1)].
 
 ## Application to this engine
 
 The engine uses a full-authority EECS, so over-speed protection falls under the
-electronic route of [[CS-E 50]](e)(1) rather than the hydromechanical route of
+electronic route of [[CS-E 50|CS-E 50(e)(1)]] rather than the hydromechanical route of
 (e)(2). The BITE method described here is the applicable accepted means.
 
-[[AMC E 50]](1) records that blade shedding or engine design related over-speed
+[[AMC E 50|AMC E 50(1)]] records that blade shedding or engine design related over-speed
 protection is not part of the Engine Control System, because it is purely
 mechanical. Where such a means is used in addition, it falls outside this AMC.
 

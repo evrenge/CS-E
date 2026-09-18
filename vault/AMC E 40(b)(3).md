@@ -68,7 +68,7 @@ any time between the take-off and landing phases in any flight.
 - Deterioration assessment from the CS-E 740(c)(3)(iii) 2-hour additional endurance test, through the third 30-Second OEI application [AMC E 40(b)(3)(6)].
 - Evaluation of the deterioration mode where deterioration exceeds 10 % at the 30-Second OEI rating [AMC E 40(b)(3)(6)].
 - Performance characteristics data for the aircraft manufacturer, reflecting that deterioration [AMC E 40(b)(3)(6)], delivered through [[AMC E 20(f)]].
-- Mandatory post-flight maintenance actions after any use of either rating [AMC E 40(b)(3)(4)], prescribed under [[CS-E 25]](b)(2) and [[AMC E 25]].
+- Mandatory post-flight maintenance actions after any use of either rating [AMC E 40(b)(3)(4)], prescribed under [[CS-E 25|CS-E 25(b)(2)]] and [[AMC E 25]].
 - Declaration of Rated 30-Minute Power level and its 30-minute usage limit [AMC E 40(b)(3)(7)].
 
 ## Application to this engine
@@ -83,7 +83,7 @@ assumption sizes the endurance testing and the post-flight maintenance regime.
 Point (5) is an option the applicant may take: extending 2-Minute OEI to 2.5
 minutes where the power stayed below the 30-Second band. Taking it means the
 extra 30 seconds counts as a derated 30-Second OEI rating, with the maintenance
-consequences that follow. [[AMC E 25]](4)(a) sets out the alternative of seeking
+consequences that follow. [[AMC E 25|AMC E 25(4)(a)]] sets out the alternative of seeking
 approval for a different set of inspections for that case.
 
 Continuous OEI is also declared but is not covered by this paragraph; it is a

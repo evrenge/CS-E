@@ -31,7 +31,7 @@ air data.
 ## Compliance
 
 - Type design list scoped to items necessary for functioning and control [AMC E 20(1)].
-- Interface effect assessment for CS-E 20(c) components, in normal and Failure cases [AMC E 20(3)], against [[CS-E 80]](c).
+- Interface effect assessment for CS-E 20(c) components, in normal and Failure cases [AMC E 20(3)], against [[CS-E 80|CS-E 80(c)]].
 - Installation assumptions package handed to the aircraft manufacturer [AMC E 20(4)], the same material [[CS-E 30]] requires.
 - Installation manual sections: control system interface descriptions, limitations and specifications [AMC E 20(5)]; EECS requirements on aircraft-supplied resources with adequacy substantiation [AMC E 20(6)]; all operational modes and their aircraft interface [AMC E 20(7)].
 
@@ -40,7 +40,7 @@ air data.
 Point (6) is the one that binds hardest. It names "recording of rotorcraft One
 Engine Inoperative data" as an example of an aircraft-supplied resource on which
 an EECS may depend. The engine declares 30-Second and 2-Minute OEI ratings, whose
-usage recording is required by [[CS-E 60]](d), so that dependency is real and its
+usage recording is required by [[CS-E 60|CS-E 60(d)]], so that dependency is real and its
 adequacy must be substantiated here.
 
 The engine uses a full-authority EECS, so points (5), (6) and (7) all apply at

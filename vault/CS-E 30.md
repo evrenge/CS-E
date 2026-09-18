@@ -26,7 +26,7 @@ against the real aircraft.
 ## Compliance
 
 - Statement of installation assumptions, submitted before engine certification [CS-E 30(a)].
-- Engine instructions for installation carrying those assumptions [CS-E 30(a)], within the manuals required by [[CS-E 20]](d).
+- Engine instructions for installation carrying those assumptions [CS-E 30(a)], within the manuals required by [[CS-E 20|CS-E 20(d)]].
 - Interface conditions and reliability specifications for components outside the engine type design, in the instructions for installation or referenced from them [CS-E 30(b)].
 
 ## Application to this engine
@@ -37,7 +37,7 @@ rotorcraft OEI data — those are components outside the engine type design, so
 their interface conditions and reliability specifications belong here.
 
 The assumed aircraft certification specification code is identified under this
-paragraph by way of [[CS-E 20]](b). For a rotorcraft engine that code is CS-27 or
+paragraph by way of [[CS-E 20|CS-E 20(b)]]. For a rotorcraft engine that code is CS-27 or
 CS-29.
 
 [VERIFY: confirm whether the installation target is CS-27 or CS-29. CS-E 780

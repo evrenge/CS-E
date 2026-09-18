@@ -34,7 +34,7 @@ the part that becomes mandatory on the operator.
 - Mandatory actions and limitations for in-service maintenance and repair of Engine Critical Parts, taken from the Service Management Plan of [[CS-E 515]] [CS-E 25(b)].
 - Mandatory post-flight inspections and maintenance actions after any use of 30-Second OEI or 2-Minute OEI Power [CS-E 25(b)(2)].
 - Validation of the adequacy of those inspections and actions [CS-E 25(b)(2)].
-- In-service engine evaluation programme, assuring the adequacy of the [[CS-E 20]](f) power availability data and of the post-flight instructions. The programme must include service engine tests, or equivalent service engine test experience on engines of similar design, or evaluations of service usage of the 30-Second / 2-Minute OEI ratings [CS-E 25(b)(2)].
+- In-service engine evaluation programme, assuring the adequacy of the [[CS-E 20|CS-E 20(f)]] power availability data and of the post-flight instructions. The programme must include service engine tests, or equivalent service engine test experience on engines of similar design, or evaluations of service usage of the 30-Second / 2-Minute OEI ratings [CS-E 25(b)(2)].
 
 ### Manual content to consider [CS-E 25(c)]
 
@@ -65,7 +65,7 @@ rating triggers mandatory post-flight action, and [[AMC E 40(b)(3)]] records tha
 certification assumes the worst case of three uses in one flight.
 
 Item (c)(13) binds because the engine carries a full-authority EECS: the security
-instructions required by [[CS-E 50]](l) must be considered for the manual.
+instructions required by [[CS-E 50|CS-E 50(l)]] must be considered for the manual.
 
 Item (c)(5) uses "should" for the recommended periods. That softer verb describes
 the content of the scheduling information; the obligation to consider the item for

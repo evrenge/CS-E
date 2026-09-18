@@ -95,7 +95,7 @@ recommendation inside a binding specification, and is weaker than the "must" in
 - Software and encoded logic development evidence under an approved method matched to criticality [CS-E 50(f)].
 - Instructions for installation: Control Mode alert provision [CS-E 50(b)(3)]; power change magnitude and transition time [CS-E 50(b)]; electrical power need, characteristics and voltage limits [CS-E 50(h)(3)].
 - Instructions for operation: crew action on Control Mode change [CS-E 50(b)(3)]; manual over-speed test specification where the test is not fully automatic [CS-E 50(e)(1)].
-- ICA covering maintenance of the security protections [CS-E 50(l)], carried into [[CS-E 25]](c)(13).
+- ICA covering maintenance of the security protections [CS-E 50(l)], carried into [[CS-E 25|CS-E 25(c)(13)]].
 
 Guidance on the whole paragraph: [[AMC E 50]]. CS-E 50 also cites AMC 20-1,
 AMC 20-3 and AMC 20-115, which are not held in `source/`.
