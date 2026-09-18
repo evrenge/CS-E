@@ -41,7 +41,11 @@ CAPTION = re.compile(r"^\s*(Figure|Table)\s+[0-9IVX]+[.:]?", re.IGNORECASE)
 
 RUNNING = re.compile(
     r"^(?:CS-E\s*[—-]\s*Amendment\s*\d+"
-    r"|SUBPART\s+[A-F]\b"
+    # Case-sensitive, and the dash is mandatory: every real banner is
+    # "SUBPART A - GENERAL". Matching "subpart C or E" case-insensitively
+    # ate a body line of CS-E 80(b), and it did so in both this filter and
+    # the audit that is meant to catch exactly that loss.
+    r"|(?-i:SUBPART)\s+[A-F]\s*[–—-]"
     r"|Annex to ED Decision"
     r"|Page\s+\d+\s+of\s+\d+)",
     re.IGNORECASE,

@@ -26,6 +26,7 @@ falling into the Engine, flailing of the drives, etc.
 (b)
 The equipment identified under CS-E 20(a) must be approved as an integral part of the Engine
 and must meet the relevant specifications of CS-E. Unless the specifications prescribed in
+subpart C or E, as appropriate, will subject this equipment to such cycles of operation as to
 adequately represent all the critical conditions affecting its airworthiness to which it may be
 expected to be exposed during service, the equipment specification must state those additional
 airworthiness specifications for which evidence of compliance will be needed.

@@ -25,6 +25,7 @@ Usage:
 
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -36,6 +37,7 @@ from vault_map import expected_notes, note_name  # noqa: E402
 
 VAULT = ROOT / "vault"
 PARAS = ROOT / "work" / "paragraphs"
+REDLINE = ROOT / "work" / "redline.json"
 
 REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
             "## References"]
@@ -93,6 +95,43 @@ def whole_document() -> str:
                     if not ln.startswith("#")]
         _WHOLE = norm(" ".join(out))
     return _WHOLE
+
+
+def norm_stitched(text: str) -> str:
+    """norm(), plus the space a redline stitch leaves before punctuation.
+
+    The "before" wording is rebuilt by dropping the inserted runs and keeping
+    the deleted ones, so a deletion ending mid-sentence leaves "certification ,"
+    where the amendment reads "certification,". That is an artifact of the
+    reconstruction, not a difference in wording, so it must not fail a quote.
+    """
+    return re.sub(r"\s+([,.;:)])", r"\1", norm(text))
+
+
+_PRIOR: str | None = None
+
+
+def prior_wording() -> str:
+    """The pre-amendment wording, from work/redline.json.
+
+    A changed note shows before and after. The "before" is by definition absent
+    from Amendment 8, so checking it against the consolidated text always fails.
+    It is still a quotation and still verifiable — against the wording the
+    redline extractor recovered from the Change Information PDFs, which
+    `extract_redline.py` cross-validates against Amendment 7.
+
+    This haystack is admissible only for a note's `Amendment history` section.
+    It is not requirement content, and CLAUDE.md bans it everywhere else.
+    """
+    global _PRIOR
+    if _PRIOR is None:
+        if not REDLINE.exists():
+            _PRIOR = ""
+        else:
+            data = json.loads(REDLINE.read_text(encoding="utf-8"))
+            _PRIOR = norm_stitched(
+                " ".join(e.get("before", "") for e in data.values()))
+    return _PRIOR
 
 
 def main() -> int:
@@ -160,8 +199,14 @@ def main() -> int:
             re.sub(r"^\s*>\s?", "", ln)
             for ln in text.split("---\n", 2)[-1].splitlines())
         haystack = source_text(meta["ids"])
+        # The Amendment history section may quote the pre-amendment wording,
+        # which is absent from Amendment 8 by definition. Split the body there.
+        history = ""
+        if "## Amendment history" in body_flat:
+            body_flat, history = body_flat.split("## Amendment history", 1)
         pieces = body_flat.replace("\u201c", '"').replace("\u201d", '"').split('"')
-        for quoted in {q.strip() for q in pieces[1::2]}:
+        hist_pieces = history.replace("\u201c", '"').replace("\u201d", '"').split('"')
+        for quoted in {q.strip() for q in pieces[1::2] + hist_pieces[1::2]}:
             if len(quoted) < MIN_QUOTE:
                 continue
             parts = [f.strip() for f in quoted.split("…") if f.strip()]
@@ -172,7 +217,19 @@ def main() -> int:
             # this note's own paragraphs.
             if all(norm(part) in whole_document() for part in parts):
                 continue
+            # Only the Amendment history section may quote pre-amendment wording.
+            if (quoted in history
+                    and all(norm_stitched(part) in prior_wording()
+                            for part in parts)):
+                continue
             say(f"quoted passage not verbatim in source: {quoted[:70]!r}...")
+
+        # A quotation inside a quotation defeats the positional pairing above:
+        # the inner passage lands in an "outside" slice and is never checked.
+        # Its signature is two quote marks with nothing between them.
+        if '""' in body_flat.replace("\u201c", '"').replace("\u201d", '"'):
+            say('nested quotation (\'""\') — the inner passage escapes the '
+                "verbatim check; use an elision or restructure the sentence")
 
         # --- Requirement table
         if "## Requirement" in text:
