@@ -161,6 +161,9 @@ material change modifies the thermal or mechanical response.
 | **(4)(c)** | Develop and apply manufacturing processes with the appropriate level of oversight, agree substantiation programmes up-front and execute them as part of the process validation, make changes visible and subject to crossfunctional review and approval, and review any suspected non-conformance with the appropriate skill mix before disposition. | Accepted method |
 | **(5)(b)** | Review repair and maintenance processes by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, Product Support Engineering, and Repair Development Engineering. | Accepted method |
 | **(5)(b)** | Include process validation, change control and non-conformance in that review, to ensure the product of any repair or maintenance is consistent with the engineering specification. | Accepted method |
+| **(5)(b)** | The intent is that repair and maintenance processes and practices are developed with the appropriate level of oversight, and with due regard to their possible impact on the life capability of the part, with substantiation programmes agreed up-front and executed as part of the validation process. | Statement |
+| **(5)(b)** | The intent is that changes to such processes and practices are visible to all parties, and are not made without crossfunctional review and approval. | Statement |
+| **(5)(b)** | The intent is that a suspected non-conformance event is reviewed with the appropriate skill mix prior to disposition. | Statement |
 | **(5)(b)** | Articulate the procedures for repair and maintenance clearly in the appropriate sections of the engine shop manual, including clearly delineated limits that will ensure Engine Critical Parts maintain attributes consistent with those assumed in the Engineering Plan. | Accepted method |
 | **(5)(c)** | For static pressure loaded parts or other parts, the instructions for continued airworthiness may typically contain, in addition to the Approved Life: a defined periodic inspection interval in the airworthiness limitations section; the inspection methods to be used; a detailed description of the areas to be inspected; inspection result acceptability limits; acceptable repair methods if applicable; and any other instructions necessary. | Statement |
 
@@ -259,6 +262,8 @@ Part 21 is not held in `source/`.]
 ## Not applicable
 
 - **(3)(d)(i)**, in part — the reverse segment of the flight-segment list. A turboshaft driving a rotorcraft transmission has no reverse mode.
+- **(4)(a)**, **(5)(a)** — the Manufacturing Plan and Service Management Plan introductions. They restate the purpose of plans that CS-E 515(b) and (c) already establish, and carry no obligation of their own.
+- **(4)(c)**, in part — the sentence saying the level of detail in the Plan may vary with the process step, its sensitivity and the level of control required. Rationale rather than obligation.
 
 ## References
 

@@ -146,8 +146,9 @@ Related: [[CS-E 510]] · [[CS-E 515]] · [[CS-E 500]] · [[CS-E 525]] · [[CS-E 
 
 ## Amendment history
 
-AMC E 520(c)(2) was amended at Amendment 7. The validated data list gained an
-item and the evaluation duties gained a case.
+AMC E 520(c)(2) was amended at Amendment 7 in four places: the validated data
+list gained an item, the evaluation duties gained a case, the test-condition
+comparison gained a clause, and a documentation duty was added.
 
 Before the amendment the list ended at "variations with time of the rotational
 speed(s) of the Engine's main rotating system(s) after failure". Amendment 7
@@ -160,7 +161,18 @@ structural support", with the effect on the engine and on the loads transmitted
 to the aircraft. Before the amendment, (c)(2)(2) addressed only engines that fail
 the rotor support structure by design.
 
-Both changes add work, and both point the same way: towards what the aircraft
+Amendment 7 further inserted into (c)(2)(3), after the list of differences to be
+accounted for between test and installation, ", and any other differences between
+the test configuration and the aircraft installation (e.g. production inlet
+configuration replaced by test intake configuration)", and added a new duty:
+"Assumptions about the Engine installation configuration should be documented in
+the Manuals required by CS-E 20(d)." That documentation duty is the one new
+obligation among the four, rather than an extension of an existing one.
+
+Into (c)(2)(5) it inserted ", including interface features between Engine and
+aircraft".
+
+All four changes add work, and all point the same way: towards what the aircraft
 sees at the interface. The new data item and the new evaluation case are the
 model-side counterpart of the CS-E 520(c)(1) rewrite at the same amendment, which
 moved the blade shedding specification from a consequence test to a radial

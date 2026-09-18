@@ -40,6 +40,7 @@ tags: [safety-analysis, fmea, fault-tree, hazardous-engine-effect, debris, toxic
 | **(3)(b)** | Integrate the specific specifications of CS-E 50 for the Engine Control System into the overall engine safety analysis. | Accepted method |
 | **(3)(c)** | "Typical installation" in CS-E 510(a)(1)(i) does not imply the aircraft-level effects are known, but that assumptions of typical aircraft devices and procedures — fire-extinguishing equipment, annunciation devices and similar — are clearly stated in the analysis. | Statement |
 | **(3)(c)** | Where the applicant cannot determine the detailed Failure sequence, rate of occurrence or dormancy period of Failures of aircraft components, the applicant will assume a Failure rate for those components for engine certification. | Statement |
+| **(3)(c)** | CS-E 510(a)(1)(i) requires the applicant to take account of aircraft-level devices in the engine safety analysis; the effects on the engine of a Failure of aircraft air ducts is the example the AMC gives. | Statement |
 | **(3)(c)** | Provide, in the engine instructions for installation, the list of Failures of aircraft components that may result in or contribute to Hazardous or Major Engine Effects, describe the mode of propagation, and state the assumed Failure rates. | Accepted method |
 | **(3)(c)** | Address such assumptions in compliance with CS-E 30. | Accepted method |
 

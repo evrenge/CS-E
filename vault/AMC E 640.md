@@ -26,7 +26,7 @@ tags: [pressure-loads, definitions, working-pressure, oei, zoning, analytical-mo
 | **(1)** | Relate the following definitions to the engine when installed in a typical installation. | Accepted method |
 | **(1)** | Normal Working Pressure: the maximum pressure differential likely to occur on most flights, including any pressure fluctuations as a result of the normal operation of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
 | **(1)** | Maximum Working Pressure: the maximum pressure differential which could occur under the most adverse operational conditions likely to be encountered in service — for example forward speed, altitude, ambient temperature, engine speed, use of OEI ratings — including any pressure fluctuations from the normal operation of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
-| **(1)** | Maximum Possible Pressure: the maximum pressure differential which could occur under the most adverse combination of operational conditions likely to be experienced in service, together with Failure of any relevant parts of the engine or control system, or combinations of Failures which are more likely than Extremely Remote. Give consideration to any pressure fluctuations as a result of normal or emergency use of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
+| **(1)** | Maximum Possible Pressure: the maximum pressure differential which could occur under the most adverse combination of operational conditions — for example forward speed, altitude, ambient temperature, engine speed, use of OEI ratings — likely to be experienced in service, together with Failure of any relevant parts of the engine or control system, or combinations of Failures which are more likely than Extremely Remote. Give consideration to any pressure fluctuations as a result of normal or emergency use of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
 | **(1)** | Static Parts subject to significant gas or liquid pressure loads: the components subject to high-pressure loads, or whose design is influenced by the gas or liquid pressure loads to be contained. | Statement |
 | **(1)** | Give special attention to any filler cap. | Accepted method |
 
@@ -83,7 +83,7 @@ strength, which is why the same text appears in
 The AMC applies in full. Nothing in it is restricted by engine type or control
 system.
 
-**The OEI ratings raise the test levels.** "Use of OEI ratings" is named among the
+**The OEI ratings raise the test levels.** The source names "use of OEI ratings" among the
 most adverse operational conditions that define both the maximum working pressure
 and the maximum possible pressure [AMC E 640(1)]. Since this engine declares
 30-Second OEI, 2-Minute OEI and Continuous OEI, the pressures those ratings

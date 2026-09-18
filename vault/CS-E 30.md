@@ -43,8 +43,8 @@ rotorcraft OEI data — those are components outside the engine type design, so
 their interface conditions and reliability specifications belong here.
 
 The assumed aircraft certification specification code is identified under this
-paragraph by way of [[CS-E 20|CS-E 20(b)]]. For a rotorcraft engine that code is CS-27 or
-CS-29.
+paragraph by way of [[CS-E 20|CS-E 20(b)]]. CS-E 30 does not name the code for a
+rotorcraft engine.
 
 [VERIFY: confirm whether the installation target is CS-27 or CS-29. CS-E 780
 cites both CS 27.1093(b) and CS 29.1093(b), so CS-E itself does not settle it.]
