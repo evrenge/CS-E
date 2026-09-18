@@ -57,30 +57,6 @@ compressor of turbine engines could be blocked by frozen water, leading to a los
 of power. Suggested precautions: protected openings, filters, drains for water,
 and heating of the lines to prevent freezing of condensed water.
 
-Included: electronic control unit(s), fuel metering unit(s), variable-geometry
-actuators, cables, wires and sensors. Also the protection systems against
-over-speed, over-torque and over-temperature.
-
-Not usually included: the main engine fuel pump, even though it is often
-engine-mounted and physically integrated with the fuel metering unit.
-
-Not included: blade shedding or engine design related over-speed protection,
-because that protection is purely mechanical and works without influence from the
-control system.
-
-Engine monitoring systems are covered when physically or functionally integrated
-with the control system, or when they perform functions affecting engine safety,
-or are used for continued-operation or return-to-service decisions. Low cycle
-fatigue (LCF) cycle-counters for Engine Critical Parts are included. Most trend
-monitors and maintenance information devices are not — those fall under
-[[CS-E 170]].
-
-### Air signal line precautions [(6)]
-
-The worked example given is that lines measuring static pressure in the
-compressor of turbine engines could be blocked by frozen water, leading to a loss
-of power. Suggested precautions: protected openings, filters, drains for water,
-and heating of the lines to prevent freezing of condensed water.
 
 ### AMC E 50(e) — over-speed protection testing
 
@@ -94,9 +70,6 @@ The split matters. The electrical and electronic part is covered by a complete
 BITE test. The mechanical and actuating part is not, and its inspection interval
 is decided by safety analysis rather than by this AMC.
 
-The split matters. The electrical and electronic part is covered by a complete
-BITE test. The mechanical and actuating part is not, and its inspection interval
-is decided by safety analysis rather than by this AMC.
 
 ### AMC E 50(j) — automatic control of 30-Second OEI power
 
@@ -129,26 +102,6 @@ sustaining rated 30-Second OEI Power. The control must sit between those bounds,
 which is why [[AMC E 20|AMC E 20(f)(5)]] asks for evidence that limiter settings do not
 block the rating.
 
-The flight and operating conditions requiring use of this rating may create a
-high pilot workload to maintain safe flight. That is the stated reason for
-demanding automatic application and control.
-
-The rating could already use almost all the available margins in the engine
-design. Exceeding the limits associated with it would therefore likely result in
-an engine Failure — unacceptable in a critical flight condition with one engine
-already failed.
-
-The automatic control is intended to remove the need to monitor engine parameters
-during the event: output shaft torque or power, output shaft speed, gas generator
-speed and gas path temperatures.
-
-#### The two-sided constraint
-
-Point (1) requires the means to prevent the engine exceeding rating limits.
-Point (2) requires the same means not to prevent the engine reaching and
-sustaining rated 30-Second OEI Power. The control must sit between those bounds,
-which is why [[AMC E 20|AMC E 20(f)(5)]] asks for evidence that limiter settings do not
-block the rating.
 
 ### AMC to CS-E 50(l) — information system security protection
 
@@ -161,9 +114,6 @@ The second obligation is the substantive one. A security assessment scoped to on
 engine is not sufficient: the assessment must consider an interaction that
 reaches every control system on the aircraft at once.
 
-The second obligation is the substantive one. A security assessment scoped to one
-engine is not sufficient: it must consider an interaction that reaches every
-control system on the aircraft at once.
 
 ## Compliance
 
@@ -198,6 +148,8 @@ control system on the aircraft at once.
 
 ## Application to this engine
 
+### Scope and interpretation
+
 Point (3) is the rotorcraft-specific provision and it changes what must be
 demonstrated. On a turboshaft with power turbine speed governing, "modulation of
 Engine power or thrust with adequate sensitivity and accuracy" under
@@ -216,6 +168,8 @@ it is part of the Engine Control System and falls under CS-E 50 — not under
 [VERIFY: AMC E 50(2) and (5) cite AMC 20-1 and AMC 20-3 for detailed
 interpretation of CS-E 50 for EECS. Neither is held in `source/`.]
 
+### Over-speed protection
+
 The engine uses a full-authority EECS, so over-speed protection falls under the
 electronic route of [[CS-E 50|CS-E 50(e)(1)]] rather than the hydromechanical route of
 (e)(2). The BITE method described here is the applicable accepted means.
@@ -229,6 +183,8 @@ assurance that the protection function works. No such wording appears in
 CS-E 50(e) at Amendment 8, which instead requires "a means for testing the system
 to establish the availability of the protection function". Confirm the AMC is
 being read against the current CS-E 50(e) text.]
+
+### 30-Second OEI automatic control
 
 This note binds. The applicant declares a 30-Second OEI Power rating, so
 [[CS-E 50|CS-E 50(j)]] applies and this is its accepted means.
@@ -245,6 +201,8 @@ particular attention to take-off with a cold-soaked engine.
 [[AMC E 40|AMC E 40(b)(3)(4)]] records that certification assumes up to three uses of the
 rating in one flight, and that mandatory maintenance follows any use.
 
+### Security
+
 The engine uses a full-authority EECS with aircraft-supplied data and electrical
 power, so the aircraft-to-engine interfaces named here are real attack surfaces
 rather than a theoretical case.
@@ -259,7 +217,7 @@ held in `source/`. Obtain it before settling the security compliance method.]
 
 ## Not applicable
 
-- **AMC E 50(2)**, **AMC E 50(5)** propeller clauses — AMC 20-1 and AMC 20-3 are cited for interfaces with the aircraft "and the Propeller when applicable"; a turboshaft has no propeller interface.
+- **AMC E 50(2)** — the propeller clause. AMC 20-1 and AMC 20-3 are cited for interfaces with the aircraft "and the Propeller when applicable"; a turboshaft has no propeller interface. The same two AMCs are cited again at AMC E 50(5), there without any propeller wording, and that citation is kept.
 
 ## References
 

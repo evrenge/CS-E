@@ -5,7 +5,6 @@ subpart: E
 pages: 133-133
 changed_in: []
 tags: [inclination, gyroscopic, flight-test, rig-test]
-covers: ["AMC E 680"]
 ---
 # AMC E 680 — Inclination and Gyroscopic Load Effects
 

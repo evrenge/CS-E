@@ -5,7 +5,6 @@ subpart: A
 pages: 53-59
 changed_in: [Amdt8]
 tags: [fire, fireproof, fire-resistant, titanium, magnesium, abradable, firewall, iso-2685, tank-test]
-covers: ["AMC E 130"]
 ---
 # AMC E 130 — Fire Protection
 

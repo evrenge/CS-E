@@ -5,7 +5,6 @@ subpart: E
 pages: 134-134
 changed_in: [Amdt8]
 tags: [bleed, oei, endurance, secondary-air, strip-examination]
-covers: ["AMC E 690"]
 ---
 # AMC E 690 — Engine bleed
 

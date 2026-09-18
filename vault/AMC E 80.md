@@ -5,7 +5,6 @@ subpart: A
 pages: 44-50
 changed_in: []
 tags: [equipment, environmental-qualification, do-160, high-energy-rotor, containment, weak-link]
-covers: ["AMC E 80"]
 ---
 # AMC E 80 — Equipment
 

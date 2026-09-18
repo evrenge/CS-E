@@ -5,7 +5,6 @@ subpart: D
 pages: 109-109
 changed_in: []
 tags: [continued-rotation, windmilling, clutch-drag, rotorcraft, oil-loss, unbalance]
-covers: ["AMC E 525"]
 ---
 # AMC E 525 — Continued rotation
 

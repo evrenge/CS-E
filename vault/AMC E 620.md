@@ -5,7 +5,6 @@ subpart: E
 pages: 116-117
 changed_in: []
 tags: [performance-correction, formulae, notation, isa]
-covers: ["AMC E 620"]
 ---
 # AMC E 620 — Performance: Formulae
 

@@ -5,7 +5,6 @@ subpart: A
 pages: 59-60
 changed_in: []
 tags: [electrical-bonding, earth, continuity, inspection]
-covers: ["AMC E 135"]
 ---
 # AMC E 135 — Electrical Bonding
 

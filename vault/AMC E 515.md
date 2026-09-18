@@ -5,7 +5,6 @@ subpart: D
 pages: 91-106
 changed_in: [Amdt7]
 tags: [critical-parts, approved-life, damage-tolerance, lcf, probabilistic, deterministic, oei, als]
-covers: ["AMC E 515"]
 ---
 # AMC E 515 — Engine Critical Parts
 

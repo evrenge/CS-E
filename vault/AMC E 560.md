@@ -5,7 +5,6 @@ subpart: D
 pages: 111-112
 changed_in: []
 tags: [fuel-system, additives, contamination, transient-fuel-icing, filter, assembly-error]
-covers: ["AMC E 560"]
 ---
 # AMC E 560 — Fuel System
 

@@ -5,7 +5,6 @@ subpart: A
 pages: 60-61
 changed_in: []
 tags: [tests, accessory-drives, power-turbine, endurance]
-covers: ["AMC E 140"]
 ---
 # AMC E 140 — Test - Engine configuration
 

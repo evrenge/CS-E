@@ -5,7 +5,6 @@ subpart: E
 pages: 226-229
 changed_in: [Amdt7]
 tags: [blade-failure, containment, out-of-balance, debris, shutdown, extremely-remote]
-covers: ["AMC E 810"]
 ---
 # AMC E 810 — Compressor and Turbine Blade Failure
 

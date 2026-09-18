@@ -5,7 +5,6 @@ subpart: E
 pages: 219-226
 changed_in: []
 tags: [bird-strike, ingestion, critical-impact-parameter, test-facility, load-device, impact]
-covers: ["AMC E 800"]
 ---
 # AMC E 800 — Bird Strike and Ingestion
 

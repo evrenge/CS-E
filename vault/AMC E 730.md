@@ -5,7 +5,6 @@ subpart: E
 pages: 137-137
 changed_in: []
 tags: [calibration, parameters, speed-range, oei, endurance]
-covers: ["AMC E 730"]
 ---
 # AMC E 730 — Calibration Tests
 

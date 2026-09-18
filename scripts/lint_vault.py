@@ -203,6 +203,12 @@ def main() -> int:
             say(f"changed_in {got} but the index says {meta['changed_in']}")
         if len(meta["ids"]) > 1 and "covers" not in fm:
             say(f"merged note must list covers: {meta['ids']}")
+        # covers: earns its place only when it says something the note name does
+        # not -- a merge, or a note named differently from its single source
+        # banner (AMC E 830 <- AMC E 830(c)). Thirty-three notes carried
+        # covers: ["<their own name>"], which is pure noise.
+        if "covers" in fm and len(meta["ids"]) == 1 and meta["ids"][0] == name:
+            say("covers: repeats the note's own name — omit it")
 
         # --- sections
         for section in REQUIRED:

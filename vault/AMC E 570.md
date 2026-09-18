@@ -5,7 +5,6 @@ subpart: D
 pages: 114-114
 changed_in: []
 tags: [oil-system, filter, strainer, expansion-space, chip-detector, hazardous-quantity]
-covers: ["AMC E 570"]
 ---
 # AMC E 570 — Oil system
 

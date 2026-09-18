@@ -5,7 +5,6 @@ subpart: E
 pages: 118-119
 changed_in: []
 tags: [pressure-loads, definitions, working-pressure, oei, zoning, analytical-model]
-covers: ["AMC E 640"]
 ---
 # AMC E 640 — Pressure Loads
 

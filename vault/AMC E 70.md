@@ -5,7 +5,6 @@ subpart: A
 pages: 41-43
 changed_in: []
 tags: [materials, castings, forgings, welds, ndt, residual-stress, quality]
-covers: ["AMC E 70"]
 ---
 # AMC E 70 — Castings, Forgings, Welded Structures and Welded Components
 

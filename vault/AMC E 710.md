@@ -5,7 +5,6 @@ subpart: E
 pages: 136-136
 changed_in: []
 tags: [rotor-locking, continued-rotation, failure-modes, restart, deterioration]
-covers: ["AMC E 710"]
 ---
 # AMC E 710 — Rotor locking tests
 

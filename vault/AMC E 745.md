@@ -5,7 +5,6 @@ subpart: E
 pages: 175-175
 changed_in: []
 tags: [acceleration, minimum-test-bed-idle, over-temperature, surge, bleed]
-covers: ["AMC E 745"]
 ---
 # AMC E 745 — Engine Acceleration
 

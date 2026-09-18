@@ -5,7 +5,6 @@ subpart: E
 pages: 232-235
 changed_in: []
 tags: [rotor-integrity, burst, growth, sample-rotor, blade-shedding, loss-of-load, similarity]
-covers: ["AMC E 840"]
 ---
 # AMC E 840 — Rotor Integrity
 

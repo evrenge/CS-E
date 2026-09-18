@@ -5,7 +5,6 @@ subpart: E
 pages: 210-212
 changed_in: []
 tags: [rain, hail, concentrations, rwc, hwc, droplet-size, hailstone-size, altitude]
-covers: ["Appendix A"]
 ---
 # Appendix A — Certification Standard Atmospheric Concentrations of Rain and Hail
 

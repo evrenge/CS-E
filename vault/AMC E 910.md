@@ -5,7 +5,6 @@ subpart: E
 pages: 244-244
 changed_in: []
 tags: [relight, in-flight-restart, rotor-lock, rapid-relight, flight-test]
-covers: ["AMC E 910"]
 ---
 # AMC E 910 — Relighting In Flight
 

@@ -5,7 +5,6 @@ subpart: E
 pages: 120-130
 changed_in: [Amdt7, Amdt8]
 tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, corrected-speed, hcf]
-covers: ["AMC E 650"]
 ---
 # AMC E 650 — Vibration Surveys
 
@@ -152,7 +151,7 @@ combined amplitudes within this range should be considered"
 | **(14)(b)(ii)** | Justify the similarity of the engine, module or components to be certified with previously tested and certified designs, and show that the design characteristics and operating conditions fall within the established domain of applicability. | Accepted method |
 | **(14)(b)(ii)** | The demonstration of compliance will be considered to be the combination of the baseline tests used to create the validated analysis and the analysis performed on the engine for which approval is sought. | Statement |
 | **(14)(b)(iii)** | Where the validated analysis is updated, for instance following new testing or service experience, have the updated analysis or its domain of applicability reviewed and accepted by the Agency. | Accepted method |
-| **(15)** | Pre-certification development activities generating engineering data essential to supporting the certification test should be exempt from formal Agency approval of test plans and reports. | Relief |
+| **(15)** | Pre-certification development activities generating engineering data essential to supporting the certification test should be exempt from formal Agency approval of test plans and reports. | Accepted method |
 | **(15)** | Limit inspection of type design hardware in accordance with point 21.A.33 of Part 21 to only those pertinent engine components and associated instrumentation that constitute the certification engine test or the baseline tests supporting the validated analysis. | Accepted method |
 
 The domain of applicability in (14)(b)(i) is defined by a long list of design

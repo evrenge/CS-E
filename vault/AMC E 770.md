@@ -5,7 +5,6 @@ subpart: E
 pages: 176-176
 changed_in: []
 tags: [low-temperature, starting, intake-air, oil-temperature, taxying]
-covers: ["AMC E 770"]
 ---
 # AMC E 770 — Low Temperature Starting Tests
 

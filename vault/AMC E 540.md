@@ -5,7 +5,6 @@ subpart: D
 pages: 109-110
 changed_in: []
 tags: [foreign-matter, bird-strike, ingestion, struts, 200-knots]
-covers: ["AMC E 540"]
 ---
 # AMC E 540 — Strike and ingestion of foreign matter
 

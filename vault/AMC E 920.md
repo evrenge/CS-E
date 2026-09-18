@@ -5,7 +5,6 @@ subpart: E
 pages: 245-245
 changed_in: [Amdt8]
 tags: [over-temperature, oei, datum-temperature, transient-speed, turbine-integrity, amdt8]
-covers: ["AMC E 920"]
 ---
 # AMC E 920 — Over-temperature test
 

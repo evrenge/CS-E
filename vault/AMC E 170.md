@@ -5,7 +5,6 @@ subpart: A
 pages: 62-63
 changed_in: []
 tags: [tests, systems, eecs, hirf, lightning, bonding, installation-limitation, degraded-dispatch]
-covers: ["AMC E 170"]
 ---
 # AMC E 170 — Engine systems and component verification
 

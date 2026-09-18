@@ -5,7 +5,6 @@ subpart: E
 pages: 236-239
 changed_in: []
 tags: [shaft, shaft-failure, over-speed, fatigue, design-assessment, service-experience]
-covers: ["AMC E 850"]
 ---
 # AMC E 850 — Compressor, Fan and Turbine Shafts
 

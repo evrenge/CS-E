@@ -5,7 +5,6 @@ subpart: E
 pages: 245-251
 changed_in: [Amdt8]
 tags: [maintenance, imp, ica, overhaul, test-cycle, teardown, oei, amdt8, new]
-covers: ["AMC E 930"]
 ---
 # AMC E 930 — Initial Maintenance Programme Test
 

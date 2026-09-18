@@ -5,7 +5,6 @@ subpart: D
 pages: 83-91
 changed_in: [Amdt7]
 tags: [safety-analysis, fmea, fault-tree, hazardous-engine-effect, debris, toxic-products, maintenance-error]
-covers: ["AMC E 510"]
 ---
 # AMC E 510 — Safety analysis
 
