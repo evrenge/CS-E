@@ -30,7 +30,8 @@ covers: ["AMC E 20", "AMC E 20(f)"]
 | **(4)** | Give the aircraft manufacturer the assumptions made during engine certification that must be taken into account when designing the installation. Where appropriate, coordinate with the aircraft manufacturer so that engine design considerations imposed by the assumed installation certification specifications are taken into account. | Accepted method |
 | **(4)** | For example, make all necessary provision in the engine for the fitment and operation of at least the mandatory items of equipment prescribed by the use of the word 'should' in the assumed applicable aircraft specifications. | Accepted method |
 | **(5)** | The instructions for installation should include, or reference, installation interface descriptions, limitations and specifications for the Engine Control System. | Accepted method |
-| **(6)** | System integration may produce an EECS with other control functions integrated, or one that depends on aircraft resources. The applicant is responsible for specifying the EECS requirements for those aircraft-supplied resources in the instructions for installation, and for substantiating their adequacy. | Accepted method |
+| **(6)** | The trend toward system integration may lead to an EECS that has other control functions integrated within it, or that depends on aircraft resources. Examples of such aircraft-supplied resources include recording of rotorcraft one-engine-inoperative data, and aircraft central computers performing some or all of the engine control functions. | Statement |
+| **(6)** | The applicant is responsible for specifying the EECS requirements for those aircraft-supplied resources in the instructions for installation, and for substantiating their adequacy. | Required |
 | **(7)** | The instructions for installation should describe all operational modes of the Engine Control System and its functional interface with the aircraft systems, including Back-up or Alternate Modes, whether dispatchable or not. | Accepted method |
 
 Point (5) gives two worked examples: EECS power specifications and quality,
@@ -88,9 +89,13 @@ with a cold-soaked engine.
 
 Point (6) is the one that binds hardest in the general AMC. It names "recording
 of rotorcraft One Engine Inoperative data" as an example of an aircraft-supplied
-resource on which an EECS may depend. The engine declares 30-Second and 2-Minute
-OEI ratings, whose usage recording is required by [[CS-E 60|CS-E 60(d)]], so that
-dependency is real and its adequacy must be substantiated.
+resource on which an EECS may depend.
+
+[VERIFY: whether this engine's EECS in fact depends on an aircraft-supplied
+resource for OEI usage recording. [[CS-E 60|CS-E 60(d)(2)]] requires "means or
+provision for means" to record each usage, and provision-for-means does not by
+itself create a dependency on the aircraft. If the dependency exists, AMC E 20(6)
+makes its specification and substantiation the applicant's responsibility.]
 
 All of AMC E 20(f) binds: the applicant declares 30-Second OEI, 2-Minute OEI and
 Continuous OEI, and (f)(1) applies to an engine having one or more OEI ratings.
@@ -123,7 +128,7 @@ AMC E 20 is unchanged at Amendments 7 and 8.
 AMC E 20(f) was amended at Amendment 8, under the change information document's
 "Editorial corrections" heading. Two kinds of edit:
 
-- the title was recapitalised, initial letters only: Power Assurance Data for Engines with One or more OEI Power Ratings;
+- in the title, "OEI power ratings" was recapitalised to "OEI Power Ratings". The rest of the banner, "Power Assurance Data for Engines with One or More OEI", is unchanged;
 - in point (5), the cross-reference "CS-E 50(**f**)" was corrected to "CS-E 50(**j**)". CS-E 50(j) is the paragraph requiring automatic availability of 30-Second OEI Power, so the earlier reference pointed at the wrong sub-point.
 
 No change to the substance of the data required.

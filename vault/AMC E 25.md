@@ -121,6 +121,7 @@ second route needs justification and validation.
 ## Not applicable
 
 - **(6)** — substantiation of time between overhauls (TBO) or time between replacements (TBR) for piston engines, including the CS-E 440 endurance test route and the additional cyclic durability test. This is the material added at Amendment 8 and it applies only to piston engines.
+- **(4)(a)**, in part — the worked example comparing the engine to one holding a 2½-Minute OEI rating, and carrying that rating's maintenance considerations across. 2½-Minute OEI is not claimed.
 
 ## References
 

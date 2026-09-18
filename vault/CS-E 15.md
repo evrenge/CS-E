@@ -37,9 +37,10 @@ inside a CS-E sentence is a defined term, and its definition governs.
 
 CS-E 15(b) attaches each range with a lead-in of the same effect, though the
 source does not word it identically every time: "Where numerical values are used
-this may normally be interpreted as" for three of the terms, and "When numerical
-values are used, this may normally be interpreted as" for Remote. Either way the
-ranges are an interpretation, not a threshold fixed by this paragraph.
+this may normally be interpreted as" for two of the three terms, and "When
+numerical values are used, this may normally be interpreted as" for Remote.
+Either way the ranges are an interpretation, not a threshold fixed by this
+paragraph.
 
 ### Severity terms [CS-E 15(c)]
 

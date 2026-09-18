@@ -67,7 +67,10 @@ Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 100]] · [[CS-E 130
 
 ## Amendment history
 
-Amended at Amendment 7. The amendment added an oil consumption row to Table 1:
+Amended at Amendment 7. The amendment inserted an oil consumption assumption
+into Table 1's existing Oil system row, which already read "Oil(s) approved for
+use. CS-E 570", and recased that row's heading from "Oil System" to
+"Oil system". The inserted text is:
 "Engine maximum allowable oil consumption, to enable the installer to show
 compliance with the aircraft certification specifications on oil systems", with
 the note "when separate oil systems exist, the respective maximum allowable oil
