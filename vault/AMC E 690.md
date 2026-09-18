@@ -71,6 +71,10 @@ in [[CS-E 690|CS-E 690(a)(3)(ii)]]. The secondary air system it names is the sam
 one that [[CS-E 580]] protects from foreign matter ingress and that
 [[CS-E 60|CS-E 60(e)]] requires turbine cooling instrumentation for.
 
+## References
+
+Specification: [[CS-E 690]]
+Related: [[CS-E 740]] · [[CS-E 730]] · [[CS-E 580]] · [[CS-E 60]] · [[CS-E 650]] · [[CS-E 510]] · [[AMC E 650]] · [[AMC E 740]]
 ## Amendment history
 
 Amended at Amendment 8. The substantive change is a cross-reference correction;
@@ -90,8 +94,3 @@ with a semicolon, added "'s" to "the Engine secondary air system", and removed a
 comma from "(e.g., gas generator speed)". None of these alters the obligation.
 
 The paragraph carries `[Amdt. No.: E/1]` and `[Amdt No: E/8]`.
-
-## References
-
-Specification: [[CS-E 690]]
-Related: [[CS-E 740]] · [[CS-E 730]] · [[CS-E 580]] · [[CS-E 60]] · [[CS-E 650]] · [[CS-E 510]] · [[AMC E 650]] · [[AMC E 740]]

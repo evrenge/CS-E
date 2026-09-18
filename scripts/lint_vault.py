@@ -41,6 +41,10 @@ REDLINE = ROOT / "work" / "redline.json"
 
 REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
             "## References"]
+# The template's tail, in order. A note carries any subset of these, but never
+# out of this sequence.
+TAIL_ORDER = ["## Requirement", "## Compliance", "## Application to this engine",
+              "## Not applicable", "## References", "## Amendment history"]
 STRENGTHS = {"Required", "Required if claimed", "Recommended",
              "Accepted method", "Permitted", "Relief", "Statement"}
 
@@ -208,6 +212,14 @@ def main() -> int:
             block = text.split("## Not applicable", 1)[1].split("\n## ", 1)[0]
             if not [ln for ln in block.splitlines() if ln.strip().startswith("-")]:
                 say("'Not applicable' present but empty — omit it instead")
+
+        # The template fixes the order of the tail sections, and drift here is
+        # invisible one note at a time: eleven notes had put Amendment history
+        # before References before this check existed.
+        order = [ln.strip() for ln in text.splitlines() if ln.startswith("## ")]
+        tail = [s for s in TAIL_ORDER if s in order]
+        if [s for s in order if s in TAIL_ORDER] != tail:
+            say(f"sections out of template order: expected {' then '.join(tail)}")
 
         # --- exactly one summary callout
         n = len(SUMMARY.findall(text))

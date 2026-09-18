@@ -168,6 +168,10 @@ simultaneously at sea-level test bed conditions for this engine. If not,
 CS-E 740(f)(1) requires supplementary endurance testing to an agreed schedule to
 substantiate the higher speed limitations, and AMC E 740(f)(1) sets the basis.]
 
+## References
+
+Specification: [[CS-E 740]]
+Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 150]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 690]] · [[CS-E 730]] · [[AMC E 650]] · [[AMC E 690]] · [[AMC E 730]]
 ## Amendment history
 
 All five AMC paragraphs, and their parent, were amended at Amendment 8. Every
@@ -200,8 +204,3 @@ AMC E 740(f)(1) and AMC E 740(g)(1) are unchanged. AMC E 740(c)(2)(i) carries
 `[Amdt. No.: E/1]` and `[Amdt No: E/8]`; AMC E 740(f)(1) carries
 `[Amdt. No.: E/1]`; AMC E 740(g)(1) carries `[Amdt No: E/1]` and
 `[Amdt No: E/4]`.
-
-## References
-
-Specification: [[CS-E 740]]
-Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 150]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 690]] · [[CS-E 730]] · [[AMC E 650]] · [[AMC E 690]] · [[AMC E 730]]

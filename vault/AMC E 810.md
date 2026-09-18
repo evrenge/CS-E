@@ -140,6 +140,10 @@ blade shedding relied on for over-speed protection to have a margin above it.
 
 - **(2)(b)(i)(A)**, including its conditions **(1)**, **(2)** and **(3)** and the accompanying note — the composite fan blade release option at the inner annulus flow path line, with the twice-maximum-load centrifugal substantiation, the start-stop stress cycle limitation and its 100 000 cycle threshold for the Airworthiness Limitation Section, and the definition of the fan blade retention system. A turboshaft has no fan, and the corresponding specification at CS-E 810(c) is recorded as not applicable in [[CS-E 810]].
 
+## References
+
+Specification: [[CS-E 810]]
+Related: [[CS-E 510]] · [[CS-E 520]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 830]] · [[CS-E 840]] · [[CS-E 850]] · [[CS-E 60]] · [[CS-E 20]] · [[AMC E 510]] · [[AMC E 520]]
 ## Amendment history
 
 Amended at Amendment 7, alongside [[CS-E 810]] itself. The AMC gained two new
@@ -173,8 +177,3 @@ explicitly radial, and what escapes radially is handled by a probability
 assessment instead of an absolute bar.
 
 The paragraph carries `[Amdt No: E/1]`, `[Amdt No: E/5]` and `[Amdt No: E/7]`.
-
-## References
-
-Specification: [[CS-E 810]]
-Related: [[CS-E 510]] · [[CS-E 520]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 830]] · [[CS-E 840]] · [[CS-E 850]] · [[CS-E 60]] · [[CS-E 20]] · [[AMC E 510]] · [[AMC E 520]]
