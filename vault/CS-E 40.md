@@ -2,6 +2,7 @@
 id: "CS-E 40"
 type: CS
 subpart: A
+chapter: B
 pages: 29-30
 changed_in: [Amdt7]
 tags: [ratings, oei, limitations, tcds]

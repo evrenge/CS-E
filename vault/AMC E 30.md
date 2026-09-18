@@ -2,6 +2,7 @@
 id: "AMC E 30"
 type: AMC
 subpart: A
+chapter: A
 pages: 27-29
 changed_in: [Amdt7]
 tags: [assumptions, installation, interfaces, oil-consumption]

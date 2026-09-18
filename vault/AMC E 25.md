@@ -2,6 +2,7 @@
 id: "AMC E 25"
 type: AMC
 subpart: A
+chapter: A
 pages: 22-27
 changed_in: [Amdt8]
 tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]

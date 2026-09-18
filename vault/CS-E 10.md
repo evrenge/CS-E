@@ -2,6 +2,7 @@
 id: "CS-E 10"
 type: CS
 subpart: A
+chapter: A
 pages: 15-15
 changed_in: [Amdt7]
 tags: [applicability, scope, structure]

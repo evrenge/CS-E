@@ -32,6 +32,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from classification import CLASSIFICATION  # noqa: E402
+from chapters import check as check_chapters  # noqa: E402
+from chapters import chapter_of  # noqa: E402
 from vault_map import expected_notes, note_name  # noqa: E402
 
 VAULT = ROOT / "vault"
@@ -101,6 +103,8 @@ def main() -> int:
     problems: list[str] = []
     seen: set[str] = set()
 
+    problems += [f"chapters.py: {p}" for p in check_chapters(expected)]
+
     for note in sorted(VAULT.glob("*.md")):
         name = note.stem
         text = note.read_text(encoding="utf-8")
@@ -122,9 +126,14 @@ def main() -> int:
                 m = FM_FIELD.match(line)
                 if m:
                     fm[m.group(1)] = m.group(2).strip()
-        for field in ("id", "type", "subpart", "pages", "changed_in", "tags"):
+        for field in ("id", "type", "subpart", "chapter", "pages",
+                      "changed_in", "tags"):
             if field not in fm:
                 say(f"frontmatter missing field {field!r}")
+        want_chapter = chapter_of(name)
+        if fm.get("chapter") != want_chapter:
+            say(f"chapter {fm.get('chapter')!r} but chapters.py says "
+                f"{want_chapter!r}")
         want_pages = f"{meta['start']}-{meta['end']}"
         if fm.get("pages") != want_pages:
             say(f"pages {fm.get('pages')!r} but the index says {want_pages!r}")

@@ -77,6 +77,7 @@ Filename is the paragraph id: `CS-E 740.md`, `AMC E 740(c)(3).md`.
 id: "CS-E 740"
 type: CS                     # CS | AMC
 subpart: E
+chapter: I                  # from scripts/chapters.py — never chosen by hand
 pages: 138-149
 changed_in: [Amdt8]          # [] when unchanged
 tags: [endurance, oei, test]
@@ -126,6 +127,20 @@ Related: [[CS-E 730]] · [[CS-E 50]]
 What Amendment 7 or 8 changed in this paragraph and whether it alters obligation.
 Omit when `changed_in` is empty.
 ```
+
+### Chapters
+The 113 notes are grouped into thirteen chapters, `A` to `M`, declared in
+`scripts/chapters.py`. A chapter is a work unit and a reading unit: it never
+crosses a subpart, it never separates a CS paragraph from the AMC note that
+gives its accepted means, and it is sized by source words rather than by note
+count, so CS-E 740 stands alone as chapter I while fourteen short paragraphs
+share chapter H.
+
+Every note carries its chapter letter in `chapter:`. The value comes from
+`chapters.py` and is never chosen by hand; `lint_vault.py` fails on a note whose
+`chapter:` disagrees, on a note in no chapter, and on a chapter that names a note
+the vault map does not expect. Run `.venv/bin/python scripts/chapters.py` to
+print the current table.
 
 ### One AMC note per CS-E number
 EASA splits its AMC material unevenly: AMC E 40, AMC E 40(b)(3) and AMC E 40(d)
@@ -239,6 +254,7 @@ Where to look instead of trusting a number written here:
 | Does a paragraph apply to a turboshaft, and why | `work/applicability.md` |
 | Page counts, checksums, provenance | `source/SOURCES.md`, `source/CHECKSUMS.sha256` |
 | Declared ratings and systems | `engine_profile.md` |
+| Which chapter a note belongs to, and chapter sizes | `scripts/chapters.py` |
 
 ## Regenerating
 
@@ -250,6 +266,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/build_applicability.py  # verdicts -> work/applicability.md
 .venv/bin/python scripts/extract_redline.py      # before/after -> work/redline.json
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
+.venv/bin/python scripts/chapters.py             # chapter table -> stdout
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/verify_sources.py       # source integrity
 ```
