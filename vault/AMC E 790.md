@@ -183,6 +183,7 @@ specification instead, and the analysis is not the compliance path.
 | **(a)(2)(5)(c)(iv)(F)** | Where test conditions or facility limitations prevent that transient testing, the applicant may propose alternative test criteria, provided they validate that the engine has sufficient operability margins to account for likely flight operations such as missed approaches and likely throttle movements during descent. | Permitted |
 | **(a)(2)(5)(c)(iv)(G)** | Conduct the thermal shock critical point test by delivering rain for 3 minutes at the critical power condition, following a normal stabilisation period without water ingestion. The maximum rain ingestion rate should occur within 10 seconds. | Accepted method |
 | **(a)(2)(5)(c)(v)** | Demonstrate by test or analysis that the engine tested under (5)(c)(iv) would have operated acceptably if exposed to other probable factors associated with a rain or hail encounter. | Accepted method |
+| **(a)(2)(5)(c)(v)** | Those other probable factors would include, but are not limited to, typical engine performance losses and installation effects. | Statement |
 
 **The 10-second figure is what defines a sudden encounter.**
 [AMC E 790(3)] routes both "sudden encounter" in [[CS-E 790|CS-E 790(a)(2)]] and
@@ -276,6 +277,7 @@ transients in for exactly that reason.
 
 - **(a)(2)(2)(c)(ii)(A)** — the relative velocity centrifuging discussion for turbofan and turbojet aeroplane engines, and its rain and hail velocity vector treatment through the fan.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
+- **(a)(2)(5)(c)(v)**, in part — typical autothrottle power excursions, the third of the three probable factors. An autothrottle is aeroplane equipment.
 - **(a)(2)(3)(b)(i)**, **(a)(2)(3)(b)(iii)** — the fan blade and propeller design feature, and the bypass splitter, which exists only on a turbofan. The other five design features, (ii) and (iv) to (vii), are carried in full.
 - Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
