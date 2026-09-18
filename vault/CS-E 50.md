@@ -132,6 +132,7 @@ method.]
 
 - **(a)(2)**, in part — the reference to CS-E 390, a Subpart C piston engine paragraph, alongside CS-E 500. Subpart C is outside this vault by scope.
 - **(d)**, in part — the reference to CS-E 210, a Subpart B piston engine paragraph. Subpart B is outside this vault by scope. The CS-E 110(e) reference in the same sub-point is in scope and is carried.
+- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

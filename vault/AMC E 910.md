@@ -93,6 +93,7 @@ set is agreed with the Agency is an open item.]
 ## Not applicable
 
 - **(1)** — the aeroplane origin of AMC 25.903(e)(2) itself. The reference is kept because AMC E 910(1) names it as the source of the demonstration objectives; the CS-25 requirement it serves is not a CS-E obligation and is not reproduced.
+- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

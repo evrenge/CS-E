@@ -56,6 +56,9 @@ EECS:
 
 - Table 1 rows keyed to CS-E 180 Propeller Functioning Tests — propeller system and propeller vibration levels. CS-E 180 is excluded for a turboshaft.
 - Table 1 rows for the Propeller in the Engine Control System interface conditions.
+- **Table 1, the PISTON ENGINES block in full** — four rows keyed to CS-E 230, CS-E 260, CS-E 340 and CS-E 430. Subparts B and C are outside this vault by scope.
+- **Table 1**, in part — the thrust reverser element of the CS-E 650 row's assumption. Thrust reversers are excluded from this vault by scope; the intake and exhaust conditions in the same row are carried.
+- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

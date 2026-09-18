@@ -58,6 +58,7 @@ The declared combination of 30-Second, 2-Minute and Continuous OEI selects the e
 
 - **(b)(1)**, **(h)** — piston engine rating definitions.
 - **(b)(2)** — OEI ratings for multi-engined aeroplanes; (b)(3) governs rotorcraft.
+- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 

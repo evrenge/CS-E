@@ -166,6 +166,10 @@ ratings rather than the OEI ones.
 - **(2)(e)**, in part — propeller autofeather, named as a dynamic interaction of interest. A turboshaft driving a rotorcraft transmission has no propeller.
 - **(3)(a)**, **(3)(c)**, in part — the fan cases: a nose cone or spinner on the fan, ducted, unducted and aft fan designs, and blades on two different rotors for aft fan designs. The compressor rotor cases in the same sentences apply.
 - **(4)(a)**, in part — the propeller autofeather system, named as an example of a system not part of the engine that should be disabled.
+- **(2)(a)**, in part — three paragraphs of turbofan-specific critical impact parameter discussion: slice mass and the shift from leading-edge to blade-root stress, part-span-shroud shingling, and unshrouded wide-chord blade twist. The turbofan and turboprop critical impact parameter sentence before them is kept, because it defines the parameter itself.
+- **(2)(c)**, in part — the ± 3 % power band allowance for a sustained high vibratory condition after the first 2 minutes of the CS-E 800(d) test. That test is relieved for this engine by CS-E 800(g)(7).
+- **(2)(d)**, in part — the turboprop and propeller cases among the dynamic interactions, including the coupled propeller case.
+- **(4)(b)**, in part — the reference to CS-E 800(d)(1)(i) alongside CS-E 800(b)(1)(i). CS-E 800(d) is relieved for this engine.
 
 ## References
 

@@ -268,6 +268,7 @@ transients in for exactly that reason.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
 - **(a)(2)(3)(b)(i)**, **(a)(2)(3)(b)(ii)**, **(a)(2)(3)(b)(iii)** — the fan blade and propeller design feature, the spinner or nose cone, and the bypass splitter. The four remaining design features, (iv) to (vii), are carried in full.
 - **(1)**, **(5)**, in part — the references to CS-E 790(c). That paragraph is out of scope for this engine, so the accepted means serving it are not carried.
+- Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
 
