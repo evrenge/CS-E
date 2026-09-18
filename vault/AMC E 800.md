@@ -106,9 +106,10 @@ average one, and it is why [[CS-E 800|CS-E 800(b)(1)(i)]] requires the hottest-d
 account.
 
 Sub-point (4)(f) is the condition set on a waiver this engine may want.
-[[CS-E 800|CS-E 800(g)(2)]] allows the single large bird test to be waived where
-it is shown that the specified bird cannot enter the engine, and the blade
-Failure test of [[CS-E 810]] may be proposed instead. Where that route is taken,
+[[CS-E 800|CS-E 800(g)(2)]] allows the single large bird test of CS-E 800(b)(1)
+to be waived "if it can be shown by test or analysis that the specifications of
+CS-E 810(a) are more severe" [CS-E 800(g)(2)], so the blade Failure test of
+[[CS-E 810]] stands in its place. Where that route is taken,
 (4)(f) requires the demonstration to cover unbalance and the axial loading of the
 bird strike on bearings or other structures — two effects the CS-E 810 test does
 not otherwise produce.

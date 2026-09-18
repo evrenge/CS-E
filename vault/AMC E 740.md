@@ -52,7 +52,6 @@ that then becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
 | **(c)(3)(3)** | In the event of a stop during the four test sequences of CS-E 740(c)(3)(iii), the interrupted sequence needs to be repeated in full. | Required |
 | **(c)(3)(3)** | It can be re-started from the interrupt point if there is a technical justification acceptable to the Agency. | Permitted |
 | **(c)(3)(3)** | Where it is determined that the sequence need not be repeated in its entirety, the test should be restarted from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
-| **(c)(3)(3)** | If it is determined that the sequence need not be repeated in its entirety, re-start the test from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
 
 The two procedures in (1) differ in what they preserve. Procedure (a) gives a
 clean strip baseline before the OEI sequence but constrains the rebuild to the
@@ -184,8 +183,9 @@ Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]]
 
 ## Amendment history
 
-All five AMC paragraphs carried here, and their parent, were amended at
-Amendment 8. Every
+Three of the five AMC paragraphs carried here were amended at Amendment 8 —
+(c)(2)(i), (c)(3) and (i)(2) — together with their parent CS-E 740. AMC E 740(f)(1)
+and AMC E 740(g)(1) are unchanged. Every
 change to these AMC paragraphs is a cross-reference correction following the
 re-lettering of CS-E 740, except one that corrects a citation into CS-E 50 and
 one spelling change.

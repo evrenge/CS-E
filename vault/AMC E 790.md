@@ -82,6 +82,7 @@ The closing sentence forestalls a misreading that would otherwise be natural: th
 | **(a)(2)(2)(f)** | Case contraction: as rain or hail is ingested into any turbine engine, the compressor case temperature may fall faster than that of the rotor, reducing blade tip clearances and possibly causing blade tip rubs. | Statement |
 | **(a)(2)(3)(a)** | The response of a turbine engine to a rain or hail encounter depends on a number of design and operational factors. The manufacturer can greatly improve operability by incorporating certain design features, though there may be a trade-off: a spinner designed to maximise hail rebound and rain droplet centrifuging may also be more susceptible to large ice accretions. | Statement |
 | **(a)(2)(3)(b)** | With knowledge of the power-loss and instability phenomena, the applicant can incorporate design features that increase the engine's tolerance to rain and hail ingestion. | Statement |
+| **(a)(2)(3)(b)(ii)** | A spinner or nose cone can effectively deflect rain and hail away from the engine core. Designing it to maximise hail deflection requires knowledge of the post-impact trajectory characteristics of hail particles. | Statement |
 | **(a)(2)(3)(b)(iv)** | Engine air bleed ports provide a direct means of redirecting or extracting rain and hail away from the engine core, and of improving compressor surge and stall margins. Effectiveness depends on the radial distribution of water or hail particles, the location and entrance geometry of the bleed port, and the bleed control logic. For hail, the bleed port should be designed to minimise the likelihood of clogging and blockage. | Accepted method |
 | **(a)(2)(3)(b)(v)** | Engine and aircraft accessory loads tend to move the fuel control operating line closer to the acceleration schedule and should therefore be minimised, where possible, while in rain and hail conditions. | Accepted method |
 | **(a)(2)(3)(b)(vi)** | Fuel controls that schedule fuel using a rate change of compressor speed should provide consistent acceleration and deceleration response during rain or hail ingestion. | Accepted method |
@@ -121,6 +122,7 @@ concentration is what substitutes for the flight effects.
 |---|---|---|
 | **(a)(2)(4)(a)** | Compliance with CS-E 790(a)(2) is a two-step procedure: identify by analysis the critical operating points for rain and hail ingestion, then test the engine at selected critical points to validate its capability. | Statement |
 | **(a)(2)(4)(a)** | Develop a critical point analysis and submit it to the Agency for concurrence, prior to the rain and hail ingestion testing. | Accepted method |
+| **(a)(2)(4)(b)** | The analysis should encompass the full range of all pertinent variables. | Accepted method |
 | **(a)(2)(4)(b)(i)** | Use the rain and hail threats identified in Figure A1 and Tables A1 to A4 in Appendix A of CS-E, and consider the effects of nominal as well as extreme levels on all relevant engine components and systems. | Accepted method |
 | **(a)(2)(4)(b)(ii)** | Quantify the amount of rain and, separately, the amount of hail ingested into the engine core, including amplification and attenuation effects such as the scoop factor effect and the relative velocity effect. | Accepted method |
 | **(a)(2)(4)(b)(ii)** | Establish or conservatively assess rain droplet break-up characteristics, and the trajectories of hail particles after impacting nose cones, spinners, inlet surfaces, blades and vanes. | Accepted method |
@@ -156,14 +158,18 @@ specification instead, and the analysis is not the compliance path.
 | **(a)(2)(5)(c)(i)(F)** | Engine power extraction: show by analysis or test that sufficient margin exists for the extraction of the representative electrical or shaft power loads and service air bleeds. | Accepted method |
 | **(a)(2)(5)(c)(i)(G)** | Thermodynamic cycle differences: compensate for cycle differences between the test point and the critical point that affect operability, or show that those differences provide additional conservatism. | Accepted method |
 | **(a)(2)(5)(c)(i)(H)** | Enthalpy of water: rain and hail concentrations may be adjusted to ensure that the heat extraction resulting from their ingestion is the same as at the critical point. Where liquid water droplets are accepted for critical hail point testing, the water concentration should at least be increased to compensate for the heat of fusion of ice. | Permitted |
-| **(a)(2)(5)(c)(i)(I)** | Rain droplet break-up: account for the forces applied to accelerate the simulated rain droplets to flight speed, and the shear forces between the droplets and the air. | Accepted method |
+| **(a)(2)(5)(c)(i)(I)** | Rain droplet break-up: in the ground-level test environment, the forces applied to accelerate the simulated rain droplets to flight speed, and the shear forces between the droplets and the engine airflow, are apt to break up the droplets. That break-up can reduce conservatism through additional centrifuging. | Statement |
+| **(a)(2)(5)(c)(i)(I)** | The concentration of the rain may need to be increased to compensate for the added centrifuging resulting from ground-level testing. | Statement |
 
 #### Facility, instrumentation and procedure, (5)(c)(ii) to (v)
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(a)(2)(5)(c)(ii)** | The engine test facility should provide a uniform water droplet or hail spatial distribution. | Accepted method |
-| **(a)(2)(5)(c)(iii)** | Instrumentation and data sampling rates should be sufficient to establish the rain and hail concentrations and the engine response. | Accepted method |
+| **(a)(2)(5)(c)(ii)** | The engine test facility should provide a uniform water droplet or hail spatial distribution within the critical area of a plane within the engine intake, and that plane should be agreed to by the Agency. | Accepted method |
+| **(a)(2)(5)(c)(ii)** | The facility should also provide proper droplet or particle sizes and proper velocity distributions, unless otherwise justified in accordance with Appendix A to CS-E. | Accepted method |
+| **(a)(2)(5)(c)(iii)** | Instrumentation and data sampling rates should be sufficient to establish the rain and hail temperatures and concentrations, particle velocities and size distributions, and the engine response. | Accepted method |
+| **(a)(2)(5)(c)(iii)** | Primary exhaust water-to-air ratio measurements via gas sampling should be considered. | Accepted method |
+| **(a)(2)(5)(c)(iii)** | Instrumentation accuracy and repeatability should be demonstrated by suitable means. | Accepted method |
 | **(a)(2)(5)(c)(iv)** | The test procedure should consider the following for operability critical point tests and for the thermal shock, rain only, critical point test. | Accepted method |
 | **(a)(2)(5)(c)(iv)(A)** | Stabilise the engine at the critical point conditions. | Accepted method |
 | **(a)(2)(5)(c)(iv)(B)** | Take steady-state data readings before introducing rain or hail. | Accepted method |
@@ -198,6 +204,10 @@ even though the rest of (5) serves the CS-E 790(a)(2) test.
 | **(a)(2)(5)(c)(vi)(A)** | Limit the sustained power loss, as a result of a shift or error in measured power against the primary power set parameters following the ingestion test, to 3 percent. | Accepted method |
 | **(a)(2)(5)(c)(vi)(A)** | Measured post-ingestion power losses greater than 3 per cent at any value of the primary setting parameter can only be accepted when supported by appropriate assessments of aircraft performance. | Accepted method |
 | **(a)(2)(5)(c)(vi)(B)** | A change in the engine corrected power of up to 10 per cent from rated or pre-test levels, using the applicant's normal performance parameters and excluding the primary power setting parameter, is acceptable, provided the criterion for sustained power loss is met. | Permitted |
+| **(a)(2)(5)(c)(vi)** | Because the hail water content is adjusted for the higher air density at sea level, the pressure altitude density effect on HWC may produce ice accretion within the engine that would not occur in flight. The amount depends on the absolute HWC level rather than the water-to-air ratio within the engine. | Statement |
+| **(a)(2)(5)(c)(vi)** | If an issue with ice accretion is revealed during the testing required by (5)(c)(iv) with amplified HWC, the applicant may need to repeat the testing at the levels identified in Appendix A to CS-E, to evaluate the true ice accretion threat. | Permitted |
+| **(a)(2)(5)(c)(vi)** | Alternatively, the applicant may elect to run an initial test at those Appendix A levels, to demonstrate the engine's capability with respect to ice accretion before performing the operability test with a higher HWC. | Permitted |
+| **(a)(2)(5)(c)(vi)** | Irrespective of the effects of pressure altitude density, flight airspeed effects should still be applied to the engine test simulation. | Accepted method |
 | **(a)(2)(5)(d)** | Analysis may be used in lieu of, or in combination with, engine testing. | Permitted |
 | **(a)(2)(5)(d)** | The analytical methods should have a sufficient validation basis to justify the accuracy of the predictions, or be shown to yield conservative results, with validation proportional to the complexity of the methods and the criticality of the calculation. | Accepted method |
 
@@ -266,8 +276,7 @@ transients in for exactly that reason.
 
 - **(a)(2)(2)(c)(ii)(A)** — the relative velocity centrifuging discussion for turbofan and turbojet aeroplane engines, and its rain and hail velocity vector treatment through the fan.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
-- **(a)(2)(3)(b)(i)**, **(a)(2)(3)(b)(ii)**, **(a)(2)(3)(b)(iii)** — the fan blade and propeller design feature, the spinner or nose cone, and the bypass splitter. The four remaining design features, (iv) to (vii), are carried in full.
-- **(1)**, **(5)**, in part — the references to CS-E 790(c). That paragraph is out of scope for this engine, so the accepted means serving it are not carried.
+- **(a)(2)(3)(b)(i)**, **(a)(2)(3)(b)(iii)** — the fan blade and propeller design feature, and the bypass splitter, which exists only on a turbofan. The other five design features, (ii) and (iv) to (vii), are carried in full.
 - Throughout — "thrust or power" and its variants are rendered as power. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
