@@ -11,3 +11,7 @@ pymupdf>=1.26
 
 # Required by pypdfium2 .to_pil()
 pillow>=10.0
+
+# Compliance matrix export (scripts/build_matrix.py). The matrix is derived from
+# the vault notes, so it is regenerated, never hand-edited.
+openpyxl>=3.1

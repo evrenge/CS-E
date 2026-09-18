@@ -221,6 +221,9 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 ├── requirements.txt
 ├── source/                  # EASA source PDFs, read-only. See source/SOURCES.md
 ├── scripts/                 # extraction, indexing, classification, rendering
+├── vault/                   # the notes — one file per paragraph, plus figures/
+├── deck/                    # exports for the certification programme
+│   └── compliance_matrix.xlsx   # derived from the vault. Regenerate, never hand-edit
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
@@ -239,6 +242,7 @@ Where to look instead of trusting a number written here:
 | Does a paragraph apply to a turboshaft, and why | `work/applicability.md` |
 | Page counts, checksums, provenance | `source/SOURCES.md`, `source/CHECKSUMS.sha256` |
 | Declared ratings and systems | `engine_profile.md` |
+| Every obligation, with its strength and its note | `deck/compliance_matrix.xlsx` |
 
 ## Regenerating
 
@@ -252,6 +256,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/verify_sources.py       # source integrity
+.venv/bin/python scripts/build_matrix.py        # vault -> deck/compliance_matrix.xlsx
 ```
 
 Order matters: `paragraph_text.py` establishes the true page span of each
@@ -264,8 +269,15 @@ disagree, or if the topic grouping misses a paragraph that applies.
 the PDF and independently of the slicer, then checks the line actually reached
 that paragraph's file. It is the check that catches silent extraction loss.
 `lint_vault.py` fails on a ghost wikilink, frontmatter that contradicts the index,
-a missing section, a note for a paragraph that is not APPLIES, or a Rule text
-quote that is not verbatim in the source. Trust them over any prose.
+a missing section, a section out of template order, a note for a paragraph that is
+not APPLIES, or a Rule text quote that is not verbatim in the source. Trust them
+over any prose.
+
+`build_matrix.py` reads the `## Requirement` tables out of the vault and writes one
+row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the compliance
+items, the open `[VERIFY]` items, the pruned sub-points and the excluded
+paragraphs. The four right-hand columns are the applicant's to fill; regenerating
+overwrites them, so a working copy of the matrix belongs outside this repository.
 
 ## Using the other four source documents
 
