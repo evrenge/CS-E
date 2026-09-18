@@ -12,6 +12,7 @@ Catches the mistakes that are invisible when writing one note at a time:
   rule-4         not exactly one [!quote] callout
   strength       a Strength cell outside the seven allowed values
   terminology    the note uses "Book 1" or "Book 2", which CLAUDE.md bans
+  ref-format     a Ref cell splits nested sub-points, e.g. "(a) (2)"
   quote          the Rule text quote is not verbatim in the paragraph's source
                  text (work/paragraphs/), after whitespace normalisation
   orphan         a note whose paragraph is not classified APPLIES
@@ -136,6 +137,9 @@ def main() -> int:
                     continue
                 if strength not in STRENGTHS:
                     say(f"Strength {strength!r} is not one of the seven allowed values")
+                ref = cells[0].replace("*", "").strip()
+                if re.search(r"\)\s+\(", ref):
+                    say(f"Ref {ref!r} splits nested sub-points — write (a)(2)")
 
         # --- rule 4 content: the quote must exist verbatim in the source
         m = QUOTE.search(text)

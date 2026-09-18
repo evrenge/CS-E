@@ -90,10 +90,14 @@ the regulation — it cites, it does not reproduce the text.
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(a)** | ... | Required |
-| **(b)(3)** | ... | Optional; required once claimed |
+| **(b)(3)** | ... | Required if claimed |
 
 Prose below the table only where a sub-point needs interpretation the table
 cannot carry.
+
+A `Ref` cell writes nested sub-points adjacently: `(a)(2)`, never `(a) (2)` and
+never split across lines. The source PDF lays `(a)` and `(2)` on separate lines,
+so the extracted text shows them apart; the note joins them.
 
 ## Compliance
 What must be produced to show compliance: test, analysis, similarity, or a
@@ -142,8 +146,8 @@ strength and must not share a label.
 ### Terminology
 CS-E contains exactly two kinds of paragraph, and notes name them that way:
 
-- a **CS-E nnn** paragraph states a specification;
-- an **AMC E nnn** paragraph states an acceptable means of complying with it.
+- a **CS-E XXX** paragraph states a specification;
+- an **AMC E XXX** paragraph states an acceptable means of complying with it.
 
 **Never write "Book 1" or "Book 2".** The labels appear twice in the whole of
 Amendment 8, both inside AMC General, and the document never defines them. They

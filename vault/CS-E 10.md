@@ -48,5 +48,10 @@ Related: [[CS-E 15]] · [[CS-E 20]] · [[AMC General]]
 
 ## Amendment history
 
-Amended at Amendment 7. The amendment restructured the applicability statement;
-the division of subparts between piston and turbine engines is unchanged.
+Amended at Amendment 7. Three edits, none of which change what applies:
+
+- sub-point (b): "the **specific** thrust reverser" became "the **defined** thrust reverser";
+- "subparts" was capitalised to "Subparts" in two places;
+- sub-point (c): the cross-reference "21.A.16" became "point 21.B.75 of Part 21". That sub-point is piston-only and is not carried in this note.
+
+The division of subparts between piston and turbine engines is unchanged.
