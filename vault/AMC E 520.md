@@ -135,6 +135,10 @@ fan and other rotors". A turboshaft has no fan, so the compressor, turbine and
 power turbine rotors carry the verification, cross-referenced by the AMC to
 [[CS-E 650]].
 
+## Not applicable
+
+- **(c)(2)(4)**, in part — the fan among the rotors to which imbalance is added for the vibratory response check. The other rotors apply.
+
 ## References
 
 Specification: [[CS-E 520]]

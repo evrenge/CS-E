@@ -84,7 +84,7 @@ any time between the take-off and landing phases in any flight.
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(1)** | General items: the environmental conditions, meaning the flight envelope; and the equipment approved for use on the engine. | Accepted method |
-| **(3)** | Turbine engine items: the twenty-one limitations listed below. | Accepted method |
+| **(3)** | Turbine engine items: the limitations listed below. The source lists twenty-one, (a) to (u); the eighteen that reach a turboshaft are tabulated, and the three cut are recorded. | Accepted method |
 
 ### Turbine engine limitations [AMC E 40(d)(3)]
 

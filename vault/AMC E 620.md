@@ -22,6 +22,7 @@ tags: [performance-correction, formulae, notation, isa]
 |---|---|---|
 | **(1)** | Use the following corrections from the observed test conditions to the assumed atmospheric conditions of pressure and temperature, within the range of conditions appropriate to the particular type of engine — taking into account the characteristics of the Engine Control System, and the possible effect of Reynolds Number — unless more accurate or additional corrections for a particular type of engine have been agreed or required by the Agency. | Accepted method |
 | **(1)** | Where certain proprietary types of air flowmeter are employed, note that Wo is the actual air consumption of the engine during test. | Statement |
+| **(2)** | The notation used by the formulae is set out in the Notation table below. | Statement |
 | **(3)** | Suffix 'o' denotes an observed result, corrected for instrument temperature and scale errors only. Suffix 'c' denotes a result corrected to the standard atmospheric pressure and temperature conditions of CS-E 620. | Statement |
 
 The formulae are reproduced here as images. The text layer renders a fraction as

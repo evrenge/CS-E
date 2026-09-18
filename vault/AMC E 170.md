@@ -46,7 +46,9 @@ tags: [tests, systems, eecs, hirf, lightning, bonding, installation-limitation, 
 | — | Where the installation specifications are not specified or not known, environmental conditions of a typical installation may be assumed. | Permitted |
 | — | Establish by analysis or test that all components of the Engine Control System — electronics units, sensors, harnesses, hydromechanical elements and any other relevant elements or units — operate properly in their declared environment. | Accepted method |
 | — | The environmental limits are not imposed by the rules, but should be representative of the environments expected to be encountered in the engine installation. | Accepted method |
+| — | Additional means may be found in AMC E 80, or in AMC 20-1 and AMC 20-3 for Electronic Engine Control Systems. | Permitted |
 | — | Give due consideration to dispatching in each approved degraded state when meeting these environmental concerns. | Accepted method |
+| — | See AMC E 80 for additional specific means. | Statement |
 
 AMC E 170 is written as continuous prose with no numbered sub-points, so the
 `Ref` cells carry no sub-point identifier.

@@ -88,6 +88,7 @@ electrical or electronic sub-components.
 | **(2)(b)** | Explosion proofness: verify that the equipment cannot cause an explosion of flammable fluids or vapours. | Accepted method |
 | **(2)(b)** | Humidity: demonstrate that the equipment is not adversely affected, operationally or structurally, by ingress of moisture. | Accepted method |
 | **(2)(b)** | Waterproofness: verify proper function after exposure to water and identify damage from water exposure that could lead to equipment Failure; where the design allows, open and inspect for water entry and justify acceptance if entry is detected. | Accepted method |
+| **(2)(b)** | EMI, HIRF and lightning: the acceptable test procedures are those of AMC 20-1 and AMC 20-3, which are not held in `source/`. | Accepted method |
 | **(2)(b)** | Power input: demonstrate that equipment receiving power directly from the aircraft can accommodate the full range of power inputs declared for the installation. | Accepted method |
 
 The explosion proofness text distinguishes two environments. Environment I
@@ -204,6 +205,10 @@ Salt spray, sand and dust, and fluid susceptibility deserve attention for a
 rotorcraft turboshaft. Sand and dust applies to all equipment that is not
 environmentally sealed [AMC E 80(2)(a)], and the sealing claim is therefore the
 decision that removes the test.
+
+## Not applicable
+
+- **(2)(a)** Table 1 item 11, in part — the reference to CS-E 230, a Subpart B piston engine paragraph, alongside CS-E 780. Subpart B is outside this vault by scope.
 
 ## References
 

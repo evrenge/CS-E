@@ -256,6 +256,10 @@ in `source/`, so the allowable values cannot be stated here.]
 revised risk assessment shows the CS-E 510(a)(3) objectives can no longer be met.
 Part 21 is not held in `source/`.]
 
+## Not applicable
+
+- **(3)(d)(i)**, in part — the reverse segment of the flight-segment list. A turboshaft driving a rotorcraft transmission has no reverse mode.
+
 ## References
 
 Specification: [[CS-E 515]]
