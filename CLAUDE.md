@@ -139,6 +139,21 @@ to the verb the source uses.
 is a recommendation inside a binding specification. The two are not the same
 strength and must not share a label.
 
+### Terminology
+CS-E contains exactly two kinds of paragraph, and notes name them that way:
+
+- a **CS-E nnn** paragraph states a specification;
+- an **AMC E nnn** paragraph states an acceptable means of complying with it.
+
+**Never write "Book 1" or "Book 2".** The labels appear twice in the whole of
+Amendment 8, both inside AMC General, and the document never defines them. They
+explain nothing and confuse a reader who has only ever seen CS and AMC. Where a
+quoted sentence contains them, elide with "…" rather than reproduce them.
+
+AMC expands to **Acceptable** Means of Compliance, as on the title page, not
+Advisory. The distinction matters: an acceptable means is one EASA has accepted,
+and an applicant may still propose an alternative and justify it.
+
 ### Register
 Formal technical English, as in a certification report. B2 means controlled
 vocabulary and sentence length — it does not mean informal. No sentence

@@ -11,6 +11,7 @@ Catches the mistakes that are invisible when writing one note at a time:
   sections       a required section missing, or Dropped present but empty
   rule-4         not exactly one [!quote] callout
   strength       a Strength cell outside the seven allowed values
+  terminology    the note uses "Book 1" or "Book 2", which CLAUDE.md bans
   quote          the Rule text quote is not verbatim in the paragraph's source
                  text (work/paragraphs/), after whitespace normalisation
   orphan         a note whose paragraph is not classified APPLIES
@@ -146,8 +147,17 @@ def main() -> int:
             src = PARAS / f"{slug(pid)}.txt"
             if not src.exists():
                 say(f"no source text at {src.name} to verify the quote against")
-            elif quoted and norm(quoted) not in norm(src.read_text(encoding="utf-8")):
-                say(f"quote not verbatim in source: {quoted[:70]!r}...")
+            else:
+                haystack = norm(src.read_text(encoding="utf-8"))
+                # "…" marks an elision. Each fragment must still be verbatim.
+                for part in (f.strip() for f in quoted.split("\u2026")):
+                    if part and norm(part) not in haystack:
+                        say(f"quote not verbatim in source: {part[:70]!r}...")
+
+        # --- terminology
+        for banned in ("Book 1", "Book 2"):
+            if banned in text:
+                say(f"uses {banned!r} — CLAUDE.md bans it; CS-E has CS and AMC paragraphs only")
 
         # --- links
         body = text.split("---\n", 2)[-1]

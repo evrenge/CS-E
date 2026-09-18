@@ -42,7 +42,7 @@ thrust reverser specifications themselves do not apply.
 
 ## References
 
-Accepted means: none in Book 2 for CS-E 10. AMC E 10(b) serves sub-point (b),
+Accepted means: none for CS-E 10. AMC E 10(b) serves sub-point (b),
 which is excluded, and therefore has no note.
 Related: [[CS-E 15]] · [[CS-E 20]] · [[AMC General]]
 
