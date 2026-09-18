@@ -21,7 +21,8 @@ tags: [continued-rotation, windmilling, clutch-drag, rotorcraft, oil-loss, unbal
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(1)** | Continued rotation can be either due to windmilling or due to mechanical effects such as clutch drag in the case of a multi-engined rotorcraft. | Statement |
-| **(1)** | Compliance with CS-E 525 may be established by test or analysis, and should take into account the conditions imposed on the engine by a typical aircraft installation. | Permitted |
+| **(1)** | Compliance with CS-E 525 may be established by test or analysis. | Permitted |
+| **(1)** | That demonstration should take into account the conditions imposed on the engine by a typical aircraft installation. | Accepted method |
 | **(2)** | Include consideration of all expected aircraft applications for the engine when determining the conditions imposed on the engine after in-flight shutdown and their maximum duration. | Accepted method |
 | **(3)** | Consider and address, if determined to be applicable, complete loss of engine oil. | Accepted method |
 | **(3)** | Consider and address, if determined to be applicable, rotor unbalance resulting from blade loss and subsequent rotor damage. | Accepted method |

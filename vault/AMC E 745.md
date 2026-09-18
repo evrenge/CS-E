@@ -22,7 +22,7 @@ tags: [acceleration, minimum-test-bed-idle, over-temperature, surge, bleed]
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(1)** | Compliance with CS-E 745 may be demonstrated during tests performed to meet other sections of CS-E. | Permitted |
-| **(2)** | In complying with CS-E 745(a)(1) and (a)(2), for evaluation of a potential over-temperature the appropriate adverse combination is probably maximum bleed air and maximum power extraction. | Accepted method |
+| **(2)** | In complying with CS-E 745(a)(1) and (a)(2), for evaluation of a potential over-temperature the appropriate adverse combination is probably maximum bleed air and maximum power extraction. | Statement |
 | **(2)** | For evaluation of surge and stall, the combination should probably be no bleed air and maximum power extraction. | Accepted method |
 | **(2)** | An over-temperature event is considered as being any exceedence of the steady state and transient values which are substantiated under CS-E 740. | Statement |
 | **(3)** | The minimum test bed idle referenced for rotorcraft engines in CS-E 745(a) or other CS-E paragraphs is the minimum practically possible power extraction from the engine in the test facility while the output shaft is at the governed speed. | Statement |

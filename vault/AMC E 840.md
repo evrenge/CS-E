@@ -47,7 +47,7 @@ already **includes transients**, not to the steady-state rating speed.
 | **(2)(h)** | Assess the consequences of rotor growth sufficient to cause significant contact or displacement between engine components, to determine that CS-E 840(d)(1) can be met. | Accepted method |
 | **(2)(i)** | When determining compliance with CS-E 840(d)(2), consider whether the rotor would exhibit any condition likely to prevent safe operation of the engine for a period of time that could occur in service following any Failure considered under CS-E 840(b)(3) or (b)(4). That period might equal the time to recognise the event and shut the engine down, or the time for continued safe flight and landing, and might depend on the operational instructions for an over-speed event. | Accepted method |
 | **(2)(j)** | Where a number of rotors are of similar design, made of materials to the same specification and subjected to similar stress conditions, temperature levels and gradients, it is permissible for compliance with CS-E 840(a) to test only the most critical rotor with respect to burst. | Permitted |
-| **(2)(j)** | This requires determination of the burst speed for each rotor in order to select the most critical, which is assumed to have the smaller margin to burst above the speeds specified in CS-E 840(b). | Accepted method |
+| **(2)(j)** | This would require determination of the burst speed for each rotor in order to select the most critical, which is assumed to have the smaller margin to burst above the speeds specified in CS-E 840(b). | Statement |
 | **(2)(j)** | The most critical rotor with respect to burst might not be the most critical with respect to growth. Give consideration to the components surrounding each rotor in order to determine the most critical rotor with respect to growth for compliance with CS-E 840(d). | Accepted method |
 | **(2)(k)** | Establish the burst speed of each compressor and turbine rotor design by appropriate tests or analysis based on tests, in relation to the most critical condition prescribed in CS-E 840(b), on the most adverse combination of dimensional tolerances and material properties, and report it in the certification documentation. | Accepted method |
 | **(2)(l)** | For a multi-stage rotor in which the rotors do not meet the conditions of similarity of paragraph (2)(j), substantiate the compliance of each rotor stage using representative test data. | Accepted method |
@@ -65,7 +65,7 @@ operational instructions may determine it.
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(3)(a)** | Test a sample rotor on a rig or engine at the conditions necessary to demonstrate that a minimum strength rotor would meet the specifications of CS-E 840. | Accepted method |
+| **(3)(a)** | Test a sample rotor on a rig or engine at the conditions necessary to demonstrate that a minimum strength rotor would meet the specifications of CS-E 840. | Permitted |
 | **(3)(b)** | Where the conditions of CS-E 840(b)(1) or (b)(2) are the most critical, test a sample rotor for the required period in an engine at not less than 96 % of the speed necessary to demonstrate that a minimum strength rotor would meet the specifications — provided that the reduced test condition is not less severe than that required to demonstrate compliance with CS-E 840(b)(3) or (b)(4), and it is shown from a validated method of burst prediction that burst would not have occurred at the conditions of CS-E 840(b)(1) or (b)(2). | Permitted |
 | **(3)(c)** | An analytical modelling method based on representative test data may be acceptable, provided the model has been validated by comparison with results from specimen and rotor tests; its use is limited to rotors with material, geometry, stress and temperature conditions encompassed by those used to construct the model; and the predictions show that the certification standard rotor is not more critical, with respect to burst and growth, than any similar rotor for which substantiation has been demonstrated both by rotor test and model prediction. | Permitted |
 | **(3)(d)** | Any test may be continued to rotor burst after the required time duration by increasing the speed until the rotor bursts, provided the sample rotor was initially run at conditions not less severe than those required for compliance with CS-E 840(a), and CS-E 840(d) can be complied with using an approved analytical modelling method. | Permitted |
@@ -142,7 +142,7 @@ critical for burst may not be the most critical for growth.
 
 ## Not applicable
 
-- **(1)**, **(2)(j)**, **(2)(k)**, in part — the fan, named alongside compressor and turbine in the rotor definition and in the burst speed and similarity provisions. A turboshaft has no fan.
+- **(1)**, **(2)(k)**, in part — the fan, named alongside compressor and turbine in the rotor definition and in the burst speed and similarity provisions. A turboshaft has no fan.
 
 ## References
 

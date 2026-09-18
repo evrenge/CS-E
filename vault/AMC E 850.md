@@ -189,7 +189,7 @@ and its independence from the control channels are assessed under CS-E 50.]
 
 ## Not applicable
 
-- **(1)(a)**, **(2)(a)**, **(3)** — the fan cases within these sub-points. This engine has no fan, so "compressor/fan", the composite-fan release case and "a release of the complete fan" reduce to the compressor. The compressor cases are kept in full.
+- **(1)(a)**, in part — the "compressor/fan" alternative in the shaft definition. This engine has no fan, so the power-using system is the compressor. AMC E 850(3) names "a release of the complete fan or compressor moving forward" as a hazardous effect to consider; that row is carried whole, because the compressor case in it applies.
 
 ## References
 
