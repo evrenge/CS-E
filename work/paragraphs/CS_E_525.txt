@@ -1,7 +1,7 @@
 # CS-E 525 Continued Rotation
 # id: CS-E 525
 # subpart: D
-# pages: 108-109
+# pages: 108-108
 # source: CS-E_Amendment_8.pdf
 
 (see AMC E 525)
@@ -10,4 +10,3 @@ any reason while in flight, and means to prevent that continued rotation, are no
 continued rotation during the maximum period of flight and in the flight conditions expected to occur
 with that Engine inoperative must not result in effects that would be unacceptable under CS-E 510.
 [Amdt. No.: E/1]
-AND CONSTRUCTION

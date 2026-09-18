@@ -1,7 +1,7 @@
 # CS-E 590 Starter Systems
 # id: CS-E 590
 # subpart: D
-# pages: 114-115
+# pages: 114-114
 # source: CS-E_Amendment_8.pdf
 
 Where the starter is declared as part of the Engine, its design, and that of its associated drive
@@ -11,5 +11,3 @@ classified as Extremely Remote. The possibility of the starter remaining connect
 becoming reconnected, to the Engine resulting from any Failure of the drive system must be
 considered. Where in showing compliance with this paragraph, dependence is placed on safety
 provisions to be provided as part of the installation, the need for such provisions must be declared.
-SUBSTANTIATION
-SUBSTANTIATION

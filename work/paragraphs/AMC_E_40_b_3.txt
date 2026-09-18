@@ -4,7 +4,6 @@
 # pages: 30-31
 # source: CS-E_Amendment_8.pdf
 
-minute Power Ratings
 (1)
 The 30-Second and 2-Minute OEI Power ratings are two separate ratings. However, they are
 associated in a combined structure of 2.5 minutes duration.

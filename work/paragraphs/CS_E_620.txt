@@ -1,7 +1,7 @@
 # CS-E 620 Performance Correction
 # id: CS-E 620
 # subpart: E
-# pages: 115-116
+# pages: 115-115
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 620)
@@ -20,4 +20,3 @@ obtained. Humidity corrections appropriate to high atmospheric temperatures, at 
 to 4 500 m must be established, however, for each type of turbine Engine, for use in the
 assessment of aircraft performance in these conditions.
 [Amdt. No.: E/1]
-SUBSTANTIATION

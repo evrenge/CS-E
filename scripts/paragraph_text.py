@@ -46,6 +46,13 @@ RUNNING = re.compile(
     # ate a body line of CS-E 80(b), and it did so in both this filter and
     # the audit that is meant to catch exactly that loss.
     r"|(?-i:SUBPART)\s+[A-F]\s*[–—-]"
+    # A banner too long for one line wraps, and the tail carries no "SUBPART"
+    # to match on. These four are every wrapped tail in the document; none of
+    # them ever occurs as body prose. Without them, 211 header fragments are
+    # injected into paragraph bodies -- "AND CONSTRUCTION" lands twice inside
+    # CS-E 510(a).
+    r"|(?-i:SUBSTANTIATION|AND CONSTRUCTION"
+    r"|ENVIRONMENTAL AND OPERATIONAL|DESIGN REQUIREMENTS)\s*$"
     r"|Annex to ED Decision"
     r"|Page\s+\d+\s+of\s+\d+)",
     re.IGNORECASE,
@@ -58,7 +65,16 @@ def slug(pid: str) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "_", pid).strip("_")
 
 
-def banner_positions(page: pymupdf.Page) -> list[tuple[float, str]]:
+def banner_positions(page: pymupdf.Page) -> list[tuple[float, float, str]]:
+    """(top y, bottom y, text) per banner on the page.
+
+    Both y values matter and they are not interchangeable. The top orders the
+    banner against the previous paragraph and fixes where that paragraph ends.
+    The bottom is where this paragraph's body starts: slicing from the top
+    leaves a wrapped banner's own tail sitting in the body, which put
+    "Components" at the head of AMC E 70 and "OEI Power Ratings" at the head of
+    AMC E 20(f).
+    """
     out = []
     for block in page.get_text("dict")["blocks"]:
         if block["type"] != 0:
@@ -71,15 +87,15 @@ def banner_positions(page: pymupdf.Page) -> list[tuple[float, str]]:
             if round(span["size"], 1) >= HEADING_MIN_SIZE and span["color"] == WHITE:
                 out.append((round(line["bbox"][1], 1), text))
     out.sort()
-    merged: list[tuple[float, str]] = []
+    merged: list[tuple[float, float, str]] = []
     prev_y = None
     for y, text in out:
         # Compare against the PREVIOUS LINE, not the group's first line: a banner
         # wrapped over three lines spans more than the 25 pt gap from its top.
         if prev_y is not None and (y - prev_y) < 25:
-            merged[-1] = (merged[-1][0], f"{merged[-1][1]} {text}")
+            merged[-1] = (merged[-1][0], y, f"{merged[-1][2]} {text}")
         else:
-            merged.append((y, text))
+            merged.append((y, y, text))
         prev_y = y
     return merged
 
@@ -157,14 +173,14 @@ def main() -> int:
     logos = logo_xrefs(doc)
 
     # Global ordered banner list: (page, y, heading text).
-    banners: list[tuple[int, float, str]] = []
+    banners: list[tuple[int, float, float, str]] = []
     for i in range(len(doc)):
-        for y, text in banner_positions(doc[i]):
-            banners.append((i + 1, y, text))
+        for y, y_last, text in banner_positions(doc[i]):
+            banners.append((i + 1, y, y_last, text))
 
     written = 0
     spans: list[dict] = []
-    for idx, (pno, y, heading) in enumerate(banners):
+    for idx, (pno, y, y_last, heading) in enumerate(banners):
         if idx + 1 < len(banners):
             end_page, end_y = banners[idx + 1][0], banners[idx + 1][1]
         else:
@@ -173,7 +189,7 @@ def main() -> int:
         chunks: list[str] = []
         for n in range(pno, end_page + 1):
             page = doc[n - 1]
-            lo = y + 1 if n == pno else 0.0  # 0.0: header is filtered by pattern
+            lo = y_last + 1 if n == pno else 0.0  # 0.0: header filtered by pattern
             hi = end_y if n == end_page else 10_000.0
             chunks += body_lines(page, lo, hi)
 
@@ -191,7 +207,7 @@ def main() -> int:
         last = pno
         fig_pages: list[int] = []
         for n in range(pno, end_page + 1):
-            lo = y + 1 if n == pno else 0.0
+            lo = y_last + 1 if n == pno else 0.0
             hi = end_y if n == end_page else 10_000.0
             if body_lines(doc[n - 1], lo, hi):
                 last = n

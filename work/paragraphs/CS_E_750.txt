@@ -29,5 +29,4 @@ in the rotorcraft with the rotor system locked.
 Full details of all starts made throughout the endurance test must be recorded. Times to light
 up and accelerate to idling conditions must be recorded, together with details of all attempted
 starts, and the reasons for any Failures.
-SUBSTANTIATION
 [Amdt No: E/1]

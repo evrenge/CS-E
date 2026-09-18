@@ -14,7 +14,6 @@ restraints are mainly torsional. This includes any Engine gearbox in that transm
 system (for any aircraft gearbox, see paragraph (2)(c) below). The exclusion of discs from
 this definition of a shaft does not preclude the specification that any Failure thereof
 should be Extremely Remote.
-SUBSTANTIATION
 (b)
 Clarification of the terms and probabilities used in CS-E 850 may be found in CS-E 510.
 The possible shedding of blades is also covered in CS-E 810(b).
@@ -65,7 +64,6 @@ acceleration characteristics, relevant rotor and stator design features, materia
 clearances, etc., and should be submitted to the Agency for acceptance.
 (3)
 Hazardous Shaft Failures
-SUBSTANTIATION
 In general, experience has shown that Failures of shafts occur at a rate in excess of Extremely
 Remote. Consequently, shaft systems should be designed to fail safe as required by CS-E
 850(a)(1). However, it is accepted under CS-E 850(a)(3) that, for conventional designs, this is
@@ -112,7 +110,6 @@ The effect on the shaft of a bearing Failure and the desirability of provision (
 maintenance techniques and/or flight instrumentation) for the detection of an
 incipient bearing Failure. The possibility of isolating the bearing from the shaft and
 thus increasing the damage tolerance of the system should be considered;
-SUBSTANTIATION
 (v)
 The effect on the shaft of any likely Engine fire and the necessity for provision of
 an early warning of any internal fires that may occur;

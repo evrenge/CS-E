@@ -1,7 +1,7 @@
 # AMC E 320 Performance Correction
 # id: AMC E 320
 # subpart: C
-# pages: 70-71
+# pages: 70-70
 # source: CS-E_Amendment_8.pdf
 
 (1)
@@ -13,4 +13,3 @@ normally encountered in operation, and the amount of free water is exceedingly d
 measure, no corrections for free water need to be made.
 [Amdt No: E/1]
 [Amdt No: E/8]
-SUBSTANTIATION

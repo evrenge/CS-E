@@ -95,11 +95,11 @@ each row waits on.
 | `CS-E 515` | Engine Critical Parts | 91 | — | — | **APPLIES** | Engine Critical Parts integrity specifications; no engine-type restriction. |
 | `AMC E 515` | Engine Critical Parts | 91–106 | yes | Amdt7 | **APPLIES** | Critical-parts guidance with an explicit rotorcraft provision: 'For Rotorcraft turbine Engines, the representative usage of the 30-minute Power rating should be considered in the Engine Flight Cycle when establishing the Approved Life'. |
 | `CS-E 520` | Strength | 106 | — | Amdt7 | **APPLIES** | Strength specifications; no engine-type restriction. |
-| `AMC E 520(a)` | Strength - High Cycle Fatigue | 106–107 | — | — | **APPLIES** | High cycle fatigue guidance; no engine-type restriction. |
+| `AMC E 520(a)` | Strength - High Cycle Fatigue | 106 | — | — | **APPLIES** | High cycle fatigue guidance; no engine-type restriction. |
 | `AMC E 520(c)(1)` | Strength - Shedding of Blades | 107 | — | — | **APPLIES** | Shedding of blades guidance; no engine-type restriction. |
 | `AMC E 520(c)(2)` | Engine Model Validation | 107–108 | — | Amdt7 | **APPLIES** | Engine model validation guidance; no engine-type restriction. |
 | `AMC E 520(d)` | Strength – Local Failures | 108 | — | — | **APPLIES** | Local failures guidance; no engine-type restriction. |
-| `CS-E 525` | Continued Rotation | 108–109 | — | — | **APPLIES** | Continued rotation specifications; no engine-type restriction. |
+| `CS-E 525` | Continued Rotation | 108 | — | — | **APPLIES** | Continued rotation specifications; no engine-type restriction. |
 | `AMC E 525` | Continued rotation | 109 | — | — | **APPLIES** | Expressly rotorcraft-relevant: 'Continued rotation can be either due to windmilling or due to mechanical effects such as clutch drag in the case of a multi-engined rotorcraft.' |
 | `CS-E 540` | Strike and Ingestion of Foreign Matter | 109 | — | — | **APPLIES** | Strike and ingestion of foreign matter; no engine-type restriction. |
 | `AMC E 540` | Strike and ingestion of foreign matter | 109–110 | — | — | **APPLIES** | Foreign-matter guidance; no engine-type restriction. |
@@ -108,7 +108,7 @@ each row waits on.
 | `CS-E 570` | Oil System | 112–114 | — | — | **APPLIES** | Oil system specifications apply to every turbine Engine; the propeller-feathering oil supply clause is prefixed 'When applicable'. |
 | `AMC E 570` | Oil system | 114 | — | — | **APPLIES** | Oil system guidance; no engine-type restriction. |
 | `CS-E 580` | Air Systems | 114 | — | — | **APPLIES** | Air systems; no engine-type restriction. |
-| `CS-E 590` | Starter Systems | 114–115 | — | — | **APPLIES** | Starter systems; no engine-type restriction. |
+| `CS-E 590` | Starter Systems | 114 | — | — | **APPLIES** | Starter systems; no engine-type restriction. |
 
 ## Subpart E — Turbine Engines: Type Substantiation
 
@@ -118,13 +118,13 @@ each row waits on.
 |---|---|---|:--:|---|---|---|
 | `CS-E 600` | Tests - General | 115 | — | — | **APPLIES** | Test general specifications include a dedicated rotorcraft clause: '(e) Engines for Rotorcraft.' |
 | `AMC E 600(e)` | Test - General | 115 | — | — | **APPLIES** | Rotorcraft-specific: 'The applicant should justify any difference between the Engine attitude during the tests and the Engine attitude in the intended rotorcraft installations.' |
-| `CS-E 620` | Performance Correction | 115–116 | — | — | **APPLIES** | Performance correction; no engine-type restriction. |
+| `CS-E 620` | Performance Correction | 115 | — | — | **APPLIES** | Performance correction; no engine-type restriction. |
 | `AMC E 620` | Performance: Formulae | 116–117 | — | — | **APPLIES** | Performance formulae; no engine-type restriction. |
 | `CS-E 640` | Pressure Loads | 117–118 | — | — | **APPLIES** | Pressure loads; no engine-type restriction. |
 | `AMC E 640` | Pressure Loads | 118–119 | — | — | **APPLIES** | Pressure-load guidance covering conditions 'likely to be encountered in service' including use of OEI ratings where claimed. |
 | `CS-E 650` | Vibration Surveys | 119–120 | — | — | **APPLIES** | Vibration surveys required for every turbine Engine; no engine-type restriction. |
 | `AMC E 650` | Vibration Surveys | 120–130 | yes | Amdt7 + Amdt8 | **APPLIES** | Vibration-survey guidance for all Engine architectures; the propeller and thrust-reverser installation features are listed 'Where appropriate'. |
-| `CS-E 660` | Fuel Pressure and Temperature | 130–131 | — | — | **APPLIES** | Fuel pressure and temperature specifications; no engine-type restriction. |
+| `CS-E 660` | Fuel Pressure and Temperature | 130 | — | — | **APPLIES** | Fuel pressure and temperature specifications; no engine-type restriction. |
 | `AMC E 660` | Fuel Pump Tests (Turbine Engines for Aeroplanes) | 131 | — | — | **EXCLUDED** | Aeroplane-only by its own title: 'Fuel Pump Tests (Turbine Engines for Aeroplanes)'. |
 | `CS-E 670` | Contaminated Fuel | 131 | — | — | **APPLIES** | Contaminated fuel specifications; no engine-type restriction. |
 | `AMC E 670` | Contaminated Fuel Testing | 131–133 | yes | — | **APPLIES** | Contaminated fuel testing guidance; no engine-type restriction. |
@@ -132,14 +132,14 @@ each row waits on.
 | `AMC E 680` | Inclination and Gyroscopic Load Effects | 133 | — | — | **APPLIES** | Inclination and gyroscopic load guidance; no engine-type restriction. |
 | `CS-E 690` | Engine Bleed | 133–134 | — | Amdt8 | **APPLIES** | Engine bleed specifications; no engine-type restriction. |
 | `AMC E 690` | Engine bleed | 134 | — | Amdt8 | **APPLIES** | Engine bleed guidance; no engine-type restriction. |
-| `CS-E 700` | Excess Operating Conditions | 134–135 | — | — | **APPLIES** | Excess operating conditions specifications; no engine-type restriction. |
-| `AMC E 700` | Excess Operating Conditions (Turbine Engines for Aeroplane | 135–136 | — | — | **EXCLUDED** | Aeroplane-only by its own title: 'Excess Operating Conditions (Turbine Engines for Aeroplanes)', and its method is written around VMO / VNE. |
+| `CS-E 700` | Excess Operating Conditions | 134 | — | — | **APPLIES** | Excess operating conditions specifications; no engine-type restriction. |
+| `AMC E 700` | Excess Operating Conditions (Turbine Engines for Aeroplane | 135 | — | — | **EXCLUDED** | Aeroplane-only by its own title: 'Excess Operating Conditions (Turbine Engines for Aeroplanes)', and its method is written around VMO / VNE. |
 | `CS-E 710` | Rotor Locking Tests | 136 | — | — | **APPLIES** | Rotor locking tests; no engine-type restriction. |
 | `AMC E 710` | Rotor locking tests | 136 | — | — | **APPLIES** | Rotor locking test guidance; no engine-type restriction. |
 | `CS-E 720` | Continuous Ignition | 136–137 | — | — | **APPLIES** | Continuous ignition; no engine-type restriction. |
 | `AMC E 720(a)` | Continuous Ignition | 137 | — | — | **APPLIES** | Continuous ignition guidance; no engine-type restriction. |
 | `CS-E 730` | Engine Calibration Test | 137 | — | Amdt8 | **APPLIES** | Calibration test applies to every turbine Engine: 'thrust or power calibration curves of the test Engine must be established… up to the highest rated powers except for 30-Second and 2-Minute OEI Power ratings.' |
-| `AMC E 730` | Calibration Tests | 137–138 | — | — | **APPLIES** | Calibration guidance; the 30-Second / 2-Minute OEI carve-out applies only where those ratings are claimed. |
+| `AMC E 730` | Calibration Tests | 137 | — | — | **APPLIES** | Calibration guidance; the 30-Second / 2-Minute OEI carve-out applies only where those ratings are claimed. |
 | `CS-E 740` | Endurance Tests | 138–150 | — | Amdt8 | **APPLIES** | Endurance test applies, but per sub-paragraph: '(2)(i) Schedule for Standard Ratings with 2½-Minute OEI and/or Continuous OEI Rating and/or 30-Minute OEI Rating and/or 30-Minute Power' is the rotorcraft path, while '(c)(4) Alternate Endurance Testing – Turbofan Engine' is EXCLUDED and the turbo-propeller flight-propeller clause does not arise. |
 | `AMC E 740(c)(2)(i)` | Endurance Tests – 30-Minute Power Rating | 150 | — | Amdt8 | **APPLIES** | 30-Minute Power is claimed: 'For Rotorcraft turbine Engines to be approved with a 30-Minute Power rating: (a) An applicant may propose either to include the required additional 25 hours within the…'. [VERIFY: the AMC offers a choice - include the additional 25 hours within the endurance test, or run them separately - and the selected option should be agreed with EASA.] |
 | `AMC E 740(c)(3)` | Endurance Tests | 150–151 | — | Amdt8 | **APPLIES** | 30-Second and 2-Minute OEI are claimed, so CS-E 740(c)(3) and this AMC apply: '(2) Per CS-E 50(j), the Engine control should prevent exceedance of the speed limitation associated with the 30-Second OEI Power rating.' |
@@ -158,7 +158,7 @@ each row waits on.
 | `CS-E 790` | Ingestion of Rain and Hail | 194–196 | — | — | **APPLIES** | Provides a rotorcraft-only alternative: '(b) Engines for Rotorcraft – As an alternative to the specifications specified in CS-E 790(a)(2), but for rotorcraft turbine Engines only'. '(c) Engines for Supersonic Aeroplanes' does not apply. |
 | `AMC E 790` | Rain and Hail Ingestion | 196 | — | — | **APPLIES** | Rain and hail ingestion guidance; no engine-type restriction. |
 | `AMC E 790(a)(1)` | Rain and Hail Ingestion Certification for Design Changes a | 196 | — | — | **APPLIES** | Design change and derivative engine guidance; no engine-type restriction. |
-| `AMC E 790(a)(2)` | Rain and Hail Ingestion – Turbine Engine Power/ Thrust Los | 196–210 | yes | — | **APPLIES** | Carries a dedicated rotorcraft section: '(d) Rotorcraft Turbine Engines — For rotorcraft applications, testing to the specifications of CS-E 790(a)(2) may be…'. The turbofan/turbojet aeroplane sub-cases do not apply. |
+| `AMC E 790(a)(2)` | Rain and Hail Ingestion – Turbine Engine Power/ Thrust Los | 196–209 | yes | — | **APPLIES** | Carries a dedicated rotorcraft section: '(d) Rotorcraft Turbine Engines — For rotorcraft applications, testing to the specifications of CS-E 790(a)(2) may be…'. The turbofan/turbojet aeroplane sub-cases do not apply. |
 | `Appendix A Certification Standard Atmospheric Concentrations of Rain and Hail` | — | 210–212 | yes | — | **APPLIES** | Certification standard atmospheric concentrations of rain and hail, referenced by CS-E 790; no engine-type restriction. |
 | `CS-E 800` | Bird Strike and Ingestion | 212–219 | yes | — | **APPLIES** | Bird ingestion sets a rotorcraft speed directly: '(iv) A bird speed of 200 knots for Engines to be installed on aeroplanes or the maximum airspeed for normal flight operations for Engines to be installed on Rotorcraft'. |
 | `AMC E 800` | Bird Strike and Ingestion | 219–226 | yes | — | **APPLIES** | Names turboshaft explicitly: '(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics'. |
@@ -179,9 +179,9 @@ each row waits on.
 | `CS-E 890` | Thrust Reverser Tests | 241–242 | — | Amdt8 | **EXCLUDED** | Thrust reverser only: 'CS-E 890 is applicable to thrust reversers intended to be installed on turbine Engines.' A rotorcraft turboshaft has none. |
 | `AMC E 890` | Thrust Reverser Tests | 242–243 | — | — | **EXCLUDED** | Serves CS-E 890 and is written around the thrust reverser used in the CS-E 740 test. Not applicable without a thrust reverser. |
 | `CS-E 900` | Propeller Parking Brake | 243 | — | — | **EXCLUDED** | Propeller-only: 'If a Propeller parking brake is provided it must be operated 100 times during the endurance test.' |
-| `CS-E 910` | Relighting In Flight | 243–244 | — | — | **APPLIES** | Relighting in flight; no engine-type restriction. |
+| `CS-E 910` | Relighting In Flight | 243 | — | — | **APPLIES** | Relighting in flight; no engine-type restriction. |
 | `AMC E 910` | Relighting In Flight | 244 | — | — | **APPLIES** | Relighting guidance; no engine-type restriction. |
-| `CS-E 920` | Over-temperature Test | 244–245 | — | Amdt8 | **APPLIES** | Over-temperature test applies to every turbine Engine; the OEI-linked rotor speed values apply where those ratings are claimed. |
+| `CS-E 920` | Over-temperature Test | 244 | — | Amdt8 | **APPLIES** | Over-temperature test applies to every turbine Engine; the OEI-linked rotor speed values apply where those ratings are claimed. |
 | `AMC E 920` | Over-temperature test | 245 | — | Amdt8 | **APPLIES** | Over-temperature guidance; its '"Maximum power-on rotor speed" is normally the steady state rotor speed associated with the 30-Second OEI Power rating' applies where that rating is claimed. |
 | `CS-E 930` | Initial Maintenance Programme Test | 245 | — | Amdt8 | **APPLIES** | Initial Maintenance Programme test, new at Amendment 8; no engine-type restriction. |
 | `AMC E 930` | Initial Maintenance Programme Test | 245–252 | — | Amdt8 | **APPLIES** | IMP test guidance; the turbopropeller and thrust-reverser passages are case-specific, and the OEI cumulative-usage passage applies where OEI ratings are claimed. |
@@ -200,7 +200,7 @@ each row waits on.
 | `CS-E 1030` | Time Limited Dispatch | 253 | — | — | **EXCLUDED** | Time-limited dispatch is not claimed. The paragraph is optional by its own wording: '(a) If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS)…'. Re-openable later without affecting any other paragraph. |
 | `AMC E 1030` | Time limited dispatch | 253–261 | yes | — | **EXCLUDED** | Serves CS-E 1030, which is not claimed. 'This AMC provides guidance for obtaining type design approval of engines with EECS in a degraded condition with respect to redundancy.' |
 | `CS-E 1040` | ETOPS | 261 | — | — | **EXCLUDED** | ETOPS, excluded by the CLAUDE.md scope rule: 'In order to be approved for ETOPS capability, the engine shall achieve an IFSD rate that is compatible with the safety target associated to the maximum flight d[iversion time]'. ETOPS is an aeroplane operation. |
-| `CS-E 1050` | Exposure to volcanic cloud hazards | 261–262 | — | — | **APPLIES** | Exposure to volcanic cloud hazards; no engine-type restriction. |
+| `CS-E 1050` | Exposure to volcanic cloud hazards | 261 | — | — | **APPLIES** | Exposure to volcanic cloud hazards; no engine-type restriction. |
 | `AMC E 1050` | Exposure to volcanic cloud hazards | 262 | — | — | **APPLIES** | Volcanic cloud guidance; no engine-type restriction. |
 
 ## Excluded paragraphs, grouped by reason

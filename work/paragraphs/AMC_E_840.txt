@@ -25,7 +25,6 @@ CS-E 840(a) and (d) allow various means of compliance ("tests, analysis or combi
 thereof) in order to meet the objective identified therein. It is the applicant's
 responsibility to propose the appropriate means of compliance, in accordance with the
 guidelines defined in this AMC.
-SUBSTANTIATION
 (c)
 Any analysis approach allowed under CS-E 840 should be defined and validated before
 usage.
@@ -79,7 +78,6 @@ following any Failure or combination of Failures considered under CS-E 840(b)(3)
 This period of time might be equal to that required to recognise the event and shut the
 Engine down, or to that required for continued safe flight and landing. The length of time
 might also depend upon the operational instructions for an over-speed event.
-SUBSTANTIATION
 (j)
 Where a number of rotors are of similar design, are madeof materials to the same
 specification and are subjected to similar stress conditions, temperature levels and
@@ -134,7 +132,6 @@ been demonstrated both by rotor test and model prediction.
 Any test may be continued to rotor burst after the required time duration by increasing
 the speed until the rotor bursts. If the applicant chooses this method, then it should be
 shown that:
-SUBSTANTIATION
 (i)
 The sample rotor was initially run at conditions not less severe than those required
 for compliance with CS-E 840(a), and

@@ -16,7 +16,6 @@ It is also acceptable to use other Engine tests performed with a representative 
 such as cyclic tests performed for the ETOPS approval of the aircraft.
 (2)
 Representative control system.
-SUBSTANTIATION
 It is not necessary that the whole control system (i.e. up to throttle levers) be representative of
 that of standard production thrust reverser. The necessary components of the control system
 are those situated on the powerplant assembly (nacelle) and which are subject to functioning

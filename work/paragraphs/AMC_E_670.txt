@@ -44,7 +44,6 @@ coarse)
 20 - 40 microns (25%)
 40 - 80 microns (29.5%)
 80 - 200 microns (11.5%)
-SUBSTANTIATION
 CONTAMINANT
 PARTICLE SIZE
 QUANTITY
@@ -106,7 +105,6 @@ temperature of 27°C into which a further 0.2 ml of free water per litre of fuel
 dispersed.
 The test should be conducted with the contaminated mixture cooled to the most critical
 condition for icing likely to be encountered in operation.
-SUBSTANTIATION
 (3)
 Transient Fuel Icing Conditions
 In compliance with CS-E 670(a), the applicant should consider the effect on Engine operability

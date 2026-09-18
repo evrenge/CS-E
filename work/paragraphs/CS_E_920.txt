@@ -1,7 +1,7 @@
 # CS-E 920 Over-temperature Test
 # id: CS-E 920
 # subpart: E
-# pages: 244-245
+# pages: 244-244
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 920)
@@ -18,4 +18,3 @@ distress beyond the limits for an over-temperature condition provided the Engine
 or test or both to maintain the integrity of the turbine assembly.
 [Amdt No: E/1]
 [Amdt No: E/8]
-SUBSTANTIATION

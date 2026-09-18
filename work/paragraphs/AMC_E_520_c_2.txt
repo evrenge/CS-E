@@ -30,7 +30,6 @@ capable of accurately predicting the transient loads from blade release through 
 steady state. In cases where compliance with CS-E 810 is granted by similarity instead of test,
 the model should be correlated to prior experience. Assumptions about the Engine installation
 configuration should be documented in the Manuals required by CS-E 20(d).
-AND CONSTRUCTION
 (4)
 Validation of the Engine model static structure is achieved by a combination of Engine and
 component tests, which include structural tests on major load path components, or by analysis,

@@ -1,7 +1,7 @@
 # AMC E 730 Calibration Tests
 # id: AMC E 730
 # subpart: E
-# pages: 137-138
+# pages: 137-137
 # source: CS-E_Amendment_8.pdf
 
 (1)
@@ -19,4 +19,3 @@ endurance test of CS-E 740(c)(3)(iii). Because the Engine operation at the 30-Se
 Minute OEI Power ratings could significantly affect Engine hardware conditions, these Engine
 ratings are therefore not required to comply with the calibration specifications of CS-E 730.
 [Amdt. No.: E/1]
-SUBSTANTIATION

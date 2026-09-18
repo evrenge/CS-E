@@ -1,7 +1,7 @@
 # CS-E 700 Excess Operating Conditions
 # id: CS-E 700
 # subpart: E
-# pages: 134-135
+# pages: 134-134
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 700)
@@ -11,4 +11,3 @@ within the flight envelope declared by the Engine constructor, it must be establ
 of the Agency that the most severe conditions likely to occur will have no unacceptable effects on the
 Engine.
 [Amdt. No.: E/1]
-SUBSTANTIATION

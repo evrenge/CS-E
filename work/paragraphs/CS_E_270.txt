@@ -21,7 +21,6 @@ the Engine and Engine equipment and have adequate capacity to accommodate contam
 in relation to the specified servicing intervals. These filters or strainers may be provided as part
 of the aircraft; in such cases, their characteristics will be specified in the instructions for
 installation
-AND CONSTRUCTION
 (d)
 Adequate oil cooling shall be provided, or the required oil cooling means shall be defined in the
 instructions for installation, to ensure that temperature limits are not exceeded in any normal

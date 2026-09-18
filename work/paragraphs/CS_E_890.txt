@@ -23,7 +23,6 @@ is sought.
 (2)
 25 cycles from the Engine rotational speed for rated Take-off conditions to the declared
 maximum reverse thrust conditions.
-SUBSTANTIATION
 (3)
 One cycle to the declared maximum reverse thrust conditions, from each of ten Engine
 rotational speeds in the forward thrust range (except Take-off rotational speed and

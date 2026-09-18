@@ -1,10 +1,9 @@
 # AMC E 240 Ignition
 # id: AMC E 240
 # subpart: B
-# pages: 66-67
+# pages: 66-66
 # source: CS-E_Amendment_8.pdf
 
 The use of Special-Purpose Test Fuels for Aviation Compression-Ignition Engines per ASTM D8147 is
 recommended.
 [Amdt No: E/7]
-AND CONSTRUCTION

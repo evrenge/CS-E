@@ -4,7 +4,6 @@
 # pages: 70-70
 # source: CS-E_Amendment_8.pdf
 
-Measurement
 In establishing an acceptable method for determination of the Engine torque, consideration should be
 given to the following:
 (1)

@@ -4,7 +4,6 @@
 # pages: 210-212
 # source: CS-E_Amendment_8.pdf
 
-Rain and Hail
 Figure A1, Table A1, Table A2, Table A3 and Table A4 in this Appendix A specify the atmospheric
 concentrations and size distributions of rain and hail for establishing certification, in accordance with
 the specifications of CS-E 790(a)(2). In conducting tests, normally by spraying liquid water to simulate
@@ -36,7 +35,6 @@ RWC values at other altitudes may be determined by linear interpolation.
 TABLE A2 – CERTIFICATION STANDARD ATMOSPHERIC HAIL CONCENTRATIONS
 Altitude (feet)
 Hail Water Content (HWC) (grams water/cubic metre air)
-SUBSTANTIATION
 0
 6.0
 7 300
@@ -120,7 +118,6 @@ Hailstone Diameter (mm)
 35.0 – 39.9
 1.50
 40.0 – 44.9
-SUBSTANTIATION
 Contribution to total HWC (%)
 Hailstone Diameter (mm)
 0.75

@@ -10,7 +10,6 @@ Engine will function satisfactorily in flight and on the ground when operated th
 applicable atmospheric icing conditions without unacceptable:
 (i)
 immediate or ultimate reduction of Engine performance,
-SUBSTANTIATION
 (ii)
 increase of Engine operating temperatures,
 (iii)
@@ -70,7 +69,6 @@ Engine resulting in unacceptable effects under CS-E 780(a).
 (4)
 In establishing the ice slab ingestion conditions, the assumed ice quantity and
 dimensions, the ingestion velocity and the Engine operating conditions must be
-SUBSTANTIATION
 determined. Those conditions shall be appropriate to the Engine installation on the
 aircraft. These assumptions must be included in the manuals containing instructions for
 installing and operating the Engine under CS-E 20(d).

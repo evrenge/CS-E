@@ -31,6 +31,5 @@ than rated Takeoff power at the Engine rotational speed used to define the Take-
 (d)
 Each acceleration (except for those with a supercharger in high gear) shall be made starting
 from the minimum temperatures for acceleration from idle to be declared in the operating
-SUBSTANTIATION
 limitations. Each acceleration with a supercharger in high gear shall be made from ambient
 conditions.

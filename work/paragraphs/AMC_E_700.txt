@@ -1,10 +1,9 @@
 # AMC E 700 Excess Operating Conditions (Turbine Engines for Aeroplanes)
 # id: AMC E 700
 # subpart: E
-# pages: 135-136
+# pages: 135-135
 # source: CS-E_Amendment_8.pdf
 
-Aeroplanes)
 Case at VMO ∗ ( ∗ For light aeroplanes the speed VNE is normally used)
 (1)
 The Engine should be run at the excess pressures and thrusts which would result from operation
@@ -49,4 +48,3 @@ either of a change in the finally certified limit so that the value achieved dur
 no longer be an exceedence, or of an approval of a transient under CS-E 820, CS-E 830 or CS-E
 870 as appropriate.
 [Amdt. No.: E/1]
-SUBSTANTIATION

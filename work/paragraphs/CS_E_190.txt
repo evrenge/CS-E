@@ -11,5 +11,4 @@ demonstrated. Where the evidence is considered to be acceptable, and such tests 
 have been completed satisfactorily, the Engine Type certificate data sheet will be endorsed by means
 of a note, e.g. ‘the Engine may be used under sustained negative g or inverted flight conditions for
 continuous periods not exceeding... seconds’.
-AND CONSTRUCTION
 CONSTRUCTION

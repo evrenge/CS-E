@@ -38,7 +38,6 @@ Maximum allowable bleed air and power extraction for aircraft use.
 (3)
 An intermediate value for bleed air and power extraction representative of that which
 might be used as a maximum for aircraft during approach to a landing.
-SUBSTANTIATION
 (c)
 If testing facilities are not available to demonstrate the effects of power extraction required in
 CS-E 745(b)(2) and (3), this must be accomplished through appropriate analytical means.

@@ -4,7 +4,6 @@
 # pages: 252-252
 # source: CS-E_Amendment_8.pdf
 
-General
 CS-E subpart F defines specifications for the design of an engine to determine a configuration which
 would be required as part of the approval for particular aircraft operations such as ETOPS or Time
 Limited Dispatch.

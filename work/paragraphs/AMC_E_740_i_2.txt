@@ -23,7 +23,6 @@ The Engine condition exhibited after the additional endurance test required by C
 740(c)(3)(iii) may be used to validate the mandatory maintenance actions after use of 30-
 Second and 2-Minute OEI ratings as required by CS-E 25(b)(2) and described in the associated
 AMC material.
-SUBSTANTIATION
 (4)
 For components which are distressed beyond serviceable limits during the test of CS-E
 740(c)(3)(iii), it should be shown that the inspections and mandatory maintenance actions for

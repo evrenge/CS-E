@@ -1,7 +1,7 @@
 # CS-E 300 Conditions Applicable to All Tests
 # id: CS-E 300
 # subpart: C
-# pages: 69-70
+# pages: 69-69
 # source: CS-E_Amendment_8.pdf
 
 (a)
@@ -56,4 +56,3 @@ provided that the temperatures do not vary appreciably from those declared.
 Torque Measurement - For testing requiring the measurement of Engine power, an acceptable
 method of establishing the torque of the Engine shall be defined. (See AMC E 300(f))
 [Amdt. No.: E/1]
-SUBSTANTIATION

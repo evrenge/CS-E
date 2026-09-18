@@ -1,7 +1,7 @@
 # CS-E 660 Fuel Pressure and Temperature
 # id: CS-E 660
 # subpart: E
-# pages: 130-131
+# pages: 130-130
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 660)
@@ -9,4 +9,3 @@ A substantiation must be made to establish the minimum and maximum fuel pressure
 temperature limits to be approved for the Engine. The details of the substantiation, which may involve
 rig tests and/or complete Engine tests, must be agreed with the Agency.
 [Amdt. No.: E/1]
-SUBSTANTIATION

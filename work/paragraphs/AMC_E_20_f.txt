@@ -4,7 +4,6 @@
 # pages: 20-21
 # source: CS-E_Amendment_8.pdf
 
-OEI Power Ratings
 (1)
 For Engines having one or more OEI ratings, the applicant should provide in the instructions for
 installation the necessary Engine data to support the installer in meeting the power availability

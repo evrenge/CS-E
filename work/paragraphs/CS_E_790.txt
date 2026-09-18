@@ -35,7 +35,6 @@ specified operating envelope when subjected to sudden encounters with the certif
 standard concentrations of rain and hail as defined in Appendix A to CS-E. Acceptable
 Engine operation precludes, during any 3-Minute continuous period in rain and during
 any 30-Second continuous period in hail, the occurrence of flameout, rundown,
-SUBSTANTIATION
 continued or non recoverable surge or stall, or loss of acceleration and deceleration
 capability. It must also be shown after the ingestion that there is no unacceptable
 mechanical damage, unacceptable power or thrust loss, or other adverse Engine
@@ -89,7 +88,6 @@ device;
 (2)
 The protection device will withstand the impact of the subject rain or hail constituents;
 and
-SUBSTANTIATION
 (3)
 The subject rain or hail constituents stopped by the protection device will not obstruct
 the flow of induction air into the Engine resulting in damage, power or thrust loss, or

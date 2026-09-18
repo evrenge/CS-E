@@ -4,8 +4,6 @@
 # pages: 196-196
 # source: CS-E_Amendment_8.pdf
 
-Changes and Derivative Engines – Turbine Engine Power/Thrust
-Loss and Instability in Extreme Conditions of Rain and Hail
 CS-E 790(a)(1) allows, as an alternative to conducting a full Engine test, the certification of design
 changes or derivative Engines based on alternative evidence provided by the applicant (such as other
 Engine test(s), rig test(s), analysis, or an appropriate combination of these); however, alternative

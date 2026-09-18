@@ -46,6 +46,13 @@ RUNNING = re.compile(
     # ate a body line of CS-E 80(b), and it did so in both this filter and
     # the audit that is meant to catch exactly that loss.
     r"|(?-i:SUBPART)\s+[A-F]\s*[–—-]"
+    # A banner too long for one line wraps, and the tail carries no "SUBPART"
+    # to match on. These four are every wrapped tail in the document; none of
+    # them ever occurs as body prose. Without them, 211 header fragments are
+    # injected into paragraph bodies -- "AND CONSTRUCTION" lands twice inside
+    # CS-E 510(a).
+    r"|(?-i:SUBSTANTIATION|AND CONSTRUCTION"
+    r"|ENVIRONMENTAL AND OPERATIONAL|DESIGN REQUIREMENTS)\s*$"
     r"|Annex to ED Decision"
     r"|Page\s+\d+\s+of\s+\d+)",
     re.IGNORECASE,
@@ -120,6 +127,19 @@ def main() -> int:
         m = HEAD_ID.match(found)
         return norm(m.group(1)) if m else found.split("  ")[0].strip()
 
+    # Every body line must reach its paragraph file (loss), AND every line in a
+    # paragraph file must come from the body (injection). The loss check alone
+    # cannot see a filter that is too narrow: a running-header fragment the
+    # filter misses is not a body line, so its presence in a file is invisible
+    # to a check that only walks body lines.
+    injected: list[tuple[str, str]] = []
+    body_lines = {text for _, _, text in lines}
+    for pid in body:
+        f = PARAS / f"{slug(pid)}.txt"
+        for ln in (norm(x) for x in f.read_text(encoding="utf-8").splitlines()):
+            if ln and not ln.startswith("#") and ln not in body_lines:
+                injected.append((pid, ln))
+
     lost: list[tuple[int, str, str]] = []
     orphans = 0
     checked = 0
@@ -138,6 +158,9 @@ def main() -> int:
     print(f"  before the first banner   : {orphans:,}  (front matter, expected)")
     print(f"  owned by a paragraph      : {checked:,}")
     print(f"banners found               : {len(banners)}")
+    print(f"INJECTED — file line absent from the PDF body: {len(injected)}")
+    for pid, ln in injected[:10]:
+        print(f"    {pid}: {ln[:70]}")
     print(f"\nLOST — owner's file lacks the line: {len(lost)}")
     if lost:
         print(f"\nfirst {min(args.show, len(lost))}:")

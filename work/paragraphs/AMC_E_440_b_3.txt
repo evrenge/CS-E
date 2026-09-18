@@ -4,7 +4,6 @@
 # pages: 79-79
 # source: CS-E_Amendment_8.pdf
 
-a Turbocharger
 Altitude testing may be simulated provided it is shown that the Engine and turbocharger are being
 subjected to mechanical loads and operation temperatures no less severe than if run at actual altitude
 conditions.

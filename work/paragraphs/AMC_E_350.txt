@@ -12,7 +12,6 @@ The sea level power characteristics of the Engine should be established against 
 speed and power setting. The following curves should be generated, each consisting of
 sufficient points for each characteristic to ensure the accuracy of the interpolation.
 Normally, at least five points in each curve will be required:
-SUBSTANTIATION
 (i)
 Power against rotational speed at constant power setting, starting from each rating
 to be declared, over the full range of rotational speeds appropriate to that rating.

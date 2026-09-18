@@ -429,7 +429,7 @@
   "title": "Failure Analysis",
   "subpart": "B",
   "start_page": 65,
-  "end_page": 66,
+  "end_page": 65,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -456,7 +456,7 @@
   "title": "Ignition",
   "subpart": "B",
   "start_page": 66,
-  "end_page": 67,
+  "end_page": 66,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -492,7 +492,7 @@
   "title": "Hand Turning",
   "subpart": "B",
   "start_page": 68,
-  "end_page": 69,
+  "end_page": 68,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -501,7 +501,7 @@
   "title": "Conditions Applicable to All Tests",
   "subpart": "C",
   "start_page": 69,
-  "end_page": 70,
+  "end_page": 69,
   "has_figure_or_table": "yes",
   "figure_pages": [
    69
@@ -530,7 +530,7 @@
   "title": "Performance Correction",
   "subpart": "C",
   "start_page": 70,
-  "end_page": 71,
+  "end_page": 70,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -647,7 +647,7 @@
   "title": "Endurance Test",
   "subpart": "C",
   "start_page": 76,
-  "end_page": 79,
+  "end_page": 78,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -766,7 +766,7 @@
   "title": "Strength - High Cycle Fatigue",
   "subpart": "D",
   "start_page": 106,
-  "end_page": 107,
+  "end_page": 106,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -802,7 +802,7 @@
   "title": "Continued Rotation",
   "subpart": "D",
   "start_page": 108,
-  "end_page": 109,
+  "end_page": 108,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -883,7 +883,7 @@
   "title": "Starter Systems",
   "subpart": "D",
   "start_page": 114,
-  "end_page": 115,
+  "end_page": 114,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -910,7 +910,7 @@
   "title": "Performance Correction",
   "subpart": "E",
   "start_page": 115,
-  "end_page": 116,
+  "end_page": 115,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -967,7 +967,7 @@
   "title": "Fuel Pressure and Temperature",
   "subpart": "E",
   "start_page": 130,
-  "end_page": 131,
+  "end_page": 130,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1042,7 +1042,7 @@
   "title": "Excess Operating Conditions",
   "subpart": "E",
   "start_page": 134,
-  "end_page": 135,
+  "end_page": 134,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1051,7 +1051,7 @@
   "title": "Excess Operating Conditions (Turbine Engines for Aeroplanes)",
   "subpart": "E",
   "start_page": 135,
-  "end_page": 136,
+  "end_page": 135,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1105,7 +1105,7 @@
   "title": "Calibration Tests",
   "subpart": "E",
   "start_page": 137,
-  "end_page": 138,
+  "end_page": 137,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1299,7 +1299,7 @@
   "title": "Rain and Hail Ingestion \u2013 Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail",
   "subpart": "E",
   "start_page": 196,
-  "end_page": 210,
+  "end_page": 209,
   "has_figure_or_table": "yes",
   "figure_pages": [
    199,
@@ -1503,7 +1503,7 @@
   "title": "Relighting In Flight",
   "subpart": "E",
   "start_page": 243,
-  "end_page": 244,
+  "end_page": 243,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1521,7 +1521,7 @@
   "title": "Over-temperature Test",
   "subpart": "E",
   "start_page": 244,
-  "end_page": 245,
+  "end_page": 244,
   "has_figure_or_table": "no",
   "figure_pages": []
  },
@@ -1634,7 +1634,7 @@
   "title": "Exposure to volcanic cloud hazards",
   "subpart": "F",
   "start_page": 261,
-  "end_page": 262,
+  "end_page": 261,
   "has_figure_or_table": "no",
   "figure_pages": []
  },

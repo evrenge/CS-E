@@ -42,7 +42,6 @@ filler cap.
 Static Pressure Tests (see CS-E 640(a))
 The anticipated Engine manual serviceable limits may be used as the criteria to judge the
 acceptability of any permanent distortion.
-SUBSTANTIATION
 When a test is performed on a part which is subjected in service to a varying pressure
 throughout its length, it is permissible to simulate the pressure conditions by suitably dividing
 the part into zones and applying the maximum pressure for each zone including the appropriate

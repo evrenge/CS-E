@@ -41,7 +41,6 @@ Wc = Wo × 1013 ∙25
 B
 Power
 S.I. Units
-SUBSTANTIATION
 Pc = Po × 1013 ∙25
 × √288
 θ

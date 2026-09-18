@@ -1,12 +1,10 @@
 # CS-E 290 Hand Turning
 # id: CS-E 290
 # subpart: B
-# pages: 68-69
+# pages: 68-68
 # source: CS-E_Amendment_8.pdf
 
 It must be possible to rotate the crankshaft in controlled slow motion. Where this is effected by hand-
 turning gear as distinct from the Propeller, a means of safe guarding the operator against injury, if the
 Engine starts or kicks back, must be provided. It must not be possible to damage the Engine by use of
 the hand-turning gear.
-SUBSTANTIATION
-SUBSTANTIATION

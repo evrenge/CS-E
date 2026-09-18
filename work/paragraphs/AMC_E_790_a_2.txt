@@ -1,13 +1,11 @@
 # AMC E 790(a)(2) Rain and Hail Ingestion – Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail
 # id: AMC E 790(a)(2)
 # subpart: E
-# pages: 196-210
+# pages: 196-209
 # source: CS-E_Amendment_8.pdf
 
-Thrust Loss and Instability in Extreme Conditions of Rain and Hail
 (1)
 Definitions
-SUBSTANTIATION
 The following terms are defined for the purpose of this AMC:
 Operating conditions within the Engine flight envelope at
 Critical point(s)
@@ -63,7 +61,6 @@ surging, power loss and Engine flameout.
 Meteorological Data
 Appendix A to CS-E defines the atmospheric conditions of rain and hail for the purpose of
 establishing certification test standards. Note that the water concentrations defined for
-SUBSTANTIATION
 rain and hail in Appendix A represent ambient conditions, not test conditions at the
 Engine inlet.
 (c)
@@ -90,7 +87,6 @@ nacelle inlet to the core inlet at low Engine power and high flight speed. There
 although the scoop factor effect generally results in concentration amplification,
 the amplification is greatest when high flight speed is combined with low power /
 thrust.
-SUBSTANTIATION
 Figure 1 Scoop Factor
 (ii)
 Relative velocity centrifuging effects
@@ -109,7 +105,6 @@ majority of droplets that enter the Engine at gas path speeds will strike
 the fan and be centrifuged away from the Engine core.
 The forces acting upon the rain droplets in flight will vary with
 aeroplane velocity and altitude. A portion of the rain droplets entering
-SUBSTANTIATION
 the Engine may have sufficient mass such that deceleration to gas
 path velocity is not possible. At low Engine rotational speeds and high
 flight speeds, the velocity of the large rain droplets, relative to the fan,
@@ -138,7 +133,6 @@ results in an added degree of conservatism.
 Unlike turbofan Engines, the Propeller rotational speed does not vary
 significantly in flight, regardless of power setting. Thus, any beneficial
 effect of the Propeller will remain reasonably independent of altitude
-SUBSTANTIATION
 and power setting. Where an inlet particle separation system is
 incorporated, credit may be taken for its characteristics.
 — Hail
@@ -164,7 +158,6 @@ turbine engines might not have rotating components that centrifuge rain or hail 
 from the Engine. While differences in centrifuging capability between static test
 conditions and flight operation is an important consideration for turbofan engines, it
 typically has no applicability to rotorcraft turbine engines. Increasing the ambient rain
-SUBSTANTIATION
 concentration from Appendix A values to 4 percent water droplet flow to airflow, by
 weight, will usually compensate for any flight effects.
 (e)
@@ -216,7 +209,6 @@ Design Factors
 General
 The response of a turbine Engine to a rain or hail encounter depends on a number of
 design and operational factors. The manufacturer can greatly improve the operability of
-SUBSTANTIATION
 the Engine during an extreme rain or hail encounter by incorporating certain design
 features. However, there may be a trade-off with some of these design features. For
 instance, a spinner designed to maximise hail rebound and rain droplet centrifuging may
@@ -268,7 +260,6 @@ Variable stator vane
 The schedule of the compressor variable stator vanes directly affects the
 compressor performance, operability and stability characteristics. Weather-
 related sensing or scheduling errors may cause a loss of surge or stall margin.
-SUBSTANTIATION
 (c)
 Operational Factors
 With knowledge of the power-loss and instability phenomena, the applicant can establish
@@ -321,7 +312,6 @@ should be quantified. This may necessitate assessing a representative installati
 aerodynamic flow field and probable flight profiles. In the case of rain ingestion,
 droplet break-up characteristics need to be established or conservatively assessed.
 In the case of hail ingestion, the trajectories of hail particles after impacting nose
-SUBSTANTIATION
 cones, spinners, inlet surfaces, blades and vanes, etc. need to be established or
 conservatively assessed for determining critical points.
 (iii)
@@ -373,7 +363,6 @@ Air density
 The critical point percentage of rain and hail concentration by weight should
 be reproduced during the test. For example, 20 g/m 3 of rain at 20 000 feet is
 approximately 3 per cent water by weight. At sea level this percentage of
-SUBSTANTIATION
 water requires nearly 40 g/m 3 to compensate for the higher air density (refer
 to Figure A1 in Appendix A of CS-E).
 (B)
@@ -425,7 +414,6 @@ Rain droplet break-up
 In the ground-level test environment, forces applied to accelerate the
 simulated rain droplets to flight speed, as well as shear forces between the
 droplets and the Engine airflow, are apt to break up the droplets. This break-
-SUBSTANTIATION
 up can result in reduced conservatism due to additional centrifuging by the
 fan or Propeller and spinner. The concentration of the rain may need to be
 increased to compensate for the added centrifuging resulting from ground-
@@ -479,7 +467,6 @@ Note: Applicants can elect to integrate the test point required by paragraph
 consider it separately using test or analysis. Applicants may also
 propose justifiable alternatives to assess similar short-term, high-
 concentration threats.
-SUBSTANTIATION
 (F)
 When testing low-power critical points (i.e. the minimum flameout and/or
 rundown margin), conduct tests with ingestion during the following
@@ -533,7 +520,6 @@ dispatch.
 Sustained power or thrust loss
 The sustained power or thrust loss as a result of a shift or error in measured
 thrust or power against the primary thrust or power set parameter(s)
-SUBSTANTIATION
 following the ingestion test, should be limited to 3 percent. Measured post-
 ingestion power or thrust losses greater than 3 per cent at any value of the
 primary setting parameter, can only be accepted when supported by
@@ -571,4 +557,3 @@ etc.) should be proportional to the complexity of the analytical methods used an
 criticality of the particular calculation to the prediction of Engine operability.
 [Amdt No: E/1]
 [Amdt No: E/5]
-SUBSTANTIATION
