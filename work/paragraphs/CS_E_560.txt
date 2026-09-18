@@ -5,8 +5,8 @@
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 560)
-(1)
 (a)
+(1)
 Each fuel specification to be approved, including any additive, and the associated
 limitations in flow, temperature and pressure that ensure proper Engine functioning
 under all intended operating conditions must be declared and substantiated.
@@ -17,8 +17,8 @@ using appropriate fuel may be conducted.
 (3)
 The Engine fuel pump must have a margin of capacity over the maximum Engine demand
 in the flight envelope consistent with the assumed aircraft installation specifications.
-(1)
 (b)
+(1)
 Filters, strainers or other equivalent means must be provided to protect the fuel system
 from malfunction due to contaminants. These devices must have the capacity to
 accommodate any likely quantity of contaminants, including water, in relation to

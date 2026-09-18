@@ -29,61 +29,61 @@ evaluating equipment airworthiness.
 General Environmental Conditions
 The following environmental conditions should be considered for all equipment.
 Table 1
-ACCEPTABLE TESTS/PROCEDURES
 ENVIRONMENTAL CONDITIONS
+ACCEPTABLE TESTS/PROCEDURES
 1
-EUROCAE ED-14 / RTCA/DO-160,
 High Temperature
+EUROCAE ED-14 / RTCA/DO-160,
 Section 4 or Mil-E-5007 paragraph 4.6.2.2.5
 2
-EUROCAE ED-14 / RTCA/DO-160,
 Low Temperature
+EUROCAE ED-14 / RTCA/DO-160,
 Section 4 or Mil-E-5007 paragraph 4.6.2.2.7
 3
-EUROCAE ED-14 / RTCA/DO-160,
 Room Temperature
+EUROCAE ED-14 / RTCA/DO-160,
 Section 4 or Mil-E-5007 paragraph 4.6.2.2.6
 4
-As a reminder.
 Contaminated Fluids
+As a reminder.
 See relevant CS-E specifications for fuel/oil/air
 specifications
 or
 Mil-E-5007 paragraph 3.7.3.3.2 Table X
 (fuel test only)
 5
-EUROCAE ED-14 / RTCA/DO-160,
 Vibration
+EUROCAE ED-14 / RTCA/DO-160,
 Section 8
 6
-EUROCAE ED-14 / RTCA/DO-160,
 Operational shock and crash safety
+EUROCAE ED-14 / RTCA/DO-160,
 Sections 7.2 and 7.3.1
 7
-EUROCAE ED-14 / RTCA/DO-160, Section 12,
 Sand and Dust
+EUROCAE ED-14 / RTCA/DO-160, Section 12,
 Category D or MIL-STD-810
 8
-EUROCAE ED-14 / RTCA/DO-160,
 Fluid Susceptibility
+EUROCAE ED-14 / RTCA/DO-160,
 Section 11, Category F
 9
-EUROCAE ED-14 / RTCA/DO-160,
 Salt Spray
+EUROCAE ED-14 / RTCA/DO-160,
 Section 14, Category S or MIL-STD-810
 10
-As a reminder. See CS-E 560 (e)
 Fuel System Icing
+As a reminder. See CS-E 560 (e)
 11
-As a reminder. See CS-E 230 & CS-E 780
 Induction Icing
+As a reminder. See CS-E 230 & CS-E 780
 12
-EUROCAE ED-14 / RTCA/DO-160,
 Fungus
+EUROCAE ED-14 / RTCA/DO-160,
 Section 13, Category F
 13
-EUROCAE ED-14 / RTCA/DO-160,
 Temperature and altitude
+EUROCAE ED-14 / RTCA/DO-160,
 Section 4
 High Temperature
 The high temperature demonstration is to verify that the equipment can function
@@ -175,35 +175,35 @@ equipment or equipment with electrical / electronic sub-components. Additional
 advisory material on EMI, HIRF and lightning strikes may be found in AMC 20-1 and
 AMC 20-3.
 Table 2
-ACCEPTABLE TESTS/PROCEDURES
-ENVIRONMENTAL
 Electrical
-CONDITIONS
+ENVIRONMENTAL
+ACCEPTABLE TESTS/PROCEDURES
 General
+CONDITIONS
 14
-EUROCAE ED-14 /RTCA/DO-160,
 Thermal Cycle
+EUROCAE ED-14 /RTCA/DO-160,
 Section 5
 15
-EUROCAE ED-14 / RTCA/DO-160,
 Explosion Proofness
+EUROCAE ED-14 / RTCA/DO-160,
 Section 9
 16
-EUROCAE ED-14 / RTCA/DO-160,
 Humidity
+EUROCAE ED-14 / RTCA/DO-160,
 Section 6 or
 MIL-STD-810
 17
-EUROCAE ED-14 / RTCA/DO-160,
 Waterproofness
+EUROCAE ED-14 / RTCA/DO-160,
 Section 10 or
 MIL-STD-810 (RAIN)
 18
 EMI, HIRF & lightning
 See AMC 20-1 and AMC 20-3
 19
-EUROCAE ED-14 / RTCA/DO-160, Section 16 and
 Power Input
+EUROCAE ED-14 / RTCA/DO-160, Section 16 and
 17 or MIL-STD-704
 Thermal Cycle
 The thermal cycle demonstration is to demonstrate that an item of equipment will
@@ -248,30 +248,30 @@ substantiated by the test defined in EUROCAE ED-14 / RTCA/DO-160, section 16 and
 Mechanical Equipment
 Other specifications of CS-E may affect some equipment as follows.
 Table 3
-ACCEPTABLE TESTS/PROCEDURES
 SUBJECT
+ACCEPTABLE TESTS/PROCEDURES
 20
-CS-E 640(a)(1)
 Proof Pressure
+CS-E 640(a)(1)
 21
 Burst Pressure
 CS-E 640(a)(2)
 22
-AMC E 515(3)(e)
 Pressure Cycling
+AMC E 515(3)(e)
 23
-CS-E 130 (note: the Engine Control System should
 Fire
+CS-E 130 (note: the Engine Control System should
 also comply with CS-E 130(e))
 The related AMC E 130 and AMC E 640 are therefore relevant.
 (d)
 Specialised Equipment Testing
 Table 4
-ACCEPTABLE TESTS/PROCEDURE
 SUBJECT
+ACCEPTABLE TESTS/PROCEDURE
 24
-AMC 20-1 and AMC 20-3
 Overheat for Engine electronic
+AMC 20-1 and AMC 20-3
 control systems
 Overheat
 The purpose of this test or analysis is to verify that the electrical/electronic portions of
@@ -301,8 +301,8 @@ SECTION SPECIFICATIONS APPLICABLE (see Table 6)
 a, b, c, d and e
 2. Tri-hub burst within the normal operating
 a, b, c (a reduction of the fatigue scatter factor may
-be permissible), d and e
 speed (i.e. at the highest permitted speed
+be permissible), d and e
 without Failure of the system but including
 maximum governor over-swing)
 3. Tri-hub burst at the maximum "no load"
@@ -319,17 +319,17 @@ whichever is the lesser
 Table 6
 REFERENCE
 SPECIFICATION
-Quality control of containment means
 a
-Establishment that drive mechanism will prevent the Engine driving the starter to a
+Quality control of containment means
 b
+Establishment that drive mechanism will prevent the Engine driving the starter to a
 dangerous speed, unless such a probability is Extremely Remote (see CS-E 590)
-Establishment of Approved Life and quality control of rotating Engine Critical Parts
 c
+Establishment of Approved Life and quality control of rotating Engine Critical Parts
 (see CS-E 515, E 70 and E 110)
-Integrity test of rotating parts (see CS-E 840)
 d
-Clearance between rotating and fixed parts (see CS-E 520(b))
+Integrity test of rotating parts (see CS-E 840)
 e
+Clearance between rotating and fixed parts (see CS-E 520(b))
 [Amdt No: E/1]
 [Amdt No: E/5]

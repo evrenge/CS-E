@@ -36,8 +36,8 @@ coinciding with the fuel control acceleration schedule.
 Scoop factor
 The ratio of nacelle inlet highlight area (A h ) to the area of the
 captured air stream tube (A c ) (Scoop factor = A h /A c ).
-An airflow breakdown at one or more compressor aerofoil
 Stall
+An airflow breakdown at one or more compressor aerofoil
 stages.
 Surge
 The response of an entire Engine that is characterised by a

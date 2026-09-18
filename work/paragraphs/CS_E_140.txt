@@ -18,8 +18,8 @@ adjustments to be made or as required by paragraphs relating to specific tests. 
 devices must operate or be operated in a manner consistent with both the type design and the
 operating instructions to be provided under CS-E 20(d) unless otherwise necessary for the
 purpose of the test.
-(1)
 (d)
+(1)
 All equipment drives not essential to the satisfactory functioning of the Engine must be
 disconnected or off loaded during the Calibration Tests of CS-E 350 or CS-E 730.
 Throughout all other tests, except as required by CS-E 140(d)(2), they must be suitably

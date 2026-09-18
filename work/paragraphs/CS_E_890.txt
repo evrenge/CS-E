@@ -38,8 +38,8 @@ CS-E 890(c), a test of at least 5 hours must be performed, as part of the tests 
 maximum reverse thrust conditions declared for in-flight use divided into equal periods each
 not less than the maximum permitted for in-flight use and including at least 30 operations into
 reverse thrust.
-(1)
 (e)
+(1)
 During the tests of CS-E 890(c) and (d), the time to complete each scheduled thrust
 operation must be recorded.
 (2)

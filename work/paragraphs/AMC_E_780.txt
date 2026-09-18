@@ -341,41 +341,41 @@ shedding. If repeat build/shed cycles have been established, the acceleration
 should be delayed to maximise the impact energy of the ice shed.
 Table 1 — Standard test points
 (b)
-Altitude
 Ambient Air
+Altitude
 Liquid Water Content (LWC)
 Mean
+Temperature
 (g/m3)
 Effective
-Temperature
 (°C)
 Droplet
-(a)
-(b)
 (ft)
 (m)
+(a)
+(b)
 Diameter(µm)
 Continuous Max
 Intermittent
 Max
 -10
-0.6
 17 000
+5 182
+0.6
 2.2
 20
-5 182
 -20
+20 000
+6 096
 0.3
 1.7
 20
-20 000
-6 096
 -30
+25 000
+7 620
 0.2
 1.0
 20
-25 000
-7 620
 Tests points at power/thrust below that required for sustained flight
 An additional test at the minimum power/thrust associated with descent in icing
 conditions should be conducted at an ambient temperature of -10°C or lower if
@@ -420,6 +420,7 @@ modification of Engine operating conditions and other test conditions of this
 paragraph in order to adequately simulate all icing threats and effects which are
 relevant for the test conditions..
 The icing threats which should be considered include but are not limited to:
+—
 vibration;
 —
 surge;
@@ -429,7 +430,6 @@ flameout;
 core blockage; and
 —
 ice impact energy and location following shedding.
-—
 For instance, if more ice would accrete at a critical location under altitude
 conditions, then the test conditions (e.g. LWC) may need to be adjusted. Similarly,
 if the rotor speed in flight would be higher, this should be considered to ensure
@@ -443,10 +443,10 @@ various icing threats are also impacted differently by varying altitude conditio
 Consequently, this may require running multiple test points to simulate all
 relevant/applicable icing threats associated with a single atmospheric condition.
 In that context, a single atmospheric condition could either be:
+—
 a single standard test point as listed in Table 1 above, or
 —
 a single test point identified by a CPA (refer to AMC E 780 (2.1)).
-—
 Effects which should be considered and corrected for include but are not limited
 to:
 —
@@ -493,49 +493,49 @@ The applicant should demonstrate, taking into consideration expected airport ele
 the following:
 Table 2 — Demonstration Methods for Specific Icing Conditions
 Condition
-Demonstration
+Total Air
 Liquid Water/Snow
 Mean Effective
-Total Air
+Demonstration
+Temperature
 Concentrations
 Particle Diameter
-Temperature
 (minimum)
 Liquid — 0.3 g/m 3
--18 to -9 °C
 1. Rime ice
+-18 to -9 °C
 15–25 µm
 By Engine test
-(0 to 15 °F)
 condition
+(0 to 15 °F)
 Liquid — 0.3 g/m 3
+2. Glaze ice
 -9 to -1 °C
 15–25 µm
-2. Glaze ice
 By Engine test
-(15 to 30 °F)
 condition
+(15 to 30 °F)
 Snow — 0.9 g/m 3
+3. Snow condition
 -3 to 0 °C
 100 µm
-3. Snow condition
 By test, analysis
-(26 to 32 °F)
 (Note 1)
-(including
+(26 to 32 °F)
 (minimum)
+(including
 comparative
 analysis) or
 combination of the
 two.
 Liquid — 0.3 g/m 3
+4. Large drop glaze
 -9 to -1 °C
 100–3 000 µm
-4. Large drop glaze
 By test, analysis
+ice condition
 (15 to 30 °F)
 (including
-ice condition
 (Note 2)
 comparative
 analysis) or
@@ -635,61 +635,61 @@ interpolation between the values of Table 3, based on the actual Engine’s inle
 area.
 Table 3 — Minimum ice slab dimensions based on Engine inlet size
 Engine Inlet Highlight
-Length (inch/cm)
 Thickness (inch/mm)
 Width (inch/cm)
+Length (inch/cm)
 Area (inch²/m²)
+0/0
 0.25/6.35
 0/0
-0/0
 3.6/9.144
-0.25/6.35
-3.6/9.144
-6/15.24
 80/0.0516128
 0.25/6.35
-12/30.48
+6/15.24
 3.6/9.144
 300/0.193548
 0.25/6.35
 12/30.48
-4.8/12.192
+3.6/9.144
 700/0.451612
+0.25/6.35
+12/30.48
+4.8/12.192
+2 800/1.806448
 0.35/8.89
 12/30.48
-2 800/1.806448
 8.5/21.59
-0.43/10.922
-11.0/27.94
-12/30.48
 5 000/3.2258
-0.50/12.7
-12.7/32.258
+0.43/10.922
 12/30.48
+11.0/27.94
 7 000/4.51612
 0.50/12.7
 12/30.48
-13.4/34.036
+12.7/32.258
 7 900/5.096764
 0.50/12.7
 12/30.48
-14.6/37.084
+13.4/34.036
 9 500/6.12902
 0.50/12.7
+12/30.48
+14.6/37.084
 11 300/7.290308
+0.50/12.7
 12/30.48
 15.9/40.386
-0.50/12.7
-12/30.48
 13 300/8.580628
+0.50/12.7
+12/30.48
 17.1/43.434
-0.50/12.7
-12/30.48
 16 500/10.64514
-18.9/48.006
 0.50/12.7
 12/30.48
+18.9/48.006
 20 000/12.9032
+0.50/12.7
+12/30.48
 20.0/50.8
 Note: Applicants should use a minimum ice slab density equivalent to a 0.9 specific gravity
 unless a different value is considered more appropriate.

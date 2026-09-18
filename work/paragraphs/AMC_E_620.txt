@@ -47,41 +47,41 @@ Pc = Po × 1013 ∙25
 B
 (2)
 Notation
-=
 B
+=
 Barometric pressure in test chamber
 hPa
+θ
 =
 Observed intake temperature, corrected for instrument
-θ
 K
 temperature and scale errors only
-=
 P
+=
 Pressure
 hPa
-=
-K
 T
-Temperature
 =
+Temperature
+K
 N
+=
 Rotational speed
 rpm
-=
 F
+=
 Thrust
 kN
+W
 =
 Mass air flow
-W
 kg/s
+w
 =
 Fuel flow
 kg/h
-w
-=
 P
+=
 Power
 kW
 (3)

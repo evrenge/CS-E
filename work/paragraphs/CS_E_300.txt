@@ -17,20 +17,20 @@ Temperatures – General. Except as prescribed in CS-E 300(d) and (e), the tempe
 held throughout each stage, within the limits given in Table 1, to the values declared as the
 maxima appropriate to the power, where that power is a limiting condition.
 TABLE 1
+Temperature
 Applicable to
 Limits (°C)
-Temperature
-All Engines ± 3
 Oil inlet
+All Engines ± 3
 ± 3
 Coolant outlet
 Liquid-cooled Engines ± 3
 ± 3
-Air-cooled Engines ± 5
 Cylinder
+Air-cooled Engines ± 5
 ± 5
-All Engines ± 3
 Charge Cooler (when fitted)
+All Engines ± 3
 ± 3
 (d)
 Temperatures – At High Powers

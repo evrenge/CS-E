@@ -58,12 +58,12 @@ specified power or a specified manifold pressure. Unless otherwise
 stated, the critical altitude is the maximum altitude at which it is
 possible to maintain, without ram, at the maximum continuous
 rotational speed, one of the following:
-The maximum continuous power, in the case of engines for
 a.
+The maximum continuous power, in the case of engines for
 which this power rating is the same at sea level and at the rated
 altitude.
-The maximum continuous rated manifold pressure, in the case
 b.
+The maximum continuous rated manifold pressure, in the case
 of engines the maximum continuous power of which is
 governed by a constant manifold pressure.
 Manifold Pressure

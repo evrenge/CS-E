@@ -211,13 +211,13 @@ the experience.
 3.
 Elements of a Damage Tolerance Assessment.
 The damage tolerance assessment should include the two following elements:
-The establishment of a minimum level of damage tolerance capability for
 —
+The establishment of a minimum level of damage tolerance capability for
 each critical component using either a probabilistic approach or a
 deterministic approach. These should address the anomaly types described
 in paragraph 2. above,
-The establishment of a service damage monitoring process in order to gain
 —
+The establishment of a service damage monitoring process in order to gain
 assurance that service damage is consistent with serviceable and repairable
 limits and to initiate appropriate action if damage is found outside these
 established limits.
@@ -226,12 +226,12 @@ Establishment of a minimum level of damage tolerance capability.
 a. Probabilistic approach.
 Probabilistic damage tolerance approaches exist to address anomalies described in
 paragraph (3)(d)(v)(2) above. Hereafter are some examples:
-FAA Advisory Circular (AC) 33.70-2, Damage Tolerance of Hole Features in
 —
+FAA Advisory Circular (AC) 33.70-2, Damage Tolerance of Hole Features in
 High Energy Turbine Rotors, includes an example of the probabilistic
 approach that applies to manufacturing anomalies in hole features.
-FAA Advisory Circular (AC) 33.70-3, Damage Tolerance for Material
 —
+FAA Advisory Circular (AC) 33.70-3, Damage Tolerance for Material
 Anomalies in Titanium Life-Limited Turbine Engine Rotors, includes an
 example of the probabilistic approach that applies to hard alpha material
 anomalies in titanium alloy rotor components.
@@ -286,6 +286,7 @@ that satisfy the allowable values will be considered to be in compliance with th
 Manufacturers may use a variety of options to reduce the POF and achieve the
 level of relative risk allowed by the probabilistic risk assessment. These options
 include but are not limited to:
+—
 component redesign,
 —
 material change,
@@ -299,12 +300,12 @@ manufacturing inspection improvements,
 enhanced in-service inspections, and
 —
 life limit reduction.
-—
 When an applicant chooses to pursue a published industry or company-specific
 probabilistic damage tolerance approach, the applicant should provide and agree
 with the Agency such data that has an impact on the risk levels resulting from this
 approach. This data may include but is not limited to the following items as
 appropriate to the component:
+—
 Anomaly size/frequency distribution
 —
 Fleet utilisation
@@ -314,12 +315,11 @@ Maintenance practices
 Production/Assembly processes
 —
 Anomaly growth characteristics (crack initiation (incubation), crack
-—
 propagation, or a combination of crack initiation and crack propagation)
+—
 Inspection techniques and intervals
 —
 Inspection Probability Of Detection (POD)
-—
 The process utilised to carry out the probabilistic approach needs to be agreed with
 the Agency.
 The objectives in terms of probabilities of Failures of Critical Parts having
@@ -354,22 +354,22 @@ An analysis should be provided that demonstrates that the surface fracture
 mechanics life for all Critical Parts exceeds 3 000 representative flight cycles, or 50
 % of the Approved Life of the part, whichever is less.
 This analysis should take account of the following assumptions:
+—
 Analyses performed using Linear Elastic Fracture Mechanics;
 —
 Initial anomaly size is one of the following:
-—
+•
 0.762 mm × 0.381 mm (0.030 inches × 0.015 inches) for an assumed
-•
 (semi-circular) surface anomaly;
-0.381 mm × 0.381 mm (0.015 inches × 0.015 inches) for an assumed
 •
+0.381 mm × 0.381 mm (0.015 inches × 0.015 inches) for an assumed
 (quarter-circular) corner anomaly;
-Any additional assumptions used in this analysis (i.e. material properties,
 —
+Any additional assumptions used in this analysis (i.e. material properties,
 reference engine cycle, operating environment and its effect on the stress
 cycle, use of compressive residual stresses, use of inelastic stresses, etc.);
-Anomalies should be treated as sharp propagating cracks from the first
 —
+Anomalies should be treated as sharp propagating cracks from the first
 stress cycle, placed in the most unfavourable orientation and location.
 5.
 Establishment of a Service Damage Monitoring Process.
@@ -384,29 +384,30 @@ additional actions are required to prevent Failure and rectify any potential uns
 condition which may be identified.
 The establishment of a service damage monitoring process consists of the
 following:
-Determine the serviceable and repairable damage limits using a process
 a.
+Determine the serviceable and repairable damage limits using a process
 approved by the Agency and summarised within the service management plan.
 Damage size limits should be a function of part, part location, and damage type.
 Damage should include but may not be limited to nicks, dents, scratches and
 cracks. The serviceable and repairable limits must be published in the Instructions
 for Continued Airworthiness.
-Establish a monitoring process to record damage that meets all of the
 b.
+Establish a monitoring process to record damage that meets all of the
 following criteria:
+—
 is inconsistent with or exceeds the repairable limits,
 —
 is made available to the type certificate holder (TCH) or supplemental type
-—
 certificate holder (STCH) through an appropriate reporting system.
 The applicant should, as appropriate, consider the effectiveness of existing
 reporting systems as new product types/operations are introduced.
 Document the monitoring process in the service management plan. This activity
 should record at a minimum the damage size, type and location observed during
 service inspections for each Critical Part.
-Assess damage meeting the criteria defined in b. above. This assessment
 c.
+Assess damage meeting the criteria defined in b. above. This assessment
 should consider:
+—
 the impact of the observed damage on the life of the damaged part,
 —
 the likelihood for recurrence of similar damage,
@@ -414,10 +415,9 @@ the likelihood for recurrence of similar damage,
 whether the damage has been determined as having flown,
 —
 whether the damage is likely to be undetected before the part is released to
-—
 service,
-recommended corrective actions to identify/prevent/eliminate the source
 —
+recommended corrective actions to identify/prevent/eliminate the source
 of the damage.
 During the service life of the part, a summary of the damage information obtained
 by the service damage monitoring process, as well as the corrective actions

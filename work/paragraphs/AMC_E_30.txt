@@ -7,11 +7,11 @@
 The details required by CS-E 30 concerning assumptions should normally include information on, at
 least, the items listed in Table 1.
 TABLE 1
-Assumptions
 Specifications/References
+Assumptions
 ALL ENGINES
-Applicable aircraft specifications.
 Interfaces
+Applicable aircraft specifications.
 CS-E 20
 Flight and ground loads.
 Aircraft components and equipment not included in the Engine definition.
@@ -41,8 +41,8 @@ mounting structure or Engine attachment points that are not Fireproof.
 Electrical Bonding
 Reliance placed on aircraft provisions for electrical bonding of the Engine.
 CS-E 135
-Assumptions
 Specifications/References
+Assumptions
 Propeller Functioning Tests
 Propeller system.
 CS-E 180
@@ -61,14 +61,14 @@ Freedom from surge
 Operating envelope, i.e. altitude, temperature, aircraft speed. Permissible
 CS-E 500
 intake distortion.
-Engine Flight Cycle.
 Low-cycle fatigue
+Engine Flight Cycle.
 CS-E 515
-Aircraft conditions such as airspeed, flight duration and ambient conditions.
 Continued Rotation
+Aircraft conditions such as airspeed, flight duration and ambient conditions.
 CS-E 525
-Fuel Specifications approved for use. Need for aircraft fuel anti-ice means or
 Fuel System
+Fuel Specifications approved for use. Need for aircraft fuel anti-ice means or
 CS-E 560
 fuel with anti-ice additives. Assumptions made with respect to the maximum
 levels of contamination in the fuel supplied to the Engine.
@@ -79,29 +79,29 @@ Engine maximum allowable oil consumption, to enable the installer to show
 compliance with the aircraft certification specifications on oil systems.
 Note: when separate oil systems exist, the respective maximum allowable oil
 consumptions.
-Reliance placed on aircraft provisions for any safety system that is outside the
 Starter System
+Reliance placed on aircraft provisions for any safety system that is outside the
 CS-E 590
 applicant’s control.
-Intake conditions, exhaust conditions. Propeller or thrust reverser effects.
 Vibration Surveys
+Intake conditions, exhaust conditions. Propeller or thrust reverser effects.
 CS-E 650
 Contaminated Fuel
 Duration of flight with contaminated fuel following indication of impending
 CS-E 670
 filter blockage, and critical temperature for test of AMC E 670 paragraph 2.
-Flight manoeuvres.
 Inclination and Gyroscopic
+Flight manoeuvres.
 Loads Effects
 CS-E 680
 Excess Operating
 Operating envelope.
 Conditions CS-E 700
-Maximum torque from continued flight.
 Rotor Locking Test
+Maximum torque from continued flight.
 CS-E 710
-Minimum ground idle.
 Thrust or power response
+Minimum ground idle.
 CS-E 745
 Minimum flight idle.
 Flight envelope.
@@ -110,31 +110,31 @@ Intake conditions and configuration. Aircraft speeds and appropriate Engine
 CS-E 780
 powers.
 Engine ingestion capabilities.
-Aircraft speeds, Engine speeds and altitudes. Intake throat area – Intake
 Ingestion of Rain and Hail
+Aircraft speeds, Engine speeds and altitudes. Intake throat area – Intake
 CS-E 790
 configuration.
-Aircraft speeds, Engine speeds and altitudes. Intake throat area – Intake
 Bird strikes
+Aircraft speeds, Engine speeds and altitudes. Intake throat area – Intake
 CS-E 800
 configuration.
-Flight relighting envelope.
 Relighting in Flight
+Flight relighting envelope.
 CS-E 910
 PISTON ENGINES
-Assumptions
 Specifications/References
+Assumptions
 De-icing and anti-icing
 Temperature rise provided.
 CS-E 230
 Filters
 Provision to be made in installation.
 CS-E 260
-Propeller used.
 Vibration Tests
+Propeller used.
 CS-E 340
-Installation details.
 Water Spray Tests
+Installation details.
 CS-E 430
 [Amdt No: E/1]
 [Amdt No: E/4]

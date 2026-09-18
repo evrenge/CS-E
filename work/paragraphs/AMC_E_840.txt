@@ -7,8 +7,8 @@
 (1)
 Definitions
 The following terms are defined for the purposes of interpreting CS-E 840 and this AMC.
-Individual stage of a fan, compressor or turbine assembly (some assemblies may
 Rotor:
+Individual stage of a fan, compressor or turbine assembly (some assemblies may
 consist of only one stage).
 Sample rotor: A test article or assembly including, where appropriate, cover plates, spacers,
 etc., that is representative of the standard to be certified and for which the

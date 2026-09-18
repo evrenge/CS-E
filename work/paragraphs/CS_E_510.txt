@@ -5,8 +5,8 @@
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 510)
-(1)
 (a)
+(1)
 An analysis of the Engine, including the control system, must be carried out in order to
 assess the likely consequence of all Failures that can reasonably be expected to occur.
 This analysis must take account of:

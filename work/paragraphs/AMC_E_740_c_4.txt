@@ -178,36 +178,36 @@ based on the creep failure mode, as explained in paragraphs 4 and 5 of this AMC.
 factors relating to this failure mode are calculated for one hour of operation at each of the
 intended limiting power settings and input into a spreadsheet accounting tool (see Figure 7.1).
 Severity / Hr for Critical Components
-Component #1 Component #2 Component #3
 Test Segment
-0.00324
+Component #1 Component #2 Component #3
 MTO NL OL
-0.01354
+0.00324
 MTO NH OL
-0.00726
+0.01354
 MTO EGT OL
+0.00726
 Damage factors for
-0.00284
 MCT NL OL
-condition
+0.00284
 each
-0.00933
-MCT NH OL
-normalised to one
-0.00448
-MCT EGT OL
-at
-hour
-that
-0.00551
-MTO EGT Limiting
 condition
-0.00273
+MCT NH OL
+0.00933
+normalised to one
+MCT EGT OL
+0.00448
+hour
+at
+that
+MTO EGT Limiting
+0.00551
+condition
 MCT EGT Limiting
-0.00156
+0.00273
 MTO Rated Thrust
-0.00142
+0.00156
 MCT Rated Thrust
+0.00142
 Figure 7.1. Severity Factors (Life Usage Rate) for Critical Components
 The specifications of CS-E 740(c)(4)(iv) ‘Engine Operating Limits Demonstration’ are illustrated
 in Figure 7.2, along with the damage factors associated with Engine operation at each power
@@ -240,46 +240,46 @@ accumulated damage can be normalised by the reference severity, which, for this 
 the creep damage caused by 18.75 hours of operation at MTO limits and 45 hours of operation
 at MCT limits, the total accumulated times at these conditions in the classic endurance test.
 Endurance Test Dashboard
-Accumulated
-Normalized
-Reference
 Test Time
+Accumulated
+Reference
+Normalized
+Power-Setting
 Cycles
 No.
-Power-Setting
 Power-Setting
 (hrs.)
 Damage
 Damage
 Damage
+MTO
+30.7
+MTO
+380
+MTO
 0.09128
 0.16000
 0.57051
-30.7
-380
-MTO
-MTO
-MTO
-0.06000
-0.17327
-2.88783
-70
+MCT
 70.7
 MCT
+70
 MCT
-MCT
-0.22000
-0.26455
-1.20251
-450
+0.17327
+0.06000
+2.88783
 Total Cycles
+450
 Total Damage
-50.0
+0.26455
+0.22000
+1.20251
 Idle
-54.2
+50.0
 Part Power Thrust
-205.5
+54.2
 Total Time
+205.5
 Accumulated damage
 normalized by the
 reference severity
@@ -297,46 +297,46 @@ is operated. In this example, the total test time is nearly 60 % longer than tha
 endurance test, but the comparative severity to the original intent of the classic endurance test
 is the same as in the previous example.
 Endurance Test Dashboard
-Accumulated
-Normalized
-Reference
 Test Time
+Accumulated
+Reference
+Normalized
+Power-Setting
 Cycles
 No.
-Power-Setting
 Power-Setting
 (hrs.)
 Damage
 Damage
 Damage
+MTO
+17.9
+MTO
+240
+MTO
 0.04111
 0.16000
 0.25692
-17.9
-240
-MTO
-MTO
-MTO
-0.06000
-0.22462
+MCT
 130.7
+MCT
 240
+MCT
+0.22462
+0.06000
 3.74367
-MCT
-MCT
-MCT
-0.22000
-0.26573
-1.20785
-480
 Total Cycles
+480
 Total Damage
-31.7
+0.26573
+0.22000
+1.20785
 Idle
-54.2
+31.7
 Part Power Thrust
-234.4
+54.2
 Total Time
+234.4
 Figure 7.7. Cumulative Severity Usage for Whole Test – second example
 (8)
 Severity Equivalence Assessment for T metal and EGT methods

@@ -28,12 +28,12 @@ glassy deposits on hot section parts, which can result in loss of surge margins,
 flame out, and inability to restart Engines;
 c.
 clogging of turbine blade cooling channels;
-corrosion of metallic parts;
 d.
+corrosion of metallic parts;
 e.
 oil and fuel circuit contamination; and
-electrical, hydraulic and pneumatic systems.
 f.
+electrical, hydraulic and pneumatic systems.
 (2)
 The nature and severity of effects.
 (3)

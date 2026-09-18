@@ -352,8 +352,8 @@ Failure mode.
 The cause of the Failure or the manner in which an item or function can fail.
 Examples include Failures due to corrosion or fatigue, or Failure in jammed
 open position.
-Products that act as or have the effect of a poison when humans are exposed
 Toxic products.
+Products that act as or have the effect of a poison when humans are exposed
 to them.
 [Amdt. No.: E/1]
 [Amdt. No.: E/4]

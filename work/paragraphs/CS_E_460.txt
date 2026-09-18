@@ -9,8 +9,8 @@ For spark ignition Engines:
 After completion of the endurance test of CS-E 440, functioning tests of the Engine shall be
 made to determine if there is any tendency for the Engine to backfire when using the normal
 means of starting and during accelerations effected by any reasonable means.
-(1)
 (b)
+(1)
 If after the completion of the endurance test, no tendency for the Engine to backfire is
 established, three backfires shall be produced artificially on an Engine of the same type.
 If, however, a tendency to backfire is established, at least twenty backfires shall be

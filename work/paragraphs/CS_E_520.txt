@@ -20,8 +20,8 @@ operating envelope of the Engine, or
 Movement resulting from likely Fault conditions of either the fixed or rotating parts, will
 occur in a manner not likely to result in a Hazardous Engine Effect. As an alternative, a
 device giving warning of such unintended movement must be provided.
-(1)
 (c)
+(1)
 The design of the Engine must be such that debris resulting from the shedding of
 compressor or turbine blades, either singly or in likely combinations, will be radially
 contained (see AMC E 520(c)(1)).

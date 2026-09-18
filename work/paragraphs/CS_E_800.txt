@@ -60,12 +60,12 @@ Engine Inlet Throat Area (A) m 2
 Mass of Bird kg
 A < 2.50
 Not applicable
-1.85
 2.50 ≤ A < 3.50
-2.10
+1.85
 3.50 ≤ A < 3.90
-2.50
+2.10
 3.90 ≤ A
+2.50
 (iv)
 The bird must be targeted on the first exposed rotating stage(s) at a blade aerofoil
 height of not less than 50%, measured at the leading edge.
@@ -134,8 +134,8 @@ For Rotorcraft Engines, the following test schedule must be used:
 — Stabilise the Engine at idle and then shut the Engine down.
 These durations are times at the defined conditions, the power lever being moved
 between each condition in less than 10 seconds.
-(A)
 (v)
+(A)
 Medium birds . The masses and quantities of birds will be determined from
 the second column of Table A. When only one bird is specified, it must be
 aimed at the Engine core primary flow path; the other critical locations on
@@ -152,8 +152,8 @@ any critical exposed locations on the first stage rotor blades, but otherwise
 evenly distributed over the Engine face area.
 TABLE A of CS-E 800
 Medium (flocking) birds
-Additional integrity assessment
 Engine test
+Additional integrity assessment
 (CS-E 800(d)(1))
 (CS-E 800(d)(3))
 Engine inlet throat area (A)
@@ -183,27 +183,27 @@ none
 1.00 ≤ A < 1.35
 4x 0.70
 none
-1 x 1.15
-1 x 1.15 + 3 x 0.70
 1.35 ≤ A < 1.70
+1 x 1.15 + 3 x 0.70
 1 x 1.15
-1 x 1.15 + 4 x 0.70
 1.70 ≤ A < 2.10
+1 x 1.15 + 4 x 0.70
 1 x 1.15
-1 x 1.15 + 5 x 0.70
 2.10 ≤ A < 2.50
+1 x 1.15 + 5 x 0.70
 1 x 1.15
-1 x 1.15 + 6 x 0.70
 2.50 ≤ A < 2.90
 1 x 1.15 + 6 x 0.70
+1 x 1.15
 2.90 ≤ A < 3.90
+1 x 1.15 + 6 x 0.70
 2x 1.15
-1 x 1.15 + 6 x 0.70
-3 x 1.15
 3.90 ≤ A < 4.50
+3 x 1.15
 1 x 1.15 + 6 x 0.70
-4 x 1.15
 4.50 ≤ A
+4 x 1.15
+1 x 1.15 + 6 x 0.70
 (2)
 Acceptance criteria . The ingestion must not cause:
 — more than a sustained 25% power or thrust loss;

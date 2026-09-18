@@ -209,11 +209,11 @@ model) with control system Faults present. These limits are also defined in engi
 number and date), the Engine Control System Time-Limited-Dispatch Summary Report.
 Fault Category
 Operational Limitation
-DISPATCH NOT ALLOWED WITH THIS CONDITION PRESENT.
 NO DISPATCH
+DISPATCH NOT ALLOWED WITH THIS CONDITION PRESENT.
 Note 1: There must be a flight deck display of the presence of a no dispatch condition
-DISPATCH IS ALLOWED WITH SHORT TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF
 SHORT TIME
+DISPATCH IS ALLOWED WITH SHORT TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF
 APPLICABLE) EXPOSURE TIME OF THE SYSTEM TO THESE FAULTS MUST BE LIMITED TO
 (insert XXX) FLIGHT HOURS.
 Note 2: All Faults in this short time category must be corrected within a time period, such
@@ -229,10 +229,10 @@ repaired so that the average length of time that a Fault is present in the syste
 fault exposure time) does not exceed the specified (insert XXX) hour limitation.
 Reference SAE ARP5107 revB for a more complete understanding of these maintenance
 approaches.
-DISPATCH IS ALLOWED WITH LONG TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF
 LONG
-APPLICABLE) EXPOSURE TIME OF THE SYSTEM TO THESE FAULTS MUST BE LIMITED TO
+DISPATCH IS ALLOWED WITH LONG TIME FAULTS PRESENT. THE MAXIMUM (AVERAGE – IF
 TIME
+APPLICABLE) EXPOSURE TIME OF THE SYSTEM TO THESE FAULTS MUST BE LIMITED TO
 (insert YYY) FLIGHT HOURS.
 Note 3: All Faults in this long time category must be corrected within a time period, such
 that (a) each Fault in the group does not have an exposure time greater than (insert YYY)
@@ -247,32 +247,32 @@ repaired so that the average length of time that a Fault is present in the syste
 average fault exposure time) does not exceed the specified (insert YYY) hour limitation.
 Table 2. An Example of Operating Times for TLD Operations associated with the MEL maintenance approach.
 Limitations on Electronic Engine Control System Operations with Faults Present
-Electronic Engine Control
-Long Time Faults
 Short Time Faults
+Long Time Faults
+Electronic Engine Control
 Experience
 No Dispatch
 Category - maximum
 Category – maximum
 System Faults Not Affecting
-Category
 Level
+Category
 operating time
 operating time
 the LOTC/LOPC Rate
+No Flight
 125 Engine flight
 250 Engine flight
-No Flight
-(2)
 Entry Level
+(2)
 Allowed
 hours.
 hours.
 No Flight
+Mature Level
 (1)
 (1)
 (2)
-Mature Level
 Allowed
 Notes:
 (1)
@@ -283,27 +283,27 @@ Table 3. Maximum Operating Times for TLD Operations Associated with the “MEL m
 “Inspection/Repair maintenance approach.”
 Limitations on Electronic Engine Control System Short Time and Long Time Operations with Faults
 Present
-Long Time Faults
 Short Time Faults
-Time of Fault
+Long Time Faults
 Time of Fault
 Time of Fault
 Time of Fault
 occurrence unknown
+Time of Fault
 occurrence unknown
 occurrence known
 and Periodic
-and Periodic
 occurrence known
+and Periodic
 and MEL
 Inspection/
-Inspection/
 and MEL
+Inspection/
 maintenance
 Experience
 Repair maintenance
-Repair maintenance
 maintenance
+Repair maintenance
 approach used
 Level
 approach used
@@ -314,13 +314,13 @@ approach used
 –
 –
 max operating time
-max operating time
 max periodic
+max operating time
 max periodic
 with Fault(s)
 inspection/repair
-inspection/repair
 with Fault(s) present
+inspection/repair
 present
 interval
 interval
@@ -335,8 +335,8 @@ hours.
 hours.
 Mature
 (1)
-(1)
 (2)
+(1)
 (2)
 Level
 Notes:

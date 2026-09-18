@@ -11,35 +11,35 @@ A contaminant with the characteristics detailed in the following table is accept
 CONTAMINANT
 PARTICLE SIZE
 QUANTITY
+FERROSO – FERRIC
 0 - 5 microns
 0.40 g/1000 litre
-FERROSO – FERRIC
 Iron oxide (Fe 3 0 4 ) Magnetite (Black)
+FERRIC iron oxide (Fe 2 0 3 ) Hematite
 0 - 5 microns
 7.13 g/1000 litre
 FERRIC iron oxide (Fe 2 0 3 ) Hematite
-0.40 g/1000 litre
 5 - 10 microns
-FERRIC iron oxide (Fe 2 0 3 ) Hematite
-0.07 g/1000 litre
+0.40 g/1000 litre
+Crushed quartz
 1000 – 1500 microns
+0.07 g/1000 litre
 Crushed quartz
-0.46 g/1000 litre
 420 – 1000 microns
+0.46 g/1000 litre
 Crushed quartz
-0.26 g/1000 litre
 300 – 420 microns
-Crushed quartz
 0.26 g/1000 litre
-150 – 300 microns
 Crushed quartz
-2.11 g/1000 litre
-Mixture as follows:
+150 – 300 microns
+0.26 g/1000 litre
 Prepared dirt conforming to
-0 - 5 microns (9.25%)
+Mixture as follows:
+2.11 g/1000 litre
 ISO 12103-1 A4 (Arizona test dust –
-5 - 10 microns (10.25%)
+0 - 5 microns (9.25%)
 coarse)
+5 - 10 microns (10.25%)
 10 - 20 microns (14.5%)
 20 - 40 microns (25%)
 40 - 80 microns (29.5%)
@@ -47,28 +47,28 @@ coarse)
 CONTAMINANT
 PARTICLE SIZE
 QUANTITY
-0.03 g/1000 litre
-Below 7 staple (US Dept of
 Cotton linters
+Below 7 staple (US Dept of
+0.03 g/1000 litre
 Agriculture Grading
 Standards SRA-AMS 180
 and 251)
-0.03 percent by volume
 Crude Napthenic Acid
-0.01 percent by volume
-4 parts by weight of NaC1
+0.03 percent by volume
 Salt water prepared by dissolving
+4 parts by weight of NaC1
+0.01 percent by volume
 salt in distilled water or other
-96 parts by weight of H 2 0
 water containing not more than
+96 parts by weight of H 2 0
 200 parts per million of total solids
 Additionally, for engines to be fitted to Aircraft with Carbon Fibre Composite Material
 Fuel Tanks:
-0.54 g/1000 litre
-5 microns nominal diameter
 Carbon fibre rods of tensile
-0 to 2000 microns in length
+5 microns nominal diameter
+0.54 g/1000 litre
 strength 5.59 GPa nominal.
+0 to 2000 microns in length
 Population distribution:
 0 - 25 microns (43% ± 5%)
 25 - 50 microns (25% ± 5%)

@@ -91,24 +91,33 @@ def whole_document() -> str:
     if _WHOLE is None:
         out = []
         for f in sorted(PARAS.glob("*.txt")):
-            out += [ln for ln in f.read_text(encoding="utf-8").splitlines()
-                    if not ln.startswith("#")]
+            body = f.read_text(encoding="utf-8").splitlines()
+            out += [ln for ln in body if not ln.startswith("#")]
+            # The banner is evidence, not decoration: a note justifies an
+            # exclusion by quoting the paragraph's own title, as CS-E 500 does
+            # for "Functioning - Control of Engines (Turbine Engines for
+            # Aeroplanes)". Strip the "# " and the title becomes quotable.
+            if body and body[0].startswith("# "):
+                out.append(body[0][2:])
         _WHOLE = norm(" ".join(out))
     return _WHOLE
 
 
 def norm_stitched(text: str) -> str:
-    """norm(), plus the space a redline stitch leaves before punctuation.
+    """norm(), with every space removed.
 
     The "before" wording is rebuilt by dropping the inserted runs and keeping
-    the deleted ones, so a deletion ending mid-sentence leaves "certification ,"
-    where the amendment reads "certification,". That is an artifact of the
-    reconstruction, not a difference in wording, so it must not fail a quote.
-   
-    The same stitch puts spaces on both sides of a changed token inside
-    brackets: "CS-E 130( c )" for what the amendment prints as "CS-E 130(c)".
+    the deleted ones, so a space appears at every run boundary: the amendment's
+    "certification," becomes "certification ,", its "CS-E 130(c)" becomes
+    "CS-E 130( c )", and a deletion that starts mid-word leaves "T he Engine"
+    and "D iscs". Spacing at a stitch boundary carries no information, so the
+    comparison ignores spacing altogether rather than chasing each artifact.
+
+    Both sides get the same transform, so identical wording still matches and
+    different wording still fails. The only distinction lost is between a
+    quotation and the same characters spaced differently.
     """
-    return re.sub(r"\(\s+", "(", re.sub(r"\s+([,.;:)])", r"\1", norm(text)))
+    return re.sub(r"\s+", "", norm(text))
 
 
 _PRIOR: str | None = None

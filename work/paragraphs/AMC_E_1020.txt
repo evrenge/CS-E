@@ -6,8 +6,8 @@
 
 (1)
 The following format should be used for the note referred to in CS-E 1000.
-Engine emissions
 Note x:
+Engine emissions
 Engine (type/model) complies with CS-34 amendment (number).
 (2)
 It should be noted that only the type design at time of engine certification will be assessed

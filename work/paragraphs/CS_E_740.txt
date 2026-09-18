@@ -7,8 +7,8 @@
 (a)
 The specifications of CS-E 740 must be varied and supplemented as necessary to comply with
 CS-E 690(a), CS-E 750 and CS-E 890.
-(1)
 (b)
+(1)
 The test must be performed in the order defined in the appropriate schedule (either as
 prescribed in paragraphs (c)(1), (2) and (3) below, or as defined by the applicant in a test
 plan when paragraph (c)(4) below is used), and in suitable non-stop stages. An alternative
@@ -109,12 +109,12 @@ Thrust except that in Stage 16 a period of 5 minutes in the middle of
 the 30-minute period must be run at 2½-Minute OEI Power/Thrust.
 (E)
 Stages 21 to 25, each of 30 minutes duration covering the range in six
-Maximum
 approximately
-between
 equal
-increments
 speed
+increments
+between
+Maximum
 Continuous and Take-off Power or Thrust.
 Part 3
 (A)
@@ -520,13 +520,13 @@ limitation of either up to 30 seconds or up to 2 minutes may be approved.
 (A)
 In the case of the classic endurance test, transient EGT operating limits may
 be approved as follows.
-Transient EGT operating limits up to 30 seconds may be approved by
 •
+Transient EGT operating limits up to 30 seconds may be approved by
 running the Engine at the required temperature for 30 seconds of 50
 % of the prescribed periods at Take-off Thrust or Power conditions
 following an acceleration.
-Transient EGT operating limits up to 2 minutes may be approved by
 •
+Transient EGT operating limits up to 2 minutes may be approved by
 running the Engine at the required temperature for 2 minutes of each
 prescribed period at Take-off Thrust or Power conditions for 5
 minutes or longer, and for the whole of all the 30-second periods at
@@ -534,13 +534,13 @@ Take-off Thrust or Power following an acceleration.
 (B)
 In the case of the alternate endurance test specified in CS-E 740(c)(4),
 transient EGT operating limits may be approved as follows.
-Transient EGT operating limits up to 30 seconds may be approved by
 •
+Transient EGT operating limits up to 30 seconds may be approved by
 running the Engine at the required temperature for 30 seconds as part
 of at least 155 periods at Take-off Thrust or Power conditions
 following an acceleration.
-Transient EGT operating limits up to 2 minutes may be approved by
 •
+Transient EGT operating limits up to 2 minutes may be approved by
 running the Engine at the required temperature for 30 seconds as part
 of at least 310 periods at Take-off Thrust or Power conditions
 following an acceleration.

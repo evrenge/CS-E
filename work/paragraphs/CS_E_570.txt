@@ -5,8 +5,8 @@
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 570)
-(1)
 (a)
+(1)
 The design of the oil system must be such as to ensure its proper functioning under all
 intended flight attitudes, installation, atmospheric and operating conditions, including oil
 temperature and expansion factors.
@@ -25,8 +25,8 @@ will not loosen in flight and must be marked with the word ‘oil’.
 (4)
 Provision must be made near each oil pressure connection provided for instrumentation
 so as to limit the loss of fluid in the event of a pipe Failure.
-(1)
 (b)
+(1)
 All parts of the oil system that are not inherently capable of accepting contaminants likely
 to be present in the oil or otherwise introduced into the oil system must be protected by
 suitable filter(s) or strainer(s). These must provide a degree of filtration sufficient to
@@ -54,8 +54,8 @@ atmospheric vents in the oil system must be located, or protected, to minimise i
 matter that could affect satisfactory Engine functioning. Venting must be so arranged that
 condensed water vapour which might freeze and obstruct the line cannot accumulate at any
 point.
-(1)
 (e)
+(1)
 Except where the tank, its supports and all oil system components external to the Engine
 casing are Fireproof, a means must be provided to shut off the oil supply to the Engine.
 The means must be such that in the event of Failure of any oil system pipe, it will, when
@@ -63,8 +63,8 @@ operated, prevent the discharge of hazardous quantities of oil.
 (2)
 When applicable, operation of the shut-off means must not prevent the utilisation of any
 oil supply intended for the Propeller feathering operation.
-(1)
 (f)
+(1)
 Each un-pressurised oil tank must not leak when subjected to the maximum operating
 temperature and a differential pressure of 35 kPa.
 (2)
@@ -83,8 +83,8 @@ Propeller feathering system.
 (iii)
 The design of the Engine oil system must be such that it is possible to complete the
 feathering and unfeathering operation under all normal operating conditions.
-(1)
 (g)
+(1)
 Each brand and type of oil to be approved, and the associated limitations, must be
 declared and substantiated.
 (2)

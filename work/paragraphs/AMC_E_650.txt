@@ -6,22 +6,22 @@
 
 (1)
 Definitions. The following are defined for the purpose of this AMC:
-A vibration survey is a test or series of tests which, either alone or in conjunction with
 Vibration
+A vibration survey is a test or series of tests which, either alone or in conjunction with
 Survey:
 validated analysis, establishes the vibratory characteristics of Engine components.
-A baseline test is one which was performed for the purpose of establishing
 Baseline
+A baseline test is one which was performed for the purpose of establishing
 Test:
 experimentally the dynamic characteristics of Engine components using hardware,
 and/or under conditions, different from those for which approval is currently sought,
 and is an essential requirement for a complementary validated analysis.
-A validated analysis is one with demonstrated predictive capability within a specified
 Validated
+A validated analysis is one with demonstrated predictive capability within a specified
 Analysis:
 domain of applicability that encompasses one or more complementary baseline tests.
-A module is either a compressor or a turbine which may be single or multi-stage, or a
 Module:
+A module is either a compressor or a turbine which may be single or multi-stage, or a
 gear box. If multi-stage, the rotating elements are mechanically joined and rotate at the
 same speed. The gas path entry and exit points are clearly defined and are frequently
 nodal points in a performance model.
@@ -37,8 +37,8 @@ Minimum
 The minimum rotational speed of the rotating elements of a module is the lowest
 Rotational
 steady state rotational speed which can be obtained within the limits imposed by the
-Engine Control System under Fault free conditions throughout the declared flight
 Speed (Min
+Engine Control System under Fault free conditions throughout the declared flight
 Nr):
 envelope.
 Corrected
@@ -55,19 +55,19 @@ Flight
 operation to be approved, including start-up, shutdown and windmilling rotation in
 Envelope:
 flight.
-Resonance is a condition that occurs when an oscillatory force applied to a component
 Resonance:
+Resonance is a condition that occurs when an oscillatory force applied to a component
 has a frequency that coincides with one of the component’s natural frequencies,
 resulting in an elevated vibratory response. A unique vibratory mode exists for each
 natural frequency.
-Flutter is a self-excited vibration of a component in a gas flow, caused by a continuous
 Flutter:
+Flutter is a self-excited vibration of a component in a gas flow, caused by a continuous
 interaction between the gas flow and the structure, in which energy from the flow is
 diverted to the structure such that the vibratory response is sustained or increased. In
 turbomachinery, it usually occurs at a natural frequency of the structure and in the
 associated mode shape.
-A significant response is one in which a vibratory stress exceeds the level that has been
 Significant
+A significant response is one in which a vibratory stress exceeds the level that has been
 Response:
 previously agreed by the Agency as providing acceptable margin under CS-E 70 and CS-
 E 100 for the type of feature concerned.

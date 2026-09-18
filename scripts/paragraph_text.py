@@ -147,7 +147,7 @@ def body_lines(page: pymupdf.Page, y_from: float, y_to: float) -> list[str]:
     y_from / y_to bound the paragraph (below its own banner, above the next).
     The running header and footer are removed by pattern, never by position.
     """
-    lines: list[tuple[float, str]] = []
+    lines: list[tuple[float, float, str]] = []
     for block in page.get_text("dict")["blocks"]:
         if block["type"] != 0:
             continue
@@ -157,8 +157,12 @@ def body_lines(page: pymupdf.Page, y_from: float, y_to: float) -> list[str]:
                 continue
             text = " ".join(" ".join(s["text"] for s in line["spans"]).split())
             if text and not RUNNING.match(text):
-                lines.append((y, text))
-    return [t for _, t in sorted(lines)]
+                # x breaks a tie on y, and it must: CS-E 520 lays "(c)", "(1)"
+                # and the sub-point text on one line at y 360.3. Sorting the
+                # tie on the text instead put "(1)" before "(c)", because "1"
+                # sorts before "c".
+                lines.append((y, round(line["bbox"][0], 1), text))
+    return [t for _, _, t in sorted(lines)]
 
 
 def main() -> int:
