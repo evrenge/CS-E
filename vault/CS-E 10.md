@@ -15,9 +15,9 @@ tags: [applicability, scope, structure]
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(a)** | CS-E holds the airworthiness specifications for issuing engine type certificates, and changes to them, under Part 21. | Statement of scope |
-| **(b)** | CS-E holds the specifications for approving use of the engine with a thrust reverser, where one is fitted. | Statement of scope |
-| **(d)** | Subparts A, D, E and F apply to Turbine Engines. | Statement of scope |
+| **(a)** | CS-E holds the airworthiness specifications for issuing engine type certificates, and changes to them, under Part 21. | Statement |
+| **(b)** | CS-E holds the specifications for approving use of the engine with a thrust reverser, where one is fitted. | Statement |
+| **(d)** | Subparts A, D, E and F apply to Turbine Engines. | Statement |
 
 This paragraph imposes no test or analysis. It fixes which subparts form the
 certification basis, and every applicability decision in this vault derives from

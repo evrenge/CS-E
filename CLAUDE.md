@@ -48,8 +48,9 @@ CS-E terms and records the open [VERIFY] items. Summary:
 
 ## Accuracy rules (non-negotiable)
 1. Every statement in a note carries its paragraph reference, e.g. [CS-E 740(c)(3)].
-2. Preserve obligation strength exactly: CS "must" -> "Required"; AMC "should" -> "Accepted method".
-   Never upgrade or downgrade.
+2. Preserve obligation strength exactly. Use only the seven terms in
+   **Obligation strength** below, chosen by the source's own verb. Never upgrade
+   or downgrade, and never invent a wording outside that list.
 3. Copy all numbers, times, percentages, probabilities exactly, with units.
 4. One short verbatim quote (max 1 sentence) per note from the key CS text, in the "Rule text" callout.
 5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
@@ -119,6 +120,24 @@ Omit when `changed_in` is empty.
 An AMC note labels its References line `Specification:` and links its parent CS.
 A figure or table owned by the paragraph is embedded as an image, not described:
 see **Figures** below.
+
+### Obligation strength
+The `Strength` column takes one of seven values and nothing else. Each is fixed
+to the verb the source uses.
+
+| Strength | Source verb | Meaning |
+|---|---|---|
+| **Required** | `must`, `shall` | Mandatory. CS-E uses both verbs with the same force. |
+| **Required if claimed** | `may` establish/seek, then `must` substantiate | Elective provision. Optional to claim; mandatory to substantiate once claimed. |
+| **Recommended** | `should`, in a **CS** paragraph | Softer than `must`. Rare — 10 instances in scope. Never render as Required. |
+| **Accepted method** | `should`, in an **AMC** | One acceptable way to comply. An alternative may be proposed and justified. |
+| **Permitted** | `may` | Allowed, not required. |
+| **Relief** | `need not` | Explicit exemption from something otherwise required. |
+| **Statement** | `will`, or declaratory text | Fixes scope, a definition or an outcome. Imposes no action. |
+
+`should` is the trap: in an AMC it marks the accepted means, in a CS paragraph it
+is a recommendation inside a binding specification. The two are not the same
+strength and must not share a label.
 
 ### Register
 Formal technical English, as in a certification report. B2 means controlled

@@ -16,8 +16,8 @@ tags: [ratings, oei, limitations, tcds]
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(a)** | Establish Take-off Power and Maximum Continuous Power. | Required |
-| **(b)(3)** | Further OEI ratings may be established for multi-engined rotorcraft. | Optional; required once claimed |
-| **(b)(4)** | Rated 30-Minute Power may be established for rotorcraft engines. | Optional; required once claimed |
+| **(b)(3)** | Further OEI ratings may be established for multi-engined rotorcraft. | Required if claimed |
+| **(b)(4)** | Rated 30-Minute Power may be established for rotorcraft engines. | Required if claimed |
 | **(c)** | Base ratings on standard atmospheric conditions, without aircraft bleed, with only accessories essential to engine functioning. Any other basis is declared in the TCDS. | Required |
 | **(d)** | Establish operating limitations for the intended operating conditions. | Required |
 | **(e)** | List rated powers, and limitations the crew must respect, in the TCDS under point 21.A.41 of Part 21. | Required |

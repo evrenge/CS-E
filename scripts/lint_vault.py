@@ -10,6 +10,7 @@ Catches the mistakes that are invisible when writing one note at a time:
                  (pages, subpart, status, changed_in)
   sections       a required section missing, or Dropped present but empty
   rule-4         not exactly one [!quote] callout
+  strength       a Strength cell outside the seven allowed values
   quote          the Rule text quote is not verbatim in the paragraph's source
                  text (work/paragraphs/), after whitespace normalisation
   orphan         a note whose paragraph is not classified APPLIES
@@ -36,6 +37,9 @@ INDEX = ROOT / "work" / "paragraph_index.csv"
 PARAS = ROOT / "work" / "paragraphs"
 REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
             "## References"]
+# The only permitted values of the Requirement table's Strength column.
+STRENGTHS = {"Required", "Required if claimed", "Recommended",
+             "Accepted method", "Permitted", "Relief", "Statement"}
 WIKILINK = re.compile(r"\[\[([^\]|#]+)")
 QUOTE = re.compile(r">\s*\[!quote\][^\n]*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
 
@@ -118,6 +122,19 @@ def main() -> int:
         n_quote = text.count("> [!quote]")
         if n_quote != 1:
             say(f"{n_quote} [!quote] callouts, expected exactly 1")
+
+        # --- rule 2: Strength column uses the fixed vocabulary
+        if "## Requirement" in text:
+            block = text.split("## Requirement", 1)[1].split("\n## ", 1)[0]
+            for row in block.splitlines():
+                cells = [c.strip() for c in row.strip().strip("|").split("|")]
+                if len(cells) != 3 or not row.strip().startswith("|"):
+                    continue
+                strength = cells[2].replace("*", "").strip()
+                if not strength or strength in ("Strength", "---") or set(strength) <= {"-", ":"}:
+                    continue
+                if strength not in STRENGTHS:
+                    say(f"Strength {strength!r} is not one of the seven allowed values")
 
         # --- rule 4 content: the quote must exist verbatim in the source
         m = QUOTE.search(text)

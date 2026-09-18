@@ -15,23 +15,35 @@ tags: [structure, amc]
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| — | AMC-20 may supply an accepted means of compliance for a Book 1 specification, in addition to Book 2. | Accepted method |
+| — | AMC-20 may supply an acceptable means of compliance for a CS-E specification, in addition to the AMC E material. | Permitted |
 
-CS-E is issued in two books. Book 1 holds the specifications, Book 2 the accepted
-means of compliance. This note records that Book 2 is not the only source of
-accepted means.
+CS-E carries two kinds of paragraph. A `CS-E nnn` paragraph states a
+specification. An `AMC E nnn` paragraph states an acceptable means of complying
+with it. This note records that the AMC E material is not the only source of
+acceptable means: AMC-20, a separate EASA document, may also supply one.
+
+[VERIFY: this paragraph uses the labels "Book 1" and "Book 2", which CS-E
+Amendment 8 does not define. The two labels appear only here, in this one
+paragraph of the whole document. Read as Book 1 = the CS-E specifications,
+Book 2 = the AMC E material, consistent with the document title "Certification
+Specifications and Acceptable Means of Compliance for Engines". Confirm before
+citing the labels externally.]
 
 ## Compliance
 
-- When proposing a compliance method, search AMC-20 as well as Book 2 before concluding that no accepted means exists [AMC General].
+- When proposing a compliance method, search AMC-20 as well as the AMC E material before concluding that no acceptable means exists [AMC General].
 
 ## Application to this engine
 
-None specific to a turboshaft. The provision applies across Book 1.
+Nothing specific to a turboshaft. The provision applies to every CS-E
+specification.
+
+AMC-20 is not held in `source/`. Obtain it separately if a compliance method
+relies on it.
 
 ## References
 
-Specification: applies across Book 1; not tied to a single CS paragraph.
+Specification: applies across CS-E; not tied to a single paragraph.
 Related: [[CS-E 10]]
 
 ## Amendment history
