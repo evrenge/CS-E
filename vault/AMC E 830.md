@@ -30,7 +30,8 @@ continued running". This AMC fixes what that means: the short OEI ratings must
 remain achievable. An engine may pass a strip inspection and still have lost
 margin at 30-Second OEI Power, and that would not satisfy the paragraph.
 
-The wording is identical to [[AMC E 820]] for the over-torque test, so the two
+The wording is parallel to [[AMC E 820]] for the over-torque test, differing
+only in the CS reference and the event named, so the two
 over-limit tests share one acceptance standard.
 
 ## Compliance
@@ -44,11 +45,9 @@ The AMC applies wherever [[CS-E 830]] is elected, and it names the two ratings
 this engine declares.
 
 The criterion has a practical consequence for the over-limit ratings as a group.
-[[AMC E 60|AMC E 60(d)(5)]] allows a genuine over-speed, over-torque or
-over-temperature event to be excluded from OEI usage counting — but only if the
-engine can still deliver the OEI ratings afterwards, which is what this AMC
-requires the test to prove. The relief in AMC E 60(d)(5) and the acceptance
-criterion here are two halves of the same argument.
+The usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] turns on the engine
+still delivering the OEI ratings after the event, which is exactly what this AMC
+requires the test to prove. The two are halves of one argument.
 
 The short OEI ratings are excluded from the test conditions themselves:
 [[CS-E 830|CS-E 830(b)(2)]] sets the turbine entry gas temperature from

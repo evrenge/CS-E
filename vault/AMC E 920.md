@@ -107,4 +107,7 @@ Power rating." [work/redline/AMC_E_920_Amdt8.md] The elided term is the one the
 amendment replaced: Maximum power-on rpm.
 
 The obligation on the OEI test is unchanged. What is new is the datum guidance in
-(1), which now also governs the new test of [[CS-E 920|CS-E 920(a)]].
+(1). [VERIFY: whether that datum guidance also governs the new test of
+CS-E 920(a). Point (1) is written without a scope, while point (2) is expressly
+scoped to CS-E 920(b), so the reading is reasonable but the source does not make
+it.]

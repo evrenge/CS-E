@@ -79,7 +79,7 @@ stiffness [AMC E 930(c)].
 | **(d)(1)(iii)** | An accelerated severity cycle test provides a rigorous test of engines or engine parts for which durability is primarily affected by cyclic operation. It allows the time at various power settings and the sequence of power selections to be varied. | Statement |
 | **(d)(1)(iii)** | To relate the accelerated severity cycle test to the full flight cycle, perform a detailed analysis of the stress, the temperature, and the resulting life of each affected part of the engine. | Accepted method |
 | **(d)(1)(iii)** | The accelerated severity cycle test may include the equivalent of several flight cycles during a given portion of the overall engine test, which can give a small number of engine hours against the number of engine flight cycles demonstrated. | Statement |
-| **(d)(1)(iii)** | The accelerated severity cycle test is generally not considered ideal for engine parts whose durability is primarily affected by hours of operation rather than by cycles. For those cases, the IMP substantiation may require other test or in-service experience data. | Statement |
+| **(d)(1)(iii)** | The accelerated severity cycle test is generally not considered ideal for engine parts whose durability is primarily affected by hours of operation rather than by cycles. For those cases, the IMP substantiation may require other test or in-service experience data, including, if available, comparison of relevant past IMP demonstrations with subsequent successful entry-into-service engine experience. | Statement |
 | **(d)(1)(iii)** | The accelerated severity cycle test should include engine start and shutdown. | Accepted method |
 
 The two cycle types answer different questions. A full cycle test buys hours and
@@ -102,7 +102,7 @@ undersubstantiated, and the AMC says so directly.
 Sub-point (d)(2)(v) is the turboshaft provision and it is short: "For turboshaft
 applications, the applicant should load the test Engine output shaft to simulate
 the appropriate rotor drive system characteristics of the intended installation."
-[AMC E 930(d)(2)(v)] The two characteristics named, inertia and torsional
+[AMC E 930(d)(2)(v)] The two characteristics named, inertial and torsional
 vibration, are the ones that determine what the engine actually experiences on a
 rotorcraft.
 
@@ -181,7 +181,7 @@ way.
 - Inclusion of reliability-relevant hardware outside the type design, or representative items [AMC E 930(d)(2)(ii)].
 - A typical installed configuration with airframe accessories and loading interfaces connected and operated representatively [AMC E 930(d)(2)(iii)].
 - A scheduled accessory load and bleed extraction profile through the test [AMC E 930(d)(2)(iii)].
-- Output shaft loading representing the rotor drive system, including inertia and torsional vibration [AMC E 930(d)(2)(v)].
+- Output shaft loading representing the rotor drive system, including inertial and torsional vibration [AMC E 930(d)(2)(v)].
 - Recorded test parameters covering power, stress, component temperature, EGT and unbalance vibration [AMC E 930(d)(3)].
 
 ### Evidence and outcome
@@ -205,8 +205,8 @@ The AMC applies, and one of its sub-points is written for this engine type.
 
 **AMC E 930(d)(2)(v) makes the test rig an installation-dependent item.**
 The output shaft must be loaded to simulate the rotor drive system of the
-intended installation, with inertia and torsional vibration named. A
-water-brake or eddy-current dynamometer without a representative inertia and
+intended installation, with inertial and torsional vibration named. A
+water-brake or eddy-current dynamometer without a representative inertial and
 torsional response does not meet the sub-point on its own. The rig specification
 therefore depends on the target rotorcraft transmission, which
 `engine_profile.md` does not declare.
@@ -240,7 +240,7 @@ design factors to evaluate after a Major change. A change to the EECS-FADEC
 architecture therefore reopens the IMP validity assessment as well as the
 [[CS-E 50]] substantiation.
 
-[VERIFY: the rotor drive system inertia and torsional characteristics required to
+[VERIFY: the rotor drive system inertial and torsional characteristics required to
 specify the IMP test load, per AMC E 930(d)(2)(v). These come from the aircraft
 transmission and are not an engine-side quantity.]
 
@@ -258,7 +258,7 @@ the test cycle of AMC E 930(d)(1)(i).]
 - **(d)(2)(ii)** — the thrust reverser example among hardware outside the type design. The air starter and engine build-up hardware examples are kept.
 - **(d)(2)(iv)** — Turbopropeller Applications in full, including propeller braking and APU-mode operations. Propeller provisions are outside scope.
 - **(c)** — "size and diameter of the fan" among the engine design factors. This engine has no fan.
-- **(d)(1)(i)**, **(d)(7)** — the AMC 20-6B early ETOPS route in full: the option to combine the IMP test with the early ETOPS test, the four conditions of (d)(7)(i), and the seven on-wing inspections of (d)(7)(ii). ETOPS is an aeroplane operation, excluded by the scope rule, and CS-E 1040 is excluded with it. The alternative is therefore unavailable and the IMP test of (d) is run on its own.
+- **(d)(1)(i)**, **(d)(7)** — the AMC 20-6B early ETOPS route in full: the option to combine the IMP test with the early ETOPS test, the three conditions of (d)(7)(i), and the seven on-wing inspections of (d)(7)(ii). ETOPS is an aeroplane operation, excluded by the scope rule, and CS-E 1040 is excluded with it. The alternative is therefore unavailable and the IMP test of (d) is run on its own.
 - Throughout — "thrust or power" is rendered as power. The engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References

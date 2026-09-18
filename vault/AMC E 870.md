@@ -31,7 +31,9 @@ that judgement is made: the short OEI ratings must remain achievable after the
 over-temperature event. A strip that finds every part within serviceable limits
 does not satisfy the paragraph if the rating capability has been lost.
 
-The wording is identical to [[AMC E 820]] and [[AMC E 830]]. The three over-limit
+The wording is parallel to [[AMC E 820]] and [[AMC E 830]], differing only in
+the CS reference and the event named — over-torque, over-speed, over-temperature.
+The three over-limit
 tests of Subpart E therefore share one acceptance standard, expressed in the same
 sentence three times.
 
@@ -46,11 +48,9 @@ The AMC applies wherever [[CS-E 870]] is elected, and it names two of the three
 OEI ratings this engine declares. Continuous OEI is not named, in this AMC or in
 its two counterparts.
 
-The criterion is what links the over-limit tests to the usage recording rules.
-[[AMC E 60|AMC E 60(d)(5)]] allows a genuine over-speed, over-torque or
-over-temperature event to be excluded from OEI usage counting, provided the
-engine can still deliver the OEI ratings. This AMC is where that capability is
-proved for the over-temperature case.
+The criterion is what links the over-limit tests to the usage recording rules of
+[[AMC E 60|AMC E 60(d)(5)]]. This AMC is where the capability that relief depends
+on is proved, for the over-temperature case.
 
 Turbine condition after the 15-minute exposure of [[CS-E 870|CS-E 870(b)(1)]]
 is the governing evidence. The AMC does not say which damage mechanisms matter,
