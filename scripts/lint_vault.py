@@ -9,7 +9,7 @@ Catches the mistakes that are invisible when writing one note at a time:
   frontmatter    missing field, or a value that disagrees with the index
                  (pages, subpart, status, changed_in)
   sections       a required section missing, or Dropped present but empty
-  rule-4         not exactly one "Rule text" callout
+  rule-4         not exactly one [!quote] callout
   quote          the Rule text quote is not verbatim in the paragraph's source
                  text (work/paragraphs/), after whitespace normalisation
   orphan         a note whose paragraph is not classified APPLIES
@@ -34,10 +34,10 @@ from classification import CLASSIFICATION  # noqa: E402
 VAULT = ROOT / "vault"
 INDEX = ROOT / "work" / "paragraph_index.csv"
 PARAS = ROOT / "work" / "paragraphs"
-REQUIRED = ["## What it means", "## What we must do", "## Turboshaft note",
-            "## Related", "## Notes"]
+REQUIRED = ["## Requirement", "## Compliance", "## Application to this engine",
+            "## References"]
 WIKILINK = re.compile(r"\[\[([^\]|#]+)")
-QUOTE = re.compile(r">\s*\[!quote\]\s*Rule text\s*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
+QUOTE = re.compile(r">\s*\[!quote\][^\n]*\n>\s*(.+?)(?:\n(?!>)|\Z)", re.S)
 
 
 def slug(pid: str) -> str:
@@ -85,7 +85,7 @@ def main() -> int:
                 m = FM_FIELD.match(line)
                 if m:
                     fm[m.group(1)] = m.group(2).strip()
-            for field in ("id", "type", "subpart", "pages", "status", "changed_in", "tags"):
+            for field in ("id", "type", "subpart", "pages", "changed_in", "tags"):
                 if field not in fm:
                     say(f"frontmatter missing field {field!r}")
             row = index.get(pid)
@@ -101,8 +101,6 @@ def main() -> int:
                           fm.get("changed_in", "[]").strip("[]").split(",") if c.strip()]
                 if sorted(got_ch) != sorted(want_ch):
                     say(f"changed_in {got_ch} but index says {want_ch}")
-            if fm.get("status") != "APPLIES":
-                say(f"status {fm.get('status')!r}, expected APPLIES")
             want_type = "CS" if pid.startswith("CS-E") else "AMC"
             if fm.get("type") not in (want_type, "AMC" if pid == "AMC General" else want_type):
                 say(f"type {fm.get('type')!r}, expected {want_type!r}")
@@ -111,15 +109,15 @@ def main() -> int:
         for section in REQUIRED:
             if section not in text:
                 say(f"missing section {section!r}")
-        if "## Dropped" in text:
-            block = text.split("## Dropped", 1)[1].split("\n## ", 1)[0]
+        if "## Not applicable" in text:
+            block = text.split("## Not applicable", 1)[1].split("\n## ", 1)[0]
             if not [ln for ln in block.splitlines() if ln.strip().startswith("-")]:
-                say("Dropped section present but empty — omit it instead")
+                say("'Not applicable' present but empty — omit it instead")
 
         # --- rule 4: exactly one Rule text callout
-        n_quote = text.count("> [!quote] Rule text")
+        n_quote = text.count("> [!quote]")
         if n_quote != 1:
-            say(f"{n_quote} 'Rule text' callouts, expected exactly 1")
+            say(f"{n_quote} [!quote] callouts, expected exactly 1")
 
         # --- rule 4 content: the quote must exist verbatim in the source
         m = QUOTE.search(text)

@@ -53,7 +53,9 @@ CS-E terms and records the open [VERIFY] items. Summary:
 3. Copy all numbers, times, percentages, probabilities exactly, with units.
 4. One short verbatim quote (max 1 sentence) per note from the key CS text, in the "Rule text" callout.
 5. If unsure about meaning or applicability, write [VERIFY: reason]. Never guess.
-6. For pages with figures or tables, render the page to PNG and read the image. Do not rely on extracted text.
+6. For figures and tables, embed the cropped image in the note rather than
+   describing it. The content is absent from the text layer, so a description is
+   an unverifiable restatement. See **Figures**.
 7. Never cap a list. Every obligation in an applicable sub-point reaches the note.
    When `What we must do` exceeds ~10 items, group them under `###` sub-headings by
    theme instead of trimming. Dropping an obligation to fit a length target is the
@@ -71,43 +73,58 @@ id: "CS-E 740"
 type: CS                     # CS | AMC
 subpart: E
 pages: 138-149
-status: APPLIES
 changed_in: [Amdt8]          # [] when unchanged
 tags: [endurance, oei, test]
 ---
 # CS-E 740 — Endurance Tests
 
-> [!quote] Rule text
-> "<one original sentence>" — CS-E 740(c)(3)(i)
+> [!quote] CS-E 740(c)(3)(i)
+> "<one verbatim sentence from the key CS text>"
 
-## What it means
-2-4 plain sentences, B2 level, max ~20 words each, active voice.
+## Requirement
+A table mirroring the applicable sub-points in source order: reference,
+obligation, strength. One row per sub-point that applies. This is the 1:1 map to
+the regulation — it cites, it does not reproduce the text.
 
-## What we must do
-- test / analysis / document items, each with its [ref]
-- over ~10 items, group under `###` sub-headings by theme — never trim (rule 7)
+| Ref | Obligation | Strength |
+|---|---|---|
+| **(a)** | ... | Required |
+| **(b)(3)** | ... | Optional; required once claimed |
 
-## Turboshaft note
-Rotorcraft-specific point, or "None".
+Prose below the table only where a sub-point needs interpretation the table
+cannot carry.
 
-## Dropped
-- CS-E 740(c)(4) — turbofan alternate endurance test, not applicable.
-- CS-E 740(c)(1) Part 1 aeroplane schedule — superseded by the rotorcraft case.
+## Compliance
+What must be produced to show compliance: test, analysis, similarity, or a
+document. One line each, with its [ref] and a link to the AMC that governs it.
 
-## Accepted means
-[[AMC E 740(c)(3)]] · [[AMC E 740(i)(2)]]
+## Application to this engine
+What is specific to this turboshaft and to the declared configuration in
+`engine_profile.md` — ratings claimed and not claimed, consequences for other
+paragraphs, [VERIFY] items.
 
-## Related
-[[CS-E 730]] · [[CS-E 50]]
+## Not applicable
+- **(b)(1)**, **(h)** — piston engine rating definitions.
+Omit this section entirely when nothing was cut.
 
-## Notes
-Only what belongs nowhere else: what changed at Amdt 7/8 and why it matters,
-worked examples, and [VERIFY] items. Detail that has its own note is linked,
-never restated (rule 8).
+## References
+Accepted means: [[AMC E 740(c)(3)]] · [[AMC E 740(i)(2)]]
+Related: [[CS-E 730]] · [[CS-E 50]]
+
+## Amendment history
+What Amendment 7 or 8 changed in this paragraph and whether it alters obligation.
+Omit when `changed_in` is empty.
 ```
 
-An AMC note carries `## Specification` linking back to its parent CS instead of
-`## Accepted means`. A note with nothing cut omits `## Dropped` entirely.
+An AMC note labels its References line `Specification:` and links its parent CS.
+A figure or table owned by the paragraph is embedded as an image, not described:
+see **Figures** below.
+
+### Register
+Formal technical English, as in a certification report. B2 means controlled
+vocabulary and sentence length — it does not mean informal. No sentence
+fragments, no conversational asides, no first-person commentary. Write "The
+applicant declares three OEI ratings", not "We claim three".
 
 ## Working method
 - Work subpart by subpart. Write output to files. Do not hold the whole document in context.
@@ -208,10 +225,13 @@ the content stream (`visitor_operand_before` for fill colour and rectangle
 geometry) or render the page. Amendment-level tagging does not need any of this:
 both files declare their changes in prose, which parses cleanly.
 
-## Page rendering
+## Figures
 
-Accuracy rule 6 needs a rasteriser. `pypdfium2`:
-`PdfDocument(path)[i].render(scale=2).to_pil()`. No system package required.
+A paragraph that owns a figure or table has it cropped to
+`vault/figures/<id>_p<page>.png` by `scripts/extract_figures.py` and embedded in
+the note with `![[<id>_p<page>.png]]`. The image is EASA's own, so it cannot be
+misdescribed. Ownership is positional — see `work/spans.json` — so a figure
+sitting above a paragraph's banner belongs to the paragraph above it.
 
 ## Environment
 

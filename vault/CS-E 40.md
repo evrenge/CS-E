@@ -3,51 +3,63 @@ id: "CS-E 40"
 type: CS
 subpart: A
 pages: 29-30
-status: APPLIES
 changed_in: [Amdt7]
 tags: [ratings, oei, limitations, tcds]
 ---
 # CS-E 40 — Ratings
 
-> [!quote] Rule text
-> "Power ratings must be established for Take-off Power and/or Thrust and for Maximum Continuous Power and/or Thrust, for all Engines." — CS-E 40(a)
+> [!quote] CS-E 40(a)
+> "Power ratings must be established for Take-off Power and/or Thrust and for Maximum Continuous Power and/or Thrust, for all Engines."
 
-## What it means
-Two ratings are mandatory for every engine. Take-off and Maximum Continuous [CS-E 40(a)].
+## Requirement
 
-All other ratings are optional. The applicant chooses them. Each one chosen must then be substantiated.
+| Ref | Obligation | Strength |
+|---|---|---|
+| **(a)** | Establish Take-off Power and Maximum Continuous Power. | Required |
+| **(b)(3)** | Further OEI ratings may be established for multi-engined rotorcraft. | Optional; required once claimed |
+| **(b)(4)** | Rated 30-Minute Power may be established for rotorcraft engines. | Optional; required once claimed |
+| **(c)** | Base ratings on standard atmospheric conditions, without aircraft bleed, with only accessories essential to engine functioning. Any other basis is declared in the TCDS. | Required |
+| **(d)** | Establish operating limitations for the intended operating conditions. | Required |
+| **(e)** | List rated powers, and limitations the crew must respect, in the TCDS under point 21.A.41 of Part 21. | Required |
+| **(f)** | Define each rating for the lowest power all engines of the type produce, and define the minimum testing that ensures it. | Required |
+| **(g)** | Account for the accuracy limits of the Engine Control System and instrumentation, as defined in CS-E 60(b). | Required |
 
-For a multi-engine rotorcraft, CS-E 40(b)(3) offers five OEI ratings. We claim three. CS-E 40(b)(4) offers Rated 30-Minute Power for rotorcraft engines. We claim it.
+A rating under (b) is elective. Once the applicant claims it, substantiation is mandatory.
 
-A rating is declared at the lowest power that every engine of the type can produce, not at the power of the best engine [CS-E 40(f)].
+Sub-point (f) governs the declared value. The rating reflects the weakest engine of the type, not the test engine.
 
-## What we must do
-- Establish Take-off Power and Maximum Continuous Power. Required [CS-E 40(a)].
-- Establish 30-Second OEI, 2-Minute OEI and Continuous OEI Power. Required once claimed [CS-E 40(b)(3)(i), (ii), (v)]. See [[AMC E 40(b)(3)]].
-- Establish Rated 30-Minute Power. Required once claimed [CS-E 40(b)(4)(i)].
-- Base every rating on standard atmospheric conditions, with no air bleed for aircraft services, and with only those accessories installed that are essential for engine functioning. Any other basis must be declared in the Engine type certificate data sheet [CS-E 40(c)].
-- Establish the operating limitations for the intended operating conditions. Required [CS-E 40(d)]. See [[AMC E 40(d)]].
-- List the rated powers and the limitations the crew must respect in the Engine type certificate data sheet, per point 21.A.41 of Part 21 [CS-E 40(e)].
-- Define each rating for the lowest power all engines of the type produce, and define the minimum testing that ensures it [CS-E 40(f)].
-- Take the accuracy limits of the Engine Control System and of the instrumentation into account [CS-E 40(g)]. Those limits are defined in [[CS-E 60]](b).
+## Compliance
 
-## Turboshaft note
-Two rotorcraft OEI ratings exist that we do not claim: 2½-Minute OEI [CS-E 40(b)(3)(iii)] and 30-Minute OEI [CS-E 40(b)(3)(iv)]. Not claiming them removes the 2½-Minute insertions from the endurance schedule — see [[CS-E 740]].
+- Rating declaration covering Take-off Power and Maximum Continuous Power [CS-E 40(a)].
+- Rating declaration covering 30-Second OEI, 2-Minute OEI and Continuous OEI Power [CS-E 40(b)(3)(i), (ii), (v)], substantiated per [[AMC E 40(b)(3)]].
+- Rating declaration covering Rated 30-Minute Power [CS-E 40(b)(4)(i)].
+- Statement of the declaration basis, or a TCDS entry where the basis departs from standard atmospheric conditions without bleed [CS-E 40(c)].
+- Operating limitations schedule [CS-E 40(d)], scope per [[AMC E 40(d)]].
+- TCDS entry under point 21.A.41 of Part 21, listing rated powers and crew-respected limitations [CS-E 40(e)].
+- Minimum-engine substantiation: the test programme and conditions demonstrating that every engine of the type meets the declared ratings [CS-E 40(f)].
+- Accuracy budget for the Engine Control System and instrumentation [CS-E 40(g)], against the tolerances of [[CS-E 60]](b).
 
-"OEI override" is a control-system feature, not a rating in CS-E 40. Assess it under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
+## Application to this engine
 
-## Dropped
-- CS-E 40(b)(1) — piston engine cruising-power ratings.
-- CS-E 40(b)(2) — OEI ratings for multi-engined aeroplanes; the rotorcraft list at (b)(3) governs our case.
-- CS-E 40(h) — piston engine rating definition.
+Declared under (b)(3): 30-Second OEI, 2-Minute OEI, Continuous OEI Power.
+Declared under (b)(4): Rated 30-Minute Power.
 
-## Accepted means
-[[AMC E 40]] · [[AMC E 40(b)(3)]] · [[AMC E 40(d)]]
+Two rotorcraft ratings remain available but are not claimed: 2½-Minute OEI [CS-E 40(b)(3)(iii)] and 30-Minute OEI [CS-E 40(b)(3)(iv)]. Their absence removes the 2½-minute insertions from the endurance schedule — see [[CS-E 740]].
 
-## Related
-[[CS-E 25]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 740]] · [[AMC E 20(f)]]
+The declared combination of 30-Second, 2-Minute and Continuous OEI selects the endurance schedule of CS-E 740(c)(3)(i), complemented by the additional test of CS-E 740(c)(3)(iii).
 
-## Notes
-Changed at Amendment 7. The redline declaration is `CS-E 40 is amended as follows:` — see `changed_refs` in `work/paragraph_index.csv`.
+"OEI override" is a control-system feature, not a rating under this paragraph. It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
-Rated 30-Minute Power, and the way the 30-Second and 2-Minute OEI ratings combine, are defined in [[AMC E 40(b)(3)]]. The levels and their time limits live in that note, not here.
+## Not applicable
+
+- **(b)(1)**, **(h)** — piston engine rating definitions.
+- **(b)(2)** — OEI ratings for multi-engined aeroplanes; (b)(3) governs rotorcraft.
+
+## References
+
+Accepted means: [[AMC E 40]] · [[AMC E 40(b)(3)]] · [[AMC E 40(d)]]
+Related: [[CS-E 25]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 740]] · [[AMC E 20(f)]]
+
+## Amendment history
+
+Amended at Amendment 7. The amendment inserted "point" and "of Part 21" in sub-point (e), aligning the citation format with Part 21. No change to the ratings themselves.
