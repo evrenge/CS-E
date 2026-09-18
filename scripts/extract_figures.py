@@ -38,6 +38,9 @@ from classification import CLASSIFICATION  # noqa: E402
 
 MARGIN = 12.0       # points of whitespace kept around the cropped region
 MIN_AREA = 4000.0   # ignore rules, borders and other decoration
+COLUMN_X0, COLUMN_X1 = 68.0, 528.0   # the body text column
+FORMULA_PAD = 26.0                   # reaches the numerator and denominator
+BODY_Y0, BODY_Y1 = 88.0, 775.0       # below the header rule, above the footer
 
 
 def slug(pid: str) -> str:
@@ -53,6 +56,27 @@ def logo_xrefs(doc: pymupdf.Document) -> set[int]:
     return {x for x, n in counts.items() if n > len(doc) * 0.8}
 
 
+def fraction_bars(page) -> list:
+    """Horizontal rules that are division bars in a formula.
+
+    A displayed formula survives extraction as nonsense: the text layer gives
+    "Pc = Po x 1013.25" and "B" on separate lines, with nothing to say that B is
+    the denominator. The division bar is the only reliable marker, and it is
+    drawn, not written. It is short (a fraction is narrower than the column),
+    thin (well under a point), and it sits in the body band, which separates it
+    from the full-width header and footer rules.
+
+    Returns the rule rectangles, not the formula: a caller that wants to crop
+    must grow them to reach the numerator and denominator.
+    """
+    out = []
+    for drawing in page.get_drawings():
+        r = drawing["rect"]
+        if 5 < r.width < 120 and r.height < 1.0 and 90 < r.y0 < 770:
+            out.append(r)
+    return out
+
+
 def regions(page: pymupdf.Page, logos: set[int]) -> list[pymupdf.Rect]:
     """Figure and table bounding boxes on one page, merged where they overlap."""
     boxes: list[pymupdf.Rect] = []
@@ -66,6 +90,15 @@ def regions(page: pymupdf.Page, logos: set[int]) -> list[pymupdf.Rect]:
     except Exception:
         pass
     boxes = [b for b in boxes if b.get_area() >= MIN_AREA]
+    # A division bar has almost no area, so it never survives MIN_AREA on its
+    # own. Grow it to the text column and far enough above and below to take in
+    # the numerator and the denominator; the merge below then joins the lines
+    # of one formula block into a single crop.
+    for rect in fraction_bars(page):
+        # Clamp to the body band. A formula near the top of the page would
+        # otherwise pull the running header and the EASA logo into the crop.
+        boxes.append(pymupdf.Rect(COLUMN_X0, max(rect.y0 - FORMULA_PAD, BODY_Y0),
+                                  COLUMN_X1, min(rect.y1 + FORMULA_PAD, BODY_Y1)))
 
     merged: list[pymupdf.Rect] = []
     for box in sorted(boxes, key=lambda r: (r.y0, r.x0)):

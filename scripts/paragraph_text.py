@@ -109,6 +109,27 @@ def logo_xrefs(doc: pymupdf.Document) -> set[int]:
     return {x for x, n in counts.items() if n > len(doc) * 0.8}
 
 
+def fraction_bars(page) -> list:
+    """Horizontal rules that are division bars in a formula.
+
+    A displayed formula survives extraction as nonsense: the text layer gives
+    "Pc = Po x 1013.25" and "B" on separate lines, with nothing to say that B is
+    the denominator. The division bar is the only reliable marker, and it is
+    drawn, not written. It is short (a fraction is narrower than the column),
+    thin (well under a point), and it sits in the body band, which separates it
+    from the full-width header and footer rules.
+
+    Returns the rule rectangles, not the formula: a caller that wants to crop
+    must grow them to reach the numerator and denominator.
+    """
+    out = []
+    for drawing in page.get_drawings():
+        r = drawing["rect"]
+        if 5 < r.width < 120 and r.height < 1.0 and 90 < r.y0 < 770:
+            out.append(r)
+    return out
+
+
 def figures_in(page: pymupdf.Page, y_from: float, y_to: float,
                logos: set[int]) -> bool:
     """Does a real figure, table or caption fall inside this vertical band?
@@ -128,6 +149,9 @@ def figures_in(page: pymupdf.Page, y_from: float, y_to: float,
                 return True
     except Exception:
         pass
+    for rect in fraction_bars(page):
+        if y_from <= rect.y0 < y_to:
+            return True
     for block in page.get_text("dict")["blocks"]:
         if block["type"] != 0:
             continue

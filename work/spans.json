@@ -920,8 +920,11 @@
   "subpart": "E",
   "start_page": 116,
   "end_page": 117,
-  "has_figure_or_table": "no",
-  "figure_pages": []
+  "has_figure_or_table": "yes",
+  "figure_pages": [
+   116,
+   117
+  ]
  },
  {
   "id": "CS-E 640",
@@ -1144,6 +1147,7 @@
   "end_page": 172,
   "has_figure_or_table": "yes",
   "figure_pages": [
+   152,
    155,
    156,
    157,
@@ -1531,8 +1535,10 @@
   "subpart": "E",
   "start_page": 245,
   "end_page": 245,
-  "has_figure_or_table": "no",
-  "figure_pages": []
+  "has_figure_or_table": "yes",
+  "figure_pages": [
+   245
+  ]
  },
  {
   "id": "CS-E 930",

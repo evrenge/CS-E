@@ -246,9 +246,24 @@ def main() -> int:
         # --- Requirement table
         if "## Requirement" in text:
             block = text.split("## Requirement", 1)[1].split("\n## ", 1)[0]
+            # A three-column table is not automatically a Requirement table.
+            # AMC E 620 sets out the notation for its formulae as
+            # Symbol | Meaning | Unit, and "kW" is not an obligation strength.
+            # Only a table headed Ref | Obligation | Strength is checked, and
+            # `in_table` goes false at the blank line that ends it.
+            in_table = False
             for row in block.splitlines():
                 cells = [c.strip() for c in row.strip().strip("|").split("|")]
+                if not row.strip():
+                    in_table = False
+                    continue
                 if len(cells) != 3 or not row.strip().startswith("|"):
+                    continue
+                header = [c.replace("*", "").strip().lower() for c in cells]
+                if header == ["ref", "obligation", "strength"]:
+                    in_table = True
+                    continue
+                if not in_table:
                     continue
                 strength = cells[2].replace("*", "").strip()
                 if (not strength or strength in ("Strength", "---")
