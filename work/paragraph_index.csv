@@ -123,7 +123,7 @@ AMC E 730,Calibration Tests,E,137,137,no,,none,
 CS-E 740,Endurance Tests,E,138,150,no,,Amdt8,[Amdt8] CS-E 740 is amended as follows:
 AMC E 740(c)(2)(i),Endurance Tests – 30-Minute Power Rating,E,150,150,no,,Amdt8,[Amdt8] AMC E 740(c)(2)(i) is amended as follows:
 AMC E 740(c)(3),Endurance Tests,E,150,151,no,,Amdt8,[Amdt8] AMC E 740(c)(3) is amended as follows:
-AMC E 740(c)(4),Alternate Endurance Testing – Turbofan Engine,E,151,172,yes,152 155 156 157 158 159 160 163 164 165 166 167 169 170 171 172,Amdt8,[Amdt8] The following AMC E 740(c)(4) is added:
+AMC E 740(c)(4),Alternate Endurance Testing – Turbofan Engine,E,151,172,yes,155 156 157 158 159 160 163 164 165 166 167 169 170 171 172,Amdt8,[Amdt8] The following AMC E 740(c)(4) is added:
 AMC E 740(f)(1),Multi-spool Engines,E,172,173,no,,none,
 AMC E 740(g)(1),Endurance Tests - Incremental Periods,E,173,173,no,,none,
 AMC E 740(i)(2),Endurance tests - Inspection checks,E,173,174,no,,Amdt8,[Amdt8] AMC E 740(h)(2) is renamed as AMC E 740(i)(2) and its content is amended as follows:
@@ -162,7 +162,7 @@ CS-E 900,Propeller Parking Brake,E,243,243,no,,none,
 CS-E 910,Relighting In Flight,E,243,243,no,,none,
 AMC E 910,Relighting In Flight,E,244,244,no,,none,
 CS-E 920,Over-temperature Test,E,244,244,no,,Amdt8,[Amdt8] CS-E 920 is amended as follows:
-AMC E 920,Over-temperature test,E,245,245,yes,245,Amdt8,[Amdt8] AMC E 920 is amended as follows:
+AMC E 920,Over-temperature test,E,245,245,no,,Amdt8,[Amdt8] AMC E 920 is amended as follows:
 CS-E 930,Initial Maintenance Programme Test,E,245,245,no,,Amdt8,[Amdt8] The following CS-E 930 is added:
 AMC E 930,Initial Maintenance Programme Test,E,245,251,no,,Amdt8,[Amdt8] The following AMC E 930 is added:
 CS-E 1000,General,F,252,252,no,,none,

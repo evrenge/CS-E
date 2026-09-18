@@ -1147,7 +1147,6 @@
   "end_page": 172,
   "has_figure_or_table": "yes",
   "figure_pages": [
-   152,
    155,
    156,
    157,
@@ -1535,10 +1534,8 @@
   "subpart": "E",
   "start_page": 245,
   "end_page": 245,
-  "has_figure_or_table": "yes",
-  "figure_pages": [
-   245
-  ]
+  "has_figure_or_table": "no",
+  "figure_pages": []
  },
  {
   "id": "CS-E 930",

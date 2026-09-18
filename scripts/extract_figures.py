@@ -67,14 +67,29 @@ def fraction_bars(page) -> list:
     thin (well under a point), and it sits in the body band, which separates it
     from the full-width header and footer rules.
 
+    An underline meets every one of those tests, and the document underlines
+    freely -- a cross-reference in AMC E 920, a run-in heading in AMC E 660.
+    What separates the two is vertical position: an underline is drawn just
+    below its own baseline and therefore falls INSIDE the bounding box of the
+    text line it belongs to, while a division bar sits in the gap between the
+    numerator line and the denominator line. Table cell borders are free of
+    any line box too, and stay -- a table is a figure for cropping purposes.
+
     Returns the rule rectangles, not the formula: a caller that wants to crop
     must grow them to reach the numerator and denominator.
     """
+    boxes = [line["bbox"]
+             for block in page.get_text("dict")["blocks"] if block["type"] == 0
+             for line in block["lines"]]
     out = []
     for drawing in page.get_drawings():
         r = drawing["rect"]
-        if 5 < r.width < 120 and r.height < 1.0 and 90 < r.y0 < 770:
-            out.append(r)
+        if not (5 < r.width < 120 and r.height < 1.0 and 90 < r.y0 < 770):
+            continue
+        if any(y0 <= r.y0 <= y1 and x0 < r.x1 and r.x0 < x1
+               for x0, y0, x1, y1 in boxes):
+            continue                      # an underline, not a division bar
+        out.append(r)
     return out
 
 

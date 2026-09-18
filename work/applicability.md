@@ -182,7 +182,7 @@ each row waits on.
 | `CS-E 910` | Relighting In Flight | 243 | — | — | **APPLIES** | Relighting in flight; no engine-type restriction. |
 | `AMC E 910` | Relighting In Flight | 244 | — | — | **APPLIES** | Relighting guidance; no engine-type restriction. |
 | `CS-E 920` | Over-temperature Test | 244 | — | Amdt8 | **APPLIES** | Over-temperature test applies to every turbine Engine; the OEI-linked rotor speed values apply where those ratings are claimed. |
-| `AMC E 920` | Over-temperature test | 245 | yes | Amdt8 | **APPLIES** | Over-temperature guidance; its '"Maximum power-on rotor speed" is normally the steady state rotor speed associated with the 30-Second OEI Power rating' applies where that rating is claimed. |
+| `AMC E 920` | Over-temperature test | 245 | — | Amdt8 | **APPLIES** | Over-temperature guidance; its '"Maximum power-on rotor speed" is normally the steady state rotor speed associated with the 30-Second OEI Power rating' applies where that rating is claimed. |
 | `CS-E 930` | Initial Maintenance Programme Test | 245 | — | Amdt8 | **APPLIES** | Initial Maintenance Programme test, new at Amendment 8; no engine-type restriction. |
 | `AMC E 930` | Initial Maintenance Programme Test | 245–251 | — | Amdt8 | **APPLIES** | IMP test guidance; the turbopropeller and thrust-reverser passages are case-specific, and the OEI cumulative-usage passage applies where OEI ratings are claimed. |
 
