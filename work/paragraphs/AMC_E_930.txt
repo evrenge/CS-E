@@ -1,7 +1,7 @@
 # AMC E 930 Initial Maintenance Programme Test
 # id: AMC E 930
 # subpart: E
-# pages: 245-252
+# pages: 245-251
 # source: CS-E_Amendment_8.pdf
 
 (a)
@@ -352,4 +352,3 @@ applicant should:
 — substantiate the fixed Engine overhaul period from the test results as per
 paragraph (d)(5)(iii).
 [Amdt No: E/8]
-AND OPERATIONAL DESIGN REQUIREMENTS

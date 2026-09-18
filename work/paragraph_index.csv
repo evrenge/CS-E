@@ -164,7 +164,7 @@ AMC E 910,Relighting In Flight,E,244,244,no,,none,
 CS-E 920,Over-temperature Test,E,244,244,no,,Amdt8,[Amdt8] CS-E 920 is amended as follows:
 AMC E 920,Over-temperature test,E,245,245,yes,245,Amdt8,[Amdt8] AMC E 920 is amended as follows:
 CS-E 930,Initial Maintenance Programme Test,E,245,245,no,,Amdt8,[Amdt8] The following CS-E 930 is added:
-AMC E 930,Initial Maintenance Programme Test,E,245,252,no,,Amdt8,[Amdt8] The following AMC E 930 is added:
+AMC E 930,Initial Maintenance Programme Test,E,245,251,no,,Amdt8,[Amdt8] The following AMC E 930 is added:
 CS-E 1000,General,F,252,252,no,,none,
 AMC E 1000,Environmental and Operational Design Specifications - General,F,252,252,no,,none,
 CS-E 1010,Fuel Venting,F,252,252,no,,none,

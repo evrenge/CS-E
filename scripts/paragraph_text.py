@@ -47,12 +47,14 @@ RUNNING = re.compile(
     # the audit that is meant to catch exactly that loss.
     r"|(?-i:SUBPART)\s+[A-F]\s*[–—-]"
     # A banner too long for one line wraps, and the tail carries no "SUBPART"
-    # to match on. These four are every wrapped tail in the document; none of
+    # to match on. These five are every wrapped tail in the document; none of
     # them ever occurs as body prose. Without them, 211 header fragments are
     # injected into paragraph bodies -- "AND CONSTRUCTION" lands twice inside
-    # CS-E 510(a).
+    # CS-E 510(a). The Subpart F banner wraps at two different points
+    # depending on the page, so both of its tails are listed.
     r"|(?-i:SUBSTANTIATION|AND CONSTRUCTION"
-    r"|ENVIRONMENTAL AND OPERATIONAL|DESIGN REQUIREMENTS)\s*$"
+    r"|ENVIRONMENTAL AND OPERATIONAL|AND OPERATIONAL DESIGN REQUIREMENTS"
+    r"|DESIGN REQUIREMENTS)\s*$"
     r"|Annex to ED Decision"
     r"|Page\s+\d+\s+of\s+\d+)",
     re.IGNORECASE,
