@@ -63,7 +63,13 @@ def norm(text: str) -> str:
     text = (text.replace("’", "'").replace("‘", "'")
                 .replace("“", '"').replace("”", '"')
                 .replace("‑", "-").replace("–", "-").replace("—", "-"))
-    return re.sub(r"-\s+", "-", " ".join(text.split()))
+    text = " ".join(text.split())
+    # The source typesets a space before punctuation in 68 places, e.g.
+    # "Engine Performance Target after Test Completion ." in CS-E 740(h).
+    # The spacing carries no meaning, and applying the same normalisation to
+    # the quote and to the haystack leaves a real misquote just as detectable.
+    text = re.sub(r"\s+([,.;:])", r"\1", text)
+    return re.sub(r"-\s+", "-", text)
 
 
 def source_text(ids: list[str]) -> str:
