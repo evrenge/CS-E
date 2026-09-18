@@ -74,6 +74,7 @@ one that [[CS-E 580]] protects from foreign matter ingress and that
 
 Specification: [[CS-E 690]]
 Related: [[CS-E 740]] · [[CS-E 730]] · [[CS-E 580]] · [[CS-E 60]] · [[CS-E 650]] · [[CS-E 510]] · [[AMC E 650]] · [[AMC E 740]]
+
 ## Amendment history
 
 Amended at Amendment 8. The substantive change is a cross-reference correction;

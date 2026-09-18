@@ -88,6 +88,7 @@ run deliberately above the limit rather than at a declared over-limit value.
 
 Specification: [[CS-E 920]]
 Related: [[CS-E 870]] · [[CS-E 860]] · [[CS-E 745]] · [[CS-E 50]] · [[CS-E 40]] · [[AMC E 820]] · [[AMC E 830]] · [[AMC E 870]]
+
 ## Amendment history
 
 Amendment 8 amended AMC E 920, alongside the amendment to [[CS-E 920]].

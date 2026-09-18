@@ -208,7 +208,7 @@ domain: an analysis validated on a turbofan baseline does not automatically cove
 a turboshaft.
 
 **Rotor drive systems are an installation item.**
-[[AMC E 650|AMC E 650(13)]] lists rotor drive systems among the installation
+AMC E 650(13) lists rotor drive systems among the installation
 features to consider for vibratory compatibility. For a rotorcraft that is the
 drive into the transmission, and it is the item most likely to need operating
 limitations or procedures under [[CS-E 650|CS-E 650(h)]].

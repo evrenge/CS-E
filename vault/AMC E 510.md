@@ -186,7 +186,7 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 The AMC applies throughout, less the two passages recorded below.
 
 **Rotorcraft is named explicitly, and so is engine redundancy.**
-[[AMC E 510|AMC E 510(3)(f)]] carries two minor-effect assumptions and gives each
+AMC E 510(3)(f) carries two minor-effect assumptions and gives each
 its own qualifier, which are not interchangeable. The assumption that an engine
 Failure with no external effect beyond loss of power is a Minor Engine Effect
 "may be revisited during aircraft certification, where installation effects such
@@ -212,7 +212,7 @@ are excess power above the maximum rated value and uncontrollable power
 oscillation. The list is explicitly non-exhaustive and not all items apply to all
 engines, so this is interpretation rather than omission.
 
-**The control system.** [[AMC E 510|AMC E 510(3)(b)]] requires the CS-E 50
+**The control system.** AMC E 510(3)(b) requires the CS-E 50
 specifications for the Engine Control System to be integrated into the overall
 engine safety analysis rather than analysed separately. For a full-authority
 EECS this is the central structural requirement of the analysis, and it is the

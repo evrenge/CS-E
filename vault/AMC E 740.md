@@ -129,7 +129,7 @@ actions that [[CS-E 25|CS-E 25(b)]] requires following use of the 30-Second and
 Four of the five AMC paragraphs carried here bind directly, and two of them exist for this
 exact rating combination.
 
-**The 30-Minute Power rating.** [[AMC E 740|AMC E 740(c)(2)(i)]] is written "For
+**The 30-Minute Power rating.** AMC E 740(c)(2)(i) is written "For
 Rotorcraft turbine Engines to be approved with a 30-Minute Power rating", and
 `engine_profile.md` declares Rated 30-Minute Power under
 [[CS-E 40|CS-E 40(b)(4)]]. The 25 hours are required; the AMC gives three ways to
@@ -147,21 +147,21 @@ refers to "the overall test normally required by CS-E 740". See the matching
 `[VERIFY]` in [[CS-E 740]].]
 
 **The 30-second overshoot is a control design decision.**
-[[AMC E 740|AMC E 740(c)(3)(2)]] accepts a short speed overshoot at the start of
+AMC E 740(c)(3)(2) accepts a short speed overshoot at the start of
 the 30-second period, where it is needed to establish the power quickly. For a
 full-authority EECS this determines how the 30-Second OEI transient is scheduled,
 and it must be validated across the whole (c)(3)(iii) test rather than
 demonstrated once.
 
 **The strip examination validates maintenance policy.**
-[[AMC E 740|AMC E 740(i)(2)(3)]] allows the post-test engine condition to
+AMC E 740(i)(2)(3) allows the post-test engine condition to
 validate the mandatory maintenance actions required by [[CS-E 25|CS-E 25(b)]]
 after use of the 30-Second and 2-Minute OEI ratings. Those actions are what the
 OEI usage recording of [[CS-E 60|CS-E 60(d)]] exists to trigger, so the endurance
 test, the recorder and the maintenance manual form one chain.
 
 **Multi-spool supplementary testing depends on the architecture.**
-[[AMC E 740|AMC E 740(f)(1)]] applies where the maximum rotational speed of each
+AMC E 740(f)(1) applies where the maximum rotational speed of each
 spool cannot be obtained simultaneously at sea-level test bed conditions. A free
 power-turbine turboshaft has a gas generator spool and a power turbine, and
 [[CS-E 740|CS-E 740(f)(3)]] already requires additional running where the
@@ -181,6 +181,7 @@ substantiate the higher speed limitations, and AMC E 740(f)(1) sets the basis.]
 
 Specification: [[CS-E 740]]
 Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 150]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 690]] · [[CS-E 730]] · [[AMC E 650]] · [[AMC E 690]] · [[AMC E 730]]
+
 ## Amendment history
 
 All five AMC paragraphs carried here, and their parent, were amended at

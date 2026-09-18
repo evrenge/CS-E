@@ -54,7 +54,7 @@ displaces it.
 | **(2)(d)(v)** | At no time during or at the end of the test should a Hazardous Engine Effect result. | Accepted method |
 
 The exposure times are stated here rather than in the specification. Fire
-Resistant carries a 5-minute exposure, which [[AMC E 130|AMC E 130(2)(c)]]
+Resistant carries a 5-minute exposure, which AMC E 130(2)(c)
 justifies as "a reasonable time period for the flight crew to recognise a fire
 condition, shut down the appropriate Engine and close the appropriate fuel
 shutoff valve(s)". The Fireproof tank shutoff valve case runs to 15 minutes.
@@ -156,7 +156,7 @@ venting" [AMC E 130(5)].
 The AMC applies throughout. Three parts of it bear directly on this
 configuration.
 
-**Continued rotation and the oil system.** [[AMC E 130|AMC E 130(2)(c)]] states
+**Continued rotation and the oil system.** AMC E 130(2)(c) states
 that oil system components of turbine engines may keep flowing oil after
 shutdown because of continued rotation, and that the supply to a fire "might
 exist for as long as the continued rotation effects are present or until the oil

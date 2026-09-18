@@ -230,7 +230,7 @@ surge or stall rather than any surge at all.
 ## Application to this engine
 
 **The rotorcraft section decides the compliance route.**
-[[AMC E 790|AMC E 790(a)(2)(2)(d)]] permits the CS-E 790(a)(2) testing to be
+AMC E 790(a)(2)(2)(d) permits the CS-E 790(a)(2) testing to be
 replaced by the static rain ingestion test of [[CS-E 790|CS-E 790(b)]] for
 rotorcraft applications. Two physical arguments support it, and both are
 turboshaft properties rather than choices: the scoop factor effect is small
@@ -238,12 +238,12 @@ because rotorcraft fly slower and hold proportionately higher engine power durin
 descent, and the engine has no fan to centrifuge water away from the core.
 
 The consequence is that the critical point analysis of
-[[AMC E 790|AMC E 790(a)(2)(4)]] — a two-step procedure requiring Agency
+AMC E 790(a)(2)(4) — a two-step procedure requiring Agency
 concurrence before testing — is not the compliance path here. The CS-E 790(b)
 test conditions are fixed by the specification instead.
 
-**The acceptance criteria still apply.** [[AMC E 790|AMC E 790(1)]] and
-[[AMC E 790|AMC E 790(2)]] route the terms used in CS-E 790(b) — "unacceptable
+**The acceptance criteria still apply.** AMC E 790(1) and
+AMC E 790(2) route the terms used in CS-E 790(b) — "unacceptable
 mechanical damage", "unacceptable power loss", "flameout, rundown, continued or
 non-recoverable surge or stall" — to AMC E 790(a)(2)(5)(c)(vi). The 3 percent and
 10 per cent criteria therefore govern the (b) test as well.
@@ -257,7 +257,7 @@ necessary, so the same system could carry both duties — and the dispatch
 consequence with them.
 
 **Avoiding transients is not a compliance argument.**
-[[AMC E 790|AMC E 790(a)(2)(3)(c)(ii)]] is explicit that avoidance of throttle
+AMC E 790(a)(2)(3)(c)(ii) is explicit that avoidance of throttle
 transients "should not be used by the applicant to show compliance with the rain
 and hail ingestion specifications". The CS-E 790(b) sequence builds the
 transients in for exactly that reason.

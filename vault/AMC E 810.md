@@ -112,7 +112,7 @@ and possible shaft failure.
 The AMC applies, less the composite fan blade release provisions recorded below.
 
 **Internal penetration is the case to watch on a reverse flow layout.** The note
-under [[AMC E 810|AMC E 810(2)(b)]] names reverse flow engines "where the
+under AMC E 810(2)(b) names reverse flow engines "where the
 combustion systems may be outside the rotors" as a configuration where blades may
 penetrate the rotor casings and cause hazardous internal damage while remaining
 inside the engine's external geometry. Radial containment alone does not answer
@@ -123,9 +123,9 @@ system components outside the compressor or turbine rotor casings. AMC E 810(2)(
 makes the internal penetration assessment necessary where it does.]
 
 **The out-of-balance run is a shaft and bearing test as much as a blade test.**
-[[AMC E 810|AMC E 810(3)(a)]] lists possible shaft Failure among the effects a rig
+AMC E 810(3)(a) lists possible shaft Failure among the effects a rig
 cannot reproduce, and
-[[AMC E 810|AMC E 810(2)(c)(ii)]] gives a blade failure leading to a shaft failure
+AMC E 810(2)(c)(ii) gives a blade failure leading to a shaft failure
 as the worked example of an effect that is unacceptable under
 [[CS-E 850|CS-E 850(a)(1)]] and [[CS-E 840|CS-E 840(c)]] however improbable. For
 a free power-turbine engine the shaft system is the load path between two rotors,
@@ -145,6 +145,7 @@ blade shedding relied on for over-speed protection to have a margin above it.
 
 Specification: [[CS-E 810]]
 Related: [[CS-E 510]] · [[CS-E 520]] · [[CS-E 515]] · [[CS-E 650]] · [[CS-E 830]] · [[CS-E 840]] · [[CS-E 850]] · [[CS-E 60]] · [[CS-E 20]] · [[AMC E 510]] · [[AMC E 520]]
+
 ## Amendment history
 
 Amended at Amendment 7, alongside [[CS-E 810]] itself. The AMC gained two new

@@ -219,6 +219,20 @@ def main() -> int:
             if not [ln for ln in block.splitlines() if ln.strip().startswith("-")]:
                 say("'Not applicable' present but empty — omit it instead")
 
+        # A note that wikilinks to itself sends the reader to the page they are
+        # already on, and the alias form hides that it does. Ten notes did.
+        for m in re.finditer(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]", text):
+            if m.group(1).strip() == name:
+                say(f"links to itself: {m.group(0)}")
+                break
+
+        # A "## " heading needs a blank line before it, or Obsidian and GitHub
+        # both fold it into the preceding paragraph.
+        lines = text.splitlines()
+        for i, line in enumerate(lines):
+            if line.startswith("## ") and i and lines[i - 1].strip():
+                say(f"no blank line before {line!r}")
+
         # The template fixes the order of the tail sections, and drift here is
         # invisible one note at a time: eleven notes had put Amendment history
         # before References before this check existed.

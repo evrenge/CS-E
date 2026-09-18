@@ -132,14 +132,14 @@ The general, facility, impact and definitional sections apply. The sections
 serving CS-E 800(c), (d) and (e) do not, and are recorded below.
 
 **The critical impact parameter is a core feature here.**
-[[AMC E 800|AMC E 800(2)(a)]] names fan blade leading edge stress as the critical
+AMC E 800(2)(a) names fan blade leading edge stress as the critical
 parameter for most modern turbofans, and a core feature for turboprop and turbojet
 engines. A turboshaft has no fan, so the parameter must be identified in the core
 and understood before any demonstration — the AMC makes that a precondition, not
 a result.
 
 **The load device provision is written for this engine type.**
-[[AMC E 800|AMC E 800(2)(d)]] addresses turboshaft engines tested on an
+AMC E 800(2)(d) addresses turboshaft engines tested on an
 alternative load device. The bed cannot reproduce a rotor system's inertia and
 response, so the interface must be monitored and used to predict the installed
 behaviour. This connects to [[CS-E 140|CS-E 140(d)]] on accessory drive loading
