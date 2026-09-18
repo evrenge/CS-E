@@ -209,7 +209,7 @@ intended installation, with inertia and torsional vibration named. A
 water-brake or eddy-current dynamometer without a representative inertia and
 torsional response does not meet the sub-point on its own. The rig specification
 therefore depends on the target rotorcraft transmission, which
-`engine_profile.md` records as an open item.
+`engine_profile.md` does not declare.
 
 **OEI usage has to be assumed before the test, not measured after it.**
 [AMC E 930(d)(1)(i)] requires the cumulative usage of the OEI ratings before

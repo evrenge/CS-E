@@ -31,7 +31,8 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 | **(c)(2)(i)(b)** | Show that those sequences were run with operating limitations that are equal to or more stringent than the 30-Minute Power rating operating limitations. | Accepted method |
 | **(c)(2)(i)(c)** | Where the intended usage and performance characteristics are such that engine power will be subject to mechanical limitations for a portion of its missions, it may be acceptable to run the engine for a representative percentage of the required 30-Minute Power time at those mechanical limitations, but not to exceed 50 % of the required additional 25 hours, that is 12.5 hours. | Permitted |
 | **(c)(2)(i)(c)** | Run the engine at the higher thermal limits for the remaining percentage of the time. | Accepted method |
-| **(c)(2)(i)(c)** | Substantiate the proposal and propose it to the Agency for acceptance, and record these assumptions in the instructions for installing and operating the engine in accordance with CS-E 30(a). | Accepted method |
+| **(c)(2)(i)(c)** | The proposal must be substantiated and proposed to the Agency for acceptance. | Required |
+| **(c)(2)(i)(c)** | These assumptions will be recorded in the instructions for installing and operating the engine, in accordance with CS-E 30(a). | Statement |
 | **(c)(2)(i)(d)** | No specific maintenance action is normally expected following use of the 30-Minute Power rating. This will be justified through compliance with CS-E 740(i)(1). | Statement |
 
 Point (c) is the one to plan around. Up to half the 25 hours may be run at

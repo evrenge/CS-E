@@ -36,11 +36,17 @@ restart command comes "after an initial delay of at least 5 seconds"
 particular the Engine Control System", adds any unnecessary delay before the
 previous power setting is regained.
 
-**Rotor-lock** is the thermal seizure of a rotor after shutdown, when a hot rotor
-contracts against a casing that has already cooled or expanded against one that
-has not. The AMC names five contributors — clearances with tolerances, the
-initial conditions, flight effects, thermal effects and dwell time — and the list
-is open. Every rotor is in scope, not only the rotor the relight is initiated on.
+**Rotor-lock** is not defined in AMC E 910, nor anywhere else in CS-E
+Amendment 8. What the AMC gives instead is the set of assumptions the assessment
+must rest on: clearances taking tolerances into account, the initial conditions,
+flight effects, thermal effects and the dwell time [AMC E 910(3)(b)]. The list is
+open — the source writes "include but are not limited to" — and every engine
+rotor is in scope, not only the rotor the relight is initiated on.
+
+[VERIFY: the meaning of rotor-lock is assumed rather than stated. The five named
+contributors point at a seizure arising from differential thermal growth between
+rotor and casing during the post-shutdown dwell, but the source does not say so,
+and the assessment scope should be agreed with the Agency.]
 
 The flight-test route to rotor-lock is qualified. A flight test represents one
 set of conditions, so it must either be conservative in itself or be supplemented

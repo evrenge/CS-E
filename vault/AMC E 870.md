@@ -52,12 +52,11 @@ over-temperature event to be excluded from OEI usage counting, provided the
 engine can still deliver the OEI ratings. This AMC is where that capability is
 proved for the over-temperature case.
 
-Turbine material condition after a 15-minute exposure at the over-temperature
-limit is the governing evidence. The hot section damage that would remove
-30-Second OEI capability is creep and oxidation of the turbine blades and vanes,
-so the strip assessment is read together with the Engine Critical Part life
-substantiation of [[CS-E 515]] and the turbine rotor temperature work of
-[[CS-E 860]].
+Turbine condition after the 15-minute exposure of [[CS-E 870|CS-E 870(b)(1)]]
+is the governing evidence. The AMC does not say which damage mechanisms matter,
+so the strip criteria are established by the applicant and read together with the
+Engine Critical Part life substantiation of [[CS-E 515]] and the turbine rotor
+temperature work of [[CS-E 860]].
 
 ## References
 

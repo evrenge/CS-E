@@ -67,7 +67,8 @@ design features, materials, clearances, etc." [AMC E 850(2)(c)]
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(3)** | Shaft systems should be designed to fail safe as required by CS-E 850(a)(1), because experience has shown that Failures of shafts occur at a rate in excess of Extremely Remote. | Accepted method |
-| **(3)** | It is accepted under CS-E 850(a)(3) that, for conventional designs, fail-safe design is not possible for all parts of a shaft system, but the use of this provision should be strictly limited. | Statement |
+| **(3)** | It is accepted under CS-E 850(a)(3) that, for conventional designs, fail-safe design is not possible for all parts of a shaft system. | Statement |
+| **(3)** | The use of that provision should be strictly limited. | Accepted method |
 | **(3)** | Consider particularly two hazardous effects of shaft Failure: a release of the complete fan or compressor moving forward, and an over-speed of the turbine leading to disc burst. | Accepted method |
 | **(3)** | Consider industry experience with shaft Failures under CS-E 850(b)(2)(v). Nine Failure modes have all led to shaft Failures in service. | Accepted method |
 | **(3)** | Show that features such as splines, oil feed holes, couplings, bearing tracks that are integral with the shaft, and sealing fins are well understood and conducive to well-established and validated stressing techniques. | Accepted method |
@@ -179,8 +180,8 @@ installation torque oscillation may exceed 5 % because of rotor dynamics, and
 
 [VERIFY: the maximum oscillatory torque envisaged in the rotorcraft installation,
 against the ±5% floor of AMC E 850(4)(b)(ii). The value depends on the main
-rotor and transmission dynamics of the target aircraft, which engine_profile.md
-records as an open item.]
+rotor and transmission dynamics of the target aircraft, which are not declared in
+engine_profile.md.]
 
 [VERIFY: whether an over-speed protection function of the EECS-FADEC is claimed
 as the means of over-speed control under AMC E 850(2)(a). If so, its Failure rate

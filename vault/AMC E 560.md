@@ -102,7 +102,7 @@ leakage being a potential fire hazard, so it ties [[CS-E 110|CS-E 110(d)]] to
 
 ## Not applicable
 
-- **(1)**, in part — the interpretation extending the word "fuel" to other fluids such as water methanol. `engine_profile.md` declares no refrigerant injection and no boost fluid, so no such fluid arises on this engine. The multiple fuel type provision in the same point applies.
+- **(1)**, in part — the interpretation extending the word "fuel" to other fluids such as water methanol. `engine_profile.md` declares no refrigerant injection. It is silent on water methanol and on boost fluids generally, so this cut rests on the refrigerant declaration alone. [VERIFY: whether any boost fluid is used. If one is, this interpretation applies and the cut must be reversed.] The multiple fuel type provision in the same point applies.
 
 ## References
 

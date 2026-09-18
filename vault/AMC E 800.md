@@ -24,7 +24,7 @@ tags: [bird-strike, ingestion, critical-impact-parameter, test-facility, load-de
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(1)(a)(i)** | Provide an analysis substantiating the definition of the "most critical exposed location" of CS-E 800(b)(1)(iii). | Accepted method |
+| **(1)(a)(i)** | The applicant is required to provide an analysis substantiating the definition of the "most critical exposed location" of CS-E 800(b)(1)(iii). | Required |
 | **(1)(a)(i)** | Include in that determination evidence where necessary on: the effect of the bird strike on rotating components, excluding any spinner; the compressor casing strength; the possibility of multiple blade Failures; and the strength of the engine structure and main shafts relative to the unbalance and the excess torque that are likely to occur. | Accepted method |
 | **(1)(a)(ii)** | Rig tests may be used to determine whether a bird of a particular size will pass through the inlet, to comply with CS-E 800(b)(1)(ii)(A). | Permitted |
 | **(1)(a)(iii)** | The complete loss of power or thrust is acceptable after the ingestion of the single large bird. | Statement |
@@ -93,6 +93,8 @@ engine, so they appear in both.
 | **(4)(c)** | This 10 % variation should not be assumed to be a direct tolerance on the applicant's proposed changes to the take-off power ratings themselves. | Statement |
 | **(4)(d)** | Any analytical means used in place of a test demonstration, where analysis is permitted, should be validated by evidence based on representative tests, and should have demonstrated its capability to predict engine test results. | Accepted method |
 | **(4)(e)** | When reference is made to an "exposed location", this should be understood to be any part of the engine which is not shielded. | Statement |
+| **(4)(f)** | Where the CS-E 810 test is proposed as an alternative to the single large bird test, under CS-E 800(g)(2), the demonstration should include consideration of unbalance, as well as effects of the axial loading from the bird strike on bearings or other structures. | Accepted method |
+| **(4)(g)** | Artificial birds may be used in the tests if they are internationally standardised and are acceptable to the Agency. | Permitted |
 
 The automatic systems allowance in (4)(a) carries the same consequence as the
 rain and hail case: normal functioning is acceptable "provided that the dispatch
@@ -102,6 +104,14 @@ pass the test becomes something the dispatch analysis must account for.
 The minimum engine definition in (4)(b) is the worst-case new engine, not an
 average one, and it is why [[CS-E 800|CS-E 800(b)(1)(i)]] requires the hottest-day
 account.
+
+Sub-point (4)(f) is the condition set on a waiver this engine may want.
+[[CS-E 800|CS-E 800(g)(2)]] allows the single large bird test to be waived where
+it is shown that the specified bird cannot enter the engine, and the blade
+Failure test of [[CS-E 810]] may be proposed instead. Where that route is taken,
+(4)(f) requires the demonstration to cover unbalance and the axial loading of the
+bird strike on bearings or other structures — two effects the CS-E 810 test does
+not otherwise produce.
 
 ## Compliance
 
