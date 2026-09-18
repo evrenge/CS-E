@@ -1,7 +1,7 @@
 # CS-E 130 Fire Protection
 # id: CS-E 130
 # subpart: A
-# pages: 51-53
+# pages: 51-52
 # source: CS-E_Amendment_8.pdf
 
 (See AMC E 130)

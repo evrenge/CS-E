@@ -36,7 +36,7 @@ PLAN: list[tuple[str, str, list[str], str]] = [
     ("A", "Fire protection 1 — fire zones and materials", ["CS-E 130", "AMC E 130"], "Split 1 of 2 of AMC E 130 (3,055 words). Changed at Amdt 8."),
     ("A", "Fire protection 2 — flammable fluids, shut-off, fireproof test", ["AMC E 130"], "Split 2 of 2. Changed at Amdt 8."),
     ("A", "Electrical bonding and test engine configuration", ["CS-E 135", "AMC E 135", "CS-E 140", "AMC E 140"], "Note that CS-E 140(f) propeller joint tests do not apply."),
-    ("A", "Conduct of tests, test history, systems verification", ["CS-E 150", "AMC E 150(a)", "CS-E 160", "CS-E 170", "AMC E 170"], "CS-E 160 changed at Amdt 7."),
+    ("A", "Conduct of tests, test history, systems verification", ["CS-E 150", "CS-E 160", "CS-E 170", "AMC E 170"], "CS-E 160 changed at Amdt 7."),
 
     # --------------------------------------------------------------- Subpart D
     ("D", "Functioning", ["CS-E 500"], "Note that AMC E 500 is aeroplane-only and excluded."),

@@ -55,7 +55,7 @@ CLASSIFICATION: list[tuple[str, str, str]] = [
     ("CS-E 140", "APPLIES", "Test engine configuration applies to every Engine; '(f) … the combined Engine and Propeller tests required by CS-E 180' does not arise for a turboshaft."),
     ("AMC E 140", "APPLIES", "Test configuration guidance; no engine-type restriction."),
     ("CS-E 150", "APPLIES", "General conduct of tests; no engine-type restriction."),
-    ("AMC E 150(a)", "APPLIES", "General conduct of tests guidance; no engine-type restriction."),
+    ("AMC E 150(a)", "EXCLUDED", "Piston only. The whole body is one sentence, \"For piston Engines, where the operating conditions of a test represent Maximum Continuous Power at altitude, a higher grade fuel or any other approved anti-detonant may be used\". A turboshaft does not detonate, so nothing in it reaches this engine. CS-E 150(a) therefore has no applicable AMC."),
     ("CS-E 160", "APPLIES", "Test history recording; no engine-type restriction."),
     ("CS-E 170", "APPLIES", "Engine systems and component verification; no engine-type restriction."),
     ("AMC E 170", "APPLIES", "Systems and component verification guidance, including the EECS mechanical back-up case."),

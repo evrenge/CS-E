@@ -1,7 +1,7 @@
 # AMC E 20 Engine Configuration and Interfaces
 # id: AMC E 20
 # subpart: A
-# pages: 19-20
+# pages: 19-19
 # source: CS-E_Amendment_8.pdf
 
 (1)

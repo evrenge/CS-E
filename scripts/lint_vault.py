@@ -104,8 +104,11 @@ def norm_stitched(text: str) -> str:
     the deleted ones, so a deletion ending mid-sentence leaves "certification ,"
     where the amendment reads "certification,". That is an artifact of the
     reconstruction, not a difference in wording, so it must not fail a quote.
+   
+    The same stitch puts spaces on both sides of a changed token inside
+    brackets: "CS-E 130( c )" for what the amendment prints as "CS-E 130(c)".
     """
-    return re.sub(r"\s+([,.;:)])", r"\1", norm(text))
+    return re.sub(r"\(\s+", "(", re.sub(r"\s+([,.;:)])", r"\1", norm(text)))
 
 
 _PRIOR: str | None = None

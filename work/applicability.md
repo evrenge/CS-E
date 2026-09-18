@@ -13,9 +13,9 @@ engine variable is true, the verdict is CONDITIONAL.
 
 | Verdict | Count | Share |
 |---|---:|---:|
-| APPLIES | 129 | 89% |
+| APPLIES | 128 | 88% |
 | CONDITIONAL | 0 | 0% |
-| EXCLUDED | 16 | 11% |
+| EXCLUDED | 17 | 12% |
 | **Total in scope** | **145** | |
 
 33 of the 145 carry an amendment tag (see `changed_in` in `work/paragraph_index.csv`).
@@ -32,7 +32,7 @@ each row waits on.
 
 ## Subpart A — General
 
-45 paragraphs — 41 APPLIES, 0 CONDITIONAL, 4 EXCLUDED
+45 paragraphs — 40 APPLIES, 0 CONDITIONAL, 5 EXCLUDED
 
 | Paragraph | Title | Pages | Fig/Tab | Changed | Verdict | Reason |
 |---|---|---|:--:|---|---|---|
@@ -74,7 +74,7 @@ each row waits on.
 | `CS-E 140` | Tests - Engine Configuration | 60 | — | — | **APPLIES** | Test engine configuration applies to every Engine; '(f) … the combined Engine and Propeller tests required by CS-E 180' does not arise for a turboshaft. |
 | `AMC E 140` | Test - Engine configuration | 60–61 | — | — | **APPLIES** | Test configuration guidance; no engine-type restriction. |
 | `CS-E 150` | Tests - General Conduct of Tests | 61 | — | — | **APPLIES** | General conduct of tests; no engine-type restriction. |
-| `AMC E 150(a)` | Tests - General conduct of tests | 61 | — | — | **APPLIES** | General conduct of tests guidance; no engine-type restriction. |
+| `AMC E 150(a)` | Tests - General conduct of tests | 61 | — | — | **EXCLUDED** | Piston only. The whole body is one sentence, "For piston Engines, where the operating conditions of a test represent Maximum Continuous Power at altitude, a higher grade fuel or any other approved anti-detonant may be used". A turboshaft does not detonate, so nothing in it reaches this engine. CS-E 150(a) therefore has no applicable AMC. |
 | `CS-E 160` | Tests - History | 61 | — | Amdt7 | **APPLIES** | Test history recording; no engine-type restriction. |
 | `CS-E 170` | Engine Systems and Component Verification | 61–62 | — | — | **APPLIES** | Engine systems and component verification; no engine-type restriction. |
 | `AMC E 170` | Engine systems and component verification | 62–63 | — | — | **APPLIES** | Systems and component verification guidance, including the EECS mechanical back-up case. |
@@ -209,7 +209,7 @@ each row waits on.
 |---|---|
 | Aeroplane-only | `AMC E 500`, `AMC E 660`, `AMC E 700`, `CS-E 190` |
 | ETOPS | `CS-E 1040` |
-| No rotorcraft provisions in the AMC | `AMC E 1030`, `AMC E 780`, `CS-E 1030`, `CS-E 880` |
+| No rotorcraft provisions in the AMC | `AMC E 1030`, `AMC E 150(a)`, `AMC E 780`, `CS-E 1030`, `CS-E 880` |
 | Propeller | `AMC E 180`, `CS-E 180`, `CS-E 900` |
 | Thrust reverser | `AMC E 10(b)`, `AMC E 890`, `CS-E 890` |
 | Turbofan-only | `AMC E 740(c)(4)` |
@@ -254,7 +254,7 @@ they are listed in the exclusions MOC.
 | 18 | A | Fire protection 1 — fire zones and materials | `CS-E 130`, `AMC E 130` | Split 1 of 2 of AMC E 130 (3,055 words). Changed at Amdt 8. |
 | 19 | A | Fire protection 2 — flammable fluids, shut-off, fireproof test | `AMC E 130` | Split 2 of 2. Changed at Amdt 8. |
 | 20 | A | Electrical bonding and test engine configuration | `CS-E 135`, `AMC E 135`, `CS-E 140`, `AMC E 140` | Note that CS-E 140(f) propeller joint tests do not apply. |
-| 21 | A | Conduct of tests, test history, systems verification | `CS-E 150`, `AMC E 150(a)`, `CS-E 160`, `CS-E 170`, `AMC E 170` | CS-E 160 changed at Amdt 7. |
+| 21 | A | Conduct of tests, test history, systems verification | `CS-E 150`, `CS-E 160`, `CS-E 170`, `AMC E 170` | CS-E 160 changed at Amdt 7. |
 | 22 | D | Functioning | `CS-E 500` | Note that AMC E 500 is aeroplane-only and excluded. |
 | 23 | D | Safety analysis 1 — failure classification and targets | `CS-E 510`, `AMC E 510` | Split 1 of 2 of AMC E 510 (3,482 words). Hazardous / Major / Minor Engine Effect. Changed at Amdt 7. |
 | 24 | D | Safety analysis 2 — method, assumptions, multi-engine rotorcraft | `AMC E 510` | Split 2 of 2. Carries the rotorcraft certification assumption. |

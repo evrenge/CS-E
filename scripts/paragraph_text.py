@@ -180,18 +180,14 @@ def main() -> int:
         m = HEAD_ID.match(heading)
         pid = " ".join(m.group(1).split()) if m else heading.split("  ")[0].strip()
         name = f"{slug(pid)}.txt"
-        header = (
-            f"# {heading}\n"
-            f"# id: {pid}\n"
-            f"# subpart: {pages[pno]['subpart']}\n"
-            f"# pages: {pno}-{end_page}\n"
-            f"# source: CS-E_Amendment_8.pdf\n\n"
-        )
-        (OUT / name).write_text(header + "\n".join(chunks) + "\n", encoding="utf-8")
         # True last page: the last one this paragraph actually puts body text on.
         # Not next_banner_page - 1: a banner part-way down a page leaves the
         # previous paragraph occupying the top of that same page, as CS-E 40(e)-(h)
-        # do on page 30 before the AMC E 40 banner.
+        # do on page 30 before the AMC E 40 banner. This is computed BEFORE the
+        # file is written, because the file's own page header must carry the same
+        # span as spans.json — a writer reads the header, a script reads the json,
+        # and the two disagreeing is how a note ends up citing a page the
+        # paragraph does not reach.
         last = pno
         fig_pages: list[int] = []
         for n in range(pno, end_page + 1):
@@ -201,6 +197,14 @@ def main() -> int:
                 last = n
             if figures_in(doc[n - 1], lo, hi, logos):
                 fig_pages.append(n)
+        header = (
+            f"# {heading}\n"
+            f"# id: {pid}\n"
+            f"# subpart: {pages[pno]['subpart']}\n"
+            f"# pages: {pno}-{last}\n"
+            f"# source: CS-E_Amendment_8.pdf\n\n"
+        )
+        (OUT / name).write_text(header + "\n".join(chunks) + "\n", encoding="utf-8")
         spans.append({
             "id": pid, "title": heading[len(pid):].strip() if heading.startswith(pid) else heading,
             "subpart": pages[pno]["subpart"], "start_page": pno, "end_page": last,
