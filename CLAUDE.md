@@ -224,6 +224,7 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 ├── vault/                   # the notes — one file per paragraph, plus figures/
 ├── deck/                    # exports for the certification programme
 │   └── compliance_matrix.xlsx   # derived from the vault. Regenerate, never hand-edit
+├── review/                  # verification findings. Written once, then worked off
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
