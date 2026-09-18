@@ -231,6 +231,12 @@ effects "consistent with the corresponding certification test evidence", so
 [[CS-E 780]] and [[CS-E 790]] results are inputs to the CS-E 650(f) margin
 justification, not only to their own paragraphs.
 
+[VERIFY: the threshold for a "significant response", previously agreed with the
+Agency. AMC E 650(1) defines the term by reference to that agreement, so the
+definition is circular until the threshold is set, and the same threshold
+triggers the dwell testing of [[CS-E 740|CS-E 740(g)(1)]]. It is not recorded
+in `engine_profile.md`.]
+
 ## Not applicable
 
 - **(3)**, in part — the fan is named among the modules whose most critical blades and vanes are selected, and among the discs and spacers to be covered. A turboshaft has no fan; the compressor and turbine cases in the same sentences apply.

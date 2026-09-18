@@ -82,6 +82,11 @@ paragraph. [[AMC E 50|AMC E 50(2)]] states that such components "should be
 covered, in addition, under other CS-E paragraphs such as CS-E 80 or CS-E 170, as
 appropriate", so CS-E 80 and [[CS-E 170]] apply to them alongside [[CS-E 50]].
 
+[VERIFY: which equipment items are declared under [[CS-E 20|CS-E 20(a)]] and
+which under [[CS-E 20|CS-E 20(c)]]. The split decides, item by item, whether
+CS-E 80(b) or CS-E 80(c) governs, and it is not recorded in
+`engine_profile.md`.]
+
 ## Not applicable
 
 - **(b)**, in part — the reference to subpart C alongside subpart E. Subpart C is the piston engine type substantiation subpart and is outside this vault by scope.

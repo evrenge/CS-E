@@ -206,6 +206,11 @@ rotorcraft turboshaft. Sand and dust applies to all equipment that is not
 environmentally sealed [AMC E 80(2)(a)], and the sealing claim is therefore the
 decision that removes the test.
 
+[VERIFY: whether a turbine starter with an external air or gas supply is fitted.
+AMC E 80(4) sets the containment and burst provisions for such a starter, so the
+answer decides whether that whole part applies. It is not recorded in
+`engine_profile.md`.]
+
 ## Not applicable
 
 - **(2)(a)** Table 1 item 11, in part — the reference to CS-E 230, a Subpart B piston engine paragraph, alongside CS-E 780. Subpart B is outside this vault by scope.

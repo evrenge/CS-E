@@ -224,7 +224,9 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 ├── vault/                   # the notes — one file per paragraph, plus figures/
 ├── deck/                    # exports for the certification programme
 │   └── compliance_matrix.xlsx   # derived from the vault. Regenerate, never hand-edit
-├── review/                  # verification findings. Written once, then worked off
+├── review/                  # verification findings and the dead-end inventory
+│   ├── phase4_findings.md       # what the two verification passes found
+│   └── dead_ends.md             # what the vault cannot answer, and why
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
@@ -244,6 +246,7 @@ Where to look instead of trusting a number written here:
 | Page counts, checksums, provenance | `source/SOURCES.md`, `source/CHECKSUMS.sha256` |
 | Declared ratings and systems | `engine_profile.md` |
 | Every obligation, with its strength and its note | `deck/compliance_matrix.xlsx` |
+| What the vault cannot answer, and what it blocks | `review/dead_ends.md` |
 
 ## Regenerating
 
