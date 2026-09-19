@@ -57,8 +57,10 @@ structure and shaft strength against unbalance and excess torque — connect to
 Point (2)(a) states which parameter is critical for which engine type: "The CIP
 for most modern turbofan Engines is the fan blade leading edge stress… For
 turboprop and turbojet Engines, a core feature will most likely be the critical
-consideration." [AMC E 800(2)(a)] A turboshaft has no fan, so the critical
-parameter is a core feature, and it must be identified before any test.
+consideration." [AMC E 800(2)(a)] It does not name a turboshaft. What reaches
+this engine is the closing sentence, which is written for every design:
+"Regardless of the Engine design, the most limiting parameter should be
+identified and understood prior to any demonstration" [AMC E 800(2)(a)].
 
 Point (2)(d) is written for this engine type. A turboshaft on a test bed is
 coupled to a dynamometer or water brake rather than to a rotor system, and the
@@ -90,9 +92,9 @@ engine, so they appear in both.
 | **(4)(b)** | The minimum engine referred to in CS-E 800(b)(1)(i) is a new engine that exhibits the type design's most limiting operating parameters with respect to the bird ingestion conditions prescribed by CS-E 800. These parameters include, but are not limited to, the power, turbine temperature and rotor speeds. | Statement |
 | **(4)(c)** | CS-E 800(g)(1) is intended to allow the certification of design changes or derivative engines without conducting a full engine test. It is not intended, considering the present state of the art, to be used for the certification of new engines. | Statement |
 | **(4)(c)** | Any parametric analysis used to substantiate derivative engines should fall within a 10 % variation in the critical impact parameter that was used to substantiate the original base engine. | Accepted method |
-| **(4)(c)** | This 10 % variation should not be assumed to be a direct tolerance on the applicant's proposed changes to the take-off power ratings themselves. | Statement |
+| **(4)(c)** | This 10 % variation should not be assumed to be a direct tolerance on the applicant's proposed changes to the take-off power ratings themselves. | Accepted method |
 | **(4)(d)** | Any analytical means used in place of a test demonstration, where analysis is permitted, should be validated by evidence based on representative tests, and should have demonstrated its capability to predict engine test results. | Accepted method |
-| **(4)(e)** | When reference is made to an "exposed location", this should be understood to be any part of the engine which is not shielded. | Statement |
+| **(4)(e)** | When reference is made to an "exposed location", this should be understood to be any part of the engine which is not shielded. | Accepted method |
 | **(4)(f)** | Where the CS-E 810 test is proposed as an alternative to the single large bird test, under CS-E 800(g)(2), the demonstration should include consideration of unbalance, as well as effects of the axial loading from the bird strike on bearings or other structures. | Accepted method |
 | **(4)(g)** | Artificial birds may be used in the tests if they are internationally standardised and are acceptable to the Agency. | Permitted |
 
@@ -132,12 +134,18 @@ structures — two effects the CS-E 810 test does not otherwise produce.
 The general, facility, impact and definitional sections apply. The sections
 serving CS-E 800(c), (d) and (e) do not, and are recorded below.
 
-**The critical impact parameter is a core feature here.**
-AMC E 800(2)(a) names fan blade leading edge stress as the critical
-parameter for most modern turbofans, and a core feature for turboprop and turbojet
-engines. A turboshaft has no fan, so the parameter must be identified in the core
-and understood before any demonstration — the AMC makes that a precondition, not
-a result.
+**The critical impact parameter must be identified before any test.**
+AMC E 800(2)(a) names fan blade leading edge stress for most modern turbofans and
+a core feature for turboprop and turbojet engines. It says nothing about a
+turboshaft. The obligation that does reach this engine is the one that applies
+"regardless of the Engine design": the most limiting parameter is identified and
+understood prior to any demonstration, which the AMC makes a precondition rather
+than a result.
+
+[VERIFY: which feature is the critical impact parameter for this engine.
+AMC E 800(2)(a) assigns one to turbofan, turboprop and turbojet engines and not
+to a turboshaft, so it follows from the engine's own design rather than from the
+AMC.]
 
 **The load device provision is written for this engine type.**
 AMC E 800(2)(d) addresses turboshaft engines tested on an
