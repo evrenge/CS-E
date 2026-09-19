@@ -71,8 +71,10 @@ selected option should be agreed with EASA.
 
 ## Effect on the applicability matrix
 
-| | Variables blank | Variables filled |
-|---|---:|---:|
-| APPLIES | 120 | **129** |
-| CONDITIONAL | 12 | **0** |
-| EXCLUDED | 13 | **16** |
+Filling in the variables above resolves every CONDITIONAL verdict: a paragraph
+scoped by a rating or a system either applies to this engine or it does not, and
+none is left open.
+
+The counts are derived, so they are not written here — see `work/applicability.md`
+for the verdict and the reason behind each one, and `scripts/classification.py`
+for the data it is rendered from.

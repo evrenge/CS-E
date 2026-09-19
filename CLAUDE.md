@@ -217,6 +217,7 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 ```
 .
 ├── CLAUDE.md                # this file — rules
+├── README.md                # what the project is, for a reader arriving cold
 ├── engine_profile.md        # declared engine configuration — project input
 ├── requirements.txt
 ├── source/                  # EASA source PDFs, read-only. See source/SOURCES.md
@@ -230,7 +231,11 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
+    ├── redline/             # per-paragraph before/after wording
     ├── spans.json           # true page span per paragraph
+    ├── pages.json           # page-level extraction metadata
+    ├── redline.json         # inserted and deleted wording per paragraph
+    ├── scope_evidence.json  # scope keyword hits behind each verdict
     ├── paragraph_index.csv  # id, title, subpart, pages, figures, changed_in
     ├── applicability.md     # turboshaft verdict + reason per paragraph
     └── phase1_report.md
@@ -276,7 +281,7 @@ the PDF and independently of the slicer, then checks the line actually reached
 that paragraph's file. It is the check that catches silent extraction loss.
 `lint_vault.py` fails on a ghost wikilink, frontmatter that contradicts the index,
 a missing section, a section out of template order, a note for a paragraph that is
-not APPLIES, or a Rule text quote that is not verbatim in the source. Trust them
+not APPLIES, or a quoted passage that is not verbatim in the source. Trust them
 over any prose.
 
 `audit_cuts.py` checks the one thing `## Not applicable` exists to guarantee:
@@ -298,6 +303,26 @@ row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the complia
 items, the open `[VERIFY]` items, the pruned sub-points and the excluded
 paragraphs. The four right-hand columns are the applicant's to fill; regenerating
 overwrites them, so a working copy of the matrix belongs outside this repository.
+
+### The scripts that are not pipeline steps
+
+Four files in `scripts/` are not part of the sequence above, and nothing in the
+sequence fails if they are never run again.
+
+- `classification.py` — the applicability verdict for every in-scope paragraph, as
+  data: one `(id, status, reason)` entry each. `build_applicability.py` renders it
+  and `lint_vault.py` enforces it. Editing a verdict means editing this file.
+- `vault_map.py` — which note a paragraph belongs to. The authority for the one
+  AMC note per CS-E number rule.
+- `prune_candidates.py` — proposes sub-points that look like turboshaft dead ends.
+  It proposes; the writer decides, and the decision is recorded in the note's
+  `## Not applicable` section.
+- `fetch_sources.py` — downloads the five source PDFs. It cannot run in a sandbox
+  that blocks `www.easa.europa.eu`, and it does not need to: all five are
+  committed.
+- `slide_plan.py` — the topic grouping and reading order, kept because
+  `build_applicability.py` checks its coverage. The deliverable is the vault, not
+  a deck; the name is historical.
 
 ## Using the other four source documents
 
