@@ -144,7 +144,7 @@ costs a fixed engine overhaul period in the ICA.
 |---|---|---|
 | **(d)(6)(i)** | For a successful full cycle test, the applicant may take credit for the full number of cycles and the full number of hours demonstrated during the test when proposing an IMP. | Permitted |
 | **(d)(6)(ii)** | For a successful accelerated severity cycle test, the applicant may take credit for the full number of cycles for those engine parts for which the test cycle was shown to be equal to or more severe than the assumed engine flight cycle. | Permitted |
-| **(d)(6)(iii)** | Where the test cycle involves a high power setting operation for durations that significantly exceed those of the engine flight cycle, EASA may accept that the applicant takes credit for intervals longer than the IMP test length. | Permitted |
+| **(d)(6)(iii)** | Where the test cycle involves a high thrust setting operation for durations that significantly exceed those of the engine flight cycle, EASA may accept that the applicant takes credit for intervals longer than the IMP test length. | Permitted |
 | **(d)(6)(iii)** | This approach requires caution, because some engine parts will wear as a function of time at load rather than from low cycle fatigue, and life extrapolation based on material property data alone is imprecise. | Statement |
 | **(d)(6)(iii)** | Under these circumstances, the applicant may need to draw supporting evidence from other engine tests, component tests or sub-assembly tests. | Accepted method |
 
@@ -204,12 +204,13 @@ way.
 The AMC applies, and one of its sub-points is written for this engine type.
 
 **AMC E 930(d)(2)(v) makes the test rig an installation-dependent item.**
-The output shaft must be loaded to simulate the rotor drive system of the
-intended installation, with inertial and torsional vibration named. A
-water-brake or eddy-current dynamometer without a representative inertial and
-torsional response does not meet the sub-point on its own. The rig specification
-therefore depends on the target rotorcraft transmission, which
-`engine_profile.md` does not declare.
+The output shaft should be loaded to simulate the rotor drive system of the
+intended installation, with inertial and torsional vibration named as
+characteristics to consider. The AMC names no test equipment and judges none, so
+whether a given load device satisfies the sub-point is settled against the
+installation rather than against the AMC. The rig specification therefore depends
+on the target rotorcraft transmission, which `engine_profile.md` does not
+declare.
 
 **OEI usage has to be assumed before the test, not measured after it.**
 [AMC E 930(d)(1)(i)] requires the cumulative usage of the OEI ratings before

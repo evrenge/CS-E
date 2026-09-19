@@ -27,6 +27,12 @@ tags: [relight, in-flight-restart, rotor-lock, rapid-relight, flight-test]
 | **(3)(b)** | Base any rotor-lock assessment on conservative assumptions that include but are not limited to clearances, taking into account tolerances, the initial conditions, flight effects, thermal effects and the dwell time. All the engine rotors should be considered. | Accepted method |
 | **(3)(b)** | Where a demonstration through flight test is proposed, it should represent a set of conservative operating assumptions for the engine in terms of rotor-lock, or it should be supplemented by an analysis that satisfactorily addresses the conservative operating assumptions. | Accepted method |
 
+Point (1) says active coordination with the aircraft type-certificate applicant
+"is recommended". That is not one of the seven verbs CLAUDE.md maps, so the row
+is labelled Accepted method on the ground that an AMC recommending a practice is
+marking an accepted means: an applicant may proceed otherwise and justify it. The
+label is a reading, not a mapping.
+
 ### The two threats
 
 **Rapid relight** is a control system criterion, not a mechanical one. The
@@ -92,7 +98,7 @@ set is agreed with the Agency is an open item.]
 
 ## Not applicable
 
-- Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
+- **(3)(a)**, in part — the thrust term in "the previous power or thrust setting", the only place the word occurs in this AMC. This engine produces shaft power.
 
 ## References
 

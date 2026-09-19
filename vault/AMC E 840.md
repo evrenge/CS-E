@@ -43,7 +43,8 @@ already **includes transients**, not to the steady-state rating speed.
 | **(2)(e)** | While considering the most adverse combination of dimensional tolerances and material properties, also consider the tolerances and material properties of blades and over-speed limiters adversely influencing stress levels in the rotor, and the material property assumptions including material anomalies used for lifing calculations. | Accepted method |
 | **(2)(f)** | Failure conditions of a sudden transient nature are typified by loss of load Failures, characterised by high rates of acceleration and deceleration with no dwell period at the highest over-speed attained. | Statement |
 | **(2)(f)** | Examine all possible Failure conditions to determine whether any case exists which would result in a dwell period at speeds close to that of the transient short duration Failure condition, and if so determine which condition is the most critical with respect to rotor integrity. | Accepted method |
-| **(2)(g)** | Apply the appropriate percentage speed factor of CS-E 840(b) after making the necessary speed adjustments for temperatures, material properties and tolerance effects. Those adjustments will normally be established on the basis of appropriate ratios of material properties. | Accepted method |
+| **(2)(g)** | Apply the appropriate percentage speed factor of CS-E 840(b) after making the necessary speed adjustments for temperatures, material properties and tolerance effects. | Accepted method |
+| **(2)(g)** | The necessary speed adjustments for temperature and material properties will normally be established on the basis of appropriate ratios of material properties. | Statement |
 | **(2)(h)** | Assess the consequences of rotor growth sufficient to cause significant contact or displacement between engine components, to determine that CS-E 840(d)(1) can be met. | Accepted method |
 | **(2)(i)** | When determining compliance with CS-E 840(d)(2), consider whether the rotor would exhibit any condition likely to prevent safe operation of the engine for a period of time that could occur in service following any Failure considered under CS-E 840(b)(3) or (b)(4). That period might equal the time to recognise the event and shut the engine down, or the time for continued safe flight and landing, and might depend on the operational instructions for an over-speed event. | Accepted method |
 | **(2)(j)** | Where a number of rotors are of similar design, made of materials to the same specification and subjected to similar stress conditions, temperature levels and gradients, it is permissible for compliance with CS-E 840(a) to test only the most critical rotor with respect to burst. | Permitted |
@@ -85,7 +86,7 @@ conditions would require, with a validated burst prediction covering the gap.
 | **(4)(b)** | Material properties of the sample rotor may be determined from attached test rings or bars, when the correlation of their properties has been established by a validated method using coupons obtained from forgings or castings of the type to be approved. | Permitted |
 | **(4)(b)** | Where attached test rings or bars are not available, a value for the material properties may be established by assuming the sample rotor possesses material properties equal to known average properties of similar rotors from the same manufacturing process lot, if that assumption can be shown valid within acceptable confidence limits. | Permitted |
 | **(4)(c)** | Make an analysis of dimensional tolerances to identify the most adverse combination with respect to the integrity of the rotors. | Accepted method |
-| **(5)** | In order to determine the highest over-speed resulting from a loss of load to be considered under CS-E 840(c), consider, for possible Failure locations, such factors as system inertia, available gas energy, whether the rotor is held in plane, and over-speed protection devices. | Accepted method |
+| **(5)** | In order to determine the highest over-speed resulting from a loss of load to be considered under CS-E 840(c), it will be necessary to consider, for possible Failure locations, such factors as system inertia, available gas energy, whether the rotor is held in plane, and over-speed protection devices. | Statement |
 
 Point (4)(a) distinguishes the two temperature bases precisely. For a
 rating-based condition the temperature is the most adverse **at** that rating.
@@ -142,7 +143,7 @@ critical for burst may not be the most critical for growth.
 
 ## Not applicable
 
-- **(1)**, **(2)(k)**, in part — the fan, named alongside compressor and turbine in the rotor definition and in the burst speed and similarity provisions. A turboshaft has no fan.
+- **(1)**, **(2)(k)**, in part — the fan, named alongside compressor and turbine in the rotor definition and in the burst speed provision. A turboshaft has no fan.
 
 ## References
 

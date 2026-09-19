@@ -187,10 +187,6 @@ engine_profile.md.]
 as the means of over-speed control under AMC E 850(2)(a). If so, its Failure rate
 and its independence from the control channels are assessed under CS-E 50.]
 
-## Not applicable
-
-- **(1)(a)**, in part — the "compressor/fan" alternative in the shaft definition. This engine has no fan, so the power-using system is the compressor. AMC E 850(3) names "a release of the complete fan or compressor moving forward" as a hazardous effect to consider; that row is carried whole, because the compressor case in it applies.
-
 ## References
 
 Specification: [[CS-E 850]]

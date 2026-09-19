@@ -131,14 +131,17 @@ a free power-turbine engine the shaft system is the load path between two rotors
 so this is not a remote concern.
 
 **The test speed sits below any declared Maximum Engine Over-speed.** Both (2) and
-(3) run at "the maximum rotational speed to be approved (other than the Maximum
-Engine Over-speed)". If an over-speed is declared under [[CS-E 830]], it is above
+(3) run at the maximum rotational speed to be approved other than the Maximum
+Engine Over-speed, and the source spells the term differently in each: (3)(b)(i)
+writes "(other than the Maximum Engine Over-speed)" and (2)(b)(ii)(A) writes
+"(other than Maximum Engine Overspeed)". If an over-speed is declared under
+[[CS-E 830]], it is above
 the blade failure test speed, and [[CS-E 810|CS-E 810(b)(1)(i)]] requires any
 blade shedding relied on for over-speed protection to have a margin above it.
 
 ## Not applicable
 
-- **(2)(b)(i)(A)**, including its conditions **(1)**, **(2)** and **(3)** and the accompanying note — the composite fan blade release option at the inner annulus flow path line, with the twice-maximum-load centrifugal substantiation, the start-stop stress cycle limitation and its 100 000 cycle threshold for the Airworthiness Limitation Section, and the definition of the fan blade retention system. A turboshaft has no fan, and the corresponding specification at CS-E 810(c) is recorded as not applicable in [[CS-E 810]].
+- **(2)(b)(i)(A)**, including its conditions **(1)**, **(2)** and **(3)** and the accompanying note — the composite fan blade release option at the inner annulus flow path line, and everything conditioned on it. This engine has no fan.
 
 ## References
 
