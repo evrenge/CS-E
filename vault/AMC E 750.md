@@ -28,9 +28,9 @@ AMC E 750(b) is a definition and the only AMC material under CS-E 750.
 
 Two things follow from it. The period is a **minimum**, so declaring a longer one
 does not satisfy the definition more safely — it is the shortest period that
-achieves drainage. The clock starts at the shutdown action, at the point
-where the start attempt was abandoned, so the declared value must be measured
-from a defined event.
+achieves drainage. The clock starts at a defined event, and the source names
+two: "the time at which the starter is switched off and/or the Engine fuel cock
+is closed during a false start" [AMC E 750(b)].
 
 The period is declared by the applicant, and [[CS-E 750|CS-E 750(b)]] requires a
 normal start immediately on its expiry. That makes it a tested value rather than

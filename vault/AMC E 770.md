@@ -32,7 +32,8 @@ the engine, not of the environment.
 
 The second provision creates a third declared temperature. [[CS-E 770]] itself
 establishes a minimum for starting and a minimum for selecting Take-off Power;
-this one sits between them, for opening up from ground idle to warm up or taxi.
+this one is for opening up from ground idle to warm up or taxi. The source does
+not say how it relates to the other two.
 It is optional, and it carries "any associated conditions" with it, so the
 declaration is a package rather than a single number.
 
@@ -47,9 +48,9 @@ Both provisions apply. Neither is restricted by engine type or rating.
 
 The warm-up and taxi temperature is worth declaring for a rotorcraft operating
 from cold sites, because it separates three distinct operations that
-[[CS-E 770]] would otherwise leave at two limits: starting, warming up and
-taxying, and selecting Take-off Power. Without it, the oil must reach the
-Take-off Power selection minimum before the engine may be opened up at all.
+[[CS-E 770]] would otherwise leave at two limits: starting, and selecting
+Take-off Power. What governs opening up from ground idle in the absence of the
+declaration is not stated in either paragraph.
 
 The intake air relief keeps the test practical. Only the carcass and oil are cold
 soaked, which matches how the engine is found in service after a cold night

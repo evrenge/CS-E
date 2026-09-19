@@ -37,7 +37,15 @@ HEADING_MIN_SIZE = 14.0
 # lines start at y 48.8, so the two ranges overlap. An earlier 95.0 cutoff
 # silently dropped 294 body lines - among them the opening of CS-E 40(e), whose
 # first line sits at y 92.7 on page 30.
-CAPTION = re.compile(r"^\s*(Figure|Table)\s+[0-9IVX]+[.:]?", re.IGNORECASE)
+# A caption stands alone. "Figure 3)." is the tail of a wrapped mid-sentence
+# cross-reference, and "Table 1, Column (b)," is a body line; both matched the
+# earlier pattern and flagged pages that own no figure. Requiring what follows
+# the number to end the line, or to be a caption separator or a capitalised
+# word, drops those three and additionally catches Appendix A's FIGURE A1 and
+# TABLE A1 to A4, whose letter-prefixed numbers the earlier pattern missed.
+CAPTION = re.compile(
+    r"^\s*(Figure|Table)\s+[A-Z]?[0-9IVX]+(?:\.[0-9]+)*\s*(?:$|[-–—:]|\.\s|\s+[A-Z(])",
+    re.IGNORECASE)
 
 RUNNING = re.compile(
     r"^(?:CS-E\s*[—-]\s*Amendment\s*\d+"

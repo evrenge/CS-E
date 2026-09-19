@@ -87,6 +87,7 @@ The closing sentence forestalls a misreading that would otherwise be natural: th
 | **(a)(2)(3)(b)(v)** | Engine and aircraft accessory loads tend to move the fuel control operating line closer to the acceleration schedule and should therefore be minimised, where possible, while in rain and hail conditions. | Accepted method |
 | **(a)(2)(3)(b)(vi)** | Fuel controls that schedule fuel using a rate change of compressor speed should provide consistent acceleration and deceleration response during rain or hail ingestion. | Accepted method |
 | **(a)(2)(3)(b)(vii)** | The schedule of the compressor variable stator vanes directly affects compressor performance, operability and stability. Weather-related sensing or scheduling errors may cause a loss of surge or stall margin. | Statement |
+| **(a)(2)(3)(c)** | With knowledge of the power-loss and instability phenomena, the applicant can establish an operating envelope which minimises the power-loss and instability threats. | Statement |
 | **(a)(2)(3)(c)(i)** | Increasing engine power increases rotor speeds and air intake, which improves centrifuging, decreases the adverse scoop factor effect and improves combustor stability margin. | Statement |
 | **(a)(2)(3)(c)(ii)** | Avoidance of throttle transients improves stall and surge tolerance. | Statement |
 | **(a)(2)(3)(c)(ii)** | That avoidance should not be used by the applicant to show compliance with the rain and hail ingestion specifications. | Accepted method |
@@ -153,11 +154,13 @@ specification instead, and the analysis is not the compliance path.
 | **(a)(2)(5)(c)(i)(A)** | Air density: reproduce the critical point percentage of rain and hail concentration by weight during the test. The AMC's worked example is that 20 g/m³ of rain at 20 000 feet is approximately 3 per cent water by weight, and that at sea level this percentage requires nearly 40 g/m³ to compensate for the higher air density. | Accepted method |
 | **(a)(2)(5)(c)(i)(B)** | Atmospheric parameters: the appropriate ISA data may be assumed for air temperature and other atmospheric parameters when adjusting concentrations of rain and hail. | Permitted |
 | **(a)(2)(5)(c)(i)(C)** | Scoop factor: apply the appropriate rain and hail concentration amplification due to the scoop factor effect, to further increase the quantities for the ground-level tests. This requires knowledge of the inlet diffusing flow field throughout the power range and flight envelope. | Accepted method |
-| **(a)(2)(5)(c)(i)(D)** | Engine rotational speeds: the low rotor speed for the ground-level test should be no greater than the altitude critical point condition. The rain and hail concentrations may be adjusted to compensate for any necessary deviation from critical point rotational speeds. | Accepted method |
+| **(a)(2)(5)(c)(i)(D)** | Engine rotational speeds: the low rotor speed for the ground-level test should be no greater than the altitude critical point condition. | Accepted method |
+| **(a)(2)(5)(c)(i)(D)** | The rain and hail concentrations may be adjusted to compensate for any necessary deviation from critical point rotational speeds. | Permitted |
 | **(a)(2)(5)(c)(i)(E)** | Variable systems: set all variable systems whose position can affect engine operation in rain and hail, such as engine bleeds, in the position associated with the critical point. | Accepted method |
 | **(a)(2)(5)(c)(i)(F)** | Engine power extraction: show by analysis or test that sufficient margin exists for the extraction of the representative electrical or shaft power loads and service air bleeds. | Accepted method |
 | **(a)(2)(5)(c)(i)(G)** | Thermodynamic cycle differences: compensate for cycle differences between the test point and the critical point that affect operability, or show that those differences provide additional conservatism. | Accepted method |
-| **(a)(2)(5)(c)(i)(H)** | Enthalpy of water: rain and hail concentrations may be adjusted to ensure that the heat extraction resulting from their ingestion is the same as at the critical point. Where liquid water droplets are accepted for critical hail point testing, the water concentration should at least be increased to compensate for the heat of fusion of ice. | Permitted |
+| **(a)(2)(5)(c)(i)(H)** | Enthalpy of water: rain and hail concentrations may be adjusted to ensure that the heat extraction resulting from their ingestion is the same as at the critical point. | Permitted |
+| **(a)(2)(5)(c)(i)(H)** | Where the ingestion of liquid water droplets is accepted for critical hail point testing, the water concentration should at least be increased to compensate for the heat of fusion of ice. | Accepted method |
 | **(a)(2)(5)(c)(i)(I)** | Rain droplet break-up: in the ground-level test environment, the forces applied to accelerate the simulated rain droplets to flight speed, and the shear forces between the droplets and the engine airflow, are apt to break up the droplets. That break-up can reduce conservatism through additional centrifuging. | Statement |
 | **(a)(2)(5)(c)(i)(I)** | The concentration of the rain may need to be increased to compensate for the added centrifuging resulting from ground-level testing. | Statement |
 
@@ -175,6 +178,7 @@ specification instead, and the analysis is not the compliance path.
 | **(a)(2)(5)(c)(iv)(B)** | Take steady-state data readings before introducing rain or hail. | Accepted method |
 | **(a)(2)(5)(c)(iv)(C)** | Start the continuous transient data recording prior to the initiation of rain or hail flow. | Accepted method |
 | **(a)(2)(5)(c)(iv)(D)** | Establish the altitude equivalent rain or hail flow at the proper inlet velocity and size distribution. The maximum rain and hail ingestion rates should occur within 10 seconds. | Accepted method |
+| **(a)(2)(5)(c)(iv)(E)** | Conduct operability critical point tests at the following steady-state conditions. | Accepted method |
 | **(a)(2)(5)(c)(iv)(E)(a)** | Deliver rain for a minimum of 3 minutes, at the altitude equivalent concentration defined in Figure A1 and Table A1 in Appendix A of CS-E. | Accepted method |
 | **(a)(2)(5)(c)(iv)(E)(b)** | Deliver hail for a minimum of 30 seconds, at the altitude equivalent concentration defined in Figure A1 and Table A2 in Appendix A of CS-E. | Accepted method |
 | **(a)(2)(5)(c)(iv)(E)(c)** | Deliver a short burst of high-concentration hail of 13 g/m³ hail water content under conditions representative of a 15 000-ft altitude, for a minimum of 5 seconds. | Accepted method |
@@ -275,6 +279,9 @@ transients in for exactly that reason.
 
 ## Not applicable
 
+- **(a)(2)(2)(c)(ii)** chapeau — the description of centrifuging by a fan and, to a lesser extent, by a propeller, and of what that beneficial effect depends on. This engine has neither.
+- **(a)(2)(2)(c)(i)**, in part — the additional internal scoop factor effect described for by-pass turbofan engines.
+- **(a)(2)(5)(c)(i)(D)**, in part — the sentence explaining why the low rotor speed limit matters particularly for turbofan engines, through the centrifuging the rotational speed produces.
 - **(a)(2)(2)(c)(ii)(A)** — the relative velocity centrifuging discussion for turbofan and turbojet aeroplane engines, and its rain and hail velocity vector treatment through the fan.
 - **(a)(2)(2)(c)(ii)(B)** — the equivalent treatment for turboprop aeroplane engines. A turboshaft driving a rotorcraft transmission has no propeller, and propeller material is excluded from this vault by scope.
 - **(a)(2)(5)(c)(v)**, in part — typical autothrottle power excursions, the third of the three probable factors. An autothrottle is aeroplane equipment.

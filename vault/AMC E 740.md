@@ -67,6 +67,8 @@ test.
 
 | Ref | Obligation | Strength |
 |---|---|---|
+| **(f)(1)** | Where an endurance test is conducted in accordance with CS-E 740(f)(1), supplementary evidence is required to substantiate any rotational speed limitations higher than those covered in that test. | Statement |
+| **(f)(1)** | This AMC indicates an acceptable basis for conducting such supplementary tests. | Statement |
 | **(f)(1)(1)** | The engine on which the supplementary tests are conducted may be the same engine that completed the Endurance Test, or an engine of a standard similar in all those aspects which could be affected by the increased rotational speed. | Permitted |
 | **(f)(1)(2)** | Where increased rotational speed limitations are desired for both Take-off and Maximum Continuous Power conditions, provide supplementary testing at the increased rotational speed of equal duration to, and in all other relevant respects as severe as, the conditions prescribed in the type endurance test schedule for running at those conditions. | Accepted method |
 | **(f)(1)(3)(a)** | Where the test is conducted on parts which have already completed the Endurance Test or its equivalent, and increased limitations are desired for either Take-off or Maximum Continuous Power only, run at the increased rotational speed for a duration equal to, and in all other relevant respects as severe as, the Endurance Test schedule conditions for that rating. | Accepted method |

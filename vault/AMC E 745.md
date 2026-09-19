@@ -66,10 +66,12 @@ needs no bleed with maximum power extraction; the over-temperature case needs
 maximum bleed with maximum power extraction. Both must be covered, and the bleed
 configuration interacts with [[CS-E 690]].
 
-**Point (4) is unlikely to be reached here.** The justification route exists for
-very large engines whose rotor inertia prevents the 5-second response. A
-turboshaft in a rotorcraft is at the other end of that scale, and rapid power
-response is what the installation demands.
+**Point (4) is the justification route for a longer acceleration time.** The AMC
+gives one example of when it would be considered: "the very large engines which
+could have a difficulty in meeting exactly the 5 seconds because of the inertia
+of their rotors or other reasons" [AMC E 745(4)]. It does not say where any other
+engine sits against that example, and the route is not restricted to the case it
+illustrates — the source adds "or other reasons".
 
 The dependency in point (2) on [[CS-E 740]] sets a sequence: the endurance test
 fixes the steady state and transient temperature values, and only then can an

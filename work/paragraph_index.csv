@@ -134,11 +134,11 @@ AMC E 750(b),Starting tests,E,176,176,no,,none,
 CS-E 770,Low Temperature Starting Tests,E,176,176,no,,none,
 AMC E 770,Low Temperature Starting Tests,E,176,176,no,,none,
 CS-E 780,Icing Conditions,E,176,178,no,,Amdt7,[Amdt7] CS-E 780 is amended as follows:
-AMC E 780,Icing Conditions,E,178,194,yes,184 185 187 188 189 190,Amdt7,[Amdt7] AMC E 780 is amended as follows:
+AMC E 780,Icing Conditions,E,178,194,yes,185 187 188 189 190,Amdt7,[Amdt7] AMC E 780 is amended as follows:
 CS-E 790,Ingestion of Rain and Hail,E,194,196,no,,none,
 AMC E 790,Rain and Hail Ingestion,E,196,196,no,,none,
 AMC E 790(a)(1),Rain and Hail Ingestion Certification for Design Changes and Derivative Engines – Turbine Engine Power/Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,196,no,,none,
-AMC E 790(a)(2),Rain and Hail Ingestion – Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,209,yes,199 200 201 202,none,
+AMC E 790(a)(2),Rain and Hail Ingestion – Turbine Engine Power/ Thrust Loss and Instability in Extreme Conditions of Rain and Hail,E,196,209,yes,199 200 201,none,
 Appendix A,Certification Standard Atmospheric Concentrations of Rain and Hail,E,210,212,yes,210 211 212,none,
 CS-E 800,Bird Strike and Ingestion,E,212,219,yes,213 214 216,none,
 AMC E 800,Bird Strike and Ingestion,E,219,226,yes,220,none,
