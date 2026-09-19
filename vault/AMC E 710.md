@@ -56,7 +56,7 @@ a restart, and re-lock if the restart fails.
 - Deterioration assessment against serviceable limits over normal operation, with any maintenance interval it relies on published under [[CS-E 510|CS-E 510(e)(1)]] and [[CS-E 25]] [AMC E 710(3)].
 - Design evidence that the flight crew can unlock for a restart attempt and re-lock afterwards [AMC E 710(4)].
 - Consideration of induction air and external surface temperatures where relevant to the design [AMC E 710(5)].
-- The device qualified as any other engine component, including the environmental conditions of [[AMC E 80]] [AMC E 710(1)].
+- The device qualified against the same test criteria as other components on the engine, it being part of the engine type design [AMC E 710(1)].
 
 ## Application to this engine
 

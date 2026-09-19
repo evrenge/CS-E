@@ -50,7 +50,7 @@ rather than universal.
 | **(1)(c)** | Establish the point at which impending filter blockage will be indicated to the flight crew. | Accepted method |
 | **(1)(c)** | Show the fuel system capable of continuing to operate without causing engine malfunction for a further period equal to at least half the maximum flight duration of the aircraft in which it is likely to be installed. | Accepted method |
 | **(1)(c)** | Once that has been established, it is permissible to clean or replace filters as frequently as necessary for the remainder of the test. | Permitted |
-| **(1)(c)** | If blockage has not occurred by the time the total quantity of contaminant has reached the level specified in (1)(d), the objective of (1)(c) may be considered to have been met. | Accepted method |
+| **(1)(c)** | If blockage has not occurred by the time the total quantity of contaminant has reached the level specified in (1)(d), the objective of (1)(c) may be considered to have been met. | Permitted |
 | **(1)(d)** | Continue the test at typical running conditions with respect to rotational speeds, pressures and fuel flow, for a sufficient time to ensure that the total weight of contaminant passing into the system would be equivalent to 500 hours of normal operation with fuel contaminated to a level of 0.5 g per 4 500 litres. | Accepted method |
 | **(1)(d)** | At the conclusion of the test, the fuel system should be functioning satisfactorily. | Accepted method |
 
@@ -98,10 +98,11 @@ AMC.
 [VERIFY: whether the intended rotorcraft has carbon fibre composite material fuel
 tanks. The carbon fibre rod entry in the contaminant table is added only then —
 the source introduces it with "Additionally, for engines to be fitted to Aircraft
-with Carbon Fibre Composite Material Fuel Tanks". At 0.54 g/1000 litre it is
-mid-range by quantity, but its particles reach 2000 microns in length, against
-1500 microns for the coarsest quartz grade, so it is the longest contaminant the
-filtration must pass or arrest.]
+with Carbon Fibre Composite Material Fuel Tanks". Its quantity, 0.54 g/1000
+litre, is the third largest of the ten mass entries, and its particles run to
+2000 microns in length against 1500 microns for the coarsest quartz grade. The
+table gives no length for the cotton linters, only a staple grading, so it does
+not settle which contaminant is the longest overall.]
 
 **The by-pass interaction.** The test at (1)(c) runs past the blockage indication,
 which is the region where [[CS-E 560|CS-E 560(c)]] governs: a by-pass must keep

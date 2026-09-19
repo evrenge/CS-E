@@ -51,8 +51,10 @@ expressly includes start-up, shutdown and windmilling rotation in flight.
 | **(4)(b)** | Make it the goal of the test programme to cover at least the ranges of conditions required under CS-E 650(b) and (c). | Accepted method |
 | **(4)(b)** | Where it proves physically impracticable to achieve the extended test conditions of CS-E 650(b)(1), the Agency may accept an alternative that complies with the intent. | Permitted |
 | **(4)(b)** | Where it can be demonstrated that the characteristics of the Engine Control System are such that the maximum rated speed cannot be exceeded in fault-free operation, the required maximum tested speed may, with the agreement of the Agency, be adjusted downward, but may not be less than 100 %. | Permitted |
+| **(4)(b)** | Where an extension to the range required by CS-E 650(b) is considered necessary to identify the effects of a rising vibratory stress peak, as required under CS-E 650(c), but it proves physically impracticable to achieve the appropriate extended test conditions, the Agency may accept an alternative that complies with the intent of the requirement. | Permitted |
 | **(4)(b)** | Where tested components are deliberately selected to cover an adverse range of manufacturing variability, or any other effect normally captured by the further 2 % of CS-E 650(c), the required maximum tested speed may, with Agency agreement, be adjusted downward, but not below the maximum speed established for CS-E 650(b). | Permitted |
 | **(4)(b)** | Justify any reduction in the speed range requirements and have it agreed by the Agency; normally any test shortfall would be expected to be covered by validated analysis. | Accepted method |
+| **(4)(b)** | Refer also to paragraph (5) 'Altitude and Temperature Effects' and (8) 'Flutter' for complementary guidance on affecting speeds. | Statement |
 | **(4)(c)** | Use suitable instrumentation, data acquisition and analyser systems, which may include dynamic strain gauges, accelerometers, dynamic pressure gauges and time-of-arrival sensors. | Accepted method |
 | **(4)(c)** | Maintain strain gauge accuracy throughout the test conditions, particularly under repeated exposure to high temperatures for extended periods, and take measurements at locations sensitive to the peak responses of interest but tolerant of a degree of mislocation or alignment variability. | Accepted method |
 | **(4)(c)** | Where such locations are not suitable or accessible, stresses may be measured nearby, provided the relationships between those stresses and the stresses at critical locations are known and predictable. | Permitted |
@@ -122,6 +124,7 @@ mechanical speed then covers the worst forcing case.
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(9)(a)** | Take into account the influence on the endurance limit of manufacturing processes, local geometrical features and temperatures. The material property important to CS-E 650(f) is the endurance limit associated with specific combinations of mean stress and alternating stress, usually represented on a Goodman diagram. | Accepted method |
+| **(9)(b)** | CS-E 650(f) requires suitable stress margins for each part evaluated, usually represented by the stress margins at the critical or limiting locations. | Statement |
 | **(9)(b)** | The stress margin is the difference between the material allowable at a particular location and the measured vibratory stress at that location. Account in the suitability criteria for variability in design, in operation including the effects due to icing, rain and hail conditions consistent with the corresponding certification test evidence, and for other mitigating factors identified during the certification test. | Accepted method |
 | **(9)(c)** | The total vibratory stress at a given location is the sum of the resonant stresses of all active and concurrent normal modes, plus any other vibratory stresses at that rotational speed. Consider the stress amplitudes that occur within permitted blade-to-blade variations of natural frequency. | Accepted method |
 | **(9)(c)** | Where more than one mode may be excited at the same time or speed, calculate the combined stress by breaking down the vibratory stress of each mode into its stress components and combining the modal contributions in proportion to the individual measured responses. | Accepted method |
@@ -129,7 +132,7 @@ mechanical speed then covers the worst forcing case.
 | **(10)** | Where a significant response is found, subject the relevant components to sufficient cycles of vibration close to or on the response peak to demonstrate compliance with CS-E 650(f). | Accepted method |
 | **(10)** | This dwell testing would normally be incorporated into the incremental periods of the CS-E 740 Endurance Test as required by CS-E 740(g)(1), and components subjected to it should subsequently also meet the strip inspection requirements of CS-E 740(i). | Accepted method |
 | **(11)** | Give consideration also to the speed range from zero to minimum rotational speed, especially in the case of supercritical shafts. Some predicted potentially damaging transient responses may require an aggressive control input to provoke a representative response. | Accepted method |
-| **(12)** | Where the dimensions of the components to be tested are incompatible with the necessary instrumentation, instrumented engine tests and the variation of the Endurance Test incremental running prescribed in CS-E 740(g)(1) may be waived wholly or in part, if the Agency is satisfied that the total hours of operation accumulated on test beds or in flight under representative conditions prior to certification are sufficient to demonstrate that the vibration stress levels are acceptable. | Relief |
+| **(12)** | Where the dimensions of the components to be tested are incompatible with the necessary instrumentation, instrumented engine tests and the variation of the Endurance Test incremental running prescribed in CS-E 740(g)(1) may be waived wholly or in part, if the Agency is satisfied that the total hours of operation accumulated on test beds or in flight under representative conditions prior to certification are sufficient to demonstrate that the vibration stress levels are acceptable. | Permitted |
 
 The blade-to-blade variation in (9)(c) is given a worked figure: "if for a
 particular blade design the natural frequency (fn) range is fn ± 2.5 %, then the
@@ -263,9 +266,10 @@ and rain and hail passage:
 This adds work. Rotor imbalance and mechanical forcing were not named before, and
 the icing and rain and hail conditions were not required to be included.
 Amendment 7 also added the corresponding clause to (9)(b), so the stress margin
-criteria must now account for icing, rain and hail effects, and added "stiffness
-and damping of the mount system" to the installation features of (13), where the
-previous text named only the mount. In (15) the Part 21 citation was corrected to
+criteria must now account for icing, rain and hail effects. In (13) the
+installation feature "mount stiffness" became "stiffness and damping of the mount
+system": the previous text already named the stiffness, and what the amendment
+added is the damping. In (15) the Part 21 citation was corrected to
 "point 21.A.33 of Part 21".
 
 **Amendment 8** made a single cross-reference correction in paragraph (10), Dwell
