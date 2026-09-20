@@ -241,6 +241,13 @@ def main() -> int:
         if [s for s in order if s in TAIL_ORDER] != tail:
             say(f"sections out of template order: expected {' then '.join(tail)}")
 
+        # A changed paragraph must say what changed. The reverse is not
+        # required: where changed_in is empty the section is optional, and
+        # carried only when it adds something the frontmatter cannot.
+        if meta["changed_in"] and "## Amendment history" not in text:
+            say(f"changed_in is {meta['changed_in']} but there is no "
+                "'## Amendment history' section")
+
         # --- exactly one summary callout
         n = len(SUMMARY.findall(text))
         if n != 1:

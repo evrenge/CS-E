@@ -50,7 +50,10 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 VAULT = ROOT / "vault"
 PARA = ROOT / "work" / "paragraphs"
 
-CITE = re.compile(r"\[((?:CS-E|AMC E) \d+[A-Za-z]?)((?:\([^)\]]{1,8}\))*)\]")
+# "AMC to CS-E 50(l)" is a paragraph id in its own right, not a typo for
+# "AMC E 50(l)": vault_map resolves it to the AMC E 50 note. Three citations
+# use that form and went unchecked while the pattern only knew the other two.
+CITE = re.compile(r"\[((?:AMC to CS-E|CS-E|AMC E) \d+[A-Za-z]?)((?:\([^)\]]{1,8}\))*)\]")
 
 # A value plus the unit it is measured in. Rule 3 is about these, not about
 # every integer on the page.
