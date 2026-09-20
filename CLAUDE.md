@@ -216,6 +216,13 @@ Two forms, and they mean different things:
 **Never write `[[X]](y)`.** GitHub parses it as `[link text](url)` and renders a
 hyperlink to a path that does not exist. Obsidian tolerates it; GitHub does not.
 
+**Never put an aliased wikilink inside a table row.** `[[CS-E 110|CS-E 110(e)]]`
+in a table cell puts a `|` inside the row, and GitHub reads it as a column
+separator: the row grows a cell and the table breaks from that line down.
+Obsidian renders it, so the damage is invisible in the editor. Use the citation
+form in a cell — `[CS-E 110(e)]` — which is what the `Requirement` table wants
+anyway, since it cites rather than navigates.
+
 Obsidian wikilinks do not resolve on GitHub at all — GitHub supports `[[...]]`
 only in wikis, not in repository files. The vault is built for Obsidian; GitHub
 is a review surface, and links there show as literal text. That is expected.

@@ -43,7 +43,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 | **(c)(2)** | In the Full-up Configuration, be essentially single-Fault tolerant for electrical and electronic Failures with respect to LOPC events. | Required |
 | **(c)(3)** | Single Failures of control system components do not result in a Hazardous Engine Effect. | Required |
 | **(c)(4)** | Foreseeable Failures or malfunctions causing local events in the intended installation — fire, overheat, or damage to control system components — do not result in a Hazardous Engine Effect. | Required |
-| **(d)** | Complete a system safety assessment for the Engine Control System when complying with CS-E 510. It must identify Faults or Failures causing a power change, a transmission of erroneous data, or an effect on operability, together with their predicted frequency of occurrence. See also [[CS-E 110|CS-E 110(e)]]. | Required |
+| **(d)** | Complete a system safety assessment for the Engine Control System when complying with CS-E 510. It must identify Faults or Failures causing a power change, a transmission of erroneous data, or an effect on operability, together with their predicted frequency of occurrence. See also [CS-E 110(e)]. | Required |
 
 ### Protection systems, software and signal lines
 
