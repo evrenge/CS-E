@@ -29,9 +29,11 @@ tags: [ratings, oei, limitations, tcds]
 | **(f)** | Define each rating for the lowest power all engines of the type produce, and define the minimum testing that ensures it. | Required |
 | **(g)** | Account for the accuracy limits of the Engine Control System and instrumentation, as defined in CS-E 60(b). | Required |
 
-A rating under (b) is elective. Once the applicant claims it, substantiation is mandatory.
+A rating under (b) is elective. Once the applicant claims it, substantiation is
+mandatory.
 
-Sub-point (f) governs the declared value. The rating reflects the weakest engine of the type, not the test engine.
+Sub-point (f) governs the declared value. The rating reflects the weakest engine
+of the type, not the test engine.
 
 ## Compliance
 
@@ -49,11 +51,16 @@ Sub-point (f) governs the declared value. The rating reflects the weakest engine
 Declared under (b)(3): 30-Second OEI, 2-Minute OEI, Continuous OEI Power.
 Declared under (b)(4): Rated 30-Minute Power.
 
-Two rotorcraft ratings remain available but are not claimed: 2½-Minute OEI [CS-E 40(b)(3)(iii)] and 30-Minute OEI [CS-E 40(b)(3)(iv)]. Their absence removes the 2½-minute insertions from the endurance schedule — see [[CS-E 740]].
+Two rotorcraft ratings remain available but are not claimed: 2½-Minute OEI
+[CS-E 40(b)(3)(iii)] and 30-Minute OEI [CS-E 40(b)(3)(iv)]. Their absence
+removes the 2½-minute insertions from the endurance schedule — see [[CS-E 740]].
 
-The declared combination of 30-Second, 2-Minute and Continuous OEI selects the endurance schedule of CS-E 740(c)(3)(i), complemented by the additional test of CS-E 740(c)(3)(iii).
+The declared combination of 30-Second, 2-Minute and Continuous OEI selects the
+endurance schedule of CS-E 740(c)(3)(i), complemented by the additional test of
+CS-E 740(c)(3)(iii).
 
-"OEI override" is a control-system feature, not a rating under this paragraph. It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
+"OEI override" is a control-system feature, not a rating under this paragraph.
+It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
 ## Not applicable
 

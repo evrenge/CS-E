@@ -143,11 +143,11 @@ discs, hubs and spacers is called out separately. Service examples include
 overlooking existing cracks or damage during inspection, and failure to apply or
 incorrect application of protective coatings.
 
-The multi-engine concern in (3)(h) is that similar incorrect actions performed on
-several engines during the same maintenance availability by one crew defeat
-redundancy. The AMC calls this primarily an aircraft-level concern and says precautions
-should be taken in the engine design to minimise the likelihood of such
-maintenance errors.
+The multi-engine concern in (3)(h) is that similar incorrect actions performed
+on several engines during the same maintenance availability by one crew defeat
+redundancy. The AMC calls this primarily an aircraft-level concern and says
+precautions should be taken in the engine design to minimise the likelihood of
+such maintenance errors.
 
 ### AMC E 510(4) to (6) — techniques, documents, definitions
 

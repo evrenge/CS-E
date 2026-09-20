@@ -45,8 +45,8 @@ Guidance on all of the above: [[AMC E 20]].
 ## Application to this engine
 
 Sub-point (f) binds. The applicant declares 30-Second OEI, 2-Minute OEI and
-Continuous OEI, so the power assurance data set is mandatory. [[AMC E 20|AMC E 20(f)]] was
-amended at Amendment 8 and governs its content.
+Continuous OEI, so the power assurance data set is mandatory.
+[[AMC E 20|AMC E 20(f)]] was amended at Amendment 8 and governs its content.
 
 Sub-point (d) requires the Control Mode description. For a full-authority EECS
 that means the Primary Mode, every Alternate Mode and any Back-up System, each

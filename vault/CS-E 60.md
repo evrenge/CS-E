@@ -14,8 +14,8 @@ tags: [instruments, oei, monitoring, installation]
 > mandatory and how accurate they must be. Instrumentation and control paths
 > must be segregated so a Fault cannot propagate between them. A rotorcraft
 > engine with 30-Second and 2-Minute OEI ratings carries extra duties: alert the
-> pilot during use, record every use by a means which cannot be reset in flight, and
-> allow maintenance personnel to retrieve the record.
+> pilot during use, record every use by a means which cannot be reset in flight,
+> and allow maintenance personnel to retrieve the record.
 
 ## Requirement
 

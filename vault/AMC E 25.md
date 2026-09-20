@@ -111,8 +111,8 @@ CS-E 740(c)(3)(iii) — the test that the declared rating combination selects. S
 [[CS-E 740]].
 
 The "three applications of 30 seconds OEI rated power" in the programme elements
-matches the worst-case assumption in [[AMC E 40|AMC E 40(b)(3)(4)]]: three uses in one
-flight at take-off, baulked landing and final landing.
+matches the worst-case assumption in [[AMC E 40|AMC E 40(b)(3)(4)]]: three uses
+in one flight at take-off, baulked landing and final landing.
 
 Point (4)(a) offers a choice where 2-Minute OEI is extended to 2½ minutes: apply
 the 30-Second OEI maintenance actions, or seek approval for a different set. The

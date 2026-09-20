@@ -128,9 +128,9 @@ requires installation configuration assumptions to be documented in the manuals
 of [[CS-E 20|CS-E 20(d)]]. Because the rotorcraft installation target is not
 fixed, those assumptions should be treated as open.
 
-**Aerodynamic effects listed in (c)(2)(1) include "thrust loss and engine surge".**
-For a turboshaft the thrust term reads as shaft power loss; surge applies
-directly and links to [[CS-E 500|CS-E 500(a)]].
+**Aerodynamic effects listed in (c)(2)(1) include "thrust loss and engine
+surge".** For a turboshaft the thrust term reads as shaft power loss; surge
+applies directly and links to [[CS-E 500|CS-E 500(a)]].
 
 **Rotor imbalance verification.** (c)(2)(4) refers to adding imbalances to "the
 fan and other rotors". A turboshaft has no fan, so the compressor, turbine and

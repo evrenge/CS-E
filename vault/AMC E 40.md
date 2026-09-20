@@ -46,9 +46,9 @@ endurance evidence.
 The 30-Second OEI rating provides a short burst of power, should an engine
 Failure occur at the critical decision point. It lets the rotorcraft complete
 the take-off, lift clear of obstructions and climb out. Alternatively, it lets
-the rotorcraft reject the take-off. It also provides power for a safe landing or a baulked
-landing if an engine fails at any point down to and including the landing
-decision point.
+the rotorcraft reject the take-off. It also provides power for a safe landing or
+a baulked landing if an engine fails at any point down to and including the
+landing decision point.
 
 The 2-Minute OEI rating provides a further period of increased power to complete
 the climb out from take-off or baulked landing to safe altitude and airspeed.
@@ -152,8 +152,8 @@ assumption sizes the endurance testing and the post-flight maintenance regime.
 Point (5) is an option the applicant may take: extending 2-Minute OEI to 2.5
 minutes where the power stayed below the 30-Second band. Taking it means the
 extra 30 seconds counts as a derated 30-Second OEI rating, with the maintenance
-consequences that follow. [[AMC E 25|AMC E 25(4)(a)]] sets out the alternative of seeking
-approval for a different set of inspections for that case.
+consequences that follow. [[AMC E 25|AMC E 25(4)(a)]] sets out the alternative
+of seeking approval for a different set of inspections for that case.
 
 Continuous OEI is also declared but is not covered by this paragraph; it is a
 CS-E 40(b)(3)(v) rating without a dedicated AMC.

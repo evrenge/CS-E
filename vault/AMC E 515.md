@@ -223,8 +223,8 @@ licensees, may materially affect these limits." [AMC E 515(6)(a)]
 
 ## Application to this engine
 
-The AMC applies, less the passages recorded below, and two of its provisions are written for rotorcraft
-engines specifically.
+The AMC applies, less the passages recorded below, and two of its provisions are
+written for rotorcraft engines specifically.
 
 **The 30-minute Power rating in the flight cycle.** "For Rotorcraft turbine
 Engines, the representative usage of the 30-minute Power rating should be

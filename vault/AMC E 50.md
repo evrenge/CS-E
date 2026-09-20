@@ -57,7 +57,6 @@ compressor of turbine engines could be blocked by frozen water, leading to a los
 of power. Suggested precautions: protected openings, filters, drains for water,
 and heating of the lines to prevent freezing of condensed water.
 
-
 ### AMC E 50(e) — over-speed protection testing
 
 | Ref | Obligation | Strength |
@@ -69,7 +68,6 @@ and heating of the lines to prevent freezing of condensed water.
 The split matters. The electrical and electronic part is covered by a complete
 BITE test. The mechanical and actuating part is not, and its inspection interval
 is decided by safety analysis rather than by this AMC.
-
 
 ### AMC E 50(j) — automatic control of 30-Second OEI power
 
@@ -99,9 +97,8 @@ speed and gas path temperatures.
 Point (1) requires the means to prevent the engine exceeding rating limits.
 Point (2) requires the same means not to prevent the engine reaching and
 sustaining rated 30-Second OEI Power. The control must sit between those bounds,
-which is why [[AMC E 20|AMC E 20(f)(5)]] asks for evidence that limiter settings do not
-block the rating.
-
+which is why [[AMC E 20|AMC E 20(f)(5)]] asks for evidence that limiter settings
+do not block the rating.
 
 ### AMC to CS-E 50(l) — information system security protection
 
@@ -113,7 +110,6 @@ block the rating.
 The second obligation is the substantive one. A security assessment scoped to one
 engine is not sufficient: the assessment must consider an interaction that
 reaches every control system on the aircraft at once.
-
 
 ## Compliance
 
@@ -197,13 +193,15 @@ The engine uses a full-authority EECS. This is the architecture the AMC assumes:
 automatic application, automatic limiting, and no pilot monitoring of shaft
 torque, shaft speed, gas generator speed or gas path temperature during the event.
 
-The link to [[AMC E 20|AMC E 20(f)(5)]] is a compliance dependency, not a cross-reference.
-The same limiter settings — engine speed, measured gas temperature and fuel flow —
-must be shown to protect the engine. They must also be shown not to block the
-rating, with particular attention to take-off with a cold-soaked engine.
+The link to [[AMC E 20|AMC E 20(f)(5)]] is a compliance dependency, not a
+cross-reference. The same limiter settings — engine speed, measured gas
+temperature and fuel flow — must be shown to protect the engine. They must also
+be shown not to block the rating, with particular attention to take-off with a
+cold-soaked engine.
 
-[[AMC E 40|AMC E 40(b)(3)(4)]] records that certification assumes up to three uses of the
-rating in one flight, and that mandatory maintenance follows any use.
+[[AMC E 40|AMC E 40(b)(3)(4)]] records that certification assumes up to three
+uses of the rating in one flight, and that mandatory maintenance follows any
+use.
 
 ### Security
 

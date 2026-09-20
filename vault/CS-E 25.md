@@ -67,8 +67,8 @@ OEI, so the mandatory post-flight inspection regime, its validation, and the
 in-service evaluation programme are all required.
 
 That regime is the operational cost of the two ratings. Every use of either
-rating triggers mandatory post-flight action, and [[AMC E 40|AMC E 40(b)(3)]] records that
-certification assumes the worst case of three uses in one flight.
+rating triggers mandatory post-flight action, and [[AMC E 40|AMC E 40(b)(3)]]
+records that certification assumes the worst case of three uses in one flight.
 
 Item (c)(13) binds because the engine carries a full-authority EECS: the security
 instructions required by [[CS-E 50|CS-E 50(l)]] must be considered for the manual.
