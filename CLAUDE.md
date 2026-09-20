@@ -289,6 +289,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/audit_coverage.py       # every body line reaches its paragraph
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/audit_cuts.py           # recorded cuts vs what the source says
+.venv/bin/python scripts/audit_citations.py     # citations resolve; numbers are the source's
 .venv/bin/python scripts/external_refs.py        # every reference to a document we do not hold
 .venv/bin/python scripts/verify_sources.py       # source integrity
 .venv/bin/python scripts/build_matrix.py        # vault -> deck/compliance_matrix.xlsx
@@ -314,6 +315,14 @@ removal of something the source never said asserts content into the regulation,
 and is worse than a missing entry. It also checks cited sub-point labels against
 the labels the target paragraph carries, though only weakly — nesting is not
 recoverable from the flat text and the check refuses to guess it.
+
+`audit_citations.py` covers the two things nothing else sees. A `[CS-E 740(c)(3)]`
+citation is notation, not a link, so Obsidian never reports a broken one and a
+reader only finds out by following it. And a number carrying a unit is the defect
+a certification engineer is least able to catch by reading, so every one is
+matched back to the source, after normalising the spellings that differ between
+the PDF text layer and a note — the vulgar fractions, the thin space in
+"1 500 ft", the spacing around a degree sign.
 
 `external_refs.py` lists every reference the in-scope paragraphs and the notes
 make to a document outside `source/` — Part 21, the AMC 20 series, CS-Definitions,

@@ -88,6 +88,7 @@ and `build_index.py` consumes it.
 .venv/bin/python scripts/audit_coverage.py    # every body line reached its paragraph
 .venv/bin/python scripts/lint_vault.py        # notes agree with the index and the rules
 .venv/bin/python scripts/audit_cuts.py        # every recorded cut is a cut of real text
+.venv/bin/python scripts/audit_citations.py   # citations resolve; numbers are the source's
 .venv/bin/python scripts/external_refs.py     # every reference to a document we do not hold
 ```
 
