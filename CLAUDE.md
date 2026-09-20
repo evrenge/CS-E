@@ -80,7 +80,7 @@ subpart: E
 pages: 138-149
 changed_in: [Amdt8]          # [] when unchanged
 tags: [endurance, oei, test]
-covers: ["AMC E 740(c)(3)", ...]   # merged AMC notes only; omit otherwise
+covers: ["AMC E 740(c)(3)", ...]   # see below; omit when it repeats the filename
 ---
 # CS-E 740 — Endurance Tests
 
@@ -150,6 +150,12 @@ So the vault holds **one AMC note per CS-E number**, named `AMC E 40.md`, with a
 in separate files, so the graph keeps its specification-to-means edges.
 `scripts/vault_map.py` is the authority on which note a paragraph belongs to, and
 `lint_vault.py` rejects a note whose name is not one the map expects.
+
+`covers:` earns its place only when it says something the filename does not. Two
+cases qualify, 13 notes in all: a merged note carrying several banners
+(`AMC E 740` covers five), and a note named differently from its single banner
+(`AMC E 830` covers `AMC E 830(c)`). The other 99 notes are named exactly after
+their one banner, and `covers:` there is noise — `lint_vault.py` rejects it.
 
 An AMC note labels its References line `Specification:` and links its parent CS.
 A figure or table owned by the paragraph is embedded as an image, not described:
