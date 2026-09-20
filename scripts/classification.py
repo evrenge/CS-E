@@ -135,7 +135,7 @@ CLASSIFICATION: list[tuple[str, str, str]] = [
     ("AMC E 800", "APPLIES", "Names turboshaft explicitly: '(d) If turboprop or turboshaft Engines are tested using an alternative load device which could induce different Engine response characteristics'."),
     ("CS-E 810", "APPLIES", "Compressor and turbine blade failure applies to every turbine Engine; the composite fan blade clause '(c)' applies only if such blades are fitted."),
     ("AMC E 810", "APPLIES", "Blade failure guidance; the composite fan blade release method is one case within it."),
-    ("CS-E 820", "APPLIES", "Over-torque test is written around power-turbine torque, which is the turboshaft load path; no engine-type restriction."),
+    ("CS-E 820", "APPLIES", "Over-torque test written around power-turbine torque, the turboshaft load path. Doubly conditional rather than unrestricted: elective — 'If approval of a Maximum Engine Over-torque is sought' — and restricted to 'an Engine incorporating a free power turbine', an architecture engine_profile.md does not declare. APPLIES because both conditions are open, not because neither exists. [VERIFY] in CS-E 820."),
     ("AMC E 820(a)(2)", "APPLIES", "30-Second and 2-Minute OEI are claimed: 'it should be shown that an over-torque event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.'"),
     ("CS-E 830", "APPLIES", "Maximum engine over-speed test; no engine-type restriction."),
     ("AMC E 830(c)", "APPLIES", "30-Second and 2-Minute OEI are claimed: 'it should be shown that an over-speed event does not compromise the ability of the Engine to reach its Rated 30-Second/2-Minute OEI Power.'"),

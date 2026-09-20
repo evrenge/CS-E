@@ -114,6 +114,7 @@ hit with nothing in the note to warn them.
 | **Whether a turbine starter with an external air or gas supply is fitted** | Decides the whole AMC E 80(4) containment category. |
 | **Over-speed protection technology** | CS-E 50(e)(1) applies to electronic protection, (e)(2) to other, and AMC E 50(1) names a third, blade-shedding case outside the control system. |
 | **Relative power levels of the declared ratings** | Which rating produces the maximum fuel demand, for the CS-E 560(a)(3) pump margin. |
+| **Whether the engine incorporates a free power turbine** | Five sub-points bind only on that architecture: CS-E 740(f)(3), (g)(3) and (g)(4), CS-E 750(d) and CS-E 820(a). `engine_profile.md` declares the application, the ratings and the systems, not the architecture, and it is now recorded there as undeclared. Those five notes carry a `[VERIFY]`; everywhere else the vault reasons about a free power turbine conditionally. |
 
 ### Limiting, not flagged
 

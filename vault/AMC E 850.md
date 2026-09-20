@@ -140,8 +140,9 @@ bending.
 
 ## Application to this engine
 
-The AMC applies in full. Every part of it bears on a free power-turbine
-turboshaft, and several parts bear on it more heavily than on a turbofan.
+The AMC applies in full. Every part of it bears on a turboshaft, and several
+parts bear on it more heavily than on a turbofan, particularly where the engine
+has a free power turbine.
 
 **Over-speed control by surge or by a protection device.**
 [AMC E 850(2)(a)] accepts engine surge or stall and over-speed protection devices

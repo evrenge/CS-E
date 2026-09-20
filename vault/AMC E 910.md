@@ -68,10 +68,12 @@ by an analysis that covers the conservative assumptions [AMC E 910(3)(b)].
 
 ## Application to this engine
 
-The AMC applies. Rotor-lock is the part that bears hardest on a turboshaft. The
-gas generator spool and the free power turbine cool at different rates, and
-the power turbine remains coupled to the rotor drive system. Its dwell
-condition after a shutdown therefore differs from anything a turbofan sees.
+The AMC applies. Rotor-lock is the part that bears hardest on a turboshaft.
+Where the engine has a free power turbine, that spool and the gas generator
+spool cool at different rates, and the power turbine remains coupled to the
+rotor drive system. Its dwell condition after a shutdown therefore differs from
+anything a turbofan sees. The architecture is not declared — see
+`engine_profile.md`.
 
 **The rapid relight case is the OEI case.**
 On a multi-engine rotorcraft, a shutdown that is quickly reversed is precisely
@@ -86,8 +88,8 @@ restart command. It has no relationship to the 30-Second OEI rating period. The
 two are separate clocks and are not to be conflated.
 
 **All the engine rotors means the power turbine as well.**
-The free power turbine is driven by the rotor drive system through the
-transmission and may continue to turn after the gas generator has stopped. Its
+A free power turbine, where fitted, is driven by the rotor drive system through
+the transmission and may continue to turn after the gas generator has stopped. Its
 rotor-lock assessment is therefore made with the installation in view, and the
 assumptions are declared under [[CS-E 30]].
 

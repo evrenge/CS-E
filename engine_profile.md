@@ -50,6 +50,7 @@ Mapped onto CS-E Amendment 8 terms. The left column is the applicant's naming.
 | Time-limited dispatch | **Not claimed** | CS-E 1030 and AMC E 1030 EXCLUDED. Optional by its own wording: "If approval is sought for dispatch with Faults present in an Electronic Engine Control System (EECS)". Re-openable later without affecting any other paragraph |
 | Thrust reverser | **No** | CS-E 890, AMC E 890, AMC E 10(b) EXCLUDED |
 | Propeller | **No** — rotor drive | CS-E 180, AMC E 180, CS-E 900 EXCLUDED |
+| Power turbine architecture | **Not declared** | Several paragraphs bind only on "an Engine incorporating a free power turbine" or open "In the case of a free power-turbine Engine": CS-E 740(f)(3), (g)(3) and (g)(4), CS-E 750(d) and CS-E 820(a). Until it is declared, those notes carry a `[VERIFY]` and the vault reasons about a free power turbine conditionally, never as a declared fact |
 
 ## Endurance test selected by these ratings
 
