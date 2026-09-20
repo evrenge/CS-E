@@ -55,10 +55,9 @@ The source does not identify the component. It says "mechanical effects such as
 clutch drag" [AMC E 525(1)], and CS-E 525 requires "means to prevent that
 continued rotation" without naming them.
 
-Paragraph (2) asks for consideration of all expected aircraft applications. For
-this engine the declared application is a rotorcraft, which bounds the exercise:
-the flight envelope with one engine shut down is the OEI envelope, flown on the
-remaining engine at the ratings declared in `engine_profile.md`.
+Paragraph (2) asks for consideration of all expected aircraft applications. For this engine, the declared application is a rotorcraft. That bounds the
+exercise: the flight envelope with one engine shut down is the OEI envelope,
+flown on the remaining engine at the ratings declared in `engine_profile.md`.
 
 Complete loss of engine oil under (3) is the condition that makes
 [[AMC E 130|AMC E 130(2)(c)]] treat turbine oil system components differently

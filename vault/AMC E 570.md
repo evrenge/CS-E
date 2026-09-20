@@ -41,8 +41,8 @@ Point (5) is a definition pointer rather than an obligation. It resolves
 absence of a more suitable determination.
 
 Point (1) duplicates a requirement that also appears in
-[[AMC E 560|AMC E 560(6)]] for the fuel system, but for a different reason: there
-it serves fire protection under [[CS-E 130|CS-E 130(a)]], here it serves proper
+[[AMC E 560|AMC E 560(6)]] for the fuel system, but for a different reason. There
+it serves fire protection under [[CS-E 130|CS-E 130(a)]]. Here it serves proper
 functioning and leakage avoidance under [[CS-E 570|CS-E 570(a)(1)]].
 
 ## Compliance
@@ -60,14 +60,15 @@ control system.
 
 Point (3) requires drainage to outside the engine cowling from any filler
 connection retaining significant oil. That connects to
-[[CS-E 130|CS-E 130(f)]], which requires unintentional accumulation of hazardous
-quantities of flammable fluid within the engine to be prevented by draining and
-venting, and to [[AMC E 130|AMC E 130(6)]] on drain and vent systems — including
-its point that a drain or vent flowing a hazardous quantity of flammable fluid
-during continued rotation after shutdown may need a Fireproof standard.
+[[CS-E 130|CS-E 130(f)]]. That paragraph requires unintentional accumulation of
+hazardous quantities of flammable fluid within the engine to be prevented by
+draining and venting. It also connects to [[AMC E 130|AMC E 130(6)]] on drain and
+vent systems. That AMC notes that a drain or vent flowing a hazardous quantity of
+flammable fluid during continued rotation after shutdown may need a Fireproof
+standard.
 
 Magnetic chip detectors, named in point (4), are also named in
-[[AMC E 510|AMC E 510(3)(h)]] as a maintenance error case: failure to restore oil
+[[AMC E 510|AMC E 510(3)(h)]] as a maintenance error case. Failure to restore oil
 system integrity after a routine chip detector or filter check appears in the
 list of service events that have caused serious consequences. The access
 provisions here and the maintenance error precautions there address the same

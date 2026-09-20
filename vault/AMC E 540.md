@@ -34,8 +34,8 @@ conditional: it is needed only where the object is likely to be more severe than
 the single large bird case already demonstrated under [[CS-E 800]].
 
 The 200-knot consideration is the one place where the AMC adds work beyond the
-test paragraphs. [[CS-E 800]] fixes an aeroplane test speed of 200 knots, and
-this AMC asks the applicant to consider operation above that speed when verifying
+test paragraphs. [[CS-E 800]] fixes an aeroplane test speed of 200 knots. This
+AMC asks the applicant to consider operation above that speed when verifying
 the Extremely Remote criterion, together with the probability of encountering a
 single bird there.
 
@@ -57,7 +57,7 @@ The AMC applies. Nothing in it is restricted by rating or control system.
 
 The strut damage assessment reaches the control system directly. Wiring
 "associated with the engine control system" is named among the items that may be
-housed in main frame struts [AMC E 540(1)], and this engine has a full-authority
+housed in main frame struts [AMC E 540(1)]. This engine has a full-authority
 EECS, so loss of that wiring is a control system Failure assessed under
 [[CS-E 50|CS-E 50(d)]] and [[CS-E 510]].
 

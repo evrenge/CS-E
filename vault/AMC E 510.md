@@ -89,16 +89,16 @@ impossible to stop prior to incapacitation", "No effective means to prevent flow
 of toxic products to crew or passenger compartments", and "Toxic products
 impossible to detect prior to incapacitation" [AMC E 510(3)(d)(iv)]. The named
 sources are degradation of abradable materials in the compressor when rubbed by
-rotating blades, and degradation of oil leaking into the compressor air flow —
-both linked to the abradable lining assessment of [[AMC E 130|AMC E 130(3)(d)]].
+rotating blades, and degradation of oil leaking into the compressor air flow.
+Both link to the abradable lining assessment of [[AMC E 130|AMC E 130(3)(d)]].
 
 The debris treatment separates three populations with different rules. **Major
 rotating parts** are assumed uncontained unless containment is demonstrated, and
 their Extremely Remote objective is met only through [[CS-E 515]], supplemented
 by [[CS-E 840]] and [[CS-E 850]]. **Blades** must be radially contained under
-[[CS-E 520|CS-E 520(c)(1)]], but forward or rearward release still needs a
-probability assessment, and CS-E 515 explicitly does not support an Extremely
-Remote blade failure claim because it does not address foreign object damage.
+[[CS-E 520|CS-E 520(c)(1)]]. Forward or rearward release still needs a
+probability assessment. CS-E 515 explicitly does not support an Extremely
+Remote blade failure claim, because it does not address foreign object damage.
 **Other components**, such as high-pressure casings, need their own assessment.
 
 ### AMC E 510(3)(e) to (f) — Major and Minor Engine Effects
@@ -139,9 +139,9 @@ system or borescope access integrity after routine maintenance, with similar
 consideration for other systems; mis-installation of or failure to refit O-rings;
 servicing with incorrect fluids; and failure to install, omitting to torque,
 under-torquing or over-torquing nuts [AMC E 510(3)(h)]. Improper maintenance on
-discs, hubs and spacers is called out separately, with overlooking existing
-cracks or damage during inspection, and failure to apply or incorrect application
-of protective coatings, as service examples.
+discs, hubs and spacers is called out separately. Service examples include
+overlooking existing cracks or damage during inspection, and failure to apply or
+incorrect application of protective coatings.
 
 The multi-engine concern in (3)(h) is that similar incorrect actions performed on
 several engines during the same maintenance availability by one crew defeat
@@ -204,7 +204,7 @@ is precisely an installation whose redundancy the aircraft applicant will take
 into account. Engine certification is unaffected either way — the AMC says the
 re-examination "applies only to aircraft certification" — but both assumptions
 are provisional at aircraft level. This is the same boundary the OEI ratings
-exist to manage, and it links to [[AMC E 20|AMC E 20(f)]], where the safety
+exist to manage. It links to [[AMC E 20|AMC E 20(f)]], where the safety
 analysis must consider dormant Failures leading to non-availability of the OEI
 ratings.
 
@@ -220,8 +220,8 @@ engines, so this is interpretation rather than omission.
 **The control system.** AMC E 510(3)(b) says the CS-E 50 specifications for the
 Engine Control System should be integrated into the overall engine safety
 analysis rather than analysed separately. For a full-authority
-EECS this is the central structural requirement of the analysis, and it is the
-analysis that [[AMC E 60|AMC E 60(d)(3)]] draws on for the development assurance
+EECS, this is the central structural requirement of the analysis.
+[[AMC E 60|AMC E 60(d)(3)]] draws on that analysis for the development assurance
 level of the OEI recording and retrieval system.
 
 **Bleed air and toxic products.** The named sources — abradable material

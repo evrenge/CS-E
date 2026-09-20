@@ -27,9 +27,9 @@ covers: ["AMC E 520(a)", "AMC E 520(c)(1)", "AMC E 520(c)(2)", "AMC E 520(d)"]
 | **(a)** | In order to minimise the adverse consequences of Failures due to unpredicted high cycle fatigue, it is recommended that the relative fatigue strengths of the blade and disc are normally graded in ascending order: blade form, blade root, disc blade attachment, disc rim. | Accepted method |
 
 The ordering puts the weakest link furthest from the disc. An unpredicted high
-cycle fatigue failure then occurs in the blade form, which [[CS-E 520|CS-E 520(c)(1)]]
-requires to be radially contained, rather than in the disc rim, whose Failure is
-treated as uncontained high-energy debris under
+cycle fatigue failure then occurs in the blade form, not in the disc rim.
+[[CS-E 520|CS-E 520(c)(1)]] requires the blade form to be radially contained.
+Disc rim Failure is instead treated as uncontained high-energy debris under
 [[AMC E 510|AMC E 510(3)(d)(iii)]].
 
 ### AMC E 520(c)(1) — shedding of blades
@@ -45,10 +45,11 @@ on the aircraft structure of failed blades have been experienced at angles up to
 ± 30° from the point of intersection of the Engine centre line and the plane of
 rotation" [AMC E 520(c)(1)(2)].
 
-The AMC names two cases where this matters most: where the final containment
-provisions are external to the engine casing and lie some distance from it, and
-where the casing containment capability is reduced adjacent to the plane of
-rotation — by cut-outs for adjacent stator roots, bleed ports and similar.
+The AMC names two cases where this matters most. The first is where the final
+containment provisions are external to the engine casing and lie some distance
+from it. The second is where the casing containment capability is reduced
+adjacent to the plane of rotation — by cut-outs for adjacent stator roots, bleed
+ports and similar.
 
 The relief has a price attached. Containment fore and aft is not required, but
 only if the assured containment angles are given to the aircraft constructor. The
@@ -74,9 +75,9 @@ obligation converts from a design duty into an installation-information duty.
 
 Two items in (c)(2)(2) are easy to conflate. The first applies only where the
 rotor support structure is *designed* to fail during blade loss. The second
-applies to every engine: the most severe blade Failure that does **not** fail the
-rotor support must also be evaluated, because it can produce a longer period of
-out-of-balance running.
+applies to every engine. The most severe blade Failure that does **not** fail
+the rotor support must also be evaluated, because it can produce a longer period
+of out-of-balance running.
 
 The mutual agreement in (c)(2)(7) makes the model a joint artefact. It is not
 delivered to the installer as a finished product; its definition is agreed

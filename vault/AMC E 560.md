@@ -78,12 +78,12 @@ The AMC applies in full. Nothing in it is restricted by rating or control system
 
 **Transient fuel icing is the item to plan for.** The ice comes from the aircraft
 fuel system, and the assessment belongs to the aircraft manufacturer. Because the
-rotorcraft installation is not fixed, no completed threat assessment exists, so
-point (4) puts the applicant to a choice now: assess the potential threat, or
-declare that no capability has been demonstrated and carry that as an
-installation limitation. Either way the ice quantity and the critical fuel
-temperature must reach the engine installation manual under
-[[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]].
+rotorcraft installation is not fixed, no completed threat assessment exists.
+Point (4) therefore puts the applicant to a choice now. The applicant should
+assess the potential threat, or declare that no capability has been
+demonstrated and carry that as an installation limitation. Either way, the ice
+quantity and the critical fuel temperature must reach the engine installation
+manual under [[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]].
 
 [VERIFY: whether a transient fuel icing threat assessment exists for the intended
 rotorcraft installation, or whether the applicant declares that no capability has
@@ -92,12 +92,12 @@ an installation limitation.]
 
 **Point (9) reaches the EECS.** The likely causes of setting change it names —
 vibration, incorrect maintenance, mechanical interference when installed or
-during handling — apply to the fuel metering hardware, and the maintenance error
+during handling — apply to the fuel metering hardware. The maintenance error
 case connects to [[AMC E 510|AMC E 510(3)(h)]].
 
 **Point (5) is a fire case, not only an assembly case.** It reasons from fuel
-leakage being a potential fire hazard, so it ties [[CS-E 110|CS-E 110(d)]] to
-[[CS-E 130]] and to the incorrect fitment assessment that
+leakage being a potential fire hazard. Therefore it ties [[CS-E 110|CS-E 110(d)]]
+to [[CS-E 130]], and to the incorrect fitment assessment that
 [[CS-E 110|CS-E 110(e)]] places inside the system safety assessment of
 [[CS-E 50|CS-E 50(d)]].
 

@@ -175,7 +175,7 @@ material change modifies the thermal or mechanical response.
 
 The worked example in (4)(c) shows how much detail a Manufacturing Plan needs. A
 flange bolt hole produced to an existing drilling specification may simply be
-noted as such; a rim air hole needing cold expansion after drilling to meet its
+noted as such. A rim air hole needing cold expansion after drilling to meet its
 life capability may require the cold expansion process to be referenced in the
 plan.
 
@@ -230,17 +230,17 @@ Engines, the representative usage of the 30-minute Power rating should be
 considered in the Engine Flight Cycle when establishing the Approved Life of each
 Engine critical part" [AMC E 515(3)(d)(i)]. `engine_profile.md` declares Rated
 30-Minute Power under [[CS-E 40|CS-E 40(b)(4)]], so this applies directly. The
-consequence is on the damage accumulated per cycle: a 30-minute segment at that
-rating is a substantial hold time at high temperature, and the hold time
-assumption has to correspond to the limiting installation variables.
+consequence is on the damage accumulated per cycle. A 30-minute segment at that
+rating is a substantial hold time at high temperature. The hold time assumption
+has to correspond to the limiting installation variables.
 
 **OEI cycle accounting.** "For engines with OEI ratings, the airworthiness
 limitations section should include a method for accounting for the number of
 cycles used in operation at the OEI ratings" [AMC E 515(6)(b)]. This engine
 declares 30-Second OEI, 2-Minute OEI and Continuous OEI. The two accepted methods
 are a finite cycle addition to the expended life of the affected parts, or life
-reduction factors per OEI power excursion. The input is the usage record itself,
-which [[CS-E 60|CS-E 60(d)(2)]] requires to be automatically recorded and
+reduction factors per OEI power excursion. The input is the usage record itself.
+[[CS-E 60|CS-E 60(d)(2)]] requires it to be automatically recorded and
 retrievable, so the OEI recording system and the Approved Life accounting are
 parts of one chain.
 
