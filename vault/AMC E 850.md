@@ -166,7 +166,7 @@ system inertia, available gas energy, whether the rotor is held in plane, and
 over-speed protection devices. The two AMCs are read together for the power
 turbine.
 
-**Four of the nine service Failure modes are governed elsewhere in this vault.**
+**Five of the nine service Failure modes are governed elsewhere in this vault.**
 Fuel flow instability inducing shaft resonance connects to [[CS-E 50]] and
 [[CS-E 650]]; an oil fire around the shaft to [[CS-E 130]]; bearing degradation
 and bearing Failure to [[CS-E 570]]; HCF from a stress concentration feature to

@@ -62,10 +62,12 @@ this engine is the closing sentence, which is written for every design:
 "Regardless of the Engine design, the most limiting parameter should be
 identified and understood prior to any demonstration" [AMC E 800(2)(a)].
 
-Point (2)(d) is written for this engine type. A turboshaft on a test bed is
-coupled to a dynamometer or water brake rather than to a rotor system. The
-AMC requires the difference in response characteristics to be monitored and
-used to predict the installed behaviour.
+Point (2)(d) is written for this engine type. It names no load device. It
+applies wherever a turboshaft engine is tested on an alternative load device
+that "could induce different Engine response characteristics" from the installed
+condition, and it then requires the interface with the test facility and aircraft
+systems to be monitored during the test and used to predict the installed
+behaviour [AMC E 800(2)(d)].
 
 ### AMC E 800(3) — impact, ingestion and first stage rotor blades
 
@@ -114,8 +116,9 @@ CS-E 810(a) are more severe" [CS-E 800(g)(2)], so the blade Failure test of
 [[CS-E 810]] stands in its place. Where that route is taken,
 (4)(f) says the demonstration should include consideration of unbalance. It
 should also cover the effects of the axial loading from the bird strike on
-bearings or other structures — two effects the CS-E 810 test does not
-otherwise produce.
+bearings or other structures [AMC E 800(4)(f)]. The axial loading is the item a
+blade Failure test does not itself impose; the unbalance is already the subject
+of the out-of-balance run of [[AMC E 810|AMC E 810(3)]].
 
 ## Compliance
 

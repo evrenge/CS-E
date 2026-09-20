@@ -247,11 +247,12 @@ surge or stall rather than any surge at all.
 **The rotorcraft section decides the compliance route.**
 AMC E 790(a)(2)(2)(d) permits the CS-E 790(a)(2) testing to be
 replaced by the static rain ingestion test of [[CS-E 790|CS-E 790(b)]] for
-rotorcraft applications. Two physical arguments support it, and both are
-turboshaft properties rather than choices. The scoop factor effect is small
-because rotorcraft fly slower and hold proportionately higher engine power
-during descent. The engine also has no fan to centrifuge water away from the
-core.
+rotorcraft applications. Two physical arguments support it. The scoop factor
+effect is small because rotorcraft fly slower and hold proportionately higher
+engine power during descent. And a rotorcraft turbine engine "might not have
+rotating components that centrifuge rain or hail away from the Engine"
+[AMC E 790(a)(2)(2)(d)], so the difference in centrifuging between static test
+and flight that matters for a turbofan typically has no applicability here.
 
 The consequence is that the critical point analysis of
 AMC E 790(a)(2)(4) — a two-step procedure requiring Agency
