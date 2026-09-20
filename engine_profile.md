@@ -69,6 +69,19 @@ the" endurance test or run them separately. **[VERIFY]** how those 25 hours
 combine with the CS-E 740(c)(3)(i) schedule — the AMC offers a choice and the
 selected option should be agreed with EASA.
 
+## What is still to be declared
+
+This file records what the applicant has declared. The vault raises 35 open
+`[VERIFY]` items that ask it for something it does not yet carry — the engine
+inlet throat area, the maximum airspeed for normal flight operations, the
+declared over-limit ratings, the installation attitude, and the rest.
+
+They are not listed here, because a hand-written copy of a list derived from the
+vault goes stale. `review/dead_ends.md`, **Kind 3 — engine information not yet
+declared**, is the inventory, and it names the note each item blocks. The single
+largest of them is the target rotorcraft and its transmission, which alone
+blocks at least nine separate items.
+
 ## Effect on the applicability matrix
 
 Filling in the variables above resolves every CONDITIONAL verdict: a paragraph
