@@ -28,11 +28,11 @@ schedules, propeller clauses, turbofan cases. Cut them.
   contrast that defines our case (CS-E 800's aeroplane 200 kt vs the rotorcraft
   speed), or our case is written as an alternative to it (CS-E 790(b) is an
   alternative to CS-E 790(a)(2)).
-- Every cut is recorded in the note's `Dropped` section, one line, with the
-  sub-point reference and the reason. A reader must always be able to tell
+- Every cut is recorded in the note's `## Not applicable` section, one line, with
+  the sub-point reference and the reason. A reader must always be able to tell
   "deliberately excluded" from "forgotten". Silent omission is a defect.
-- Record the cut, never the content: `Dropped` says what was removed and why, not
-  what it said.
+- Record the cut, never the content: `## Not applicable` says what was removed and
+  why, not what it said.
 
 ## Engine variables
 Declared in `engine_profile.md`, which also maps the applicant's rating names onto
@@ -62,7 +62,7 @@ CS-E terms and records the open [VERIFY] items. Summary:
    describing it. The content is absent from the text layer, so a description is
    an unverifiable restatement. See **Figures**.
 7. Never cap a list. Every obligation in an applicable sub-point reaches the note.
-   When `What we must do` exceeds ~10 items, group them under `###` sub-headings by
+   When `## Compliance` exceeds ~10 items, group them under `###` sub-headings by
    theme instead of trimming. Dropping an obligation to fit a length target is the
    same defect as silent omission.
 8. A note never repeats content that has its own note. Link to it instead. Two
