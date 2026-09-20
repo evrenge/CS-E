@@ -61,8 +61,8 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 | **(4)(d)(iii)** | The information or actions needed from the operator may be prescribed in the airworthiness limitations section of the ICA. | Permitted |
 
 The programme's purpose at (4)(d)(i) is to obtain data on engine hardware
-condition and power availability at various stages of life, and compare it with
-the corresponding data observed during certification.
+condition and power availability at various stages of life. That data is then
+compared with the corresponding data observed during certification.
 
 Two comparisons are named: in-service engines that have never used the ratings
 against the parameters existing **before** the 2-hour additional endurance test of

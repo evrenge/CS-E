@@ -156,13 +156,13 @@ Engine power or thrust with adequate sensitivity and accuracy" under
 [[CS-E 50|CS-E 50(a)(3)]] means holding power turbine speed within limits.
 
 Point (5) binds fully. The engine uses a full-authority EECS, so it does not
-inherit the inherent compliance that a hydromechanical system enjoys, and every
+inherit the inherent compliance that a hydromechanical system enjoys. Every
 aircraft-supplied electrical power dependency must be evaluated against
 [[CS-E 50|CS-E 50(h)]].
 
 Point (1) settles where "OEI override" is assessed. If the feature controls,
 limits or monitors engine operation and is necessary for continued airworthiness,
-it is part of the Engine Control System and falls under CS-E 50 — not under
+it is part of the Engine Control System. It falls under CS-E 50 — not under
 [[CS-E 40]] as a rating.
 
 [VERIFY: AMC E 50(2) and (5) cite AMC 20-1 and AMC 20-3 for detailed
@@ -193,14 +193,14 @@ being read against the current CS-E 50(e) text.]
 This note binds. The applicant declares a 30-Second OEI Power rating, so
 [[CS-E 50|CS-E 50(j)]] applies and this is its accepted means.
 
-The engine uses a full-authority EECS, which is the architecture this AMC assumes:
+The engine uses a full-authority EECS. This is the architecture the AMC assumes:
 automatic application, automatic limiting, and no pilot monitoring of shaft
 torque, shaft speed, gas generator speed or gas path temperature during the event.
 
 The link to [[AMC E 20|AMC E 20(f)(5)]] is a compliance dependency, not a cross-reference.
 The same limiter settings — engine speed, measured gas temperature and fuel flow —
-must be shown both to protect the engine and not to block the rating, with
-particular attention to take-off with a cold-soaked engine.
+must be shown to protect the engine. They must also be shown not to block the
+rating, with particular attention to take-off with a cold-soaked engine.
 
 [[AMC E 40|AMC E 40(b)(3)(4)]] records that certification assumes up to three uses of the
 rating in one flight, and that mandatory maintenance follows any use.

@@ -65,11 +65,12 @@ system.
 Sub-point (b) names "the specifications prescribed in subpart C or E, as
 appropriate" [CS-E 80(b)]. Subpart C is the piston engine type substantiation
 subpart and is outside the scope of this vault. For this engine the appropriate
-subpart is E, so the question is whether the Subpart E test programme — the
-calibration, endurance and environmental tests of [[CS-E 730]], [[CS-E 740]] and
-the paragraphs that follow — subjects each item of equipment to cycles
-representative of its service conditions. Where it does not, the gap must be
-closed by additional specifications in the equipment specification.
+subpart is E. The question is therefore whether the Subpart E test programme
+subjects each item of equipment to cycles representative of its service
+conditions. That programme comprises the calibration, endurance and
+environmental tests of [[CS-E 730]], [[CS-E 740]] and the paragraphs that
+follow. Where it does not, the gap must be closed by additional specifications
+in the equipment specification.
 
 Sub-point (a)(1)(ii) uses the Hazardous Engine Effect threshold, which is defined
 in [[CS-E 15]] and classified in the safety analysis of [[CS-E 510]]. The set of

@@ -42,11 +42,12 @@ agreement, not only its result.
 Both sub-points apply in full; neither is restricted by engine type or rating.
 
 CS-E 90 has no AMC of its own. The nearest accepted means are the environmental
-test conditions in [[AMC E 80]], which cover the salt, fluid and humidity
-exposure that equipment must withstand, and the material qualification of
-[[CS-E 70|CS-E 70(a)]], which establishes durability. The protection scheme also
-reaches the continued airworthiness documentation of [[CS-E 25]], because
-inspection intervals depend on which protection method was chosen.
+test conditions in [[AMC E 80]]. These cover the salt, fluid and humidity
+exposure that equipment must withstand. Also relevant is the material
+qualification of [[CS-E 70|CS-E 70(a)]], which establishes durability. The
+protection scheme also reaches the continued airworthiness documentation of
+[[CS-E 25]], because inspection intervals depend on which protection method was
+chosen.
 
 ## References
 

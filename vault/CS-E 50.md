@@ -116,10 +116,10 @@ automatic availability and automatic control of that rating are mandatory.
 "OEI override" is a control-system feature, not a rating under [[CS-E 40]]. It is
 assessed here and in the [[CS-E 510]] safety assessment required by (d).
 
-The engine uses a full-authority EECS, so the electronic route at (e)(1) applies
-to over-speed protection, if the protection is electronic, rather than the
-hydromechanical route at (e)(2), and the
-software obligations at (f) carry their full weight.
+The engine uses a full-authority EECS. Therefore, if the protection is
+electronic, the electronic route at (e)(1) applies to over-speed protection,
+rather than the hydromechanical route at (e)(2). The software obligations at
+(f) also carry their full weight.
 
 Sub-point (a)(2) cites CS-E 390 as well as CS-E 500(a) and CS-E 745. CS-E 390 is
 in Subpart C and applies to piston engines, so only CS-E 500(a) and CS-E 745 bind

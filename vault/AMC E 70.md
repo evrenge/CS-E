@@ -93,8 +93,8 @@ castings, forgings and welds.
 
 The residual stress clause in (2)(a) is the one that connects directly to a
 turbine-specific specification. [[CS-E 100|CS-E 100(a)]] requires due
-consideration of residual stresses in Engine Critical Parts for turbine engines,
-and AMC E 70(2)(a) gives the accepted means: experience on similar designs and
+consideration of residual stresses in Engine Critical Parts for turbine engines.
+AMC E 70(2)(a) gives the accepted means: experience on similar designs and
 materials where it exists, physical tests where it does not. The parts in
 question are identified under [[CS-E 515]].
 

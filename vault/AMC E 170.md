@@ -62,9 +62,9 @@ once declared they bind the installer through the instructions for installation.
 
 The bonding clause creates a dependency that is easy to miss. A HIRF or lightning
 test on a subset of the engine is only valid if the bonding assumed between the
-tested elements and the main engine earth is real, and the three ways of showing
-it are the same three routes that [[AMC E 135]] gives for electrical bonding
-generally.
+tested elements and the main engine earth is real. [[AMC E 135]] gives three ways
+to show this bonding, and they are the same three routes it gives for electrical
+bonding generally.
 
 ## Compliance
 
@@ -84,9 +84,10 @@ authority.
 
 Two of the four examples reach this engine specifically. An over-speed protection
 system or torque limiter is unlikely to be exercised by the scheduled tests of
-[[CS-E 740]], and a Failure indicating system relied on in the safety analysis
-must be shown to work when called upon — which for this engine includes the OEI
-usage alerting and recording means required by [[CS-E 60|CS-E 60(d)]].
+[[CS-E 740]]. A Failure indicating system relied on in the safety analysis must
+be shown to work when called upon. For this engine, that indicating system
+includes the OEI usage alerting and recording means required by
+[[CS-E 60|CS-E 60(d)]].
 
 The mechanical back-up example does not arise unless the EECS has one.
 
@@ -97,17 +98,17 @@ endurance test.]
 
 The degraded dispatch sentence needs care. `engine_profile.md` records that time
 limited dispatch is not claimed, so there is no time-limited dispatch regime
-under CS-E 1030. The AMC's wording is broader than that, referring to "each
-approved degraded state" [AMC E 170], so any approved degraded state of the
-control system is in scope whether or not time limited dispatch is claimed.
+under CS-E 1030. The AMC's wording is broader than that. It refers to "each
+approved degraded state" [AMC E 170]. So any approved degraded state of the
+control system is in scope, whether or not time limited dispatch is claimed.
 
 [VERIFY: whether any approved degraded state of the Engine Control System exists
 for this engine, given that time limited dispatch is not claimed. The AMC
 requires each such state to be considered against the environmental conditions.]
 
 AMC E 170 names AMC 20-1 and AMC 20-3 as additional means for Electronic Engine
-Control Systems, and directs the reader to [[AMC E 80]] for environmental effects
-other than lightning and electromagnetic effects.
+Control Systems. It also directs the reader to [[AMC E 80]] for environmental
+effects other than lightning and electromagnetic effects.
 
 [VERIFY: AMC 20-1 and AMC 20-3 are named as additional means here and are not
 held in `source/`. Their content cannot be summarised in this note.]

@@ -1,5 +1,19 @@
 # Phase 4 verification — findings
 
+> **Status: closed.** Every finding below was worked through and committed, in
+> the order the severities demand — blockers first, then majors, then minors by
+> subpart. The commits are `a882053` (blockers), `fb949b7` (majors), and
+> `6439496`, `522e2c8`, `f41746b`, `a59aa83`, `e35ca20`, `2bca591`, `1515dc3`
+> (minors). Each fix was checked against the source paragraph text in the same
+> step, not against the linter alone: verifying form rather than meaning is how
+> several of these defects survived an earlier sweep.
+>
+> This document is the record of **what the passes found**, not of what the vault
+> still contains. For current state, run the validators — `lint_vault.py`,
+> `audit_cuts.py`, `audit_coverage.py`, `verify_sources.py` — and trust them over
+> anything written here. Line numbers quoted below refer to the notes as they
+> were when the passes ran, and have since shifted.
+
 Seven independent verification passes over the 112 notes, one per scope, each
 reading every note against its source paragraph files in `work/paragraphs/` and
 against `engine_profile.md`, `work/redline.json` and `vault/figures/`.

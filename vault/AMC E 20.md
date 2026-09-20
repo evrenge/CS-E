@@ -49,13 +49,13 @@ air data.
 | **(f)(4)** | The data should let the installer establish power assurance procedures in which results can be extrapolated from a lower power check level up to the highest OEI rating power. | Accepted method |
 | **(f)(5)** | Provide information on methods assuring that engine limiter settings would not prevent the engine from reaching the 30-Second or 2-Minute OEI power made automatically available under CS-E 50(j). | Accepted method |
 
-Point (f)(3) states the objective: the installer must be able to confirm the
+Point (f)(3) states the objective. The installer must be able to confirm the
 engine can obtain and sustain its OEI ratings within the rating operating
-limitations, and the operator must be able to trend individual engine
-performance. Two examples are given of conditions normal power assurance will not
-catch — fuel control maximum flow capability, and turbine section distress —
-because the procedure will not include a topping check to the highest OEI rating
-power level.
+limitations. The operator must also be able to trend individual engine
+performance. Two examples are given of conditions that normal power assurance
+will not catch: fuel control maximum flow capability, and turbine section
+distress. Normal power assurance misses them because the procedure will not
+include a topping check to the highest OEI rating power level.
 
 Point (f)(4) sets out how to establish the minimum acceptable engine performance
 characteristic. For a mature programme, production acceptance test data,

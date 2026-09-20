@@ -43,10 +43,10 @@ endurance evidence.
 
 ### What the ratings are for [(2)]
 
-The 30-Second OEI rating provides a short burst of power to complete a take-off
-or to effect a rejected take-off, should an engine Failure occur at the critical
-decision point, so the rotorcraft can lift clear of obstructions and climb out,
-or reject the take-off. It also provides power for a safe landing or a baulked
+The 30-Second OEI rating provides a short burst of power, should an engine
+Failure occur at the critical decision point. It lets the rotorcraft complete
+the take-off, lift clear of obstructions and climb out. Alternatively, it lets
+the rotorcraft reject the take-off. It also provides power for a safe landing or a baulked
 landing if an engine fails at any point down to and including the landing
 decision point.
 
@@ -70,7 +70,7 @@ deterioration in service, so it should be reflected in the data given to the
 aircraft manufacturer.
 
 **Where power deterioration exceeds 10 % at the 30-Second OEI rating over the
-2-hour test**, the mode of deterioration should be evaluated, to ensure that
+2-hour test**, the mode of deterioration should be evaluated. This ensures that
 availability of 30-Second OEI rated power in service is not compromised by
 variability in the amount of deterioration.
 

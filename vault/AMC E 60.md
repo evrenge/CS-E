@@ -87,9 +87,9 @@ Both AMC paragraphs bind. `engine_profile.md` declares 30-Second OEI and
 
 The (d)(1) definition chains through the declared ratings. The 2-Minute OEI level
 counts as used when a limitation of "the next lower OEI power rating or other
-Engine rating (if applicable)" is exceeded [AMC E 60(d)(1)]. For this engine the
-next lower OEI rating is Continuous OEI, so Continuous OEI limitations set the
-trigger for 2-Minute OEI recording even though Continuous OEI itself is not
+Engine rating (if applicable)" is exceeded [AMC E 60(d)(1)]. For this engine, the
+next lower OEI rating is Continuous OEI. So Continuous OEI limitations set the
+trigger for 2-Minute OEI recording, even though Continuous OEI itself is not
 recorded under CS-E 60(d).
 
 AMC E 60(d)(3) states that where the recording or retrieval system is not part of

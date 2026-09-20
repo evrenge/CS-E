@@ -61,7 +61,7 @@ shutoff valve(s)". The Fireproof tank shutoff valve case runs to 15 minutes.
 
 The electronics carve-out in (2)(d)(iii) is narrow and worth reading exactly.
 Circuit board potting compounds inside Engine Control System casings may support
-a small intensity fire after the test flame is removed, and the AMC accepts this
+a small intensity fire after the test flame is removed. The AMC accepts this
 where the material supporting combustion is not a hazardous quantity.
 
 ### AMC E 130(3) — materials
@@ -79,13 +79,14 @@ where the material supporting combustion is not a hazardous quantity.
 
 The titanium precautions listed in (3)(b) are described as measures that "can
 reduce the susceptibility of Engines to titanium fires" rather than as
-requirements: alloy constituents; blade or casing coatings or mechanical linings
-inhibiting ignition or combustion; design measures minimising dangerous rubs,
-including large inter-blade-row clearances, abradable materials of sufficient
-depth in rub areas, avoiding titanium for adjacent rotating and static parts,
-accounting for rotor movements under transient and bearing Failure conditions,
-and ensuring thin easily ignited titanium sections are unlikely to be shed at the
-front of the engine.
+requirements. They include alloy constituents, and blade or casing coatings or
+mechanical linings that inhibit ignition or combustion. They also include design
+measures that minimise dangerous rubs: large inter-blade-row clearances,
+abradable materials of sufficient depth in rub areas, and avoiding titanium for
+adjacent rotating and static parts. The measures further include accounting for
+rotor movements under transient and bearing Failure conditions, and ensuring that
+thin, easily ignited titanium sections are unlikely to be shed at the front of
+the engine.
 
 ### AMC E 130(4) — specific interpretations
 

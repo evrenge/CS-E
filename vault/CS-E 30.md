@@ -37,10 +37,11 @@ against the real aircraft.
 
 ## Application to this engine
 
-Sub-point (b) is load-bearing for a full-authority EECS. Where the control system
-depends on aircraft-supplied resources — electrical power, air data, or recorded
-rotorcraft OEI data — those are components outside the engine type design, so
-their interface conditions and reliability specifications belong here.
+Sub-point (b) is load-bearing for a full-authority EECS. The control system may
+depend on aircraft-supplied resources: electrical power, air data, or recorded
+rotorcraft OEI data. Where it does, those are components outside the engine type
+design, so their interface conditions and reliability specifications belong
+here.
 
 The assumed aircraft certification specification code is identified under this
 paragraph by way of [[CS-E 20|CS-E 20(b)]]. CS-E 30 does not name the code for a

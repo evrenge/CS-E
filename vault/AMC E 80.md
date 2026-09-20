@@ -40,7 +40,7 @@ tables are written against a standard rather than against an aircraft.
 | **(2)** | The manufacturer may define other acceptable appropriate test and analysis procedures. | Permitted |
 | **(2)** | Demonstrate compliance normally by test or analysis, unless the equipment is shown to be sufficiently similar to previously certified equipment and operates in an environment that is the same or less severe. | Accepted method |
 
-The similarity route is the only alternative to test or analysis, and it carries
+The similarity route is the only alternative to test or analysis. It carries
 two conditions at once: sufficient similarity of the equipment, **and** an
 environment no more severe than the one already certified.
 
@@ -186,11 +186,11 @@ Subpart B piston engine paragraph and is outside the scope of this vault, so the
 applicable specification for this engine is [[CS-E 780]] alone.
 
 Table 2 and Table 4 carry the weight for a full-authority EECS. Power input
-applies to the EEC directly, and it depends on the aircraft-supplied power range
-declared for the installation, which is an installation assumption under
+applies to the EEC directly. It depends on the aircraft-supplied power range
+declared for the installation. That range is an installation assumption under
 [[CS-E 30|CS-E 30(a)]] and a control system specification under
 [[CS-E 50|CS-E 50(h)]]. The Table 4 overheat item is specific to engine
-electronic control systems and has a consequence if skipped: the engine carries
+electronic control systems. It has a consequence if skipped: the engine carries
 an installation limitation instead, and the aircraft must address the overheat
 case at its own certification.
 

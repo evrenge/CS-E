@@ -53,9 +53,9 @@ control system.
 
 Intent (ii) is the one that reaches a full-authority EECS. The engine electronic
 control unit and its associated sensors and harnesses are components mounted
-externally to the engine carcass, so the current path from each of them to the
-main engine earth is exactly what (ii) asks for, and it is part of the evidence
-supporting the interference consequence in [[CS-E 135]].
+externally to the engine carcass. The current path from each of them to the main
+engine earth is exactly what (ii) asks for. This path is also part of the
+evidence supporting the interference consequence in [[CS-E 135]].
 
 Where the drawing-examination route is used, the bonding provisions must be
 visible on the type design drawings. That connects to
