@@ -19,8 +19,6 @@ out/
 dist/
 *.tmp
 
-# Generated decks (regenerate from source/ + template/)
-output/
-
-# Project virtualenv
-.venv/
+# Note: deck/ is NOT ignored. deck/compliance_matrix.xlsx is derived from the
+# vault but committed, so a reviewer gets it without running the pipeline.
+# Regenerate it with scripts/build_matrix.py; never hand-edit it.
