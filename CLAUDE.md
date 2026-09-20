@@ -86,7 +86,10 @@ covers: ["AMC E 740(c)(3)", ...]   # merged AMC notes only; omit otherwise
 
 > [!summary]
 > What this paragraph requires overall, and what it means for this engine.
-> Two to four sentences. Not a quotation.
+> About 50 to 90 words. Not a quotation. The budget is words, not sentences:
+> the B2 sentence-length rule applies here too, so a summary at the top of that
+> range runs to four or five short sentences rather than two long ones. A merged
+> AMC note covering several banners may run longer, because it introduces each.
 
 ## Requirement
 A table mirroring the applicable sub-points in source order: reference,
