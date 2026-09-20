@@ -163,6 +163,7 @@ material change modifies the thermal or mechanical response.
 | **(4)(c)** | Review and verify the Manufacturing Plan by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, and Manufacturing Engineering (Development and Production). | Accepted method |
 | **(4)(c)** | Have that same skill mix evaluate and approve process validation and the procedures for manufacturing change control and non-conformance disposition. | Accepted method |
 | **(4)(c)** | Develop and apply manufacturing processes with the appropriate level of oversight, agree substantiation programmes up-front and execute them as part of the process validation, make changes visible and subject to crossfunctional review and approval, and review any suspected non-conformance with the appropriate skill mix before disposition. | Accepted method |
+| **(4)(c)** | The level of detail in the Plan may vary depending on the specific process step being considered, the sensitivity of the particular process step, and the level of control required to achieve the required life capability. | Statement |
 | **(5)(a)** | The Service Management Plan is intended to maintain the integrity of Engine Critical Parts throughout their service life, and conveys the processes for in-service repair and maintenance to remain consistent with the assumptions made in the Engineering Plan. | Statement |
 | **(5)(a)** | Therefore it is essential to ensure that those assumptions remain valid. | Statement |
 | **(5)(b)** | Review repair and maintenance processes by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, Product Support Engineering, and Repair Development Engineering. | Accepted method |
@@ -268,7 +269,6 @@ Part 21 is not held in `source/`.]
 ## Not applicable
 
 - **(3)(d)(i)**, in part — the reverse segment of the flight-segment list. A turboshaft driving a rotorcraft transmission has no reverse mode.
-- **(4)(c)**, in part — the sentence saying the level of detail in the Plan may vary with the process step, its sensitivity and the level of control required. Rationale rather than obligation.
 
 ## References
 

@@ -10,12 +10,12 @@ tags: [equipment, environmental-qualification, do-160, high-energy-rotor, contai
 
 > [!summary]
 > One AMC serves CS-E 80, and most of it is an environmental qualification
-> programme. Six tables list the conditions equipment should be shown to survive
-> and the test standard accepted for each, and the prose after each table states
-> what the demonstration is for. Two further points stand apart: a weak link is
-> the normal means of limiting excessive torque but is not always adequate, and
-> high-energy rotor compliance is demonstrated against four containment
-> categories.
+> programme. Tables 1 to 4 list the conditions equipment should be shown to
+> survive and the test standard accepted for each, and the prose after each of
+> those tables states what the demonstration is for. Two further points stand
+> apart: a weak link is the normal means of limiting excessive torque but is not
+> always adequate, and high-energy rotor compliance is demonstrated against four
+> containment categories.
 
 ## Requirement
 
@@ -72,7 +72,7 @@ Table 1 applies to all equipment.
 Items 4, 10 and 11 of Table 1 are marked "As a reminder" and point to
 specifications elsewhere in CS-E rather than to a test standard. They add no
 obligation of their own; the duty sits in [[CS-E 560|CS-E 560(e)]],
-[[CS-E 570]], [[CS-E 580|CS-E 580(a)]] and [[CS-E 780]].
+[[CS-E 570]], [[CS-E 580]] and [[CS-E 780]].
 
 ### AMC E 80(2)(b) — electrical and electronic equipment
 

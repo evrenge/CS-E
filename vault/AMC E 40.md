@@ -175,6 +175,7 @@ EASA before entering these rows in the TCDS.]
 ## Not applicable
 
 - CS-E 350 and CS-E 440 — the piston engine calibration and endurance tests, in Subpart C, cited by the general AMC.
+- AMC E 40 opening sentence, in part — the thrust term in "The thrust and / or power ratings to be approved". This engine produces shaft power, so only the power term is carried in the row above. It is the one thrust/power pair in this AMC; the other use of the word is the reverse thrust limitation at (3)(t), recorded separately below.
 - **CS-E 40(b)(3)(iii)**, **(iv)** — the 2½-Minute OEI and 30-Minute OEI rating definitions. Neither is claimed. AMC E 40(b)(3)(5), which permits extending the 2-Minute OEI rating to a total of 2.5 minutes, is a different provision, is live for this engine and is carried above.
 - **(1)(b)** — maximum declared engine conditions for Reversible Pitch Propeller operations.
 - **(1)(c)** — types of Propellers approved.

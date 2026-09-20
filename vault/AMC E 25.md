@@ -118,10 +118,17 @@ Point (4)(a) offers a choice where 2-Minute OEI is extended to 2½ minutes: appl
 the 30-Second OEI maintenance actions, or seek approval for a different set. The
 second route needs justification and validation.
 
+[VERIFY: whether this engine is essentially the same as an engine holding a
+2½-Minute OEI rating equivalent to the declared 2-Minute OEI rating.
+`engine_profile.md` does not record it. The worked example in AMC E 25(4)(a)
+turns on that comparison with another engine, not on this engine claiming a
+2½-Minute OEI rating, so if the comparison holds the example is available and
+the cut recorded below should be reversed.]
+
 ## Not applicable
 
 - **(6)** — substantiation of time between overhauls (TBO) or time between replacements (TBR) for piston engines, including the CS-E 440 endurance test route and the additional cyclic durability test. This is the material added at Amendment 8 and it applies only to piston engines.
-- **(4)(a)**, in part — the worked example comparing the engine to one holding a 2½-Minute OEI rating, and carrying that rating's maintenance considerations across. 2½-Minute OEI is not claimed.
+- **(4)(a)**, in part — the worked example comparing the engine to one holding a 2½-Minute OEI rating, and carrying that rating's maintenance considerations across. It is open only to an engine essentially the same as one holding such a rating, which is not declared for this engine; see the [VERIFY] above.
 
 ## References
 

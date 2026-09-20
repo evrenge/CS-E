@@ -170,7 +170,7 @@ the test configuration and the aircraft installation (e.g. production inlet
 configuration replaced by test intake configuration)", and added a new duty:
 "Assumptions about the Engine installation configuration should be documented in
 the Manuals required by CS-E 20(d)." That documentation duty is the one new
-obligation among the four, rather than an extension of an existing one.
+obligation among the five, rather than an extension of an existing one.
 
 Into (c)(2)(5) it inserted ", including interface features between Engine and
 aircraft".

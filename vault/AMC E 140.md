@@ -45,8 +45,8 @@ arithmetic that (d)(2) requires.
 ## Application to this engine
 
 The AMC applies directly. It is written "For turbine engines" [AMC E 140], and
-the power turbine it addresses is the free turbine that drives the rotorcraft
-transmission.
+the power turbine it addresses is the one whose output drive turns the
+rotorcraft transmission.
 
 The AMC matters most for the additional endurance sequence of
 [[CS-E 740|CS-E 740(c)(3)(iii)]], which is where
