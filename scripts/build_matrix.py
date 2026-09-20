@@ -34,7 +34,29 @@ STRENGTHS = ["Required", "Required if claimed", "Recommended",
 HEAD = PatternFill("solid", fgColor="1F3864")
 HEAD_FONT = Font(color="FFFFFF", bold=True)
 FILLABLE = PatternFill("solid", fgColor="FFF2CC")
-VERIFY = re.compile(r"\[VERIFY:\s*(.+?)\]", re.S)
+VERIFY = re.compile(r"\[VERIFY:\s*", re.S)
+
+
+def verify_items(text: str):
+    """Every [VERIFY: ...] item, whole.
+
+    A non-greedy match to the first "]" truncates any item containing a
+    wikilink or a citation, and most of them do: 13 of the 86 items reached
+    the Open items sheet cut off, one of them mid-question. Matching brackets
+    by depth is the only way to find the item's real end.
+
+    A bare "[VERIFY]" with no colon is a cross-reference to an item in another
+    note, not an item, and is not collected.
+    """
+    for m in VERIFY.finditer(text):
+        depth, i = 1, m.end()
+        while i < len(text) and depth:
+            if text[i] == "[":
+                depth += 1
+            elif text[i] == "]":
+                depth -= 1
+            i += 1
+        yield " ".join(text[m.end():i - 1].split())
 
 
 def strip_markup(cell: str) -> str:
@@ -210,8 +232,8 @@ def main() -> int:
                 comps.append([subpart, name, strip_markup(re.sub(
                     r"\[(?:CS-E|AMC E)[^\]]*\]", "", item)).rstrip(" ."), cite])
 
-        for m in VERIFY.finditer(text):
-            opens.append([subpart, name, " ".join(m.group(1).split())])
+        for item in verify_items(text):
+            opens.append([subpart, name, item])
 
         for ref, reason in not_applicable_rows(sec.get("Not applicable", "")):
             nas.append([subpart, name, ref, reason])
