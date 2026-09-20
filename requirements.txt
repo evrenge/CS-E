@@ -1,16 +1,14 @@
 # Tooling dependencies. scripts/fetch_sources.py needs none of these — it is
-# standard library only. Everything that reads a PDF needs pypdf.
+# standard library only.
+
+# Source integrity and metadata only (scripts/verify_sources.py). Everything
+# else that reads a PDF uses pymupdf.
 pypdf>=6.0
 
-# Page -> PNG rendering, for accuracy rule 6 (figures and tables are read as
-# images, not as extracted text). No poppler or system package required.
-pypdfium2>=4.30
-
-# Page-by-page text and layout extraction (Phase 1).
+# Page-by-page text and layout extraction, and the page -> PNG rendering behind
+# accuracy rule 6: extract_figures.py crops with page.get_pixmap(). No poppler
+# or system package required.
 pymupdf>=1.26
-
-# Required by pypdfium2 .to_pil()
-pillow>=10.0
 
 # Compliance matrix export (scripts/build_matrix.py). The matrix is derived from
 # the vault notes, so it is regenerated, never hand-edited.
