@@ -324,6 +324,29 @@ def main() -> int:
                 if re.search(r"\)\s+\(", ref):
                     say(f"Ref {ref!r} splits nested sub-points — write (a)(2)")
 
+        # A table row with the wrong number of cells breaks the table on GitHub
+        # from that line down, and Obsidian renders it anyway, so the damage is
+        # invisible in the editor the vault is written in. The usual cause is an
+        # aliased wikilink in a cell: the "|" in [[CS-E 110|CS-E 110(e)]] is read
+        # as a column separator. Use the citation form, [CS-E 110(e)], in a cell.
+        rows = text.splitlines()
+        k = 0
+        while k < len(rows):
+            head = rows[k].strip()
+            if (head.startswith("|") and k + 1 < len(rows)
+                    and re.fullmatch(r"\|[\s\-:|]+\|", rows[k + 1].strip())):
+                cols = head.strip("|").count("|") + 1
+                m = k + 2
+                while m < len(rows) and rows[m].strip().startswith("|"):
+                    got = rows[m].strip().strip("|").count("|") + 1
+                    if got != cols:
+                        say(f"table row has {got} cells, header has {cols}: "
+                            f"{rows[m].strip()[:60]!r}")
+                    m += 1
+                k = m
+            else:
+                k += 1
+
         # --- link form and targets
         if LINK_PAREN.search(text):
             say("link-paren: [[X]](y) renders as a broken hyperlink on GitHub; "
