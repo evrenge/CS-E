@@ -156,6 +156,30 @@ to the verb the source uses.
 | **Relief** | `need not` | Explicit exemption from something otherwise required. |
 | **Statement** | `will`, or declaratory text | Fixes scope, a definition or an outcome. Imposes no action. |
 
+#### Declaratory phrasing
+
+CS-E does not always use one of the seven verbs. It states a requirement, a
+permission or a relief declaratively, and the label is then chosen by the force
+of the sentence, not by hunting for a verb that is not there. These are the forms
+in scope, with the label each one takes:
+
+| Source phrasing | Label | Where |
+|---|---|---|
+| `is required to`, `are required to` | **Required** | AMC E 25(4)(a), AMC E 800(1)(a)(i) |
+| `has the option to` | **Permitted** | AMC E 710(1) |
+| `it is acceptable to`, `it will be acceptable to` | **Permitted** | CS-E 600(d), CS-E 720(d) |
+| `do not have to`, `does not need to comply` | **Relief** | AMC E 800(4)(a), CS-E 800(g)(7) |
+| `is an acceptable duration`, `may … provided` where a criterion elsewhere is waived | **Relief** | CS-E 840(a), CS-E 920(b) |
+| `is responsible for` | **Statement** | AMC E 20(6) |
+
+`is responsible for` is the one that reads stronger than it is. It allocates a
+duty that some **CS** paragraph already imposes; it does not create one. Label it
+Statement and say in the prose where the binding duty lives, so the row is not
+read as optional.
+
+Do not extend this table by analogy. A phrasing that is not listed and not one of
+the seven verbs is a `[VERIFY]`, not a guess.
+
 `should` is the trap: in an AMC it marks the accepted means, in a CS paragraph it
 is a recommendation inside a binding specification. The two are not the same
 strength and must not share a label.

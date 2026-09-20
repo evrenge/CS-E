@@ -31,13 +31,20 @@ covers: ["AMC E 20", "AMC E 20(f)"]
 | **(4)** | For example, make all necessary provision in the engine for the fitment and operation of at least the mandatory items of equipment prescribed by the use of the word 'should' in the assumed applicable aircraft specifications. | Accepted method |
 | **(5)** | The instructions for installation should include, or reference, installation interface descriptions, limitations and specifications for the Engine Control System. | Accepted method |
 | **(6)** | The trend toward system integration may lead to an EECS that has other control functions integrated within it, or that depends on aircraft resources. Examples of such aircraft-supplied resources include recording of rotorcraft one-engine-inoperative data, and aircraft central computers performing some or all of the engine control functions. | Statement |
-| **(6)** | The applicant is responsible for specifying the EECS requirements for those aircraft-supplied resources in the instructions for installation, and for substantiating their adequacy. | Required |
+| **(6)** | The applicant is responsible for specifying the specifications for the EECS for those aircraft-supplied resources in the instructions for installation, and for substantiating the adequacy of those specifications. | Statement |
 | **(7)** | The instructions for installation should describe all operational modes of the Engine Control System and its functional interface with the aircraft systems, including Back-up or Alternate Modes, whether dispatchable or not. | Accepted method |
 
 Point (5) gives two worked examples: EECS power specifications and quality,
 including interrupt limitations; and the impedance and buffering limitations for
 signals the EECS provides for display and instrumentation, or consumes, such as
 air data.
+
+Point (6) allocates responsibility rather than creating a duty. The source writes
+that the applicant "is responsible for" specifying and substantiating, which is
+declaratory, so the row reads Statement. The binding duty is elsewhere: the
+instructions for installation are required by [[CS-E 20|CS-E 20(d)]], and this
+point fixes who must populate them for aircraft-supplied resources. Reading the
+row as Statement does not make the work optional.
 
 ### AMC E 20(f) — power assurance data for OEI engines
 
@@ -74,7 +81,7 @@ with a cold-soaked engine.
 - Type design list scoped to items necessary for functioning and control [AMC E 20(1)].
 - Interface effect assessment for CS-E 20(c) components, in normal and Failure cases [AMC E 20(3)], against [[CS-E 80|CS-E 80(c)]].
 - Installation assumptions package handed to the aircraft manufacturer [AMC E 20(4)], the same material [[CS-E 30]] requires.
-- Installation manual sections: control system interface descriptions, limitations and specifications [AMC E 20(5)]; EECS requirements on aircraft-supplied resources with adequacy substantiation [AMC E 20(6)]; all operational modes and their aircraft interface [AMC E 20(7)].
+- Installation manual sections: control system interface descriptions, limitations and specifications [AMC E 20(5)]; the specifications for the EECS on aircraft-supplied resources, with substantiation of their adequacy [AMC E 20(6)]; all operational modes and their aircraft interface [AMC E 20(7)].
 
 ### Power assurance data
 
