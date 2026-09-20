@@ -48,7 +48,7 @@ this rating set: `engine_profile.md` declares Rated 30-Second OEI Power and Rate
 
 The criterion links the over-torque test to the endurance programme. The short
 OEI ratings are substantiated by the additional test of
-[[CS-E 740|CS-E 740(c)(3)(iii)]], and [[CS-E 740|CS-E 740(i)(2)(iii)]] accepts
+[[CS-E 740|CS-E 740(c)(3)(iii)]]. [[CS-E 740|CS-E 740(i)(2)(iii)]] accepts
 that after that test the engine may show deterioration beyond what
 CS-E 740(i)(1) permits. CS-E 820 runs the opposite way: after an over-torque, the
 OEI capability must survive.

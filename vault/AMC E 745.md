@@ -33,9 +33,9 @@ cases on bleed: maximum bleed loads the engine thermally, while no bleed narrows
 the surge margin. A test run at one condition does not evidence the other.
 
 Point (3) has reach beyond this paragraph. It defines minimum test bed idle as
-the term is used "in CS-E 745(a) or other CS-E paragraphs" [AMC E 745(3)], so it
-governs wherever the term appears — including the endurance schedule of
-[[CS-E 740|CS-E 740(c)(3)(i)]] and the acceleration provisions of
+the term is used "in CS-E 745(a) or other CS-E paragraphs" [AMC E 745(3)]. It
+therefore governs wherever the term appears — including the endurance schedule
+of [[CS-E 740|CS-E 740(c)(3)(i)]] and the acceleration provisions of
 [[CS-E 740|CS-E 740(d)(1)(ii)]].
 
 Point (4) gives the reason a longer acceleration may be accepted: very large
@@ -73,8 +73,8 @@ of their rotors or other reasons" [AMC E 745(4)]. It does not say where any othe
 engine sits against that example, and the route is not restricted to the case it
 illustrates — the source adds "or other reasons".
 
-The dependency in point (2) on [[CS-E 740]] sets a sequence: the endurance test
-fixes the steady state and transient temperature values, and only then can an
+The dependency in point (2) on [[CS-E 740]] sets a sequence. The endurance test
+fixes the steady state and transient temperature values. Only then can an
 acceleration be judged to have produced an over-temperature.
 
 ## References

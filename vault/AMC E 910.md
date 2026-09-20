@@ -28,10 +28,10 @@ tags: [relight, in-flight-restart, rotor-lock, rapid-relight, flight-test]
 | **(3)(b)** | Where a demonstration through flight test is proposed, it should represent a set of conservative operating assumptions for the engine in terms of rotor-lock, or it should be supplemented by an analysis that satisfactorily addresses the conservative operating assumptions. | Accepted method |
 
 Point (1) says active coordination with the aircraft type-certificate applicant
-"is recommended". That is not one of the seven verbs CLAUDE.md maps, so the row
-is labelled Accepted method on the ground that an AMC recommending a practice is
-marking an accepted means: an applicant may proceed otherwise and justify it. The
-label is a reading, not a mapping.
+"is recommended". That is not one of the seven verbs CLAUDE.md maps. The row
+is therefore labelled Accepted method on the ground that an AMC recommending a
+practice is marking an accepted means: an applicant may proceed otherwise and
+justify it. The label is a reading, not a mapping.
 
 ### The two threats
 
@@ -68,15 +68,15 @@ by an analysis that covers the conservative assumptions [AMC E 910(3)(b)].
 
 ## Application to this engine
 
-The AMC applies. Rotor-lock is the part that bears hardest on a turboshaft: the
-gas generator spool and the free power turbine cool at different rates and the
-power turbine remains coupled to the rotor drive system, so its dwell condition
-after a shutdown differs from anything a turbofan sees.
+The AMC applies. Rotor-lock is the part that bears hardest on a turboshaft. The
+gas generator spool and the free power turbine cool at different rates, and
+the power turbine remains coupled to the rotor drive system. Its dwell
+condition after a shutdown therefore differs from anything a turbofan sees.
 
 **The rapid relight case is the OEI case.**
 On a multi-engine rotorcraft, a shutdown that is quickly reversed is precisely
 the event the OEI ratings cover on the remaining engine. The criterion in
-[AMC E 910(3)(a)] is that the returning engine adds no unnecessary delay, which
+[AMC E 910(3)(a)] is that the returning engine adds no unnecessary delay. This
 places the relight schedule inside the control system assessment of
 [[CS-E 50]] and alongside the power response requirements of [[CS-E 745]].
 

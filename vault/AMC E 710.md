@@ -36,13 +36,14 @@ rotor locking device is never a free substitution. It enters the type design, so
 every other engine-level obligation applies to it.
 
 Point (2) is the reason the substitution is not complete. A locking device that
-fails leaves the engine rotating with no CS-E 525 case made for it, so the device
-must be assessed for **all** possible Failure modes under [[CS-E 510]], including
-the opposite failure: activation when it was not commanded.
+fails leaves the engine rotating with no CS-E 525 case made for it. The device
+must therefore be assessed for **all** possible Failure modes under
+[[CS-E 510]], including the opposite failure: activation when it was not
+commanded.
 
 Point (3) addresses a specific hazard of rarely used equipment. The device sits
-unused through normal operation and must still work the one time it is needed,
-which is why [[CS-E 510|CS-E 510(e)]] and its dormant Failure provisions are the
+unused through normal operation and must still work the one time it is needed.
+This is why [[CS-E 510|CS-E 510(e)]] and its dormant Failure provisions are the
 governing route.
 
 Point (4) requires the lock to be reversible in flight, twice: unlock to attempt
@@ -65,16 +66,16 @@ The AMC applies only if a rotor locking device is incorporated. See the
 
 The decision is sharper here than on a fixed-wing installation.
 [[AMC E 525|AMC E 525(1)]] identifies clutch drag in a multi-engine rotorcraft as
-a source of continued rotation alongside windmilling, so the CS-E 525 case for
-this engine covers a driven mechanism as well as an aerodynamic one. A locking
-device removes the need for that case but replaces it with the device's own
-Failure modes, which point (2) requires to be assessed in full.
+a source of continued rotation alongside windmilling. The CS-E 525 case for
+this engine therefore covers a driven mechanism as well as an aerodynamic one.
+A locking device removes the need for that case but replaces it with the
+device's own Failure modes, which point (2) requires to be assessed in full.
 
 The restart provision in point (4) connects to [[CS-E 910]], relighting in
 flight. A locked rotor must be releasable for the relight attempt that CS-E 910
 substantiates, and re-lockable if the attempt fails.
 
-The maximum rotational torque in point (1) must consider damaged rotors, which
+The maximum rotational torque in point (1) must consider damaged rotors. This
 links to the blade loss work of [[CS-E 810]] and to the unbalance and continued
 rotation data required by [[CS-E 520|CS-E 520(c)(2)]].
 

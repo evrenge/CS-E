@@ -17,7 +17,7 @@ each file; nothing is a mirror or a third-party reprint.
 ## Role of each file
 
 - **CS-E Amendment 8** — the normative baseline. Current consolidated CS-E book,
-  Subparts A–F plus AMC. Every requirement quoted on a slide comes from here.
+  Subparts A–F plus AMC. Every requirement quoted in a note comes from here.
 - **CS-E Amendment 7** — the previous consolidated baseline. Provides verbatim
   "before" text for a changed paragraph, and allows a full-text Amdt 7 → Amdt 8
   diff as a cross-check on the change inventory.

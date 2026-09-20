@@ -51,11 +51,11 @@ The AMC applies. Nothing in it is restricted by engine type or rating.
 The drainage period is the link between the starting tests and the fire
 protection provisions. [[CS-E 130|CS-E 130(f)]] requires unintentional
 accumulation of hazardous quantities of flammable fluid within the engine to be
-prevented by draining and venting, and
-[[AMC E 130|AMC E 130(6)]] names "a combustor drain system which typically drains
-off residual fuel after an aborted Engine start" as an example of a part that may
-be exempt from the Fire Resistant specification, because it does not convey
-flammable fluid during normal operation.
+prevented by draining and venting.
+[[AMC E 130|AMC E 130(6)]] names "a combustor drain system which typically
+drains off residual fuel after an aborted Engine start" as an example of a
+part that may be exempt from the Fire Resistant specification. This is because
+it does not convey flammable fluid during normal operation.
 
 The False Start sequence is therefore a functional test of that drain system, and
 the declared drainage period is the operational limit that makes the exemption

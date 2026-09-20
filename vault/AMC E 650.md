@@ -22,9 +22,10 @@ tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, cor
 
 ### AMC E 650(1) — definitions
 
-The definitions are embedded as images. They are laid out as a table, and the
-corrected speed formula carries an empirical exponent that the text layer loses,
-so a transcription would be an unverifiable restatement under accuracy rule 6.
+The definitions are embedded as images. They are laid out as a table. The
+corrected speed formula carries an empirical exponent that the text layer
+loses. A transcription would therefore be an unverifiable restatement under
+accuracy rule 6.
 
 ![[AMC_E_650_p120.png]]
 ![[AMC_E_650_p121.png]]
@@ -33,8 +34,9 @@ The definitions matter beyond vocabulary. **Module** is defined so that a subset
 of stages isolated from a multi-stage compressor or turbine does not qualify,
 which fixes what "each rotor module" in [[CS-E 650|CS-E 650(b)]] means.
 **Significant Response** is defined against a level previously agreed with the
-Agency as giving acceptable margin under [[CS-E 70]] and [[CS-E 100]], so it is
-an agreed threshold rather than an absolute one. **Declared Flight Envelope**
+Agency as giving acceptable margin under [[CS-E 70]] and [[CS-E 100]]. It is
+therefore an agreed threshold rather than an absolute one. **Declared Flight
+Envelope**
 expressly includes start-up, shutdown and windmilling rotation in flight.
 
 ### AMC E 650(2) to (4) — intent, component selection, test conditions
@@ -90,7 +92,7 @@ agreement.
 Paragraph (6) explains why (g) exists as a separate sub-point. The concern is
 Faults whose vibration signature is **not recognised in time**, so that the
 engine keeps running and the Fault escalates. The worked example is the loss of
-an airfoil tip: the resulting out-of-balance may be indicated by the means of
+an airfoil tip. The resulting out-of-balance may be indicated by the means of
 [[CS-E 60]] and [[CS-E 510]] and still not be recognised as abnormal. Other named
 Faults are incorrectly scheduled compressor variables, stator vane blockages or
 enlargement, and blockages of fuel nozzles.
@@ -113,11 +115,11 @@ enlargement, and blockages of fuel nozzles.
 | **(8)(e)** | Ensure that the maximum stage inlet pressure at each physical speed is achieved, or that compensation is provided. | Accepted method |
 | **(8)(f)** | Include in the methods used to verify the absence of damaging flutter consideration of applicable combinations of: the ranges of physical and corrected rotational speeds for each rotor module; the simultaneous occurrence of maximum compressor inlet air total temperature and maximum corrected rotational speed; the range of compressor operating lines within the flight envelope; the most adverse of other compressor inlet air conditions within the flight envelope; and the hardware standard, the intake conditions and margins to account for engine deterioration. | Accepted method |
 
-Paragraph (8)(e) explains a result that is counter-intuitive and directly useful:
-where a turbine operates aerodynamically choked and the mass flow is set by the
-fixed blading geometry, corrected speed is essentially constant, and a lower
-corrected speed **increases** blading Mach number. Running up to 100 % of maximum
-mechanical speed then covers the worst forcing case.
+Paragraph (8)(e) explains a result that is counter-intuitive and directly
+useful. Where a turbine operates aerodynamically choked and the mass flow is
+set by the fixed blading geometry, corrected speed is essentially constant. A
+lower corrected speed then **increases** blading Mach number. Running up to
+100 % of maximum mechanical speed then covers the worst forcing case.
 
 ### AMC E 650(9) to (12) — material variation, dwell, transients, instrumentation
 
@@ -230,9 +232,9 @@ test are therefore not independent programmes.
 
 **Icing and rain and hail feed back into the stress margins.** (9)(b) requires
 the stress margin suitability criteria to account for icing, rain and hail
-effects "consistent with the corresponding certification test evidence", so
-[[CS-E 780]] and [[CS-E 790]] results are inputs to the CS-E 650(f) margin
-justification, not only to their own paragraphs.
+effects "consistent with the corresponding certification test evidence".
+[[CS-E 780]] and [[CS-E 790]] results are therefore inputs to the CS-E 650(f)
+margin justification, not only to their own paragraphs.
 
 [VERIFY: the threshold for a "significant response", previously agreed with the
 Agency. AMC E 650(1) defines the term by reference to that agreement, so the

@@ -21,10 +21,11 @@ tags: [contaminated-fuel, contaminant-table, water, icing, filter-blockage, carb
 
 ### AMC E 670(1)(a) — the solid contaminant specification
 
-The contaminant table is embedded as its source crops. It is laid out as a table,
-and the chemical formulas carry subscripts that the text layer destroys —
-Fe₃O₄ extracts as "Fe 3 0 4", with a digit zero in place of the oxygen — so a
-transcription would be an unverifiable restatement under accuracy rule 6.
+The contaminant table is embedded as its source crops. It is laid out as a
+table. The chemical formulas carry subscripts that the text layer destroys —
+Fe₃O₄ extracts as "Fe 3 0 4", with a digit zero in place of the oxygen. A
+transcription would therefore be an unverifiable restatement under accuracy
+rule 6.
 
 ![[AMC_E_670_p131.png]]
 ![[AMC_E_670_p132.png]]
@@ -56,7 +57,7 @@ rather than universal.
 
 The two contamination rates are different and both matter. The **test** runs at
 4.5 g per 4 500 litres — nine times the 0.5 g per 4 500 litres rate that defines
-"normal operation" — and the test duration is set so that the total contaminant
+"normal operation". The test duration is set so that the total contaminant
 mass equals 500 service hours at the normal rate. The test is accelerated by
 concentration, not by time.
 
@@ -112,8 +113,8 @@ permission in (1)(c) to clean or replace filters for the remainder of the test
 applies only after the continued-operation demonstration is complete.
 
 **Transient fuel icing appears here as well as in the fuel system paragraph.**
-Point (3) routes it to [[AMC E 560|AMC E 560(4)]], where the ice originates in
-the aircraft fuel system and the threat assessment belongs to the aircraft
+Point (3) routes it to [[AMC E 560|AMC E 560(4)]]. There, the ice originates in
+the aircraft fuel system, and the threat assessment belongs to the aircraft
 manufacturer in the first instance. The same open item applies: assess the threat,
 or declare that no capability has been demonstrated.
 

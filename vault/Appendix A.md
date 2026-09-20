@@ -26,7 +26,7 @@ tags: [rain, hail, concentrations, rwc, hwc, droplet-size, hailstone-size, altit
 Appendix A is unnumbered prose followed by a figure and four tables, so the `Ref`
 cells carry no sub-point identifier.
 
-The substitution permission is broad and its single condition is strict: any
+The substitution permission is broad, but its single condition is strict. Any
 shape, size or distribution may be used, including a single size, provided the
 severity of the test is not reduced. The burden is on showing that, not on
 matching the tables.
@@ -37,16 +37,17 @@ represent ambient conditions, not test conditions at the Engine inlet". The
 amplification between ambient and inlet is what the scoop factor and relative
 velocity analysis of AMC E 790(a)(2) exists to quantify.
 
-The appendix notes its own data source and its unit choice: the values come from
-the Aerospace Industries Association Propulsion Committee Study, Project PC 338-1,
-June 1990, and "The unit for altitude has been kept as "feet" to be consistent
-with the source of data. This is compatible with Annex 5 of ICAO." [Appendix A]
+The appendix notes its own data source and its unit choice. The values come
+from the Aerospace Industries Association Propulsion Committee Study, Project
+PC 338-1, June 1990. "The unit for altitude has been kept as "feet" to be
+consistent with the source of data. This is compatible with Annex 5 of ICAO."
+[Appendix A]
 
 ## The figure and tables
 
 The figure and all four tables are embedded as their source crops. They are
-tabulated numerical data and a plotted chart, and accuracy rule 6 applies:
-a transcription could not be checked against the source, and the extracted text
+tabulated numerical data and a plotted chart, so accuracy rule 6 applies. A
+transcription could not be checked against the source, and the extracted text
 layer flattens the table structure into a single column of unlabelled numbers.
 
 ### Figure A1 — Illustration of Rain and Hail Threats
@@ -93,15 +94,16 @@ static rain ingestion test of [[CS-E 790|CS-E 790(b)]] to replace it for
 rotorcraft applications.
 
 If the CS-E 790(b) alternative is taken, the concentration used is the
-specification's own 4 percent water droplet flow to airflow by weight, and these
-tables are not the test input. They remain relevant in two ways. The 4 percent
-figure is stated in
+specification's own 4 percent water droplet flow to airflow by weight. These
+tables are then not the test input. They remain relevant in two ways. The
+4 percent figure is stated in
 [[AMC E 790|AMC E 790(a)(2)(2)(d)]] as an increase "from Appendix A values" that
 "will usually compensate for any flight effects", so the tables are the baseline
 the alternative is calibrated against. Figure A1, embedded above, is where the
-4 percent condition can be read against the ambient threat; the source describes
-it only as an "Illustration of Rain and Hail Threats" [Appendix A], so what it
-plots is not stated in the text layer and is not restated here.
+4 percent condition can be read against the ambient threat. The source
+describes it only as an "Illustration of Rain and Hail Threats" [Appendix A].
+What it plots is therefore not stated in the text layer, and is not restated
+here.
 
 The altitude range of the tables runs to 46 000 feet, far above a rotorcraft
 envelope. The CS-E 790(a)(1) hailstone ingestion is separately bounded at

@@ -53,13 +53,14 @@ credit — is made against it.
 The AMC then lists what it means by each term.
 
 **Engine design factors**, to the extent that they contribute to the system
-dynamics of the engine: mechanical size and stiffness, static structure, dynamics
-of engine, bearing arrangement, number of structural frames, arrangement of
-mounting to aircraft, number of compression and turbine stages, changes to engine
-control system architecture such as supervisory to full authority type or
-analogue to digital, changes to installation such as service bleed and power
-extraction, and new technology in design, materials or manufacturing processes.
-The list is not closed [AMC E 930(c)].
+dynamics of the engine, are: mechanical size and stiffness, static structure,
+dynamics of engine, bearing arrangement, number of structural frames,
+arrangement of mounting to aircraft, and number of compression and turbine
+stages. They further include changes to engine control system architecture
+such as supervisory to full authority type or analogue to digital, changes to
+installation such as service bleed and power extraction, and new technology in
+design, materials or manufacturing processes. The list is not closed
+[AMC E 930(c)].
 
 **System dynamics of the engine** are the vibratory response signature, meaning
 system critical frequencies and amplitudes. These can be a function of engine
@@ -222,8 +223,9 @@ post-flight inspection regime of [[CS-E 25|CS-E 25(b)(2)]].
 
 **The CS-E 25(b)(2) credit is worth designing the test around.**
 [AMC E 930(d)(5)(iii)] permits the IMP test results to be used in showing
-compliance with [[CS-E 25|CS-E 25(b)(2)]] for OEI power availability at the end
-of the fixed engine overhaul period. [[CS-E 25|CS-E 25(b)(2)]] otherwise requires
+compliance with [[CS-E 25|CS-E 25(b)(2)]]. This applies to OEI power
+availability at the end of the fixed engine overhaul period.
+[[CS-E 25|CS-E 25(b)(2)]] otherwise requires
 an in-service engine evaluation programme with service engine tests or equivalent
 experience. Taking the credit means the OEI power availability demonstration must
 be planned into the IMP test cycle and its post-test power calibration.

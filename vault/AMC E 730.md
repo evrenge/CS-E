@@ -66,10 +66,11 @@ the typical calibration parameters, which is what a turboshaft calibration is
 built on. Thrust and EPR are listed in the same sentence and do not apply here.
 
 **The timing matters.** The curves are established before the OEI endurance
-sequence of [[CS-E 740|CS-E 740(c)(3)(iii)]], so the calibration baseline is taken
-from an engine that has not yet been run at the short OEI ratings. That is the
-point of the relief: the ratings that would change the hardware are kept out of
-the measurement that the endurance comparison depends on.
+sequence of [[CS-E 740|CS-E 740(c)(3)(iii)]]. The calibration baseline is
+therefore taken from an engine that has not yet been run at the short OEI
+ratings. That is the point of the relief: the ratings that would change the
+hardware are kept out of the measurement that the endurance comparison depends
+on.
 
 ## References
 

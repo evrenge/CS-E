@@ -31,8 +31,8 @@ remain achievable. An engine may pass a strip inspection and still have lost
 margin at 30-Second OEI Power, and that would not satisfy the paragraph.
 
 The wording is parallel to [[AMC E 820]] for the over-torque test, differing
-only in the CS reference and the event named, so the two
-over-limit tests share one acceptance standard.
+only in the CS reference and the event named. The two over-limit tests
+therefore share one acceptance standard.
 
 ## Compliance
 
@@ -45,10 +45,10 @@ The AMC applies wherever [[CS-E 830]] is elected, and it names the two ratings
 this engine declares.
 
 The criterion has a practical consequence for the over-limit ratings as a group.
-A declared Maximum Engine Over-speed is one of the three limits the usage-counting
-relief at [[AMC E 60|AMC E 60(d)(5)]] is conditioned on, and this AMC is what makes
-that declaration worth having: an over-speed limit the engine cannot survive with
-its OEI ratings intact would not pass CS-E 830(c).
+A declared Maximum Engine Over-speed is one of the three limits the
+usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] is conditioned on. This
+AMC is what makes that declaration worth having: an over-speed limit the
+engine cannot survive with its OEI ratings intact would not pass CS-E 830(c).
 
 The short OEI ratings are excluded from the test conditions themselves:
 [[CS-E 830|CS-E 830(b)(2)]] sets the turbine entry gas temperature from

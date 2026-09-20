@@ -30,7 +30,7 @@ covers: ["AMC E 790", "AMC E 790(a)(1)", "AMC E 790(a)(2)"]
 | **(4)** | "Rapid acceleration" and "rapid deceleration" in CS-E 790(b)(2) and (b)(4) should be interpreted as meaning a throttle movement in not more than one second. | Accepted method |
 | **(5)** | If the engine is certified on the assumption that the protection device considered under CS-E 790(d) is provided by the aircraft installation, and compliance with CS-E 790(a) to (c) is waived, the engine approval would be endorsed accordingly, and the engine instructions for installation would need to impose the conditions of CS-E 790(d)(1) to (3) on the installation. | Statement |
 
-Point (4) is the only one that supplies a value rather than a pointer, and it is
+Point (4) is the only one that supplies a value rather than a pointer. It is
 the value that makes the CS-E 790(b) test reproducible: the deceleration and
 acceleration are one-second movements, the same rate as
 [[CS-E 745|CS-E 745(a)(2)]].
@@ -48,8 +48,8 @@ endorsed and the conditions become installation obligations.
 | **(a)(1)** | This 10 % variation in the critical impact parameters should not be assumed to be a direct tolerance on the applicant's proposed changes to the Take-off Power or to the thrust ratings themselves. | Accepted method |
 
 The critical impact parameter is described as often associated with the impact
-load at the point of contact between the hail and the rotor blade, generally a
-function of impact speed, rotor speed and blade twist angle
+load at the point of contact between the hail and the rotor blade. It is
+generally a function of impact speed, rotor speed and blade twist angle
 [AMC E 790(a)(1)].
 
 The closing sentence forestalls a misreading that would otherwise be natural: the
@@ -112,9 +112,9 @@ because a description of a vector diagram cannot be checked against the source.
 | **(a)(2)(2)(d)** | Increasing the ambient rain concentration from Appendix A values to 4 percent water droplet flow to airflow, by weight, will usually compensate for any flight effects. | Statement |
 
 This paragraph is the justification for the whole CS-E 790(b) alternative. Two
-physical arguments carry it: the scoop factor amplification that dominates the
-aeroplane case is small for a rotorcraft, and the centrifuging that a fan
-provides is absent, so a static test is not unrepresentative. The 4 percent
+physical arguments carry it. The scoop factor amplification that dominates the
+aeroplane case is small for a rotorcraft. The centrifuging that a fan provides
+is also absent. A static test is therefore not unrepresentative. The 4 percent
 concentration is what substitutes for the flight effects.
 
 ### AMC E 790(a)(2)(4) — critical point analysis
@@ -222,7 +222,7 @@ on **sustained loss** measured against the primary power setting parameter. The
 and it is conditional on the 3 percent criterion already being met.
 
 The self-arresting allowance is precise: a momentary event that recovers without
-operational intervention is acceptable, which is why
+operational intervention is acceptable. This is why
 [[CS-E 790|CS-E 790(a)(2)]] and (b) both forbid "continued or non-recoverable"
 surge or stall rather than any surge at all.
 
@@ -248,9 +248,10 @@ surge or stall rather than any surge at all.
 AMC E 790(a)(2)(2)(d) permits the CS-E 790(a)(2) testing to be
 replaced by the static rain ingestion test of [[CS-E 790|CS-E 790(b)]] for
 rotorcraft applications. Two physical arguments support it, and both are
-turboshaft properties rather than choices: the scoop factor effect is small
-because rotorcraft fly slower and hold proportionately higher engine power during
-descent, and the engine has no fan to centrifuge water away from the core.
+turboshaft properties rather than choices. The scoop factor effect is small
+because rotorcraft fly slower and hold proportionately higher engine power
+during descent. The engine also has no fan to centrifuge water away from the
+core.
 
 The consequence is that the critical point analysis of
 AMC E 790(a)(2)(4) — a two-step procedure requiring Agency
@@ -268,8 +269,8 @@ rain ingestion criteria depends on an automatic protection system, its
 availability "is considered to be critical for dispatch"
 [AMC E 790(a)(2)(5)(c)(vi)]. [[AMC E 720]] already names ice ingestion and the
 icing specifications as reasons a continuously operated ignition system may be
-necessary, so the same system could carry both duties — and the dispatch
-consequence with them.
+necessary. The same system could therefore carry both duties — and the
+dispatch consequence with them.
 
 **Avoiding transients is not a compliance argument.**
 AMC E 790(a)(2)(3)(c)(ii) is explicit that avoidance of throttle

@@ -26,10 +26,10 @@ tags: [performance-correction, formulae, notation, isa]
 | **(3)** | Suffix 'o' denotes an observed result, corrected for instrument temperature and scale errors only. Suffix 'c' denotes a result corrected to the standard atmospheric pressure and temperature conditions of CS-E 620. | Statement |
 
 The formulae are reproduced here as images. The text layer renders a fraction as
-two separate lines with nothing to mark the division, and it loses the extent of
-a square root: the rotational speed correction extracts as text suggesting
-√288 divided by θ, where the source shows the square root taken over the whole
-ratio 288/θ. A transcription would therefore be an unverifiable restatement, so
+two separate lines, with nothing to mark the division. It also loses the extent
+of a square root. The rotational speed correction extracts as text suggesting
+√288 divided by θ. The source shows the square root taken over the whole ratio
+288/θ. A transcription would therefore be an unverifiable restatement, so
 accuracy rule 6 applies.
 
 ### Gas pressures, gas temperatures and rotational speed
@@ -79,9 +79,9 @@ The AMC applies. The formulae are not engine-type specific.
 
 **The power correction is the one that governs here.** A turboshaft is rated in
 power, so the power formula on page 117 is the operative one and the thrust
-formula does not apply. Both are given in the source and both are shown above:
-the thrust formula corrects on pressure alone, while the power formula corrects
-on pressure and on the square root of the temperature ratio. The distinction is
+formula does not apply. Both are given in the source and both are shown above.
+The thrust formula corrects on pressure alone. The power formula corrects on
+pressure and on the square root of the temperature ratio. The distinction is
 the reason the two cannot be substituted for one another.
 
 **The control system qualifier matters for a FADEC engine.** Paragraph (1)
@@ -93,7 +93,7 @@ hold, the AMC's own escape applies: more accurate or additional corrections,
 agreed with the Agency.
 
 The corrections feed the calibration test of [[CS-E 730]] and the declared
-ratings of [[CS-E 40]], and the instrument accuracy that bounds them is required
+ratings of [[CS-E 40]]. The instrument accuracy that bounds them is required
 by [[CS-E 60|CS-E 60(b)]] and [[CS-E 150|CS-E 150(f)]].
 
 ## References

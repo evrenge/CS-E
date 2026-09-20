@@ -31,14 +31,15 @@ The test the relief must pass is unusual and worth stating precisely. The
 applicant does not have to show that omitting bleed is harmless; the applicant
 has to show that the engine's ability to pass the strip examination "is not
 enhanced" [AMC E 690]. Running without bleed must not make the engine's job
-easier. That is a one-sided criterion, and it is why both named effects matter:
-removing bleed extraction returns cooling air to the secondary air system, and it
-changes the relationship between gas generator speed and output shaft speed.
+easier. That is a one-sided criterion, and it is why both named effects matter.
+Removing bleed extraction returns cooling air to the secondary air system. It
+also changes the relationship between gas generator speed and output shaft
+speed.
 
-The relief is the accepted means for [[CS-E 690|CS-E 690(a)(3)(ii)]], which
-states that an air bleed extraction need not be used during the four test
-sequences of [[CS-E 740|CS-E 740(c)(3)(iii)]] where it is shown that the validity
-of the test is not compromised.
+The relief is the accepted means for [[CS-E 690|CS-E 690(a)(3)(ii)]]. That
+paragraph states that an air bleed extraction need not be used during the four
+test sequences of [[CS-E 740|CS-E 740(c)(3)(iii)]], where it is shown that the
+validity of the test is not compromised.
 
 ## Compliance
 
@@ -60,9 +61,9 @@ than around thrust.
 
 The thermodynamic effect the analysis must cover is stated in turboshaft terms as
 well: "gas generator speed to output shaft speed changes" [AMC E 690]. Removing
-bleed shifts that relationship, so the same shaft speed no longer corresponds to
-the same gas generator condition, and the severity the endurance sequence was
-meant to impose can change.
+bleed shifts that relationship. The same shaft speed no longer corresponds to
+the same gas generator condition. The severity the endurance sequence was
+meant to impose can then change.
 
 The strip examination that the criterion is measured against is
 [[CS-E 740|CS-E 740(i)(2)]], and the bleed provisions that this AMC supports are

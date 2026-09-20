@@ -37,9 +37,10 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 | **(c)(2)(i)(d)** | No specific maintenance action is normally expected following use of the 30-Minute Power rating. This will be justified through compliance with CS-E 740(i)(1). | Statement |
 
 Point (c) is the one to plan around. Up to half the 25 hours may be run at
-mechanical limitations rather than thermal limits, but only where the engine's
-intended usage genuinely puts it there, and only with a substantiated proposal
-that then becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
+mechanical limitations rather than thermal limits. This is allowed only where
+the engine's intended usage genuinely puts it there, and only with a
+substantiated proposal that then becomes an installation assumption under
+[[CS-E 30|CS-E 30(a)]].
 
 ### AMC E 740(c)(3) — running the additional OEI test
 
@@ -164,7 +165,7 @@ test, the recorder and the maintenance manual form one chain.
 **Multi-spool supplementary testing depends on the architecture.**
 AMC E 740(f)(1) applies where the maximum rotational speed of each
 spool cannot be obtained simultaneously at sea-level test bed conditions. A free
-power-turbine turboshaft has a gas generator spool and a power turbine, and
+power-turbine turboshaft has a gas generator spool and a power turbine.
 [[CS-E 740|CS-E 740(f)(3)]] already requires additional running where the
 requisite periods are not run at the maximum power-turbine torque sought.
 

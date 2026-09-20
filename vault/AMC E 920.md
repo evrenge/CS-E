@@ -45,7 +45,7 @@ test, during shutdown, and during the subsequent strip examination. A Failure
 that only becomes evident on strip is inside the criterion.
 
 The last sentence is a double negative in the source and is easy to misread. Its
-effect is this: a Failure does not automatically fail the test, but the applicant
+effect is this: a Failure does not automatically fail the test. The applicant
 must establish that its cause would not prevent the OEI rating structure from
 being satisfactorily achieved in service.
 
@@ -72,7 +72,7 @@ fixed.
 
 **The deteriorated-engine datum makes the test hotter.**
 Assuming a deteriorated condition under [AMC E 920(1)] raises the absolute
-turbine entry gas temperature at which the operating limit is reached, and the
+turbine entry gas temperature at which the operating limit is reached. The
 42 °C and 19 °C margins of [[CS-E 920]] are then added to it. The choice is
 conservative, and it is the one the AMC points to.
 

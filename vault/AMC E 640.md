@@ -59,12 +59,12 @@ include", so it does not bound the population.
 | **(3)** | During pressure testing, make the methods of mounting and restraint by the test facility or test equipment of any critical section such as to simulate the actual conditions occurring on the engine. | Accepted method |
 | **(4)** | An analytical modelling method may be used to determine adequate strength and fatigue life, provided that the model is validated by testing or successful field experience with parts of similar design. | Permitted |
 
-The zoning permission in (2) is a practical relief for long parts, and it carries
+The zoning permission in (2) is a practical relief for long parts. It carries
 its own condition: the maximum pressure for each zone must still include the
 CS-E 640(a) factors. Zoning reduces the test rig, not the margin.
 
 Paragraph (4) extends the analytical route to **fatigue life**, not only to
-strength, which is why the same text appears in
+strength. This is why the same text appears in
 [[AMC E 515|AMC E 515(3)(e)(iii)]] for static pressure loaded parts.
 
 ## Compliance
@@ -86,10 +86,10 @@ system.
 **The OEI ratings raise the test levels.** The source names "use of OEI ratings" among the
 most adverse operational conditions that define both the maximum working pressure
 and the maximum possible pressure [AMC E 640(1)]. Since this engine declares
-30-Second OEI, 2-Minute OEI and Continuous OEI, the pressures those ratings
-produce enter both definitions, and therefore both the (a)(1) and the (a)(2)
-levels of [[CS-E 640]]. Omitting the OEI ratings from the pressure survey would
-understate both test levels.
+30-Second OEI, 2-Minute OEI and Continuous OEI. The pressures those ratings
+produce enter both definitions. They therefore also enter both the (a)(1) and
+the (a)(2) levels of [[CS-E 640]]. Omitting the OEI ratings from the pressure
+survey would understate both test levels.
 
 **Maximum possible pressure depends on the control system.** The definition
 includes "Failure of any relevant parts of the Engine or control system, or
@@ -99,8 +99,8 @@ the Extremely Remote classification comes from the safety analysis of
 [[CS-E 510]] and [[CS-E 50|CS-E 50(d)]]. The pressure survey therefore depends on
 a completed safety analysis, not only on a performance model.
 
-The named example parts include fuel and oil system components, which ties this
-AMC to [[CS-E 560]] and [[CS-E 570]], and the un-pressurised oil tank case of
+The named example parts include fuel and oil system components. This ties the
+AMC to [[CS-E 560]] and [[CS-E 570]]. The un-pressurised oil tank case of
 [[CS-E 570|CS-E 570(f)(1)]] is tested at 35 kPa — the same increment that appears
 in both CS-E 640 levels.
 

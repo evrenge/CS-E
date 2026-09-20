@@ -44,7 +44,7 @@ circumstances.
 The AMC applies. Nothing in it is restricted by engine type or rating.
 
 Two of the three examples reach this engine directly. Ice ingestion and
-compliance with the icing specifications both route to [[CS-E 780]], and the
+compliance with the icing specifications both route to [[CS-E 780]]. The
 freedom from dangerous surge and instability that [[CS-E 500|CS-E 500(a)]]
 requires has to hold through those conditions. Where continuous ignition is what
 makes that possible, CS-E 720 becomes part of the icing compliance argument
@@ -52,9 +52,9 @@ rather than an independent paragraph.
 
 Water and slush ingestion at take-off is written for a runway take-off. The
 equivalent exposure for a rotorcraft is the rain and hail ingestion of
-[[CS-E 790]] and the water spray conditions that arise in operation, so the
-assessment is made against this installation rather than against the example as
-worded.
+[[CS-E 790]] and the water spray conditions that arise in operation. The
+assessment is therefore made against this installation rather than against the
+example as worded.
 
 The system's hardware obligations sit in [[CS-E 500|CS-E 500(c)]] for the igniter
 system itself and in [[CS-E 80]] for the equipment.

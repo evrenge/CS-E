@@ -54,10 +54,10 @@ is what makes the declaration worth having: an over-temperature limit the engine
 cannot survive with its OEI ratings intact would not pass CS-E 870(a)(3).
 
 Turbine condition after the 15-minute exposure of [[CS-E 870|CS-E 870(b)(1)]]
-is the governing evidence. The AMC does not say which damage mechanisms matter,
-so the strip criteria are established by the applicant and read together with the
-Engine Critical Part life substantiation of [[CS-E 515]] and the turbine rotor
-temperature work of [[CS-E 860]].
+is the governing evidence. The AMC does not say which damage mechanisms
+matter. The strip criteria are therefore established by the applicant and read
+together with the Engine Critical Part life substantiation of [[CS-E 515]] and
+the turbine rotor temperature work of [[CS-E 860]].
 
 ## References
 

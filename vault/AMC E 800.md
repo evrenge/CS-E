@@ -63,9 +63,9 @@ this engine is the closing sentence, which is written for every design:
 identified and understood prior to any demonstration" [AMC E 800(2)(a)].
 
 Point (2)(d) is written for this engine type. A turboshaft on a test bed is
-coupled to a dynamometer or water brake rather than to a rotor system, and the
-AMC requires the difference in response characteristics to be monitored and used
-to predict the installed behaviour.
+coupled to a dynamometer or water brake rather than to a rotor system. The
+AMC requires the difference in response characteristics to be monitored and
+used to predict the installed behaviour.
 
 ### AMC E 800(3) — impact, ingestion and first stage rotor blades
 
@@ -78,8 +78,8 @@ to predict the installed behaviour.
 The three definitions separate what [[CS-E 800|CS-E 800(f)]] evaluates from what
 [[CS-E 800|CS-E 800(b)]] tests. A bird that strikes the nose cone, guide vanes or
 a protection device without reaching the rotating blades is an impact, not an
-ingestion — but the first stage rotor blades count as part of the front of the
-engine, so they appear in both.
+ingestion. The first stage rotor blades, however, count as part of the front
+of the engine. They therefore appear in both.
 
 ### AMC E 800(4) — general
 
@@ -112,9 +112,10 @@ Sub-point (4)(f) is the condition set on a waiver this engine may want.
 to be waived "if it can be shown by test or analysis that the specifications of
 CS-E 810(a) are more severe" [CS-E 800(g)(2)], so the blade Failure test of
 [[CS-E 810]] stands in its place. Where that route is taken,
-(4)(f) says the demonstration should include consideration of unbalance, as well
-as the effects of the axial loading from the bird strike on bearings or other
-structures — two effects the CS-E 810 test does not otherwise produce.
+(4)(f) says the demonstration should include consideration of unbalance. It
+should also cover the effects of the axial loading from the bird strike on
+bearings or other structures — two effects the CS-E 810 test does not
+otherwise produce.
 
 ## Compliance
 
@@ -138,9 +139,9 @@ serving CS-E 800(c), (d) and (e) do not, and are recorded below.
 AMC E 800(2)(a) names fan blade leading edge stress for most modern turbofans and
 a core feature for turboprop and turbojet engines. It says nothing about a
 turboshaft. The obligation that does reach this engine is the one that applies
-"regardless of the Engine design": the most limiting parameter is identified and
-understood prior to any demonstration, which the AMC makes a precondition rather
-than a result.
+"regardless of the Engine design": the most limiting parameter is identified
+and understood prior to any demonstration. The AMC makes this a precondition
+rather than a result.
 
 [VERIFY: which feature is the critical impact parameter for this engine.
 AMC E 800(2)(a) assigns one to turbofan, turboprop and turbojet engines and not
@@ -158,14 +159,14 @@ constructor.
 **Automatic systems become dispatch-critical.** The same consequence appears in
 [[AMC E 790|AMC E 790(a)(2)(5)(c)(vi)]] for rain and hail. If an auto surge
 recovery or continuous ignition system is relied on to pass a bird ingestion
-test, its availability has to be addressed in the dispatch documentation, which
+test, its availability has to be addressed in the dispatch documentation. This
 feeds the safety analysis of [[CS-E 510]] and the manuals of [[CS-E 25]].
 
 **The OEI relief in (4)(a) confirms the reading of the tests.** Any OEI ratings
 do not have to be taken into account for CS-E 800(d) compliance. That sub-point
-is relieved for this engine by [[CS-E 800|CS-E 800(g)(7)]] in any case, but the
-statement confirms that the bird tests are run against the all-engines-operating
-ratings rather than the OEI ones.
+is relieved for this engine by [[CS-E 800|CS-E 800(g)(7)]] in any case. The
+statement nonetheless confirms that the bird tests are run against the
+all-engines-operating ratings rather than the OEI ones.
 
 ## Not applicable
 

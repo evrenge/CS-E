@@ -58,9 +58,9 @@ is first adjusted for temperature, material properties and tolerances, and the
 percentage factor is applied **after** that — not to the nominal rating speed.
 
 Point (2)(i) is the only place that says how long "safe operation" must last
-after an over-speed. It is not a fixed period: it is either the time to recognise
-and shut down, or the time for continued safe flight and landing, and the
-operational instructions may determine it.
+after an over-speed. It is not a fixed period. It is either the time to
+recognise and shut down, or the time for continued safe flight and landing.
+The operational instructions may determine it.
 
 ### AMC E 840(3) — acceptable means of compliance
 
@@ -72,8 +72,8 @@ operational instructions may determine it.
 | **(3)(d)** | Any test may be continued to rotor burst after the required time duration by increasing the speed until the rotor bursts, provided the sample rotor was initially run at conditions not less severe than those required for compliance with CS-E 840(a), and CS-E 840(d) can be complied with using an approved analytical modelling method. | Permitted |
 
 The 96 % concession in (3)(b) is narrow and carries two conditions. It is
-available only where a **rating-based** condition, (b)(1) or (b)(2), is the most
-critical; and the reduced condition must still exceed what the Failure-based
+available only where a **rating-based** condition, (b)(1) or (b)(2), is the
+most critical. The reduced condition must still exceed what the Failure-based
 conditions would require, with a validated burst prediction covering the gap.
 
 ### AMC E 840(4) to (5) — test conditions and Failure cases
@@ -118,27 +118,28 @@ leaves the power turbine with gas energy and no absorber. The four factors the
 AMC names — system inertia, available gas energy, whether the rotor is held in
 plane, and over-speed protection devices — are exactly what determines how fast
 the free turbine runs away. Sub-point (2)(f) adds the character of the event:
-high rates of acceleration and deceleration with no dwell at the peak, which is
+high rates of acceleration and deceleration with no dwell at the peak. This is
 why [[CS-E 840|CS-E 840(a)]] allows the transient duration rather than five
 minutes in that case.
 
 **Over-speed protection is part of the answer.** Whatever limits the runaway —
 a control system function, a mechanical limiter, or deliberate blade shedding —
 enters the (5) determination. For a full-authority EECS the protection is a
-control function, assessed under [[CS-E 50]] and verified under [[CS-E 170]],
-which [[AMC E 170]] names as the place an over-speed protection system or torque
-limiter gets tested because the endurance schedule will not exercise it.
+control function, assessed under [[CS-E 50]] and verified under [[CS-E 170]].
+[[AMC E 170]] names this as the place an over-speed protection system or
+torque limiter gets tested, because the endurance schedule will not exercise
+it.
 
 **The 96 % concession is unlikely to help here.** It applies only where a
 rating-based condition is most critical. With a free power turbine exposed to
 loss of load, the Failure-based conditions of (b)(3) and (b)(4) are the more
-likely drivers, and the concession explicitly requires the reduced test condition
+likely drivers. The concession explicitly requires the reduced test condition
 still to exceed them.
 
 **Similarity may reduce the test count.** Point (2)(j) permits testing only the
 most critical rotor where a group is of similar design, same material
-specification and similar stress, temperature and gradient conditions — but burst
-speeds must still be determined for every rotor in the group, and the most
+specification and similar stress, temperature and gradient conditions. Burst
+speeds must still be determined for every rotor in the group. The most
 critical for burst may not be the most critical for growth.
 
 ## Not applicable

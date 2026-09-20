@@ -49,9 +49,9 @@ the inclination range and manoeuvre set that [[CS-E 680]] must be demonstrated
 against remain assumptions under [[CS-E 30]].
 
 The supplementary rig or running route is the one available at engine level. It
-connects to the test conduct rules of [[CS-E 140]] and [[CS-E 150]], and to the
-attitude provision of [[CS-E 600|CS-E 600(e)]], which already requires tests to
-be made normally in the installed attitude.
+connects to the test conduct rules of [[CS-E 140]] and [[CS-E 150]]. It also
+connects to the attitude provision of [[CS-E 600|CS-E 600(e)]], which already
+requires tests to be made normally in the installed attitude.
 
 ## References
 

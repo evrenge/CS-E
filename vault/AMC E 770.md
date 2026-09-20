@@ -47,15 +47,15 @@ declaration is a package rather than a single number.
 Both provisions apply. Neither is restricted by engine type or rating.
 
 The warm-up and taxi temperature is worth declaring for a rotorcraft operating
-from cold sites, because it separates three distinct operations that
-[[CS-E 770]] would otherwise leave at two limits: starting, and selecting
-Take-off Power. What governs opening up from ground idle in the absence of the
-declaration is not stated in either paragraph.
+from cold sites. It separates three distinct operations that [[CS-E 770]] would
+otherwise leave at two limits: starting, and selecting Take-off Power. What
+governs opening up from ground idle in the absence of the declaration is not
+stated in either paragraph.
 
-The intake air relief keeps the test practical. Only the carcass and oil are cold
-soaked, which matches how the engine is found in service after a cold night
-rather than how it behaves in flight in cold air — the in-flight case is covered
-by the icing conditions of [[CS-E 780]] and the relighting envelope of
+The intake air relief keeps the test practical. Only the carcass and oil are
+cold soaked. This matches how the engine is found in service after a cold
+night, rather than how it behaves in flight in cold air. The in-flight case is
+covered by the icing conditions of [[CS-E 780]] and the relighting envelope of
 [[CS-E 910]].
 
 The declared temperatures feed the oil system work of [[CS-E 570]] and the fuel
