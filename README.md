@@ -117,10 +117,18 @@ amendment.
 
 ## Limits
 
-`review/dead_ends.md` lists **145 distinct dead ends** — points where a reader
-following a reference leaves the vault and cannot come back with an answer. Most
-are references to documents EASA cites and this repository does not hold: Part 21,
-the AMC 20 series, CS-Definitions, CS-23/25/27/29, CS-34, FAA material and
-industry standards. `scripts/external_refs.py` finds 45 distinct external
-references across 8 families mechanically. Neither list is a defect; both are the
-boundary of what these notes can answer.
+`review/dead_ends.md` inventories the dead ends — points where a reader following
+a reference leaves the vault and cannot come back with an answer. They fall into
+three kinds: documents EASA cites and this repository does not hold, terms CS-E
+uses and defines nowhere, and engine information the applicant has not yet
+declared.
+
+Two figures, and they count different things. `scripts/external_refs.py` derives
+**45 distinct external references across 8 families** — Part 21, the AMC 20
+series, CS-Definitions, CS-23/25/27/29, CS-34, FAA material and industry
+standards. That one regenerates. The count of dead ends in `dead_ends.md` is the
+reviewer's own deduplication across all three kinds, which is a judgement, not a
+derivation; take the document's structure as the authority rather than any single
+number.
+
+Neither list is a defect. Both are the boundary of what these notes can answer.
