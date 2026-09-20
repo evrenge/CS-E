@@ -9,14 +9,14 @@ tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, cor
 # AMC E 650 — Vibration Surveys
 
 > [!summary]
-> One of the longest AMCs in Subpart E. It defines the vocabulary the specification uses,
-> then works through component selection, test conditions, environmental effects,
-> Fault conditions, inlet distortion, flutter, material and frequency variation,
-> dwell testing, transient response, installation compatibility and the
-> baseline-test plus validated-analysis route. Two provisions permit the required
-> test speeds to be reduced with Agency agreement, and one makes the test-analysis
-> equivalence explicit: a baseline test plus validated analysis is equivalent to a
-> new test.
+> One of the longest AMCs in Subpart E. It defines the vocabulary the
+> specification uses, then works through component selection, test conditions,
+> environmental effects, Fault conditions, inlet distortion, flutter, material
+> and frequency variation, dwell testing, transient response, installation
+> compatibility and the baseline-test plus validated-analysis route. Two
+> provisions permit the required test speeds to be reduced with Agency
+> agreement, and one makes the test-analysis equivalence explicit: a baseline
+> test plus validated analysis is equivalent to a new test.
 
 ## Requirement
 

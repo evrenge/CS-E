@@ -18,9 +18,9 @@ and the cut is recorded.
 | Applicability decided | **145 / 145** in-scope paragraphs |
 | Before/after wording recovered | **29 / 29** changed paragraphs that apply |
 | **Notes written** | **112 / 112** |
-| Obligations extracted | **1,490** across the 112 notes |
-| Open `[VERIFY]` items | **85** |
-| Sub-points cut, each recorded | **122** |
+| Obligations extracted | **1,492** across the 112 notes |
+| Open `[VERIFY]` items | **90** |
+| Sub-points cut, each recorded | **121** |
 
 112 notes rather than 128, because the vault holds **one AMC note per CS-E
 number**: seven merged notes cover 23 separate AMC banners. `scripts/vault_map.py`

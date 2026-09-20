@@ -11,14 +11,14 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 
 > [!summary]
 > Six AMC paragraphs serve CS-E 740, of which five are carried here; the sixth,
-> AMC E 740(c)(4), is the turbofan alternate endurance test and is excluded. AMC E 740(c)(2)(i) governs the 25 hours of
-> additional running for a 30-Minute Power rating and where it may sit.
-> AMC E 740(c)(3) gives two acceptable procedures for the additional OEI test and
-> accepts a short speed overshoot at the start of the 30-second period.
-> AMC E 740(f)(1) covers supplementary testing for higher spool speeds,
-> AMC E 740(g)(1) allows separate running in place of revised incremental
-> running, and AMC E 740(i)(2) sets what the post-test strip examination must
-> establish.
+> AMC E 740(c)(4), is the turbofan alternate endurance test and is excluded.
+> AMC E 740(c)(2)(i) governs the 25 hours of additional running for a 30-Minute
+> Power rating and where it may sit. AMC E 740(c)(3) gives two acceptable
+> procedures for the additional OEI test and accepts a short speed overshoot at
+> the start of the 30-second period. AMC E 740(f)(1) covers supplementary
+> testing for higher spool speeds, AMC E 740(g)(1) allows separate running in
+> place of revised incremental running, and AMC E 740(i)(2) sets what the
+> post-test strip examination must establish.
 
 ## Requirement
 
@@ -128,8 +128,11 @@ actions that [[CS-E 25|CS-E 25(b)]] requires following use of the 30-Second and
 
 ## Application to this engine
 
-Four of the five AMC paragraphs carried here bind directly, and two of them exist for this
-exact rating combination.
+Four of the five AMC paragraphs carried here bear on this engine as declared:
+AMC E 740(c)(2)(i), (c)(3), (g)(1) and (i)(2). Two of them exist for this exact
+rating combination. The fifth, AMC E 740(f)(1), applies only where higher
+rotational speed limitations are sought than the endurance test covered, which
+is the open question recorded below.
 
 **The 30-Minute Power rating.** AMC E 740(c)(2)(i) is written "For
 Rotorcraft turbine Engines to be approved with a 30-Minute Power rating", and
