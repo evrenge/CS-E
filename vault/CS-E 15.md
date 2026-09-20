@@ -74,4 +74,5 @@ Related: [[CS-E 10]] · [[CS-E 510]] · [[CS-E 515]]
 
 ## Amendment history
 
-Unchanged at Amendments 7 and 8.
+Unchanged at Amendments 7 and 8. The paragraph carries `[Amdt. No.: E/1]` and
+`[Amdt. No.: E/2]`, so it was last amended at Amendment 2.

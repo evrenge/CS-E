@@ -143,4 +143,6 @@ Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 110]
 
 ## Amendment history
 
-Unchanged at Amendments 7 and 8.
+Unchanged at Amendments 7 and 8. The paragraph carries `[Amdt No: E/1]`,
+`[Amdt No: E/5]` and `[Amdt No: E/6]`, so it was last amended at Amendment 6.
+[[AMC E 50]] is also unchanged at Amendments 7 and 8.

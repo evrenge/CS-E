@@ -46,4 +46,4 @@ Related: [[CS-E 10]]
 
 ## Amendment history
 
-Unchanged at Amendments 7 and 8.
+Unchanged at Amendments 7 and 8. The AMC carries no amendment marking.

@@ -124,8 +124,18 @@ Related: [[CS-E 730]] · [[CS-E 50]]
 
 ## Amendment history
 What Amendment 7 or 8 changed in this paragraph and whether it alters obligation.
-Omit when `changed_in` is empty.
+Required whenever `changed_in` is non-empty.
 ```
+
+Where `changed_in` is empty the section is carried only if it says something the
+frontmatter does not: that a related AMC changed while the specification did not,
+or which amendment the paragraph was last touched at, read from its own
+`[Amdt No]` marking. A section whose whole content is "Unchanged at Amendments 7
+and 8" restates `changed_in: []` and is noise — omit it.
+
+The distinction a reader needs is between *checked and unchanged* and *not
+reviewed*. `changed_in` carries that on its own, which is why the section is
+optional here and not a silent omission when it is absent.
 
 ### One AMC note per CS-E number
 EASA splits its AMC material unevenly: AMC E 40, AMC E 40(b)(3) and AMC E 40(d)
