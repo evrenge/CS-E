@@ -241,6 +241,16 @@ vocabulary and sentence length — it does not mean informal. No sentence
 fragments, no conversational asides, no first-person commentary. Write "The
 applicant declares three OEI ratings", not "We claim three".
 
+### Line wrapping
+Prose is hard-wrapped at 80 columns. Tables, list bullets, headings and the
+`References` link runs stay on one line whatever their length — a wikilink does
+not survive a line break, and a wrapped table row is not a table.
+
+The rule exists because splitting a long sentence leaves the paragraph wrapped
+at whatever width the join produced. Re-wrap the paragraph you edited, and only
+that one: reflowing a file that is merely wrapped at 78 turns a targeted edit
+into a whitespace diff that hides it.
+
 ## Working method
 - Work subpart by subpart. Write output to files. Do not hold the whole document in context.
 - Notes are generated into `vault/`. Out-of-scope cross-references are rendered as
