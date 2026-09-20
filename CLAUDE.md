@@ -160,7 +160,7 @@ to the verb the source uses.
 |---|---|---|
 | **Required** | `must`, `shall` | Mandatory. CS-E uses both verbs with the same force. |
 | **Required if claimed** | `may` establish/seek, then `must` substantiate | Elective provision. Optional to claim; mandatory to substantiate once claimed. |
-| **Recommended** | `should`, in a **CS** paragraph | Softer than `must`. Rare — 10 instances in scope. Never render as Required. |
+| **Recommended** | `should`, in a **CS** paragraph | Softer than `must`. Rare. Never render as Required. |
 | **Accepted method** | `should`, in an **AMC** | One acceptable way to comply. An alternative may be proposed and justified. |
 | **Permitted** | `may` | Allowed, not required. |
 | **Relief** | `need not` | Explicit exemption from something otherwise required. |
