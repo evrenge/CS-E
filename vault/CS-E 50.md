@@ -4,7 +4,7 @@ type: CS
 subpart: A
 pages: 33-36
 changed_in: []
-imports: [CS-27, CS-29]
+imports: [AMC-20, CS-27, CS-29]
 tags: [control-system, eecs, fadec, lotc, software, security, oei]
 ---
 # CS-E 50 — Engine Control System
@@ -136,9 +136,30 @@ overspeed test speed from the rotational speed expected after an engine control
 device failure [ext CS 29.927(d)]. Both paragraphs are recorded in
 [[CS 29.927]] and [[CS 27.927]].
 
-[VERIFY: AMC 20-1, AMC 20-3 and AMC 20-115 are cited by this paragraph and are
-not held in `source/`. Obtain them before settling the control system compliance
-method.]
+All three AMC 20 documents named in the banner are now held, at the revisions
+AMC-20 Amendment 23 carries.
+
+[[AMC 20-3B]] is the one that governs this paragraph. It interprets CS-E 50
+sub-point by sub-point and carries the numbers CS-E 50 does not state: the loss
+of power control rate, the rotorcraft definition of a loss of power control
+event, the pass and fail criteria for HIRF and lightning, and the over-speed
+protection targets. Its own note records them.
+
+AMC 20-1A is the aircraft-level companion. It addresses "the compliance tasks
+relating to the certification of the installation of propulsion systems equipped
+with electronic control systems" [ext AMC 20-1A(1)], and for a rotorcraft it
+points to the equivalent specifications in CS-27 and CS-29
+[ext AMC 20-1A(2)]. It binds the installer, not the engine applicant, but it
+defines the other half of the interface this paragraph creates.
+
+AMC 20-115D is the software route. It recognises EUROCAE ED-12C and RTCA DO-178C
+and their supplements as acceptable means for the software aspects of airborne
+systems [ext AMC 20-115D(1)], which is how sub-point (f) is satisfied in
+practice. The criticality level itself comes from the engine safety assessment,
+not from the software standard.
+
+The revision letters are an open item and are recorded once, in [[AMC 20-3B]]:
+CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and AMC 20-115 without them.
 
 ## Not applicable
 
@@ -150,7 +171,7 @@ method.]
 
 Accepted means: [[AMC E 50]] · [[AMC E 50|AMC E 50(e)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 50|AMC to CS-E 50(l)]]
 Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 110]] · [[CS-E 510]] · [[AMC E 170]]
-External: [[CS 29.927]] · [[CS 27.927]]
+External: [[AMC 20-3B]] · [[CS 29.927]] · [[CS 27.927]]
 
 ## Amendment history
 

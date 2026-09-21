@@ -4,6 +4,7 @@ type: AMC
 subpart: A
 pages: 62-63
 changed_in: []
+imports: [AMC-20]
 tags: [tests, systems, eecs, hirf, lightning, bonding, installation-limitation, degraded-dispatch]
 ---
 # AMC E 170 — Engine systems and component verification
@@ -110,8 +111,13 @@ AMC E 170 names AMC 20-1 and AMC 20-3 as additional means for Electronic Engine
 Control Systems. It also directs the reader to [[AMC E 80]] for environmental
 effects other than lightning and electromagnetic effects.
 
-[VERIFY: AMC 20-1 and AMC 20-3 are named as additional means here and are not
-held in `source/`. Their content cannot be summarised in this note.]
+Both are now held. The additional means for an EECS is [[AMC 20-3B]], which
+interprets the pass and fail criteria of CS-E 170 for HIRF and lightning as no
+adverse effect on the functionality of the system, and lists what counts as
+adverse [ext AMC 20-3B(6)(e)(iii)]. It also sets the form of the test: the
+installed control system with representative engine-aircraft interface cables,
+tested as a system rather than as components [ext AMC 20-3B(6)(e)(ii)]. AMC 20-1A
+is the aircraft-level companion and binds the installer.
 
 ## Not applicable
 
@@ -121,6 +127,7 @@ held in `source/`. Their content cannot be summarised in this note.]
 
 Specification: [[CS-E 170]]
 Related: [[CS-E 50]] · [[CS-E 80]] · [[CS-E 60]] · [[CS-E 135]] · [[CS-E 510]] · [[CS-E 740]] · [[CS-E 20]] · [[AMC E 80]] · [[AMC E 135]] · [[AMC E 50]]
+External: [[AMC 20-3B]]
 
 ## Amendment history
 

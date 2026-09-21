@@ -4,6 +4,7 @@ type: AMC
 subpart: A
 pages: 36-38
 changed_in: []
+imports: [AMC-20]
 tags: [control-system, eecs, fadec, over-speed, oei, security, rotorcraft]
 covers: ["AMC E 50", "AMC E 50(e)", "AMC E 50(j)", "AMC to CS-E 50(l)"]
 ---
@@ -161,8 +162,12 @@ limits or monitors engine operation and is necessary for continued airworthiness
 it is part of the Engine Control System. It falls under CS-E 50 — not under
 [[CS-E 40]] as a rating.
 
-[VERIFY: AMC E 50(2) and (5) cite AMC 20-1 and AMC 20-3 for detailed
-interpretation of CS-E 50 for EECS. Neither is held in `source/`.]
+Both are now held. The detailed interpretation this AMC defers to is in
+[[AMC 20-3B]], which that note records in full: the rotorcraft loss of power
+control definition, the rate of one event per 100 000 engine flight hours, the
+HIRF and lightning pass criteria, and the over-speed protection targets.
+AMC 20-1A is its aircraft-level companion and binds the installer
+[ext AMC 20-1A(3)].
 
 ### Over-speed protection
 
@@ -214,8 +219,36 @@ rotorcraft, every engine carries the same control system, so an interaction
 exploiting a shared vulnerability reaches all of them. The assessment must cover
 that case.
 
-[VERIFY: AMC 20-42 is the named acceptable means for this paragraph and is not
-held in `source/`. Obtain it before settling the security compliance method.]
+AMC 20-42 is now held, and it names the process. The assessment it asks for is
+a product information security risk assessment, and its seven steps are:
+determine the security environment, identify the assets, identify the attack
+paths, assess the safety consequences of the threat to those assets, evaluate
+the level of threat that would have an impact on safety against the existing
+protection means, determine whether the resulting risks are acceptable, and
+iterate until every residual risk is acceptable [ext AMC 20-42(5)(a)].
+
+The acceptance criterion is stated in terms of exploitability. After mitigation,
+either the systems have no identifiable vulnerabilities, or the vulnerabilities
+"cannot be exploited to create a hazard or generate a failure that would have an
+effect that is deemed to be unacceptable against the certification
+specification" [ext AMC 20-42(4)(b)].
+
+Three duties follow the assessment. Where mitigation is needed, its
+effectiveness is verified by analysis, security-oriented robustness testing,
+inspections and reviews, and where necessary by security testing from the
+perspective of a potential adversary [ext AMC 20-42(8)]. The security assets and
+protection mechanisms are identified for the instructions for continued
+airworthiness, with procedures to maintain security effectiveness in service
+[ext AMC 20-42(9)]. And a reported occurrence is considered for the possibility
+that it originated from an intentional unauthorised electronic interaction; if
+one has generated an unsafe condition, the occurrence, the investigation and the
+recovery actions are reported to EASA under point 21.A.3A
+[ext AMC 20-42(9)]. That reporting route is the one recorded in
+[[AMC E 515]].
+
+The accepted industry documents are EUROCAE ED-202A with RTCA DO-326A, ED-203A
+with DO-356, and ED-204 with DO-355 [ext AMC 20-42(1)(b)]. None is held, so the
+method inside the process remains a dead end.
 
 ## Not applicable
 
@@ -225,6 +258,7 @@ held in `source/`. Obtain it before settling the security compliance method.]
 
 Specification: [[CS-E 50]]
 Related: [[CS-E 25]] · [[CS-E 40]] · [[CS-E 80]] · [[CS-E 170]] · [[CS-E 510]] · [[CS-E 560]] · [[CS-E 830]] · [[AMC E 20]] · [[AMC E 25]] · [[AMC E 40]] · [[AMC E 60]] · [[AMC E 170]]
+External: [[AMC 20-3B]]
 
 ## Amendment history
 

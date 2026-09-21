@@ -4,6 +4,7 @@ type: AMC
 subpart: A
 pages: 44-50
 changed_in: []
+imports: [AMC-20]
 tags: [equipment, environmental-qualification, do-160, high-energy-rotor, containment, weak-link]
 ---
 # AMC E 80 — Equipment
@@ -197,9 +198,22 @@ case at its own certification.
 Table 2 item 18 and Table 4 item 24 name AMC 20-1 and AMC 20-3 as the acceptable
 tests or procedures for EMI, HIRF and lightning, and for control system overheat.
 
-[VERIFY: AMC 20-1 and AMC 20-3 are named as the acceptable tests or procedures
-for Table 2 item 18 and Table 4 item 24, and are not held in `source/`. Their
-content cannot be summarised here.]
+Both are now held. What they contribute for those two items is the EMI, HIRF and
+lightning method of [[AMC 20-3B]], recorded in that note: testing of the
+installed control system including representative engine-aircraft interface
+cables, system-level tests on open-loop or closed-loop set-ups at the most
+sensitive operating point, and a pass criterion of no adverse effect. The
+criterion is defined by what counts as adverse, including a change of Take-off
+Power greater than 3 % lasting more than 2 seconds, a transfer to an Alternate
+Channel or Back-up System, component damage, a false annunciation, or erroneous
+operation of a protection system [ext AMC 20-3B(6)(e)(iii)].
+
+AMC 20-3B also confirms what this table leaves implicit: EMI procedures and
+levels to MIL-STD-461 or ED-14 and DO-160 have been considered acceptable, and
+environmental tests to MIL-STD-810 may be accepted in lieu of ED-14 and DO-160
+tests where they are equal to or more rigorous [ext AMC 20-3B(6)(e)(ii)]. Those
+industry standards remain unheld, so the procedures inside them stay a dead
+end.
 
 Salt spray, sand and dust, and fluid susceptibility deserve attention for a
 rotorcraft turboshaft. Sand and dust applies to all equipment that is not
@@ -219,6 +233,7 @@ answer decides whether that whole part applies. It is not recorded in
 
 Specification: [[CS-E 80]]
 Related: [[CS-E 20]] · [[CS-E 30]] · [[CS-E 50]] · [[CS-E 130]] · [[CS-E 515]] · [[CS-E 520]] · [[CS-E 560]] · [[CS-E 570]] · [[CS-E 580]] · [[CS-E 590]] · [[CS-E 640]] · [[CS-E 780]] · [[CS-E 840]] · [[CS-E 70]] · [[CS-E 110]] · [[CS-E 90]] · [[AMC E 130]] · [[AMC E 515]] · [[AMC E 640]]
+External: [[AMC 20-3B]]
 
 ## Amendment history
 
