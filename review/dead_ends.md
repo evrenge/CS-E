@@ -9,6 +9,27 @@ Compiled from seven independent verification passes over the whole vault, one pe
 scope, each reading the notes AND their source paragraphs. Cross-checked against
 `scripts/external_refs.py`, which scans the same corpus mechanically.
 
+> **Status: five of the cited documents are now held.** `source/external/` has
+> CS-27 Amendment 10, CS-29 Amendment 12, CS-Definitions Amendment 2, AMC-20
+> Amendment 23, and the Easy Access Rules edition of Part 21 — Regulation (EU)
+> No 748/2012, which carries the Annex I Regulation text together with its AMC
+> and GM. Between them they close the Kind 1 entries for `27.45(f)`, `29.45(f)`,
+> `27.1093(b)`, `29.1093(b)`, `Fire-resistant`, `Fireproof`, `Icing Atmospheric
+> Conditions`, `AMC 20-1`, `AMC 20-3`, `AMC 20-42`, `AMC 20-115`,
+> `AMC 25.1309`, `AMC1 21.A.3B(b)`, `21.A.3`, `21.A.20(d)2`, `21.A.61(a)`,
+> `21.A.801` and `21.A.805`.
+>
+> Holding a document is not the same as having used it. The entries below still
+> read as they did when the inventory was compiled, and each is rewritten when
+> the answer actually reaches a note — which needs the Source of truth rule in
+> CLAUDE.md amended first, with a convention for marking an imported obligation.
+> `source/external/SOURCES.md` is the current record of what is held and what
+> each one closes.
+>
+> Still missing: **CS-34**, which is the largest remaining item, and the
+> industry standards — EUROCAE ED-14 / RTCA DO-160, ISO 2685, FAA AC 33.70-2
+> and -3, SAE ARP4754A / EUROCAE ED-79A.
+
 **145 distinct dead ends.** They fall into three kinds.
 
 ## Kind 1 — documents we do not hold

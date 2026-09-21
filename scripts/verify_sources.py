@@ -49,12 +49,9 @@ EXTERNAL: dict[str, tuple[str, int]] = {
     "CS-29_Amendment_12.pdf": ("CS-29 Amendment 12", 438),
     "CS-Definitions_Amendment_2.pdf": ("Decision 2010/014/R", 26),
     "AMC-20_Amendment_23.pdf": ("AMC-20 Amendment 23", 678),
-    "AMC-GM_Part-21_Issue-2_Amendment_16.pdf":
-        ("AMC & GM to Part 21 - Issue 2, Amendment 16", 146),
-    "AMC-GM_Part-21_Issue-2_Amendment_17.pdf":
-        ("AMC & GM to Part 21 Issue 2, Amendment 17", 34),
-    "AMC-GM_Part-21_Issue-2_Amendment_18.pdf":
-        ("AMC & GM to Part 21 — Issue 2, Amendment 18", 18),
+    "Part-21_EAR_Reg-748-2012_Nov-2025.pdf":
+        ("Easy Access Rules for Initial Airworthiness and Environmental "
+         "Protection (Regulation (EU) No 748/2012)", 1041),
 }
 
 CHANGE_RE = re.compile(
@@ -84,6 +81,16 @@ def change_inventory(reader: PdfReader) -> list[tuple[str, str]]:
         if entry not in seen:
             seen.append(entry)
     return seen
+
+
+# Pages that carry an image instead of text, and are meant to. The text-layer
+# check exists to catch a scanned document with no OCR; a picture cover on an
+# otherwise fully extractable file is not that. Declared per document so the
+# check stays strict everywhere else.
+IMAGE_ONLY: dict[str, frozenset[int]] = {
+    # 1-based. Page 1 is the EASA eRules cover; pages 2 to 1041 all extract.
+    "Part-21_EAR_Reg-748-2012_Nov-2025.pdf": frozenset({1}),
+}
 
 
 def check(name: str, expect_title: str, expect_pages: int, sums: dict[str, str],
@@ -136,7 +143,11 @@ def check(name: str, expect_title: str, expect_pages: int, sums: dict[str, str],
     texts = [p.extract_text() or "" for p in reader.pages]
     empty = [i + 1 for i, s in enumerate(texts) if not s.strip()]
     total = sum(len(s) for s in texts)
-    print(f"  text     {total:,} chars, {len(empty)} page(s) without a text layer")
+    allowed = IMAGE_ONLY.get(name, frozenset())
+    unexpected = [i for i in empty if i not in allowed]
+    note = f", {len(allowed & set(empty))} declared image-only" if allowed else ""
+    print(f"  text     {total:,} chars, {len(empty)} page(s) without a text layer{note}")
+    empty = unexpected
     if empty:
         head = ", ".join(str(i) for i in empty[:10])
         print(f"           pages: {head}{' ...' if len(empty) > 10 else ''}")
