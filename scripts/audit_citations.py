@@ -98,15 +98,43 @@ def paragraph_file(pid: str) -> pathlib.Path:
     return PARA / (re.sub(r"[^A-Za-z0-9]+", "_", pid).strip("_") + ".txt")
 
 
-def ext_slices() -> dict[str, str]:
-    """Every sliced external paragraph: id -> its normalised text."""
-    out = {}
+# The labels inside an [ext ...] citation, after the document id: "(b)(2)" in
+# "CS 29.927(b)(2)", or the bare "5" in "AMC 20-42 5(a)". EASA does not number
+# consistently across documents -- AMC 20-3B writes "(7)", AMC 20-42 writes
+# "5." -- so a citation mirrors the numbering its own document uses.
+EXT_LABEL = re.compile(r"\(([^)]{1,6})\)|(?:^|\s)(\d{1,2})(?=\b)")
+
+
+def ext_labels(rest: str) -> list[str]:
+    return [a or b for a, b in EXT_LABEL.findall(rest) if (a or b)]
+
+
+def label_in(body: str, label: str) -> bool:
+    """Does the slice carry this label, written as a label and not in prose?"""
+    esc = re.escape(label)
+    return bool(re.search(rf"(?m)^\s*\({esc}\)", body)
+                or re.search(rf"(?m)^\s*{esc}\.?\s*$", body)
+                or re.search(rf"(?m)^\s*{esc}[.)]\s+\S", body)
+                or f"({label})" in body)
+
+
+def ext_slices() -> tuple[dict[str, str], dict[str, str]]:
+    """Every sliced external paragraph: id -> normalised text, and id -> raw.
+
+    The normalised text is for comparing numbers; it is lower-cased and has its
+    line breaks collapsed. A sub-point label has to be looked for in the raw
+    text instead, because a label is recognised by sitting at the start of a
+    line and that is exactly what normalising destroys.
+    """
+    flat, raw = {}, {}
     for f in sorted(EXTERNAL.glob("*.txt")):
         lines = f.read_text(encoding="utf-8").splitlines()
         pid = next((ln[6:].strip() for ln in lines[:6] if ln.startswith("# id: ")), "")
         if pid:
-            out[pid] = norm(" ".join(ln for ln in lines if not ln.startswith("#")))
-    return out
+            body = [ln for ln in lines if not ln.startswith("#")]
+            flat[pid] = norm(" ".join(body))
+            raw[pid] = "\n".join(body)
+    return flat, raw
 
 
 def source_of(ids: list[str]) -> str:
@@ -124,12 +152,13 @@ def main() -> int:
     whole = norm(" ".join(p.read_text(encoding="utf-8")
                           for p in sorted(PARA.glob("*.txt"))))
 
-    slices = ext_slices()
+    slices, raw_slices = ext_slices()
     ext_whole = norm(" ".join(slices.values()))
 
     unresolved: list[tuple[str, str, str]] = []
     to_excluded: list[tuple[str, str]] = []
     unsliced: list[tuple[str, str]] = []
+    bad_labels: list[tuple[str, str, str]] = []
     bad_numbers: dict[str, set[str]] = collections.defaultdict(set)
     n_cites = n_numbers = n_ext = 0
 
@@ -138,8 +167,18 @@ def main() -> int:
         for m in EXT_CITE.finditer(text):
             n_ext += 1
             cid = m.group(1).strip()
-            if not any(cid == pid or cid.startswith(pid) for pid in slices):
+            bases = [pid for pid in slices if cid == pid or cid.startswith(pid)]
+            if not bases:
                 unsliced.append((where, m.group(0)))
+                continue
+            # The sub-point must exist in the document the citation names. A
+            # label the slice does not carry is a citation a reader cannot
+            # follow, and the notation hides it: nothing else here reads it.
+            base = max(bases, key=len)
+            body = raw_slices[base]
+            for label in ext_labels(cid[len(base):]):
+                if not label_in(body, label):
+                    bad_labels.append((where, m.group(0), label))
 
     for note in sorted(VAULT.glob("*.md")):
         name = note.stem
@@ -213,8 +252,13 @@ def main() -> int:
         for n, c in sorted(set(to_excluded)):
             print(f"   {n}: {c}")
 
-    problems = (len(unresolved) + len(unsliced)
+    problems = (len(unresolved) + len(unsliced) + len(bad_labels)
                 + sum(len(v) for v in bad_numbers.values()))
+    if bad_labels:
+        print(f"\n{len(bad_labels)} import(s) naming a sub-point the slice does "
+              "not carry:")
+        for n, c, lab in sorted(set(bad_labels)):
+            print(f"   {n}: {c}   [no ({lab}) in the slice]")
     if unsliced:
         print(f"\n{len(unsliced)} import(s) reaching no slice in "
               "work/external/ — add the point to WANTED in "

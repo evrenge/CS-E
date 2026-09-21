@@ -13,6 +13,12 @@
 > `audit_cuts.py`, `audit_coverage.py`, `verify_sources.py` — and trust them over
 > anything written here. Line numbers quoted below refer to the notes as they
 > were when the passes ran, and have since shifted.
+>
+> The passes also predate `source/external/`. Where a finding below says a
+> document is unavailable — AMC 20-1, AMC 20-3, CS-27, CS-29, CS-Definitions,
+> CS-34, Part 21 — that was true then and is not now. Those references are
+> answered in the notes today; `review/dead_ends.md` records which, and which
+> are still dead.
 
 Seven independent verification passes over the 112 notes, one per scope, each
 reading every note against its source paragraph files in `work/paragraphs/` and

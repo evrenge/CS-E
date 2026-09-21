@@ -459,13 +459,20 @@ and is worse than a missing entry. It also checks cited sub-point labels against
 the labels the target paragraph carries, though only weakly — nesting is not
 recoverable from the flat text and the check refuses to guess it.
 
-`audit_citations.py` covers the two things nothing else sees. A `[CS-E 740(c)(3)]`
+`audit_citations.py` covers the things nothing else sees. A `[CS-E 740(c)(3)]`
 citation is notation, not a link, so Obsidian never reports a broken one and a
 reader only finds out by following it. And a number carrying a unit is the defect
 a certification engineer is least able to catch by reading, so every one is
 matched back to the source, after normalising the spellings that differ between
 the PDF text layer and a note — the vulgar fractions, the thin space in
 "1 500 ft", the spacing around a degree sign.
+
+It also checks an `[ext …]` citation down to its sub-point: the label must exist
+in the slice, written as a label and not in prose. EASA does not number
+consistently across documents — AMC 20-3B writes `(7)`, AMC 20-42 writes `5.` —
+so a citation mirrors the numbering of the document it names, and the check
+reads the raw slice rather than the normalised one, because normalising is what
+destroys a label.
 
 `external_paragraphs.py` slices the documents in `source/external/` into one file
 per cited paragraph, so an `[ext …]` quotation can be checked word-for-word the

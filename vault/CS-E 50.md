@@ -148,14 +148,14 @@ protection targets. Its own note records them.
 
 AMC 20-1A is the aircraft-level companion. It addresses "the compliance tasks
 relating to the certification of the installation of propulsion systems equipped
-with electronic control systems" [ext AMC 20-1A(1)], and for a rotorcraft it
+with electronic control systems" [ext AMC 20-1A 1], and for a rotorcraft it
 points to the equivalent specifications in CS-27 and CS-29
-[ext AMC 20-1A(2)]. It binds the installer, not the engine applicant, but it
+[ext AMC 20-1A 2]. It binds the installer, not the engine applicant, but it
 defines the other half of the interface this paragraph creates.
 
 AMC 20-115D is the software route. It recognises EUROCAE ED-12C and RTCA DO-178C
 and their supplements as acceptable means for the software aspects of airborne
-systems [ext AMC 20-115D(1)], which is how sub-point (f) is satisfied in
+systems [ext AMC 20-115D 1], which is how sub-point (f) is satisfied in
 practice. The criticality level itself comes from the engine safety assessment,
 not from the software standard.
 

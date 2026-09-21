@@ -167,7 +167,7 @@ Both are now held. The detailed interpretation this AMC defers to is in
 control definition, the rate of one event per 100 000 engine flight hours, the
 HIRF and lightning pass criteria, and the over-speed protection targets.
 AMC 20-1A is its aircraft-level companion and binds the installer
-[ext AMC 20-1A(3)].
+[ext AMC 20-1A 3].
 
 ### Over-speed protection
 
@@ -225,29 +225,29 @@ determine the security environment, identify the assets, identify the attack
 paths, assess the safety consequences of the threat to those assets, evaluate
 the level of threat that would have an impact on safety against the existing
 protection means, determine whether the resulting risks are acceptable, and
-iterate until every residual risk is acceptable [ext AMC 20-42(5)(a)].
+iterate until every residual risk is acceptable [ext AMC 20-42 5(a)].
 
 The acceptance criterion is stated in terms of exploitability. After mitigation,
 either the systems have no identifiable vulnerabilities, or the vulnerabilities
 "cannot be exploited to create a hazard or generate a failure that would have an
 effect that is deemed to be unacceptable against the certification
-specification" [ext AMC 20-42(4)(b)].
+specification" [ext AMC 20-42 4(b)].
 
 Three duties follow the assessment. Where mitigation is needed, its
 effectiveness is verified by analysis, security-oriented robustness testing,
 inspections and reviews, and where necessary by security testing from the
-perspective of a potential adversary [ext AMC 20-42(8)]. The security assets and
+perspective of a potential adversary [ext AMC 20-42 8]. The security assets and
 protection mechanisms are identified for the instructions for continued
 airworthiness, with procedures to maintain security effectiveness in service
-[ext AMC 20-42(9)]. And a reported occurrence is considered for the possibility
+[ext AMC 20-42 9]. And a reported occurrence is considered for the possibility
 that it originated from an intentional unauthorised electronic interaction; if
 one has generated an unsafe condition, the occurrence, the investigation and the
 recovery actions are reported to EASA under point 21.A.3A
-[ext AMC 20-42(9)]. That reporting route is the one recorded in
+[ext AMC 20-42 9]. That reporting route is the one recorded in
 [[AMC E 515]].
 
 The accepted industry documents are EUROCAE ED-202A with RTCA DO-326A, ED-203A
-with DO-356, and ED-204 with DO-355 [ext AMC 20-42(1)(b)]. None is held, so the
+with DO-356, and ED-204 with DO-355 [ext AMC 20-42 1(b)]. None is held, so the
 method inside the process remains a dead end.
 
 ## Not applicable
