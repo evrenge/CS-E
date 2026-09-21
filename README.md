@@ -22,7 +22,8 @@ and the cut is recorded.
 | Open `[VERIFY]` items | **74** |
 | Sub-points cut, each recorded | **121** |
 | External notes | **5** in `vault/external/` |
-| Imported obligations | **73**, from six documents outside CS-E |
+| Imported obligations | **82**, from six documents outside CS-E |
+| Graph | **117 notes, one connected component**, no note without an inbound link |
 
 112 notes rather than 128, because the vault holds **one AMC note per CS-E
 number**: seven merged notes cover 23 separate AMC banners. `scripts/vault_map.py`
