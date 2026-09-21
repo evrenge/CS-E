@@ -105,6 +105,7 @@ WANTED: list[tuple[str, str, str, str]] = [
     ("GM1 21.A.805", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Identification of critical parts"),
     ("GM1 21.B.85(a)", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Content of ICAO Annex 16"),
     ("GM2 21.B.85", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Applicable environmental protection requirements"),
+    ("21.A.7", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Instructions for continued airworthiness"),
     ("21.A.3A", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Reporting system"),
     ("21.A.3B", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Airworthiness directives"),
     ("AMC1 21.A.3B(b)", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Failures, malfunctions and defects"),

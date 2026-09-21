@@ -4,7 +4,7 @@ type: CS
 subpart: A
 pages: 29-30
 changed_in: [Amdt7]
-imports: [CS-27, CS-29]
+imports: [CS-27, CS-29, Part 21]
 tags: [ratings, oei, limitations, tcds]
 ---
 # CS-E 40 — Ratings
@@ -67,6 +67,18 @@ torque attainable for at least 15 minutes with one engine inoperative
 30-Second and the 2-Minute OEI Power Ratings. See [[CS 29.927]] and
 [[CS 27.927]].
 
+**What sub-point (e) points to.** Point 21.A.41 states what a type certificate
+includes: the type design, the operating limitations, the instructions for
+continued airworthiness, the type certificate data sheet for airworthiness and
+emissions, the applicable type certification basis and environmental protection
+requirements, and "any other conditions or limitations prescribed for the
+product … in the applicable certification specifications and environmental
+protection requirements" [ext 21.A.41]. The rated powers and the
+crew limitations of CS-E 40(e) enter the certificate through that last item.
+The same point adds that "the engine type-certificate data sheet shall include
+the record of exhaust emissions compliance", which is the data sheet duty
+discussed in [[CS 34.2]] and [[AMC E 1020]].
+
 "OEI override" is a control-system feature, not a rating under this paragraph.
 It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
@@ -80,7 +92,7 @@ It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
 Accepted means: [[AMC E 40]] · [[AMC E 40|AMC E 40(b)(3)]] · [[AMC E 40|AMC E 40(d)]]
 Related: [[CS-E 25]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 740]] · [[AMC E 20|AMC E 20(f)]]
-External: [[CS 29.927]] · [[CS 27.927]]
+External: [[CS 29.927]] · [[CS 27.927]] · [[CS 34.2]]
 
 ## Amendment history
 

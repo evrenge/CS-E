@@ -1,0 +1,51 @@
+# 21.A.7 Instructions for continued airworthiness
+# id: 21.A.7
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 2931
+
+21.A.7 Instructions for continued airworthiness 
+Regulation (EU) 2024/1108 
+(a) 
+The holder of a type-certificate, restricted type-certificate, supplemental type-certificate, 
+design change or repair design approval shall develop or reference the instructions which are 
+necessary for ensuring that the airworthiness standard related to the aircraft, the UAS and the 
+CMU type and any associated part or CMU component is maintained throughout the 
+operational life of the aircraft or the UAS, when demonstrating compliance with the applicable 
+type-certification basis established and notified by the Agency in accordance with point 21.B.80. 
+(b) 
+At least one set of complete instructions for continued airworthiness shall be provided by the 
+holder of: 
+1. 
+a type-certificate or restricted type-certificate to each known owner of one or more 
+products, UAS or CMUs upon their delivery or upon the issuance of the first certificate of 
+airworthiness or restricted certificate of airworthiness for the affected aircraft, whichever 
+occurs later; 
+2. 
+a supplemental type-certificate or design change approval to all known operators of the 
+product, the UAS or the CMU affected by the change upon the release to service of the 
+modified product or modified CMU; 
+3. 
+a repair design approval to all known operators of the product or the CMU affected by 
+the repair upon the release to service of the product or the CMU in which the repair 
+design is embodied; the repaired product, part, appliance, CMU or CMU component may 
+be released into service before the related instructions for continued airworthiness have 
+been completed, but this shall be for a limited service period, and in agreement with the 
+Agency. 
+Thereafter, those design approval holders shall make those instructions available on request to 
+any other person required to comply with those instructions. 
+
+ 
+(c) 
+By way of derogation from point (b), the type-certificate holder or restricted type-certificate 
+holder may delay the availability of a part of the instructions for continued airworthiness, 
+dealing with long lead accomplishment instructions of a scheduled nature, until after the 
+product or the CMU, or modified product or modified CMU, has entered into service, but shall 
+make those instructions available before the use of this data is required for the product or 
+modified product. 
+(d) 
+The design approval holder that is required to provide instructions for continued airworthiness 
+in accordance with point (b) shall also make available the changes to those instructions to all 
+known operators of the product, the UAS or the CMU affected by the change and, on request, 
+to any other person required to comply with those changes. That design approval holder shall 
+demonstrate to the Agency, on request, the adequacy of the process of making changes to the 
+instructions for continued airworthiness available in accordance with this point.

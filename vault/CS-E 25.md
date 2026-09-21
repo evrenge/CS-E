@@ -4,6 +4,7 @@ type: CS
 subpart: A
 pages: 21-22
 changed_in: [Amdt7]
+imports: [Part 21]
 tags: [ica, airworthiness-limitations, oei, critical-parts, maintenance]
 ---
 # CS-E 25 — Instructions for Continued Airworthiness
@@ -77,6 +78,18 @@ Item (c)(5) uses "should" for the recommended periods. That softer verb describe
 the content of the scheduling information; the obligation to consider the item for
 inclusion is unaffected.
 
+**Where the Part 21 duty now lives.** The instructions this paragraph governs
+are also required by point 21.A.7 of Part 21. The type certificate holder must
+"develop or reference the instructions which are necessary for ensuring that the
+airworthiness standard related to the aircraft, the UAS and the CMU type and any
+associated part or CMU component is maintained throughout the operational life"
+[ext 21.A.7(a)]. Point 21.A.7(b)1 then fixes delivery: at least one complete set
+goes to each known owner on delivery of the product or on issue of the first
+certificate of airworthiness, whichever is later, and the holder must afterwards
+make the instructions available on request to any other person required to
+comply with them [ext 21.A.7(b)]. CS-E 25 says what the manuals contain; point
+21.A.7 says who gets them and when.
+
 ## References
 
 Accepted means: [[AMC E 25]]
@@ -87,6 +100,13 @@ Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 515]] · [[AMC E 40|AMC E 40(b)(3)
 Amended at Amendment 7. The amendment deleted the opening qualifier "In
 accordance with 21.A.61(a)," from sub-point (a), so the obligation to establish
 the manuals now stands on its own. No change to what the manuals must contain.
+
+The deletion removed a citation that no longer resolves. Point 21.A.61 is absent
+from the Part 21 consolidation held in `source/external/`: the numbering runs
+21.A.51, then 21.A.62, then 21.A.65, and an exact search for the point returns
+nothing. The instructions for continued airworthiness duty is now point 21.A.7
+[ext 21.A.7]. Deleting the qualifier therefore left CS-E 25(a) standing on its
+own rather than pointing at a point that had moved.
 
 [[AMC E 25]] was separately amended at Amendment 8, in two places. Point (1)
 gained the initial maintenance programme test in the list of certification

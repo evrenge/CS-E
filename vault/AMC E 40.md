@@ -130,7 +130,7 @@ any time between the take-off and landing phases in any flight.
 ### Operating limitations
 
 - Operating limitations schedule covering every applicable item of AMC E 40(d)(1) and (3) [CS-E 40(d)].
-- The rated powers and the limitations the crew must respect, entered in the TCDS under point 21.A.41 of Part 21 [CS-E 40(e)].
+- The rated powers and the limitations the crew must respect, entered in the TCDS under point 21.A.41 of Part 21 [CS-E 40(e)]. What that point requires the certificate to include is recorded in [[CS-E 40]].
 - Over-limit transients and their time limits [AMC E 40(d)(3)(p), (q), (r)], substantiated by [[CS-E 820]], [[CS-E 830]] and [[CS-E 870]].
 - Power turbine autorotation speed and torque limits [AMC E 40(d)(3)(n), (o)].
 
