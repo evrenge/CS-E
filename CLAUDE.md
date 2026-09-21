@@ -125,6 +125,7 @@ type: CS                     # CS | AMC
 subpart: E
 pages: 138-149
 changed_in: [Amdt8]          # [] when unchanged
+imports: [CS-29]             # documents an [ext ...] citation comes from; omit when none
 tags: [endurance, oei, test]
 covers: ["AMC E 740(c)(3)", ...]   # see below; omit when it repeats the filename
 ---
@@ -230,7 +231,8 @@ These are **not** CS-E notes and the differences are deliberate:
   vocabulary from an import *inside a CS-E note*, where it would read as CS-E's.
   Here the title, the frontmatter and the folder all say whose obligation it is.
 - `## References` labels its CS-E side `Bears on:` and links the CS-E notes that
-  depend on it.
+  depend on it. On the other side of the edge, a CS-E note labels its external
+  links `External:`, on a line of its own after `Related:`.
 
 Where a rotorcraft point exists in both codes, **write one note per code**, not a
 merged one. `CS 27.927` and `CS 29.927` share a structure and differ in

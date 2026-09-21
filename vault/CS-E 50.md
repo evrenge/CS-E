@@ -4,6 +4,7 @@ type: CS
 subpart: A
 pages: 33-36
 changed_in: []
+imports: [CS-27, CS-29]
 tags: [control-system, eecs, fadec, lotc, software, security, oei]
 ---
 # CS-E 50 — Engine Control System
@@ -126,6 +127,15 @@ in Subpart C and applies to piston engines, so only CS-E 500(a) and CS-E 745 bin
 here. Sub-point (d) likewise cites CS-E 210, a Subpart B paragraph; [[CS-E 510]]
 is the turbine engine route.
 
+The rotorcraft's transmission tests depend on this control system. CS 29.927
+and CS 27.927 set the test torque at the maximum attainable, "assuming that
+torque limiting devices, if any, function properly" [ext CS 29.927(b)(2)],
+[ext CS 27.927(b)(1)(ii)]. Where the EECS provides that limit, its integrity is
+engine-side evidence under this paragraph. CS 29.927(d) further takes its
+overspeed test speed from the rotational speed expected after an engine control
+device failure [ext CS 29.927(d)]. Both paragraphs are recorded in
+[[CS 29.927]] and [[CS 27.927]].
+
 [VERIFY: AMC 20-1, AMC 20-3 and AMC 20-115 are cited by this paragraph and are
 not held in `source/`. Obtain them before settling the control system compliance
 method.]
@@ -140,6 +150,7 @@ method.]
 
 Accepted means: [[AMC E 50]] · [[AMC E 50|AMC E 50(e)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 50|AMC to CS-E 50(l)]]
 Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 110]] · [[CS-E 510]] · [[AMC E 170]]
+External: [[CS 29.927]] · [[CS 27.927]]
 
 ## Amendment history
 

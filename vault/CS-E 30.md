@@ -50,10 +50,15 @@ rotorcraft engine.
 [VERIFY: confirm whether the installation target is CS-27 or CS-29. CS-E 780
 cites both CS 27.1093(b) and CS 29.1093(b), so CS-E itself does not settle it.]
 
+The two codes are not interchangeable. Their rotor drive system tests differ in
+substance, and the engine data each one needs differs with them. See
+[[CS 29.927]] and [[CS 27.927]].
+
 ## References
 
 Accepted means: [[AMC E 30]]
 Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 510]]
+External: [[CS 29.927]] · [[CS 27.927]]
 
 ## Amendment history
 

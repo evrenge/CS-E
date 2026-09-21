@@ -4,6 +4,7 @@ type: CS
 subpart: A
 pages: 29-30
 changed_in: [Amdt7]
+imports: [CS-27, CS-29]
 tags: [ratings, oei, limitations, tcds]
 ---
 # CS-E 40 — Ratings
@@ -59,6 +60,13 @@ The declared combination of 30-Second, 2-Minute and Continuous OEI selects the
 endurance schedule of CS-E 740(c)(3)(i), complemented by the additional test of
 CS-E 740(c)(3)(iii).
 
+The declared ratings also fix what the rotorcraft applicant must test its
+transmission against. Each remaining transmission input is run at the maximum
+torque attainable for at least 15 minutes with one engine inoperative
+[ext CS 29.927(b)(2)], [ext CS 27.927(b)(2)]. That duration is longer than the
+30-Second and the 2-Minute OEI Power Ratings. See [[CS 29.927]] and
+[[CS 27.927]].
+
 "OEI override" is a control-system feature, not a rating under this paragraph.
 It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
@@ -72,6 +80,7 @@ It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
 Accepted means: [[AMC E 40]] · [[AMC E 40|AMC E 40(b)(3)]] · [[AMC E 40|AMC E 40(d)]]
 Related: [[CS-E 25]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 740]] · [[AMC E 20|AMC E 20(f)]]
+External: [[CS 29.927]] · [[CS 27.927]]
 
 ## Amendment history
 
