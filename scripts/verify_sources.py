@@ -49,6 +49,10 @@ EXTERNAL: dict[str, tuple[str, int]] = {
     "CS-29_Amendment_12.pdf": ("CS-29 Amendment 12", 438),
     "CS-Definitions_Amendment_2.pdf": ("Decision 2010/014/R", 26),
     "AMC-20_Amendment_23.pdf": ("AMC-20 Amendment 23", 678),
+    "AMC-GM_Part-21_Issue-2_Amendment_16.pdf":
+        ("AMC & GM to Part 21 - Issue 2, Amendment 16", 146),
+    "AMC-GM_Part-21_Issue-2_Amendment_17.pdf":
+        ("AMC & GM to Part 21 Issue 2, Amendment 17", 34),
     "AMC-GM_Part-21_Issue-2_Amendment_18.pdf":
         ("AMC & GM to Part 21 — Issue 2, Amendment 18", 18),
 }
