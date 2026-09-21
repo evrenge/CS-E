@@ -48,6 +48,7 @@ EXTERNAL: dict[str, tuple[str, int]] = {
     "CS-27_Amendment_10.pdf": ("Easy Access Rules for Small Rotorcraft (CS-27)", 322),
     "CS-29_Amendment_12.pdf": ("CS-29 Amendment 12", 438),
     "CS-Definitions_Amendment_2.pdf": ("Decision 2010/014/R", 26),
+    "CS-34_Amendment_4_repealed.pdf": ("CS-34 Amendment 4", 5),
     "AMC-20_Amendment_23.pdf": ("AMC-20 Amendment 23", 678),
     "Part-21_EAR_Reg-748-2012_Nov-2025.pdf":
         ("Easy Access Rules for Initial Airworthiness and Environmental "

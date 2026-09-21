@@ -17,6 +17,7 @@ machinery in `source/` exists because CS-E is the deliverable, and these are not
 | `CS-29_Amendment_12.pdf` | 438 | Large Rotorcraft (CS-29), Amendment 12 | 2024/009/R |
 | `CS-Definitions_Amendment_2.pdf` | 26 | Definitions and abbreviations used in Certification Specifications, Amendment 2 | 2010/014/R |
 | `Part-21_EAR_Reg-748-2012_Nov-2025.pdf` | 1041 | Easy Access Rules for Initial Airworthiness and Environmental Protection (Regulation (EU) No 748/2012), November 2025 revision | consolidated |
+| `CS-34_Amendment_4_repealed.pdf` | 5 | Aircraft Engine Emissions and Fuel Venting (CS-34), Amendment 4 — **repealed 27 May 2025** | 2021/011/R |
 | `AMC-20_Amendment_23.pdf` | 678 | General Acceptable Means of Compliance for Airworthiness of Products, Parts and Appliances (AMC-20), Amendment 23 | 2022/001/R |
 
 All carry `/Author = EASA` except CS-Definitions Amendment 2 (`EASA - RPS`).
@@ -67,11 +68,68 @@ manufacture regulation text is the worst defect class available to a vault whose
 guarantee is that every statement traces to a source. The deltas remain in
 history at `5c2982f` if they are ever wanted.
 
+## CS-34 — repealed, and it never held the content anyway
+
+`CS-34_Amendment_4_repealed.pdf` is five pages, of which two are a table of
+contents and a preamble listing past amendments. Its entire normative content is
+two sentences:
+
+> **CS 34.1 Fuel venting.** "The aircraft must be designed to comply with the
+> applicable fuel venting requirements as specified in point 21.A.21 of Annex I
+> (Part 21) to Commission Regulation (EU) No 748/2012."
+>
+> **CS 34.2 Aircraft engine emissions.** "The aircraft engine must be designed to
+> comply with the applicable emissions requirements as specified in point
+> 21.A.21 of Annex I (Part 21) to Commission Regulation (EU) No 748/2012."
+
+It contains no limit, no operating cycle, no measurement method and no test. It
+is a redirect. `GM1 34.1` and `GM1 34.2` say where the redirect goes: 21.A.21
+does not list the requirements either, but refers to 21.A.20, which requires
+compliance with the environmental protection requirements "designated by the
+Agency in accordance with point 21.B.85".
+
+EASA repealed CS-34, CS-36 and CS-CO2 on 27 May 2025, four to five weeks after
+CS-E Amendment 8 was issued, "to prevent the future use of and reference to
+CS-34, CS-36 and CS-CO2 and any potential confusion with the applicable
+environmental protection requirements referred to in the first subparagraph of
+Article 9(2) of Regulation (EU) 2018/1139". Removing a pure indirection is
+consistent with what the document turns out to be. CS-E Amendment 8 still cites
+`CS 34.1` and `CS 34.2` by name, which is why the file is kept.
+
+### The chain resolves inside the Part 21 file
+
+Every step after CS-34 is in `Part-21_EAR_Reg-748-2012_Nov-2025.pdf`:
+
+| Step | Says |
+|---|---|
+| `21.B.85(a)`, per Regulation (EU) 2025/1065 | "the Agency shall designate and notify to the applicant the applicable environmental protection requirements from the essential requirements referred to in the first subparagraph of Article 9(2) of Regulation (EU) 2018/1139" — the same phrase the repeal decision uses |
+| `GM2 21.B.85` | those requirements are the SARPs in Volumes I, II and III of ICAO Annex 16 |
+| `GM1 21.B.85(a)` | Volume II Part II, **fuel venting**, "applies to turbine engine powered aircraft manufactured after 18 February 1982" |
+| `GM1 21.B.85(a)` | Volume II Part III, **engine emissions**, "applies to the aircraft engine emissions certification for turbojet and turbofan engines intended for the propulsion at subsonic and supersonic speeds" |
+
+The 21.B.85 material carries Regulation (EU) 2025/1065 and ED Decision
+2025/016/R, so it post-dates the CS-34 repeal. It is the live successor.
+
+### An open scope question this raises
+
+Volume II Part III is stated to apply to **turbojet and turbofan** engines. A
+turboshaft is neither. If that holds, CS-E 1020 may not reach this engine at
+all, and CS-E 1000's conditional — compliance with CS-E 1010 and CS-E 1020 "may
+be mandatory … depending on the specifications referenced under CS-34" —
+resolves differently from what the vault currently assumes. Fuel venting is not
+affected: Part II reaches any turbine engine powered aircraft, which includes a
+rotorcraft.
+
+This is not yet a finding. It rests on a GM sentence describing Annex 16 rather
+than on Annex 16 itself, and **ICAO Annex 16 Volume II is not held**. Settling
+it needs that document. Nothing in the vault has been changed on the strength of
+it.
+
 ## Still missing
 
 | Document | What it blocks |
 |---|---|
-| **CS-34** | Essentially the whole content of CS-E 1010 and CS-E 1020 — every fuel venting specification, every emissions limit, operating cycle and measurement method — and whether CS-E 1000 makes either mandatory |
+| **ICAO Annex 16, Volume II** | The actual fuel venting and engine emissions SARPs, at the end of the CS-34 chain. Also settles whether Part III reaches a turboshaft at all. Not an EASA document — published by ICAO |
 | **EUROCAE ED-14 / RTCA DO-160** | The test procedure for 15 of the 19 items in AMC E 80 Table 2 |
 | **ISO 2685** | The fire test standard behind AMC E 130 — flame definition, temperature, duration |
 | **FAA AC 33.70-2, AC 33.70-3** | Damage tolerance methods named by AMC E 515 |

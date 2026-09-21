@@ -26,7 +26,18 @@ scope, each reading the notes AND their source paragraphs. Cross-checked against
 > `source/external/SOURCES.md` is the current record of what is held and what
 > each one closes.
 >
-> Still missing: **CS-34**, which is the largest remaining item, and the
+> **CS-34 turned out not to be the blocker this inventory calls it.** The
+> document is five pages, and its whole normative content is two sentences that
+> redirect to point 21.A.21 of Part 21. It holds no limit, no operating cycle
+> and no measurement method. The chain then runs 21.A.21 → 21.A.20 → 21.B.85 →
+> ICAO Annex 16, and every step after CS-34 is inside the Part 21 file now held.
+> EASA repealed CS-34 on 27 May 2025, five weeks after CS-E Amendment 8 was
+> issued, precisely to stop it being used as though it carried requirements.
+> `source/external/SOURCES.md` sets out the chain and the one scope question it
+> opens — whether ICAO Annex 16 Volume II Part III, which is stated to cover
+> turbojet and turbofan engines, reaches a turboshaft at all.
+>
+> Still missing: **ICAO Annex 16 Volume II**, at the end of that chain, and the
 > industry standards — EUROCAE ED-14 / RTCA DO-160, ISO 2685, FAA AC 33.70-2
 > and -3, SAE ARP4754A / EUROCAE ED-79A.
 
@@ -46,7 +57,7 @@ test is run. `source/` holds five PDFs and none of those is among them.
 |---|---|---|
 | **CS-Definitions** | CS-E 15(a), twice | CS-E 15 defines about twenty terms and says the rest are in CS-Definitions. Every other capitalised term in the vault — Failure, Fault, Control Mode, Fireproof, Engine — is defined there, not here. |
 | **CS-Definitions Amendment 2** | CS-E 780(a)(2) | The 'Icing Atmospheric Conditions' the icing test must cover. Without it the test envelope cannot be stated. |
-| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | Essentially the whole content of two paragraphs: the fuel venting specifications and every emissions limit, operating cycle and measurement method. |
+| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | ~~Essentially the whole content of two paragraphs~~ — **corrected**: CS-34 is a five-page redirect to point 21.A.21 of Part 21 and holds no requirement of its own. Held now, repealed 27 May 2025. What the chain ends at, ICAO Annex 16 Volume II, is the real gap. |
 | **CS-27 / CS-29** | The assumed aircraft code, via CS-E 20(b) and CS-E 30 | Which code applies is undecided, and CS-E cites both. It propagates into installation assumptions throughout. |
 | **CS-27.45(f) / CS-29.45(f)** | AMC E 20(f)(1) | The power availability specification the engine data must satisfy. |
 | **CS 27.1093(b) / CS 29.1093(b)** | CS-E 780(a)(2) | The ice protection specifications that fix which additional icing conditions apply. |
