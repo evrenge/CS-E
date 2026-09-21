@@ -1,4 +1,4 @@
-# CS 29.917 Rotor drive system design
+# CS 29.917 Design (rotor drive system)
 # id: CS 29.917
 # source: external/CS-29_Amendment_12.pdf
 # chars: 2035

@@ -80,8 +80,8 @@ WANTED: list[tuple[str, str, str, str]] = [
     ("CS 29.1093", "CS-29_Amendment_12.pdf", "Induction system icing protection"),
     ("CS 27.1305", "CS-27_Amendment_10.pdf", "Powerplant instruments"),
     ("CS 29.1305", "CS-29_Amendment_12.pdf", "Powerplant instruments"),
-    ("CS 29.917", "CS-29_Amendment_12.pdf", "Rotor drive system design"),
-    ("CS 27.917", "CS-27_Amendment_10.pdf", "Rotor drive system design"),
+    ("CS 29.917", "CS-29_Amendment_12.pdf", "Design (rotor drive system)"),
+    ("CS 27.917", "CS-27_Amendment_10.pdf", "Design (rotor drive system)"),
     ("CS 29.923", "CS-29_Amendment_12.pdf", "Rotor drive system and control mechanism tests"),
     ("CS 27.923", "CS-27_Amendment_10.pdf", "Rotor drive system and control mechanism tests"),
     ("AMC2 29.917", "CS-29_Amendment_12.pdf", "Rotor drive system design — lubrication systems"),
@@ -242,11 +242,15 @@ def extract(pid: str, text: str, heading: re.Pattern = HEADING,
     for m in re.finditer(rf"^[ \t]*{re.escape(key)}{tail}{sep}\S", text, re.M):
         # A table-of-contents entry carries dot leaders and a page number. A
         # long one wraps, so the leaders can be on the following line.
-        window = text[m.start():m.start() + 320].split("\n")[:3]
+        window = text[m.start():m.start() + 400].split("\n")[:4]
         if any(re.search(r"\.{4,}\s*\d+\s*$", ln) for ln in window):
             continue
-        following = [ln for ln in window[1:] if ln.strip()]
-        candidates.append((bool(following and ATTRIB.match(following[0])), m.start()))
+        # The attribution is not always the line straight after the number: a
+        # long title wraps, and "21.A.801 Identification of products and control
+        # and monitoring" puts "units (CMUs)" in between. Looking one line down
+        # only, the real heading loses to a cross-reference elsewhere.
+        following = [ln for ln in window[1:] if ln.strip()][:2]
+        candidates.append((any(ATTRIB.match(ln) for ln in following), m.start()))
     if not candidates:
         return None
     # Prefer a candidate with an attribution line under it; else the first.
