@@ -58,10 +58,18 @@ The turbine engine terms at (c) apply. The Engine Critical Part terms at (e)
 apply and carry into [[CS-E 515]], which is where the obligations they support
 are written.
 
-[VERIFY: CS-Definitions is not held in `source/`. CS-E 780 cites "CS-Definitions
-Amendment 2" for icing atmospheric conditions, so that issue is at least
-contemporaneous, but the issue current at the date of CS-E Amendment 8 should be
-confirmed and obtained.]
+CS-Definitions is now held, at Amendment 2, annexed to ED Decision 2010/014/R.
+CS-E Amendment 8 names that same issue in [[CS-E 780|CS-E 780(a)(2)]], which is
+the only place CS-E dates the document it defers to. The terminology rule of
+(a) is therefore satisfied against Amendment 2.
+
+Three defined terms are used elsewhere in this vault and are recorded where they
+bite rather than here: Fireproof and Fire-resistant in [[CS-E 130]], and
+'Icing Atmospheric Conditions' in [[CS-E 780]].
+
+[VERIFY: confirm with the Agency that Amendment 2 is still the current issue of
+CS-Definitions at the date of the application. The sandbox this vault is built
+in cannot reach the EASA site, so a later issue cannot be ruled out here.]
 
 ## Not applicable
 

@@ -233,8 +233,13 @@ def extract(pid: str, text: str, heading: re.Pattern = HEADING,
     # applied only where the key ends in a letter or a digit, because a glossary
     # term ends in a closing quote and is followed by a full stop.
     tail = r"(?![A-Za-z0-9])" if key[-1].isalnum() else ""
+    # A paragraph heading is the number, a space, and its title. Allowing no
+    # space matched "CS 29.1305(a)(18)." -- a cross-reference at the start of a
+    # line -- and the slice that followed was the tail of CS 29.1307. A glossary
+    # term is the exception: it is followed directly by a full stop.
+    sep = r"[ \t]*" if key.endswith("\u2019") else r"[ \t]+"
     candidates = []
-    for m in re.finditer(rf"^[ \t]*{re.escape(key)}{tail}[ \t]*\S", text, re.M):
+    for m in re.finditer(rf"^[ \t]*{re.escape(key)}{tail}{sep}\S", text, re.M):
         # A table-of-contents entry carries dot leaders and a page number. A
         # long one wraps, so the leaders can be on the following line.
         window = text[m.start():m.start() + 320].split("\n")[:3]
@@ -277,7 +282,10 @@ def main() -> int:
         # that catches a heading regex matching a longer number -- a defect that
         # produces plausible text for the wrong paragraph and fails nothing else.
         first = slice_.split("\n", 1)[0].strip()
-        if key != "*" and not first.startswith(key or pid):
+        k = key or pid
+        ok = first.startswith(k) and (
+            k.endswith("\u2019") or first[len(k):len(k) + 1] in (" ", "\t"))
+        if key != "*" and not ok:
             print(f"  {pid:44s} WRONG SLICE: starts {first[:40]!r}")
             missing += 1
             continue

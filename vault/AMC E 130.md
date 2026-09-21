@@ -175,6 +175,12 @@ components, and the potting compound allowance in (2)(d)(iii) is written for
 exactly this kind of hardware. The fire item in
 [[AMC E 80|AMC E 80(2)(c)]] points here.
 
+**The two fire levels.** Point (1)(d) says only that the definitions are in
+CS-Definitions and what they imply. The definitions themselves are recorded in
+[[CS-E 130]]: one flame, 15 minutes for Fireproof and 5 minutes for
+Fire-resistant. The exposure times in this AMC are the same two numbers, so a
+component classified here is being classified against those definitions.
+
 **Installation dependence.** The installation analysis route in (4)(b) requires
 co-ordination with the installer and re-evaluation for each new installation.
 Since the rotorcraft installation is not fixed, choosing that route now would
