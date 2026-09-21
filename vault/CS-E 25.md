@@ -101,6 +101,13 @@ Amended at Amendment 7. The amendment deleted the opening qualifier "In
 accordance with 21.A.61(a)," from sub-point (a), so the obligation to establish
 the manuals now stands on its own. No change to what the manuals must contain.
 
+The deleted wording is not readable in either consolidated amendment, because
+Amendment 7 is what removed it. It comes from the Amendment 7 Change
+Information PDF, which shows CS-E 25(a) opening with "In accordance with
+21.A.61(a)," struck through and "Manual(s)" recased. `extract_redline.py`
+recovers it into `work/redline.json`, which is the only admissible source for a
+pre-amendment quotation in this vault.
+
 The deletion removed a citation that no longer resolves. Point 21.A.61 is absent
 from the Part 21 consolidation held in `source/external/`: the numbering runs
 21.A.51, then 21.A.62, then 21.A.65, and an exact search for the point returns

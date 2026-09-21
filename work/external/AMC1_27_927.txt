@@ -1,0 +1,28 @@
+# AMC1 27.927 Additional tests
+# id: AMC1 27.927
+# source: external/CS-27_Amendment_10.pdf
+# chars: 1112
+
+AMC1 27.927 Additional tests 
+(a) 
+Introduction 
+This AMC supplements FAA AC 27-1B, § AC 27.927 and should be used in conjunction with that 
+AC when demonstrating compliance with CS 27.927. 
+(b) 
+Variable rotor speed (NR) 
+(1) 
+Explanation 
+The variable rotor speed (NR) function allows running at different NR levels to achieve, 
+for instance, lower noise levels and better rotorcraft performance. 
+In addition to the endurance test prescribed in CS 27.923, additional tests may be 
+necessary to demonstrate that rotor drive systems of rotorcraft with a variable NR are 
+safe. 
+(2) 
+Procedure 
+In order to substantiate an acceptable vibration and dynamic behaviour of rotor drive 
+systems when using the available range of rotor speeds within the variable NR function, 
+the applicant should consider performing specific test investigations, as prescribed in 
+CS 27.927(a). The need for representative test runs at the different torque and rotor 
+speed combinations, covering steady states and transient conditions to be encountered 
+in operation, should be evaluated by and agreed with the Agency. 
+[Amdt 27/10]

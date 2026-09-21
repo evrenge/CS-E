@@ -121,9 +121,10 @@ A third item is live for this engine because of a rating CS-E 60(d) does not
 cover. Where a 30-minute power rating is claimed, the pilot must be alerted when
 the engines are at that rating level, when the event begins, when the time
 interval expires and, where a cumulative limit in one flight exists, when that
-cumulative time is reached [ext CS 29.1305(a)(27)]. `engine_profile.md` declares
-Rated 30-Minute Power under [[CS-E 40|CS-E 40(b)(4)]], so the installer needs
-the engine data to support that alerting.
+cumulative time is reached [ext CS 29.1305(a)(27)], [ext CS 27.1305(w)].
+`engine_profile.md` declares Rated 30-Minute Power under
+[[CS-E 40|CS-E 40(b)(4)]], so the installer needs the engine data to support
+that alerting.
 
 The (d)(5) relief is available only if the applicant declares Maximum Engine
 Over-torque, Maximum Engine Over-speed or Maximum Exhaust Gas Over-Temperature

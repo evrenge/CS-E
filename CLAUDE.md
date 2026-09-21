@@ -239,7 +239,27 @@ merged one. `CS 27.927` and `CS 29.927` share a structure and differ in
 substance — CS-29 carries the Category A and B loss-of-lubrication regime that
 CS-27 states in a single sentence. A merged note would have to caveat every row,
 and a reader certifying against one code does not want the other's text in the
-same table. Each links the other under `Counterpart:`.
+same table. Each links the other under `Counterpart:`, and `lint_vault.py`
+requires that line wherever the counterpart point is sliced.
+
+**An external note carries its own AMC material inside it**, as a
+`### Acceptable means` section under `## Requirement`, and lists it on an
+`Accepted means:` line in `## References`. The one AMC note per CS-E number rule
+does not extend here: a separate `AMC1 29.927.md` would imply the vault reads
+CS-29 as a whole, which it does not. It reads the points it cites.
+
+### CS-27 and CS-29 are read together
+The airframe code is not fixed — see the open item in `CS-E 30`. A note that
+cites `CS 29.1093` and not `CS 27.1093` reads as though it were. So wherever the
+counterpart point is sliced into `work/external/`, a note cites both, and
+`lint_vault.py` fails it otherwise. The check is at point level, because the
+sub-point labels differ between the codes: the 30-minute power alerting duty is
+`CS 29.1305(a)(27)` and `CS 27.1305(w)`.
+
+Where only one code carries something, the note says so in words rather than
+falling silent. CS-27 prescribes no rotor drive overspeed test, so the engine
+data item behind `CS 29.927(d)` has no CS-27 counterpart, and `CS-E 20` states
+that.
 
 ### Obligation strength
 The `Strength` column takes one of seven values and nothing else. Each is fixed
@@ -451,15 +471,19 @@ the PDF text layer and a note — the vulgar fractions, the thin space in
 per cited paragraph, so an `[ext …]` quotation can be checked word-for-word the
 way a CS-E quotation is. Only the points the vault cites are extracted, listed in
 its `WANTED` table; adding one means adding a line there. Its docstring records
-the four extraction defects that had to be fixed to make the slices trustworthy,
-each of which silently produced wrong text rather than failing.
+the extraction defects that had to be fixed to make the slices trustworthy. Every
+one of them produced plausible text for the wrong paragraph instead of failing,
+which is why each slice is checked to open with the heading it claims.
 
 `external_refs.py` lists every reference the in-scope paragraphs and the notes
 make to a document outside `source/` — Part 21, the AMC 20 series, CS-Definitions,
-CS-23/25/27/29, CS-34, FAA material and industry standards. Those are the vault's
-dead ends: a reader who follows one leaves and cannot come back with an answer.
-A reference that appears only inside an embedded table is marked as such, because
-accuracy rule 6 puts it in the crop rather than the text.
+CS-23/25/27/29, CS-34, FAA material and industry standards — and marks each
+family **HELD** or **NOT HELD**. A reference into a held family can be followed:
+the document is in `source/external/` and the point may be sliced into
+`work/external/`. A reference into a family that is not held is a dead end, in
+the sense `review/dead_ends.md` uses. A reference that appears only inside an
+embedded table is marked as such, because accuracy rule 6 puts it in the crop
+rather than the text.
 
 `build_matrix.py` reads the `## Requirement` tables out of the vault and writes one
 row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the compliance
@@ -469,8 +493,8 @@ overwrites them, so a working copy of the matrix belongs outside this repository
 
 ### The scripts that are not pipeline steps
 
-Four files in `scripts/` are not part of the sequence above, and nothing in the
-sequence fails if they are never run again.
+These files are not part of the sequence above, and nothing in the sequence
+fails if they are never run again.
 
 - `classification.py` — the applicability verdict for every in-scope paragraph, as
   data: one `(id, status, reason)` entry each. `build_applicability.py` renders it
@@ -486,6 +510,8 @@ sequence fails if they are never run again.
 - `slide_plan.py` — the topic grouping and reading order, kept because
   `build_applicability.py` checks its coverage. The deliverable is the vault, not
   a deck; the name is historical.
+- `extract_figures.py` — crops a figure or table to `vault/figures/`. Run it when
+  a note needs an image it does not yet have; see **Figures**.
 
 ## Using the other four source documents
 

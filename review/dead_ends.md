@@ -51,6 +51,7 @@ Part II reaches any turbine engine powered aircraft.
 | **EUROCAE ED-14 / RTCA DO-160** | the test procedure for 15 of the 19 items in AMC E 80 Table 2 | paywalled industry standard |
 | **ISO 2685** | the AMC E 130 fire test — flame definition, temperature, duration | paywalled |
 | **FAA AC 33.70-2, AC 33.70-3** | damage tolerance methods named by AMC E 515 | free from the FAA; not yet fetched |
+| **FAA AC 27-1B, AC 29-2C** | the rotor drive system AMCs supplement them rather than replace them: `AMC1 27.927`, `AMC1 29.927` and `AMC2 29.917` each say they should be used in conjunction with the AC | free from the FAA; not fetched. They bear on the transmission, not the engine, so they block nothing in CS-E |
 | **SAE ARP4754A / ED-79A, ARP 926A, ARP 4761** | technique sources named by AMC E 510(5) | paywalled, and named as technique rather than obligation |
 | **MIL-STD-810, MIL-STD-704, MIL-E-5007, SRA-AMS 180/251, ISO 12103-1, AIA PC 338-1** | alternative test standards in the AMC E 80 and AMC E 670 tables | each has a named alternative already carried, or the values are reproduced in the embedded table |
 | **ICAO Annex 16 Volume II** | the far end of the CS-34 chain | out of scope by the decision above |

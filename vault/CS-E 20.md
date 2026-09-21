@@ -4,7 +4,7 @@ type: CS
 subpart: A
 pages: 18-18
 changed_in: []
-imports: [CS-29]
+imports: [CS-27, CS-29]
 tags: [type-design, interfaces, manuals, installation, oei]
 ---
 # CS-E 20 — Engine Configuration and Interfaces
@@ -56,7 +56,10 @@ with its limitations. The propeller clause in (d) does not arise.
 The installer also needs engine data for the rotor drive system tests of the
 rotorcraft code. Under CS-29 that includes the rotational speed expected after
 an engine control device failure, which sets the overspeed test condition
-[ext CS 29.927(d)]. See [[CS 29.927]].
+[ext CS 29.927(d)]. CS-27 asks for no such figure, because it prescribes no
+overspeed test for the rotor drive system [ext CS 27.927]. The data item is
+therefore a CS-29 item, and an engine offered to both codes carries it for the
+heavier one. See [[CS 29.927]] and [[CS 27.927]].
 
 Sub-point (c) is where aircraft-supplied resources are declared. [[AMC E 20]]
 names recorded rotorcraft OEI data as one such resource.

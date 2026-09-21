@@ -134,9 +134,9 @@ what AMC E 20(f)(1) calls installation losses definable at engine level.
 
 Point 45(e) fixes the humidity the rotorcraft performance is based on for a
 turbine engine: 80% at and below standard temperature and 34% at and above
-standard temperature plus 28°C, varying linearly between
-[ext CS 29.45(e)]. Engine power data supplied under (f)(1) is used inside that
-frame.
+standard temperature plus 28°C, varying linearly between [ext CS 29.45(e)],
+[ext CS 27.45(e)]. Both codes carry the same two figures. Engine power data
+supplied under (f)(1) is used inside that frame.
 
 ## Not applicable
 

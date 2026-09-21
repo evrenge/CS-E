@@ -74,7 +74,10 @@ EXT_CITE = re.compile(r"\[ext ([^\]]+)\]")
 # Everything a note legitimately needs beyond ASCII: typography the house style
 # uses, and the technical notation the source carries. Anything else is a slip —
 # a stray CJK character once landed mid-sentence in CS-E 790 and read as a word.
-ALLOWED_NON_ASCII = set("·—–…½°±×−√θ⁻⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉‘’“”")
+# "§" earns its place the same way: CS-27 and CS-29 cite an FAA advisory
+# circular as "FAA AC 29-2C, § AC 29.927", and a note quoting that citation has
+# to reproduce it.
+ALLOWED_NON_ASCII = set("·—–…½°±×−√θ§⁻⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉‘’“”")
 # Quotation marks are paired by POSITION, not matched by a regex: a regex cannot
 # tell an opening quote from a closing one, so it matches the prose BETWEEN two
 # separate quotations and reports it as unverifiable.
@@ -475,6 +478,36 @@ def check_imports(text, fm, say, require_field=True) -> set[str]:
     return docs
 
 
+# "CS 29.1093(b)(2)" -> the point it belongs to, and the code it is in.
+CODE_POINT = re.compile(r"^((?:(?:AMC|GM)\d*\s+)?CS\s+(2[79])\.\d+)")
+
+
+def check_code_parity(text, say) -> None:
+    """CS-27 and CS-29 are read together, or the note names only one platform.
+
+    An engine offered to a rotorcraft installer meets whichever code the
+    airframe is certificated to, and the vault has not fixed which -- see the
+    open item in CS-E 30. A note that cites CS 29.1093 and not CS 27.1093 reads
+    as though the answer were settled. Where the counterpart point is sliced,
+    the note has to cite it too; the sub-point labels differ between the codes,
+    so the check is at point level and not below it.
+    """
+    cited = {c.strip() for c in EXT_CITE.findall(text)}
+    points = {}
+    for cid in cited:
+        m = CODE_POINT.match(cid)
+        if m:
+            points[m.group(1)] = m.group(2)
+    for point, code in sorted(points.items()):
+        other = "27" if code == "29" else "29"
+        counterpart = point.replace(f"CS {code}.", f"CS {other}.", 1)
+        if counterpart in points:
+            continue
+        if counterpart in ext_slices():
+            say(f"cites {point} but not {counterpart}, which work/external/ "
+                "holds -- name both platforms or say why only one applies")
+
+
 def check_characters(text, say) -> None:
     for n, line in enumerate(text.splitlines(), 1):
         bad = {c for c in line if ord(c) > 127 and c not in ALLOWED_NON_ASCII}
@@ -554,6 +587,7 @@ def check_cse_notes(expected, targets, problems) -> set[str]:
         check_table_rows(text, say)
         check_links(text, say, targets)
         check_imports(text, fm, say)
+        check_code_parity(text, say)
         check_characters(text, say)
         check_terminology(text, say)
     return seen
@@ -614,6 +648,15 @@ def check_external_notes(targets, problems) -> set[str]:
         check_requirement_table(text, say)
         check_table_rows(text, say)
         check_links(text, say, targets)
+        # A note about a CS-27 or CS-29 point names the other code's note, so a
+        # reader certificating against one code can find the other.
+        m = CODE_POINT.match(name)
+        if m:
+            other = "27" if m.group(2) == "29" else "29"
+            counterpart = name.replace(f"CS {m.group(2)}.", f"CS {other}.", 1)
+            if counterpart in ext_slices() and not re.search(
+                    r"(?m)^Counterpart:", text):
+                say(f"no 'Counterpart:' line naming {counterpart!r}")
         # `document:` already names the source, so imports: would repeat it.
         check_imports(text, fm, say, require_field=False)
         if "imports" in fm:
@@ -621,6 +664,54 @@ def check_external_notes(targets, problems) -> set[str]:
         check_characters(text, say)
         check_terminology(text, say)
     return seen
+
+
+def check_graph(problems: list[str]) -> tuple[int, int]:
+    """The vault is one graph, and every note is reachable from another.
+
+    A note nobody links to is invisible in Obsidian's graph view and is found
+    only by searching for it, which is the thing this vault exists to avoid. An
+    island of notes that link to each other and to nothing else is the same
+    defect at a larger scale -- it is what a second, unconnected vault looks
+    like.
+
+    Links are read as undirected here: a References line pointing out of a note
+    joins it to the graph just as well as one pointing in.
+    """
+    notes: dict[str, str] = {}
+    for f in list(VAULT.glob("*.md")) + list(VAULT_EXT.glob("*.md")):
+        notes[f.stem] = f.read_text(encoding="utf-8")
+    adj: dict[str, set[str]] = {n: set() for n in notes}
+    inbound: dict[str, int] = {n: 0 for n in notes}
+    for name, text in notes.items():
+        body = text.split("---\n", 2)[-1]
+        for m in WIKILINK.finditer(body):
+            target = m.group(1).strip()
+            if target in notes and target != name:
+                adj[name].add(target)
+                adj[target].add(name)
+                inbound[target] += 1
+    seen: set[str] = set()
+    components: list[set[str]] = []
+    for start in notes:
+        if start in seen:
+            continue
+        stack, comp = [start], set()
+        while stack:
+            node = stack.pop()
+            if node in comp:
+                continue
+            comp.add(node)
+            seen.add(node)
+            stack.extend(adj[node])
+        components.append(comp)
+    components.sort(key=len, reverse=True)
+    for island in components[1:]:
+        problems.append("graph: these notes link only to each other and to "
+                        f"nothing else: {', '.join(sorted(island))}")
+    for name in sorted(n for n in notes if not inbound[n]):
+        problems.append(f"{name}.md: no other note links to it")
+    return len(notes), len(components)
 
 
 def main() -> int:
@@ -632,6 +723,7 @@ def main() -> int:
 
     seen = check_cse_notes(expected, targets, problems)
     seen_ext = check_external_notes(targets, problems)
+    n_notes, n_components = check_graph(problems)
 
     print(f"{len(seen)} notes checked, {len(expected)} expected in total "
           f"({len(set(expected) - seen)} not yet written)")
@@ -640,6 +732,7 @@ def main() -> int:
         print(f"  Subpart {sp}: {len(want & seen)}/{len(want)}")
     if seen_ext:
         print(f"  External: {len(seen_ext)} note(s) in vault/external/")
+    print(f"  Graph: {n_notes} notes in {n_components} connected component(s)")
     if problems:
         print(f"\n{len(problems)} problem(s):")
         for p in problems:

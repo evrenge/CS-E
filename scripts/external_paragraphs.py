@@ -85,6 +85,11 @@ WANTED: list[tuple[str, str, str, str]] = [
     ("CS 29.923", "CS-29_Amendment_12.pdf", "Rotor drive system and control mechanism tests"),
     ("CS 27.923", "CS-27_Amendment_10.pdf", "Rotor drive system and control mechanism tests"),
     ("AMC2 29.917", "CS-29_Amendment_12.pdf", "Rotor drive system design — lubrication systems"),
+    # The AMC of the two paragraphs that have a note of their own. A CS and its
+    # AMC belong together; that is the whole structure of this vault.
+    ("AMC1 27.927", "CS-27_Amendment_10.pdf", "Additional tests"),
+    ("AMC1 29.927", "CS-29_Amendment_12.pdf", "Additional tests"),
+    ("AMC1 29.927(c)", "CS-29_Amendment_12.pdf", "Additional tests — loss of lubrication"),
     # --- CS-34, repealed, kept because CS-E Amendment 8 still cites it
     ("CS 34.1", "CS-34_Amendment_4_repealed.pdf", "Fuel venting"),
     ("CS 34.2", "CS-34_Amendment_4_repealed.pdf", "Aircraft engine emissions"),
@@ -141,7 +146,13 @@ HEADING = re.compile(
     # justified PDF breaks lines anywhere, so "...point 21.A.21 of Annex I"
     # puts a paragraph number at the start of a line mid-sentence; the
     # lower-case continuation is what tells the two apart.
-    r")[ \t]+[A-Z(]", re.M)
+    #
+    # The lookbehind catches the case where the continuation IS capitalised:
+    # "...as prescribed in CS 27.927(a). The need for representative test runs"
+    # breaks so that the citation starts a line, and "The" then looks like a
+    # title. A heading never ends in a full stop, and a citation mid-sentence
+    # usually does. Without this, AMC1 27.927 ended mid-sentence.
+    r")(?<![.,;:])[ \t]+[A-Z(]", re.M)
 
 # AMC-20 heads each AMC with its number and title, and puts a divider line
 # carrying the bare number in front of it. Both are boundaries.

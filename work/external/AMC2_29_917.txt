@@ -1,7 +1,7 @@
 # AMC2 29.917 Rotor drive system design — lubrication systems
 # id: AMC2 29.917
 # source: external/CS-29_Amendment_12.pdf
-# chars: 6861
+# chars: 9977
 
 AMC2 29.917 Rotor drive system design 
 LUBRICATION SYSTEMS 
@@ -102,4 +102,64 @@ provide sufficient independence from the normal-use lubrication system. Since th
 lubrication system is by definition integral to the same gearbox as the normal-use lubrication 
 system, it may be impractical for it to be completely independent. Therefore, designs should be 
 conceived such that shared components or interfaces between the normal-use and auxiliary 
-lubrication systems are minimised and comply with the design assessment provisions of
+lubrication systems are minimised and comply with the design assessment provisions of 
+CS 29.917(b). A failure of any common feature shared by both the normal-use and auxiliary 
+lubrication systems that could result in the failure of both systems, and would consequently 
+reduce the maximum period of operation following loss of lubrication, should be shown to be 
+an extremely remote lubrication failure. If compliance with CS 29.927(c) is reliant on the 
+functioning of an auxiliary lubrication system, then: 
+(1) 
+for the unlikely event of a combined failure of both the normal-use lubrication system 
+and the auxiliary lubrication system, the applicant should perform additional loss of 
+
+ 
+lubrication tests simulating this condition. The aim is to substantiate additional RFM 
+emergency procedures for this combined failure to ensure the capability of the drive 
+system to sustain a minimum duration of safe operation. These procedures should 
+instruct the flight crew to ‘LAND IMMEDIATELY’ unless the additional tests performed 
+representing this failure mode demonstrate that an increased duration is justified; and 
+(2) 
+a means of verifying that the auxiliary lubrication system is functioning properly should 
+be provided during normal operation of the rotorcraft on either a periodic, pre-flight or 
+continual basis. Following a failure of the normal-use lubrication system and activation of 
+an auxiliary lubrication system, the flight crew should be alerted in the event of any 
+system malfunction. 
+(h) 
+Independence of the auxiliary lubrication system. 
+(1) 
+In order to ensure that the auxiliary lubrication system is sufficiently independent: 
+(i) 
+a failure of any pressurised portion of the normal-use lubrication system should not 
+result in a subsequent failure of the auxiliary lubrication system; 
+(ii) 
+common failure modes shown to defeat both the normal-use and the auxiliary 
+lubrication systems should be shown to be extremely remote lubrication failures, 
+unless it is demonstrated by testing conducted to comply with CS 29.927(c) that 
+the failure mode does not compromise the Maximum period of operation following 
+loss of lubrication; and 
+(iii) 
+control systems, logic and health-reporting systems should not be shared; 
+consideration should be given to the design process to ensure appropriate 
+segregation of the control and warning systems in the system architecture. 
+(2) 
+Methods which should be used to demonstrate that failure modes of common areas are 
+extremely remote include: 
+(i) 
+field experience of the exact design with an exact application; 
+(ii) 
+field experience with a similar design/application with supporting test data to allow 
+a comparison; 
+(iii) 
+demonstration by test of extremely low leakage rates; 
+(iv) 
+redundancy of design; 
+(v) 
+structural substantiation with a high safety margin for elements of the lubrication 
+systems assessed against CS 29.571; and 
+(vi) 
+assessment of the potential dormant failure modes of the auxiliary lubrication 
+system, and in order to minimise the risk of dormant failures, determination of the 
+health of the auxiliary lubrication system prior to each flight. 
+[Amdt: 29/5] 
+[Amdt: 29/10] 
+[Amdt: 29/11]
