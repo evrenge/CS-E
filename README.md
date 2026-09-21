@@ -52,7 +52,9 @@ engine_profile.md  the declared engine configuration (project input)
 vault/             THE DELIVERABLE. One note per paragraph, Obsidian-linked
 deck/              compliance matrix, derived from the vault
 review/            verification findings and the dead-end inventory
-source/            the five EASA PDFs, read-only, SHA-256 pinned
+source/            the five EASA CS-E PDFs, read-only, SHA-256 pinned
+source/external/   documents CS-E cites and does not contain — CS-27, CS-29,
+                   CS-Definitions, AMC-20. Not requirement content
 scripts/           extraction, classification, validation, rendering
 work/              generated. 486 files of intermediate output — ignore unless
                    you are checking a specific extraction

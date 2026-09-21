@@ -40,6 +40,19 @@ EXPECTED: dict[str, tuple[str, int]] = {
     "EN_to_ED_Decision_2025-003-R.pdf": ("Explanatory Note to ED Decision 2025/003/R", 11),
 }
 
+# Documents CS-E cites and does not contain. A second tier on purpose: they are
+# never a source of CS-E requirement content, and they are pinned to the version
+# the vault was written against rather than tracked across amendments.
+# See source/external/SOURCES.md.
+EXTERNAL: dict[str, tuple[str, int]] = {
+    "CS-27_Amendment_10.pdf": ("Easy Access Rules for Small Rotorcraft (CS-27)", 322),
+    "CS-29_Amendment_12.pdf": ("CS-29 Amendment 12", 438),
+    "CS-Definitions_Amendment_2.pdf": ("Decision 2010/014/R", 26),
+    "AMC-20_Amendment_23.pdf": ("AMC-20 Amendment 23", 678),
+    "AMC-GM_Part-21_Issue-2_Amendment_18.pdf":
+        ("AMC & GM to Part 21 — Issue 2, Amendment 18", 18),
+}
+
 CHANGE_RE = re.compile(
     r"((?:CS-E|AMC E|GM E)\s*\d{2,4}[A-Za-z()0-9 ]{0,12}?)\s+is\s+"
     r"(amended|replaced|inserted|added|deleted|created)",
@@ -47,8 +60,8 @@ CHANGE_RE = re.compile(
 )
 
 
-def checksums() -> dict[str, str]:
-    path = SOURCE_DIR / "CHECKSUMS.sha256"
+def checksums(directory: Path = SOURCE_DIR) -> dict[str, str]:
+    path = directory / "CHECKSUMS.sha256"
     if not path.exists():
         return {}
     out: dict[str, str] = {}
@@ -70,9 +83,9 @@ def change_inventory(reader: PdfReader) -> list[tuple[str, str]]:
 
 
 def check(name: str, expect_title: str, expect_pages: int, sums: dict[str, str],
-          show_inventory: bool) -> list[str]:
+          show_inventory: bool, directory: Path = SOURCE_DIR) -> list[str]:
     problems: list[str] = []
-    path = SOURCE_DIR / name
+    path = directory / name
     print(f"\n{name}")
 
     if not path.exists():
@@ -113,8 +126,12 @@ def check(name: str, expect_title: str, expect_pages: int, sums: dict[str, str],
     if "easa" not in author.lower():
         problems.append(f"{name}: /Author is {author!r}, expected EASA")
 
-    empty = [i + 1 for i, p in enumerate(reader.pages) if not (p.extract_text() or "").strip()]
-    total = sum(len(p.extract_text() or "") for p in reader.pages)
+    # Extract once per page. Doing it twice doubled the cost of the slowest
+    # step in the pipeline, which matters now that AMC-20 (678 pages) and
+    # CS-29 (438) are checked too.
+    texts = [p.extract_text() or "" for p in reader.pages]
+    empty = [i + 1 for i, s in enumerate(texts) if not s.strip()]
+    total = sum(len(s) for s in texts)
     print(f"  text     {total:,} chars, {len(empty)} page(s) without a text layer")
     if empty:
         head = ", ".join(str(i) for i in empty[:10])
@@ -147,13 +164,24 @@ def main() -> int:
     for name, (title, pages) in EXPECTED.items():
         problems += check(name, title, pages, sums, args.inventory)
 
+    ext_dir = SOURCE_DIR / "external"
+    ext_sums = checksums(ext_dir)
+    if EXTERNAL and ext_dir.exists():
+        print("\n" + "=" * 70)
+        print("External reference documents (not CS-E requirement content)")
+        if not ext_sums:
+            print("warning: source/external/CHECKSUMS.sha256 is missing")
+        for name, (title, pages) in EXTERNAL.items():
+            problems += check(name, title, pages, ext_sums, False, ext_dir)
+
     print("\n" + "-" * 70)
     if problems:
         print(f"{len(problems)} problem(s):")
         for p in problems:
             print(f"  - {p}")
         return 1
-    print(f"All {len(EXPECTED)} source documents verified.")
+    print(f"All {len(EXPECTED)} source documents and {len(EXTERNAL)} external "
+          "reference documents verified.")
     return 0
 
 

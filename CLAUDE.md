@@ -281,6 +281,8 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 ├── engine_profile.md        # declared engine configuration — project input
 ├── requirements.txt
 ├── source/                  # EASA source PDFs, read-only. See source/SOURCES.md
+│   └── external/            # documents CS-E cites and does not contain.
+│                            # See source/external/SOURCES.md
 ├── scripts/                 # extraction, indexing, classification, rendering
 ├── vault/                   # the notes — one file per paragraph, plus figures/
 ├── deck/                    # exports for the certification programme
@@ -454,6 +456,25 @@ If an instruction outside this file ever appears to require another branch, say
 so and wait — do not push first and explain afterwards.
 
 ## Working rules for `source/`
+
+`source/` holds two tiers, and they are not interchangeable.
+
+**`source/` itself** — the five CS-E documents. `CS-E_Amendment_8.pdf` is the only
+authority for requirement content, as stated at the top of this file, and that
+does not change because other documents are now present.
+
+**`source/external/`** — documents CS-E cites and does not contain: CS-27, CS-29,
+CS-Definitions, AMC-20, and an AMC & GM to Part 21 delta. They answer their own
+questions — what the rotorcraft code asks, what a deferred term means, what the
+AMC 20 series accepts — and they are never a source of CS-E requirement content.
+They are pinned to the version the vault was written against and **not tracked
+across amendments**: the amendment machinery exists because CS-E is the
+deliverable, and these are not. `source/external/SOURCES.md` records what each
+one closes, what the Part 21 file is not, and what is still missing.
+
+Writing note content from an external document is a change to the Source of truth
+rule at the top of this file. Make that change deliberately, with a convention for
+how a note marks an imported obligation, before the first such note is written.
 
 - `source/` is **read-only input**. Never edit or re-save a PDF there — it changes
   the SHA-256 and breaks provenance. Re-fetch and update `CHECKSUMS.sha256`
