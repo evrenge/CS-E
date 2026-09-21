@@ -123,6 +123,10 @@ WANTED: list[tuple[str, str, str, str]] = [
     ("CS-Definitions, Icing Atmospheric Conditions", "CS-Definitions_Amendment_2.pdf", "Icing Atmospheric Conditions", "\u2018Icing Atmospheric Conditions\u2019"),
     ("CS-Definitions, Continuous Maximum Icing", "CS-Definitions_Amendment_2.pdf", "Continuous Maximum Icing", "\u2018Continuous Maximum Icing\u2019"),
     ("CS-Definitions, Intermittent Maximum Icing", "CS-Definitions_Amendment_2.pdf", "Intermittent Maximum Icing", "\u2018Intermittent Maximum Icing\u2019"),
+    # --- the repeal decision's explanatory note, whole. It is six pages, it has
+    # no paragraph numbering worth slicing, and it is the only document that
+    # says what became of CS-34 and what a TCDS reference to it is now worth.
+    ("ED Decision 2025/005/R", "EN_to_ED_Decision_2025-005-R_CS-34-repeal.pdf", "Repeal of CS-34, CS-36 and CS-CO2", "*"),
 ]
 
 # A heading of any rank, in any of the four families.
@@ -165,7 +169,9 @@ FURNITURE = re.compile(
     r"|Page \d+ of \d+[^\n]*|Powered by EASA eRules[^\n]*"
     r"|Easy Access Rules for[^\n]*|Subpart [A-Z] —[^\n]*|Subpart [A-Z] -[^\n]*"
     r"|Annex I[b]? SECTION [AB][^\n]*|SECTION [AB] —[^\n]*|SECTION [AB] -[^\n]*"
-    r"|Table of contents|TE\.RPRO[^\n]*"
+    r"|Table of contents|TE\.RPRO[^\n]*|An agency of the European Union"
+    r"|European Union Aviation Safety Agency|Explanatory Note to ED Decision[^\n]*"
+    r"|Proprietary document[^\n]*"
     r")\s*$", re.M)
 
 
@@ -215,6 +221,10 @@ ATTRIB = re.compile(r"^[ \t]*(?:Regulation \((?:EU|EC)\)|ED Decision|\(Reserved\
 def extract(pid: str, text: str, heading: re.Pattern = HEADING,
             key: str = "") -> str | None:
     """The slice from this paragraph's heading to the next heading."""
+    if key == "*":
+        # The whole document is the slice. Used where a document has no
+        # paragraph numbering to cut on.
+        return text.strip()
     key = key or pid
     # A glossary term is followed by "means", not by a title starting with a
     # capital, so the trailing \S is all that can be asked of it. The lookahead
@@ -267,7 +277,7 @@ def main() -> int:
         # that catches a heading regex matching a longer number -- a defect that
         # produces plausible text for the wrong paragraph and fails nothing else.
         first = slice_.split("\n", 1)[0].strip()
-        if not first.startswith(key or pid):
+        if key != "*" and not first.startswith(key or pid):
             print(f"  {pid:44s} WRONG SLICE: starts {first[:40]!r}")
             missing += 1
             continue

@@ -108,6 +108,7 @@ DOC_OF_FILE = {
     "Part-21_EAR_Reg-748-2012_Nov-2025.pdf": "Part 21",
     "CS-Definitions_Amendment_2.pdf": "CS-Definitions",
     "AMC-20_Amendment_23.pdf": "AMC-20",
+    "EN_to_ED_Decision_2025-005-R_CS-34-repeal.pdf": "ED Decision 2025/005/R",
 }
 
 
@@ -600,10 +601,12 @@ def check_external_notes(targets, problems) -> set[str]:
         check_summary(text, say)
         # The note's own paragraph first, then the rest of the external corpus:
         # an external note may quote a point it cross-refers to, exactly as a
-        # CS-E note may.
+        # CS-E note may. CS-E is a haystack here too, because an external note
+        # quotes the CS-E paragraph it bears on -- that is its whole subject.
         own = ext_slices().get(name)
         check_quotes(text,
-                     [lambda t=own: t[1] if t else "", external_document],
+                     [lambda t=own: t[1] if t else "", external_document,
+                      whole_document],
                      say)
         if own is None:
             say(f"no slice in work/external/ for {name!r}; add the point to "
