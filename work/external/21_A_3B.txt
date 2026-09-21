@@ -1,0 +1,49 @@
+# 21.A.3B Airworthiness directives
+# id: 21.A.3B
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 2024
+
+21.A.3B Airworthiness directives 
+Regulation (EU) 2024/1108 
+(a) 
+An airworthiness directive means a document issued or adopted by the Agency which mandates 
+actions to be performed on an aircraft or on a CMU to restore an acceptable level of safety, 
+when evidence shows that the safety level of the aircraft, UAS or CMU may otherwise be 
+compromised. 
+(b) 
+The Agency shall issue an airworthiness directive when: 
+1. 
+an unsafe condition has been determined by the Agency to exist in an aircraft, a UAS or 
+a CMU, as a result of a deficiency in the aircraft, or an engine, propeller, part or appliance 
+installed on this aircraft, or as a result of a deficiency in the CMU or the CMU component; 
+and 
+2. 
+that condition is likely to exist or develop in other aircraft, UAS or CMUs. 
+(c) 
+When an airworthiness directive has to be issued by the Agency to correct the unsafe condition 
+referred to in point (b), or to require the performance of an inspection, the holder of the 
+type-certificate, restricted type-certificate, supplemental type-certificate, major repair design 
+approval, ETSO authorisation or any other relevant approval deemed to have been issued under 
+this Regulation, shall: 
+1. 
+propose the appropriate corrective action or required inspections, or both, and submit 
+details of these proposals to the Agency for approval; and 
+2. 
+following the approval by the Agency of the proposals referred to in point 1, make 
+available to all known operators or owners of the product, part, appliance, UAS, CMU or 
+CMU component and, on request, to any person required to comply with the 
+airworthiness directive, appropriate descriptive data and accomplishment instructions. 
+
+ 
+(d) 
+An airworthiness directive shall contain at least the following information: 
+1. 
+an identification of the unsafe condition; 
+2. 
+an identification of the affected aircraft or CMU; 
+3. 
+the action(s) required; 
+4. 
+the compliance time for the required action(s); 
+5. 
+the date of entry into force of the airworthiness directive.

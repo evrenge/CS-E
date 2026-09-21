@@ -25,6 +25,21 @@ line to the next heading of any rank. `HEADING` recognises the four families in
 play -- CS-27/29 points, AMC and GM to them, Part 21 points in both Annex I and
 Annex Ib, and CS-34.
 
+Two documents are not laid out that way and get their own style.
+
+AMC-20 is a compilation of whole AMCs, each headed "AMC 20-3B Certification of
+Engines Equipped with Electronic Engine Control Systems", and each preceded by a
+divider line carrying the bare number. The divider has to count as a boundary
+too, or the slice ends with the next AMC's number hanging off it.
+
+CS-Definitions is a glossary. Its entries open with the term in single quotes --
+"'Fireproof.' means ..." -- so the boundary is the next quoted term, and the id
+a note cites is "CS-Definitions, Fireproof". 'Icing Atmospheric Conditions' is
+sliced as three entries, because 'Continuous Maximum Icing' and 'Intermittent
+Maximum Icing' are separate entries in the source and a note cites whichever one
+it means. The glossary also carries different page furniture: no "Page N of M"
+line, and a bare page number that lands in the middle of a definition.
+
 Page furniture is dropped first. Every page in these files repeats the document
 title, the ED Decision, the subpart and a page number, and those lines land in
 the middle of a paragraph when the text is concatenated. Leaving them in would
@@ -51,8 +66,11 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 EXT = ROOT / "source" / "external"
 OUT = ROOT / "work" / "external"
 
-# (paragraph id, file, human title). The id is what a note cites inside [ext ...].
-WANTED: list[tuple[str, str, str]] = [
+# (paragraph id, file, human title, search key). The id is what a note cites
+# inside [ext ...]. The key is how the heading is written in the document, and is
+# given only where it differs -- a glossary entry is headed "'Fireproof.'", not
+# "CS-Definitions, Fireproof".
+WANTED: list[tuple[str, str, str, str]] = [
     # --- CS-27 / CS-29, the rotorcraft codes
     ("CS 27.45", "CS-27_Amendment_10.pdf", "General (performance)"),
     ("CS 29.45", "CS-29_Amendment_12.pdf", "General (performance)"),
@@ -87,6 +105,24 @@ WANTED: list[tuple[str, str, str]] = [
     ("GM1 21.A.805", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Identification of critical parts"),
     ("GM1 21.B.85(a)", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Content of ICAO Annex 16"),
     ("GM2 21.B.85", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Applicable environmental protection requirements"),
+    ("21.A.3A", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Reporting system"),
+    ("21.A.3B", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Airworthiness directives"),
+    ("AMC1 21.A.3B(b)", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Failures, malfunctions and defects"),
+    ("21.A.33", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Inspections and tests"),
+    ("21.A.41", "Part-21_EAR_Reg-748-2012_Nov-2025.pdf", "Type-certificate"),
+    # --- AMC-20. CS-E cites AMC 20-1, AMC 20-3 and AMC 20-115 without their
+    # revision letters; Amendment 23 carries 20-1A, 20-3B and 20-115D.
+    # AMC 20-6B is not sliced: it is the ETOPS AMC, and ETOPS is out of scope.
+    ("AMC 20-1A", "AMC-20_Amendment_23.pdf", "Certification of Aircraft Propulsion Systems Equipped with Electronic Control Systems"),
+    ("AMC 20-3B", "AMC-20_Amendment_23.pdf", "Certification of Engines Equipped with Electronic Engine Control Systems"),
+    ("AMC 20-42", "AMC-20_Amendment_23.pdf", "Airworthiness information security risk assessment"),
+    ("AMC 20-115D", "AMC-20_Amendment_23.pdf", "Airborne Software Development Assurance Using EUROCAE ED-12 and RTCA DO-178"),
+    # --- CS-Definitions, a glossary
+    ("CS-Definitions, Fireproof", "CS-Definitions_Amendment_2.pdf", "Fireproof", "\u2018Fireproof.\u2019"),
+    ("CS-Definitions, Fire-resistant", "CS-Definitions_Amendment_2.pdf", "Fire-resistant", "\u2018Fire-resistant.\u2019"),
+    ("CS-Definitions, Icing Atmospheric Conditions", "CS-Definitions_Amendment_2.pdf", "Icing Atmospheric Conditions", "\u2018Icing Atmospheric Conditions\u2019"),
+    ("CS-Definitions, Continuous Maximum Icing", "CS-Definitions_Amendment_2.pdf", "Continuous Maximum Icing", "\u2018Continuous Maximum Icing\u2019"),
+    ("CS-Definitions, Intermittent Maximum Icing", "CS-Definitions_Amendment_2.pdf", "Intermittent Maximum Icing", "\u2018Intermittent Maximum Icing\u2019"),
 ]
 
 # A heading of any rank, in any of the four families.
@@ -101,6 +137,25 @@ HEADING = re.compile(
     # puts a paragraph number at the start of a line mid-sentence; the
     # lower-case continuation is what tells the two apart.
     r")[ \t]+[A-Z(]", re.M)
+
+# AMC-20 heads each AMC with its number and title, and puts a divider line
+# carrying the bare number in front of it. Both are boundaries.
+HEADING_AMC20 = re.compile(r"^[ \t]*AMC\s*20-\d+[A-Z]?[ \t]*(?:$|[ \t][ \t]*[A-Z(])", re.M)
+
+# A glossary entry opens with the term in single quotes at the start of a line.
+HEADING_DEF = re.compile(r"^[ \t]*\u2018[^\u2019\n]{2,60}\u2019", re.M)
+
+# CS-Definitions has no "Page N of M" line. Its furniture is the running title,
+# the decision reference, the amendment number and a bare page number, and the
+# page number lands in the middle of a definition.
+FURNITURE_DEF = re.compile(
+    r"^\s*(?:CS-Definitions|Annex to Decision \d{4}/\d{3}/R|Amendment \d+|\d{1,3})\s*$",
+    re.M)
+
+STYLE = {
+    "AMC-20_Amendment_23.pdf": ("amc20", HEADING_AMC20),
+    "CS-Definitions_Amendment_2.pdf": ("definitions", HEADING_DEF),
+}
 
 # Repeated on every page of these documents, and meaningless inside a slice.
 FURNITURE = re.compile(
@@ -121,7 +176,7 @@ def slug(pid: str) -> str:
 PAGE_NO = re.compile(r"^\s*Page \d+ of \d+")
 
 
-def body(path: pathlib.Path) -> str:
+def body(path: pathlib.Path, style: str = "") -> str:
     """Document text with the page header block removed, Annex Ib dropped.
 
     Every page opens with a header block and closes it with a "Page N of M"
@@ -142,7 +197,10 @@ def body(path: pathlib.Path) -> str:
             if PAGE_NO.match(line):
                 lines = lines[i + 1:]
                 break
-        pages.append(FURNITURE.sub("", "\n".join(lines)))
+        page_text = FURNITURE.sub("", "\n".join(lines))
+        if style == "definitions":
+            page_text = FURNITURE_DEF.sub("", page_text)
+        pages.append(page_text)
     return "\n".join(pages)
 
 
@@ -154,10 +212,14 @@ def body(path: pathlib.Path) -> str:
 ATTRIB = re.compile(r"^[ \t]*(?:Regulation \((?:EU|EC)\)|ED Decision|\(Reserved\))")
 
 
-def extract(pid: str, text: str) -> str | None:
+def extract(pid: str, text: str, heading: re.Pattern = HEADING,
+            key: str = "") -> str | None:
     """The slice from this paragraph's heading to the next heading."""
+    key = key or pid
+    # A glossary term is followed by "means", not by a title starting with a
+    # capital, so the trailing \S is all that can be asked of it.
     candidates = []
-    for m in re.finditer(rf"^[ \t]*{re.escape(pid)}[ \t]+\S", text, re.M):
+    for m in re.finditer(rf"^[ \t]*{re.escape(key)}[ \t]*\S", text, re.M):
         # A table-of-contents entry carries dot leaders and a page number. A
         # long one wraps, so the leaders can be on the following line.
         window = text[m.start():m.start() + 320].split("\n")[:3]
@@ -172,7 +234,7 @@ def extract(pid: str, text: str) -> str | None:
     start = attributed[0] if attributed else candidates[0][1]
     rest = text[start:]
     first_nl = rest.find("\n")
-    nxt = HEADING.search(rest, first_nl if first_nl > 0 else 1)
+    nxt = heading.search(rest, first_nl if first_nl > 0 else 1)
     return (rest[:nxt.start()] if nxt else rest).strip()
 
 
@@ -180,17 +242,20 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     cache: dict[str, str] = {}
     written = missing = 0
-    for pid, fname, title in WANTED:
+    for entry in WANTED:
+        pid, fname, title = entry[:3]
+        key = entry[3] if len(entry) > 3 else ""
+        style, heading = STYLE.get(fname, ("", HEADING))
         path = EXT / fname
         if not path.exists():
-            print(f"  {pid:18s} SOURCE MISSING: {fname}")
+            print(f"  {pid:44s} SOURCE MISSING: {fname}")
             missing += 1
             continue
         if fname not in cache:
-            cache[fname] = body(path)
-        slice_ = extract(pid, cache[fname])
+            cache[fname] = body(path, style)
+        slice_ = extract(pid, cache[fname], heading, key)
         if slice_ is None:
-            print(f"  {pid:18s} NOT FOUND in {fname}")
+            print(f"  {pid:44s} NOT FOUND in {fname}")
             missing += 1
             continue
         out = OUT / f"{slug(pid)}.txt"
@@ -198,7 +263,7 @@ def main() -> int:
             f"# {pid} {title}\n# id: {pid}\n# source: external/{fname}\n"
             f"# chars: {len(slice_)}\n\n{slice_}\n", encoding="utf-8")
         written += 1
-        print(f"  {pid:18s} {len(slice_):6,d} chars -> {out.name}")
+        print(f"  {pid:44s} {len(slice_):7,d} chars -> {out.name}")
     print(f"\n{written} paragraph(s) written to work/external/, {missing} missing")
     return 1 if missing else 0
 

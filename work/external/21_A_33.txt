@@ -1,0 +1,49 @@
+# 21.A.33 Inspections and tests
+# id: 21.A.33
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 1872
+
+21.A.33 Inspections and tests 
+Regulation (EU) 2024/1108 
+(a) 
+(Reserved) 
+(b) 
+Before each test is undertaken during the demonstration of compliance required by 
+point 21.A.20, the applicant shall have verified: 
+1. 
+for the test specimen, that: 
+(i) 
+the materials and processes adequately conform to the specifications for the 
+proposed type design; 
+(ii) 
+the parts of the products and the CMU components adequately conform to the 
+drawings in the proposed type design; and 
+(iii) 
+the manufacturing processes, construction and assembly adequately conform to 
+those specified in the proposed type design; and 
+2. 
+for the test and measuring equipment to be used for the test, that those are adequate 
+for the test and appropriately calibrated. 
+(c) 
+On the basis of the verifications carried out in accordance with point (b), the applicant shall 
+issue a statement of conformity listing any potential non-conformity, together with a 
+justification that this will not affect the test results, and shall allow the Agency to make an 
+inspection it considers necessary to check the validity of that statement. 
+(d) 
+The applicant shall allow the Agency to: 
+1.  
+review any data and information related to the demonstration of compliance; and 
+2.  
+witness or carry out any test or inspection conducted for the purpose of the 
+demonstration of compliance. 
+(e) 
+For all the tests and inspections witnessed or carried out by the Agency in accordance with 
+point (d)(2): 
+1.  
+the applicant shall submit to the Agency a statement of conformity provided for in 
+point (c); and 
+2.  
+no change that affects the validity of the statement of conformity shall be made to the 
+test specimen, or the test and measuring equipment, between the time the statement of 
+conformity provided for in point (c) was issued and the time the test specimen is 
+presented to the Agency for test.

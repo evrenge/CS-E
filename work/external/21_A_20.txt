@@ -1,40 +1,9 @@
 # 21.A.20 Compliance with the type-certification basis
 # id: 21.A.20
 # source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
-# chars: 2191
+# chars: 213
 
-21.A.20 Demonstration of compliance with the type certification 
-basis, operational suitability data certification basis and 
-environmental protection requirements 
-Regulation (EU) 2024/1108 
-(a) 
-Following the acceptance of the certification programme by the Agency, the applicant shall 
-demonstrate compliance with the type certification basis, operational suitability data 
-certification basis and environmental protection requirements, as established and notified to 
-the applicant by the Agency in accordance with points 21.B.80, 21.B.82, 21.B.85, and shall 
-provide the Agency with the means by which such compliance has been demonstrated. 
-(b) 
-The applicant shall report to the Agency any difficulty or event encountered during the process 
-of demonstration of compliance that may have an appreciable effect on the risk assessment 
-under point 21.A.15(b)(6) or on the certification programme, or may otherwise necessitate a 
-change to the level of involvement of the Agency previously notified to the applicant in 
-accordance with point 21.B.100(c). 
-(c) 
-The applicant shall record justifications of compliance within the compliance documents as 
-referred to in the certification programme. 
-(d) 
-After completion of all demonstrations of compliance in accordance with the certification 
-programme, including any inspections and tests in accordance with point 21.A.33, and after all 
-flight tests in accordance with point 21.A.35, the applicant shall declare that: 
-1.  
-it has demonstrated compliance with the type-certification basis, operational suitability 
-data certification basis and environmental protection requirements, as established and 
-notified by the Agency, following the certification programme as accepted by the Agency; 
-and 
-2.  
-no feature or characteristic has been identified that may make the product, the UAS or 
-the CMU unsafe for the uses for which certification is requested. 
-(e) 
-The applicant shall submit to the Agency the declaration of compliance provided for in point (d). 
-Where the applicant holds an appropriate design organisation approval, the declaration of 
-compliance shall be made in accordance with Subpart J and submitted to the Agency.
+21.A.201 Scope 
+Regulation (EU) 2022/1358 
+This Subpart establishes the procedure for issuing noise certificates to aircraft which conform to a type 
+certificate that has been issued in accordance with this Annex.

@@ -1,0 +1,103 @@
+# CS-Definitions, Intermittent Maximum Icing Intermittent Maximum Icing
+# id: CS-Definitions, Intermittent Maximum Icing
+# source: external/CS-Definitions_Amendment_2.pdf
+# chars: 2438
+
+‘Intermittent Maximum Icing’. The intermittent maximum intensity of atmospheric icing 
+conditions (intermittent maximum icing) is defined by the variables of the cloud liquid water 
+content, the mean effective diameter of the cloud droplets, the ambient air temperature, 
+and the inter-relationship of these three variables as shown in Figure 5. The limiting icing 
+envelope in terms of altitude and temperature is given in Figure 6.  The inter-relationship of 
+cloud liquid water content with droplet diameter and altitude is determined from Figure 5 
+and Figure 6. The cloud liquid water content for intermittent maximum icing conditions of a 
+horizontal extent, other than 2.6 n miles, is determined by the value of cloud liquid water 
+content of Figure 5 multiplied by the appropriate factor in Figure 7 .  
+
+
+
+
+LIQUID WATER CONTENT – g/m
+
+MEAN EFFECTIVE DROPLET DIAMETER – MICRONS
+ 
+ 
+CONTINUOUS MAXIMUM (STRATIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+LIQUID WATER CONTENT VS MEAN EFFECTIVE DROP DIAMETER 
+Figure 2 
+ 
+Source of data – NACA TN No. 1855, Class III–M, Continuous Maximum. 
+
+
+
+
+AMBIENT TEMPERATURE - °C 
+AMBIENT TEMPERATURE - °F 
+PRESSURE ALTITUDE – 1000 m 
+ 
+ 
+CONTINUOUS MAXIMUM (STRATIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+AMBIENT TEMPERATURE VS PRESSURE ALTITUDE 
+Figure 3 
+ 
+Source of data – NACA TN No. 2569. 
+
+
+
+
+LIQUID WATER CONTENT FACTOR F- DIMENSIONLESS 
+CLOUD HORIZONTAL EXTENT – NAUTICAL MILES 
+ 
+ 
+CONTINUOUS MAXIMUM (STRATIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+LIQUID WATER CONTENT FACTOR VS CLOUD HORIZONTAL DISTANCE 
+Figure 4 
+ 
+Source of data – NACA TN No. 2738. 
+
+
+
+
+LIQUID WATER CONTENT – g/m
+
+MEAN EFFECTIVE DROPLET DIAMETER – MICRONS 
+ 
+ 
+INTERMITTENT MAXIMUM (CUMULIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+LIQUID WATER CONTENT VS MEAN EFFECTIVE DROP DIAMETER 
+Figure 5 
+ 
+Source of data – NACA TN N. 1855, Class II–M, Intermittent Maximum 
+
+
+
+
+AMBIENT TEMPERATURE - °C 
+AMBIENT TEMPERATURE - °F 
+PRESSURE ALTITUDE – 1000 m 
+ 
+ 
+INTERMITTENT MAXIMUM (CUMULIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+AMBIENT TEMPERATURE VS PRESSURE ALTITUDE 
+Figure 6 
+ 
+Source of data – NACA TN No. 2569. 
+
+
+
+
+LIQUID WATER CONTENT FACTOR F- DIMENSIONLESS 
+CLOUD HORIZONTAL EXTENT – NAUTICAL MILES 
+ 
+ 
+INTERMITTENT MAXIMUM (CUMULIFORM CLOUDS) 
+ATMOSPHERIC ICING CONDITIONS 
+VARIATION OF LIQUID WATER CONTENT FACTOR WITH  
+CLOUD HORIZONTAL EXTENT 
+Figure 7 
+ 
+Source of data – NACA TN  No. 2738.

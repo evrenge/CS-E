@@ -1,0 +1,324 @@
+# AMC 20-1A Certification of Aircraft Propulsion Systems Equipped with Electronic Control Systems
+# id: AMC 20-1A
+# source: external/AMC-20_Amendment_23.pdf
+# chars: 11239
+
+AMC 20-1A Certification of Aircraft Propulsion Systems Equipped 
+with Electronic Control Systems 
+ 
+1 
+GENERAL 
+The existing certification specifications (CSs) for Engine, Propeller and aircraft certification may 
+require special interpretation for Engines and Propellers equipped with electronic control 
+systems. Because of the nature of this technology and because of the greater interdependence 
+of Engine, Propeller and aircraft systems, it has been found necessary to prepare acceptable 
+means of compliance (AMC) specifically addressing the certification of these electronic control 
+systems. 
+AMC 20-1( ) addresses the compliance tasks relating to the certification of the installation of 
+propulsion systems equipped with electronic control systems. AMC 20-3( ) is dedicated to 
+certification of Engine control systems but identifies some Engine-installation-related issues 
+that should be read in conjunction with AMC 20-1( ). 
+Like any AMC, it is issued to outline issues to be considered during demonstration of compliance 
+with the CSs.  
+2  
+RELEVANT SPECIFICATIONS 
+For aircraft certification, some of the related CSs are: 
+— 
+for aeroplanes in CS-25 (and, where applicable, CS-23): 
+— 
+paragraphs 33, 581, 631, 899, 901, 903, 905, 933, 937, 939, 961, 994, 995, 1103(d), 
+1143 (except (d)), 1149, 1153, 1155, 1163, 1181, 1183, 1189, 1301, 1305, 1307(c), 
+1309, 1337, 1351(b) and (d), 1353(a) and (b), 1355(c), 1357, 1431, 1461, 1521(a), 
+1527; 
+— 
+for rotorcraft: equivalent specifications in CS-27 and CS-29. 
+3  
+SCOPE 
+This AMC is relevant to the CSs for aircraft installation of Engines or Propellers with electronic 
+control systems, whether using electrical or electronic (analogue or digital) technology. 
+It gives guidance on the precautions to be taken for the use of electrical and electronic 
+technology for Engine and Propeller control, protection and monitoring, and, where applicable, 
+for integration of functions specific to the aircraft. 
+Precautions have to be adapted to the criticality of the functions. These precautions may be 
+affected by the degree of authority of the system, the phase of flight, and the availability of a 
+backup system. 
+This document also discusses the division of compliance tasks between the applicants for 
+Engine, Propeller (when applicable), and aircraft type certificates. This guidance relates to issues 
+to be considered during aircraft certification. 
+It does not cover APU control systems; APUs, which are not used as ‘propulsion systems’, are 
+addressed in the dedicated AMC 20-2( ). 
+
+ 
+4  
+PRECAUTIONS 
+(a)  
+General 
+The introduction of electrical and electronic technology can entail the following: 
+— 
+greater interdependence of the Engine or Propeller and the aircraft owing to the 
+exchange of electrical power and/or data between them; 
+— 
+increased integration of the control and related indication functions;  
+— 
+a risk of significant Failures that are common to more than one Engine or Propeller 
+of the aircraft which might, for example, occur as a result of: 
+— 
+insufficient protection from electromagnetic disturbance (e.g. lightning, 
+internal or external radiation effects); 
+— 
+insufficient integrity of the aircraft electrical power supply; 
+— 
+insufficient integrity of data supplied from the aircraft; 
+— 
+hidden design faults or discrepancies contained within the design of the 
+propulsion system control software or airborne electronic hardware (AEH); 
+or 
+— 
+omissions or errors in the system/software/AEH specification. 
+Appropriate design and integration precautions should therefore be taken to minimise 
+these risks. 
+(b) 
+Objective 
+The introduction of electronic control systems should provide for the aircraft at least the 
+equivalent level of safety, and the related reliability level, as achieved in aircraft equipped 
+with Engine and Propellers using hydromechanical control and protection systems. 
+When possible, early coordination between the Engine, Propeller and aircraft applicants 
+is recommended in association with EASA as discussed in Section 5 of this AMC. 
+(c) 
+Precautions relating to electrical power supply and data from the aircraft 
+When considering the objectives of Section 4(a) or (b), due consideration should be given 
+to the reliability of electrical power and data supplied to the electronic control systems 
+and peripheral components. The potential adverse effects on Engine and Propeller 
+operation of any loss of electrical power supply from the aircraft or failure of data coming 
+from the aircraft are assessed during the Engine and Propeller certification. 
+During aircraft certification, the assumptions made as part of the Engine and Propeller 
+certification on reliability of aircraft power and data should be checked for consistency 
+with the actual aircraft design. 
+Aircraft should be protected from unacceptable effects of faults due to a single cause, 
+simultaneously affecting more than one Engine or Propeller. In particular, the following 
+cases should be considered: 
+— 
+erroneous data received from the aircraft by the Engine/Propeller control system 
+if the data source is common to more than one Engine/Propeller (e.g. air data 
+sources, autothrottle synchronising); and 
+
+ 
+— 
+control system operating faults propagating via data links between 
+Engine/Propellers (e.g. maintenance recording, common bus, cross-talk, 
+autofeathering, automatic reserve power system). 
+Any precautions needed may be taken either through the aircraft system architecture or 
+by logic internal to the electronic control system. 
+(d) 
+Local events 
+For Engine and Propeller certification, effects of local events should be assessed. 
+ Whatever the local event, the behaviour of the electronic control system should not 
+cause a hazard to the aircraft. This will require consideration of effects such as the control 
+of the thrust reverser deployment, the overspeed of the Engine, transient effects or 
+inadvertent Propeller pitch change under any flight condition. 
+When the demonstration that there is no hazard to the aircraft is based on the 
+assumption that there exists another function to afford the necessary protection, it 
+should be shown that this function is not rendered inoperative by the same local event 
+(including destruction of wires, ducts, power supplies). 
+Such assessment should be reviewed during aircraft certification. 
+(e) 
+Software and airborne electronic hardware (AEH) 
+The acceptability of the criticality levels and methods used for the development and 
+verification of software and AEH which are part of the Engine and Propeller type designs 
+should have been agreed between the aircraft, Engine and Propeller designers prior to 
+the certification activity.  
+Note: In this AMC, the ‘criticality level’ is used to reflect either the software level of a 
+software item or the AEH design assurance level (or DAL) of an AEH item. 
+(f) 
+ Environmental effects 
+The validated protection levels for the Engine and Propeller electronic control systems as 
+well as their emissions of radio frequency energy are established during the Engine and 
+Propeller certification and are contained in the instructions for installation. For the 
+aircraft certification, it should be substantiated that these levels are appropriate. 
+5 
+INTERRELATION BETWEEN ENGINE, PROPELLER AND AIRCRAFT CERTIFICATION 
+(a) 
+Objective 
+To satisfy the aircraft certification specifications, such as CS 25.901, CS 25.903 and 
+CS 25.1309, an analysis of the consequences of failures of the system on the aircraft has 
+to be made. It should be ensured that the software/AEH criticality levels and the safety 
+and reliability objectives for the electronic control system are consistent with these 
+requirements. 
+(b) 
+Interface Definition 
+The interface has to be identified for the AEH and software aspects between the Engine, 
+Propeller and the aircraft systems in the appropriate documents. 
+The Engine/Propeller/aircraft documents should cover in particular: 
+— 
+the software/AEH criticality level (per function if necessary): 
+
+ 
+— 
+the reliability objectives for a loss of Engine/Propeller control or significant change 
+in thrust (including an IFSD due to a control system malfunction), or for the 
+transmission of faulty parameters; 
+— 
+the degree of protection against lightning or other electromagnetic effects (e.g. the 
+level of induced voltages that can be supported at the interfaces); 
+— 
+Engine, Propeller and aircraft interface data and characteristics; and 
+— 
+the aircraft power supply and its characteristics (if relevant). 
+(c) 
+Distribution of Compliance Demonstration 
+The certification tasks of the aircraft propulsion system equipped with electronic control 
+systems may be shared between the Engine, Propeller and aircraft certification. The 
+distribution between the different certification activities should be identified and agreed 
+with EASA and/or the appropriate Engine and aircraft authorities (an example is given in 
+Section 6 ‘TABLE’). 
+Appropriate evidence provided for Engine and Propeller certification should be used for 
+aircraft certification. For example, the quality of any aircraft function software/AEH and 
+aircraft/Engine/Propeller interface logic already demonstrated for Engine or Propeller 
+certification should need no additional substantiation for aircraft certification. 
+Aircraft certification should deal with the specific precautions taken in respect of the 
+physical and functional interfaces with the Engine/Propeller. 
+ 
+ 
+
+ 
+6.  
+TABLE 
+The following is an example of the distribution of the tasks between the Engine certification and 
+the aircraft certification. (When necessary, a similar approach should be taken for Propeller 
+applications.) 
+TASK 
+SUBSTANTIATION 
+UNDER CS-E 
+SUBSTANTIATION UNDER CS-25 
+with Engine data 
+with aircraft data 
+ENGINE CONTROL 
+AND PROTECTION 
+— 
+Safety objective 
+— 
+Software/AEH 
+criticality level 
+— 
+Consideration of 
+common mode 
+effects (including 
+software and 
+AEH) 
+— 
+Reliability 
+— 
+Software/AEH 
+criticality level 
+ 
+MONITORING 
+— 
+Independence of 
+control and 
+monitoring 
+parameters 
+— 
+Monitoring 
+parameter 
+reliability 
+— 
+Indication system 
+reliability 
+— 
+Independence 
+Engine/Engine 
+AIRCRAFT DATA 
+— 
+Protection of 
+Engine from 
+aircraft data 
+failures 
+— 
+Software/AEH 
+criticality level 
+ 
+— 
+Aircraft data 
+reliability 
+— 
+Independence 
+Engine/Engine 
+THRUST REVERSER 
+CONTROL/ 
+MONITORING 
+— 
+Software/AEH 
+criticality level 
+— 
+System reliability 
+— 
+Architecture 
+— 
+Consideration of 
+common 
+mode 
+effects (including 
+software 
+and 
+AEH) 
+— 
+Safety objectives 
+CONTROL SYSTEM 
+ELECTRICAL SUPPLY 
+— 
+Reliability or 
+quality 
+Requirement of 
+aircraft supply, if 
+used 
+ 
+— 
+Reliability of 
+quality of aircraft 
+supply, if used 
+— 
+Independence 
+Engine/Engine 
+ENVIRONMENTAL 
+CONDITIONS 
+— 
+Equipment 
+protection 
+— 
+Declared 
+capability 
+— 
+Aircraft design 
+LIGHTNING AND 
+OTHER 
+ELECTROMAGNETIC 
+EFFECTS 
+— 
+Equipment 
+protection 
+— 
+Electromagnetic 
+emissions 
+— 
+Declared 
+capability 
+— 
+Declared 
+emissions 
+— 
+Aircraft wiring 
+protection and 
+electromagnetic 
+compatibility 
+FIRE PROTECTION 
+— 
+Equipment 
+protection 
+— 
+Declared 
+capability 
+— 
+Aircraft design 
+ 
+[Amdt 20/2] 
+[Amdt 20/19]

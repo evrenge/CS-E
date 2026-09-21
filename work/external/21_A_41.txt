@@ -1,0 +1,17 @@
+# 21.A.41 Type-certificate
+# id: 21.A.41
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 1044
+
+21.A.41 Type-certificate 
+Regulation (EU) 2024/1108 
+The type-certificate and restricted type-certificate shall include the type design, the operating 
+limitations, the instructions for continued airworthiness, the type-certificate data sheet for 
+airworthiness and emissions, the applicable type-certification basis and environmental protection 
+requirements with which the Agency records compliance, and any other conditions or limitations 
+prescribed for the product, the UAS orthe CMU in the applicable certification specifications and 
+environmental protection requirements. The aircraft type-certificate and restricted type-certificate 
+shall include in addition the applicable operational suitability data certification basis, the operational 
+suitability data and the type-certificate data sheet for noise. The aircraft type-certificate and restricted 
+type-certificate data sheet shall include the record of CO2 emissions compliance, and the engine type-
+certificate data sheet shall include the record of exhaust emissions compliance.

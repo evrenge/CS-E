@@ -1,0 +1,971 @@
+# AMC 20-115D Airborne Software Development Assurance Using EUROCAE ED-12 and RTCA DO-178
+# id: AMC 20-115D
+# source: external/AMC-20_Amendment_23.pdf
+# chars: 38491
+
+AMC 20-115D Airborne Software Development Assurance Using 
+EUROCAE ED-12 and RTCA DO-178 
+ 
+1. 
+PURPOSE 
+a. 
+This AMC describes an acceptable means, but not the only means, for showing compliance 
+with the applicable airworthiness regulations with regard to the software aspects of 
+airborne systems and equipment in the domain of product certification or European 
+technical standard orders (ETSOs) authorisation. Compliance with this AMC is not 
+mandatory and therefore an applicant may elect to use an alternative means of 
+compliance (AltMoC). However, the AltMoC must meet the relevant requirements, ensure 
+an equivalent level of software safety as this AMC, and be approved by the European 
+Aviation Safety Agency (EASA) on a product or ETSO article basis. 
+b. 
+This AMC recognises the following European Organisation for Civil Aviation Equipment 
+(EUROCAE) and Radio Technical Commission for Aeronautics (RTCA) documents: 
+1. 
+EUROCAE ED-12C, Software Considerations in Airborne Systems and Equipment 
+Certification, 1 January 2012, and RTCA DO-178C, Software Considerations in 
+Airborne Systems and Equipment Certification, 13 December 2011; 
+2. 
+EUROCAE ED-215, Software Tool Qualification Considerations, 1 January 2012, and 
+RTCA DO-330, Software Tool Qualification Considerations, 13 December 2011; 
+3. 
+EUROCAE ED-216, Formal Methods Supplement to ED-12C and ED-109A, 
+1 January 2012, and RTCA DO-333, Formal Methods Supplement to DO-178C and 
+DO-278A, 13 December 2011; 
+4. 
+EUROCAE ED-217, Object-Oriented Technology and Related Techniques 
+Supplement to ED-12C and ED-109A, 1 January 2012, and RTCA DO-332, Object-
+Oriented Technology and Related Techniques Supplement to DO-178C and DO-
+278A, 13 December 2011; and 
+5. 
+EUROCAE ED-218, Model-Based Development and Verification Supplement to ED-
+12C and ED-109A, 1 January 2012, and RTCA DO-331, Model-Based Development 
+and Verification Supplement to DO-178C and DO-278A, 13 December 2011. 
+Note: EUROCAE ED is hereinafter referred to as ‘ED’; RTCA DO is hereinafter referred to 
+as ‘DO’. Where the notation ‘ED-XXX/DO-XXX’ appears in this document, the referenced 
+documents are recognised as being equivalent. 
+c. 
+This AMC identifies the following as supporting documents: 
+— 
+ED-94C, Supporting Information for ED-12C and ED-109A, 1 January 2012; and 
+— 
+DO-248C, Supporting Information for DO-178C and DO-278A, 13 December 2011. 
+ED-94C/DO-248C contains a collection of frequently asked questions (FAQs) and 
+discussion papers (DPs) compiled and approved by the authors of ED-12C and DO-178C to 
+provide clarification of the guidance contained in ED-12C/DO-178C. 
+d. 
+References to the use of ED-12C/DO-178C in this AMC include the use of ED-215/DO-330 
+and supplements ED-216/DO-333, ED-217/DO-332 and ED-218/DO-331, as applicable. 
+
+ 
+e. 
+This AMC establishes guidance for using existing ED-12B/DO-178B processes for new 
+software development. 
+f. 
+This AMC also establishes guidance for transitioning to ED-12C/DO-178C when making 
+modifications to software previously approved using ED-12/DO-178, ED-12A/DO-178A, or 
+ED-12B/DO-178B. 
+2. 
+APPLICABILITY 
+This AMC applies to applicants, design approval holders (DAHs), and developers of airborne 
+systems and equipment containing software to be installed on type-certified aircraft, engines, 
+and propellers, or to be used in ETSO articles. 
+3. 
+REPLACEMENT 
+This AMC replaces and cancels AMC 20-115C, Software Considerations in Airborne Systems and 
+Equipment Certification, 12 September 2013. 
+4. 
+BACKGROUND 
+a. 
+ED-12C/DO-178C, Appendix A, Section 3, provides a summary of the differences between 
+ED-12C/DO-178C and ED-12B/DO-178B. The EUROCAE and RTCA Inc. documents listed in 
+subparagraph 1.b. of this AMC provide guidance for establishing software life cycle 
+planning, development, verification, configuration management, quality assurance and 
+certification liaison processes to be used in the development of software for airborne 
+systems. The guidance provided in these documents is in the form of: 
+1. 
+objectives for software life cycle processes; 
+2. 
+activities that provide a means for satisfying the objectives; and 
+3. 
+descriptions of the evidence indicating that the objectives have been satisfied. 
+b. 
+The technical content of this AMC is, as far as practicable, harmonised with Federal 
+Aviation Administration (FAA) AC 20-115D, which is also based on ED-12C/DO-178C. 
+5. 
+USING ED-12B/DO-178B PROCESSES AND PROCEDURES FOR NEW SOFTWARE DEVELOPMENT 
+a. 
+Applicants who have established software development assurance processes using ED-
+12B/DO-178B may continue to use those processes (including tool qualification 
+processes) for new software development and certification projects, provided that the 
+following criteria are met: 
+1. 
+The software development assurance processes are shown to have no known 
+process deficiencies, such as those discovered during internal or external audits or 
+reviews, or identified in open problem reports (OPRs), resulting in non-satisfaction 
+of one or more ED-12B/DO-178B objectives. Evidence of resolution and closure of 
+all process-related OPRs and of all process-related audit or review findings may be 
+requested. 
+2. 
+The processes were previously used to develop software that was used in a certified 
+product at a software level at least as high as the software level of the software to 
+be developed. 
+3. 
+If model-based development (MBD), object-oriented technology (OOT), or formal 
+methods (FMs) are to be used, existing processes incorporating these methods 
+should have been evaluated and found to be acceptable by EASA on a previous 
+certified project. These processes should have been developed in accordance with 
+EASA guidance specific to the technique, such as that contained in an associated 
+certification review item (CRI) or a published certification memorandum (CM). 
+
+ 
+4. 
+If configuration data is used, as defined in ED-12C/DO-178C under ‘Parameter data 
+item’, existing processes for such data should have been evaluated and found to be 
+acceptable by EASA on a previous certified project. In the absence of processes for 
+using configuration data, the applicant should establish new processes for using 
+PDIs in accordance with ED-12C/DO-178C. 
+5. 
+There are no significant changes to the software processes described in the plans 
+or to the software development environment. This should be supported through 
+analysis of the changes to the previously accepted software development processes 
+and environment. 
+6. 
+The applicant does not intend to declare the proposed software as having satisfied 
+ED-12C/DO-178C. 
+b. 
+If the criteria of subparagraph 5.a. are not met, the applicant should upgrade their 
+processes and develop the new software using ED-12C/DO-178C; tool qualification 
+processes should be addressed in accordance with Section 12.2 of ED-12C/DO-178C and 
+paragraph 10(c) of this AMC. 
+c. 
+Applicants or developers should establish new software life cycle processes in accordance 
+with ED-12C/DO-178C. 
+6. 
+USING EUROCAE ED-12C AND RTCA DO-178C 
+ED-12C/DO-178C is an acceptable means of compliance (AMC) with regard to the software 
+aspects of product certification or ETSOs authorisation. When using ED-12C/DO-178C, the 
+following should apply: 
+a. 
+The applicant should satisfy all of the objectives associated with the software level 
+assigned to the software, and develop all of the associated life cycle data to demonstrate 
+compliance with the applicable objectives, as listed in the Annex A tables of ED-12C/DO-
+178C and, where applicable, of ED-215/DO-330, ED-216/DO-333, ED-217/DO-332, and 
+ED-218/DO-331. The applicant should plan and execute activities that satisfy each 
+objective. 
+b. 
+The applicant should submit to EASA the life cycle data specified in Section 9.3 of ED-
+12C/DO-178C, and Section 9.0 a. of ED-215/DO-330, as applicable to tool qualification. It 
+is the applicant’s responsibility to perform the planned activities and produce the life cycle 
+data necessary to satisfy all the applicable objectives. 
+c. 
+Section 9.4 of ED-12C/DO-178C specifies the software life cycle data related to the type 
+design of the certified product. However, not all of the specified data applies to all 
+software levels; specifically the design description and the source code are not part of the 
+type design data for Level D software. 
+d. 
+The applicant should make available to EASA, upon request, any of the data described in 
+Section 11 of ED-12C/DO-178C, applicable tool qualification data, data outputs from any 
+applicable supplements, and any other data needed to substantiate the satisfaction of all 
+the applicable objectives. 
+e. 
+EASA may publish an AMC to specific certification specifications (CSs), stating the required 
+relationship between the criticality of the software-based systems and the software 
+levels, as defined in ED-12C/DO-178C. Such AMC takes precedence over the application 
+of Section 2.3 of ED-12C/DO-178C. 
+7. 
+RESERVED 
+8. 
+GUIDANCE APPLICABLE TO ED-12B/DO-178B OR ED-12C/DO-178C 
+
+ 
+a. 
+The use of supplements with ED-12C/DO-178C 
+The applicant should apply the guidance of supplements to ED-216/DO-333, ED-217/DO-
+332 and ED-218/DO-331 when incorporating the addressed software development 
+techniques. If the applicant intends to use multiple software development techniques 
+together, more than one supplement applies. The applicant should not use supplements 
+as stand-alone documents. 
+1. 
+When using one or more supplements, the applicant’s plan for software aspects of 
+certification (PSAC) should describe: 
+a. 
+how the applicant applies ED-12C/DO-178C and the supplement(s) together; 
+and 
+b. 
+how the applicant addresses the applicable ED-12C/DO-178C objectives and 
+those added or modified by the supplement(s): which objectives from which 
+documents apply to which software components, and how the applicant’s 
+planned activities satisfy all the applicable objectives. 
+2. 
+If the applicant intends to use any techniques addressed by the supplements to 
+develop a qualified tool (for tool qualification levels (TQLs) 1, 2, 3, and 4 only), then 
+the tool qualification plan (TQP) should describe: 
+a. 
+based on supplement analysis, which tool qualification objectives are 
+affected by the use of the technique(s); and 
+b. 
+how the planned activities satisfy the added or modified objectives. 
+3. 
+The intent of this subparagraph is to provide clarification of Section MB.6.8.1 of ED-
+218/DO-331. If the applicant uses models as defined in Section MB.1.0 of ED-
+218/DO-331 as the basis for developing software, the applicant should apply the 
+guidance of ED-218/DO-331. When applying Section MB.6.8.1 of ED-218/DO-331, 
+the applicant should do the following: 
+a. 
+identify which review and analysis objectives are planned to be satisfied by 
+simulation alone or in combination with reviews and analyses; all other 
+objectives should be satisfied by reviews and analyses, as described in 
+Section MB.6.3 of ED-218/DO-331; and 
+b. 
+for each identified objective, justify in detail how the simulation activity, 
+alone or in combination with reviews and analyses, fully satisfies the specific 
+review and analysis objective. 
+b. 
+Guidance on field-loadable software (FLS) 
+This Section supplements ED-12C/DO-178C and ED-12B/DO-178B. The applicant should 
+use this guidance in addition to ED-12C/DO-178C and ED-12B/DO-178B when using FLS in 
+their project. 
+1. 
+As the developer, the applicant should provide the necessary information to 
+support the system-level guidance identified in items a, b, c and d of ED-12C/DO-
+178C, Section 2.5.5, and items a, b, c and d of ED-12B/DO-178B, Section 2.5. 
+2. 
+The FLS should be protected against corruption or partial loading at an integrity 
+level appropriate for the FLS software level. 
+3. 
+The FLS part number, when loaded in the airborne equipment, should be verifiable 
+by appropriate means. 
+
+ 
+4. 
+Protection mechanisms should be implemented to prevent inadvertent enabling of 
+the field-loading function during cruising or any other safety-critical phase. 
+c. 
+Guidance on user-modifiable software (UMS) 
+This Section supplements ED-12C/DO-178C and ED-12B/DO-178B. The applicant should 
+use this guidance in addition to ED-12C/DO-178C and ED-12B/DO-178B when using UMS 
+in their project. 
+1. 
+As the developer, the applicant should provide the necessary information to 
+support the system-level guidance identified in items a, b, c and f of ED-12C/DO-
+178C, Section 2.5.2, and items a and b of ED-12B/DO-178B, Section 2.4. 
+2. 
+The modifiable part of the software should be developed at a software level at least 
+as high as the software level assigned to that software. 
+9. 
+MODIFYING AND REUSING SOFTWARE APPROVED USING ED-12/DO-178, ED-12A/DO-178A, 
+OR ED-12B/DO-178B 
+a. 
+EASA previously approved the software for many airborne systems using ED-12/DO-178,  
+ED-12A/DO-178A, or ED-12B/DO-178B as a means of compliance. In this AMC, reference 
+to legacy software includes the previously approved software or component(s) that 
+makes up the software used in legacy systems. In this subparagraph, it is described how 
+to demonstrate compliance with the software aspects of certification for an application 
+that includes modifications to legacy software or the use of unmodified legacy software. 
+b. 
+Figure 1 presents a flow chart for using legacy software. The applicant should use the flow 
+chart while following the procedures in this subparagraph if the applicant modifies or 
+reuses legacy software. Although these procedures apply to the majority of projects, the 
+applicant should coordinate with EASA any cases that do not follow this flow. 
+ 
+
+ 
+Figure 1 — Legacy software process flow chart 
+Is
+the legacy system 
+software to be modified?
+See 9(b)(3).
+Is the
+ED-12B
+software level 
+acceptable?
+See 9(b)(2).
+Yes
+No
+Is the
+software developed using 
+ED-12B?
+See 9(b)(2).
+Yes
+No
+Evaluate software usage 
+history, SDs, ADs, OPRs, etc.
+See 9(b)(1).
+Is the
+software usage history 
+acceptable?
+See 9(b)(1).
+No
+Yes
+Yes
+No
+Yes
+No
+Have
+the software plans
+and environment been 
+properly maintained?
+See 9(b)(7)(b).
+Yes
+No
+Do you want
+to declare equivalence to
+ ED-12C?
+See 9(b)(7)(c).
+Is the
+ED-12 or
+ED-12A software level 
+acceptable?
+See 9(b)(2).
+No
+Yes
+Upgrade software baseline 
+including all processes & 
+procedures using ED-12B or use 
+ED-12C and ED-215.
+See 9(b)(2)(c).
+Conduct a CIA.
+See 9(b)(4).
+If MBD,
+OOT, or FM will
+be used, do processes support 
+the technique IAW applicable 
+guidance?
+See 9(b)(7)(a).
+Intent to use software 
+previously shown to satisfy 
+ED-12, ED-12A, or ED-12B.
+Change software and
+associated life cycle data using the 
+same ED-12 version as the original 
+approval. For configuration 
+data/PDI, use an approved process or 
+establish new process using ED-12C.
+See 9(b)(8)(a) & (b).
+Change software and
+associated life cycle data using 
+ED-12C, Section 12.1, and applicable 
+supplements.
+See 9(b)(6) & (9).
+Will
+there be new software
+tools or changes to tools?
+See 9(b)(5).
+Determine tool 
+qualification 
+requirements.
+See Section 10.
+Yes
+No
+Upgrade software baseline 
+including all processes & 
+procedures using ED-12C
+and ED-215.
+See 9(b)(2)(a) or (b).
+Did you
+upgrade the
+software baseline to
+ED-12C IAW paragraph 
+9(b)(2)(a), (b), or (c)?
+See 9(b)(6).
+Yes
+No
+Acronyms
+ADs — airworthiness directives
+CIA — change impact analysis
+FMs — formal methods
+IAW — in accordance with
+MBD — model-based development
+OOT — object-oriented technology
+OPRs — open problem reports
+PDI — parameter data item
+SDs — service difficulties
+Original approval basis or
+baseline upgrade to ED-12C
+acceptable as approval basis.
+See 9(b)(3)(a) or (b).
+Upgrade software baseline 
+including all processes & 
+procedures using ED-12C
+and ED-215.
+See 9(b)(9).
+Yes
+No
+Note: references to RTCA documents are intentionally omitted for formatting purposes.
+Correct process 
+deficiencies and 
+document plan for 
+resolving related 
+software deficiencies.
+See 9(b)(1).
+ 
+
+ 
+1. 
+The applicant should assess the legacy software to be modified or reused for its 
+usage history from previous installations. If the software has safety-related service 
+difficulties, airworthiness directives, or OPRs with a potential safety impact on the 
+proposed installation, the applicant should establish plans to resolve all related 
+software deficiencies. Prior to modifying or reusing the legacy software, the 
+applicant should correct any related development process deficiencies, such as 
+those discovered during internal or external audits or reviews, or identified in OPRs 
+resulting in non-satisfaction of one or more ED-12B/DO-178B objectives. Evidence 
+of resolution and closure of all process-related OPRs and of all process-related audit 
+or review findings may be requested. 
+2. 
+The system safety process assigns the minimum development assurance level 
+based on the severity classifications of failure conditions for a given function. The 
+ED-12B/DO-178B software levels are consistent with the ED-12C/DO-178C software 
+levels. However, ED-12/DO-178 and ED-12A/DO-178A were published prior to the 
+establishment of the software levels addressed in ED-12B/DO-178B and 
+ED-12C/DO-178C. The applicant should use Table 1 to determine whether their 
+legacy software level satisfies the software level assigned by the system safety 
+process for the proposed installation. A ‘✓’ in the intersection of the row and 
+column indicates that the legacy software level is acceptable. For example, legacy 
+software with development assurance for ED-12A/DO-178A software Level 2 can 
+be considered to satisfy software Levels B, C, and D. A blank indicates that the 
+software level is not acceptable. Therefore, the ED-12A/DO-178A software 
+developed for software Level 2 would not be acceptable where software Level A is 
+required. 
+ 
+Table 1 — Software level relationships 
+Assigned 
+software 
+level 
+Legacy software level per 
+ED-12B 
+Legacy software level per 
+ED-12A 
+Legacy software Level 
+per ED-12 
+A 
+B 
+C 
+D 
+1 
+2 
+3 
+Critical 
+Essential 
+Non-Essential 
+A 
+✓ 
+ 
+ 
+ 
+✓ 
+ 
+ 
+✓ 
+ 
+ 
+B 
+✓ 
+✓ 
+ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+ 
+C 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+D 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+ 
+a. 
+If the legacy software was developed at software level ‘Essential’ using ED-
+12/DO-178 and was previously accepted by the certification authority as 
+acceptable for software Level B, it remains acceptable for the new project. If 
+the ED-12/DO-178 legacy software was not previously assessed, or the 
+software level is not acceptable, then the applicant should upgrade the 
+software development baseline, including all processes and procedures (as 
+well as tool qualification processes), using Section 12.1.4 of ED-12C/DO-
+178C, and ED-215/DO-330. 
+b. 
+If the legacy software was developed using ED-12A/DO-178A, and the 
+software level is not acceptable, the applicant should upgrade the software 
+development baseline, including all processes and procedures (as well as tool 
+qualification processes), using Section 12.1.4 of ED-12C/DO-178C, and ED-
+215/DO-330. 
+
+ 
+c. 
+If the legacy software was developed using ED-12B/DO-178B, and the 
+software level is not acceptable, the applicant should upgrade the software 
+development baseline, including all processes and procedures (as well as tool 
+qualification processes), using Section 12.1.4 of ED-12B/DO-178B or ED-
+12C/DO-178C, and ED-215/DO-330. 
+3. 
+If the criteria of 9(b)(1) and 9(b)(2) are satisfied and modifications to the software 
+are not required, then: 
+a. 
+the original approval may serve as the basis for the software in the 
+installation approval of the proposed system; and 
+b. 
+if the applicant upgraded the software development baseline using ED-
+12C/DO-178C and updated all processes and procedures, as well as tool 
+qualification processes, to ED-12C/DO-178C and ED-215/DO-330, then the 
+applicant may declare their software as equivalent to satisfying ED-12C/DO-
+178C; however, the applicant cannot declare their unmodified tools as 
+equivalent to satisfying ED-12C/DO-178C and ED-215/DO-330. The applicant 
+should make all subsequent modifications to all their software and tools 
+using their processes and procedures that satisfy ED-12C/DO-178C and ED-
+215/DO-330. 
+4. 
+If modifications to the software are required, the applicant should conduct a 
+software change impact analysis (CIA) to determine the extent of the modifications, 
+the impact of those modifications, and what verification is required to ensure that 
+the modified software performs its intended function and continues to satisfy the 
+identified means of compliance. The applicant should: 
+a. 
+identify the software changes to be incorporated and conduct a CIA 
+consisting of one or more analyses associated with the software change, as 
+identified in ED-12C/DO-178C, Section 12.1; 
+b. 
+conduct the verification, as indicated by the CIA; and 
+c. 
+summarise the results of the CIA in the plan for software aspects of 
+certification (PSAC) or in the software accomplishment summary (SAS). 
+5. 
+If new software tools or modifications to tools are needed, please refer to 
+paragraph 10 of this AMC to determine the tool qualification requirements. 
+6. 
+If the applicant upgraded the software baseline to ED-12C/DO-178C in accordance 
+with subparagraph 9(b)(2), they should make all modifications to the software using 
+ED-12C/DO-178C, Section 12.1. If the applicant wants to declare their software as 
+equivalent to satisfying ED-12C/DO-178C, the applicant’s equivalence declaration 
+applies to both modified and unmodified software and is valid even if the applicant 
+uses unmodified tools that have not been qualified using ED-12C/DO-178C. 
+However, the applicant cannot declare their unmodified tools as equivalent to 
+satisfying ED-12C/DO-178C and ED-215/DO-330. All subsequent modifications to all 
+their software and tools are to be made using processes and procedures satisfying 
+ED-12C/DO-178C and ED-215/DO-330. 
+7. 
+If the applicant wants to use their existing processes to make modifications to their 
+legacy software using the version of ED-12/DO-178 (i.e. ED-12/DO-178, ED-
+12A/DO-178A, or ED-12B/DO-178B) used for the original software approval, the 
+applicant may do so, provided that all of the following conditions are met: 
+
+ 
+a. 
+If MBD, OOT, or FMs are to be used, existing processes incorporating these 
+methods should have been evaluated and found to be acceptable by EASA 
+on a previous certified project. These processes should have been developed 
+in accordance with EASA guidance specific to the technique, such as that 
+contained in an associated CRI or a published CM. 
+b. 
+The applicant has maintained, and can still use, the software plans, 
+processes, and life cycle environment, including improvements to processes 
+or to the life cycle environment as captured in revised plans. 
+c. 
+The applicant does not intend to declare the proposed software as satisfying 
+ED-12C/DO-178C. 
+8. 
+If the conditions of subparagraph 9(b)(7) are satisfied: 
+a. 
+the applicant may accomplish all modifications to the software using the 
+same ED-12/DO-178 version as for the original approval. However, the 
+applicant may not declare their software as equivalent to satisfying ED-
+12C/DO-178C; and 
+b. 
+if configuration data is used, as defined under ‘Parameter data item’ in 
+ED-12C/DO-178C, the applicant may use existing processes for such data if 
+the processes were evaluated and found to be acceptable by EASA on a 
+previous certified project; in the absence of processes for using configuration 
+data, the applicant should establish new processes for using parameter data 
+items (PDIs) in accordance with ED-12C/DO-178C. 
+9. 
+If any of the conditions of subparagraph 9(b)(7) is not satisfied, the applicant should 
+update all their processes and procedures, as well as tool qualification processes, 
+using ED-12C/DO-178C and ED-215/DO-330, and make all modifications to the 
+software using ED-12C/DO-178C, Section 12.1. If the applicant wants to declare 
+their software as equivalent to satisfying ED-12C/DO-178C, their declaration 
+applies to both the modified and unmodified software and is valid even if the 
+applicant uses unmodified tools that have not been qualified using 
+ED-12C/DO-178C and ED-215/DO-330. However, the applicant cannot declare their 
+unmodified tools as equivalent to satisfying ED-12C/DO-178C and ED-215/DO-330. 
+The applicant should make all subsequent modifications to all their software and 
+tools using their processes and procedures that satisfy ED-12C/DO-178C and ED-
+215/DO-330. 
+10. 
+TOOL QUALIFICATION 
+Sections 12.2 of ED-12C/DO-178C and ED-215/DO-330 provide an acceptable method for tool 
+qualification. ED-215/DO-330 contains its own complete set of objectives, activities, and life 
+cycle data for tool qualification. 
+a. 
+If the applicant’s legacy software was previously approved using ED-12/DO-178 or ED-
+12A/DO-178A, and the applicant intends to use a new or modified tool for modifications 
+to the legacy software, they should use the criteria of ED-12C/DO-178C, Section 12.2 to 
+determine whether tool qualification is needed. If the applicant needs to qualify the tool, 
+they should use the software level assigned by the system safety assessment for 
+determining the required TQL, and should use ED-215/DO-330 for the applicable 
+objectives, activities, and life cycle data. The applicant may declare their qualified tool as 
+satisfying ED-215/DO-330, but not the legacy software as equivalent to satisfying 
+ED-12C/DO-178C. 
+
+ 
+b. 
+If the applicant’s legacy software was previously approved using ED-12B/DO-178B, and 
+they do not intend to declare equivalence to satisfying ED-12C/DO-178C, the applicant 
+can either: 
+1. 
+use their ED-12B/DO-178B tool qualification processes for qualifying new or 
+modified tools in support of modifications to ED-12B/DO-178B legacy software, or 
+2. 
+update their tool qualification processes and qualify the tool using ED 215/DO-330, 
+referring to Table 2 of this document for determining the required TQL; the 
+applicant may then declare their qualified tool as satisfying ED-215/DO-330. 
+c. 
+If the applicant’s legacy software was previously approved using ED-12B/DO-178B, the 
+applicant intends to declare equivalence to satisfying ED-12C/DO-178C, and has ED-
+12B/DO-178B legacy tools that need to be qualified, the applicant should follow the 
+guidance of this subparagraph. 
+1. 
+ED-12C/DO-178C establishes five levels of tool qualification based on the tool use 
+and its potential impact on the software life cycle processes (see Section 12.2.2 and 
+Table 12-1 of ED-12C/DO-178C). However, ED-12C/DO-178C does not address the 
+use of tools previously qualified according to the ED-12B/DO-178B criteria. For a 
+tool previously qualified as an ED-12B/DO-178B development tool or verification 
+tool, the applicant should use Table 2 below to determine the correlation between 
+the ED-12B/DO-178B tool qualification type and the ED-12C/DO-178C tool criteria 
+and TQLs. 
+Table 2 — Correlation between ED-12B/DO-178B tool qualification type  
+and ED-12C/DO-178C tool criteria and TQLs 
+ED-12B/DO-178B  
+Tool Qualification Type 
+Software 
+Level 
+ED-12C/DO-178C 
+Tool Criteria 
+ED-12C/ED-215 
+TQL 
+Development 
+A 
+1 
+TQL-1 
+Development 
+B 
+1 
+TQL-2 
+Development 
+C 
+1 
+TQL-3 
+Development 
+D 
+1 
+TQL-4 
+Verification 
+A, B 
+2 
+TQL-4 
+Verification 
+C, D 
+2 
+TQL-5 
+Verification 
+All 
+3 
+TQL-5 
+ 
+2. 
+Development tools previously qualified using ED-12B/DO-178B 
+a. 
+If the ED-12B/DO-178B software level assigned to the tool correlates with or 
+exceeds the required TQL established by ED-12C/DO-178C, the applicant may 
+continue to use their ED-12B/DO-178B tool qualification processes. If there 
+are changes to the tool’s operational environment or to the tool itself, then 
+the applicant should conduct a tool CIA in accordance with Section 11.2.2 or 
+11.2.3 of ED-215/DO-330, respectively, and perform changes using their ED-
+12B/DO-178B tool qualification processes. 
+b. 
+If the ED-12B/DO-178B software level assigned to the tool does not satisfy 
+the required TQL, the applicant should update their tool qualification 
+processes and requalify the tool using ED-215/DO-330. 
+c. 
+The applicant may declare their tool as equivalent to satisfying ED-215/DO-
+330 if all the changes to the tool and to their tool qualification processes 
+satisfy ED-215/DO-330. 
+
+ 
+3. 
+Verification tools previously qualified using ED-12B/DO-178B 
+a. 
+If TQL-5 is required, and the applicant’s verification tool was previously 
+qualified using  
+ED-12B/DO-178B: 
+i. 
+the applicant may continue to use their ED-12B/DO-178B tool 
+qualification process; and 
+ii. 
+If there are changes to the tool or the tool’s operational environment, 
+the applicant should conduct a tool CIA and reverify the tool using their 
+ED-12B/DO-178B tool qualification processes or requalify the tool 
+using ED-215/DO-330. 
+b. 
+If TQL-4 is required, the applicant should requalify their verification tool using  
+ED-215/DO-330. 
+c. 
+The applicant may declare their tool as equivalent to satisfying ED-215/DO-
+330 if all changes to the tool (if applicable) and to their tool qualification 
+processes satisfy  
+ED-215/DO-330. 
+11. 
+RELATED REGULATORY, ADVISORY, AND INDUSTRY MATERIAL 
+a. 
+Related EASA CSs 
+1. 
+Decision No. 2003/14/RM of the Executive Director of the Agency of 14 November 
+2003 on certification specifications, including airworthiness codes and acceptable 
+means of compliance for normal, utility, aerobatic and commuter category 
+aeroplanes (‘CS-23’). 
+2. 
+Decision No. 2003/2/RM of the Executive Director of the Agency of 17 October 2003 
+on certification specifications, including airworthiness codes and acceptable means 
+of compliance, for large aeroplanes (‘CS-25’). 
+3. 
+Decision No. 2003/15/RM of the Executive Director of the Agency of 14 November 
+2003 on certification specifications for small rotorcraft (‘CS-27’). 
+4. 
+Decision No. 2003/16/RM of the Executive Director of the Agency of 14 November 
+2003 on certification specifications for large rotorcraft (‘CS-29’). 
+5. 
+Decision No. 2003/9/RM of the Executive Director of the Agency of 24 October 2003 
+on certification specifications, including airworthiness codes and acceptable means 
+of compliance, for engines (‘CS-E’). 
+6. 
+Decision No. 2003/7/RM of the Executive Director of the Agency of 24 October 2003 
+on certification specifications, including airworthiness codes and acceptable means 
+of compliance, for propellers (‘CS-P’). 
+7. 
+Decision No. 2003/10/RM of the Executive Director of the Agency of 24 October 
+2003 on certification specifications, including airworthiness codes and acceptable 
+means of compliance, for European Technical Standard Orders (‘CS-ETSO’). 
+8. 
+Decision No. 2003/5/RM of the Executive Director of the Agency of 17 October 2003 
+on certification specifications, including airworthiness codes and acceptable means 
+of compliance, for auxiliary power units (‘CS-APU’). 
+
+ 
+9. 
+Decision No. 2003/12/RM of the Executive Director of the Agency of 5 November 
+2003 on general acceptable means of compliance for airworthiness of products, 
+parts and appliances (‘AMC-20’). 
+b. 
+FAA advisory circulars (ACs) 
+1. 
+AC 23.1309-1E, System Safety Analysis and Assessment for Part 23 Airplanes, 17 
+November 2011. 
+2. 
+AC 27.1309A, Equipment, Systems, and Installations (included in AC 27-1B, 
+Certification of Normal Category Rotorcraft), 4 February 2016. 
+3. 
+AC 29.1309A, Equipment, Systems, and Installations (included in AC 29-2C, 
+Certification of Transport Category Rotorcraft), 4 February 2016. 
+c. 
+Industry documents 
+1. 
+EUROCAE ED-12, Software Considerations in Airborne Systems and Equipment 
+Certification, May 1982 (no longer in print). 
+2. 
+EUROCAE ED-12A, Software Considerations in Airborne Systems and Equipment 
+Certification, October 1985 (no longer in print). 
+3. 
+EUROCAE ED-12B, Software Considerations in Airborne Systems and Equipment 
+Certification, 1 December 1992. 
+4. 
+EUROCAE ED-12C, Software Considerations in Airborne Systems and Equipment 
+Certification, 1 January 2012. 
+5. 
+EUROCAE 
+ED-94C, 
+Supporting 
+Information 
+for 
+ED-12C 
+and 
+ED-109A, 
+1 January 2012. 
+6. 
+EUROCAE ED-215, Software Tool Qualification Considerations, 1 January 2012. 
+7. 
+EUROCAE ED-216, Formal Methods Supplement to ED-12C and ED-109A, 
+1 January 2012. 
+8. 
+EUROCAE ED-217, Object-Oriented Technology and Related Techniques 
+Supplement to ED-12C and ED-109A, 1 January 2012. 
+9. 
+EUROCAE ED-218, Model-Based Development and Verification Supplement to ED-
+12C and ED-109A, 1 January 2012. 
+10. 
+RTCA DO-178, Software Considerations in Airborne Systems and Equipment 
+Certification, January 1982 (no longer in print). 
+11. 
+RTCA DO-178A, Software Considerations in Airborne Systems and Equipment 
+Certification, 1 March 1985 (no longer in print). 
+12. 
+RTCA DO-178B, Software Considerations in Airborne Systems and Equipment 
+Certification, 1 December 1992. 
+13. 
+RTCA DO-178C, Software Considerations in Airborne Systems and Equipment 
+Certification, 13 December 2011. 
+14. 
+RTCA 
+DO-248C, 
+Supporting 
+Information 
+for 
+DO-178C 
+and 
+DO-278A, 
+13 December 2011. 
+15. 
+RTCA DO-297, Integrated Modular Avionics (IMA) Development Guidance and 
+Certification Considerations, 8 November 2005. 
+16. 
+RTCA DO-330, Software Tool Qualification Considerations, 13 December 2011. 
+
+ 
+17. 
+RTCA DO-331, Model-Based Development and Verification Supplement to DO-178C 
+and DO-278A, 13 December 2011. 
+18. 
+RTCA DO-332, Object-Oriented Technology and Related Techniques Supplement to 
+DO-178C and DO-278A, 13 December 2011. 
+19. 
+RTCA DO-333, Formal Methods Supplement to DO-178C and DO-278A, 
+13 December 2011. 
+12. 
+AVAILABILITY OF DOCUMENTS 
+— 
+EASA CSs and AMC are available at: www.easa.europa.eu. 
+— 
+FAA ACs are available at: www.faa.gov. 
+— 
+EUROCAE are available on payment at: 
+European Organisation for Civil Aviation Equipment 
+102 rue Etienne Dolet, 92240 Malakoff, France 
+Telephone: +33 1 40 92 79 30; Fax +33 1 46 55 62 65 
+Email: eurocae@eurocae.net, website: www.eurocae.net. 
+— 
+RTCA documents are available on payment at: 
+RTCA, Inc. 
+1150 18th Street NW, Suite 910, Washington DC 20036, USA 
+Email: info@rtca.org, website: www.rtca.org. 
+[Amdt 20/14] 
+GM1 to AMC 20-115D – Software change impact analyses (CIAs) 
+ 
+a. 
+These practices provide complementary information to ED-12C/DO-178C and ED-12B/DO-178B, 
+Sections 12.1.1, 12.1.2, and 12.1.3, and AMC 20-115D, subparagraph 9(b)(4). The applicant may 
+use these practices when they need to conduct a software CIA. 
+b. 
+A CIA identifies the released software baseline upon which the proposed software is to be built, 
+providing: 
+1. 
+a summary of the changes and the impact of those changes; 
+2. 
+a listing and descriptions of the problem reports to be corrected as part of the intended 
+change and/or change requests related to those changes; and 
+3. 
+a listing of new functions to be activated and/or implemented. 
+c. 
+A CIA addresses changes to the following items, where applicable: 
+1. 
+the software level; 
+2. 
+the development or verification environment; 
+3. 
+the software processes; 
+4. 
+the tools (e.g. when a new tool version is introduced or a tool’s use is modified); 
+5. 
+the processor or other hardware components and interfaces; 
+6. 
+the configuration data, especially when activating or deactivating functions; 
+
+ 
+7. 
+the software interface characteristics and input/output (I/O) requirements; and 
+8. 
+the software requirements, design, architecture, and code components, where such 
+changes are not limited to the modified life cycle data, but should also consider the items 
+affected by the change. 
+d. 
+For each applicable item of subparagraph 13(c) above, a CIA describes the resulting impact of 
+the change(s) and identifies the activities to be performed to satisfy ED-12C/DO-178C or ED-
+12B/DO-178B and continue to satisfy the requirements for safe operation. 
+[Amdt 20/14] 
+GM2 to AMC 20-115D – Clarification of data coupling and control 
+coupling 
+ 
+These practices provide complementary information to ED-94C/DO-248C FAQ#67 for satisfying 
+objective A-7 (8) of ED-12C/DO-178C and ED-12B/DO-178B. 
+a. 
+Data coupling analysis is of a different type and purpose than control coupling analysis. Both 
+analyses are necessary to satisfy said objective. 
+b. 
+Although they support a verification objective, data coupling and control coupling analyses rely 
+on good practices in the software design phase, for example, through the specification of the 
+interfaces (I/O) and of the dependencies between components. 
+[Amdt 20/14] 
+GM3 to AMC 20-115D – Error-handling at design level 
+ 
+a. 
+These practices provide complementary information to ED-12C/DO-178C and ED-12B/DO-178B, 
+Sections 6.3.2, 6.3.3, and 6.3.4. Section 6.3.4.f., and identifies potential sources of errors that 
+require specific activities focused at the source code review level. However, in order to protect 
+against foreseeable unintended software behaviour, it is beneficial and recommended to handle 
+these sources of error at the design level. 
+b. 
+The possibility of unintended software behaviour may be reduced by considering the following 
+activities: 
+1. 
+identification of foreseeable sources of software errors, which include: 
+a. 
+runtime exceptions or errors, such as fixed/floating-point arithmetic overflow, 
+stack/heap overflow, division by zero, or counter and timer overrun/wrap-around; 
+b. 
+data/memory corruption or timing issues, such as those caused by a lack of 
+partitioning or improper interrupt management or cache management; and 
+c. 
+features leading to unpredictable programme execution, such as dynamic 
+allocation, out-of-order execution, or resource contention; 
+2. 
+for each foreseeable source of software error, identification of the associated mitigation; 
+3. 
+specification of protection mechanisms in the software requirements (high-level or low-
+level requirements) which should in particular include the specification of error-handling 
+mechanisms; and 
+4. 
+for software Levels A and B, it is recommended that consideration be given to 
+incorporating runtime protection mechanisms since reliance on probabilistic approaches 
+
+ 
+or static analyses alone may not be appropriate; it may be a good practice to implement 
+such runtime protection mechanisms for the other software levels as well. 
+c. 
+The use of FMs in accordance with ED-216/DO-333 may enhance the detection of runtime 
+errors. 
+[Amdt 20/14]

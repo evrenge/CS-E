@@ -1,0 +1,17 @@
+# CS-Definitions, Fireproof Fireproof
+# id: CS-Definitions, Fireproof
+# source: external/CS-Definitions_Amendment_2.pdf
+# chars: 554
+
+‘Fireproof.’ With respect to materials, components and equipment, means the capability to 
+withstand the application of heat by a flame, for a period of 15 minutes without any failure 
+that would create a hazard to the aircraft. The flame will have the following characteristics: 
+ 
+Temperature 
+1100°C ± 80°C 
+ 
+Heat Flux Density 
+116 KW/m2 ± 10 KW/m2   
+For materials this is considered to be equivalent to the capability of withstanding a fire at least 
+as well as steel or titanium in dimensions appropriate for the purposes for which they are 
+used.

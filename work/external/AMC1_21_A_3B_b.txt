@@ -1,0 +1,43 @@
+# AMC1 21.A.3B(b) Failures, malfunctions and defects
+# id: AMC1 21.A.3B(b)
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 2466
+
+AMC1 21.A.3B(b) Failures, malfunctions and defects 
+ED Decision 2021/001/R 
+UNSAFE CONDITION 
+An unsafe condition exists if there is factual evidence (from service experience, analysis or tests) that: 
+(a) 
+An event may occur that would result in fatalities, usually with the loss of the aircraft, or reduce 
+the capability of the aircraft or the ability of the crew to cope with adverse operating conditions 
+to the extent that there would be: 
+(i) 
+A large reduction in safety margins or functional capabilities, or 
+(ii) 
+Physical distress or excessive workload such that the flight crew cannot be relied upon to 
+perform their tasks accurately or completely, or 
+(iii) 
+Serious or fatal injury to one or more occupants  
+unless it is shown that the probability of such an event is within the limit defined by the 
+applicable certification specifications, or 
+(b) 
+There is an unacceptable risk of serious or fatal injury to persons other than occupants, or 
+(c) 
+Design features intended to minimise the effects of survivable accidents are not performing 
+their intended function. 
+Note 1: Non-compliance with applicable certification specifications is generally considered as an 
+unsafe condition, unless it is shown that possible events resulting from this non-compliance do 
+not constitute an unsafe condition as defined under paragraphs (a), (b) and (c). 
+Note 2: An unsafe condition may exist even though applicable airworthiness requirements are 
+complied with. 
+Note 3: The above definition covers the majority of cases where the Agency considers there is an 
+unsafe condition. There may be other cases where overriding safety considerations may lead 
+the Agency to issue an airworthiness directive. 
+Note 4: There may be cases where events can be considered as an unsafe condition if they occur too 
+frequently (significantly beyond the applicable safety objectives) and could eventually lead to 
+consequences listed in paragraph (a) in specific operating environments. Although having less 
+severe immediate consequences than those listed in paragraph (a), the referenced events may 
+reduce the capability of the aircraft or the ability of the crew to cope with adverse operating 
+conditions to the extent that there would be, for example, a significant reduction in safety 
+margins or functional capabilities, a significant increase in crew workload, or in conditions 
+impairing crew efficiency, or discomfort to occupants, possibly including injuries.

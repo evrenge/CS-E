@@ -1,0 +1,10 @@
+# CS-Definitions, Icing Atmospheric Conditions Icing Atmospheric Conditions
+# id: CS-Definitions, Icing Atmospheric Conditions
+# source: external/CS-Definitions_Amendment_2.pdf
+# chars: 134
+
+‘Icing Atmospheric Conditions’. The definitions of atmospheric conditions are given in this 
+sub- 
+paragraph and Figures 2 to 7: 
+ 
+a.

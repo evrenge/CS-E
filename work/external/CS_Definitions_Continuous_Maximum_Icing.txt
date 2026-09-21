@@ -1,0 +1,16 @@
+# CS-Definitions, Continuous Maximum Icing Continuous Maximum Icing
+# id: CS-Definitions, Continuous Maximum Icing
+# source: external/CS-Definitions_Amendment_2.pdf
+# chars: 810
+
+‘Continuous Maximum Icing’. The maximum continuous intensity of atmospheric icing 
+conditions  (continuous maximum icing) is defined by the variables of the cloud liquid water 
+content, the mean  effective diameter of the cloud droplets, the ambient air temperature, 
+and the inter-relationship of these  three variables as shown in Figure 2. The limiting icing 
+envelope in terms of altitude and temperature is  given in Figure 3. The inter-relationship of 
+cloud liquid water content with droplet diameter and altitude is  determined from Figure 2 
+and Figure 3. The cloud liquid water content for continuous maximum icing  conditions of a 
+horizontal extent, other than 17·4 n miles, is determined by the value of liquid water  
+content of Figure 2, multiplied by the appropriate factor from Figure 4. 
+ 
+b.

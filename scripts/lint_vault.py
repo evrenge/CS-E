@@ -99,7 +99,7 @@ DOC_PREFIX = [
 # The documents whose cited paragraphs are sliced into work/external/. An id
 # belonging to one of these and matching no slice is a missing slice, not a
 # document the vault simply does not hold in that form.
-SLICED_DOCS = {"CS-27", "CS-29", "CS-34", "Part 21"}
+SLICED_DOCS = {"CS-27", "CS-29", "CS-34", "Part 21", "CS-Definitions", "AMC-20"}
 # source/external/ filename -> the label a note writes in imports:
 DOC_OF_FILE = {
     "CS-27_Amendment_10.pdf": "CS-27",

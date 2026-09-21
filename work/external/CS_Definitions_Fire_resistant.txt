@@ -1,0 +1,11 @@
+# CS-Definitions, Fire-resistant Fire-resistant
+# id: CS-Definitions, Fire-resistant
+# source: external/CS-Definitions_Amendment_2.pdf
+# chars: 462
+
+‘Fire-resistant.’ With respect to materials, components and equipment, means the capability 
+to withstand the application of heat by a flame, as defined for ‘Fireproof’, for a period of 5 
+minutes without any failure that would create a hazard to the aircraft. 
+For materials this may be considered to be equivalent to the capability of withstanding a fire 
+at least as well as aluminium alloy in dimensions appropriate for the purposes for which they 
+are used.
