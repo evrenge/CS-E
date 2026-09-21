@@ -4,6 +4,7 @@ type: AMC
 subpart: A
 pages: 39-41
 changed_in: [Amdt7]
+imports: [CS-27, CS-29]
 tags: [instruments, oei, monitoring, oil-pressure, assurance-level]
 covers: ["AMC E 60", "AMC E 60(d)"]
 ---
@@ -98,6 +99,31 @@ the engine, "the aircraft should still comply with CS-27/29.1305 specifications"
 the same sub-paragraph number, so the obligation does not depend on which code
 the installation targets. The duty falls on the aircraft; the engine applicant's
 duty is the instructions for installation.
+
+**What point 1305 requires is now readable, and it runs parallel to CS-E 60(d).**
+For each turbine engine using 30-second and 2-minute OEI power, both codes
+require a device or system for use by ground personnel which automatically
+records each usage and duration of power at those levels, permits retrieval of
+the recorded data, can be reset only by ground maintenance personnel, and has a
+means to verify proper operation [ext CS 29.1305(a)(26)], [ext CS 27.1305(u)].
+The pilot alerting duty is written in both places as well, in nearly the same
+words [ext CS 29.1305(a)(25)], [ext CS 27.1305(t)] and
+[[CS-E 60|CS-E 60(d)(1)]].
+
+Two differences are worth carrying into the installation instructions. The
+rotorcraft codes say the device can be "reset only by ground maintenance
+personnel", where [[CS-E 60|CS-E 60(d)(2)]] says the means cannot be reset in
+flight. And CS-E 60(d)(2)(ii) adds a duty the codes do not carry: the means must
+alert maintenance personnel in a positive manner that the engine has been
+operated at either or both levels.
+
+A third item is live for this engine because of a rating CS-E 60(d) does not
+cover. Where a 30-minute power rating is claimed, the pilot must be alerted when
+the engines are at that rating level, when the event begins, when the time
+interval expires and, where a cumulative limit in one flight exists, when that
+cumulative time is reached [ext CS 29.1305(a)(27)]. `engine_profile.md` declares
+Rated 30-Minute Power under [[CS-E 40|CS-E 40(b)(4)]], so the installer needs
+the engine data to support that alerting.
 
 The (d)(5) relief is available only if the applicant declares Maximum Engine
 Over-torque, Maximum Engine Over-speed or Maximum Exhaust Gas Over-Temperature

@@ -4,6 +4,7 @@ type: AMC
 subpart: A
 pages: 19-21
 changed_in: [Amdt8]
+imports: [CS-27, CS-29]
 tags: [type-design, interfaces, eecs, installation, oei, power-assurance]
 covers: ["AMC E 20", "AMC E 20(f)"]
 ---
@@ -114,9 +115,28 @@ not defeat that.
 The engine uses a full-authority EECS, so points (5), (6) and (7) apply at full
 weight rather than as the hydromechanical minimum.
 
-[VERIFY: AMC E 20(f)(1) cites CS-27.45(f) or CS-29.45(f). The applicable aircraft
-certification specification code is identified under [[CS-E 20|CS-E 20(b)]] and is
-not yet fixed in `engine_profile.md`.]
+**What point 45(f) asks for is the same in both codes.** Each requires that,
+for a turbine engine-powered rotorcraft, "a means must be provided to permit the
+pilot to determine prior to take-off that each engine is capable of developing
+the power necessary to achieve the applicable rotorcraft performance"
+[ext CS 29.45(f)], [ext CS 27.45(f)]. That is the power assurance check, and the
+engine data of (f)(1) is what makes it possible. The open code question of
+[[CS-E 30]] does not change this obligation.
+
+The data has to reach a defined quantity. Point 45(c) sets the available power
+as the engine power, not exceeding the approved power, less installation losses
+and less the power absorbed by the accessories and services
+[ext CS 29.45(c)], [ext CS 27.45(c)]. The two codes differ in how they qualify
+the accessory term: CS-29 takes the values for which certification is requested
+and approved, CS-27 the values appropriate to the particular ambient atmospheric
+conditions and flight condition. The engine-level half of that subtraction is
+what AMC E 20(f)(1) calls installation losses definable at engine level.
+
+Point 45(e) fixes the humidity the rotorcraft performance is based on for a
+turbine engine: 80% at and below standard temperature and 34% at and above
+standard temperature plus 28°C, varying linearly between
+[ext CS 29.45(e)]. Engine power data supplied under (f)(1) is used inside that
+frame.
 
 ## Not applicable
 
