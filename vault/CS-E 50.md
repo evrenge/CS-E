@@ -106,7 +106,8 @@ recommendation inside a binding specification, and is weaker than the "must" in
 - ICA covering maintenance of the security protections [CS-E 50(l)], carried into [[CS-E 25|CS-E 25(c)(13)]].
 
 Guidance on the whole paragraph: [[AMC E 50]]. CS-E 50 also cites AMC 20-1,
-AMC 20-3 and AMC 20-115, which are not held in `source/`.
+AMC 20-3 and AMC 20-115; all three are held, and [[AMC 20-3B]] is the one that
+interprets this paragraph.
 
 ## Application to this engine
 

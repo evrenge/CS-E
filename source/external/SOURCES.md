@@ -24,6 +24,20 @@ machinery in `source/` exists because CS-E is the deliverable, and these are not
 All carry `/Author = EASA` except CS-Definitions Amendment 2 (`EASA - RPS`).
 Metadata was checked against the first page of each file.
 
+## How a note reads one of these
+
+`scripts/external_paragraphs.py` slices the points the vault cites into
+`work/external/`, one file each, so a quotation from CS-29 or Part 21 is checked
+word-for-word the way a CS-E quotation is. The note cites it as `[ext <id>]` and
+declares the document in its `imports:` frontmatter; `CLAUDE.md`, **Imported
+obligations**, has the five rules. Adding a point means adding a line to that
+script's `WANTED` table, not changing code.
+
+Its docstring records the extraction defects that had to be fixed to make the
+slices trustworthy. Each one produced plausible text for the wrong paragraph
+rather than failing, which is why every slice is checked to open with the
+heading it claims.
+
 ## What each one unblocks
 
 Checked by searching the extracted text of every file for each reference the
@@ -50,7 +64,11 @@ document contains at any amendment.
 | `GM1 21.A.3B(b)` | a "DETERMINATION OF AN UNSAFE CONDITION" section | AMC E 510(3)(d)(iii) — the trigger for the whole uncontained-debris assessment |
 | `21.A.3A`, `21.A.3B` | occurrence reporting and the failure/malfunction/defect duties | the AMC E 515 Service Management Plan |
 | `21.A.20(d)`, with `GM 21.A.20(d)` | the final statement, and what "no feature or characteristics" means in `21.A.20(d)2` | the reason CS-E 160 exists |
-| `21.A.61` | **not held, and not holdable** — the point no longer exists in Part 21. The numbering runs 21.A.62 then 21.A.65, and an exact search returns nothing; a substring search appears to find it only because 21.A.601 to 21.A.615 exist. CS-E 25(a) cited `21.A.61(a)` until Amendment 7 deleted the reference, and Part 21 has since dropped the point itself | CS-E 25(a) amendment history |
+| `21.A.61` | **not held, and not holdable** — the point no longer exists in Part 21. The numbering runs 21.A.62 then 21.A.65, and an exact search returns nothing; a substring search appears to find it only because 21.A.601 to 21.A.615 exist. CS-E 25(a) cited `21.A.61(a)` until Amendment 7 deleted the reference, and Part 21 has since dropped the point itself. The instructions for continued airworthiness duty is now `21.A.7` | CS-E 25(a) amendment history |
+| `21.A.7` | who receives the instructions for continued airworthiness, and when | CS-E 25 |
+| `21.A.33` | the conformity machinery before a certification test | AMC E 650(15) |
+| `21.A.41` | what a type certificate includes | CS-E 40(e) |
+| `21.A.21`, `21.A.20`, `21.B.85`, with `GM1 21.B.85(a)` and `GM2 21.B.85` | the environmental protection chain, from CS-34 to the SARPs of ICAO Annex 16 | CS-E 1010 and CS-E 1020, through the `CS 34.1` and `CS 34.2` notes |
 | `21.A.801`, `21.A.805`, with `GM1 21.A.805` | identification of products, and the marking rules for critical parts | CS-E 120 |
 
 ### Why the three AMC & GM deltas were removed

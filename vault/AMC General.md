@@ -36,13 +36,17 @@ means. AMC-20 is a separate EASA document and may also supply one.
 Nothing specific to a turboshaft. The provision applies to every CS-E
 specification.
 
-AMC-20 is not held in `source/`. Obtain it separately if a compliance method
-relies on it.
+AMC-20 is held in `source/external/`, at Amendment 23. Four of its documents
+are read in this vault: AMC 20-3B, which has a note of its own at
+[[AMC 20-3B]], and AMC 20-1A, AMC 20-42 and AMC 20-115D, which are recorded in
+the notes that cite them. The rest of the series is held but not read, because
+no CS-E paragraph in scope cites it.
 
 ## References
 
 Specification: applies across CS-E; not tied to a single paragraph.
 Related: [[CS-E 10]]
+External: [[AMC 20-3B]]
 
 ## Amendment history
 

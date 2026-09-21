@@ -1,16 +1,25 @@
-"""Every reference the vault makes to a document we do not hold.
+"""Every reference the vault makes out of CS-E, and whether it can be followed.
 
 CS-E does not stand alone. It defers to Part 21 for the certification process,
 to CS-27 and CS-29 for what the rotorcraft must do, to CS-34 for emissions, to
 CS-Definitions for terms it uses without defining, to the AMC 20 series for
 electronic control systems and security, and to industry standards for how each
-environmental test is run. None of those are in `source/`, and the five PDFs we
-hold are the only authority the vault has.
+environmental test is run.
 
-A reader who follows one of those references leaves the vault and cannot come
-back with an answer. This script finds every such exit, in the SOURCE text of
-every in-scope paragraph and in the notes, so the list is what EASA actually
-cites rather than what a note happened to mention.
+This script finds every such exit, in the SOURCE text of every in-scope
+paragraph and in the notes, so the list is what EASA actually cites rather than
+what a note happened to mention.
+
+Each family is marked HELD or NOT HELD. A reference into a held family can be
+followed: the document is in `source/external/`, the points the vault cites are
+sliced into `work/external/`, and a note may carry the answer as an `[ext ...]`
+import. A reference into a family that is not held is a dead end in the sense
+`review/dead_ends.md` uses: the reader leaves and cannot come back with an
+answer.
+
+Held does not mean authoritative. `source/CS-E_Amendment_8.pdf` remains the only
+source of CS-E requirement content, and an external document answers only its
+own question.
 """
 
 from __future__ import annotations
@@ -42,6 +51,11 @@ PATTERNS = [
     ("Industry std",   r"\bISO\s*\d+(?:-\d+)?|\bMIL-STD-\d+|\bSAE\s*[A-Z]*\d+"),
     ("Industry std",   r"\bICAO\s+Annex\s+\d+"),
 ]
+
+
+# A family is held when the document behind it is in source/external/. The
+# vault can follow a reference into a held family; it cannot follow the others.
+HELD = {"Part 21", "AMC 20 series", "CS-Definitions", "CS-27 / CS-29", "CS-34"}
 
 
 def canon(ref: str) -> str:
@@ -103,10 +117,13 @@ def main() -> int:
         for family, ref in scan(note.read_text(encoding="utf-8")):
             found[family][ref]["notes"].add(note.stem)
 
-    total = 0
+    total = held = 0
     for family in sorted(found):
         refs = found[family]
-        print(f"\n## {family}  ({len(refs)} distinct)")
+        mark = "HELD" if family in HELD else "NOT HELD"
+        if family in HELD:
+            held += len(refs)
+        print(f"\n## {family}  ({len(refs)} distinct, {mark})")
         for ref in sorted(refs):
             e = refs[ref]
             total += 1
@@ -123,6 +140,8 @@ def main() -> int:
             print(f"  {ref:<28} cited by: {src}{more}"
                   f"  | notes: {len(e['notes'])}{flag}")
     print(f"\n{total} distinct external references across {len(found)} families")
+    print(f"{held} are into a document held in source/external/ and can be "
+          f"followed; {total - held} cannot.")
     return 0
 
 

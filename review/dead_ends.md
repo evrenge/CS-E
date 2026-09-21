@@ -20,11 +20,11 @@ recorded per entry.
 Two distinctions matter when reading on, and blurring either would overstate the
 position:
 
-- **Held is not used.** The project can now answer these; the vault cannot yet,
-  because no note carries the answer. Writing one means using a document that is
-  not CS-E, which needs the **Source of truth** rule in `CLAUDE.md` amended
-  first, with a convention for marking an imported obligation. Until then the
-  notes read exactly as they did.
+- **Held is now used.** This distinction mattered while the documents sat in
+  `source/external/` unread. The convention for marking an imported obligation
+  is written — `CLAUDE.md`, **Imported obligations**, rules A to E — and the
+  answers are in the notes. What each document closed is listed under *Where the
+  answers landed* below.
 - **Cited is not contained.** AMC-20, CS-27, CS-29 and Part 21 mention
   EUROCAE ED-14, RTCA DO-160, ISO 2685, SAE ARP4754A and ARP 4761 by name. They
   do not reproduce them. Those standards remain unheld.
@@ -57,6 +57,42 @@ Part II reaches any turbine engine powered aircraft.
 
 Kinds 2 and 3 are unaffected by any of this. Kind 2 is a gap in Amendment 8
 itself that no document can fill. Kind 3 waits on the applicant.
+
+### Where the answers landed
+
+One line per document, naming the notes that now carry an imported obligation
+from it. `deck/compliance_matrix.xlsx` has the full list on its *Imports* sheet,
+one row per `[ext …]` citation; regenerate it rather than counting here.
+
+| Document | Notes that now read it |
+|---|---|
+| **CS-34** | `CS 34.1` and `CS 34.2` in `vault/external/`, and through them CS-E 1000, CS-E 1010, CS-E 1020, AMC E 1000, AMC E 1020 |
+| **Part 21** | CS-E 25, CS-E 40, CS-E 120, CS-E 160, CS-E 1020, AMC E 510, AMC E 515, AMC E 650 |
+| **CS-Definitions** | CS-E 130 (Fireproof, Fire-resistant), CS-E 780 (icing intensities), CS-E 15, AMC E 130 |
+| **CS-27 and CS-29** | AMC E 20 (point 45), AMC E 60 (point 1305), CS-E 780 (point 1093), and the two rotor drive notes `CS 27.927` and `CS 29.927`, which CS-E 20, CS-E 30, CS-E 40, CS-E 50 and CS-E 510 link |
+| **AMC-20** | `AMC 20-3B` in `vault/external/`, linked from CS-E 50, AMC E 50, AMC E 80, AMC E 170 and AMC General; AMC 20-42 inline in AMC E 50; AMC 20-1A and AMC 20-115D named in CS-E 50 |
+| **ED Decision 2025/005/R** | AMC E 1020, for the conflict between its TCDS note format and the repeal |
+
+Three things the reading changed rather than confirmed:
+
+- **CS-E 780 no longer depends on the code choice.** CS-27 sends the applicant
+  to appendix C of CS-29, so the turbine engine content of point 1093(b) is the
+  same in both. The CS-27-against-CS-29 decision still blocks other paragraphs.
+- **CS-E 1020 may not reach this engine.** The Annex 16 part behind it is written
+  for turbojet and turbofan engines. Carried as an open item, not as a verdict.
+- **AMC E 1020(1) prescribes a TCDS note EASA has since disowned.** Recorded as
+  a conflict for the Agency, not resolved in the vault.
+
+### What the reading did not close
+
+- The revision letters. CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and AMC 20-115;
+  AMC-20 Amendment 23 carries AMC 20-1A, AMC 20-3B and AMC 20-115D. Recorded in
+  `AMC 20-3B`.
+- The superseded Part 21 text. Whether point 21.A.20(d)2 carries the same duty as
+  the former 21.A.21(c)(3) needs the edition in force before the renumbering,
+  which is not held. Recorded in CS-E 160.
+- Everything in *Still open* above. The industry and foreign standards named
+  inside the held documents are still named and still not contained.
 
 ## Kind 1 — documents CS-E cites
 

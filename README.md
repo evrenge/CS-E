@@ -19,8 +19,10 @@ and the cut is recorded.
 | Before/after wording recovered | **29 / 29** changed paragraphs that apply |
 | **Notes written** | **112 / 112** |
 | Obligations extracted | **1,492** across the 112 notes |
-| Open `[VERIFY]` items | **90** |
+| Open `[VERIFY]` items | **74** |
 | Sub-points cut, each recorded | **121** |
+| External notes | **5** in `vault/external/` |
+| Imported obligations | **73**, from six documents outside CS-E |
 
 112 notes rather than 128, because the vault holds **one AMC note per CS-E
 number**: seven merged notes cover 23 separate AMC banners. `scripts/vault_map.py`
@@ -50,11 +52,14 @@ Everything else is either input or regenerable.
 CLAUDE.md          rules — read first
 engine_profile.md  the declared engine configuration (project input)
 vault/             THE DELIVERABLE. One note per paragraph, Obsidian-linked
+vault/external/    notes on paragraphs of other documents, where the material
+                   is too large to import into a CS-E note
 deck/              compliance matrix, derived from the vault
 review/            verification findings and the dead-end inventory
 source/            the five EASA CS-E PDFs, read-only, SHA-256 pinned
 source/external/   documents CS-E cites and does not contain — CS-27, CS-29,
-                   CS-Definitions, AMC-20. Not requirement content
+                   CS-Definitions, AMC-20, Part 21, CS-34. Not requirement
+                   content
 scripts/           extraction, classification, validation, rendering
 work/              generated. 486 files of intermediate output — ignore unless
                    you are checking a specific extraction
@@ -87,11 +92,12 @@ and `build_index.py` consumes it.
 
 ```bash
 .venv/bin/python scripts/verify_sources.py    # the five PDFs are intact and unmodified
+.venv/bin/python scripts/external_paragraphs.py  # cited external points -> work/external/
 .venv/bin/python scripts/audit_coverage.py    # every body line reached its paragraph
 .venv/bin/python scripts/lint_vault.py        # notes agree with the index and the rules
 .venv/bin/python scripts/audit_cuts.py        # every recorded cut is a cut of real text
 .venv/bin/python scripts/audit_citations.py   # citations resolve; numbers are the source's
-.venv/bin/python scripts/external_refs.py     # every reference to a document we do not hold
+.venv/bin/python scripts/external_refs.py     # every reference out of CS-E, held or not
 ```
 
 `audit_coverage.py` is the important one. It re-derives which paragraph owns each
@@ -125,16 +131,22 @@ three kinds: documents EASA cites and this repository does not hold, terms CS-E
 uses and defines nowhere, and engine information the applicant has not yet
 declared.
 
-`scripts/external_refs.py` derives **45 distinct external references across 8
-families** — Part 21, the AMC 20 series, CS-Definitions, CS-23/25/27/29, CS-34,
-FAA material and industry standards.
+`scripts/external_refs.py` derives every reference out of CS-E and marks each
+family held or not held. Run it for the current count; at the time of writing,
+three quarters of them are into a document `source/external/` holds and can be
+followed.
 
-Most of those are no longer dead. `source/external/` holds seven documents —
-CS-27, CS-29, CS-Definitions, AMC-20, the Easy Access Rules edition of Part 21,
-CS-34 as repealed, and the repeal's explanatory note — and between them they
-answer every external reference except the paywalled industry standards. Holding
-a document is not the same as having used it: no note carries an imported
-obligation yet, because that needs the **Source of truth** rule in `CLAUDE.md`
-amended first.
+They are followed. `source/external/` holds seven documents — CS-27, CS-29,
+CS-Definitions, AMC-20, the Easy Access Rules edition of Part 21, CS-34 as
+repealed, and the repeal's explanatory note. The points the vault cites are
+sliced into `work/external/`, a note cites one as `[ext <id>]` and declares the
+document in its `imports:` frontmatter, and a quotation from CS-29 or Part 21 is
+checked word-for-word the way a CS-E quotation is. `CLAUDE.md`, **Imported
+obligations**, has the five rules that keep a CS-E obligation distinguishable
+from an imported one.
+
+What remains dead is the paywalled and foreign material named inside those
+documents: ED-14 and DO-160, ISO 2685, the FAA advisory circulars, the SAE ARP
+series, and ICAO Annex 16 at the far end of the emissions chain.
 
 Neither list is a defect. Both are the boundary of what these notes can answer.
