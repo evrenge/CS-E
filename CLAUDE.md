@@ -6,9 +6,49 @@ Target English level: B2. Short sentences (max ~20 words). Active voice. No lega
 Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF, OEI) as-is.
 
 ## Source of truth
-- source/CS-E_Amendment_8.pdf is the ONLY authority for requirement content.
+- source/CS-E_Amendment_8.pdf is the ONLY authority for **CS-E** requirement content.
 - Change Information PDFs are used ONLY to tag what changed in Amdt 7 / Amdt 8.
 - Never use memory or general knowledge for requirement content. If the source does not say it, it does not go in a note.
+- A document in `source/external/` may answer a question CS-E asks and does not
+  answer itself — what CS 29.927 requires of the transmission, what Fireproof
+  means, what 21.B.85 designates. That is an **imported obligation**, and it is
+  governed by **Imported obligations** below. It never becomes a CS-E
+  requirement, and it is never written without the marking that rule sets out.
+
+### Imported obligations
+CS-E defers constantly, and until the external documents were held the vault
+could only say "this is defined elsewhere". It can now answer. The risk that
+creates is precise: a reader who cannot tell a CS-E obligation from a CS-29 one
+has lost the only thing this vault guarantees. Five rules prevent that.
+
+**A. An imported obligation never becomes a `## Requirement` row.** In a CS-E
+note that table is the 1:1 map to CS-E, and it is the part a reader trusts
+without checking. A CS-29 row in it destroys exactly that. Imported material
+goes in `## Compliance`, in `## Application to this engine`, or in interpretive
+prose.
+
+**B. It is cited as `[ext <id>]`** — `[ext CS 29.927(c)]`, `[ext GM1 21.A.3B(b)]`,
+`[ext CS-Definitions, Fireproof]`. The `ext` marker is the point: `CS-E` and
+`CS-29` differ by two characters, which is not enough to carry a distinction
+this important. `<id>` matches a file in `work/external/` wherever one exists.
+
+**C. In a CS-E note an imported statement gets no `Strength` label.** The seven
+terms are keyed to *CS-E's* verbs. Labelling CS-29's `must` as **Required**
+tells a reader CS-E imposes it. CS-E does not; CS-29 does, on the rotorcraft.
+Write what the other document requires and of whom.
+
+**D. A quotation from an external document follows accuracy rule 4 unchanged**,
+and is checked against `work/external/`. Same standard, wider haystack. This is
+why `scripts/external_paragraphs.py` exists.
+
+**E. Frontmatter records the dependency: `imports: [CS-29, Part 21]`.** One
+entry per document, not per citation. It lets a reader see at a glance that a
+note rests on something outside CS-E, and lets `build_matrix.py` carry that to
+the applicant.
+
+What an import must never do is let CS-E off. If CS-E states an obligation, the
+`## Requirement` row states it whether or not the imported material explains it.
+The import adds the answer; it does not replace the question.
 
 ## Scope
 - Turbine engine rules only: Subparts A, D, E, F (per CS-E 10(d)). Exclude Subparts B and C.
@@ -167,6 +207,38 @@ An AMC note labels its References line `Specification:` and links its parent CS.
 A figure or table owned by the paragraph is embedded as an image, not described:
 see **Figures** below.
 
+### External notes — `vault/external/`
+Some external material is too large to sit inside a CS-E note as an import.
+CS 29.927 runs to five printed pages and governs the transmission, not the
+engine; quoting it into `CS-E 740` would bury that note and break rule 8 the
+moment a second note needed the same text.
+
+Such material gets a note of its own in `vault/external/`, named for the
+paragraph: `CS 29.927.md`, `CS 27.927.md`. A CS-E note then links to it —
+`[[CS 29.927]]` — exactly as it links a CS-E note.
+
+These are **not** CS-E notes and the differences are deliberate:
+
+- Frontmatter carries `type: EXT` and `document:` naming the source file. There
+  is no `subpart:` and no `changed_in:`; neither means anything outside CS-E.
+- There is no `## Application to this engine` verdict and no `## Not applicable`
+  section. Applicability is a CS-E scope judgement. An external note records
+  what the paragraph says and, under `## Bearing on this engine`, what follows
+  for a CS-E obligation — which is a different claim.
+- The `## Requirement` table **may** use the seven strengths, because the note's
+  whole subject is that document and its own verbs. Rule C bars the strength
+  vocabulary from an import *inside a CS-E note*, where it would read as CS-E's.
+  Here the title, the frontmatter and the folder all say whose obligation it is.
+- `## References` labels its CS-E side `Bears on:` and links the CS-E notes that
+  depend on it.
+
+Where a rotorcraft point exists in both codes, **write one note per code**, not a
+merged one. `CS 27.927` and `CS 29.927` share a structure and differ in
+substance — CS-29 carries the Category A and B loss-of-lubrication regime that
+CS-27 states in a single sentence. A merged note would have to caveat every row,
+and a reader certifying against one code does not want the other's text in the
+same table. Each links the other under `Counterpart:`.
+
 ### Obligation strength
 The `Strength` column takes one of seven values and nothing else. Each is fixed
 to the verb the source uses.
@@ -291,6 +363,8 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 │                            # See source/external/SOURCES.md
 ├── scripts/                 # extraction, indexing, classification, rendering
 ├── vault/                   # the notes — one file per paragraph, plus figures/
+│   └── external/            # notes on paragraphs of other documents. See
+│                            # **External notes** above
 ├── deck/                    # exports for the certification programme
 │   └── compliance_matrix.xlsx   # derived from the vault. Regenerate, never hand-edit
 ├── review/                  # verification findings and the dead-end inventory
@@ -299,6 +373,8 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
     ├── paragraphs/          # one file per CS-E / AMC paragraph
+    ├── external/            # one file per cited paragraph of an external
+    │                        # document — the haystack for an [ext …] quotation
     ├── redline/             # per-paragraph before/after wording
     ├── spans.json           # true page span per paragraph
     ├── pages.json           # page-level extraction metadata
@@ -334,6 +410,7 @@ Where to look instead of trusting a number written here:
 .venv/bin/python scripts/lint_vault.py           # vault notes vs index and rules
 .venv/bin/python scripts/audit_cuts.py           # recorded cuts vs what the source says
 .venv/bin/python scripts/audit_citations.py     # citations resolve; numbers are the source's
+.venv/bin/python scripts/external_paragraphs.py  # cited external paragraphs -> work/external/
 .venv/bin/python scripts/external_refs.py        # every reference to a document we do not hold
 .venv/bin/python scripts/verify_sources.py       # source integrity
 .venv/bin/python scripts/build_matrix.py        # vault -> deck/compliance_matrix.xlsx
@@ -367,6 +444,13 @@ a certification engineer is least able to catch by reading, so every one is
 matched back to the source, after normalising the spellings that differ between
 the PDF text layer and a note — the vulgar fractions, the thin space in
 "1 500 ft", the spacing around a degree sign.
+
+`external_paragraphs.py` slices the documents in `source/external/` into one file
+per cited paragraph, so an `[ext …]` quotation can be checked word-for-word the
+way a CS-E quotation is. Only the points the vault cites are extracted, listed in
+its `WANTED` table; adding one means adding a line there. Its docstring records
+the four extraction defects that had to be fixed to make the slices trustworthy,
+each of which silently produced wrong text rather than failing.
 
 `external_refs.py` lists every reference the in-scope paragraphs and the notes
 make to a document outside `source/` — Part 21, the AMC 20 series, CS-Definitions,
@@ -470,17 +554,18 @@ authority for requirement content, as stated at the top of this file, and that
 does not change because other documents are now present.
 
 **`source/external/`** — documents CS-E cites and does not contain: CS-27, CS-29,
-CS-Definitions, AMC-20, and an AMC & GM to Part 21 delta. They answer their own
-questions — what the rotorcraft code asks, what a deferred term means, what the
-AMC 20 series accepts — and they are never a source of CS-E requirement content.
+CS-Definitions, AMC-20, the Easy Access Rules edition of Part 21, CS-34 as
+repealed, and the repeal's explanatory note. They answer their own questions —
+what the rotorcraft code asks, what a deferred term means, what the AMC 20
+series accepts — and they are **never** a source of CS-E requirement content.
 They are pinned to the version the vault was written against and **not tracked
 across amendments**: the amendment machinery exists because CS-E is the
 deliverable, and these are not. `source/external/SOURCES.md` records what each
-one closes, what the Part 21 file is not, and what is still missing.
+one closes and what is still missing.
 
-Writing note content from an external document is a change to the Source of truth
-rule at the top of this file. Make that change deliberately, with a convention for
-how a note marks an imported obligation, before the first such note is written.
+Writing note content from one of them is governed by **Imported obligations**
+at the top of this file, and by **External notes** where the material warrants a
+note of its own.
 
 - `source/` is **read-only input**. Never edit or re-save a PDF there — it changes
   the SHA-256 and breaks provenance. Re-fetch and update `CHECKSUMS.sha256`

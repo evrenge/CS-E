@@ -4,6 +4,11 @@ The vault is the working document; the matrix is what a certification programme
 tracks against. It is derived, never hand-edited -- every obligation in it comes
 from a `## Requirement` table in a note, so a note and the matrix cannot drift.
 
+Imported obligations do not appear on the Requirements sheet: that sheet is the
+1:1 map to CS-E, and CLAUDE.md rule A keeps another document's obligation out of
+it. They reach the applicant on the Imports sheet instead, one row per `[ext ...]`
+citation, with the document it comes from and the sentence that carries it.
+
 The four right-hand columns of the Requirements sheet are deliberately empty.
 They are the applicant's: how compliance is shown, which document shows it, where
 it stands, and any remark. Re-running this script rewrites the file and discards
@@ -35,6 +40,7 @@ HEAD = PatternFill("solid", fgColor="1F3864")
 HEAD_FONT = Font(color="FFFFFF", bold=True)
 FILLABLE = PatternFill("solid", fgColor="FFF2CC")
 VERIFY = re.compile(r"\[VERIFY:\s*", re.S)
+EXT_CITE = re.compile(r"\[ext ([^\]]+)\]")
 
 
 def verify_items(text: str):
@@ -184,6 +190,10 @@ def sheet(wb, title, headers, rows, widths, fill_from=None, wrap=()):
 def main() -> int:
     from classification import CLASSIFICATION
     from vault_map import expected_notes
+    # One authority for which document an [ext ...] id belongs to: the linter
+    # builds it from the slices in work/external/, and a second copy here would
+    # drift the first time a document is added.
+    from lint_vault import ext_document
     meta = expected_notes({i: s for i, s, _ in CLASSIFICATION})
 
     def order(note: Path) -> tuple:
@@ -207,7 +217,7 @@ def main() -> int:
         return (fm.get("subpart", "Z"), page, num,
                 0 if fm.get("type") == "CS" else 1, note.stem)
 
-    reqs, comps, opens, nas = [], [], [], []
+    reqs, comps, opens, nas, imports = [], [], [], [], []
     for note in sorted(VAULT.glob("*.md"), key=order):
         text = note.read_text(encoding="utf-8")
         fm = frontmatter(text)
@@ -229,8 +239,25 @@ def main() -> int:
             if line.strip().startswith("- "):
                 item = line.strip()[2:]
                 cite = " ".join(re.findall(r"\[((?:CS-E|AMC E)[^\]]*)\]", item))
-                comps.append([subpart, name, strip_markup(re.sub(
-                    r"\[(?:CS-E|AMC E)[^\]]*\]", "", item)).rstrip(" ."), cite])
+                imported = " · ".join(f"[ext {c}]" for c in EXT_CITE.findall(item))
+                body = re.sub(r"\[(?:CS-E|AMC E)[^\]]*\]", "", item)
+                comps.append([subpart, name,
+                              strip_markup(body).rstrip(" ."), cite, imported])
+
+        # Rule A keeps an import off the Requirements sheet, so this is the only
+        # place it reaches the applicant. Every section is scanned, because an
+        # import is as likely to sit in the applicability prose as in a
+        # compliance bullet.
+        for section, block in sec.items():
+            for line in block.splitlines():
+                ids = EXT_CITE.findall(line)
+                if not ids:
+                    continue
+                sentence = strip_markup(re.sub(r"^\s*[-*]\s*", "", line))
+                for cid in ids:
+                    doc, _ = ext_document(cid.strip())
+                    imports.append([subpart, name, section, doc or "?",
+                                    cid.strip(), sentence])
 
         for item in verify_items(text):
             opens.append([subpart, name, item])
@@ -249,8 +276,14 @@ def main() -> int:
           fill_from=11, wrap=(7, 10, 11, 12, 14))
 
     sheet(wb, "Compliance items",
-          ["Subpart", "Note", "What must be produced", "Citation"],
-          comps, [8, 16, 100, 26], wrap=(3, 4))
+          ["Subpart", "Note", "What must be produced", "Citation",
+           "Imported from"],
+          comps, [8, 16, 100, 26, 26], wrap=(3, 4, 5))
+
+    sheet(wb, "Imports",
+          ["Subpart", "Note", "Section", "Document", "Paragraph",
+           "What it says"],
+          imports, [8, 16, 26, 16, 20, 96], wrap=(6,))
 
     sheet(wb, "Open items",
           ["Subpart", "Note", "VERIFY"],
@@ -273,6 +306,7 @@ def main() -> int:
                 ["Compliance items", len(comps), ""],
                 ["Open VERIFY items", len(opens), ""],
                 ["Pruned sub-points", len(nas), ""],
+                ["Imported obligations", len(imports), ""],
                 ["Excluded paragraphs", len(list(excluded_paragraphs())), ""],
                 ["", "", ""],
                 ["By obligation strength", "", ""]]
@@ -293,6 +327,9 @@ def main() -> int:
     print(f"  {len(reqs)} obligations from {len({r[1] for r in reqs})} notes")
     print(f"  {len(comps)} compliance items, {len(opens)} open VERIFY items, "
           f"{len(nas)} pruned sub-points")
+    if imports:
+        docs = sorted({r[3] for r in imports})
+        print(f"  {len(imports)} imported obligation(s) from {', '.join(docs)}")
     missing = sorted({n.stem for n in VAULT.glob('*.md')} - {r[1] for r in reqs})
     if missing:
         print(f"  ! no obligation rows parsed from: {', '.join(missing)}")
