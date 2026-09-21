@@ -217,9 +217,14 @@ def extract(pid: str, text: str, heading: re.Pattern = HEADING,
     """The slice from this paragraph's heading to the next heading."""
     key = key or pid
     # A glossary term is followed by "means", not by a title starting with a
-    # capital, so the trailing \S is all that can be asked of it.
+    # capital, so the trailing \S is all that can be asked of it. The lookahead
+    # is not optional: without it "21.A.21" matches the heading of 21.A.211, and
+    # the slice is a different point of Part 21 that reads perfectly well. It is
+    # applied only where the key ends in a letter or a digit, because a glossary
+    # term ends in a closing quote and is followed by a full stop.
+    tail = r"(?![A-Za-z0-9])" if key[-1].isalnum() else ""
     candidates = []
-    for m in re.finditer(rf"^[ \t]*{re.escape(key)}[ \t]*\S", text, re.M):
+    for m in re.finditer(rf"^[ \t]*{re.escape(key)}{tail}[ \t]*\S", text, re.M):
         # A table-of-contents entry carries dot leaders and a page number. A
         # long one wraps, so the leaders can be on the following line.
         window = text[m.start():m.start() + 320].split("\n")[:3]
@@ -256,6 +261,14 @@ def main() -> int:
         slice_ = extract(pid, cache[fname], heading, key)
         if slice_ is None:
             print(f"  {pid:44s} NOT FOUND in {fname}")
+            missing += 1
+            continue
+        # The slice must open with the point it claims to be. This is the check
+        # that catches a heading regex matching a longer number -- a defect that
+        # produces plausible text for the wrong paragraph and fails nothing else.
+        first = slice_.split("\n", 1)[0].strip()
+        if not first.startswith(key or pid):
+            print(f"  {pid:44s} WRONG SLICE: starts {first[:40]!r}")
             missing += 1
             continue
         out = OUT / f"{slug(pid)}.txt"

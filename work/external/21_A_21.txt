@@ -1,27 +1,45 @@
 # 21.A.21 Requirements for the issue of a type certificate
 # id: 21.A.21
 # source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
-# chars: 837
+# chars: 1910
 
-21.A.211 Duration and continued validity 
-Regulation (EU) 2022/201 
+21.A.21 Requirements for the issuance of a type certificate or 
+restricted type certificate 
+Regulation (EU) 2024/1108 
 (a) 
-A noise certificate shall be issued for an unlimited period of time. It shall remain valid subject 
-to compliance with all the following conditions: 
+In order to be issued with a product or a CMU type certificate, or with an aircraft restricted type 
+certificate for the aircraft that does not meet the essential requirements laid down in Annex II 
+to Regulation (EU) 2018/1139,, the applicant shall: 
 1. 
-the aircraft continues to comply with the applicable type design and continued 
-airworthiness requirements; and 
+demonstrate its capability in accordance with point 21.A.14; 
 2. 
-the aircraft remaining on the same register; and 
+demonstrate compliance in accordance with point 21.A.20; 
 3. 
-the type-certificate or restricted type-certificate under which it is issued not being 
-previously invalidated under point 21.A.51; 
-4. 
-the certificate has not been revoked by the competent authority under point 21.B.65, or 
-surrendered by the certificate holder. 
-(b) 
-Upon surrender or revocation, the certificate shall be returned to the competent authority of 
-the Member State of registry.
+for an aircraft type certificate or restricted type certificate, demonstrate that the engine 
+or propeller, or both, if installed on the aircraft: 
+(i) 
+has/have a type certificate issued or determined in accordance with this 
+Regulation; or 
+(ii) 
+is/are compliant with the aircraft type-certification basis established for aircraft 
+other than unmanned aircraft, or with the UAS type-certification basis for 
+unmanned aircraft, and the environmental protection requirements designated 
+and notified by the Agency as necessary to ensure the safe flight of the aircraft; 
+ 
+ 
 
  
-SUBPART J — DESIGN ORGANISATION APPROVAL
+4. 
+for an unmanned aircraft type certificate or restricted type certificate: 
+(i) 
+demonstrate compliance with the UAS type-certification basis in accordance with 
+point 21.B.80; 
+(ii) 
+demonstrate that the CMU has a type certificate issued in accordance with this 
+Regulation, if the CMU has been certified separately from the unmanned aircraft. 
+(b) 
+By way of derogation from point (a)(2), at the applicant’s request included in the declaration 
+referred to in point 21.A.20(d), the applicant is entitled to have the aircraft type certificate or 
+restricted type certificate issued before the applicant has demonstrated compliance with the 
+applicable operational suitability data certification basis, provided that the applicant 
+demonstrates such compliance before the date on which this data is to be actually used.
