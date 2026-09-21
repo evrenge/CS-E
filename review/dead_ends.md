@@ -1,96 +1,113 @@
 # Dead ends — what the vault cannot answer, and why
 
 A **dead end** is a point where the vault stops. Either the answer lives in a
-document EASA cites and we do not hold, or it depends on something the applicant
-has not yet declared. Neither is a defect. Both are limits on what a reader can
-get from these 112 notes, and a certification programme needs the list.
+document EASA cites, or it depends on something the applicant has not yet
+declared. Neither is a defect. Both are limits on what a reader can get from
+these 112 notes, and a certification programme needs the list.
 
 Compiled from seven independent verification passes over the whole vault, one per
 scope, each reading the notes AND their source paragraphs. Cross-checked against
 `scripts/external_refs.py`, which scans the same corpus mechanically.
 
-> **Status: five of the cited documents are now held.** `source/external/` has
-> CS-27 Amendment 10, CS-29 Amendment 12, CS-Definitions Amendment 2, AMC-20
-> Amendment 23, and the Easy Access Rules edition of Part 21 — Regulation (EU)
-> No 748/2012, which carries the Annex I Regulation text together with its AMC
-> and GM. Between them they close the Kind 1 entries for `27.45(f)`, `29.45(f)`,
-> `27.1093(b)`, `29.1093(b)`, `Fire-resistant`, `Fireproof`, `Icing Atmospheric
-> Conditions`, `AMC 20-1`, `AMC 20-3`, `AMC 20-42`, `AMC 20-115`,
-> `AMC 25.1309`, `AMC1 21.A.3B(b)`, `21.A.3`, `21.A.20(d)2`, `21.A.61(a)`,
-> `21.A.801` and `21.A.805`.
->
-> Holding a document is not the same as having used it. The entries below still
-> read as they did when the inventory was compiled, and each is rewritten when
-> the answer actually reaches a note — which needs the Source of truth rule in
-> CLAUDE.md amended first, with a convention for marking an imported obligation.
-> `source/external/SOURCES.md` is the current record of what is held and what
-> each one closes.
->
-> **CS-34 turned out not to be the blocker this inventory calls it.** The
-> document is five pages, and its whole normative content is two sentences that
-> redirect to point 21.A.21 of Part 21. It holds no limit, no operating cycle
-> and no measurement method. The chain then runs 21.A.21 → 21.A.20 → 21.B.85 →
-> ICAO Annex 16, and every step after CS-34 is inside the Part 21 file now held.
-> EASA repealed CS-34 on 27 May 2025, five weeks after CS-E Amendment 8 was
-> issued, precisely to stop it being used as though it carried requirements.
-> `source/external/SOURCES.md` sets out the chain and the one scope question it
-> opens — whether ICAO Annex 16 Volume II Part III, which is stated to cover
-> turbojet and turbofan engines, reaches a turboshaft at all.
->
-> Still missing: **ICAO Annex 16 Volume II**, at the end of that chain, and the
-> industry standards — EUROCAE ED-14 / RTCA DO-160, ISO 2685, FAA AC 33.70-2
-> and -3, SAE ARP4754A / EUROCAE ED-79A.
+## Status
 
-**145 distinct dead ends.** They fall into three kinds.
+**Kind 1 is closed.** Every external document CS-E cites, other than the
+industry and foreign standards listed under *Still open* below, is now held in
+`source/external/` and checksum-pinned. Each reference in the tables that follow
+was searched for in the extracted text of all seven documents; the result is
+recorded per entry.
 
-## Kind 1 — documents we do not hold
+Two distinctions matter when reading on, and blurring either would overstate the
+position:
+
+- **Held is not used.** The project can now answer these; the vault cannot yet,
+  because no note carries the answer. Writing one means using a document that is
+  not CS-E, which needs the **Source of truth** rule in `CLAUDE.md` amended
+  first, with a convention for marking an imported obligation. Until then the
+  notes read exactly as they did.
+- **Cited is not contained.** AMC-20, CS-27, CS-29 and Part 21 mention
+  EUROCAE ED-14, RTCA DO-160, ISO 2685, SAE ARP4754A and ARP 4761 by name. They
+  do not reproduce them. Those standards remain unheld.
+
+### Scope decision: the chain ends at ICAO Annex 16
+
+CS-E 1010 and CS-E 1020 route through CS 34.1 / CS 34.2 → point 21.A.21 →
+21.A.20 → 21.B.85 → the SARPs in ICAO Annex 16. **The vault records that chain
+and stops there.** ICAO Annex 16 is not an EASA document, it is not free, and
+this is a CS-E vault; the applicant follows the last link. Recording where the
+chain ends is the answer, not a gap.
+
+One consequence is carried as an open item rather than acted on. `GM1 21.B.85(a)`
+states that Volume II Part III, engine emissions, applies to "turbojet and
+turbofan engines". A turboshaft is neither, so CS-E 1020 may not reach this
+engine at all. That rests on a GM sentence describing Annex 16 rather than on
+Annex 16 itself, so no verdict has been changed. Fuel venting is unaffected:
+Part II reaches any turbine engine powered aircraft.
+
+### Still open
+
+| Missing | Blocks | Why not chased |
+|---|---|---|
+| **EUROCAE ED-14 / RTCA DO-160** | the test procedure for 15 of the 19 items in AMC E 80 Table 2 | paywalled industry standard |
+| **ISO 2685** | the AMC E 130 fire test — flame definition, temperature, duration | paywalled |
+| **FAA AC 33.70-2, AC 33.70-3** | damage tolerance methods named by AMC E 515 | free from the FAA; not yet fetched |
+| **SAE ARP4754A / ED-79A, ARP 926A, ARP 4761** | technique sources named by AMC E 510(5) | paywalled, and named as technique rather than obligation |
+| **MIL-STD-810, MIL-STD-704, MIL-E-5007, SRA-AMS 180/251, ISO 12103-1, AIA PC 338-1** | alternative test standards in the AMC E 80 and AMC E 670 tables | each has a named alternative already carried, or the values are reproduced in the embedded table |
+| **ICAO Annex 16 Volume II** | the far end of the CS-34 chain | out of scope by the decision above |
+
+Kinds 2 and 3 are unaffected by any of this. Kind 2 is a gap in Amendment 8
+itself that no document can fill. Kind 3 waits on the applicant.
+
+## Kind 1 — documents CS-E cites
 
 CS-E does not stand alone. It defers to Part 21 for the certification process, to
-CS-27 and CS-29 for what the rotorcraft must do, to CS-34 for emissions, to
-CS-Definitions for terms it uses without defining, to the AMC 20 series for
-electronic control systems, and to industry standards for how each environmental
-test is run. `source/` holds five PDFs and none of those is among them.
+CS-27 and CS-29 for what the rotorcraft must do, to CS-Definitions for terms it
+uses without defining, to the AMC 20 series for electronic control systems, to
+ICAO Annex 16 for environmental protection, and to industry standards for how
+each environmental test is run.
 
-### Blocking — an obligation cannot be understood or complied with
+Every entry below was re-checked against the seven documents in
+`source/external/`. **Held** means the reference was found in the extracted text
+of the document named.
 
-| Document | Where it bites | What is blocked |
+### Was blocking — an obligation could not be understood or complied with
+
+| Reference | Where it bites | Now |
 |---|---|---|
-| **CS-Definitions** | CS-E 15(a), twice | CS-E 15 defines about twenty terms and says the rest are in CS-Definitions. Every other capitalised term in the vault — Failure, Fault, Control Mode, Fireproof, Engine — is defined there, not here. |
-| **CS-Definitions Amendment 2** | CS-E 780(a)(2) | The 'Icing Atmospheric Conditions' the icing test must cover. Without it the test envelope cannot be stated. |
-| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | ~~Essentially the whole content of two paragraphs~~ — **corrected**: CS-34 is a five-page redirect to point 21.A.21 of Part 21 and holds no requirement of its own. Held now, repealed 27 May 2025. What the chain ends at, ICAO Annex 16 Volume II, is the real gap. |
-| **CS-27 / CS-29** | The assumed aircraft code, via CS-E 20(b) and CS-E 30 | Which code applies is undecided, and CS-E cites both. It propagates into installation assumptions throughout. |
-| **CS-27.45(f) / CS-29.45(f)** | AMC E 20(f)(1) | The power availability specification the engine data must satisfy. |
-| **CS 27.1093(b) / CS 29.1093(b)** | CS-E 780(a)(2) | The ice protection specifications that fix which additional icing conditions apply. |
-| **AMC 20-1, AMC 20-3** | AMC E 50(2) and (5), AMC E 80 Table 2 item 18, AMC E 170, CS-E 50 banner | The detailed interpretation of CS-E 50 for an EECS. Table 2 item 18 names **no alternative at all** — EMI, HIRF and lightning have no other accepted means in CS-E. |
-| **AMC 20-42** | AMC to CS-E 50(l) | The entire security risk assessment method for CS-E 50(l). |
-| **AMC1 21.A.3B(b)** | AMC E 510(3)(d)(iii) | The definition of "unsafe condition", which is the trigger for the whole uncontained-debris assessment. |
-| **Part 21 points 21.A.801(a), (b), 21.A.805** | CS-E 120(a) | What the marking must contain and where it goes. |
-| **point 21.A.3 of Part 21** | AMC E 515 | Occurrence reporting, feeding the Service Management Plan. |
-| **EUROCAE ED-14 / RTCA DO-160** | AMC E 80, 15 of 19 items in Table 2 | The test procedure for almost every environmental qualification. |
-| **ISO 2685** | AMC E 130 | The fire test standard — flame definition, temperature, duration. |
-| **FAA AC 33.70-2** | AMC E 515 | Damage tolerance of hole features in high-energy turbine engine rotors. |
+| **CS-Definitions** | CS-E 15(a), twice | **Held** — CS-Definitions Amendment 2. Fire-resistant and Fireproof also appear in CS-27, CS-29 and Part 21 |
+| **'Icing Atmospheric Conditions'** | CS-E 780(a)(2) | **Held** — CS-Definitions Amendment 2 |
+| **CS-27 / CS-29**, the assumed aircraft code | CS-E 20(b), CS-E 30 | **Held**, both. Which code applies is now an applicant declaration, not a missing document — see Kind 3 |
+| **CS-27.45(f) / CS-29.45(f)** | AMC E 20(f)(1) | **Held** — CS-27 and CS-29 |
+| **CS 27.1093(b) / CS 29.1093(b)** | CS-E 780(a)(2) | **Held** — CS-27 and CS-29 |
+| **AMC 20-1, AMC 20-3** | AMC E 50(2) and (5), AMC E 80 Table 2 item 18, AMC E 170, CS-E 50 banner | **Held** — AMC-20 Amendment 23. Table 2 item 18 named no alternative at all, so this was the hardest of them |
+| **AMC 20-42** | AMC to CS-E 50(l) | **Held** — AMC-20 Amendment 23. The whole CS-E 50(l) security method |
+| **AMC1 21.A.3B(b)** | AMC E 510(3)(d)(iii) | **Held** — Part 21 EAR carries `GM1 21.A.3B(b)` with a "DETERMINATION OF AN UNSAFE CONDITION" section |
+| **21.A.801(a), (b), 21.A.805** | CS-E 120(a) | **Held** — Part 21 EAR, with `GM1 21.A.805` on marking critical parts |
+| **point 21.A.3 of Part 21** | AMC E 515 | **Held** — Part 21 EAR, as 21.A.3A and 21.A.3B |
+| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | **Held, and it never carried requirements.** EASA: "These CSs contained neither certification specifications nor the applicable environmental protection requirements." Repealed 27 May 2025. The chain continues into Part 21, which is held; it ends at ICAO Annex 16, which is out of scope by decision |
+| **EUROCAE ED-14 / RTCA DO-160** | AMC E 80, 15 of 19 items in Table 2 | **Still open.** Cited by AMC-20, CS-27, CS-29 and Part 21; contained by none |
+| **ISO 2685** | AMC E 130 | **Still open.** Cited by AMC-20; not contained |
+| **FAA AC 33.70-2** | AMC E 515 | **Still open** |
 
-### Limiting — the obligation is clear, a detail is not
+### Was limiting — the obligation is clear, a detail was not
 
-Part 21 as a whole and point 21.A.41 (TCDS content); point 21.A.33 (inspection of
-type design hardware); AMC 20-115 (named in the CS-E 50 banner and never used
-again, so the vault cannot even say what it governs); CS-27/29.1305
-(instrumentation, via AMC E 60(d)(3)); AMC 25.903(e)(2) (relight demonstration
-objectives); FAA AC 33.70-3; MIL-STD-810, MIL-STD-704, MIL-E-5007 (AMC E 80
-tables); the USDA cotton-staple grading standards SRA-AMS 180 and 251
-(AMC E 670's contaminant table); "published FAA ACs" as an open class in
-AMC E 515; and the unnamed "aircraft certification specifications on oil systems".
+| Reference | Now |
+|---|---|
+| **point 21.A.41** (TCDS content), **21.A.33** (inspection of type design hardware), **21.A.61**, **21.A.20(d)** | **Held** — Part 21 EAR |
+| **AMC 20-115** | **Held** — AMC-20 Amendment 23. The vault could not previously say what it governs |
+| **CS-27.1305 / CS-29.1305** (instrumentation, via AMC E 60(d)(3)) | **Held** — CS-27 and CS-29 |
+| **AMC 25.903(e)(2)** (relight demonstration objectives) | **Held** — cited in AMC-20; the CS-25 AMC itself is not held, but AMC E 910(1) offers it for objectives only |
+| **FAA AC 33.70-3; MIL-STD-810, MIL-STD-704, MIL-E-5007; SRA-AMS 180 and 251; "published FAA ACs" as an open class; the unnamed "aircraft certification specifications on oil systems"** | **Still open.** See *Still open* in the Status section for why none is chased |
 
 ### Cosmetic — a pointer only
 
-AMC 25.1309; AMC 20-6B (the early ETOPS route, already excluded by scope);
-ISO 12103-1 A4 (quantity and size distribution are given in full in the table);
-ICAO Annex 5; FAR 33.87 (the alternative endurance schedule, already cut);
-the AIA Propulsion Committee Study PC 338-1 behind Appendix A's tables; SAE
-ARP4754A / ED-79A, SAE ARP 926A, SAE ARP 4761 and two reliability textbooks,
-all named by AMC E 510 as sources of technique rather than obligation; point
-21.B.75, 21.A.16 and 21.A.21(c)(3), which appear only as superseded citations in
-Amendment history.
+Unchanged, and now mostly moot. `AMC 25.1309` and `ARP4754A / ED-79A` are cited
+in AMC-20; `ICAO Annex 5` appears in AMC-20 and Part 21; `point 21.B.75`,
+`21.A.16` and `21.A.21(c)(3)` are in the Part 21 EAR. `ISO 12103-1 A4`,
+`FAR 33.87`, `SAE ARP 926A` and the `AIA Propulsion Committee Study PC 338-1`
+remain unheld and remain cosmetic — each is either reproduced in an embedded
+table, already cut by scope, or named as a source of technique rather than
+obligation.
 
 ## Kind 2 — terms CS-E uses and defines nowhere
 
@@ -182,6 +199,21 @@ The per-scope tables follow, as each verification pass wrote them.
 
 
 ---
+
+---
+
+# Per-scope appendices
+
+The seven sections below are the per-scope detail behind the summary above, one
+per verification pass. **They were written before any external document was
+held**, and their "External documents" tables therefore describe a position that
+the Status section supersedes: almost everything they list as missing is now in
+`source/external/`.
+
+They are kept unedited because they carry what the summary does not — which note,
+which line, and which sentence each reference sits in. That mapping is what makes
+the answers findable once the Source of truth rule is amended and the imported
+obligations start reaching the notes. Read them for *where*, not for *whether*.
 
 # Scope A1
 

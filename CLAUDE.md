@@ -16,6 +16,12 @@ Define every regulatory term on first use. Keep technical terms (surge, TGT, LCF
   APPLIES / EXCLUDED (give reason). A paragraph classified EXCLUDED gets no note.
 - Aeroplane-only AMCs, thrust reverser, propeller, ETOPS, and the turbofan alternate
   endurance test CS-E 740(c)(4) are EXCLUDED unless the text says otherwise.
+- **A reference chain leaving CS-E is recorded, not followed to its end.**
+  CS-E 1010 and CS-E 1020 route through CS 34.1 / CS 34.2 to point 21.A.21, then
+  21.A.20, then 21.B.85, and end at the SARPs in ICAO Annex 16. The vault states
+  that chain and stops. ICAO Annex 16 is not an EASA document and this is a CS-E
+  vault; the applicant follows the last link. Recording where a chain ends is an
+  answer, not a gap.
 
 ### Pruning inside a note (the point of this vault)
 Cutting whole paragraphs is not enough. Most paragraphs that apply still contain

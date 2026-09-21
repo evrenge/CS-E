@@ -125,12 +125,16 @@ three kinds: documents EASA cites and this repository does not hold, terms CS-E
 uses and defines nowhere, and engine information the applicant has not yet
 declared.
 
-Two figures, and they count different things. `scripts/external_refs.py` derives
-**45 distinct external references across 8 families** — Part 21, the AMC 20
-series, CS-Definitions, CS-23/25/27/29, CS-34, FAA material and industry
-standards. That one regenerates. The count of dead ends in `dead_ends.md` is the
-reviewer's own deduplication across all three kinds, which is a judgement, not a
-derivation; take the document's structure as the authority rather than any single
-number.
+`scripts/external_refs.py` derives **45 distinct external references across 8
+families** — Part 21, the AMC 20 series, CS-Definitions, CS-23/25/27/29, CS-34,
+FAA material and industry standards.
+
+Most of those are no longer dead. `source/external/` holds seven documents —
+CS-27, CS-29, CS-Definitions, AMC-20, the Easy Access Rules edition of Part 21,
+CS-34 as repealed, and the repeal's explanatory note — and between them they
+answer every external reference except the paywalled industry standards. Holding
+a document is not the same as having used it: no note carries an imported
+obligation yet, because that needs the **Source of truth** rule in `CLAUDE.md`
+amended first.
 
 Neither list is a defect. Both are the boundary of what these notes can answer.
