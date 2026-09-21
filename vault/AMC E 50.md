@@ -162,7 +162,7 @@ limits or monitors engine operation and is necessary for continued airworthiness
 it is part of the Engine Control System. It falls under CS-E 50 — not under
 [[CS-E 40]] as a rating.
 
-Both are now held. The detailed interpretation this AMC defers to is in
+AMC 20-1 and AMC 20-3 are now held. The detailed interpretation this AMC defers to is in
 [[AMC 20-3B]], which that note records in full: the rotorcraft loss of power
 control definition, the rate of one event per 100 000 engine flight hours, the
 HIRF and lightning pass criteria, and the over-speed protection targets.

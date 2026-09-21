@@ -30,8 +30,8 @@ cells carry no sub-point identifier.
 The test the relief must pass is unusual and worth stating precisely. The
 applicant does not have to show that omitting bleed is harmless; the applicant
 has to show that the engine's ability to pass the strip examination "is not
-enhanced" [AMC E 690]. Running without bleed must not make the engine's job
-easier. That is a one-sided criterion, and it is why both named effects matter.
+enhanced" [AMC E 690]. Running without bleed must not make the strip examination
+easier to pass. That is a one-sided criterion, and it is why both named effects matter.
 Removing bleed extraction returns cooling air to the secondary air system. It
 also changes the relationship between gas generator speed and output shaft
 speed.

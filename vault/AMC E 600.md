@@ -4,7 +4,7 @@ type: AMC
 subpart: E
 pages: 115-115
 changed_in: []
-tags: [tests, attitude, rotorcraft, installation]
+tags: [test, attitude, rotorcraft, installation]
 covers: ["AMC E 600(e)"]
 ---
 # AMC E 600 — Test - General

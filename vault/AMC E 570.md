@@ -14,7 +14,7 @@ tags: [oil-system, filter, strainer, expansion-space, chip-detector, hazardous-q
 > Each oil tank should have an expansion space, with 10 percent of tank capacity
 > shown by experience to be adequate, and it should be impossible to fill that
 > space inadvertently. Filling and drainage provisions need positive locking.
-> Access points include magnetic chip detectors. Hazardous quantities is defined
+> Access points include magnetic chip detectors. The term "hazardous quantities" is defined
 > in AMC E 130.
 
 ## Requirement

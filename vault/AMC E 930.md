@@ -83,8 +83,9 @@ stiffness [AMC E 930(c)].
 | **(d)(1)(iii)** | The accelerated severity cycle test is generally not considered ideal for engine parts whose durability is primarily affected by hours of operation rather than by cycles. For those cases, the IMP substantiation may require other test or in-service experience data, including, if available, comparison of relevant past IMP demonstrations with subsequent successful entry-into-service engine experience. | Statement |
 | **(d)(1)(iii)** | The accelerated severity cycle test should include engine start and shutdown. | Accepted method |
 
-The two cycle types answer different questions. A full cycle test buys hours and
-cycles at face value. An accelerated severity cycle test buys cycles cheaply but
+The two cycle types answer different questions. A full cycle test earns credit for hours
+and for cycles at face value. An accelerated severity cycle test earns cycle
+credit quickly, but it
 leaves the time-dependent damage mechanisms — creep, oxidation, wear at load —
 undersubstantiated, and the AMC says so directly.
 
@@ -221,7 +222,7 @@ assumption about how often a multi-engine rotorcraft operator will actually reac
 drives the usage recording provisions of [[CS-E 60|CS-E 60(d)]] and the
 post-flight inspection regime of [[CS-E 25|CS-E 25(b)(2)]].
 
-**The CS-E 25(b)(2) credit is worth designing the test around.**
+**The test should be designed to secure the CS-E 25(b)(2) credit.**
 [AMC E 930(d)(5)(iii)] permits the IMP test results to be used in showing
 compliance with [[CS-E 25|CS-E 25(b)(2)]]. This applies to OEI power
 availability at the end of the fixed engine overhaul period.

@@ -94,8 +94,8 @@ and justify it.
 | **(8)(b)** | Demonstrate compliance with CS-E 510, with the agreed LOTC/LOPC rate, and with the expected total frequency of occurrence of Failures that leave the engine non-compliant with the operability specifications without being LOPC events. | Accepted method |
 | **(8)(b)(iv)** | Identify the consequence of the transmission of a faulty parameter and include it in the LOTC/LOPC analysis as appropriate, with any mitigating information placed in the engine operating instructions. | Accepted method |
 | **(8)(c)** | Uncovered Faults giving a power change of less than 3% in the take-off envelope are generally acceptable, without detracting from the obligation to ensure the full-up system provides the declared minimum rated power. | Statement |
-| **(8)(c)** | Contain in the assessment documentation the frequency of occurrence of Uncovered Faults giving a power change greater than 3% but less than an LOTC/LOPC event. There is no firm specification for this class, but the rate should be of the order of 10⁻⁴ events per engine flight hour or less. | Accepted method |
-| **(8)(c)** | Detected Faults giving a power change of up to 10% in the take-off envelope may be acceptable where the total frequency of occurrence is low; a total frequency above 10⁻⁴ events per engine flight hour would not normally be acceptable. | Statement |
+| **(8)(c)** | Record in the assessment documentation the frequency of occurrence of Uncovered Faults giving a power change greater than 3% but less than an LOTC/LOPC event. There is no firm specification for this class, but the rate should be of the order of 10⁻⁴ events per Engine flight hour or less. | Accepted method |
+| **(8)(c)** | Detected Faults giving a power change of up to 10% in the take-off envelope may be acceptable where the total frequency of occurrence is low; a total frequency above 10⁻⁴ events per Engine flight hour would not normally be acceptable. | Statement |
 | **(8)(c)** | Limit the authority of cross-engine signals at the receiving control system so that undetected Faults do not cause an unacceptable power change, generally no more than 3% absolute difference of the current operating condition, and accommodate detected Faults in those signals to the same limit. | Accepted method |
 
 ### Protective functions, section (9)
@@ -103,8 +103,8 @@ and justify it.
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(9)(a)** | Rotor over-speed protection is usually achieved by an independent protection system, so that two independent Faults are needed to produce an uncontrolled over-speed. | Statement |
-| **(9)(a)** | Where the protection is provided solely by a control system function, show in the safety assessment that the probability per engine flight hour of an uncontrolled over-speed from any cause combined with a Failure of the protection system is less than 10⁻⁸ events per engine flight hour. | Accepted method |
-| **(9)(a)** | The protection system itself would be expected to have a Failure rate of less than 10⁻⁴ Failures per engine flight hour. | Statement |
+| **(9)(a)** | Where the protection is provided solely by a control system function, show in the safety assessment that the probability per Engine flight hour of an uncontrolled over-speed from any cause combined with a Failure of the protection system is less than 10⁻⁸ events per Engine flight hour. | Accepted method |
+| **(9)(a)** | The protection system itself would be expected to have a Failure rate of less than 10⁻⁴ Failures per Engine flight hour. | Statement |
 | **(9)(a)** | A self-test before each flight is normally necessary; verifying functionality at engine shutdown or start-up is adequate. Where an engine is routinely not shut down between flight cycles, account for that in the analyses. | Accepted method |
 | **(9)(a)** | Where multiple protection paths exist, testing a different path each engine cycle is acceptable so long as the system meets the 10⁻⁴ rate, the objective being a complete test in the minimum number of cycles. | Permitted |
 | **(9)(a)** | Data showing that the mechanical parts of the protection system operate without Failure between stated periods is acceptable in lieu of testing them each cycle, with a periodic inspection established instead. | Permitted |
@@ -148,11 +148,23 @@ and justify it.
 | **(15)(c)(ii)** | Identify system responsibilities and interface definitions between engine and aircraft in the appropriate documents, covering functional requirements and criticality, Fault Accommodation strategies, maintenance strategies, criticality levels, the reliability objectives for LOTC/LOPC events and faulty parameter transmission, the environmental requirements, interface data and characteristics, and aircraft power supply requirements. | Accepted method |
 | **(15)(c)(iii)** | Identify and agree the distribution of compliance tasks between the engine and aircraft applicants with the respective authorities. Evidence provided for engine certification should be used for aircraft certification. | Accepted method |
 
-This note records the sections that bear on a turboshaft engine. Section (14),
-Piston Engines, states only that the sections above address them. The propeller,
-thrust reverser and automatic take-off thrust control examples in sections (9),
-(12) and (15) are named above where they set the pattern, and are not expanded,
-because none of them arises on this engine.
+This note records the sections that bear on a turboshaft engine. Four are not
+expanded, and each for a stated reason. Section (1) states the purpose, which
+the summary above carries. Section (4) defines the mode vocabulary — Primary
+Mode, Alternate Mode, Back-up Mode — in a figure, and accuracy rule 6 keeps the
+vault from restating a figure in words; the terms themselves are CS-E's and are
+defined in [[CS-E 15]]. Section (11) is reserved. Section (14), Piston Engines,
+states only that the sections above address them. The propeller, thrust reverser
+and automatic take-off thrust control examples in sections (9), (12) and (15)
+are named above where they set the pattern, and are not expanded, because none
+of them arises on this engine.
+
+One reading is recorded rather than assumed. Sub-point (7)(b)(ii) writes that
+the inability to meet the operability specifications in the Alternate Modes
+"may not be included as LOPC events". The vault reads that as a relief, not a
+prohibition, because the sentence sits among the rotorcraft reliefs and the
+bullet below it writes the same allowance as "may not need to include". The row
+above is labelled Relief on that reading.
 
 ## Bearing on this engine
 
@@ -202,8 +214,8 @@ therefore not bounded by the 3% figure on this engine.
 
 **Over-speed protection has two targets.** An uncontrolled over-speed from any
 cause combined with a Failure of the protection system is to be shown less
-probable than 10⁻⁸ events per engine flight hour, and the protection system
-itself is expected to fail less often than 10⁻⁴ per engine flight hour
+probable than 10⁻⁸ events per Engine flight hour, and the protection system
+itself is expected to fail less often than 10⁻⁴ per Engine flight hour
 [ext AMC 20-3B(9)(a)]. A self-test before each flight is normally necessary, and
 shutdown or start-up testing is accepted. This is the substance behind
 [[CS-E 50|CS-E 50(e)]], which this engine meets by the electronic route because

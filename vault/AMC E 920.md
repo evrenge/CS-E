@@ -81,10 +81,10 @@ conservative, and it is the one the AMC points to.
 to remain achievable after an over-limit event. [AMC E 920(2)] makes the
 equivalent demand in different words: the cause of any Failure must not be such
 that the OEI rating structure would fail to be achieved in service. The
-over-temperature test of CS-E 920 differs in how its condition is fixed: the
-margins are set by the specification — at least 42 °C in [CS-E 920(a)] and at
-least 19 °C in [CS-E 920(b)] — while [[CS-E 820]], [[CS-E 830]] and [[CS-E 870]]
-are run at the over-limit values the applicant declares.
+over-temperature test of CS-E 920 differs in how its condition is fixed. The
+specification sets the margins: at least 42 °C in [CS-E 920(a)] and at least
+19 °C in [CS-E 920(b)]. [[CS-E 820]], [[CS-E 830]] and [[CS-E 870]] are run
+instead at the over-limit values the applicant declares.
 
 ## References
 

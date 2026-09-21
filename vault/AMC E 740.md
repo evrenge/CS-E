@@ -36,7 +36,7 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 | **(c)(2)(i)(c)** | These assumptions will be recorded in the instructions for installing and operating the engine, in accordance with CS-E 30(a). | Statement |
 | **(c)(2)(i)(d)** | No specific maintenance action is normally expected following use of the 30-Minute Power rating. This will be justified through compliance with CS-E 740(i)(1). | Statement |
 
-Point (c) is the one to plan around. Up to half the 25 hours may be run at
+Point (c) has the largest effect on the test programme. Up to half the 25 hours may be run at
 mechanical limitations rather than thermal limits. This is allowed only where
 the engine's intended usage genuinely puts it there, and only with a
 substantiated proposal that then becomes an installation assumption under
@@ -104,7 +104,7 @@ test instead.
 
 The "not enhance" criterion in (i)(2)(1) is the same one-sided test that
 [[AMC E 690]] applies to omitting bleed: the preparation must not make the
-engine's job easier. Cleaning and consumable replacement are permitted only on
+additional endurance test easier to pass. Cleaning and consumable replacement are permitted only on
 that basis.
 
 Point (3) is the link that turns the endurance test into maintenance policy. The

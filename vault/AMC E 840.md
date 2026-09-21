@@ -116,8 +116,8 @@ The AMC applies in full, less the fan references recorded below.
 turboshaft the load is the rotorcraft transmission, and a complete loss of it
 leaves the power turbine with gas energy and no absorber. The four factors the
 AMC names — system inertia, available gas energy, whether the rotor is held in
-plane, and over-speed protection devices — are exactly what determines how fast
-the free turbine runs away. Sub-point (2)(f) adds the character of the event:
+plane, and over-speed protection devices — determine how fast the free power
+turbine over-speeds. Sub-point (2)(f) adds the character of the event:
 high rates of acceleration and deceleration with no dwell at the peak. This is
 why [[CS-E 840|CS-E 840(a)]] allows the transient duration rather than five
 minutes in that case.

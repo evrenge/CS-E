@@ -71,7 +71,7 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(iii)** | The integrity specifications of CS-E 515 provide some reliability benefits when applied to a blade, particularly when it forms a part of a blisk, also named integrally bladed rotor. | Statement |
 | **(3)(d)(iii)** | However, those specifications do not provide a valid basis to demonstrate an Extremely Remote blade Failure probability. Blade reliability is affected by many factors; CS-E 515 addresses some, such as low- and high-cycle fatigue, manufacturing quality and service management, and not others, such as foreign object damage. | Statement |
 | **(3)(d)(iii)** | Use engineering judgement based on available test and service experience of comparable designs as the basis for a conservative estimate of blade reliability. | Accepted method |
-| **(3)(d)(iii)** | Determine the likelihood of a blade failure resulting in an unsafe condition primarily from debris energy and trajectories observed in testing and in service, with an assessment of the trajectories that could impact the aircraft. | Accepted method |
+| **(3)(d)(iii)** | Determine the likelihood of a blade Failure resulting in an unsafe condition primarily from debris energy and trajectories observed in testing and in service, with an assessment of the trajectories that could impact the aircraft. | Accepted method |
 | **(3)(d)(iii)** | Where possible, assess the threat to aircraft safety in coordination with the aircraft manufacturer. In any case, include assumptions regarding the ability of the aircraft to withstand debris impact in the Manuals required by CS-E 20(d). | Accepted method |
 | **(3)(d)(iii)** | Consider that other components may be released following Failure; service experience has shown that rupture of the high-pressure casings can generate high-energy debris. Assess the probability that an unsafe condition results from such a Failure. | Accepted method |
 | **(3)(d)(iii)** | An Extremely Remote probability must be demonstrated for compliance with CS-E 510(a)(3). | Required |
@@ -99,7 +99,7 @@ their Extremely Remote objective is met only through [[CS-E 515]], supplemented
 by [[CS-E 840]] and [[CS-E 850]]. **Blades** must be radially contained under
 [[CS-E 520|CS-E 520(c)(1)]]. Forward or rearward release still needs a
 probability assessment. CS-E 515 explicitly does not support an Extremely
-Remote blade failure claim, because it does not address foreign object damage.
+Remote blade Failure claim, because it does not address foreign object damage.
 **Other components**, such as high-pressure casings, need their own assessment.
 
 ### AMC E 510(3)(e) to (f) — Major and Minor Engine Effects
@@ -116,7 +116,7 @@ Remote blade failure claim, because it does not address foreign object damage.
 | **(3)(f)** | It is generally recognised that engine Failures involving complete loss of power from the affected engine can be expected to occur in service, and that the aircraft should be capable of controlled flight following such an event. | Statement |
 | **(3)(f)** | Engine Failure with no external effect other than loss of power and services may be regarded as a Failure with a minor effect, for the purpose of the engine safety analysis and engine certification. | Permitted |
 | **(3)(f)** | That assumption may be revisited during aircraft certification, where installation effects such as engine redundancy may be fully taken into consideration. | Permitted |
-| **(3)(f)** | The Failure to achieve any given power rating for which the engine is certificated should be covered in the safety analysis, and may be regarded as a minor engine effect. | Accepted method |
+| **(3)(f)** | The Failure to achieve any given power rating for which the engine is certificated should be covered in the safety analysis, and may be regarded as a Minor Engine Effect. | Accepted method |
 | **(3)(f)** | Similarly, that assumption may be revisited during aircraft certification, particularly multi-engine rotorcraft certification. | Permitted |
 | **(3)(f)** | The re-examination applies only to aircraft certification and is not intended to impact engine certification. | Statement |
 
@@ -174,7 +174,7 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 - Statement of assumed aircraft devices and procedures for the typical installation, with assumed Failure rates for aircraft components where the applicant cannot determine them [AMC E 510(3)(c)].
 - List in the instructions for installation of aircraft-component Failures contributing to Hazardous or Major Engine Effects, their propagation mode and assumed rates [AMC E 510(3)(c)], against [[CS-E 30]] and [[CS-E 20|CS-E 20(d)]].
 - Engine Control System safety analysis integrated into the overall engine analysis [AMC E 510(3)(b)], against [[CS-E 50|CS-E 50(d)]].
-- Summation of Failure modes per Hazardous Engine Effect against 10⁻⁷ per engine flight hour, with dormant periods included, excluding Engine Critical Parts, and omitting summation where each individual Failure is below 10⁻⁸ [AMC E 510(3)(d)(i)].
+- Summation of Failure modes per Hazardous Engine Effect against 10⁻⁷ per Engine flight hour, with dormant periods included, excluding Engine Critical Parts, and omitting summation where each individual Failure is below 10⁻⁸ [AMC E 510(3)(d)(i)].
 - Containment demonstration for major rotating parts, or the assumption of non-containment with the [[CS-E 515]], [[CS-E 840]] and [[CS-E 850]] route [AMC E 510(3)(d)(iii)].
 - Radial containment demonstration for compressor and turbine blade shedding, singly and in likely combinations [AMC E 510(3)(d)(iii)], against [[CS-E 520|CS-E 520(c)(1)]] and [[CS-E 810]].
 - Blade reliability estimate from test and service experience of comparable designs, with debris energy and trajectory assessment and, where possible, coordination with the aircraft manufacturer [AMC E 510(3)(d)(iii)].
@@ -183,7 +183,7 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 - Toxic product delivery rates and concentrations in the engine bleed air, provided to the installer, with no cabin dilution or mixing assumed [AMC E 510(3)(d)(iv)], [AMC E 510(3)(e)].
 - Uncontrolled fire assessment against the nacelle fire zone and the assumed aircraft extinguishing means [AMC E 510(3)(d)(vi)], against [[CS-E 130]].
 - Engine shutdown assessment, which may take account of aircraft-supplied fuel cut-off means [AMC E 510(3)(d)(vii)].
-- Major Engine Effect probabilities against 10⁻⁵ per engine flight hour, without summation [AMC E 510(3)(e)].
+- Major Engine Effect probabilities against 10⁻⁵ per Engine flight hour, without summation [AMC E 510(3)(e)].
 - Maintenance reliance statements, with special or unique checks stated explicitly, and the maintenance manuals as substantiation for the maintenance error element [AMC E 510(3)(h)], feeding the airworthiness limitations of [[CS-E 25]].
 - Design precautions minimising and mitigating maintenance error, and design for correct re-assembly of frequently maintained components [AMC E 510(3)(h)].
 
@@ -192,13 +192,14 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 The AMC applies throughout, less the passages recorded below.
 
 **Rotorcraft is named explicitly, and so is engine redundancy.**
-AMC E 510(3)(f) carries two minor-effect assumptions and gives each
-its own qualifier, which are not interchangeable. The assumption that an engine
+AMC E 510(3)(f) carries two minor-effect assumptions and gives each one its
+own qualifier. The two qualifiers are not interchangeable. The assumption that an engine
 Failure with no external effect beyond loss of power is a Minor Engine Effect
 "may be revisited during aircraft certification, where installation effects such
 as Engine redundancy may be fully taken into consideration". The separate
-assumption, that failing to achieve a certificated rating is a minor engine
-effect, may be revisited "particularly multi-Engine rotorcraft certification".
+assumption, that failing to achieve a certificated rating is a Minor Engine
+Effect, may be revisited during aircraft certification, "particularly
+multi-Engine rotorcraft certification".
 
 Both bear on this engine, and the first bears harder: a multi-engine rotorcraft
 is precisely an installation whose redundancy the aircraft applicant will take
@@ -256,6 +257,16 @@ the events resulting from it are shown not to meet the definition. And "An
 unsafe condition may exist even though applicable airworthiness requirements are
 complied with" [ext AMC1 21.A.3B(b)].
 
+The guidance material beside that definition says how the two levels combine for
+an engine. Engine Failure consequences and probabilities "have to be assessed at
+the aircraft level in accordance with paragraph 2.1, and also at the engine
+level for those failures considered as Hazardous in CS E-510". Such a Failure
+"will be assumed to constitute unsafe conditions, unless it can be shown that
+the consequences at the aircraft level do not constitute an unsafe condition for
+a particular aircraft installation" [ext GM1 21.A.3B(b)]. A Hazardous Engine
+Effect is therefore presumed to be an unsafe condition, and the applicant
+displaces that presumption at aircraft level or not at all.
+
 So the debris question in (3)(d)(iii) is answered at aircraft level, not engine
 level: the test is what the released debris does to the aircraft and its
 occupants, which is why the same sub-point asks for coordination with the
@@ -291,7 +302,7 @@ one.
 
 Three things changed in obligation, not only in wording. The old text said the
 containment structure "is not expected to contain" major rotating parts; the new
-text says containment "are not required to contain" them, and adds the escape
+text says the containment structures "are not required to contain" them, and adds the escape
 "Unless containment has been demonstrated". So demonstrated containment is now an
 available route where previously the assumption was absolute. Second, the old
 text classified such parts as "potential high-energy debris"; the new text names
@@ -303,7 +314,7 @@ CS-E 850".
 
 Amendment 7 also added the whole **Blades** passage — radial containment, the
 forward and rearward release case, the statement that [[CS-E 515]] does not
-support an Extremely Remote blade failure claim, and the debris energy and
+support an Extremely Remote blade Failure claim, and the debris energy and
 trajectory method — and the general principle sentence referring to
 AMC1 21.A.3B(b). The casing material was rewritten into the **Other Sources of
 Uncontained High-Energy Debris** heading, with the requirement that an Extremely

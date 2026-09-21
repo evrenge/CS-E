@@ -64,8 +64,8 @@ the only place CS-E dates the document it defers to. The terminology rule of
 (a) is therefore satisfied against Amendment 2.
 
 Three defined terms are used elsewhere in this vault and are recorded where they
-bite rather than here: Fireproof and Fire-resistant in [[CS-E 130]], and
-'Icing Atmospheric Conditions' in [[CS-E 780]].
+bite rather than here: Fireproof and Fire Resistant in [[CS-E 130]], and
+Icing Atmospheric Conditions in [[CS-E 780]].
 
 [VERIFY: confirm with the Agency that Amendment 2 is still the current issue of
 CS-Definitions at the date of the application. The sandbox this vault is built

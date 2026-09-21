@@ -13,8 +13,8 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 > heaviest AMC in Subpart A. Most of it governs the 30-Second and 2-Minute OEI
 > ratings: what the mandatory post-flight actions must achieve, how they are
 > validated, and the in-service engine evaluation programme that must be approved
-> by EASA before certification. Its Amendment 8 addition is piston TBO/TBR
-> material and does not apply here.
+> by EASA before certification. Its Amendment 8 addition covers piston time
+> between overhauls and time between replacements, and does not apply here.
 
 ## Requirement
 
@@ -61,7 +61,7 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 | **(4)(d)(iii)** | The information or actions needed from the operator may be prescribed in the airworthiness limitations section of the ICA. | Permitted |
 
 The programme's purpose at (4)(d)(i) is to obtain data on engine hardware
-condition and power availability at various stages of life. That data is then
+condition and power availability at various stages of life. Those data are then
 compared with the corresponding data observed during certification.
 
 Two comparisons are named: in-service engines that have never used the ratings
@@ -69,8 +69,8 @@ against the parameters existing **before** the 2-hour additional endurance test 
 CS-E 740(c)(3)(iii); and in-service engines after using the ratings against the
 parameters observed **following** that test.
 
-Programme elements listed at (4)(d)(ii), one or more of which the programme would
-consist of:
+Point (4)(d)(ii) lists the programme elements. The programme should consist of
+one or more of them:
 
 - Scheduled tests of in-service engines imposing three applications of 30 seconds OEI rated power, installed in the rotorcraft or in an engine test cell. For selected representative aged engines, with sample number and frequency, and inspection and test specifications recording available power and hardware condition before and after usage.
 - Unscheduled tests of engines of opportunity imposing three applications of 30 seconds OEI rated power, with selection criteria for representative aged engines.

@@ -29,13 +29,13 @@ tags: [bird-strike, ingestion, critical-impact-parameter, test-facility, load-de
 | **(1)(a)(ii)** | Rig tests may be used to determine whether a bird of a particular size will pass through the inlet, to comply with CS-E 800(b)(1)(ii)(A). | Permitted |
 | **(1)(a)(iii)** | The complete loss of power or thrust is acceptable after the ingestion of the single large bird. | Statement |
 
-Point (iii) is the acceptance boundary for the large bird test and it is easy to
-underestimate. The engine may stop producing power entirely; what
+Point (iii) sets the acceptance boundary for the large bird test, and that
+boundary is more permissive than it first appears. The engine may stop producing power entirely; what
 [[CS-E 800|CS-E 800(b)(2)]] forbids is a Hazardous Engine Effect as defined in
 [[CS-E 510|CS-E 510(g)]].
 
 Point (i) is a design-level analysis, not a test observation. The four items it
-names — rotating component damage, casing strength, multiple blade failure, and
+names — rotating component damage, casing strength, multiple blade Failure, and
 structure and shaft strength against unbalance and excess torque — connect to
 [[CS-E 520]] and to the blade containment work of [[CS-E 810]].
 

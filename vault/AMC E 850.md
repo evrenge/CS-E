@@ -70,7 +70,7 @@ design features, materials, clearances, etc." [AMC E 850(2)(c)]
 | **(3)** | It is accepted under CS-E 850(a)(3) that, for conventional designs, fail-safe design is not possible for all parts of a shaft system. | Statement |
 | **(3)** | The use of that provision should be strictly limited. | Accepted method |
 | **(3)** | Consider particularly two hazardous effects of shaft Failure: a release of the complete fan or compressor moving forward, and an over-speed of the turbine leading to disc burst. | Accepted method |
-| **(3)** | Consider industry experience with shaft Failures under CS-E 850(b)(2)(v). Nine Failure modes have all led to shaft Failures in service. | Accepted method |
+| **(3)** | Consider industry experience with shaft Failures under CS-E 850(b)(2)(v). Nine Failure modes have caused shaft Failures in service; they are listed below. | Accepted method |
 | **(3)** | Show that features such as splines, oil feed holes, couplings, bearing tracks that are integral with the shaft, and sealing fins are well understood and conducive to well-established and validated stressing techniques. | Accepted method |
 | **(3)** | Where the assessment under CS-E 850(b)(2)(iii) is that a shaft Failure due to the environment can be discounted, take into account the ability to inspect the critical section of the shaft at the defined intervals and the appropriateness of the inspection method. | Accepted method |
 
@@ -180,7 +180,7 @@ installation torque oscillation may exceed 5 % because of rotor dynamics, and
 [AMC E 850(4)(b)(ii)] then takes the higher value.
 
 [VERIFY: the maximum oscillatory torque envisaged in the rotorcraft installation,
-against the ±5% floor of AMC E 850(4)(b)(ii). The value depends on the main
+against the ± 5 % floor of AMC E 850(4)(b)(ii). The value depends on the main
 rotor and transmission dynamics of the target aircraft, which are not declared in
 engine_profile.md.]
 

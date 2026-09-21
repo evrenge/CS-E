@@ -27,7 +27,7 @@ covers: ["AMC E 520(a)", "AMC E 520(c)(1)", "AMC E 520(c)(2)", "AMC E 520(d)"]
 | **(a)** | In order to minimise the adverse consequences of Failures due to unpredicted high cycle fatigue, it is recommended that the relative fatigue strengths of the blade and disc are normally graded in ascending order: blade form, blade root, disc blade attachment, disc rim. | Accepted method |
 
 The ordering puts the weakest link furthest from the disc. An unpredicted high
-cycle fatigue failure then occurs in the blade form, not in the disc rim.
+cycle fatigue Failure would then occur in the blade form, not in the disc rim.
 [[CS-E 520|CS-E 520(c)(1)]] requires the blade form to be radially contained.
 Disc rim Failure is instead treated as uncontained high-energy debris under
 [[AMC E 510|AMC E 510(3)(d)(iii)]].
@@ -83,7 +83,7 @@ The mutual agreement in (c)(2)(7) makes the model a joint artefact. It is not
 delivered to the installer as a finished product; its definition is agreed
 between engine and aircraft manufacturer.
 
-### AMC E 520(d) — local failures
+### AMC E 520(d) — local Failures
 
 | Ref | Obligation | Strength |
 |---|---|---|

@@ -123,7 +123,7 @@ the power necessary to achieve the applicable rotorcraft performance"
 engine data of (f)(1) is what makes it possible. The open code question of
 [[CS-E 30]] does not change this obligation.
 
-The data has to reach a defined quantity. Point 45(c) sets the available power
+The data feeds a defined calculation. Point 45(c) sets the available power
 as the engine power, not exceeding the approved power, less installation losses
 and less the power absorbed by the accessories and services
 [ext CS 29.45(c)], [ext CS 27.45(c)]. The two codes differ in how they qualify

@@ -86,7 +86,7 @@ system.
 **The OEI ratings raise the test levels.** The source names "use of OEI ratings"
 among the most adverse operational conditions that define both the maximum
 working pressure and the maximum possible pressure [AMC E 640(1)]. Since this
-engine declares 30-Second OEI, 2-Minute OEI and Continuous OEI. The pressures
+engine declares 30-Second OEI, 2-Minute OEI and Continuous OEI, the pressures
 those ratings produce enter both definitions. They therefore also enter both the
 (a)(1) and the (a)(2) levels of [[CS-E 640]]. Omitting the OEI ratings from the
 pressure survey would understate both test levels.

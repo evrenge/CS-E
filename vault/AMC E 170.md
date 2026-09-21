@@ -5,7 +5,7 @@ subpart: A
 pages: 62-63
 changed_in: []
 imports: [AMC-20]
-tags: [tests, systems, eecs, hirf, lightning, bonding, installation-limitation, degraded-dispatch]
+tags: [test, systems, eecs, hirf, lightning, bonding, installation-limitation, degraded-dispatch]
 ---
 # AMC E 170 — Engine systems and component verification
 

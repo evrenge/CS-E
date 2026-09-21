@@ -239,10 +239,11 @@ margin justification, not only to their own paragraphs.
 
 **What the point 21.A.33 inspection is, and what (15) limits.** Part 21 is now
 held. Before each test undertaken during the demonstration of compliance, the
-applicant must verify that the test specimen's materials and processes, parts
-and manufacturing, construction and assembly conform to the proposed type
-design, and that the test and measuring equipment is adequate and appropriately
-calibrated [ext 21.A.33(b)]. The applicant then issues a statement of conformity
+applicant must verify two things. The first is that the test specimen's
+materials and processes, its parts and manufacturing, and its construction and
+assembly conform to the proposed type design. The second is that the test and
+measuring equipment is adequate and appropriately calibrated
+[ext 21.A.33(b)]. The applicant then issues a statement of conformity
 "listing any potential non-conformity, together with a justification that this
 will not affect the test results", and must allow the Agency to make any
 inspection it considers necessary to check that statement [ext 21.A.33(c)]. The

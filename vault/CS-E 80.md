@@ -4,7 +4,7 @@ type: CS
 subpart: A
 pages: 43-44
 changed_in: []
-tags: [equipment, drives, mountings, high-energy-rotor, interfaces]
+tags: [equipment, drive, mounting, high-energy-rotor, interfaces]
 ---
 # CS-E 80 — Equipment
 
@@ -12,8 +12,8 @@ tags: [equipment, drives, mountings, high-energy-rotor, interfaces]
 > Equipment mounted on the engine must not endanger it. Drives and mountings must
 > allow safe engine operation and must contain the consequences of equipment
 > failure, so that a failed accessory cannot cause a Hazardous Engine Effect.
-> The paragraph then splits equipment by who approves it: equipment that is part
-> of the engine type design is approved with the engine, while aircraft equipment
+> The paragraph then splits equipment by who approves it. Equipment that is part
+> of the engine type design is approved with the engine. Aircraft equipment
 > driven by the engine is accepted subject to interface compliance and its own
 > aircraft Type Certificate. Equipment with high-energy rotors must either
 > contain its debris or demonstrate design integrity.

@@ -101,7 +101,8 @@ Flammable Fluid Leakage areas may lack those provisions, so Environment I may be
 required for aircraft installation.
 
 Power input applies only to equipment powered directly by the aircraft, and the
-AMC names the EEC and the HMU fuel shutoff solenoid as examples
+AMC names the electronic engine control (EEC) and the hydromechanical unit
+(HMU) fuel shutoff solenoid as examples
 [AMC E 80(2)(b)].
 
 ### AMC E 80(2)(c) — mechanical equipment
@@ -126,7 +127,7 @@ The related [[AMC E 130]] and [[AMC E 640]] are therefore relevant
 
 | Ref | Obligation | Strength |
 |---|---|---|
-| **(2)(d)** | Overheat: verify by test or analysis that the electrical and electronic portions of the Engine Control System, when subjected to an overheat condition leading to Failure, will not cause a hazardous engine effect. | Accepted method |
+| **(2)(d)** | Overheat: verify by test or analysis that the electrical and electronic portions of the Engine Control System, when subjected to an overheat condition leading to Failure, will not cause a Hazardous Engine Effect. | Accepted method |
 | **(2)(d)** | Where an overheat test or analysis is not completed, declare this as an installation limitation in the engine instructions for installation, and address the possibility of an overheat at aircraft certification. | Accepted method |
 
 ### AMC E 80(3) — limiting excessive torque
@@ -157,9 +158,9 @@ result from Failures [AMC E 80(4)].
 | **(4)** | For equipment other than a turbine starter, use the Fault analysis of the whole system to determine the critical speeds that may result from Failures, and proceed on a similar basis. | Accepted method |
 
 Table 5 and Table 6 work as a pair: the category demonstrated determines which
-of specifications a to e apply. The stronger the containment demonstrated, the
+of the specifications a to e apply. The stronger the containment demonstrated, the
 fewer the additional specifications. Category 1, blade containment only, carries
-all five; category 4 carries specification a alone.
+all five; Category 4 carries specification a alone.
 
 The Table 6 specifications route into paragraphs with their own notes:
 [[CS-E 590]] for the drive mechanism probability, [[CS-E 515]], [[CS-E 70]] and

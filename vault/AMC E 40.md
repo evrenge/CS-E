@@ -76,8 +76,8 @@ variability in the amount of deterioration.
 
 ### Rated 30-Minute Power [(7)]
 
-It may be set at any level between Maximum Continuous up to and including the
-take-off rating. It may be used for multiple periods of up to 30 minutes each, at
+Rated 30-Minute Power may be set at any level from Maximum Continuous up to and
+including the take-off rating. It may be used for multiple periods of up to 30 minutes each, at
 any time between the take-off and landing phases in any flight.
 
 ### AMC E 40(d) — operating limitations to declare

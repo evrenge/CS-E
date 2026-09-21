@@ -10,7 +10,7 @@ tags: [blade-failure, containment, out-of-balance, debris, shutdown, extremely-r
 
 > [!summary]
 > One AMC serves CS-E 810, in three parts. The general part gives three routes to
-> compliance and requires the wider blade failure threat and the undetected
+> compliance and requires the wider blade Failure threat and the undetected
 > long-term effects to be assessed. The containment part sets where the blade is
 > released, at what speed and casing temperature, and what the engine must look
 > like afterwards. The running part requires a complete engine to run out of
@@ -38,9 +38,10 @@ method: engineering judgement is permitted where prediction is limited, which
 the AMC concedes it is for axially released debris.
 
 Point (1)(d) closes the gap the specification's "before Engine shutdown" wording
-leaves open. If nothing tells the crew to shut down, the damage keeps
-accumulating — so either the effect is bounded without crew action, or the means
-and the instructions must exist.
+leaves open. Where no indication prompts the crew to shut the engine
+down, the damage continues to accumulate. Either the effect must be bounded
+without crew action, or the applicant must provide the means to prompt that
+action and the instructions that support it.
 
 ### AMC E 810(2) — containment
 
@@ -68,13 +69,13 @@ casings, even when they stay inside the engine's external geometry
 [[AMC E 520|AMC E 520(c)(1)]] paragraph (2), the non-planar trajectory guidance.
 
 The three further notes under (2)(c)(ii) fix the limits of the Extremely Remote
-allowance. The engine-level assessment shows the likelihood is low enough for
-engine certification; additional mitigation may be applied at aircraft
-certification; and an effect acceptable here must still be acceptable under every
-other CS-E specification, with a blade failure causing a shaft failure given as
-the worked counter-example.
+allowance. The engine-level assessment shows that the likelihood is low
+enough for engine certification. Additional mitigation may be applied at
+aircraft certification. An effect accepted here must still be acceptable under
+every other CS-E specification, and the AMC gives a blade Failure causing a
+shaft Failure as the counter-example.
 
-### AMC E 810(3) — running following a blade failure
+### AMC E 810(3) — running following a blade Failure
 
 | Ref | Obligation | Strength |
 |---|---|---|
@@ -93,11 +94,11 @@ be correlated against.
 
 The rig alternative carries an explicit list of what it cannot reproduce: shaft
 power input, subsequent damage, out-of-balance forces elsewhere in the engine,
-and possible shaft failure.
+and possible shaft Failure.
 
 ## Compliance
 
-- Choice of compliance route: the (2) and (3) tests, comparable-engine or development blade failure evidence, or other evidence acceptable to the Agency [AMC E 810(1)(a)].
+- Choice of compliance route: the (2) and (3) tests, comparable-engine or development blade Failure evidence, or other evidence acceptable to the Agency [AMC E 810(1)(a)].
 - Selection of the most critical stage for containment and for out-of-balance running, with the justification, and any combination of the two tests [AMC E 810(1)(b)], [AMC E 810(2)(b)], [AMC E 810(3)(b)].
 - Assessment of other blade Failure conditions, including different angular positions, partial failures and sub-maximum release speeds [AMC E 810(1)(c)].
 - Long-term unbalance assessment for failures undetected by the declared instrumentation, with the flight crew shutdown means and manual instructions where relied on [AMC E 810(1)(d)], against [[CS-E 60]] and [[CS-E 20|CS-E 20(d)]].
@@ -111,7 +112,7 @@ and possible shaft failure.
 
 The AMC applies, less the composite fan blade release provisions recorded below.
 
-**Internal penetration is the case to watch on a reverse flow layout.** The note
+**Internal penetration is the governing case on a reverse flow layout.** The note
 under AMC E 810(2)(b) names reverse flow engines "where the
 combustion systems may be outside the rotors" as a configuration where blades
 may penetrate the rotor casings. This can cause hazardous internal damage
@@ -124,8 +125,8 @@ makes the internal penetration assessment necessary where it does.]
 
 **The out-of-balance run is a shaft and bearing test as much as a blade test.**
 AMC E 810(3)(a) lists possible shaft Failure among the effects a rig
-cannot reproduce. AMC E 810(2)(c)(ii) gives a blade failure leading to a
-shaft failure as the worked example of an effect that is unacceptable under
+cannot reproduce. AMC E 810(2)(c)(ii) gives a blade Failure leading to a
+shaft Failure as the worked example of an effect that is unacceptable under
 [[CS-E 850|CS-E 850(a)(1)]] and [[CS-E 840|CS-E 840(c)]] however improbable. For
 a free power-turbine engine the shaft system is the load path between two rotors,
 so this is not a remote concern.
@@ -135,7 +136,7 @@ so this is not a remote concern.
 Engine Over-speed, and the source spells the term differently in each: (3)(b)(i)
 writes "(other than the Maximum Engine Over-speed)" and (2)(b)(ii)(A) writes
 "(other than Maximum Engine Overspeed)". If an over-speed is declared under
-[[CS-E 830]], it is above the blade failure test speed.
+[[CS-E 830]], it is above the blade Failure test speed.
 [[CS-E 810|CS-E 810(b)(1)(i)]] requires any blade shedding relied on for
 over-speed protection to have a margin above it.
 
