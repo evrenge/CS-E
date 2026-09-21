@@ -4,6 +4,7 @@ type: AMC
 subpart: D
 pages: 91-106
 changed_in: [Amdt7]
+imports: [Part 21]
 tags: [critical-parts, approved-life, damage-tolerance, lcf, probabilistic, deterministic, oei, als]
 ---
 # AMC E 515 — Engine Critical Parts
@@ -262,9 +263,34 @@ Life-Limited Turbine Engine Rotors, are cited as examples of the probabilistic
 approach and as a source of allowable design target risk values. Neither is held
 in `source/`, so the allowable values cannot be stated here.]
 
-[VERIFY: point 21.A.3 of Part 21 governs the corrective action required when a
-revised risk assessment shows the CS-E 510(a)(3) objectives can no longer be met.
-Part 21 is not held in `source/`.]
+**What point 21.A.3 requires.** Part 21 is now held, and the point CS-E names
+is split in the current text: 21.A.3A is the reporting system and 21.A.3B is
+airworthiness directives. Both bear on the corrective action of
+AMC E 515(3)(d)(v)(4)(a).
+
+Point 21.A.3A(a)1 requires the type certificate holder to establish and maintain
+a system for collecting, investigating and analysing occurrence reports, covering
+"failures, malfunctions, defects or other occurrences which cause or might cause
+adverse effects on the continuing airworthiness" of the product
+[ext 21.A.3A(a)1]. Point 21.A.3A(d) then sets a clock: a report is dispatched as
+soon as practicable "and in any case not later than 72 hours after the natural or
+legal person has identified that the occurrence may lead to a possible unsafe
+condition, unless exceptional circumstances prevent this" [ext 21.A.3A(d)]. A
+revised risk assessment that can no longer meet the [[CS-E 510|CS-E 510(a)(3)]]
+objectives is such an identification.
+
+Point 21.A.3B(b) is the Agency's trigger: it issues an airworthiness directive
+where an unsafe condition has been determined to exist as a result of a
+deficiency in an engine installed on the aircraft, and that condition "is likely
+to exist or develop in other aircraft, UAS or CMUs" [ext 21.A.3B(b)]. The
+definition of an unsafe condition is recorded in [[AMC E 510]].
+
+Point 21.A.3B(c) then states the holder's part, and it is the corrective action
+this AMC means. The holder must "propose the appropriate corrective action or
+required inspections, or both, and submit details of these proposals to the
+Agency for approval", and, once approved, make the descriptive data and
+accomplishment instructions available to all known operators or owners
+[ext 21.A.3B(c)]. The applicant proposes; the Agency approves and mandates.
 
 ## Not applicable
 

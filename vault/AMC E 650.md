@@ -4,6 +4,7 @@ type: AMC
 subpart: E
 pages: 120-130
 changed_in: [Amdt7, Amdt8]
+imports: [Part 21]
 tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, corrected-speed, hcf]
 ---
 # AMC E 650 — Vibration Surveys
@@ -235,6 +236,25 @@ the stress margin suitability criteria to account for icing, rain and hail
 effects "consistent with the corresponding certification test evidence".
 [[CS-E 780]] and [[CS-E 790]] results are therefore inputs to the CS-E 650(f)
 margin justification, not only to their own paragraphs.
+
+**What the point 21.A.33 inspection is, and what (15) limits.** Part 21 is now
+held. Before each test undertaken during the demonstration of compliance, the
+applicant must verify that the test specimen's materials and processes, parts
+and manufacturing, construction and assembly conform to the proposed type
+design, and that the test and measuring equipment is adequate and appropriately
+calibrated [ext 21.A.33(b)]. The applicant then issues a statement of conformity
+"listing any potential non-conformity, together with a justification that this
+will not affect the test results", and must allow the Agency to make any
+inspection it considers necessary to check that statement [ext 21.A.33(c)]. The
+Agency may review the data and witness or carry out any test [ext 21.A.33(d)],
+and where it does, no change affecting the validity of the statement may be made
+to the specimen or the equipment between issuing the statement and presenting
+the specimen [ext 21.A.33(e)].
+
+That is the machinery AMC E 650(15) narrows. It does not remove the conformity
+duty; it limits which hardware carries it, to the components and instrumentation
+that constitute the certification engine test or the baseline tests supporting
+the validated analysis. Pre-certification development hardware stays outside it.
 
 [VERIFY: the threshold for a "significant response", previously agreed with the
 Agency. AMC E 650(1) defines the term by reference to that agreement, so the

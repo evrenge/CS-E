@@ -4,6 +4,7 @@ type: AMC
 subpart: D
 pages: 83-91
 changed_in: [Amdt7]
+imports: [Part 21]
 tags: [safety-analysis, fmea, fault-tree, hazardous-engine-effect, debris, toxic-products, maintenance-error]
 ---
 # AMC E 510 — Safety analysis
@@ -229,9 +230,39 @@ degradation from blade rubs, and oil leaking into the compressor air flow — ap
 to any turbine engine supplying bleed air. This connects to [[CS-E 690]] and to
 the abradable lining evaluation of [[AMC E 130|AMC E 130(3)(d)]].
 
-[VERIFY: AMC1 21.A.3B(b) defines the unsafe condition that the debris criterion
-turns on, and is not held in `source/`. The distinction between debris that does
-and does not cause an unsafe condition cannot be resolved here.]
+**The unsafe condition, which the debris criterion turns on.** Part 21 is now
+held, and AMC1 21.A.3B(b) gives the definition AMC E 510(3)(d)(iii) relies on.
+An unsafe condition exists where there is factual evidence, from service
+experience, analysis or tests, that one of three things holds.
+
+The first is an event that "would result in fatalities, usually with the loss of
+the aircraft", or that reduces the capability of the aircraft or the ability of
+the crew to cope with adverse operating conditions to the extent of "A large
+reduction in safety margins or functional capabilities", physical distress or
+excessive workload such that the flight crew cannot be relied on to perform
+their tasks accurately or completely, or "Serious or fatal injury to one or more
+occupants". This limb is qualified: it does not apply where the probability of
+the event is shown to be "within the limit defined by the applicable
+certification specifications" [ext AMC1 21.A.3B(b)(a)].
+
+The second is "an unacceptable risk of serious or fatal injury to persons other
+than occupants" [ext AMC1 21.A.3B(b)(b)]. The third is design features intended
+to minimise the effects of survivable accidents not performing their intended
+function [ext AMC1 21.A.3B(b)(c)].
+
+Two of its notes matter for the debris assessment. Non-compliance with the
+applicable certification specifications is generally an unsafe condition, unless
+the events resulting from it are shown not to meet the definition. And "An
+unsafe condition may exist even though applicable airworthiness requirements are
+complied with" [ext AMC1 21.A.3B(b)].
+
+So the debris question in (3)(d)(iii) is answered at aircraft level, not engine
+level: the test is what the released debris does to the aircraft and its
+occupants, which is why the same sub-point asks for coordination with the
+aircraft manufacturer and for the assumptions to be recorded in the manuals of
+[[CS-E 20|CS-E 20(d)]]. The probability limb ties the judgement back to the
+Extremely Remote and Extremely Improbable objectives of
+[[CS-E 510|CS-E 510(a)]].
 
 [VERIFY: the reference documents in AMC E 510(5) are not held in `source/`:
 AMC 25.1309 of CS-25; "Systematic Safety" by E Lloyd and W Tye, Taylor Young
