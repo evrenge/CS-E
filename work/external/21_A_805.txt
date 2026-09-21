@@ -1,0 +1,10 @@
+# 21.A.805 Identification of critical parts
+# id: 21.A.805
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 325
+
+21.A.805 Identification of critical parts 
+Regulation (EU) No 748/2012 
+In addition to the requirement of point 21.A.804, each manufacturer of a part to be fitted on a type-
+certificated product which has been identified as a critical part shall permanently and legibly mark 
+that part with a part number and a serial number.

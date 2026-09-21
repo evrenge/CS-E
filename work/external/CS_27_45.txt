@@ -1,0 +1,36 @@
+# CS 27.45 General (performance)
+# id: CS 27.45
+# source: external/CS-27_Amendment_10.pdf
+# chars: 1429
+
+CS 27.45  General 
+(a) 
+Unless otherwise prescribed, the performance requirements of this Subpart must be met for 
+still air and a standard atmosphere. 
+(b) 
+The performance must correspond to the engine power available under the particular ambient 
+atmospheric conditions, the particular flight condition, and the relative humidity specified in 
+sub-paragraphs (d) or (e), as appropriate. 
+(c) 
+The available power must correspond to engine power, not exceeding the approved power, 
+less: 
+(1) 
+Installation losses; and  
+(2) 
+The power absorbed by the accessories and services appropriate to the particular 
+ambient atmospheric conditions and the particular flight condition. 
+(d) 
+For reciprocating engine-powered rotorcraft, the performance, as affected by engine power, 
+must be based on a relative humidity of 80% in a standard atmosphere. 
+(e) 
+For turbine engine-powered rotorcraft, the performance, as affected by engine power, must be 
+based on a relative humidity of:  
+(1) 
+80%, at and below standard temperature; and  
+(2) 
+34%, at and above standard temperature plus 28°C (50°F) between these two 
+temperatures, the relative humidity must vary linearly. 
+(f) 
+For turbine engine-powered rotorcraft, a means must be provided to permit the pilot to 
+determine prior to take-off that each engine is capable of developing the power necessary to 
+achieve the applicable rotorcraft performance prescribed in this Subpart.

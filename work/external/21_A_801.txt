@@ -1,0 +1,57 @@
+# 21.A.801 Identification of products
+# id: 21.A.801
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 2524
+
+21.A.801 and 21.A.805. 
+4. 
+Log book and a modification record book for the aircraft as required by the Agency. 
+5. 
+Log books for products identified in 21.A.801 installed as part of the type design as required by 
+the Agency. 
+6. 
+A weight and balance report for the completed aircraft. 
+7. 
+A record of missing items or defects which do not affect airworthiness these for example could 
+be furnishing or BFE (Items may be recorded in a technical log or other suitable arrangement 
+such that the operator and Agency are formally aware). 
+8. 
+Product support information required by other associated implementing rules and CS or GM, 
+such as a Maintenance Manual, a Parts Catalogue, or MMEL all of which are to reflect the actual 
+build standard of the particular aircraft. Also an Electrical load analysis and a wiring diagram. 
+9. 
+Records which demonstrate completion of maintenance tasks appropriate to the test flight 
+flying hours recorded by the aircraft. These records should show the relationship of the 
+maintenance status of the particular aircraft to the manufacturers recommended maintenance 
+task list and the Maintenance Review Board (MRB) document/report. 
+10. 
+Details of the serviceability state of the aircraft in respect of, a) the fuel and oil contents, b) 
+provision of operationally required emergency equipment such as life rafts, etc. 
+
+ 
+11. 
+Details of the approved interior configuration if different from that approved as part of the type 
+design. 
+12. 
+An approved Flight Manual which conforms to the build standard and modification state of the 
+particular aircraft should be available. 
+13. 
+Show that inspections for foreign objects at all appropriate stages of manufacture have been 
+satisfactorily performed. 
+14. 
+The registration has been marked on the exterior of the aircraft as required by national 
+legislation. Where required by national legislation fix a fireproof owners nameplate. 
+15. 
+Where applicable, there should be a certificate for noise and, for the aircraft radio station. 
+16. 
+The installed compass and or compass systems have been adjusted and compensated and a 
+deviation card displayed in the aircraft. 
+17. 
+Software criticality list. 
+18. 
+A record of rigging and control surface movement measurements. 
+19. 
+Details of installations which will be removed before starting commercial air transport 
+operations (e.g., ferry kits for fuel, radio or navigation). 
+20. 
+List of all applicable Service Bulletins and airworthiness directives that have been implemented.

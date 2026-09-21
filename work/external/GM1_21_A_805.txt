@@ -1,0 +1,26 @@
+# GM1 21.A.805 Identification of critical parts
+# id: GM1 21.A.805
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 1749
+
+GM1 21.A.805 Identification of critical parts 
+ED Decision 2021/001/R 
+PARTS TO BE MARKED 
+For the purposes of point 21.A.805, a part that requires individual traceability for the management of 
+its continued airworthiness, as identified by the design approval holder, shall be permanently marked 
+with a part number and a serial number. 
+The need for the design approval holder to identify and mark parts may be related to specific 
+requirements for critical parts included in a certification specification. For instance, according to point 
+(c) of CS-E 110 Drawings and Marking of Parts — Assembly of Parts: ‘Certain parts (including Engine 
+Critical Parts; see CS-E 515) as may be required by the Agency must be marked and the constructor 
+must maintain records related to this marking such that it is possible to establish the relevant 
+manufacturing history of the parts.’ Another example is in point AC 29.602 of FAA AC 29-2C, as 
+referenced in Book 2 of CS-29: ‘(7) – Critical parts are identified as required, and relevant records 
+relating to the identification are maintained such that it is possible to establish the manufacturing 
+history of the individual parts or batches of parts.’ 
+Another typical case is for any part subject to an individually specified life limit or inspection 
+requirement when it is also possible for that part to be removed from one serial number of the 
+associated product during maintenance and installed on another serial number of the same product. 
+In this case, the traceability of the part, which is necessary for continued airworthiness management 
+purposes, is not assured through the serial number of the product alone, and it is necessary to 
+maintain records for the part through its serial number.

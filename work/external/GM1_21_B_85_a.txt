@@ -1,0 +1,141 @@
+# GM1 21.B.85(a) Content of ICAO Annex 16
+# id: GM1 21.B.85(a)
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 7029
+
+GM1 21.B.85(a) Applicable environmental protection requirements 
+for a type certificate or restricted type certificate  
+ED Decision 2025/016/R 
+CONTENT OF ICAO ANNEX 16 (VOLUMES I, II AND III) 
+1. 
+VOLUME I OF ICAO ANNEX 16 — AIRCRAFT NOISE 
+1.1. 
+SARPs 
+Volume I of ICAO Annex 16 contains the SARPs for the noise certification of subsonic jet 
+aeroplanes, propeller-driven aeroplanes, supersonic aeroplanes, helicopters and 
+tilt-rotors. 
+1.1.1. Part I 
+Part I of that volume provides the definitions and nomenclature, which are an 
+essential part of the SARPs. 
+1.1.2. Part II 
+Chapter 1 of Part II of that volume on administration includes the overall 
+applicability of that part. 
+Each other chapter of that part applies to a specific aircraft type for a given date of 
+application for a type certificate or for the certification of their derived versions. 
+These chapters contain the noise level limits that shall not be exceeded, and some 
+reference criteria. 
+1.1.3. Appendices 
+The methods for the evaluation of noise levels are provided in the appendices to 
+that volume. 
+1.2. 
+Guidance material 
+Guidance material for the application of the SARPs is provided in the attachments to that 
+volume and in Doc 9501 ‘Environmental Technical Manual’, Volume I ‘Procedures for the 
+Noise Certification of Aircraft’. 
+2. 
+VOLUME II OF ICAO ANNEX 16 — AIRCRAFT ENGINE EMISSIONS 
+2.1. 
+SARPs 
+Volume II of ICAO Annex 16 contains the SARPs for the aircraft fuel venting certification 
+and the aircraft engine emissions certification. 
+2.1.1. Part I 
+Part I of that volume provides the definitions and symbols, which are an essential 
+part of the SARPs. 
+2.1.2. Part II 
+Part II of that volume for the aircraft fuel venting certification applies to turbine 
+engine powered aircraft manufactured after 18 February 1982. 
+2.1.3. Part III 
+Part III of that volume applies to the aircraft engine emissions certification for 
+turbojet and turbofan engines intended for the propulsion at subsonic and 
+supersonic speeds and involves the following emissions: smoke gaseous emissions 
+
+ 
+such as unburned hydrocarbons, carbon monoxide and oxides of nitrogen, and 
+non-volatile particulate matter. 
+Chapter 1 of that part on administration includes the overall applicability of that 
+part. The other chapters of that part specify the applicability to the aircraft engine 
+types and contain the emissions regulatory levels that shall not be exceeded and 
+some reference criteria. 
+The information below summarises the applicability categories. The detailed 
+criteria provided in Part III are essential to determine the related applicable 
+emissions regulatory levels. 
+—  Standards for new type and model designs 
+These standards apply to aircraft engines of a type or model for which an 
+application for a type certificate was submitted on or after a given date. 
+—  Standards for first individual production models 
+These standards apply to aircraft engines of a type or model for which the 
+date of manufacture of the first individual production model was on or after 
+a given date. The emissions regulatory levels that shall not be exceeded for 
+these aircraft engines are different from those for new type design aircraft 
+engines. 
+These standards are minimum requirements for continued production of an 
+aircraft engine (production cut-off standards). 
+2.1.4. Part IV 
+Part IV of that volume applies to aircraft engines that are certified for non-volatile 
+particulate matter and for which the non-volatile particulate matter losses in the 
+sampling and measurement system shall be assessed in accordance with Appendix 
+8. The correction factors resulting from this assessment shall be reported to the 
+competent authority for inventory and modelling purposes. 
+2.1.5. Appendices 
+The procedures for the evaluation of the emissions levels are provided in the 
+appendices to that volume. 
+2.2. 
+Guidance material 
+Guidance material for the application of the SARPs is provided in the attachments to that 
+volume and in Doc 9501 ‘Environmental Technical Manual’, Volume II ‘Procedures for the 
+Emissions Certification of Aircraft Engines’. 
+3. 
+VOLUME III OF ICAO ANNEX 16 — AEROPLANE CO2 EMISSIONS 
+3.1. 
+SARPs 
+Volume III of ICAO Annex 16 contains the SARPs for the CO2 emissions certification of 
+subsonic jet aeroplanes and propeller-driven aeroplanes. 
+3.1.1. Part I 
+Part I of that volume provides the definitions and symbols, which are an essential 
+part of the SARPs. 
+ 
+ 
+
+ 
+3.1.2. Part II 
+Chapter 1 of Part II of that volume on administration includes the overall 
+applicability of that part. 
+Chapter 2 of that part defines the applicability to specific aeroplane types and their 
+related maximum permitted CO2 emissions evaluation metric value. It also contains 
+some reference criteria. 
+The information below summarises the applicability categories. The detailed 
+criteria provided in Chapter 2 are essential to determine the related applicable 
+maximum permitted CO2 emissions evaluation metric values. The applicability 
+provisions in Chapter 2 shall be applied in conjunction with the definitions of a 
+‘derived version of a non-CO2-certified aeroplane’ and a ‘derived version of a 
+CO2-certified aeroplane’, as contained in Part I, Chapter 1. These definitions 
+include additional criteria for the determination of the applicable CO2 standard for 
+such aeroplanes. 
+—  Standards for new type designs and their derived versions 
+These standards apply to aeroplanes and their derived versions for which 
+the application for a type certificate was submitted on or after a given date 
+(1 January 2020 and 1 January 2023 in Sections 2.1.1(a) to (c)). 
+—  Standards for individual non-CO2 certified aeroplanes 
+These standards apply to aeroplanes for which a type certificate was issued 
+but that were not certified for CO2 emissions in accordance with Volume III 
+of ICAO Annex 16, and for which the individual certificate of airworthiness 
+(CofA) was first issued on or after a given date (1 January 2028 in 
+Sections 2.1.1.(f) and (g)). 
+These standards are production cut-off standards. 
+—  Standards for derived versions of non-CO2-certified aeroplanes 
+These standards apply to individual aeroplanes for which a type certificate 
+was issued but that were not certified for CO2 emissions in accordance with 
+Volume III of ICAO Annex 16, and for which: 
+—  the application for approval of a change to the type certificate was 
+submitted on or after a given date (1 January 2023 in Sections 2.1.1(d) and (e)); 
+and 
+—  the change in the type design is made (i.e. applied to the individual 
+aeroplane) prior to the issuance of the first CofA. 
+3.1.3. Appendices 
+The methods for the evaluation of CO2 emissions levels are provided in the 
+appendices to that volume. 
+3.2. 
+Guidance material 
+Guidance material for the application of the SARPs is provided in the attachments to that 
+volume and in ICAO Doc 9501 ‘Environmental Technical Manual’, Volume III ‘Procedures 
+for the CO2 Emissions Certification of Aeroplanes’.

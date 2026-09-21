@@ -1,0 +1,11 @@
+# CS 34.2 Aircraft engine emissions
+# id: CS 34.2
+# source: external/CS-34_Amendment_4_repealed.pdf
+# chars: 260
+
+CS 34.2  Aircraft engine emissions 
+The aircraft engine must be designed to comply with the applicable emissions requirements as specified in 
+point 21.A.21 of Annex I (Part 21) to Commission Regulation (EU) No 748/2012. 
+[Amdt. 34/2] 
+[Amdt 34/3] 
+[Amdt 34/4]

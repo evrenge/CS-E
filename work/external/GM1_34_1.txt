@@ -1,0 +1,15 @@
+# GM1 34.1 Fuel venting
+# id: GM1 34.1
+# source: external/CS-34_Amendment_4_repealed.pdf
+# chars: 735
+
+GM1 34.1 Fuel venting 
+Point 21.A.21 of Annex I (Part 21) to Commission Regulation (EU) No 748/2012 does not list the 
+applicable requirements, but refers to point 21.A.20 of Annex I (Part 21) to Commission Regulation 
+(EU) No 748/2012 that requests the applicant to demonstrate compliance with the environmental 
+protection requirements designated by the Agency in accordance with point 21.B.85 of Annex I (Part 
+21) to Commission Regulation (EU) No 748/2012. Therefore, the environmental protection 
+requirements which need to be complied with according to point 21.A.21 of Annex I (Part 21) to 
+Commission Regulation (EU) No 748/2012 are in point 21.B.85 of Annex I (Part 21) to Commission 
+Regulation (EU) No 748/2012. 
+[Amdt 34/4]

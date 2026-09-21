@@ -1,0 +1,41 @@
+# CS 29.45 General (performance)
+# id: CS 29.45
+# source: external/CS-29_Amendment_12.pdf
+# chars: 1381
+
+CS 29.45 General 
+(a) 
+The performance prescribed in this subpart must be determined: 
+(1) 
+With normal piloting skill; and 
+(2) 
+Without exceptionally favourable conditions. 
+(b) 
+Compliance with the performance requirements of this subpart must be shown: 
+(1) 
+For still air at sea-level with a standard atmosphere; and 
+(2) 
+For the approved range of atmospheric variables. 
+(c) 
+The available power must correspond to engine power, not exceeding the approved power, 
+less: 
+(1) 
+Installation losses; and 
+(2) 
+The power absorbed by the accessories and services at the values for which certification 
+is requested and approved. 
+(d) 
+For reciprocating engine-powered rotorcraft, the performance, as affected by engine power, 
+must be based on a relative humidity of 80% in a standard atmosphere. 
+(e) 
+For turbine engine-powered rotorcraft, the performance, as affected by engine power, must be 
+based on a relative humidity of: 
+(1) 
+80%, at and below standard temperature; and 
+(2) 
+34%, at and above standard temperature plus 28°C (50°F). 
+Between these two temperatures, the relative humidity must vary linearly. 
+(f) 
+For turbine-engine-powered rotorcraft, a means must be provided to permit the pilot to 
+determine prior to take-off that each engine is capable of developing the power necessary to 
+achieve the applicable rotorcraft performance prescribed in this subpart.

@@ -1,0 +1,105 @@
+# AMC2 29.917 Rotor drive system design — lubrication systems
+# id: AMC2 29.917
+# source: external/CS-29_Amendment_12.pdf
+# chars: 6861
+
+AMC2 29.917 Rotor drive system design 
+LUBRICATION SYSTEMS 
+This AMC provides further guidance and acceptable means of compliance to supplement Federal 
+Aviation Administration (FAA) Advisory Circular (AC) 29 2C, § AC 29.917(b). As such, it should be used 
+in conjunction with the FAA AC. 
+This AMC addresses the applicant’s dedicated safety assessment of the rotor drive system’s lubrication 
+system and details how to use this assessment to help the applicant comply with CS 29.927(c). 
+For lubrication systems: a dedicated safety assessment should be performed that addresses all the 
+lubrication systems of rotor drive system gearboxes and, in particular, the following: 
+(a) 
+Identification of any single failure, malfunction, or reasonably conceivable combinations of 
+failures that may result in a loss of oil pressure, a loss of oil supply to the dynamic components 
+or a loss of the oil scavenge function. This normally takes the form of a failure mode and effects 
+analysis. Compensating provisions should be identified to minimise the likelihood of occurrence 
+of these failures. The safety assessment should also consider potential assembly or 
+maintenance errors that cannot be readily detected during specified functional checks. 
+(b) 
+The safety assessment should consider any specific design features which are subject to 
+variability in manufacture or wear/degradation in service and which could have an appreciable 
+effect on the maximum period of operation following loss of lubrication. Any features that may 
+have a significant influence on the behaviour of the residual oil or the auxiliary lubrication 
+system should be taken into account when determining the configuration of test articles. 
+(c) 
+Identification of the most severe failure mode that results in the shortest duration of time in 
+which the gearbox should be able to operate following the indication to the flight crew of a 
+normal-use lubrication system failure. This should be used for simulating lubrication failure 
+during the loss-of-lubrication test described in CS 29.927(c). 
+(d) 
+Auxiliary lubrication system: Where compliance with CS 29.927(c) is reliant upon the operation 
+of an auxiliary lubrication system, sufficient independence between the normal-use and 
+auxiliary lubrication systems should be substantiated. Common-cause failure analysis, including 
+common-mode, particular-risk, and zonal safety analyses, should be performed. It should be 
+established that no single failure or identified common-cause failure will prevent the operation 
+of both the normal-use and the auxiliary lubrication systems, apart from any failures that are 
+determined to be extremely remote lubrication failures. The effects of inadvertent operation of 
+the auxiliary lubrication system should also be considered.  
+(e) 
+Definitions 
+(1) 
+Lubrication system failure: in the context of CS 29.917(b), references to a failure of the 
+lubrication system should be interpreted as any failure that results in a loss of pressure 
+and an associated low oil pressure warning, within the duration of one flight. 
+(2) 
+Most severe failure mode: the failure mode of the normal use lubrication system that 
+results in the shortest duration of time in which the gearbox is expected to operate 
+following an indication to the flight crew. 
+(3) 
+Normal-use lubrication system: the lubrication system relied upon during normal 
+operation. 
+(4) 
+Auxiliary lubrication system: any lubrication system that is independent of the normal use 
+lubrication system. 
+
+ 
+(5) 
+Independent: an auxiliary lubrication system should be able to function after a failure of 
+the normal-use lubrication system. Failure modes which may result in the subsequent 
+failure of both the auxiliary and the normal-use lubrication systems and which may 
+prevent continued safe flight or safe landing should be shown to be extremely remote 
+lubrication failures. 
+(6) 
+Extremely remote lubrication failure: a lubrication failure where the likelihood of 
+occurrence has been minimised, either by structural analysis in accordance with 
+CS 29.571 or laboratory testing. Alternatively, in-service experience or other means can 
+be used which indicate a level of reliability comparable with one failure per 10 million 
+hours. Failure modes including failures of external pipes, fittings, coolers, or hoses, and 
+any components that require periodic removal by maintainers, should not be considered 
+as extremely remote lubrication failures. 
+(f) 
+Determination of the Most Severe Failure Mode 
+(1) 
+The objective of the loss-of-lubrication test is to demonstrate the operation of a rotor 
+drive system gearbox following the most severe failure mode of the normal-use 
+lubrication system. The determination of the most severe failure mode may not be 
+immediately obvious, as leakage rates vary, and system performance following leaks from 
+different areas varies as well. Thus, a careful analysis of the potential failure modes 
+should be conducted, taking into account the effects of flight conditions if relevant. 
+(2) 
+The starting point for the determination of the most severe failure mode should be an 
+assessment of all the potential lubrication system failure modes. This should be 
+accomplished as part of the CS 29.917(b) design assessment, and should include leaks 
+from any connections between components that are assembled together, such as 
+threaded connections, hydraulic inserts, gaskets, seals, and packing (O-rings). Failure 
+modes, such as failures of external lines, failures of component retention hardware and 
+wall-through cracks that have not been substantiated for CS 29.307, CS 29.571 and 
+CS 29.923(m) should also be considered. The determination that a failure is an extremely 
+remote lubrication failure, when used to eliminate a potential failure mode from being 
+considered as a candidate most severe failure mode, should be substantiated. Where 
+leakage rates or the effect of failure modes cannot be easily determined, then a 
+laboratory test should be conducted. Once the most severe failure mode has been 
+determined, this should form the basis of the conditions for the start of the test. 
+(g) 
+Use of an auxiliary lubrication system 
+The use of an auxiliary lubrication system may be an acceptable means of providing extended 
+operating time after a loss of lubrication. The auxiliary lubrication system should be designed to 
+provide sufficient independence from the normal-use lubrication system. Since the auxiliary 
+lubrication system is by definition integral to the same gearbox as the normal-use lubrication 
+system, it may be impractical for it to be completely independent. Therefore, designs should be 
+conceived such that shared components or interfaces between the normal-use and auxiliary 
+lubrication systems are minimised and comply with the design assessment provisions of

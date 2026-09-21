@@ -1,0 +1,15 @@
+# 21.B.85 Applicable environmental protection requirements
+# id: 21.B.85
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 500
+
+21.B.85 Applicable environmental protection requirements for a 
+type certificate or restricted type certificate 
+Regulation (EU) 2025/1065 
+(a) 
+For a type certificate or restricted type certificate for an aircraft or for a type certificate for an 
+engine, the Agency shall designate and notify to the applicant the applicable environmental 
+protection requirements from the essential requirements referred to in the first subparagraph 
+of Article 9(2) of Regulation (EU) 2018/1139. 
+(b) 
+(reserved).

@@ -1,0 +1,95 @@
+# CS 29.927 Additional tests
+# id: CS 29.927
+# source: external/CS-29_Amendment_12.pdf
+# chars: 5670
+
+CS 29.927 Additional tests 
+(a) 
+Any additional dynamic, endurance, and operational tests, and vibratory investigations 
+necessary to determine that the rotor drive mechanism is safe, must be performed. 
+(b) 
+If turbine engine torque output to the transmission can exceed the highest engine or 
+transmission torque limit, and that output is not directly controlled by the pilot under normal 
+operating conditions (such as where the primary engine power control is accomplished through 
+the flight control), the following test must be made: 
+(1) 
+Under conditions associated with all engines operating, make 200 applications, for 
+10 seconds each, of torque that is at least equal to the lesser of: 
+(i) 
+The maximum torque used in meeting CS 29.923 plus 10%; or 
+(ii) 
+The maximum torque attainable under probable operating conditions, assuming 
+that torque limiting devices, if any, function properly. 
+(2) 
+For multi-engine rotorcraft under conditions associated with each engine, in turn, 
+becoming inoperative, apply to the remaining transmission torque inputs the maximum 
+torque attainable under probable operating conditions, assuming that torque limiting 
+devices, if any, function properly. Each transmission input must be tested at this 
+maximum torque for at least 15 minutes. 
+(c) 
+Lubrication system failure. For rotor drive system gearboxes required for continued safe flight 
+or safe landing which have a pressurised normal-use lubrication system, the following apply:  
+(1) 
+Category A. Confidence shall be established that the rotor drive system has an in-flight 
+operational endurance capability of at least 30 minutes following a failure of any one 
+pressurised normal-use lubrication system.  
+
+ 
+For each rotor drive system gearbox necessary for continued safe flight or safe landing, a 
+test shall be conducted simulating the effect of the most severe failure mode of the 
+normal-use lubrication system as determined by the failure analysis of CS 29.917(b). The 
+duration of the test shall be dependent upon the number of tests and the component 
+condition after the test. The test shall be conducted such that it begins upon the 
+indication to the flight crew that a lubrication failure has occurred, and its loading is 
+consistent with 1 minute at maximum continuous power, followed by the minimum 
+power needed for continued flight at the rotorcraft maximum gross weight. The test shall 
+end with a 45-second out of ground effect (OGE) hover to simulate a landing phase. Test 
+results must substantiate the maximum period of operation following loss of lubrication 
+by means of an extended test duration, multiple test specimens, or another approach 
+prescribed by the applicant and accepted by EASA, and must support the procedures 
+published in the rotorcraft flight manual (RFM). Flight durations longer than 30 minutes 
+may be demonstrated by means of a correspondingly longer test with appropriate margin 
+and substantiation. 
+(2) 
+Category B. Confidence shall be established that the rotor drive system has an in-flight 
+operational endurance capability to complete an autorotation descent and landing 
+following a failure of any one pressurised normal-use lubrication system. 
+For each rotor drive system gearbox necessary for safe autorotation descent or safe 
+landing, a test of at least 16 minutes and 15 seconds following the most severe failure 
+mode of the normal-use lubrication system as determined by the failure analysis of 
+CS 29.917(b) shall be conducted. The test shall be conducted such that it begins upon the 
+indication to the flight crew that a lubrication failure has occurred and its loading is 
+consistent with 1 minute at maximum continuous power, after which the input torque 
+should be reduced to simulate autorotation for 15 minutes. The test shall be completed 
+by the application of an input torque to simulate a minimum power landing for 
+approximately 15 seconds. 
+(d) 
+Overspeed test. The rotor drive system must be subjected to 50 overspeed runs, each 30 ± 3 
+seconds in duration, at not less than either the higher of the rotational speed to be expected 
+from an engine control device failure or 105% of the maximum rotational speed, including 
+transients, to be expected in service. If speed and torque limiting devices are installed, are 
+independent of the normal engine control, and are shown to be reliable, their rotational speed 
+limits need not be exceeded. These runs must be conducted as follows: 
+(1) 
+Overspeed runs must be alternated with stabilising runs of from 1 to 5 minutes duration 
+each at 60 to 80% of maximum continuous speed. 
+(2) 
+Acceleration and deceleration must be accomplished in a period not longer than 
+10 seconds (except where maximum engine acceleration rate will require more than 
+10 seconds), and the time for changing speeds may not be deducted from the specified 
+time for the overspeed runs. 
+(3) 
+Overspeed runs must be made with the rotors in the flattest pitch for smooth operation. 
+(e) 
+The tests prescribed in sub-paragraphs (b) and (d) must be conducted on the rotorcraft and the 
+torque must be absorbed by the rotors to be installed, except that other ground or flight test 
+facilities with other appropriate methods of torque absorption may be used if the conditions of 
+support and vibration closely simulate the conditions that would exist during a test on the 
+rotorcraft. 
+
+ 
+(f) 
+Each test prescribed by this paragraph must be conducted without intervening disassembly and, 
+except for the lubrication system failure test required by sub-paragraph (c) , each part tested 
+must be in a serviceable condition at the conclusion of the test. 
+[Amdt: 29/5]

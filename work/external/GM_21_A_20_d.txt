@@ -1,0 +1,24 @@
+# GM 21.A.20(d) Final statement
+# id: GM 21.A.20(d)
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 1562
+
+GM 21.A.20(d) Final statement 
+ED Decision 2025/016/R 
+All compliance demonstrations in accordance with the certification programme, including all the 
+inspections and tests in accordance with point 21.A.33 and all flight tests in accordance with 
+point 21.A.35, should be completed before the issuance of the final statement of compliance required 
+by point 21.A.20(d). 
+If so agreed by EASA, some compliance documentation may be produced after the issuance of the 
+final statement of compliance required by 21.A.20(d). 
+‘No feature or characteristics’ in point 21.A.20(d)2 means the following: while every effort is made to 
+address in the applicable certification basis all the risks to product safety that may be caused by the 
+product, experience shows that safety-related events may occur with products in service, even though 
+compliance with the certification basis is fully demonstrated. One of the reasons may be that some 
+existing risks are not properly addressed in the certification basis. Therefore, the applicant has to 
+declare that they have not identified any such features or characteristics. 
+Point 21.A.20 also applies by reference to minor changes, in which case the risk to product safety or 
+to environmental compatibility is quite low. Nevertheless, minor changes should not be approved if 
+either the applicant/design organisation approval (DOA) holder approving minor changes under their 
+privileges, or EASA, is aware of a feature or characteristic that may make the product unsafe for the 
+uses for which certification is requested.

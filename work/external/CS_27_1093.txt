@@ -1,0 +1,55 @@
+# CS 27.1093 Induction system icing protection
+# id: CS 27.1093
+# source: external/CS-27_Amendment_10.pdf
+# chars: 2754
+
+CS 27.1093  Induction system icing protection 
+(a) 
+Reciprocating engines. Each reciprocating engine air induction system must have means to 
+prevent and eliminate icing. Unless this is done by other means, it must be shown that, in air 
+free of visible moisture at a temperature of –1°C (30°F) and with the engines at 75% of maximum 
+continuous power:  
+(1) 
+Each rotorcraft with sea-level engines using conventional venturi carburettors has a 
+preheater that can provide a heat rise of 50°C (90°F);  
+(2) 
+Each rotorcraft with sea-level engines using carburettors tending to prevent icing has a 
+sheltered alternate source of air, and that the preheat supplied to the alternate air intake 
+is not less than that provided by the engine cooling air downstream of the cylinders;  
+(3) 
+Each rotorcraft with altitude engines using conventional venturi carburettors has a 
+preheater capable of providing a heat rise of 67°C (120°F); and  
+(4) 
+Each rotorcraft with altitude engines using carburettors tending to prevent icing has a 
+preheater that can provide a heat rise of:  
+(i) 
+56°C (100°F); or  
+(ii) 
+If a fluid de-icing system is used, at least 22°C (40°F).  
+(b) 
+Turbine engines  
+(1) 
+It must be shown that each turbine engine and its air inlet system can operate throughout 
+the flight power range of the engine (including idling):  
+(i) 
+Without accumulating ice on engine or inlet system components that would 
+adversely affect engine operation or cause a serious loss of power under the icing 
+conditions specified in appendix C of CS-29; and  
+(ii) 
+In snow, both falling and blowing, without adverse effect on engine operation, 
+within the limitations established for the rotorcraft.  
+(2) 
+Each turbine engine must idle for 30 minutes on the ground, with the air bleed available 
+for engine icing protection at its critical condition, without adverse effect, in an 
+atmosphere that is at a temperature between –9°C and –1°C (15° and 30°F) and has a 
+liquid water content not less than 0.3 grams per cubic metre in the form of drops having 
+a mean effective diameter of not less than 20 microns, followed by momentary operation 
+at take-off power or thrust. During the 30 minutes of idle operation, the engine may be 
+run up periodically to a moderate power or thrust setting in a manner acceptable to the 
+Agency. 
+(c) 
+Supercharged reciprocating engines. For each engine having superchargers to pressurise the air 
+before it enters the carburettor, the heat rise in the air caused by that supercharging at any 
+altitude may be utilised in determining compliance with sub-paragraph (a) if the heat rise 
+utilised is that which will be available, automatically, for the applicable altitude and operating 
+condition because of supercharging.

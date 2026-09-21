@@ -50,7 +50,7 @@ document contains at any amendment.
 | `GM1 21.A.3B(b)` | a "DETERMINATION OF AN UNSAFE CONDITION" section | AMC E 510(3)(d)(iii) — the trigger for the whole uncontained-debris assessment |
 | `21.A.3A`, `21.A.3B` | occurrence reporting and the failure/malfunction/defect duties | the AMC E 515 Service Management Plan |
 | `21.A.20(d)`, with `GM 21.A.20(d)` | the final statement, and what "no feature or characteristics" means in `21.A.20(d)2` | the reason CS-E 160 exists |
-| `21.A.61` | instructions for continued airworthiness | CS-E 25(a), whose Amendment 7 change deleted the reference |
+| `21.A.61` | **not held, and not holdable** — the point no longer exists in Part 21. The numbering runs 21.A.62 then 21.A.65, and an exact search returns nothing; a substring search appears to find it only because 21.A.601 to 21.A.615 exist. CS-E 25(a) cited `21.A.61(a)` until Amendment 7 deleted the reference, and Part 21 has since dropped the point itself | CS-E 25(a) amendment history |
 | `21.A.801`, `21.A.805`, with `GM1 21.A.805` | identification of products, and the marking rules for critical parts | CS-E 120 |
 
 ### Why the three AMC & GM deltas were removed

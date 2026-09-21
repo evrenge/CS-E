@@ -1,0 +1,147 @@
+# GM2 21.B.85 Applicable environmental protection requirements
+# id: GM2 21.B.85
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 3785
+
+GM2 21.B.85 Applicable environmental protection requirements for 
+a type certificate or restricted type certificate 
+ED Decision 2025/016/R 
+APPLICABLE ENVIRONMENTAL PROTECTION REQUIREMENTS 
+1. GENERAL 
+For a TC, RTC, STC and a major change approval, the term ‘environmental protection requirements’ 
+that is used throughout Regulation (EU) No 748/2012 represents the requirements designated by 
+EASA that are applicable to the product at the date of application for the environmental protection 
+certification. Point 21.B.85 refers to the requirements for a TC and an RTC. Points 21.B.105 and 
+21.B.109 refer to point 21.A.101, which in turn refers to point 21.B.85. Consequently, the 
+requirements for a major change approval or an STC are designated by EASA from the requirements 
+referred to in point 21.B.85. 
+For a minor change approval (21.A.95) and a repair design approval (21.B.450), the applicable 
+‘environmental protection requirements’ are those incorporated by reference in the TC, RTC and STC.  
+2. ICAO Annex 16 (Volumes I, II and III) (21.B.85(a)) 
+The applicable environmental protection requirements are the Standards and Recommended 
+Practices (SARPs) in Volume I, Volume II and Volume III of Annex 16 to the Chicago Convention (‘ICAO 
+Annex 16’) for aircraft and engines for which the first subparagraph of Article 9(2) of Regulation 
+
+ 
+(EU) 2018/1139 applies. The applicable SARPs are those contained in Volume I, Volume II and 
+Volume III of ICAO Annex 16 including all amendments up to the latest amendment referred to in the 
+first subparagraph of Article 9(2) of Regulation (EU) 2018/1139. 
+Table 1 below provides the correspondence between the levels of amendment of Volume I, Volume II 
+and Volume III of ICAO Annex 16 and the related EU regulations that have implemented these levels 
+of amendment since 2003, as well as the respective applicability dates. 
+Table 1: ICAO Annex 16 Volumes I, II and III levels of amendment and the related EU regulations 
+ICAO Annex 16 
+EU regulations 
+Volumes 
+Amendment levels 
+Applicability dates 
+Regulations 
+Applicability dates 
+Volume I 
+ 
+ 
+ 
+Amendment 14 
+01/01/2024 
+Regulation (EU) 2025/870* 
+25/05/2025 
+Amendment 13 
+01/01/2021 
+Regulation (EU) 2021/1087* 
+25/07/2021 
+Amendment 12 
+01/01/2018 
+Regulation (EU) 2018/1139 
+(Art.9) 
+11/09/2018 
+Amendment 11-B 
+01/01/2015 
+Regulation (EU) 2016/4* 
+26/01/2016 
+Amendment 10 
+17/11/2011 
+Regulation (EU) No 6/2013* 
+29/01/2013 
+Amendment 9 
+20/11/2008 
+Regulation (EC) No 690/2009* 
+20/08/2009 
+Amendment 8 
+24/11/2005 
+Regulation (EC) No 216/2008 
+(Art.6) 
+29/03/2007 
+Regulation (EC) No 334/2007* 
+29/03/2007 
+Amendment 7 
+21/03/2002 
+Regulation (EC) No 1701/2003* 
+28/09/2003 
+Amendment 6 
+04/11/1999 
+Regulation (EC) No 1592/2002 
+(Art.6) 
+28/09/2003 
+Volume II 
+ 
+ 
+ 
+Amendment 11 
+01/01/2024 
+Regulation (EU) 2025/870* 
+25/05/2025 
+Amendment 10 
+01/01/2021 
+Regulation (EU) 2021/1087* 
+25/07/2021 
+Amendment 9 
+01/01/2018 
+Regulation (EU) 2018/1139 
+(Art.9) 
+11/09/2018 
+Amendment 8 
+01/01/2015 
+Regulation (EU) 2016/4* 
+26/01/2016 
+Amendment 7 
+17/11/2011 
+Regulation (EU) No 6/2013* 
+29/01/2013 
+Amendment 6 
+20/11/2008 
+Regulation (EC) No 690/2009* 
+20/08/2009 
+Amendment 5 
+24/11/2005 
+Regulation (EC) No 216/2008 
+(Art.6) 
+29/03/2007 
+Regulation (EC) No 334/2007* 
+29/03/2007 
+Amendment 4 
+04/11/1999 
+Regulation (EC) No 1701/2003* 
+28/09/2003 
+Regulation (EC) No 1592/2002 
+(Art.6) 
+28/09/2003 
+Volume III 
+ 
+ 
+ 
+Amendment 2 
+01/01/2024 
+Regulation (EU) 2025/870* 
+25/05/2025 
+Amendment 1 
+01/01/2021 
+Regulation (EU) 2021/1087* 
+25/07/2021 
+1st Edition 
+01/01/2018 
+Regulation (EU) 2018/1139 
+(Art.9) 
+11/09/2018 
+*: 
+Regulations that amend Article 6 of Regulations (EC) No 1592/2002 and (EC) No 216/2008, and 
+Article 9 of Regulation (EU) 2018/1139

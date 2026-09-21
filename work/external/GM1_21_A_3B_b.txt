@@ -1,0 +1,231 @@
+# GM1 21.A.3B(b) Failures, malfunctions and defects
+# id: GM1 21.A.3B(b)
+# source: external/Part-21_EAR_Reg-748-2012_Nov-2025.pdf
+# chars: 12490
+
+GM1 21.A.3B(b) Failures, malfunctions and defects 
+ED Decision 2021/001/R 
+DETERMINATION OF AN UNSAFE CONDITION 
+It is important to note that these guidelines are not exhaustive. However, this material is intended to 
+provide guidelines and examples that will cover most cases, taking into account the applicable 
+certification requirements. 
+1. 
+INTRODUCTION 
+Certification or approval of a product, part or appliance is a demonstration of compliance with 
+requirements which are intended to ensure an acceptable level of safety. This demonstration, 
+however, includes certain accepted assumptions and predicted behaviours, such as: 
+—  
+fatigue behaviour is based on analysis supported by test, 
+— modelling techniques are used for Aircraft Flight Manual performances calculations, 
+—  
+the systems safety analyses give predictions of what the systems failure modes, 
+effects and probabilities may be, 
+—  
+the system components’ reliability figures are predicted values derived from 
+general experience, tests or analysis, 
+—  
+the crew is expected to have the skills to apply the procedures correctly, and 
+—  
+the aircraft is assumed to be maintained in accordance with the prescribed 
+instructions for continued airworthiness (ICAs) (or maintenance programme). 
+In service experience, additional testing, further analysis, etc., may show that certain initially 
+accepted assumptions are not correct. Thus, certain conditions initially demonstrated as safe, 
+are revealed by experience as unsafe.  In this case, it is necessary to mandate corrective actions 
+in order to restore a level of safety consistent with the applicable certification requirements. 
+To support the determination of an unsafe condition, the investigation may need to include   
+examinations of worn, damaged and time-expired parts / analysis / certification demonstration 
+/ tests / statistical analysis, and comparison with the certification assumptions. 
+See AMC1 21.A.3B(b) for the definition of ‘unsafe condition’ used in 21.A.3A(b). 
+2. 
+GUIDELINES FOR ESTABLISHING IF A CONDITION IS UNSAFE 
+The following paragraphs give general guidelines for analysing the reported events and 
+determining if an unsafe condition exists, and are provided for each type of product, part or 
+appliance subject to a specific airworthiness approval: type-certificates (TC) or supplemental 
+type-certificates (STC) for aircraft, engines or propellers, or European Technical Standard 
+Orders (ETSO). 
+This analysis may be qualitative or quantitative, i.e. formal and quantitative safety analyses may 
+not be available for older or small aircraft. In such cases, the level of analysis should be 
+consistent with that required by the certification specifications and may be based on 
+engineering judgement supported by service experience data. 
+ 
+ 
+
+ 
+2.1 
+Analysis method for aircraft 
+2.1.1 Accidents or incidents without any aircraft, engines, system, propeller or part or 
+appliance malfunction or failure 
+When an accident/incident does not involve any component malfunction or failure 
+but when a crew human factor has been a contributing factor, this should be 
+assessed from a man-machine interface standpoint to determine whether the 
+design is adequate or not. Paragraph 2.5 gives further details on this aspect. 
+2.1.2 Events involving an aircraft, engines, system, propeller or part or appliance failure, 
+malfunction or defect 
+The general approach for analysis of in-service events caused by malfunctions, 
+failures or defects will be to analyse the actual failure effects, taking into account 
+previously unforeseen failure modes or improper or unforeseen operating 
+conditions revealed by service experience. 
+These events may have occurred in service, or have been identified during 
+maintenance, or been identified as a result of subsequent tests, analyses, or quality 
+control. 
+These may result from a design deficiency or a production deficiency (non-
+conformity with the type design), or from improper maintenance. In this case, it 
+should be determined if improper maintenance is limited to one aircraft, in which 
+case an airworthiness directive may not be issued, or if it is likely to be a general 
+problem due to improper design and/or maintenance procedures, as detailed in 
+paragraph 2.5. 
+2.1.2.1 
+Flight 
+An unsafe condition exists if: 
+— There is a significant shortfall of the actual performance 
+compared to the approved performance (taking into account the 
+accuracy of the performance calculation method), or 
+— The handling qualities, although having been found to comply 
+with the applicable certification specifications at the time of initial 
+approval, are subsequently shown by service experience not to 
+comply. 
+2.1.2.2 
+Structural or mechanical systems 
+An unsafe condition exists if the deficiency may lead to a structural or 
+mechanical failure which: 
+— Could exist in a Principal Structural Element that has not been 
+qualified as damage tolerant.  Principal Structural Elements are 
+those which contribute significantly to carrying flight, ground, and 
+pressurisation loads, and whose failure could result in a 
+catastrophic failure of the aircraft. 
+Typical examples of such elements are listed for large 
+aeroplanes in AMC 25.571(a) ‘Damage tolerance and fatigue 
+evaluation of structure’, and in the equivalent material for 
+rotorcraft. 
+
+ 
+— Could exist in a Principal Structural Element that has been 
+qualified as damage tolerant, but for which the established 
+inspections, or other procedures, have been shown to be, or may 
+be, inadequate to prevent catastrophic failure. 
+— Could reduce the structural stiffness to such an extent that the 
+required flutter, divergence or control reversal margins are no 
+longer achieved. 
+— Could result in the loss of a structural piece that could damage 
+vital parts of the aircraft, cause serious or fatal injuries to persons 
+other than occupants. 
+— Could, under ultimate load conditions, result in the liberation of 
+items of mass that may injure occupants of the aircraft. 
+— Could jeopardise proper operation of systems and may lead to 
+hazardous or catastrophic consequences, if this effect has not 
+been taken adequately into account in the initial certification 
+safety assessment. 
+2.1.2.3 
+Systems 
+The consequences of reported systems components malfunctions, 
+failures or defects should be analysed. 
+For this analysis, the certification data may be used as supporting 
+material, in particular systems safety analyses. 
+The general approach for analysis of in-service events caused by 
+systems malfunctions, failures or defects will be to analyse the actual 
+failure effects. 
+As a result of this analysis, an unsafe condition will be assumed if it 
+cannot be shown that the safety objectives for hazardous and 
+catastrophic failure conditions are still achieved, taking into account 
+the actual failure modes and rates of the components affected by the 
+reported deficiency. 
+The failure probability of a system component may be affected by: 
+— A design deficiency (the design does not meet the specified 
+reliability or performance). 
+— A production deficiency (non-conformity with the certified type 
+design) that affects either all components, or a certain batch of 
+components. 
+— Improper installation (for instance, insufficient clearance of pipes 
+to surrounding structure). 
+— Susceptibility to adverse environment (corrosion, moisture, 
+temperature, vibrations etc.). 
+— Ageing effects (failure rate increase when the component ages). 
+— Improper maintenance. 
+
+ 
+When the failure of a component is not immediately detectable 
+(hidden or latent failures), it is often difficult to have a reasonably 
+accurate estimation of the component failure rate since the only data 
+available are usually results of maintenance or flight crew checks.  This 
+failure probability should therefore be conservatively assessed. 
+As it is difficult to justify that safety objectives for the following 
+systems are still met, a deficiency affecting these types of systems 
+may often lead to a mandatory corrective action: 
+— back up emergency systems, or 
+— fire detection and protection systems (including shut off means). 
+Deficiencies affecting systems used during an emergency evacuation 
+(emergency exits, evacuation assist means, emergency lighting 
+system ...) and to locate the site of a crash (Emergency Locator 
+Transmitter) will also often lead to mandatory corrective action. 
+2.1.2.4 
+Others 
+In addition to the above, the following conditions are considered 
+unsafe: 
+— There is a deficiency in certain components which are involved in 
+fire protection or which are intended to minimise/retard the 
+effects of fire/smoke in a survivable crash, preventing them to 
+perform their intended function (for instance, deficiency in cargo 
+liners or cabin material leading to non-compliance with the 
+applicable flammability requirements). 
+— There is a deficiency in the lightning or High Intensity Radiated 
+Fields protection of a system which may lead to hazardous or 
+catastrophic failure conditions. 
+— There is a deficiency which could lead to a total loss of power or 
+thrust due to common mode failure. 
+If there is a deficiency in systems used to assist in the enquiry 
+following an accident or serious incident (e.g., Cockpit Voice Recorder, 
+Flight Data Recorder), preventing them to perform their intended 
+function, the Agency may take mandatory action. 
+2.2 
+Engines 
+The consequences and probabilities of engine failures have to be assessed at the aircraft 
+level in accordance with paragraph 2.1, and also at the engine level for those failures 
+considered as Hazardous in CS E-510. 
+The latter will be assumed to constitute unsafe conditions, unless it can be shown that 
+the consequences at the aircraft level do not constitute an unsafe condition for a 
+particular aircraft installation.  
+2.3 
+Propellers 
+The consequences and probabilities of propeller failures have to be assessed at the 
+aircraft level in accordance with paragraph 2.1, and also at the propeller level for those 
+failures considered as hazardous in CS P-70. 
+
+ 
+The latter will be assumed to constitute unsafe conditions, unless it can be shown that 
+the consequences at the aircraft level do not constitute an unsafe condition for a 
+particular aircraft installation. 
+2.4 
+Parts and appliances 
+The consequences and probabilities of equipment failures have to be assessed at the 
+aircraft level in accordance with paragraph 2.1. 
+2.5 
+Human factors aspects in establishing and correcting unsafe conditions 
+This paragraph provides guidance on the way to treat an unsafe condition resulting from 
+a maintenance or crew error observed in service. 
+It is recognised that human factors techniques are under development. However, the 
+following is a preliminary guidance on the subject. 
+Systematic review should be used to assess whether the crew or maintenance error raises 
+issues that require regulatory action (whether in design or other areas), or should be 
+noted as an isolated event without intervention. This may need the establishment of a 
+multidisciplinary team (designers, crews, human factors experts, maintenance experts, 
+operators etc.) 
+The assessment should include at least the following: 
+— Characteristics of the design intended to prevent or discourage incorrect assembly or 
+operation; 
+— Characteristics of the design that allow or facilitate incorrect operation, 
+— Unique characteristics of a design feature differing from established design practices; 
+— The presence of indications or feedback that alerts the operator to an erroneous 
+condition; 
+— The existence of similar previous events, and whether or not they resulted (on those 
+occasions) in unsafe conditions; 
+— Complexity of the system, associated procedures and training (has the crew a good 
+understanding of the system and its logic after a standard crew qualification 
+programme?); 
+— Clarity/accuracy/availability/currency and practical applicability of manuals and 
+procedures; 
+— Any issues arising from interactions between personnel, such as shift changeover, 
+dual inspections, team operations, supervision (or lack of it), or fatigue. 
+Apart from a design change, the corrective actions, if found necessary, may consist of 
+modifications of the manuals, inspections, training programmes, and/or information to the 
+operators about particular design features. The Agency may decide to make mandatory such 
+corrective action if necessary.
