@@ -17,6 +17,7 @@ machinery in `source/` exists because CS-E is the deliverable, and these are not
 | `CS-29_Amendment_12.pdf` | 438 | Large Rotorcraft (CS-29), Amendment 12 | 2024/009/R |
 | `CS-Definitions_Amendment_2.pdf` | 26 | Definitions and abbreviations used in Certification Specifications, Amendment 2 | 2010/014/R |
 | `Part-21_EAR_Reg-748-2012_Nov-2025.pdf` | 1041 | Easy Access Rules for Initial Airworthiness and Environmental Protection (Regulation (EU) No 748/2012), November 2025 revision | consolidated |
+| `EN_to_ED_Decision_2025-005-R_CS-34-repeal.pdf` | 6 | Explanatory Note to ED Decision 2025/005/R — repeal of CS-34, CS-36 and CS-CO2 | 2025/005/R |
 | `CS-34_Amendment_4_repealed.pdf` | 5 | Aircraft Engine Emissions and Fuel Venting (CS-34), Amendment 4 — **repealed 27 May 2025** | 2021/011/R |
 | `AMC-20_Amendment_23.pdf` | 678 | General Acceptable Means of Compliance for Airworthiness of Products, Parts and Appliances (AMC-20), Amendment 23 | 2022/001/R |
 
@@ -109,6 +110,53 @@ Every step after CS-34 is in `Part-21_EAR_Reg-748-2012_Nov-2025.pdf`:
 
 The 21.B.85 material carries Regulation (EU) 2025/1065 and ED Decision
 2025/016/R, so it post-dates the CS-34 repeal. It is the live successor.
+
+### EASA's own account of the repeal
+
+`EN_to_ED_Decision_2025-005-R_CS-34-repeal.pdf` is the explanatory note, and it
+states the position directly. Of CS-34, CS-36 and CS-CO2:
+
+> "These CSs contained **neither certification specifications nor the applicable
+> environmental protection requirements**."
+
+They were issued only to carry AMC pointing at the appendices to ICAO Annex 16,
+which at the time sat outside the essential requirements. Under the first
+subparagraph of Article 9(2) of Regulation (EU) 2018/1139 those appendices are
+now "an integral part of the essential requirements", so the pointer had nothing
+left to do. The note confirms that CS-34 Amendment 4 "only refer[s] to the
+requirements in Annex I (Part 21)", and that Regulation (EU) No 748/2012 "does
+not refer to environmental protection certification specifications that should
+be used as a basis for the environmental protection certification of a product".
+
+It also says where compliance is recorded:
+
+> "The relevant records of compliance with the applicable environmental
+> protection requirements are the applicable chapters of ICAO Annex 16
+> Volumes I, II and III, and the applicable amendment level of those volumes."
+
+### A conflict this creates inside CS-E Amendment 8
+
+`AMC E 1020(1)` prescribes a type certificate data sheet note in a fixed format:
+
+> "Engine (type/model) complies with CS-34 amendment (number)."
+
+The explanatory note says the opposite of what that note would achieve:
+
+> "Current references to CS-34, CS-36 and CS-CO2 in type-certificate data sheets
+> (TCDSs) and type-certificate data sheets for noise (TCDSNs) **do not constitute
+> records of compliance** with the applicable environmental protection
+> requirements."
+
+So the accepted means in CS-E Amendment 8, issued April 2025, prescribes a TCDS
+entry that EASA declared in May 2025 is not a compliance record. Existing data
+sheets are untouched — the note says their revision "is not considered
+necessary" — but an applicant certifying now cannot follow AMC E 1020(1)
+literally and produce a valid record. The substitute is the ICAO Annex 16
+volume, chapter and amendment level.
+
+This is recorded, not acted on. Changing what `AMC E 1020` tells a reader to do
+means writing note content from a document that is not CS-E, which needs the
+Source of truth rule amended first.
 
 ### An open scope question this raises
 
