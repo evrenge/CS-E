@@ -18,11 +18,11 @@ sub-points that cannot apply are cut, and each cut is recorded.
 | Applicability decided | **145 / 145** in-scope paragraphs |
 | Before/after wording recovered | **29 / 29** changed paragraphs that apply |
 | **Notes written** | **112 / 112** |
-| Obligations extracted | **1,492** across the 112 notes |
-| Open `[VERIFY]` items | **74** |
-| Sub-points cut, each recorded | **121** |
+| Obligations extracted | **1,516** across the 112 notes |
+| Open `[VERIFY]` items | **105** in CS-E notes, **14** in external notes |
+| Sub-points cut, each recorded | **129** |
 | External notes | **5** in `vault/external/` |
-| Imported obligations | **82**, from six documents outside CS-E |
+| Imported obligations | **92**, from seven documents outside CS-E |
 | Graph | **117 notes, one connected component**, no note without an inbound link |
 
 The vault holds 112 notes rather than 128, because it keeps **one AMC note per
