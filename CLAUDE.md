@@ -520,7 +520,7 @@ fails if they are never run again.
   It proposes; the writer decides, and the decision is recorded in the note's
   `## Not applicable` section.
 - `fetch_sources.py` — downloads the four source PDFs. It cannot run in a sandbox
-  that blocks `www.easa.europa.eu`, and it does not need to: all five are
+  that blocks `www.easa.europa.eu`, and it does not need to: all four are
   committed.
 - `slide_plan.py` — the topic grouping and reading order, kept because
   `build_applicability.py` checks its coverage. The deliverable is the vault, not
@@ -572,8 +572,8 @@ Python 3.11, virtualenv at `.venv`. The sandbox image ships a broken system
 `pip --break-system-packages`.
 
 `www.easa.europa.eu` is blocked by the sandbox egress policy, so a remote session
-cannot re-fetch a source. All five are committed, so this does not affect normal
-work.
+cannot re-fetch a source. All four are committed, and so are the seven in
+`source/external/`, so this does not affect normal work.
 
 ## Git workflow
 

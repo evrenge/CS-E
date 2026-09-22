@@ -56,8 +56,8 @@ vault raises. `review/dead_ends.md` is the inventory those references come from.
 1,041 pages interleaving the Annex I (Part 21) Regulation text with its AMC and
 GM, produced by EASA eRules. It is the one document that closes every Part 21
 reference the vault raises, and it does so because it carries both kinds of
-material. Four of the five points are Regulation text, which no AMC & GM
-document contains at any amendment.
+material. Most of the points the table below lists are Regulation text, which no
+AMC & GM document contains at any amendment.
 
 | Reference | What it gives | Feeds |
 |---|---|---|

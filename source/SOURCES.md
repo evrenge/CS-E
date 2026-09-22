@@ -42,7 +42,7 @@ Related, not stored here:
 
 Verified with `pypdf` (see `scripts/verify_sources.py`):
 
-- All five have a complete embedded text layer. No OCR is needed anywhere.
+- All four have a complete embedded text layer. No OCR is needed anywhere.
 - CS-E Amdt 8 yields ~723,000 characters of text, 92 distinct `CS-E NNN`
   paragraph numbers, Subparts A–F.
 - Both Change Information PDFs parse into a clean change inventory: 20 declared
