@@ -19,6 +19,7 @@ Catches the mistakes that are invisible when writing one note at a time:
   link-paren     [[X]](y), which GitHub parses as a link to the path "y"
   ghost-link     a [[wikilink]] to a note the vault will not contain
   missing-image  an ![[embed]] whose file is absent from vault/figures/
+  orphan-image   a file in vault/figures/ that no note embeds
   terminology    the note uses "Book 1" or "Book 2", which CLAUDE.md bans
 
 The notes in vault/external/ are checked too, against their own template: they
@@ -677,6 +678,10 @@ def check_graph(problems: list[str]) -> tuple[int, int]:
 
     Links are read as undirected here: a References line pointing out of a note
     joins it to the graph just as well as one pointing in.
+
+    An image is a node too once Obsidian shows attachments. A crop that no note
+    embeds -- typically one owned by a sub-point that was later cut -- is an
+    isolated node and dead weight in vault/figures/. Delete it.
     """
     notes: dict[str, str] = {}
     for f in list(VAULT.glob("*.md")) + list(VAULT_EXT.glob("*.md")):
@@ -711,6 +716,12 @@ def check_graph(problems: list[str]) -> tuple[int, int]:
                         f"nothing else: {', '.join(sorted(island))}")
     for name in sorted(n for n in notes if not inbound[n]):
         problems.append(f"{name}.md: no other note links to it")
+    embedded = {m.group(1).split("|")[0].strip()
+                for text in notes.values()
+                for m in re.finditer(r"!\[\[([^\]]+)\]\]", text)}
+    for img in sorted(p.name for p in (VAULT / "figures").glob("*")):
+        if img not in embedded:
+            problems.append(f"orphan-image vault/figures/{img} — no note embeds it")
     return len(notes), len(components)
 
 

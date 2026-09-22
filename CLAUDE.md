@@ -395,8 +395,7 @@ file** — they go stale and then mislead. Anything a script can recompute lives
 │                            # **External notes** above
 ├── deck/                    # exports for the certification programme
 │   └── compliance_matrix.xlsx   # derived from the vault. Regenerate, never hand-edit
-├── review/                  # verification findings and the dead-end inventory
-│   ├── phase4_findings.md       # what the two verification passes found
+├── review/                  # the dead-end inventory
 │   └── dead_ends.md             # what the vault cannot answer, and why
 └── work/                    # everything derived. Regenerate, never hand-edit
     ├── text/                # one file per PDF page
@@ -409,8 +408,7 @@ file** — they go stale and then mislead. Anything a script can recompute lives
     ├── redline.json         # inserted and deleted wording per paragraph
     ├── scope_evidence.json  # scope keyword hits behind each verdict
     ├── paragraph_index.csv  # id, title, subpart, pages, figures, changed_in
-    ├── applicability.md     # turboshaft verdict + reason per paragraph
-    └── phase1_report.md
+    └── applicability.md     # turboshaft verdict + reason per paragraph
 ```
 
 Where to look instead of trusting a number written here:
@@ -564,6 +562,10 @@ A paragraph that owns a figure or table has it cropped to
 the note with `![[<id>_p<page>.png]]`. The image is EASA's own, so it cannot be
 misdescribed. Ownership is positional — see `work/spans.json` — so a figure
 sitting above a paragraph's banner belongs to the paragraph above it.
+
+A crop that no note embeds is deleted. It is usually owned by a sub-point the
+note cuts, and it would otherwise sit in the graph as an isolated node.
+`lint_vault.py` reports it as `orphan-image`.
 
 ## Environment
 
