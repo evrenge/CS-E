@@ -290,6 +290,12 @@ in scope, with the label each one takes:
 | `do not have to`, `does not need to comply` | **Relief** | AMC E 800(4)(a), CS-E 800(g)(7) |
 | `is an acceptable duration`, `may … provided` where a criterion elsewhere is waived | **Relief** | CS-E 840(a), CS-E 920(b) |
 | `is responsible for` | **Statement** | AMC E 20(6) |
+| `may be required`, of something the Agency may later demand | **Statement** | CS-E 510(b), CS-E 780(d), AMC E 790(a)(2)(5)(c) |
+
+`may be required` is the one that reads like a permission and is not. The
+`may` belongs to the Agency, not to the applicant: nothing is allowed by it, and
+nothing is owed until the Agency asks. Eleven rows across the vault carry the
+construction, and they are all **Statement**.
 
 `is responsible for` is the one that reads stronger than it is. It allocates a
 duty that some **CS** paragraph already imposes; it does not create one. Label it

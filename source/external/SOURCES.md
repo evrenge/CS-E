@@ -18,7 +18,7 @@ machinery in `source/` exists because CS-E is the deliverable, and these are not
 | `CS-Definitions_Amendment_2.pdf` | 26 | Definitions and abbreviations used in Certification Specifications, Amendment 2 | 2010/014/R |
 | `Part-21_EAR_Reg-748-2012_Nov-2025.pdf` | 1041 | Easy Access Rules for Initial Airworthiness and Environmental Protection (Regulation (EU) No 748/2012), November 2025 revision | consolidated |
 | `EN_to_ED_Decision_2025-005-R_CS-34-repeal.pdf` | 6 | Explanatory Note to ED Decision 2025/005/R — repeal of CS-34, CS-36 and CS-CO2 | 2025/005/R |
-| `CS-34_Amendment_4_repealed.pdf` | 5 | Aircraft Engine Emissions and Fuel Venting (CS-34), Amendment 4 — **repealed 27 May 2025** | 2021/011/R |
+| `CS-34_Amendment_4_repealed.pdf` | 5 | Aircraft Engine Emissions and Fuel Venting (CS-34), Amendment 4 — **repealed May 2025** (the day, 27 May, is EASA's publication listing, not the decision's own text) | 2021/011/R |
 | `AMC-20_Amendment_23.pdf` | 678 | General Acceptable Means of Compliance for Airworthiness of Products, Parts and Appliances (AMC-20), Amendment 23 | 2022/001/R |
 
 All carry `/Author = EASA` except CS-Definitions Amendment 2 (`EASA - RPS`).
@@ -107,7 +107,7 @@ does not list the requirements either, but refers to 21.A.20, which requires
 compliance with the environmental protection requirements "designated by the
 Agency in accordance with point 21.B.85".
 
-EASA repealed CS-34, CS-36 and CS-CO2 on 27 May 2025, four to five weeks after
+EASA repealed CS-34, CS-36 and CS-CO2 in May 2025, weeks after
 CS-E Amendment 8 was issued, "to prevent the future use of and reference to
 CS-34, CS-36 and CS-CO2 and any potential confusion with the applicable
 environmental protection requirements referred to in the first subparagraph of
