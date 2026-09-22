@@ -14,7 +14,7 @@ tags: [fuel-system, additives, contamination, transient-fuel-icing, filter, asse
 > inside the engine fuel system, not only those delivered by the aircraft. The
 > longest point covers transient fuel icing: where the aircraft manufacturer has
 > not completed a threat assessment, the applicant assesses it or declares that
-> no capability has been demonstrated. Three further points cover assembly error,
+> no capability has been demonstrated. Further points cover assembly error,
 > filter mounting and servicing, and protection of control settings.
 
 ## Requirement
@@ -44,14 +44,15 @@ shedding of ice within the aircraft fuel system" [AMC E 560(4)]. The ice
 originates in the **aircraft** fuel system, not the engine's, which is why the
 threat assessment belongs to the aircraft manufacturer in the first instance.
 
-The fallback in (4) is explicit and is a genuine alternative: assess the potential
-threat, **or** declare that no capability has been demonstrated. Declaring no
-capability is an accepted outcome, but it becomes an installation limitation
-under [[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]].
+The fallback in (4) is explicit and is a genuine alternative: assess the
+potential threat, **or** declare that no capability has been demonstrated
+[AMC E 560(4)]. Declaring no capability is an accepted outcome, but it becomes
+an installation limitation under [[CS-E 30|CS-E 30(a)]] and
+[[CS-E 20|CS-E 20(d)]].
 
 Point (2) widens the contaminant population beyond what the aircraft delivers.
 Wear debris from the engine's own fuel system — a fuel pump bearing is the
-example — counts as a contaminant the filtration must handle.
+example — counts as a contaminant the filtration must handle [AMC E 560(2)].
 
 Points (5) and (6) serve specifications outside CS-E 560. Point (5) is the fuel
 system instance of [[CS-E 110|CS-E 110(d)]] on incorrect assembly, and point (6)
@@ -82,12 +83,13 @@ rotorcraft installation is not fixed, no completed threat assessment exists.
 Point (4) therefore puts the applicant to a choice now. The applicant should
 assess the potential threat, or declare that no capability has been
 demonstrated and carry that as an installation limitation. Either way, the ice
-quantity and the critical fuel temperature must reach the engine installation
-manual under [[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]].
+quantity and the critical fuel temperature should be documented in the engine
+installation manual under [[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]]
+[AMC E 560(4)].
 
 [VERIFY: whether a transient fuel icing threat assessment exists for the intended
 rotorcraft installation, or whether the applicant declares that no capability has
-been demonstrated. AMC E 560(4) requires one or the other, and the choice becomes
+been demonstrated. AMC E 560(4) accepts one or the other, and the choice becomes
 an installation limitation.]
 
 **Point (9) reaches the EECS.** The likely causes of setting change it names —

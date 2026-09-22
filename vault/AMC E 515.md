@@ -10,14 +10,13 @@ tags: [critical-parts, approved-life, damage-tolerance, lcf, probabilistic, dete
 # AMC E 515 — Engine Critical Parts
 
 > [!summary]
-> The longest AMC in Subpart D. It defines what an Engine Critical Part and its
-> Attributes are, then gives the means for each of the three plans. Most of its
-> length is the Engineering Plan: how to build the Engine Flight Cycle, the
-> thermal, stress and life analyses, and the Damage Tolerance Assessment by
-> either a probabilistic or a deterministic route. Static pressure loaded parts
-> are lifed differently from rotating parts. Two provisions are written for
-> rotorcraft: the 30-minute Power rating in the flight cycle, and accounting for
-> cycles used at the OEI ratings.
+> This AMC defines an Engine Critical Part and its Attributes, then gives the
+> means for each of the three plans. Most of its length is the Engineering Plan:
+> the Engine Flight Cycle, the thermal, stress and life analyses, and the Damage
+> Tolerance Assessment by a probabilistic or a deterministic route. Static
+> pressure loaded parts are lifed differently from rotating parts. Two provisions
+> are written for rotorcraft engines: the 30-minute Power rating in the flight
+> cycle, and the accounting of cycles used at the OEI ratings.
 
 ## Requirement
 
@@ -82,21 +81,24 @@ feedback all feed the Approved Life certification:
 | **(3)(d)(v)(3)** | Include two elements in the damage tolerance assessment: establishment of a minimum level of damage tolerance capability for each critical component, by a probabilistic or a deterministic approach addressing the anomaly types; and establishment of a service damage monitoring process. | Accepted method |
 | **(3)(d)(v)(4)(a)** | In the probabilistic approach, treat anomalies as sharp propagating cracks from the first stress cycle unless there is sufficient data to indicate otherwise, and establish anomaly size and frequency distributions. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Determine by crack growth analysis the number of cycles for a given anomaly to grow to a critical size, based on part stress, temperature, geometry, stress gradient, anomaly size and orientation, and material properties, and validate the approach against relevant test data. | Accepted method |
-| **(3)(d)(v)(4)(a)** | Identify the intervals for each specified in-service inspection; incorporate the manufacturing inspections assumed into the Manufacturing Plan, and integrate the assumed in-service inspection procedures and intervals into the Service Management Plan and the Airworthiness Limitations Section. | Accepted method |
+| **(3)(d)(v)(4)(a)** | Identify the intervals for each specified in-service inspection; incorporate the manufacturing inspections assumed into the Manufacturing Plan, and integrate the assumed in-service inspection procedures and intervals into the Service Management Plan and, as appropriate, the Airworthiness Limitations Section. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Base the Probability of Detection of each inspection process on a statistical review of sufficient quantities of relevant testing or experience, judging relevance by anomaly character, part surface condition and cleanliness, the material, variations in inspection materials or equipment, specific process parameters, and the inspector. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Integrate these elements in a probabilistic risk assessment predicting the relative probability of Failure for each part, and compare it to the allowable design target risk (DTR) values. | Accepted method |
 | **(3)(d)(v)(4)(a)** | The allowable DTR values may be found in published FAA ACs addressing specific materials and/or anomaly types, for example FAA AC 33.70-2. | Permitted |
 | **(3)(d)(v)(4)(a)** | Designs that satisfy the allowable values will be considered to be in compliance with the appropriate damage tolerance assessment required by CS-E 515(a). | Statement |
 | **(3)(d)(v)(4)(a)** | Where a published industry or company-specific probabilistic approach is pursued, provide and agree with the Agency the data that has an impact on the resulting risk levels, and agree the process itself with the Agency. | Accepted method |
 | **(3)(d)(v)(4)(a)** | Demonstrate that adequate processes are in place to validate the assumptions used in the analysis, and validate them throughout the life of the certified product. | Accepted method |
-| **(3)(d)(v)(4)(a)** | Repeat the risk assessment on any departure from the original assumptions and communicate the results to the Agency. | Accepted method |
+| **(3)(d)(v)(4)(a)** | Any departure from the original assumptions will require the applicant to repeat the risk assessment and communicate the results to the Agency. | Statement |
 | **(3)(d)(v)(4)(a)** | If the revised risk assessment shows the safety objectives of CS-E 510(a)(3) can no longer be met, implement corrective action in accordance with point 21.A.3 of Part 21. | Required |
 | **(3)(d)(v)(4)(a)** | Where industry standards on anomaly size and frequency distributions or analysis techniques are not available, base compliance on considerations such as the design margins applied, application of damage tolerance design concepts, historical experience, crack-growth rate comparisons to successful experience, and fatigue testing of simulated damage. | Accepted method |
 | **(3)(d)(v)(4)(b)** | Where the input data needed for the probabilistic approach is not available for manufacturing- and service-induced anomalies, the deterministic approach may be used: provide an analysis demonstrating that the surface fracture mechanics life for all Critical Parts exceeds 3 000 representative flight cycles, or 50 % of the Approved Life of the part, whichever is less. | Permitted |
 | **(3)(d)(v)(4)(b)** | Base that analysis on Linear Elastic Fracture Mechanics, with an initial anomaly size of 0.762 mm × 0.381 mm (0.030 inches × 0.015 inches) for an assumed semi-circular surface anomaly, or 0.381 mm × 0.381 mm (0.015 inches × 0.015 inches) for an assumed quarter-circular corner anomaly, stating any additional assumptions, and treating anomalies as sharp propagating cracks from the first stress cycle placed in the most unfavourable orientation and location. | Accepted method |
+| **(3)(d)(v)(5)** | Service damage monitoring reviews field data from the engine type design to determine whether anomalous conditions require corrective action. Appropriate action may include assessing the impact of damage observed on one part or location on other parts or locations. | Statement |
+| **(3)(d)(v)(5)** | Determine whether detected damage is consistent with the serviceable and repairable limits, and whether additional actions are required to prevent Failure and rectify any potential unsafe condition. | Accepted method |
 | **(3)(d)(v)(5)(a)** | Determine the serviceable and repairable damage limits using a process approved by the Agency and summarised within the Service Management Plan. Damage size limits should be a function of part, part location and damage type, and damage should include but may not be limited to nicks, dents, scratches and cracks. | Accepted method |
 | **(3)(d)(v)(5)(a)** | The serviceable and repairable limits must be published in the Instructions for Continued Airworthiness. | Required |
-| **(3)(d)(v)(5)(b)** | Establish a monitoring process to record damage that is inconsistent with or exceeds the repairable limits and is made available to the type certificate holder through an appropriate reporting system; document the process in the Service Management Plan, recording at minimum the damage size, type and location observed during service inspections for each Critical Part. | Accepted method |
+| **(3)(d)(v)(5)(b)** | Establish a monitoring process to record damage that is inconsistent with or exceeds the repairable limits and is made available to the type certificate holder or supplemental type certificate holder through an appropriate reporting system; document the process in the Service Management Plan, recording at minimum the damage size, type and location observed during service inspections for each Critical Part. | Accepted method |
+| **(3)(d)(v)(5)(b)** | Consider, as appropriate, the effectiveness of existing reporting systems as new product types or operations are introduced. | Accepted method |
 | **(3)(d)(v)(5)(c)** | Assess such damage considering its impact on the life of the damaged part, the likelihood of recurrence, whether the damage has been determined as having flown, whether it is likely to be undetected before the part is released to service, and the recommended corrective actions to identify, prevent or eliminate the source. | Accepted method |
 | **(3)(d)(v)(5)** | Make a summary of the damage information obtained by the service damage monitoring process, and the corrective actions implemented, available to the Agency during the service life of the part. | Accepted method |
 
@@ -138,9 +140,10 @@ inspections, and life limit reduction.
 | **(3)(e)(ii)** | Test the part at the temperature associated with the most critical stress case, or alternatively increase the test pressure differential to simulate the loss of relevant properties due to temperature. | Accepted method |
 | **(3)(e)(ii)** | Justify any fatigue scatter factors used, and mount and restrain any critical section during pressure testing so as to simulate the actual conditions occurring on the engine. | Accepted method |
 | **(3)(e)(iii)** | An analytical modelling method may be used to determine the adequate fatigue life, provided the modelling method is validated by testing or successful field experience with parts of similar design. | Permitted |
-| **(3)(f)** | Where the safety analysis identifies Engine Critical Parts other than rotating or static pressure loaded parts, agree a methodology for determining the Approved Life with the Agency, using the general principles for rotating and static pressure loaded parts as a guideline. | Accepted method |
+| **(3)(f)** | Where the safety analysis identifies Engine Critical Parts other than rotating or static pressure loaded parts, a methodology for determining the Approved Life will need to be agreed with the Agency, using the general principles for rotating and static pressure loaded parts as a guideline. | Statement |
 | **(3)(g)** | Use service feedback to confirm that the assumptions made in the Engineering Plan remain valid, or modify them if required. | Accepted method |
 | **(3)(g)** | Describe in the Engineering Plan not only the basis of the Approved Life but also the post-certification actions necessary to ensure the Approved Life remains appropriate throughout the operational life of the engine, detailing when reviews should occur and what information they require. | Accepted method |
+| **(3)(g)** | A regular review of the assumptions made when establishing the Approved Life may be required, depending on how conservative those assumptions are. | Statement |
 | **(3)(h)** | Address influencing parts, and particularly changes to them, in the Engineering Plan. Examples include a turbine blade, a mating part, and a static part that affects the environment around the Engine Critical Part. | Accepted method |
 
 The review aspects listed in (3)(g) are the frequency of Approved Life reviews,
@@ -153,6 +156,13 @@ weight, centre of gravity or root coating; a mating part made of a material with
 a different coefficient of thermal expansion; and a static part whose geometry or
 material change modifies the thermal or mechanical response.
 
+[VERIFY: two rows carry `Statement` because their verb is `will`: "Any departure
+from the original assumptions will require the applicant to repeat the risk
+assessment" [AMC E 515(3)(d)(v)(4)(a)], and "a methodology for determining the
+Approved Life will need to be agreed with the Authority" [AMC E 515(3)(f)]. Both
+read as duties on the applicant, and the vault's strength rules do not
+classify either phrasing.]
+
 ### AMC E 515(4) to (5) — Manufacturing Plan and Service Management Plan
 
 | Ref | Obligation | Strength |
@@ -163,7 +173,8 @@ material change modifies the thermal or mechanical response.
 | **(4)(b)** | Such parameters may include material controls, including any zoned areas for special properties; manufacturing method specifications; manufacturing method order of application; inspection method and sensitivity; and any special part rough machining or finishing methods, especially those intended to improve fatigue capability or minimise induced anomalies. | Statement |
 | **(4)(c)** | Review and verify the Manufacturing Plan by these key skills: Engineering (Design and Lifing), Material Engineering, Non-Destructive Inspection, Quality Assurance, and Manufacturing Engineering (Development and Production). | Accepted method |
 | **(4)(c)** | Have that same skill mix evaluate and approve process validation and the procedures for manufacturing change control and non-conformance disposition. | Accepted method |
-| **(4)(c)** | Develop and apply manufacturing processes with the appropriate level of oversight, agree substantiation programmes up-front and execute them as part of the process validation, make changes visible and subject to crossfunctional review and approval, and review any suspected non-conformance with the appropriate skill mix before disposition. | Accepted method |
+| **(4)(c)** | The intent is that manufacturing processes are developed and applied with the appropriate level of oversight, so that the part life capability assumed in the Engineering Plan is consistently achieved, and that substantiation programmes are agreed up-front and executed as part of the process validation. | Statement |
+| **(4)(c)** | The intent is that changes to manufacturing processes and practices are visible and are not made without crossfunctional review and approval, and that a suspected non-conformance event is reviewed with the appropriate skill mix prior to disposition. | Statement |
 | **(4)(c)** | The level of detail in the Plan may vary depending on the specific process step being considered, the sensitivity of the particular process step, and the level of control required to achieve the required life capability. | Statement |
 | **(5)(a)** | The Service Management Plan is intended to maintain the integrity of Engine Critical Parts throughout their service life, and conveys the processes for in-service repair and maintenance to remain consistent with the assumptions made in the Engineering Plan. | Statement |
 | **(5)(a)** | Therefore it is essential to ensure that those assumptions remain valid. | Statement |
@@ -232,19 +243,21 @@ Engines, the representative usage of the 30-minute Power rating should be
 considered in the Engine Flight Cycle when establishing the Approved Life of each
 Engine critical part" [AMC E 515(3)(d)(i)]. `engine_profile.md` declares Rated
 30-Minute Power under [[CS-E 40|CS-E 40(b)(4)]], so this applies directly. The
-consequence is on the damage accumulated per cycle. A 30-minute segment at that
-rating is a substantial hold time at high temperature. The hold time assumption
-has to correspond to the limiting installation variables.
+consequence is on the damage accumulated per cycle. The assumed hold times at
+each flight segment should correspond to the assumed limiting installation
+variables [AMC E 515(3)(d)(i)].
 
 **OEI cycle accounting.** "For engines with OEI ratings, the airworthiness
 limitations section should include a method for accounting for the number of
 cycles used in operation at the OEI ratings" [AMC E 515(6)(b)]. This engine
-declares 30-Second OEI, 2-Minute OEI and Continuous OEI. The two accepted methods
-are a finite cycle addition to the expended life of the affected parts, or life
-reduction factors per OEI power excursion. The input is the usage record itself.
-[[CS-E 60|CS-E 60(d)(2)]] requires it to be automatically recorded and
-retrievable, so the OEI recording system and the Approved Life accounting are
-parts of one chain.
+declares 30-Second OEI, 2-Minute OEI and Continuous OEI. Two methods are
+permitted: a finite number of cycles added to the expended life of the affected
+parts, or life reduction factors for each OEI power excursion [AMC E 515(6)(b)].
+The input is the usage record itself. For the 30-Second and 2-Minute OEI levels,
+[[CS-E 60|CS-E 60(d)(2)]] requires means, or provision for means, to record each
+usage and duration automatically and to permit retrieval of the recorded data.
+The OEI recording system and the Approved Life accounting are therefore parts of
+one chain.
 
 **The list of flight segments needs interpretation.** The segments named in
 (3)(d)(i) include "reverse", which does not arise on a turboshaft. The list is
@@ -263,9 +276,9 @@ Life-Limited Turbine Engine Rotors, are cited as examples of the probabilistic
 approach and as a source of allowable design target risk values. Neither is held
 in `source/`, so the allowable values cannot be stated here.]
 
-**What point 21.A.3 requires.** Part 21 is now held, and the point CS-E names
-is split in the current text: 21.A.3A is the reporting system and 21.A.3B is
-airworthiness directives. Both bear on the corrective action of
+**What point 21.A.3 requires.** Part 21 is held in `source/external/`, and the
+point CS-E names is split in the current text: 21.A.3A is the reporting system
+and 21.A.3B is airworthiness directives. Both bear on the corrective action of
 AMC E 515(3)(d)(v)(4)(a).
 
 Point 21.A.3A(a)1 requires the type certificate holder to establish and maintain
@@ -275,9 +288,10 @@ adverse effects on the continuing airworthiness" of the product
 [ext 21.A.3A(a)1]. Point 21.A.3A(d) then sets a clock: a report is dispatched as
 soon as practicable "and in any case not later than 72 hours after the natural or
 legal person has identified that the occurrence may lead to a possible unsafe
-condition, unless exceptional circumstances prevent this" [ext 21.A.3A(d)]. A
-revised risk assessment that can no longer meet the [[CS-E 510|CS-E 510(a)(3)]]
-objectives is such an identification.
+condition, unless exceptional circumstances prevent this" [ext 21.A.3A(d)].
+[VERIFY: neither document states whether a revised risk assessment that can no
+longer meet the [[CS-E 510|CS-E 510(a)(3)]] objectives counts as such an
+identification, and so starts the 72-hour clock.]
 
 Point 21.A.3B(b) is the Agency's trigger: it issues an airworthiness directive
 where an unsafe condition has been determined to exist as a result of a

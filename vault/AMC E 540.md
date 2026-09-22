@@ -11,11 +11,11 @@ tags: [foreign-matter, bird-strike, ingestion, struts, 200-knots]
 > [!summary]
 > This AMC bounds the work CS-E 540 requires. Loose objects such as tools and
 > fasteners need substantiation only where they are more severe than the single
-> large bird case. The large bird test results must be assessed against CS-E 510,
-> including damage to lines and wiring housed in structural struts. Bird strike
-> above 200 knots must be considered when verifying the Extremely Remote
-> criterion. For multi-engine threats, the related test paragraphs are intended
-> to be sufficient.
+> large bird case. The large bird test results should be assessed against CS-E
+> 510, including damage to lines and wiring housed in structural struts. Bird
+> strike above 200 knots should be considered when verifying the Extremely
+> Remote criterion. For multi-engine threats, the related test paragraphs are
+> intended to be sufficient.
 
 ## Requirement
 
@@ -26,7 +26,8 @@ tags: [foreign-matter, bird-strike, ingestion, struts, 200-knots]
 | **(1)** | Consider the potential for bird induced damage to ducts, lines or wires housed in main frame struts or strut fairings — fuel, oil, hydraulic, high-pressure bleed air lines, or wiring associated with the engine control system — with regard to the objective of CS-E 540. | Accepted method |
 | **(1)** | In order to verify the Extremely Remote criteria for Hazardous Engine Effects in case of bird strikes as required in CS-E 540(a), give consideration to the possibility of aircraft operation at speeds higher than 200 knots, associated with the corresponding probability of occurrence of encountering a single bird under such conditions. | Accepted method |
 | **(2)** | CS-E 540(b) is intended to address, for example, rain, hail, ice, gravel, sand, small and medium birds. | Statement |
-| **(2)** | For some threats, interpret the specifications of CS-E 540(b) in relation to other CS-E specifications, such as CS-E 800 for birds or CS-E 790 for rain and hail, which may quantify the safety objectives of CS-E 540(b). Those related paragraphs are intended to be sufficient for demonstrating compliance with CS-E 540(b) for the considered subject. | Statement |
+| **(2)** | For some threats, interpret the specifications of CS-E 540(b) in relation to other CS-E specifications, such as CS-E 800 for birds or CS-E 790 for rain and hail, which may quantify the safety objectives of CS-E 540(b). | Accepted method |
+| **(2)** | Those related paragraphs are therefore intended to be sufficient for demonstrating compliance with CS-E 540(b) for the considered subject. | Statement |
 | **(2)** | Assess any unusual finding made during those demonstrations of compliance against the safety objective of CS-E 540(b), continued safe flight and landing. | Accepted method |
 
 The relief in (1) is a real reduction in work. Loose-object substantiation is
@@ -34,14 +35,16 @@ conditional: it is needed only where the object is likely to be more severe than
 the single large bird case already demonstrated under [[CS-E 800]].
 
 The 200-knot consideration is the one place where the AMC adds work beyond the
-test paragraphs. [[CS-E 800]] fixes an aeroplane test speed of 200 knots. This
+test paragraphs [AMC E 540(1)]. [[CS-E 800]] fixes an aeroplane test speed of
+200 knots. This
 AMC asks the applicant to consider operation above that speed when verifying
 the Extremely Remote criterion, together with the probability of encountering a
 single bird there.
 
 Paragraph (2) is what keeps CS-E 540 from becoming a duplicate test programme.
-The related paragraphs are sufficient for their own subject; CS-E 540(b) reasserts
-itself only where a demonstration produces an unusual finding.
+The related paragraphs are intended to be sufficient for their own subject. For
+a subject they cover, CS-E 540(b) reasserts itself only where a demonstration
+produces an unusual finding [AMC E 540(2)].
 
 ## Compliance
 

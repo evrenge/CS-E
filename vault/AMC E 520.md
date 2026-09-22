@@ -13,10 +13,11 @@ covers: ["AMC E 520(a)", "AMC E 520(c)(1)", "AMC E 520(c)(2)", "AMC E 520(d)"]
 > Four AMC paragraphs serve CS-E 520. AMC E 520(a) recommends a fatigue strength
 > ordering for the blade and disc so that an unpredicted high cycle fatigue
 > failure occurs at the least damaging location. AMC E 520(c)(1) covers blade
-> containment, including the observation that failed blades do not leave in the
+> containment, including the observation that failed blades may not leave in the
 > plane of rotation. AMC E 520(c)(2) is the longest: what the validated engine
-> model must contain and how it is correlated against the CS-E 810 blade loss
-> test. AMC E 520(d) covers casings designed to tolerate residual crack growth.
+> model typically contains and how it is correlated against the CS-E 810 blade
+> loss test. AMC E 520(d) covers casings designed to tolerate residual crack
+> growth.
 
 ## Requirement
 
@@ -26,11 +27,11 @@ covers: ["AMC E 520(a)", "AMC E 520(c)(1)", "AMC E 520(c)(2)", "AMC E 520(d)"]
 |---|---|---|
 | **(a)** | In order to minimise the adverse consequences of Failures due to unpredicted high cycle fatigue, it is recommended that the relative fatigue strengths of the blade and disc are normally graded in ascending order: blade form, blade root, disc blade attachment, disc rim. | Accepted method |
 
-The ordering puts the weakest link furthest from the disc. An unpredicted high
-cycle fatigue Failure would then occur in the blade form, not in the disc rim.
-[[CS-E 520|CS-E 520(c)(1)]] requires the blade form to be radially contained.
-Disc rim Failure is instead treated as uncontained high-energy debris under
-[[AMC E 510|AMC E 510(3)(d)(iii)]].
+The ordering puts the weakest link furthest from the disc [AMC E 520(a)]. An
+unpredicted high cycle fatigue Failure would then occur in the blade form, not in
+the disc rim. [[CS-E 520|CS-E 520(c)(1)]] requires debris from blade shedding to
+be radially contained. Disc Failure is instead treated as uncontained
+high-energy debris under [[AMC E 510|AMC E 510(3)(d)(iii)]].
 
 ### AMC E 520(c)(1) — shedding of blades
 
@@ -45,15 +46,17 @@ on the aircraft structure of failed blades have been experienced at angles up to
 ± 30° from the point of intersection of the Engine centre line and the plane of
 rotation" [AMC E 520(c)(1)(2)].
 
-The AMC names two cases where this matters most. The first is where the final
+The AMC names two cases where this matters most [AMC E 520(c)(1)(2)]. The
+first is where the final
 containment provisions are external to the engine casing and lie some distance
 from it. The second is where the casing containment capability is reduced
 adjacent to the plane of rotation — by cut-outs for adjacent stator roots, bleed
 ports and similar.
 
-The relief has a price attached. Containment fore and aft is not required, but
-only if the assured containment angles are given to the aircraft constructor. The
-obligation converts from a design duty into an installation-information duty.
+The relief is conditional. Containment in the direction of the intake and
+exhaust is not required, but only if the limits of the assured containment
+angles are made available to the aircraft constructor [AMC E 520(c)(1)(2)]. The
+design duty becomes an installation-information duty.
 
 ### AMC E 520(c)(2) — engine model validation
 
@@ -76,12 +79,12 @@ obligation converts from a design duty into an installation-information duty.
 Two items in (c)(2)(2) are easy to conflate. The first applies only where the
 rotor support structure is *designed* to fail during blade loss. The second
 applies to every engine. The most severe blade Failure that does **not** fail
-the rotor support must also be evaluated, because it can produce a longer period
-of out-of-balance running.
+the rotor support should also be evaluated, including its effect on the engine
+and on the loads transmitted to the aircraft [AMC E 520(c)(2)(2)].
 
 The mutual agreement in (c)(2)(7) makes the model a joint artefact. It is not
 delivered to the installer as a finished product; its definition is agreed
-between engine and aircraft manufacturer.
+between engine and aircraft manufacturer [AMC E 520(c)(2)(7)].
 
 ### AMC E 520(d) — local Failures
 
@@ -91,11 +94,12 @@ between engine and aircraft manufacturer.
 | **(d)(a)** | For any casing design that allows for residual crack growth, demonstrate that the condition of the casing, including the maximum predicted crack size, will not lead to a Hazardous Engine Effect. | Accepted method |
 | **(d)(b)** | If the Failure of the casing, for instance as the result of ultimate crack growth, could result in a Hazardous Engine Effect, classify the part as a Critical Part in accordance with CS-E 510(a)(2) and comply with the Integrity Specifications of CS-E 515. | Accepted method |
 
-Sub-point (d)(b) is a classification trigger, not merely advice. A casing whose
-ultimate crack growth could cause a Hazardous Engine Effect enters the Engine
-Critical Part regime, which brings the three plans of [[CS-E 515]] with it. The
-static pressure loaded part lifing method of
-[[AMC E 515|AMC E 515(3)(e)]] is written for exactly this case.
+Sub-point (d)(b) is a classification trigger. A casing whose ultimate crack
+growth could cause a Hazardous Engine Effect should be classified as a Critical
+Part [AMC E 520(d)(b)], and that brings the three plans of [[CS-E 515]] with it.
+The static pressure loaded part lifing method of [[AMC E 515|AMC E 515(3)(e)]]
+allows a portion of the residual crack growth life, and is the corresponding
+means for such a casing.
 
 ## Compliance
 
@@ -116,17 +120,16 @@ static pressure loaded part lifing method of
 All four AMC paragraphs apply. None is restricted by rating or control system.
 
 **Containment angles are an installation deliverable.** The ± 30° service
-experience figure in (c)(1)(2) and the relief for fore and aft containment both
-resolve into information the rotorcraft manufacturer needs. For a rotorcraft
-installation the engine sits close to the airframe and to the transmission, so
-the assured containment angles carry real weight in the installation assessment
-under [[CS-E 30]].
+experience figure in (c)(1)(2) and the relief for containment towards the intake
+and exhaust both resolve into information the rotorcraft manufacturer needs
+[AMC E 520(c)(1)(2)]. The installation assumptions themselves are recorded under
+[[CS-E 30]].
 
-**The engine model is shared work.** (c)(2)(7) requires mutual agreement on the
-model definition between the aircraft and engine manufacturers, and (c)(2)(3)
-requires installation configuration assumptions to be documented in the manuals
-of [[CS-E 20|CS-E 20(d)]]. Because the rotorcraft installation target is not
-fixed, those assumptions should be treated as open.
+**The engine model is shared work.** Under (c)(2)(7) the aircraft and engine
+manufacturers should mutually agree the model definition, and under (c)(2)(3)
+the installation configuration assumptions should be documented in the manuals
+of [[CS-E 20|CS-E 20(d)]] [AMC E 520(c)(2)]. Because the rotorcraft installation
+target is not fixed, those assumptions should be treated as open.
 
 **Aerodynamic effects listed in (c)(2)(1) include "thrust loss and engine
 surge".** For a turboshaft the thrust term reads as shaft power loss; surge
@@ -158,11 +161,11 @@ speed(s) of the Engine's main rotating system(s) after failure". Amendment 7
 appended one further item: "dynamic displacement of interface features between
 Engine and aircraft" [AMC E 520(c)(2)(1)].
 
-Amendment 7 also inserted into (c)(2)(2) the sentence requiring evaluation of
-"the most severe blade Failure which would not cause the Failure of the rotor
-structural support", with the effect on the engine and on the loads transmitted
-to the aircraft. Before the amendment, (c)(2)(2) addressed only engines that fail
-the rotor support structure by design.
+Amendment 7 also inserted into (c)(2)(2) the sentence on evaluating "the most
+severe blade Failure which would not cause the Failure of the rotor structural
+support", with the effect on the engine and on the loads transmitted to the
+aircraft. Before the amendment, (c)(2)(2) addressed only engines that fail the
+rotor support structure by design.
 
 Amendment 7 further inserted into (c)(2)(3), after the list of differences to be
 accounted for between test and installation, ", and any other differences between

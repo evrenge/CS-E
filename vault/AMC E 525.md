@@ -12,8 +12,9 @@ tags: [continued-rotation, windmilling, clutch-drag, rotorcraft, oil-loss, unbal
 > One short AMC serves CS-E 525, and it names the rotorcraft case directly.
 > Continued rotation comes from windmilling or from mechanical effects such as
 > clutch drag in a multi-engine rotorcraft. Compliance may be by test or
-> analysis. Two conditions must be addressed if applicable: complete loss of
-> engine oil, and rotor unbalance from blade loss with subsequent rotor damage.
+> analysis. Two conditions should be considered and addressed if applicable:
+> complete loss of engine oil, and rotor unbalance from blade loss with
+> subsequent rotor damage.
 > The resulting interface conditions go to the installer.
 
 ## Requirement
@@ -52,19 +53,20 @@ The AMC applies, and paragraph (1) is written for this installation. Clutch drag
 "in the case of a multi-engined rotorcraft" is named as a mechanism alongside
 windmilling [AMC E 525(1)], so continued rotation here is not only aerodynamic.
 The source does not identify the component. It says "mechanical effects such as
-clutch drag" [AMC E 525(1)], and CS-E 525 requires "means to prevent that
+clutch drag" [AMC E 525(1)], and CS-E 525 refers to "means to prevent that
 continued rotation" without naming them.
 
-Paragraph (2) asks for consideration of all expected aircraft applications. For
-this engine, the declared application is a rotorcraft. That bounds the exercise:
-the flight envelope with one engine shut down is the OEI envelope, flown on the
-remaining engine at the ratings declared in `engine_profile.md`.
+Paragraph (2) asks for consideration of all expected aircraft applications
+[AMC E 525(2)]. For this engine, the declared application is a rotorcraft. That
+bounds the exercise: the flight envelope with one engine shut down is the OEI
+envelope, flown on the remaining engine at the ratings declared in
+`engine_profile.md`.
 
 Complete loss of engine oil under (3) is the condition that makes
 [[AMC E 130|AMC E 130(2)(c)]] treat turbine oil system components differently
-from fuel components. Oil may keep flowing after shutdown precisely because of
-continued rotation, which is why those components are usually evaluated to a
-Fireproof rather than a Fire Resistant standard. It also connects to
+from fuel components. Oil may keep flowing after shutdown because of continued
+rotation, and historically most oil system components have been evaluated to a
+Fireproof standard [AMC E 130(2)(c)]. It also connects to
 [[CS-E 570|CS-E 570(e)(1)]], where the oil shut-off means must prevent the
 discharge of hazardous quantities of oil.
 

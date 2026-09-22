@@ -10,10 +10,11 @@ covers: ["AMC E 600(e)"]
 # AMC E 600 — Test - General
 
 > [!summary]
-> One sentence serves CS-E 600, and it addresses the rotorcraft attitude clause.
-> Where the engine attitude during the tests differs from the attitude in the
-> intended rotorcraft installations, the applicant must justify the difference.
-> The AMC does not forbid the difference; it requires the reason to be stated.
+> One sentence serves CS-E 600, and it addresses the rotorcraft attitude clause
+> of CS-E 600(e). Where the engine attitude during the tests differs from the
+> attitude in the intended rotorcraft installations, the applicant should justify
+> the difference. The AMC does not forbid the difference. It expects the reason
+> to be stated for each intended installation.
 
 ## Requirement
 
@@ -25,14 +26,14 @@ covers: ["AMC E 600(e)"]
 
 AMC E 600(e) is a single sentence and the only AMC material under CS-E 600.
 
-The obligation reads "any difference", without a threshold. Two things follow.
+The text reads "any difference", without a threshold. Two things follow.
 The intended installation attitude has to be known before the justification can
 exist, and the word "installations" is plural, so more than one intended
 installation means more than one comparison.
 
-This is the accepted means for the word "normally" in
-[[CS-E 600|CS-E 600(e)]]. The specification requires tests to be made normally in
-the installed attitude; the AMC says what to do when they are not.
+This is the accepted means for the word "normally" in [[CS-E 600|CS-E 600(e)]].
+The specification requires tests to be made normally in the installed attitude;
+the AMC says what to do when they are not [AMC E 600(e)].
 
 ## Compliance
 
@@ -51,7 +52,7 @@ under [[CS-E 20|CS-E 20(d)]]. Since the rotorcraft installation is not fixed, th
 comparison cannot be closed yet.
 
 [VERIFY: the intended rotorcraft installation attitude, or attitudes, are not
-recorded in `engine_profile.md`. AMC E 600(e) requires a justification for every
+recorded in `engine_profile.md`. AMC E 600(e) expects a justification for every
 difference from the test attitude, and the plural "installations" means each
 intended installation is compared.]
 

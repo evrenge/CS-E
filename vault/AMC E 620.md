@@ -57,7 +57,6 @@ accuracy rule 6 applies.
 | **P** | Pressure | hPa |
 | **T** | Temperature | K |
 | **N** | Rotational speed | rpm |
-| **F** | Thrust | kN |
 | **W** | Mass air flow | kg/s |
 | **w** | Fuel flow | kg/h |
 | **P** | Power | kW |
@@ -78,23 +77,25 @@ source, and the meaning is fixed by which formula the symbol appears in.
 The AMC applies. The formulae are not engine-type specific.
 
 **The power correction is the one that governs here.** A turboshaft is rated in
-power, so the power formula on page 117 is the operative one and the thrust
-formula does not apply. Both are given in the source and both are shown above.
-The thrust formula corrects on pressure alone. The power formula corrects on
-pressure and on the square root of the temperature ratio. The distinction is
-the reason the two cannot be substituted for one another.
+power, so the power formula is the operative one and the thrust formula does not
+apply [AMC E 620(1)]. Both are given in the source and both are shown above. The
+two formulae differ, so one cannot be substituted for the other.
 
 **The control system qualifier matters for a FADEC engine.** Paragraph (1)
 requires the formulae to be applied "taking into account the characteristics of
-the Engine Control System" [AMC E 620(1)]. A full-authority EECS schedules the
-engine against corrected parameters itself, so the range over which these simple
-corrections hold has to be established rather than assumed. Where they do not
-hold, the AMC's own escape applies: more accurate or additional corrections,
-agreed with the Agency.
+the Engine Control System" [AMC E 620(1)]. For this full-authority EECS, the
+range over which these corrections hold has to be established rather than
+assumed. Where they do not hold, the AMC's own alternative applies: more
+accurate or additional corrections, agreed with the Agency.
 
 The corrections feed the calibration test of [[CS-E 730]] and the declared
-ratings of [[CS-E 40]]. The instrument accuracy that bounds them is required
-by [[CS-E 60|CS-E 60(b)]] and [[CS-E 150|CS-E 150(f)]].
+ratings of [[CS-E 40]]. The test bed and measuring equipment that produce the
+observed values must be appropriately calibrated under
+[[CS-E 150|CS-E 150(f)]].
+
+## Not applicable
+
+- **(1)**, in part — the thrust correction formula, and **(2)**, in part — the symbol F for thrust. This engine is rated in shaft power. The thrust formula shares its image with the mass air flow formula, which applies, so the image is kept whole.
 
 ## References
 

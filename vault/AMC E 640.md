@@ -26,16 +26,17 @@ tags: [pressure-loads, definitions, working-pressure, oei, zoning, analytical-mo
 | **(1)** | Relate the following definitions to the engine when installed in a typical installation. | Accepted method |
 | **(1)** | Normal Working Pressure: the maximum pressure differential likely to occur on most flights, including any pressure fluctuations as a result of the normal operation of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
 | **(1)** | Maximum Working Pressure: the maximum pressure differential which could occur under the most adverse operational conditions likely to be encountered in service — for example forward speed, altitude, ambient temperature, engine speed, use of OEI ratings — including any pressure fluctuations from the normal operation of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
-| **(1)** | Maximum Possible Pressure: the maximum pressure differential which could occur under the most adverse combination of operational conditions — for example forward speed, altitude, ambient temperature, engine speed, use of OEI ratings — likely to be experienced in service, together with Failure of any relevant parts of the engine or control system, or combinations of Failures which are more likely than Extremely Remote. Give consideration to any pressure fluctuations as a result of normal or emergency use of valves, cocks and similar, where these could produce significant surge pressures. | Statement |
+| **(1)** | Maximum Possible Pressure: the maximum pressure differential which could occur under the most adverse combination of operational conditions — for example forward speed, altitude, ambient temperature, engine speed, use of OEI ratings — likely to be experienced in service, together with Failure of any relevant parts of the engine or control system, or combinations of Failures which are more likely than Extremely Remote. | Statement |
+| **(1)** | For the maximum possible pressure, give consideration to any pressure fluctuations as a result of normal or emergency use of valves, cocks and similar, where these could produce significant surge pressures. | Accepted method |
 | **(1)** | Static Parts subject to significant gas or liquid pressure loads: the components subject to high-pressure loads, or whose design is influenced by the gas or liquid pressure loads to be contained. | Statement |
 | **(1)** | Give special attention to any filler cap. | Accepted method |
 
 The three pressures differ on two axes, and both matter. **Normal** is what most
 flights see; **maximum working** is the most adverse operational conditions in
 service; **maximum possible** adds Failures of the engine or control system that
-are more likely than Extremely Remote. Only the third crosses from operation into
-Failure, which is why it feeds the fracture and burst level of
-[[CS-E 640|CS-E 640(a)(2)]] and not the distortion level.
+are more likely than Extremely Remote [AMC E 640(1)]. Only the third crosses
+from operation into Failure, and it enters only the fracture and burst level of
+[[CS-E 640|CS-E 640(a)(2)]], not the distortion level.
 
 The definitions are explicitly installation-relative: they "should be related to
 the Engine when installed in a typical installation" [AMC E 640(1)]. The
@@ -59,12 +60,12 @@ include", so it does not bound the population.
 | **(3)** | During pressure testing, make the methods of mounting and restraint by the test facility or test equipment of any critical section such as to simulate the actual conditions occurring on the engine. | Accepted method |
 | **(4)** | An analytical modelling method may be used to determine adequate strength and fatigue life, provided that the model is validated by testing or successful field experience with parts of similar design. | Permitted |
 
-The zoning permission in (2) is a practical relief for long parts. It carries
-its own condition: the maximum pressure for each zone must still include the
-CS-E 640(a) factors. Zoning reduces the test rig, not the margin.
+The zoning permission in (2) is a practical aid for long parts. It carries its
+own condition: the maximum pressure for each zone still includes the CS-E 640(a)
+factors [AMC E 640(2)]. Zoning reduces the test rig, not the margin.
 
 Paragraph (4) extends the analytical route to **fatigue life**, not only to
-strength. This is why the same text appears in
+strength [AMC E 640(4)]. A similar provision appears in
 [[AMC E 515|AMC E 515(3)(e)(iii)]] for static pressure loaded parts.
 
 ## Compliance
@@ -89,20 +90,21 @@ working pressure and the maximum possible pressure [AMC E 640(1)]. Since this
 engine declares 30-Second OEI, 2-Minute OEI and Continuous OEI, the pressures
 those ratings produce enter both definitions. They therefore also enter both the
 (a)(1) and the (a)(2) levels of [[CS-E 640]]. Omitting the OEI ratings from the
-pressure survey would understate both test levels.
+pressure survey could understate both test levels.
 
 **Maximum possible pressure depends on the control system.** The definition
 includes "Failure of any relevant parts of the Engine or control system, or
 combinations of Failures which are more likely than Extremely Remote"
-[AMC E 640(1)]. For a full-authority EECS the relevant Failure set is large, and
-the Extremely Remote classification comes from the safety analysis of
-[[CS-E 510]] and [[CS-E 50|CS-E 50(d)]]. The pressure survey therefore depends on
-a completed safety analysis, not only on a performance model.
+[AMC E 640(1)]. For a full-authority EECS, control system Failures are part of
+the relevant Failure set, and the Extremely Remote classification comes from the
+safety analysis of [[CS-E 510]] and [[CS-E 50|CS-E 50(d)]]. The pressure survey
+therefore depends on a completed safety analysis, not only on a performance
+model.
 
 The named example parts include fuel and oil system components. This ties the
 AMC to [[CS-E 560]] and [[CS-E 570]]. The un-pressurised oil tank case of
-[[CS-E 570|CS-E 570(f)(1)]] is tested at 35 kPa — the same increment that appears
-in both CS-E 640 levels.
+[[CS-E 570|CS-E 570(f)(1)]] uses a differential pressure of 35 kPa — the same
+figure that appears as an increment in both CS-E 640 levels.
 
 ## References
 

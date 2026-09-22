@@ -10,7 +10,7 @@ tags: [vibration, survey, flutter, baseline-test, validated-analysis, dwell, cor
 # AMC E 650 — Vibration Surveys
 
 > [!summary]
-> One of the longest AMCs in Subpart E. It defines the vocabulary the
+> This is one of the longest AMCs in Subpart E. It defines the vocabulary the
 > specification uses, then works through component selection, test conditions,
 > environmental effects, Fault conditions, inlet distortion, flutter, material
 > and frequency variation, dwell testing, transient response, installation
@@ -37,8 +37,8 @@ which fixes what "each rotor module" in [[CS-E 650|CS-E 650(b)]] means.
 **Significant Response** is defined against a level previously agreed with the
 Agency as giving acceptable margin under [[CS-E 70]] and [[CS-E 100]]. It is
 therefore an agreed threshold rather than an absolute one. **Declared Flight
-Envelope**
-expressly includes start-up, shutdown and windmilling rotation in flight.
+Envelope** expressly includes start-up, shutdown and windmilling rotation in
+flight.
 
 ### AMC E 650(2) to (4) — intent, component selection, test conditions
 
@@ -66,12 +66,12 @@ expressly includes start-up, shutdown and windmilling rotation in flight.
 | **(4)(d)** | Where instrumentation can survive only for short periods, complete the substantiation by validated analysis, keep instrumentation loss minimal, and base the associated analysis primarily on the surviving instrumentation data. | Accepted method |
 | **(4)(e)** | Where the engine is modified or adjusted during testing to achieve the desired speeds or other test conditions, evaluate the alterations to show their effects are not detrimental and do not compromise the intent of the test and the test results. | Accepted method |
 
-The two speed reliefs in (4)(b) rest on different arguments and have different
-floors. The first is a control system argument against the 3 % transient
-overshoot margin, and it floors at 100 %. The second is a hardware selection
-argument against the further 2 % for engine-to-engine variability, and it floors
-at the [[CS-E 650|CS-E 650(b)]] speed. Neither is available without Agency
-agreement.
+The two speed reductions in (4)(b) rest on different arguments and have
+different floors [AMC E 650(4)(b)]. The first is a control system argument
+against the 3 % transient overshoot margin, and it floors at 100 %. The second
+is a hardware selection argument against the further 2 % for engine-to-engine
+variability, and it floors at the [[CS-E 650|CS-E 650(b)]] speed. Neither is
+available without Agency agreement.
 
 ### AMC E 650(5) to (7) — environment, Fault conditions, inlet distortion
 
@@ -86,17 +86,18 @@ agreement.
 | **(6)** | CS-E 650(g) applies to those Fault conditions that would cause abnormal vibrations difficult to identify in a timely manner so that appropriate mitigating action can be taken. | Statement |
 | **(6)** | The applicant may use prior experience with Faults that occurred on other similar engines, where after exposure the engine was able either to continue in safe operation or to be shut down without creating a Hazardous Engine Effect. | Permitted |
 | **(6)** | Applicants may also use field experience or other means to show that certain Fault conditions are Extremely Remote because of specific engine configurations, design features or operating conditions. | Permitted |
-| **(6)** | CS-E 650(g) applies to the same components considered under CS-E 650(a). Where the effects of these Fault conditions extend to the rest of the engine, they must be addressed under CS-E 100 or CS-E 520. | Statement |
+| **(6)** | CS-E 650(g) applies to the same components considered under CS-E 650(a). | Statement |
+| **(6)** | Where the effects of these Fault conditions extend to the rest of the engine, they must be addressed under CS-E 100, CS-E 520 or both. | Required |
 | **(7)** | Take into account conditions consistent with the most adverse inlet airflow distortion pattern declared by the applicant, which may be associated with the air intake, crosswinds, or other operating and aircraft installation conditions. | Accepted method |
 | **(7)** | Where an engine test is performed, the inlet distortion may be achieved by various means, such as external crosswind devices, inlet distortion plates or suppression screens. | Permitted |
 
-Paragraph (6) explains why (g) exists as a separate sub-point. The concern is
-Faults whose vibration signature is **not recognised in time**, so that the
-engine keeps running and the Fault escalates. The worked example is the loss of
-an airfoil tip. The resulting out-of-balance may be indicated by the means of
-[[CS-E 60]] and [[CS-E 510]] and still not be recognised as abnormal. Other named
-Faults are incorrectly scheduled compressor variables, stator vane blockages or
-enlargement, and blockages of fuel nozzles.
+Paragraph (6) explains why (g) exists as a separate sub-point [AMC E 650(6)].
+The concern is Faults whose vibration signature is **not recognised in time**,
+so that the engine keeps running and the Fault escalates. The worked example is
+the loss of an airfoil tip. The resulting out-of-balance may be indicated by the
+means of [[CS-E 60]] and [[CS-E 510]] and still not be recognised as abnormal.
+Other named Faults are incorrectly scheduled compressor variables, stator vane
+blockages or enlargement, and blockages of fuel nozzles.
 
 ### AMC E 650(8) — flutter
 
@@ -117,10 +118,12 @@ enlargement, and blockages of fuel nozzles.
 | **(8)(f)** | Include in the methods used to verify the absence of damaging flutter consideration of applicable combinations of: the ranges of physical and corrected rotational speeds for each rotor module; the simultaneous occurrence of maximum compressor inlet air total temperature and maximum corrected rotational speed; the range of compressor operating lines within the flight envelope; the most adverse of other compressor inlet air conditions within the flight envelope; and the hardware standard, the intake conditions and margins to account for engine deterioration. | Accepted method |
 
 Paragraph (8)(e) explains a result that is counter-intuitive and directly
-useful. Where a turbine operates aerodynamically choked and the mass flow is
-set by the fixed blading geometry, corrected speed is essentially constant. A
-lower corrected speed then **increases** blading Mach number. Running up to
-100 % of maximum mechanical speed then covers the worst forcing case.
+useful. Where a turbine operates aerodynamically choked and the mass flow is set
+by the fixed blading geometry, corrected speed is essentially constant. A lower
+corrected speed **increases** blading Mach number. The forcing on many turbine
+blades is driven mainly by total pressure, and the highest pressures are
+expected at the highest mechanical speed. Running up to 100 % of maximum
+mechanical speed therefore covers the worst forcing case [AMC E 650(8)(e)].
 
 ### AMC E 650(9) to (12) — material variation, dwell, transients, instrumentation
 
@@ -178,8 +181,9 @@ $k = \omega c / U$, where $\omega$ is frequency, $c$ is component length in the
 flow direction and $U$ is flow velocity.
 
 The bar in (14)(a) against using one test to both calibrate and validate an
-analysis is the load-bearing sentence of the whole paragraph. Without it, the
-equivalence between a baseline test plus analysis and a new test does not hold.
+analysis is the load-bearing sentence of the whole paragraph [AMC E 650(14)(a)].
+Without it, the equivalence between a baseline test plus analysis and a new test
+does not hold.
 
 ## Compliance
 
@@ -213,37 +217,37 @@ design, turboshaft, turbofan, open rotor, geared fan"
 domain: an analysis validated on a turbofan baseline does not automatically cover
 a turboshaft.
 
-**Rotor drive systems are an installation item.**
-AMC E 650(13) lists rotor drive systems among the installation
-features to consider for vibratory compatibility. For a rotorcraft that is the
-drive into the transmission, and it is the item most likely to need operating
-limitations or procedures under [[CS-E 650|CS-E 650(h)]].
+**Rotor drive systems are an installation item.** AMC E 650(13) lists rotor
+drive systems among the installation features to consider for vibratory
+compatibility. For a rotorcraft that is the drive into the transmission. The
+same paragraph asks for consideration of the need to declare operating
+limitations and procedures under [[CS-E 650|CS-E 650(h)]].
 
-**The EECS speed relief.** (4)(b) allows the required maximum tested speed to be
-reduced towards 100 % where the control system cannot exceed maximum rated speed
-in fault-free operation. This engine has a full-authority EECS, so the relief is
-available in principle; it rests on control system evidence under [[CS-E 50]] and
-needs Agency agreement.
+**The EECS speed reduction.** (4)(b) allows the required maximum tested speed to
+be reduced towards 100 % where the control system cannot exceed maximum rated
+speed in fault-free operation [AMC E 650(4)(b)]. This engine has a
+full-authority EECS, so the reduction is available in principle; it rests on
+control system evidence under [[CS-E 50]] and needs Agency agreement.
 
 **Dwell testing binds this engine to the endurance test.** Any significant
-response found in the survey is dwelt on within the incremental periods of
-[[CS-E 740|CS-E 740(g)(1)]], and the components then go through the
-[[CS-E 740|CS-E 740(i)]] strip inspection. The vibration survey and the endurance
-test are therefore not independent programmes.
+response found in the survey is normally dwelt on within the incremental periods
+of [[CS-E 740|CS-E 740(g)(1)]], and the components then go through the
+[[CS-E 740|CS-E 740(i)]] strip inspection. The vibration survey and the
+endurance test are therefore not independent programmes.
 
-**Icing and rain and hail feed back into the stress margins.** (9)(b) requires
-the stress margin suitability criteria to account for icing, rain and hail
-effects "consistent with the corresponding certification test evidence".
-[[CS-E 780]] and [[CS-E 790]] results are therefore inputs to the CS-E 650(f)
-margin justification, not only to their own paragraphs.
+**Icing and rain and hail feed back into the stress margins.** Under (9)(b) the
+stress margin suitability criteria should account for icing, rain and hail
+effects "consistent with the corresponding certification test evidence"
+[AMC E 650(9)(b)]. [[CS-E 780]] and [[CS-E 790]] results are therefore inputs to
+the CS-E 650(f) margin justification, not only to their own paragraphs.
 
-**What the point 21.A.33 inspection is, and what (15) limits.** Part 21 is now
-held. Before each test undertaken during the demonstration of compliance, the
-applicant must verify two things. The first is that the test specimen's
-materials and processes, its parts and manufacturing, and its construction and
-assembly conform to the proposed type design. The second is that the test and
-measuring equipment is adequate and appropriately calibrated
-[ext 21.A.33(b)]. The applicant then issues a statement of conformity
+**What the point 21.A.33 inspection is, and what (15) limits.** Part 21 is held
+in `source/external/`. Before each test undertaken during the demonstration of
+compliance, the applicant must verify two things. The first is that the test
+specimen's materials and processes, its parts and manufacturing, and its
+construction and assembly adequately conform to the proposed type design. The
+second is that the test and measuring equipment is adequate and appropriately
+calibrated [ext 21.A.33(b)]. The applicant then issues a statement of conformity
 "listing any potential non-conformity, together with a justification that this
 will not affect the test results", and must allow the Agency to make any
 inspection it considers necessary to check that statement [ext 21.A.33(c)]. The
@@ -284,15 +288,15 @@ Temperature and Environmental Effects", and the paragraph gained the whole icing
 and rain and hail passage:
 
 - **Before:** "Changes in operating conditions associated with ambient temperature and altitude variations affect Engine performance and airflow characteristics. This can have a significant effect on aerodynamic forcing and damping, which, in turn, affects the vibratory response and behaviour of certain components."
-- **After:** the same sentence widened to "ambient temperature, altitude and environmental variations", to "Engine performance, airflow characteristics and rotor imbalance", and to "aerodynamic and mechanical forcing and damping" — preceded by a new requirement that the evaluated conditions include icing and rain and hail conditions, and followed by the permission to use the CS-E 780 and CS-E 790 test evidence.
+- **After:** the same sentence widened to "ambient temperature, altitude and environmental variations", to "Engine performance, airflow characteristics and rotor imbalance", and to "aerodynamic and mechanical forcing and damping" — preceded by a new provision that the evaluated conditions should include icing and rain and hail conditions, and followed by the permission to use the CS-E 780 and CS-E 790 test evidence.
 
-This adds work. Rotor imbalance and mechanical forcing were not named before, and
-the icing and rain and hail conditions were not required to be included.
+This adds work. Rotor imbalance and mechanical forcing were not named before,
+and the icing and rain and hail conditions were not required to be included.
 Amendment 7 also added the corresponding clause to (9)(b), so the stress margin
-criteria must now account for icing, rain and hail effects. In (13) the
-installation feature "mount stiffness" became "stiffness and damping of the mount
-system": the previous text already named the stiffness, and what the amendment
-added is the damping. In (15) the Part 21 citation was corrected to
+criteria should now account for icing, rain and hail effects. In (13) the
+installation feature "mount stiffness" became "stiffness and damping of the
+mount system": the previous text already named the stiffness, and what the
+amendment added is the damping. In (15) the Part 21 citation was corrected to
 "point 21.A.33 of Part 21".
 
 **Amendment 8** made a single cross-reference correction in paragraph (10), Dwell

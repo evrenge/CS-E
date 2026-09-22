@@ -13,9 +13,9 @@ tags: [oil-system, filter, strainer, expansion-space, chip-detector, hazardous-q
 > servicing should be accessible and should not hang on their connecting lines.
 > Each oil tank should have an expansion space, with 10 percent of tank capacity
 > shown by experience to be adequate, and it should be impossible to fill that
-> space inadvertently. Filling and drainage provisions need positive locking.
-> Access points include magnetic chip detectors. The term "hazardous quantities" is defined
-> in AMC E 130.
+> space inadvertently. Filling and drainage provisions should have positive
+> locking. Access points include magnetic chip detectors. The term "hazardous
+> quantities" is defined in AMC E 130.
 
 ## Requirement
 
@@ -32,7 +32,7 @@ tags: [oil-system, filter, strainer, expansion-space, chip-detector, hazardous-q
 
 The 10 percent figure is an experience value, not a specification. The AMC states
 the duty as providing an expansion space and offers 10 percent of tank capacity
-as adequate, so another value may be used with justification.
+as adequate [AMC E 570(2)], so another value may be used with justification.
 
 Point (5) is a definition pointer rather than an obligation. It resolves
 "hazardous quantities" in [[CS-E 570|CS-E 570(e)(1)]] to
@@ -40,7 +40,7 @@ Point (5) is a definition pointer rather than an obligation. It resolves
 (or a quantity of flammable material of equivalent heat content)", used in the
 absence of a more suitable determination.
 
-Point (1) duplicates a requirement that also appears in
+Point (1) duplicates a provision that also appears in
 [[AMC E 560|AMC E 560(6)]] for the fuel system, but for a different reason. There
 it serves fire protection under [[CS-E 130|CS-E 130(a)]]. Here it serves proper
 functioning and leakage avoidance under [[CS-E 570|CS-E 570(a)(1)]].
@@ -58,14 +58,14 @@ functioning and leakage avoidance under [[CS-E 570|CS-E 570(a)(1)]].
 The AMC applies in full. Nothing in it is restricted by engine type, rating or
 control system.
 
-Point (3) requires drainage to outside the engine cowling from any filler
-connection retaining significant oil. That connects to
+Under point (3), any filler connection that can retain a significant quantity of
+oil should drain to outside the engine cowling [AMC E 570(3)]. That connects to
 [[CS-E 130|CS-E 130(f)]]. That paragraph requires unintentional accumulation of
 hazardous quantities of flammable fluid within the engine to be prevented by
-draining and venting. It also connects to [[AMC E 130|AMC E 130(6)]] on drain and
-vent systems. That AMC notes that a drain or vent flowing a hazardous quantity of
-flammable fluid during continued rotation after shutdown may need a Fireproof
-standard.
+draining and venting. It also connects to [[AMC E 130|AMC E 130(6)]] on drain
+and vent systems. That AMC notes that a drain or vent flowing a hazardous
+quantity of flammable fluid during continued rotation after shutdown may call
+for a Fireproof standard.
 
 Magnetic chip detectors, named in point (4), are also named in
 [[AMC E 510|AMC E 510(3)(h)]] as a maintenance error case. Failure to restore oil
