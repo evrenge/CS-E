@@ -43,8 +43,9 @@ inspection with deterioration that nonetheless reduces the margin available at
 ## Application to this engine
 
 The AMC applies wherever [[CS-E 820]] is elected, and it is written for exactly
-this rating set: `engine_profile.md` declares Rated 30-Second OEI Power and Rated
-2-Minute OEI Power.
+this rating set: `engine_profile.md` declares 30-Second OEI Power and 2-Minute
+OEI Power. AMC E 820(a)(2) writes them as Rated 30-Second and Rated 2-Minute
+OEI Power.
 
 The criterion links the over-torque test to the endurance programme. The short
 OEI ratings are substantiated by the additional test of

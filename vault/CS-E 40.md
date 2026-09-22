@@ -86,6 +86,7 @@ It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
 
 - **(b)(1)**, **(h)** — piston engine rating definitions.
 - **(b)(2)** — OEI ratings for multi-engined aeroplanes; (b)(3) governs rotorcraft.
+- **(b)(3)(iii)**, **(b)(3)(iv)** — the 2½-Minute OEI and 30-Minute OEI Power rating definitions. `engine_profile.md` declares neither, and the consequences of not claiming them are in `## Application to this engine`.
 - Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References

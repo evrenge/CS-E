@@ -73,7 +73,7 @@ names recorded rotorcraft OEI data as one such resource.
 
 Accepted means: [[AMC E 20]] · [[AMC E 20|AMC E 20(f)]]
 Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 50]] · [[CS-E 40]]
-External: [[CS 29.927]]
+External: [[CS 29.927]] · [[CS 27.927]]
 
 ## Amendment history
 

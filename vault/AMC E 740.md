@@ -115,7 +115,7 @@ actions that [[CS-E 25|CS-E 25(b)]] requires following use of the 30-Second and
 ## Compliance
 
 - Proposal for where the 25 hours of additional 30-Minute Power running sits — inside the overall test, as a complementary test on the same article, or a combination — with uniform distribution if included [AMC E 740(c)(2)(i)(a)].
-- Any credit claimed for time at the 30-Minute OEI rating, with evidence that those sequences ran under equal or more stringent operating limitations [AMC E 740(c)(2)(i)(b)].
+- Any credit claimed for time at the 30-Minute OEI rating, with evidence that those sequences ran under equal or more stringent operating limitations [AMC E 740(c)(2)(i)(b)]. This route is closed for this engine, which does not claim 30-Minute OEI.
 - Substantiated proposal where up to 12.5 hours are run at mechanical rather than thermal limits, recorded in the installation and operating instructions under [[CS-E 30|CS-E 30(a)]] [AMC E 740(c)(2)(i)(c)].
 - Choice of procedure (a) or (b) for the additional OEI test, with the associated strip inspection standard [AMC E 740(c)(3)(1)].
 - Validation across the CS-E 740(c)(3)(iii) test of any designed speed overshoot at the start of the 30-second period [AMC E 740(c)(3)(2)], against [[CS-E 50|CS-E 50(j)]].

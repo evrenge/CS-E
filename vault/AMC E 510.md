@@ -283,6 +283,7 @@ sources of detailed descriptions of analytical techniques, not as obligations.]
 
 ## Not applicable
 
+- **(5)** — Related documents. A list of technique sources, none of which this vault holds; it states no obligation. The list itself is in the `[VERIFY]` above.
 - **(3)(d)(v)** — the elaboration of significant thrust in the opposite direction to that commanded by the pilot, and all three of the examples it gives. Each names thrust reverser or propeller equipment this engine does not have, and the source qualifies the list with "if applicable to CS-E certification". The parent definition at [[CS-E 510|CS-E 510(g)(2)(iii)]] therefore has no accepted-means elaboration that reaches a turboshaft.
 - Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 

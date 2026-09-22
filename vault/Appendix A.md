@@ -43,7 +43,7 @@ PC 338-1, June 1990. "The unit for altitude has been kept as "feet" to be
 consistent with the source of data. This is compatible with Annex 5 of ICAO."
 [Appendix A]
 
-## The figure and tables
+### The figure and tables
 
 The figure and all four tables are embedded as their source crops. They are
 tabulated numerical data and a plotted chart, so accuracy rule 6 applies. A

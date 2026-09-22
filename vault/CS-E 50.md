@@ -131,7 +131,7 @@ is the turbine engine route.
 The rotorcraft's transmission tests depend on this control system. CS 29.927
 and CS 27.927 set the test torque at the maximum attainable, "assuming that
 torque limiting devices, if any, function properly" [ext CS 29.927(b)(2)],
-[ext CS 27.927(b)(1)(ii)]. Where the EECS provides that limit, its integrity is
+[ext CS 27.927(b)(1)(ii)], [ext CS 27.927(b)(2)]. Where the EECS provides that limit, its integrity is
 engine-side evidence under this paragraph. CS 29.927(d) further takes its
 overspeed test speed from the rotational speed expected after an engine control
 device failure [ext CS 29.927(d)]. Both paragraphs are recorded in

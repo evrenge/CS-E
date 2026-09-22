@@ -257,4 +257,4 @@ Both are recorded as dead ends in `review/dead_ends.md`.
 
 ## References
 
-Bears on: [[CS-E 50]] · [[AMC E 50]] · [[AMC E 80]] · [[AMC E 170]] · [[CS-E 510]] · [[CS-E 20]] · [[CS-E 30]] · [[CS-E 25]]
+Bears on: [[CS-E 50]] · [[AMC E 50]] · [[AMC E 80]] · [[AMC E 170]] · [[AMC General]]
