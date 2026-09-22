@@ -43,7 +43,7 @@ tables are written against a standard rather than against an aircraft.
 
 The similarity route is the only alternative to test or analysis. It carries
 two conditions at once: sufficient similarity of the equipment, **and** an
-environment no more severe than the one already certified.
+environment no more severe than the one already certified [AMC E 80(2)].
 
 ### AMC E 80(2)(a) — general environmental conditions, all equipment
 
@@ -55,7 +55,7 @@ Table 1 applies to all equipment.
 |---|---|---|
 | **(2)(a)** | High temperature: verify that the equipment functions properly in its maximum temperature environment and identify damage from that exposure that could lead to equipment Failure, taking account of ambient, external and internal fluid temperatures. | Accepted method |
 | **(2)(a)** | Low temperature: verify the same in the minimum temperature environment, on the same basis. | Accepted method |
-| **(2)(a)** | Room temperature: identify damage caused by extended operation at room temperature that could lead to equipment Failure. May be combined with the contaminated fluid tests. | Accepted method |
+| **(2)(a)** | Room temperature: identify damage caused by extended operation at room temperature that could lead to equipment Failure. The test may be combined with the contaminated fluid tests. | Accepted method |
 | **(2)(a)** | Contaminated fluids: verify that the engine systems function properly in a contaminated fluid environment, by system testing or by individual equipment test or analysis. | Accepted method |
 | **(2)(a)** | Vibration: verify that exposure to the declared vibration environment causes no structural Failures and that the equipment functions properly under it, by a specific unbalanced engine test or by equipment test. | Accepted method |
 | **(2)(a)** | The equipment may be non-operational during equipment vibration testing where the applicant demonstrates by other means that it operates satisfactorily, or does not adversely affect system operation, in the declared vibration environment. | Permitted |
@@ -71,8 +71,8 @@ Table 1 applies to all equipment.
 | **(2)(a)** | Temperature and altitude: verify by test or analysis that the equipment operates per design intent throughout the engine flight envelope. | Accepted method |
 
 Items 4, 10 and 11 of Table 1 are marked "As a reminder" and point to
-specifications elsewhere in CS-E rather than to a test standard. They add no
-obligation of their own; the duty sits in [[CS-E 560|CS-E 560(e)]],
+specifications elsewhere in CS-E rather than to a test standard
+[AMC E 80(2)(a)]. The binding duty sits in [[CS-E 560|CS-E 560(e)]],
 [[CS-E 570]], [[CS-E 580]] and [[CS-E 780]].
 
 ### AMC E 80(2)(b) — electrical and electronic equipment
@@ -98,12 +98,11 @@ II is an atmosphere in which flammable mixtures can be expected to occur as the
 result of a Fault causing spillage or leakage [AMC E 80(2)(b)]. For a Fire
 zone, which has extinguishing provisions, the Environment II test is adequate;
 Flammable Fluid Leakage areas may lack those provisions, so Environment I may be
-required for aircraft installation.
+required for aircraft installation [AMC E 80(2)(b)].
 
 Power input applies only to equipment powered directly by the aircraft, and the
-AMC names the electronic engine control (EEC) and the hydromechanical unit
-(HMU) fuel shutoff solenoid as examples
-[AMC E 80(2)(b)].
+AMC names the electronic engine control (EEC) and the hydromechanical unit (HMU)
+fuel shutoff solenoid as examples [AMC E 80(2)(b)].
 
 ### AMC E 80(2)(c) — mechanical equipment
 
@@ -158,9 +157,10 @@ result from Failures [AMC E 80(4)].
 | **(4)** | For equipment other than a turbine starter, use the Fault analysis of the whole system to determine the critical speeds that may result from Failures, and proceed on a similar basis. | Accepted method |
 
 Table 5 and Table 6 work as a pair: the category demonstrated determines which
-of the specifications a to e apply. The stronger the containment demonstrated, the
-fewer the additional specifications. Category 1, blade containment only, carries
-all five; Category 4 carries specification a alone.
+of the specifications a to e apply. Broadly, the stronger the containment
+demonstrated, the fewer the additional specifications. Category 1, blade
+containment only, and Category 2 carry all five; Category 3 carries a and b; and
+Category 4 carries specification a alone [AMC E 80(4)].
 
 The Table 6 specifications route into paragraphs with their own notes:
 [[CS-E 590]] for the drive mechanism probability, [[CS-E 515]], [[CS-E 70]] and
@@ -181,23 +181,26 @@ Parts, [[CS-E 840]] for the integrity test of rotating parts, and
 
 ## Application to this engine
 
-The whole AMC applies. Nothing in it is restricted by engine type or rating.
+The whole AMC applies. Nothing in it is restricted by engine type or rating
+[AMC E 80].
 
 Table 1 item 11, induction icing, cites "CS-E 230 & CS-E 780". CS-E 230 is a
 Subpart B piston engine paragraph and is outside the scope of this vault, so the
-applicable specification for this engine is [[CS-E 780]] alone.
+applicable specification for this engine is [[CS-E 780]] alone
+[AMC E 80(2)(a)].
 
 Table 2 and Table 4 carry the weight for a full-authority EECS. Power input
 applies to the EEC directly. It depends on the aircraft-supplied power range
 declared for the installation. That range is an installation assumption under
 [[CS-E 30|CS-E 30(a)]] and a control system specification under
 [[CS-E 50|CS-E 50(h)]]. The Table 4 overheat item is specific to engine
-electronic control systems. It has a consequence if skipped: the engine carries
-an installation limitation instead, and the aircraft must address the overheat
-case at its own certification.
+electronic control systems. If the overheat test or analysis is not completed,
+the engine carries an installation limitation instead, and the overheat case
+should be addressed at aircraft certification [AMC E 80(2)(d)].
 
 Table 2 item 18 and Table 4 item 24 name AMC 20-1 and AMC 20-3 as the acceptable
-tests or procedures for EMI, HIRF and lightning, and for control system overheat.
+tests or procedures for EMI, HIRF and lightning, and for control system overheat
+[AMC E 80(2)(b)], [AMC E 80(2)(d)].
 
 Both are now held. What they contribute for those two items is the EMI, HIRF and
 lightning method of [[AMC 20-3B]], recorded in that note: testing of the
@@ -216,15 +219,17 @@ tests where they are equal to or more rigorous [ext AMC 20-3B(6)(e)(ii)]. Those
 industry standards remain unheld, so the procedures inside them stay a dead
 end.
 
-Salt spray, sand and dust, and fluid susceptibility deserve attention for a
-rotorcraft turboshaft. Sand and dust applies to all equipment that is not
-environmentally sealed [AMC E 80(2)(a)], and the sealing claim is therefore the
-decision that removes the test.
+Environmental sealing decides two Table 1 items. Sand and dust applies to all
+equipment that is not environmentally sealed, so the sealing claim is the
+decision that removes the test [AMC E 80(2)(a)]. For sealed equipment, salt
+spray may be substantiated by an analysis showing that the external materials
+are immune to a salt spray environment [AMC E 80(2)(a)].
 
 [VERIFY: whether a turbine starter with an external air or gas supply is fitted.
-AMC E 80(4) sets the containment and burst provisions for such a starter, so the
-answer decides whether that whole part applies. It is not recorded in
-`engine_profile.md`.]
+AMC E 80(4) sets the containment and burst provisions for such a starter, and
+considers other high-energy rotor equipment on a similar basis. The answer
+decides whether Table 5 applies directly or only by analogy. It is not recorded
+in `engine_profile.md`.]
 
 ## Not applicable
 

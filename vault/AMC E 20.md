@@ -11,12 +11,12 @@ covers: ["AMC E 20", "AMC E 20(f)"]
 # AMC E 20 — Engine Configuration and Interfaces
 
 > [!summary]
-> Two AMC paragraphs serve CS-E 20. The general AMC sets what belongs in the type
-> design list, how interfaces with the aircraft are described, and what the
-> installation manual must carry for the Engine Control System. AMC E 20(f) is
+> Two AMC paragraphs serve CS-E 20. The general AMC sets what belongs in the
+> type design list, how interfaces with the aircraft are described, and what the
+> installation manual should carry for the Engine Control System. AMC E 20(f) is
 > separate and much heavier: it governs the power assurance data an OEI engine
-> must hand to the installer. Both bind here — the engine declares three OEI
-> ratings and uses a full-authority EECS that depends on aircraft-supplied
+> provides to the installer. Both bind here — the engine declares three OEI
+> ratings and uses a full-authority EECS, which may depend on aircraft-supplied
 > resources.
 
 ## Requirement
@@ -28,7 +28,7 @@ covers: ["AMC E 20", "AMC E 20(f)"]
 | **(1)** | The type design list should include the items necessary for satisfactory functioning and control of the engine. | Accepted method |
 | **(2)** | Items providing non-mechanical inputs need not be listed if the characteristics of those inputs — voltage, current, timing, fuel, air — can be clearly specified. | Relief |
 | **(3)** | Components identified under CS-E 20(c) are interfaces for CS-E 20(d). Consider their effect on the engine in normal and Failure cases during certification. The instructions for installation should state the need for such components to comply with CS-E 80(c). | Accepted method |
-| **(4)** | Give the aircraft manufacturer the assumptions made during engine certification that must be taken into account when designing the installation. Where appropriate, coordinate with the aircraft manufacturer so that engine design considerations imposed by the assumed installation certification specifications are taken into account. | Accepted method |
+| **(4)** | Give the aircraft manufacturer the assumptions made during engine certification that need to be taken into account when designing the installation. Where appropriate, coordinate with the aircraft manufacturer so that engine design considerations imposed by the assumed installation certification specifications are taken into account. | Accepted method |
 | **(4)** | For example, make all necessary provision in the engine for the fitment and operation of at least the mandatory items of equipment prescribed by the use of the word 'should' in the assumed applicable aircraft specifications. | Accepted method |
 | **(5)** | The instructions for installation should include, or reference, installation interface descriptions, limitations and specifications for the Engine Control System. | Accepted method |
 | **(6)** | The trend toward system integration may lead to an EECS that has other control functions integrated within it, or that depends on aircraft resources. Examples of such aircraft-supplied resources include recording of rotorcraft one-engine-inoperative data, and aircraft central computers performing some or all of the engine control functions. | Statement |
@@ -38,7 +38,7 @@ covers: ["AMC E 20", "AMC E 20(f)"]
 Point (5) gives two worked examples: EECS power specifications and quality,
 including interrupt limitations; and the impedance and buffering limitations for
 signals the EECS provides for display and instrumentation, or consumes, such as
-air data.
+air data [AMC E 20(5)].
 
 Point (6) allocates responsibility rather than creating a duty. The source writes
 that the applicant "is responsible for" specifying and substantiating, which is
@@ -57,23 +57,27 @@ row as Statement does not make the work optional.
 | **(f)(4)** | The data should let the installer establish power assurance procedures in which results can be extrapolated from a lower power check level up to the highest OEI rating power. | Accepted method |
 | **(f)(5)** | Provide information on methods assuring that engine limiter settings would not prevent the engine from reaching the 30-Second or 2-Minute OEI power made automatically available under CS-E 50(j). | Accepted method |
 
-Point (f)(3) states the objective. The installer must be able to confirm the
-engine can obtain and sustain its OEI ratings within the rating operating
-limitations. The operator must also be able to trend individual engine
-performance. Two examples are given of conditions that normal power assurance
-will not catch: fuel control maximum flow capability, and turbine section
-distress. Normal power assurance misses them because the procedure will not
-include a topping check to the highest OEI rating power level.
+Point (f)(3) states the objective. The power availability procedures allow the
+installer to ensure that the engine can obtain and sustain its OEI ratings
+within the associated rating operating limitations [AMC E 20(f)(3)]. The engine
+data are also intended for a procedure by which the operator trends individual
+engine performance [AMC E 20(f)(3)]. The maintenance procedures target latent or
+dormant conditions that normal power assurance does not detect, for two reasons.
+Some are not detectable through the normal procedures, for example fuel control
+maximum flow capability and turbine section distress. Others escape because the
+procedure will not include a topping check to the highest OEI rating power level
+[AMC E 20(f)(3)].
 
 Point (f)(4) sets out how to establish the minimum acceptable engine performance
 characteristic. For a mature programme, production acceptance test data,
 engine-to-engine variation and pre-overhaul testing can be used. For a new design
 or a remote derivative, development and certification test experience should be
-used, and an estimated worst engine-to-engine variation assumed initially.
+used, and an estimated worst engine-to-engine variation assumed initially
+[AMC E 20(f)(4)].
 
 Point (f)(5) names the limiter settings to examine: engine speed, measured gas
 temperature and fuel flow. It directs particular attention to take-off conditions
-with a cold-soaked engine.
+with a cold-soaked engine [AMC E 20(f)(5)].
 
 ## Compliance
 
@@ -95,9 +99,9 @@ with a cold-soaked engine.
 
 ## Application to this engine
 
-Point (6) is the one that binds hardest in the general AMC. It names "recording
+Point (6) matters most for this engine in the general AMC. It names "recording
 of rotorcraft One Engine Inoperative data" as an example of an aircraft-supplied
-resource on which an EECS may depend.
+resource on which an EECS may depend [AMC E 20(6)].
 
 [VERIFY: whether this engine's EECS in fact depends on an aircraft-supplied
 resource for OEI usage recording. [[CS-E 60|CS-E 60(d)(2)]] requires "means or
@@ -105,15 +109,17 @@ provision for means" to record each usage, and provision-for-means does not by
 itself create a dependency on the aircraft. If the dependency exists, AMC E 20(6)
 makes its specification and substantiation the applicant's responsibility.]
 
-All of AMC E 20(f) binds: the applicant declares 30-Second OEI, 2-Minute OEI and
-Continuous OEI, and (f)(1) applies to an engine having one or more OEI ratings.
+All of AMC E 20(f) applies: the applicant declares 30-Second OEI, 2-Minute OEI
+and Continuous OEI, and (f)(1) applies to an engine having one or more OEI
+ratings [AMC E 20(f)(1)].
 
-Point (f)(5) links directly to [[CS-E 50|CS-E 50(j)]] and [[AMC E 50]]: the
-30-Second OEI power must be automatically available, and limiter settings must
-not defeat that.
+Point (f)(5) links directly to [[CS-E 50|CS-E 50(j)]] and [[AMC E 50]]. The
+engine must incorporate means or provision for means for automatic availability
+of the 30-Second OEI Power [CS-E 50(j)]. Point (f)(5) asks for information
+showing that limiter settings do not prevent it [AMC E 20(f)(5)].
 
-The engine uses a full-authority EECS, so points (5), (6) and (7) apply at full
-weight rather than as the hydromechanical minimum.
+The engine uses a full-authority EECS, so points (5), (6) and (7) apply in full,
+including the EECS examples of point (5) [AMC E 20(5)].
 
 **What point 45(f) asks for is the same in both codes.** Each requires that,
 for a turbine engine-powered rotorcraft, "a means must be provided to permit the

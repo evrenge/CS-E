@@ -9,14 +9,15 @@ tags: [equipment, drive, mounting, high-energy-rotor, interfaces]
 # CS-E 80 — Equipment
 
 > [!summary]
-> Equipment mounted on the engine must not endanger it. Drives and mountings must
-> allow safe engine operation and must contain the consequences of equipment
-> failure, so that a failed accessory cannot cause a Hazardous Engine Effect.
-> The paragraph then splits equipment by who approves it. Equipment that is part
-> of the engine type design is approved with the engine. Aircraft equipment
-> driven by the engine is accepted subject to interface compliance and its own
-> aircraft Type Certificate. Equipment with high-energy rotors must either
-> contain its debris or demonstrate design integrity.
+> Equipment mounted on the engine must not endanger it. Drives and mountings
+> must allow safe engine operation and must contain the consequences of
+> equipment failure, so that a failed accessory cannot cause a Hazardous Engine
+> Effect. The paragraph then splits equipment by who approves it. Equipment that
+> is part of the engine type design is approved with the engine. Aircraft
+> equipment driven by the engine is accepted subject to three conditions,
+> including approval under the aircraft Type Certificate. Equipment with
+> high-energy rotors must either contain its debris or demonstrate design
+> integrity.
 
 ## Requirement
 
@@ -35,18 +36,19 @@ tags: [equipment, drive, mounting, high-energy-rotor, interfaces]
 | **(d)(2)** | …or that an acceptable level of integrity of the design, including the high energy parts, has been established. | Required |
 | **(d)(3)** | …or an appropriate combination of (d)(1) and (d)(2). | Required |
 
-Sub-point (d) is a single obligation with three routes. The engine must meet
-**one** of them; the applicant chooses which, and (d)(3) allows a mixed argument
-for different parts of the same equipment.
+Sub-point (d) is a single obligation with three routes. The equipment must meet
+**one** of them; the applicant chooses which, and (d)(3) allows an appropriate
+combination of the other two [CS-E 80(d)].
 
 Sub-point (c) is written as a statement of acceptance conditions rather than as a
 duty on the applicant — "will be accepted … subject to" [CS-E 80(c)]. The three
 conditions are cumulative. Condition (c)(3) places approval outside CS-E
 entirely, in the aircraft Type Certificate.
 
-The division between (b) and (c) follows [[CS-E 20]]: (a) equipment is part of
-the engine type design, (c) equipment is aircraft equipment driven or mounted by
-the engine.
+The division between (b) and (c) follows [[CS-E 20]]. Equipment identified under
+CS-E 20(a) is part of the engine type design [CS-E 80(b)]. Equipment identified
+under CS-E 20(c) is aircraft equipment mounted on, or driven by, the engine
+[CS-E 80(c)].
 
 ## Compliance
 
@@ -60,7 +62,7 @@ the engine.
 ## Application to this engine
 
 All sub-points apply. None is restricted by engine type, rating or control
-system.
+system [CS-E 80].
 
 Sub-point (b) names "the specifications prescribed in subpart C or E, as
 appropriate" [CS-E 80(b)]. Subpart C is the piston engine type substantiation
@@ -70,12 +72,12 @@ subjects each item of equipment to cycles representative of its service
 conditions. That programme comprises the calibration, endurance and
 environmental tests of [[CS-E 730]], [[CS-E 740]] and the paragraphs that
 follow. Where it does not, the gap must be closed by additional specifications
-in the equipment specification.
+in the equipment specification [CS-E 80(b)].
 
 Sub-point (a)(1)(ii) uses the Hazardous Engine Effect threshold, which is defined
-in [[CS-E 15]] and classified in the safety analysis of [[CS-E 510]]. The set of
-equipment failures that (a)(1)(ii) reaches is therefore an output of that
-analysis.
+in [[CS-E 15]] and classified in the safety analysis of [[CS-E 510]]
+[CS-E 15(c)]. The set of equipment failures that (a)(1)(ii) reaches is therefore
+an output of that analysis.
 
 For a full-authority EECS, the control system components mounted on the engine —
 alternators, sensors and actuators — are equipment in the sense of this

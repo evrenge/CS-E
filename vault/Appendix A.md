@@ -29,7 +29,7 @@ cells carry no sub-point identifier.
 The substitution permission is broad, but its single condition is strict. Any
 shape, size or distribution may be used, including a single size, provided the
 severity of the test is not reduced. The burden is on showing that, not on
-matching the tables.
+matching the tables [Appendix A].
 
 The values are ambient. [[AMC E 790|AMC E 790(a)(2)(2)(b)]] states the point
 directly: "the water concentrations defined for rain and hail in Appendix A
@@ -77,7 +77,7 @@ by linear interpolation. Table A2 adds that "The hail threat below 7 300 feet an
 above 29 000 feet is based on linearly extrapolated data." [Appendix A]
 
 Table A3 gives a median rain droplet diameter of 2.66 mm, and Table A4 a median
-hailstone diameter of 16 mm.
+hailstone diameter of 16 mm [Appendix A].
 
 ## Compliance
 
@@ -94,16 +94,16 @@ static rain ingestion test of [[CS-E 790|CS-E 790(b)]] to replace it for
 rotorcraft applications.
 
 If the CS-E 790(b) alternative is taken, the concentration used is the
-specification's own 4 percent water droplet flow to airflow by weight. These
-tables are then not the test input. They remain relevant in two ways. The
-4 percent figure is stated in
+specification's own ratio of at least 4 percent water droplet flow to airflow,
+by weight [CS-E 790(b)]. These tables are then not the test input. They remain
+relevant in two ways. The 4 percent figure is stated in
 [[AMC E 790|AMC E 790(a)(2)(2)(d)]] as an increase "from Appendix A values" that
 "will usually compensate for any flight effects", so the tables are the baseline
 the alternative is calibrated against. Figure A1, embedded above, is where the
-4 percent condition can be read against the ambient threat. The source
-describes it only as an "Illustration of Rain and Hail Threats" [Appendix A].
-What it plots is therefore not stated in the text layer, and is not restated
-here.
+4 percent condition can be read against the ambient threat. Its caption names it
+an "Illustration of Rain and Hail Threats" and states that certification
+concentrations are obtained using Tables A1 and A2 [Appendix A]. The figure
+illustrates the threat; the certification concentrations come from the tables.
 
 The altitude range of the tables runs to 46 000 feet, far above a rotorcraft
 envelope. The CS-E 790(a)(1) hailstone ingestion is separately bounded at

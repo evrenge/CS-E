@@ -10,13 +10,13 @@ tags: [ica, airworthiness-limitations, oei, critical-parts, maintenance]
 # CS-E 25 — Instructions for Continued Airworthiness
 
 > [!summary]
-> Requires the Instructions for Continued Airworthiness, and inside them a
-> segregated airworthiness limitations section carrying every mandatory
-> replacement time, inspection interval and procedure. For an engine with
-> 30-Second and 2-Minute OEI ratings it also requires mandatory post-flight
-> inspections after any use of either rating, their validation, and an in-service
-> engine evaluation programme. That regime is the operational cost of declaring
-> the two ratings.
+> This paragraph requires the Instructions for Continued Airworthiness (ICA),
+> and inside them a segregated airworthiness limitations section carrying every
+> mandatory replacement time, inspection interval and procedure. For an engine
+> with 30-Second and 2-Minute OEI ratings it also requires mandatory post-flight
+> inspections after any use of either rating, their validation, and an
+> in-service engine evaluation programme. That regime is the operational cost of
+> declaring the two ratings.
 
 ## Requirement
 
@@ -28,9 +28,8 @@ tags: [ica, airworthiness-limitations, oei, critical-parts, maintenance]
 | **(b)(2)** | For engines having 30-Second OEI and 2-Minute OEI power ratings, the section must also prescribe the mandatory post-flight inspections and maintenance actions associated with any use of either rating. Their adequacy must be validated, and an in-service engine evaluation programme must be established. | Required if claimed |
 | **(c)** | Consider the thirteen information items at (c)(1) to (c)(13), as appropriate, for inclusion in the manual(s). | Required |
 
-The obligation at (c) is to **consider** each item; inclusion is "as appropriate".
-The obligation at (b) is absolute, and the airworthiness limitations section is
-the part that becomes mandatory on the operator.
+The obligation at (c) is to **consider** each item; inclusion is "as
+appropriate" [CS-E 25(c)]. The obligation at (b) is absolute [CS-E 25(b)].
 
 ## Compliance
 
@@ -64,19 +63,27 @@ Guidance on the whole ICA: [[AMC E 25]].
 ## Application to this engine
 
 Sub-point (b)(2) binds. The applicant declares both 30-Second OEI and 2-Minute
-OEI, so the mandatory post-flight inspection regime, its validation, and the
-in-service evaluation programme are all required.
+OEI, so the mandatory post-flight inspection regime, its validation and the
+in-service evaluation programme are all required [CS-E 25(b)(2)].
 
 That regime is the operational cost of the two ratings. Every use of either
 rating triggers mandatory post-flight action, and [[AMC E 40|AMC E 40(b)(3)]]
 records that certification assumes the worst case of three uses in one flight.
 
-Item (c)(13) binds because the engine carries a full-authority EECS: the security
-instructions required by [[CS-E 50|CS-E 50(l)]] must be considered for the manual.
+Item (c)(13) applies because the engine carries a full-authority EECS: the
+security instructions required by [[CS-E 50|CS-E 50(l)]] must be considered for
+the manual [CS-E 25(c)(13)].
 
-Item (c)(5) uses "should" for the recommended periods. That softer verb describes
-the content of the scheduling information; the obligation to consider the item for
-inclusion is unaffected.
+Item (c)(5) uses "should" for the recommended periods. That softer verb
+describes the content of the scheduling information; the obligation to consider
+the item for inclusion is unaffected [CS-E 25(c)(5)].
+
+Three items also use "must" for part of their own content: the cross-references
+to the airworthiness limitations section and, if appropriate, an inspection
+programme in (c)(5); ground handling, crating and shipping instructions in
+(c)(7); and methods of inspection in (c)(8) [CS-E 25(c)].
+[VERIFY: whether these "must" clauses bind on their own, or only once the item
+is included under the "as appropriate" test of (c). The source does not say.]
 
 **Where the Part 21 duty now lives.** The instructions this paragraph governs
 are also required by point 21.A.7 of Part 21. The type certificate holder must
@@ -111,9 +118,9 @@ pre-amendment quotation in this vault.
 The deletion removed a citation that no longer resolves. Point 21.A.61 is absent
 from the Part 21 consolidation held in `source/external/`: the numbering runs
 21.A.51, then 21.A.62, then 21.A.65, and an exact search for the point returns
-nothing. The instructions for continued airworthiness duty is now point 21.A.7
-[ext 21.A.7]. Deleting the qualifier therefore left CS-E 25(a) standing on its
-own rather than pointing at a point that had moved.
+nothing. The duty to provide instructions for continued airworthiness now sits
+in point 21.A.7 [ext 21.A.7]. Deleting the qualifier therefore left CS-E 25(a)
+standing on its own rather than pointing at a point that had moved.
 
 [[AMC E 25]] was separately amended at Amendment 8, in two places. Point (1)
 gained the initial maintenance programme test in the list of certification

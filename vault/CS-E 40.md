@@ -13,28 +13,29 @@ tags: [ratings, oei, limitations, tcds]
 > Take-off Power and Maximum Continuous Power must be established for every
 > engine. All other ratings are elective, but substantiation is mandatory once
 > claimed. This engine declares three rotorcraft OEI ratings and Rated 30-Minute
-> Power; that combination selects the endurance schedule of CS-E 740(c)(3)(i).
-> Ratings are declared for the weakest engine of the type, not the test engine.
+> Power. The three OEI ratings select the endurance schedule of
+> CS-E 740(c)(3)(i). Ratings are declared for the weakest engine of the type,
+> not the test engine.
 
 ## Requirement
 
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(a)** | Establish Take-off Power and Maximum Continuous Power. | Required |
-| **(b)(3)** | Further OEI ratings may be established for multi-engined rotorcraft. | Required if claimed |
+| **(b)(3)** | Other ratings may be established for turbine engines for multi-engined rotorcraft, among them (i) 30-Second OEI Power, (ii) 2-Minute OEI Power and (v) Continuous OEI Power. | Required if claimed |
 | **(b)(4)** | Rated 30-Minute Power may be established for rotorcraft engines. | Required if claimed |
-| **(c)** | The engine Power ratings will be based on standard atmospheric conditions, without aircraft bleed, with only accessories essential to engine functioning. Any other basis is declared in the TCDS. | Statement |
+| **(c)** | The engine Power ratings will be based on standard atmospheric conditions, with no air bleed for aircraft services, and with only the accessories essential for engine functioning installed, including controls. Any other basis is declared in the engine type certificate data sheet (TCDS). | Statement |
 | **(d)** | Establish operating limitations for the intended operating conditions. | Required |
 | **(e)** | List rated powers, and limitations the crew must respect, in the TCDS under point 21.A.41 of Part 21. | Required |
 | **(e)** | The engine type certificate data sheet must also identify, or make reference to, all other information found necessary for the safe operation of the engine. | Required |
-| **(f)** | Define each rating for the lowest power all engines of the type produce, and define the minimum testing that ensures it. | Required |
+| **(f)** | Define each rating for the lowest power that all engines of the type may be expected to produce under the conditions used to determine the rating. Define the minimum testing, with its conditions, that ensures all engines meet this. | Required |
 | **(g)** | Account for the accuracy limits of the Engine Control System and instrumentation, as defined in CS-E 60(b). | Required |
 
 A rating under (b) is elective. Once the applicant claims it, substantiation is
-mandatory.
+mandatory [CS-E 40(b)].
 
 Sub-point (f) governs the declared value. The rating reflects the weakest engine
-of the type, not the test engine.
+of the type, not the test engine [CS-E 40(f)].
 
 ## Compliance
 
@@ -49,8 +50,9 @@ of the type, not the test engine.
 
 ## Application to this engine
 
-Declared under (b)(3): 30-Second OEI, 2-Minute OEI, Continuous OEI Power.
-Declared under (b)(4): Rated 30-Minute Power.
+The applicant declares 30-Second OEI, 2-Minute OEI and Continuous OEI Power
+under (b)(3) [CS-E 40(b)(3)]. It declares Rated 30-Minute Power under (b)(4)
+[CS-E 40(b)(4)].
 
 Two rotorcraft ratings remain available but are not claimed: 2½-Minute OEI
 [CS-E 40(b)(3)(iii)] and 30-Minute OEI [CS-E 40(b)(3)(iv)]. Their absence
@@ -58,11 +60,14 @@ removes the 2½-minute insertions from the endurance schedule — see [[CS-E 740
 
 The declared combination of 30-Second, 2-Minute and Continuous OEI selects the
 endurance schedule of CS-E 740(c)(3)(i), complemented by the additional test of
-CS-E 740(c)(3)(iii).
+CS-E 740(c)(3)(iii) [CS-E 740(c)(3)(i)].
 
-The declared ratings also fix what the rotorcraft applicant must test its
-transmission against. Each remaining transmission input is run at the maximum
-torque attainable for at least 15 minutes with one engine inoperative
+The declared ratings also bear on the rotorcraft applicant's transmission test.
+Where turbine engine torque output to the transmission can exceed the highest
+engine or transmission torque limit, and the pilot does not directly control
+that output, both codes prescribe an OEI torque test. With each engine in turn
+inoperative, each remaining transmission input is tested at the maximum torque
+attainable under probable operating conditions for at least 15 minutes
 [ext CS 29.927(b)(2)], [ext CS 27.927(b)(2)]. That duration is longer than the
 30-Second and the 2-Minute OEI Power Ratings. See [[CS 29.927]] and
 [[CS 27.927]].
@@ -79,8 +84,9 @@ The same point adds that "the engine type-certificate data sheet shall include
 the record of exhaust emissions compliance", which is the data sheet duty
 discussed in [[CS 34.2]] and [[AMC E 1020]].
 
-"OEI override" is a control-system feature, not a rating under this paragraph.
-It is assessed under [[CS-E 50]] and the [[CS-E 510]] safety analysis.
+"OEI override" is a control-system feature, not a rating under this paragraph,
+as `engine_profile.md` records. It is assessed under [[CS-E 50]] and the
+[[CS-E 510]] safety analysis.
 
 ## Not applicable
 
@@ -97,4 +103,6 @@ External: [[CS 29.927]] · [[CS 27.927]] · [[CS 34.2]]
 
 ## Amendment history
 
-Amended at Amendment 7. The amendment inserted "point" and "of Part 21" in sub-point (e), aligning the citation format with Part 21. No change to the ratings themselves.
+Amended at Amendment 7. The amendment inserted "point" and "of Part 21" in
+sub-point (e), aligning the citation format with Part 21. No change to the
+ratings themselves.

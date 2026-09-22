@@ -9,10 +9,11 @@ tags: [structure, amc]
 # AMC General
 
 > [!summary]
-> A single sentence recording that the AMC E paragraphs are not the only source
-> of acceptable means: AMC-20, a separate EASA document, may also supply one for
-> a CS-E specification. The practical consequence is a search obligation — check
-> AMC-20 before concluding that no acceptable means exists for a specification.
+> The AMC E paragraphs are not the only source of acceptable means. AMC-20, a
+> separate EASA document, may also provide an Acceptable Means of Compliance
+> (AMC) for a CS-E specification. The absence of an AMC E paragraph therefore
+> does not show that no acceptable means exists. An applicant checks AMC-20
+> before proposing a method of its own.
 
 ## Requirement
 
@@ -24,8 +25,9 @@ CS-E contains two kinds of paragraph. A `CS-E nnn` paragraph states a
 specification. An `AMC E nnn` paragraph states an acceptable means of complying
 with it.
 
-This note records that the AMC E paragraphs are not the only source of acceptable
-means. AMC-20 is a separate EASA document and may also supply one.
+This note records that the AMC E paragraphs are not the only source of
+acceptable means. AMC-20 is a separate EASA document and may also supply one
+[AMC General].
 
 ## Compliance
 
@@ -33,8 +35,8 @@ means. AMC-20 is a separate EASA document and may also supply one.
 
 ## Application to this engine
 
-Nothing specific to a turboshaft. The provision applies to every CS-E
-specification.
+The provision contains nothing specific to a turboshaft. It applies to every
+CS-E specification [AMC General].
 
 AMC-20 is held in `source/external/`, at Amendment 23. Four of its documents
 are read in this vault: AMC 20-3B, which has a note of its own at

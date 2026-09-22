@@ -9,13 +9,13 @@ tags: [instruments, oei, monitoring, installation]
 # CS-E 60 — Provision for Instruments
 
 > [!summary]
-> The engine must make provision for the instruments an operator needs to stay
-> inside its operating limitations, and must tell the installer which ones are
-> mandatory and how accurate they must be. Instrumentation and control paths
-> must be segregated so a Fault cannot propagate between them. A rotorcraft
-> engine with 30-Second and 2-Minute OEI ratings carries extra duties: alert the
-> pilot during use, record every use by a means which cannot be reset in flight,
-> and allow maintenance personnel to retrieve the record.
+> The engine must make provision for the instruments needed for operation within
+> its limitations, and must tell the installer which ones are mandatory and how
+> accurate they must be. Instrumentation and control paths must be segregated so
+> that the probability of a Fault propagating between them is consistent with
+> its Failure effect. A rotorcraft engine with 30-Second and 2-Minute OEI
+> ratings must also alert the pilot, record every use by a means which cannot be
+> reset in flight, and permit retrieval of the record.
 
 ## Requirement
 
@@ -44,11 +44,12 @@ every duty in (d) is mandatory.
 The phrase "means, or provision for means" runs through all of (d). The engine
 applicant may supply the function itself, or supply only the provision for it
 and leave the function to the rotorcraft. Either path satisfies the
-specification; see [[AMC E 60|AMC E 60(d)(3)]] for the case where the recording
-or retrieval system is not part of the engine.
+specification [CS-E 60(d)]; see [[AMC E 60|AMC E 60(d)(3)]] for the case where
+the recording or retrieval system is not part of the engine.
 
 The inspections sentence closes (e) and is not conditional on the relief. Where
-the applicant takes (e)(1), (e)(2) or (e)(3), the inspections are still required.
+the applicant takes (e)(1), (e)(2) or (e)(3), the inspections are still required
+[CS-E 60(e)].
 
 ## Compliance
 
@@ -63,22 +64,22 @@ the applicant takes (e)(1), (e)(2) or (e)(3), the inspections are still required
 ## Application to this engine
 
 Sub-point (d) is triggered. `engine_profile.md` declares 30-Second OEI and
-2-Minute OEI, which are exactly the two ratings named in (d). Continuous OEI is
-also declared but does not trigger (d); the sub-point names only the 30-Second
-and 2-Minute levels.
+2-Minute OEI, which are exactly the two ratings named in (d) [CS-E 60(d)].
+Continuous OEI is also declared but does not trigger (d); the sub-point names
+only the 30-Second and 2-Minute levels.
 
 The recording means must not be resettable in flight [CS-E 60(d)(2)]. If the
 recording or retrieval system sits in the rotorcraft rather than the engine, the
-applicant supplies the provision and states the interface in the instructions for
-installation. That makes the system a component outside the engine type design,
-so [[CS-E 30|CS-E 30(b)]] requires its interface conditions and reliability
-specifications as well.
+applicant supplies the provision and states the interface in the instructions
+for installation [AMC E 60(d)(3)]. That makes the system a component outside the
+engine type design, so [[CS-E 30|CS-E 30(b)]] requires its interface conditions
+and reliability specifications as well [CS-E 30(b)].
 
 Sub-point (c) is load-bearing for a full-authority EECS. Monitoring and control
-share sensors and wiring in an integrated control system, so the segregation
-argument must be explicit rather than assumed. The acceptable propagation
-probability is set by the Failure effect of the Fault, which links this paragraph
-to [[CS-E 510]] and to [[CS-E 50|CS-E 50(d)]].
+may share sensors and wiring in an integrated control system, so the segregation
+argument must be explicit rather than assumed [CS-E 60(c)]. The acceptable
+propagation probability is set by the Failure effect of the Fault, which links
+this paragraph to [[CS-E 510]] and to [[CS-E 50|CS-E 50(d)]].
 
 ## References
 

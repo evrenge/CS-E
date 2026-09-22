@@ -10,13 +10,13 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 # CS-E 50 — Engine Control System
 
 > [!summary]
-> The longest paragraph in Subpart A, with 28 obligations covering control system
-> operation, Control Mode transitions, failure rates, the system safety
-> assessment, over-speed protection, software, aircraft-supplied data and power,
-> air signal lines, rapid shutdown and information security. For this engine it
-> also requires automatic availability and automatic control of 30-Second OEI
-> power. Two of its cross-references — CS-E 390 and CS-E 210 — are piston
-> paragraphs and do not bind a turbine engine.
+> This is the longest paragraph in Subpart A, with 28 obligations covering
+> control system operation, Control Mode transitions, failure rates, the system
+> safety assessment, over-speed protection, software, aircraft-supplied data and
+> power, air signal lines, rapid shutdown and information security. For this
+> engine it also requires automatic availability and automatic control of
+> 30-Second OEI power. Two of its cross-references — CS-E 390 and CS-E 210 — are
+> piston paragraphs and do not bind a turbine engine.
 
 ## Requirement
 
@@ -26,7 +26,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 |---|---|---|
 | **(a)** | Substantiate by test, analysis or a combination that the Engine Control System performs its intended functions. | Required |
 | **(a)(1)** | Maintain selected values of relevant control parameters and keep the engine within approved operating limits over changing atmospheric conditions in the declared flight envelope. | Required |
-| **(a)(2)** | Comply with the operability specifications of CS-E 500(a) and CS-E 745 under all likely system inputs and allowable power demands, unless it is demonstrated that this is not required for non-dispatchable specific Control Modes. | Required |
+| **(a)(2)** | Comply with the operability specifications of CS-E 500(a) and CS-E 745 under all likely system inputs and allowable power demands, unless it is demonstrated that this is not required for non-dispatchable specific Control Modes in the intended application. | Required |
 | **(a)(2)** | In that case the engine approval will be endorsed accordingly. | Statement |
 | **(a)(3)** | Allow modulation of power with adequate sensitivity and accuracy over the declared range of operating conditions. | Required |
 | **(a)(4)** | Do not create unacceptable power oscillations. | Required |
@@ -43,7 +43,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 | **(c)(1)** | Achieve a Loss of Power Control (LOPC) event rate consistent with the safety objective of the intended aircraft application. | Required |
 | **(c)(2)** | In the Full-up Configuration, be essentially single-Fault tolerant for electrical and electronic Failures with respect to LOPC events. | Required |
 | **(c)(3)** | Single Failures of control system components do not result in a Hazardous Engine Effect. | Required |
-| **(c)(4)** | Foreseeable Failures or malfunctions causing local events in the intended installation — fire, overheat, or damage to control system components — do not result in a Hazardous Engine Effect. | Required |
+| **(c)(4)** | Foreseeable Failures or malfunctions causing local events in the intended installation — fire, overheat, or damage to control system components — do not result in a Hazardous Engine Effect due to control system Failures or malfunctions. | Required |
 | **(d)** | Complete a system safety assessment for the Engine Control System when complying with CS-E 510. It must identify Faults or Failures causing a power change, a transmission of erroneous data, or an effect on operability, together with their predicted frequency of occurrence. See also [CS-E 110(e)]. | Required |
 
 ### Protection systems, software and signal lines
@@ -63,7 +63,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 | **(g)(2)** | Such Failures must be detected and accommodated. The accommodation strategy must not cause an unacceptable power change or an unacceptable change in operating and starting characteristics. Evaluate and document these effects throughout the flight envelope. | Required |
 | **(g)(2)** | CS-E 50(g)(2) does not apply to power command signals from the aircraft. | Statement |
 | **(h)(1)** | Design the control system so that loss or interruption of aircraft-supplied electrical power does not result in a Hazardous Engine Effect (i) or cause unacceptable transmission of erroneous data (ii). Take that effect into account when complying with CS-E 50(c)(1). | Required |
-| **(h)(2)** | Where an engine-dedicated power source is required for compliance with CS-E 50(h)(1), its capacity should provide sufficient margin for engine operation below idle where the control system is designed to recover engine operation automatically. | Recommended |
+| **(h)(2)** | Where an engine-dedicated power source is required for compliance with CS-E 50(h)(1), its capacity should provide sufficient margin for engine operation below idle where the control system is designed and expected to recover engine operation automatically. | Recommended |
 | **(h)(3)** | Identify and declare in the instructions for installation the need for, and characteristics of, any aircraft-supplied electrical power for starting and operating the engine, including transient and steady-state voltage limits. | Required |
 | **(h)(4)** | Low voltage transients outside the declared limits must meet CS-E 50(h)(1), and the control system must resume normal operation when power returns within the declared limits. | Required |
 
@@ -77,7 +77,7 @@ tags: [control-system, eecs, fadec, lotc, software, security, oei]
 
 Sub-point (h)(2) is one of the few CS-E paragraphs using "should". It is a
 recommendation inside a binding specification, and is weaker than the "must" in
-(h)(1) that it supports.
+(h)(1) that it supports [CS-E 50(h)(2)].
 
 ## Compliance
 
@@ -112,28 +112,31 @@ interprets this paragraph.
 ## Application to this engine
 
 Sub-point (j) binds. The applicant declares a 30-Second OEI Power rating, so
-automatic availability and automatic control of that rating are mandatory.
-[[AMC E 50|AMC E 50(j)]] governs the method.
+means, or provision for means, for automatic availability and automatic control
+of that rating are mandatory [CS-E 50(j)]. [[AMC E 50|AMC E 50(j)]] governs the
+method.
 
-"OEI override" is a control-system feature, not a rating under [[CS-E 40]]. It is
-assessed here and in the [[CS-E 510]] safety assessment required by (d).
+"OEI override" is a control-system feature, not a rating under [[CS-E 40]], as
+`engine_profile.md` records. It is assessed here and in the [[CS-E 510]] safety
+assessment required by (d) [CS-E 50(d)].
 
 The engine uses a full-authority EECS. Therefore, if the protection is
 electronic, the electronic route at (e)(1) applies to over-speed protection,
-rather than the hydromechanical route at (e)(2). The software obligations at
-(f) also carry their full weight.
+rather than the hydromechanical route at (e)(2) [CS-E 50(e)]. The software
+obligations at (f) also carry their full weight [CS-E 50(f)].
 
 Sub-point (a)(2) cites CS-E 390 as well as CS-E 500(a) and CS-E 745. CS-E 390 is
 in Subpart C and applies to piston engines, so only CS-E 500(a) and CS-E 745 bind
-here. Sub-point (d) likewise cites CS-E 210, a Subpart B paragraph; [[CS-E 510]]
-is the turbine engine route.
+here [CS-E 50(a)(2)]. Sub-point (d) likewise cites CS-E 210, a Subpart B
+paragraph; [[CS-E 510]] is the turbine engine route [CS-E 50(d)].
 
-The rotorcraft's transmission tests depend on this control system. CS 29.927
-and CS 27.927 set the test torque at the maximum attainable, "assuming that
-torque limiting devices, if any, function properly" [ext CS 29.927(b)(2)],
-[ext CS 27.927(b)(1)(ii)], [ext CS 27.927(b)(2)]. Where the EECS provides that limit, its integrity is
-engine-side evidence under this paragraph. CS 29.927(d) further takes its
-overspeed test speed from the rotational speed expected after an engine control
+The rotorcraft's transmission tests depend on this control system. Where their
+torque test applies, CS 29.927 and CS 27.927 set the test torque at the maximum
+attainable, "assuming that torque limiting devices, if any, function properly"
+[ext CS 29.927(b)(2)], [ext CS 27.927(b)(1)(ii)], [ext CS 27.927(b)(2)]. Where
+the EECS provides that limit, its integrity is engine-side evidence under this
+paragraph. CS 29.927(d) further runs its overspeed test at not less than the
+higher of two speeds. One is the rotational speed expected from an engine control
 device failure [ext CS 29.927(d)]. Both paragraphs are recorded in
 [[CS 29.927]] and [[CS 27.927]].
 
@@ -149,15 +152,17 @@ protection targets. Its own note records them.
 AMC 20-1A is the aircraft-level companion. It addresses "the compliance tasks
 relating to the certification of the installation of propulsion systems equipped
 with electronic control systems" [ext AMC 20-1A 1], and for a rotorcraft it
-points to the equivalent specifications in CS-27 and CS-29
-[ext AMC 20-1A 2]. It binds the installer, not the engine applicant, but it
-defines the other half of the interface this paragraph creates.
+points to the equivalent specifications in CS-27 and CS-29 [ext AMC 20-1A 2].
+Its guidance relates to issues considered during aircraft certification
+[ext AMC 20-1A 3], so it addresses the installer rather than the engine
+applicant. It still defines the other half of the interface this paragraph
+creates.
 
 AMC 20-115D is the software route. It recognises EUROCAE ED-12C and RTCA DO-178C
 and their supplements as acceptable means for the software aspects of airborne
-systems [ext AMC 20-115D 1], which is how sub-point (f) is satisfied in
-practice. The criticality level itself comes from the engine safety assessment,
-not from the software standard.
+systems [ext AMC 20-115D 1]. That offers one route to the approved method of
+sub-point (f), which must be consistent with the criticality of the performed
+functions [CS-E 50(f)].
 
 The revision letters are an open item and are recorded once, in [[AMC 20-3B]]:
 CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and AMC 20-115 without them.

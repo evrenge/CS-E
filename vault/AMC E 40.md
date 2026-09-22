@@ -25,8 +25,8 @@ covers: ["AMC E 40", "AMC E 40(b)(3)", "AMC E 40(d)"]
 |---|---|---|
 | — | Justify the power ratings to be approved, using as appropriate the results of the calibration test and the values substantiated by the endurance test, or other means. | Accepted method |
 
-A rating is not established by declaration. It is established by calibration and
-endurance evidence.
+A rating is not established by declaration alone. The applicant justifies it
+with calibration and endurance evidence, or by other means [AMC E 40].
 
 ### AMC E 40(b)(3) and (b)(4) — the OEI and 30-Minute Power ratings
 
@@ -48,14 +48,15 @@ Failure occur at the critical decision point. It lets the rotorcraft complete
 the take-off, lift clear of obstructions and climb out. Alternatively, it lets
 the rotorcraft reject the take-off. It also provides power for a safe landing or
 a baulked landing if an engine fails at any point down to and including the
-landing decision point.
+landing decision point [AMC E 40(b)(3)(2)].
 
 The 2-Minute OEI rating provides a further period of increased power to complete
-the climb out from take-off or baulked landing to safe altitude and airspeed.
+the climb out from take-off or baulked landing to safe altitude and airspeed
+[AMC E 40(b)(3)(2)].
 
 Point (4) records that the ratings could also be used inadvertently in
 non-critical conditions, such as an engine Failure at high-speed cruise. The
-mandatory maintenance applies in all cases.
+mandatory maintenance applies in all cases [AMC E 40(b)(3)(4)].
 
 ### Deterioration allowance [(6)]
 
@@ -63,22 +64,23 @@ Any available information from the CS-E 740(c)(3)(iii) tests may be used to
 establish engine characteristics through the operating envelope. The power
 ratings should reflect the rated power deterioration observed from the pre-2-hour
 test calibration through and including the third application of 30-Second OEI
-rated power.
+rated power [AMC E 40(b)(3)(6)].
 
 That third application is expected to be the best indicator of worst-case
 deterioration in service, so it should be reflected in the data given to the
-aircraft manufacturer.
+aircraft manufacturer [AMC E 40(b)(3)(6)].
 
 **Where power deterioration exceeds 10 % at the 30-Second OEI rating over the
 2-hour test**, the mode of deterioration should be evaluated. This ensures that
 availability of 30-Second OEI rated power in service is not compromised by
-variability in the amount of deterioration.
+variability in the amount of deterioration [AMC E 40(b)(3)(6)].
 
 ### Rated 30-Minute Power [(7)]
 
 Rated 30-Minute Power may be set at any level from Maximum Continuous up to and
-including the take-off rating. It may be used for multiple periods of up to 30 minutes each, at
-any time between the take-off and landing phases in any flight.
+including the take-off rating. It may be used for multiple periods of up to
+30 minutes each, at any time between the take-off and landing phases in any
+flight [AMC E 40(b)(3)(7)].
 
 ### AMC E 40(d) — operating limitations to declare
 
@@ -137,40 +139,46 @@ any time between the take-off and landing phases in any flight.
 ## Application to this engine
 
 The turbine engine route applies to the general AMC: [[CS-E 730]] for calibration
-and [[CS-E 740]] for endurance. The declared combination of 30-Second, 2-Minute
-and Continuous OEI selects the endurance schedule of CS-E 740(c)(3)(i) with the
-additional 2-hour test of CS-E 740(c)(3)(iii). Rated 30-Minute Power adds the
-provisions of [[AMC E 740|AMC E 740(c)(2)(i)]].
+and [[CS-E 740]] for endurance [AMC E 40]. The declared combination of
+30-Second, 2-Minute and Continuous OEI selects the endurance schedule of
+CS-E 740(c)(3)(i) with the additional 2-hour test of CS-E 740(c)(3)(iii)
+[CS-E 740(c)(3)(i)]. Rated 30-Minute Power adds the provisions of
+[[AMC E 740|AMC E 740(c)(2)(i)]].
 
-All of this paragraph binds. The applicant declares 30-Second OEI, 2-Minute OEI
-and Rated 30-Minute Power.
+All three AMC paragraphs apply. The applicant declares 30-Second OEI, 2-Minute
+OEI and Rated 30-Minute Power, which are the ratings AMC E 40(b)(3) explains.
 
-The 2.5-minute worst case at point (4) drives the certification assumption: three
-uses in one flight, at take-off, baulked landing and final landing. That
-assumption sizes the endurance testing and the post-flight maintenance regime.
+The worst case at point (4) drives the certification assumption: three uses in
+one flight, at take-off, baulked landing and final landing [AMC E 40(b)(3)(4)].
+The certification specifications are defined around that case, including the
+endurance testing and the post-flight maintenance regime.
 
-Point (5) is an option the applicant may take: extending 2-Minute OEI to 2.5
-minutes where the power stayed below the 30-Second band. Taking it means the
-extra 30 seconds counts as a derated 30-Second OEI rating, with the maintenance
-consequences that follow. [[AMC E 25|AMC E 25(4)(a)]] sets out the alternative
+Point (5) is an option the applicant may take: extending 2-Minute OEI to
+2.5 minutes where the highest power stayed below the 30-Second OEI power band
+but within the certified 2-Minute OEI band. Taking it means the extra 30 seconds
+counts as a derated 30-Second OEI rating, with the maintenance consequences that
+follow [AMC E 40(b)(3)(5)]. [[AMC E 25|AMC E 25(4)(a)]] sets out the alternative
 of seeking approval for a different set of inspections for that case.
 
 Continuous OEI is also declared but is not covered by this paragraph; it is a
-CS-E 40(b)(3)(v) rating without a dedicated AMC.
+CS-E 40(b)(3)(v) rating without a dedicated AMC [CS-E 40(b)(3)(v)].
 
-Items (n) and (o) are the rotorcraft-defining rows. Maximum Power Turbine speed
-for Autorotation and Maximum Power Turbine torque have no analogue on a turbofan;
-on a turboshaft they are primary declared limitations.
+Items (n) and (o) concern the power turbine: Maximum Power Turbine speed for
+Autorotation, where applicable, and Maximum Power Turbine torque
+[AMC E 40(d)(3)(n)], [AMC E 40(d)(3)(o)]. On a turboshaft driving a rotor they
+are primary declared limitations.
 
-Item (a) requires RPM, indicated turbine gas temperature and time for each rating.
-The declared ratings are Take-off, Maximum Continuous, Rated 30-Minute Power,
-30-Second OEI, 2-Minute OEI and Continuous OEI — see `engine_profile.md`.
+Item (a) lists RPM, indicated turbine gas temperature and time for Take-off,
+Maximum Continuous and, where applicable, Contingency conditions
+[AMC E 40(d)(3)(a)]. The declared ratings are Take-off, Maximum Continuous,
+Rated 30-Minute Power, 30-Second OEI, 2-Minute OEI and Continuous OEI — see
+`engine_profile.md`.
 
 [VERIFY: item (a) lists "Maximum Contingency", "Intermediate Contingency" and
 "30-minute Contingency" conditions. None of these names appears in [[CS-E 40]],
 which uses the OEI rating names and Rated 30-Minute Power. The Contingency
 terminology appears to predate the current rating names. Confirm the mapping with
-EASA before entering these rows in the TCDS.]
+the Agency before entering these rows in the TCDS.]
 
 ## Not applicable
 

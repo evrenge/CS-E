@@ -9,12 +9,13 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 # AMC E 25 — Instructions for continued airworthiness
 
 > [!summary]
-> The accepted means for the Instructions for Continued Airworthiness, and the
-> heaviest AMC in Subpart A. Most of it governs the 30-Second and 2-Minute OEI
-> ratings: what the mandatory post-flight actions must achieve, how they are
-> validated, and the in-service engine evaluation programme that must be approved
-> by EASA before certification. Its Amendment 8 addition covers piston time
-> between overhauls and time between replacements, and does not apply here.
+> This AMC gives the accepted means for the Instructions for Continued
+> Airworthiness (ICA). It is the heaviest AMC in Subpart A. Most of it governs
+> the 30-Second and 2-Minute OEI ratings: what the mandatory post-flight actions
+> should achieve, how they are validated, and the in-service engine evaluation
+> programme. Under this means, the Agency approves that programme before
+> certification. The Amendment 8 addition covers piston time between overhauls
+> and time between replacements, and does not apply here.
 
 ## Requirement
 
@@ -24,7 +25,7 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 |---|---|---|
 | **(1)** | Maintenance actions are determined through certification testing — endurance, initial maintenance programme, over-speed and over-temperature tests — supplemented by development testing and service experience of the same or similar engines. Servicing information should cover servicing points, inspections, adjustments, tests and component replacement. | Accepted method |
 | **(1)** | The mandatory inspection and maintenance actions under CS-E 25(b)(1) may evolve after entry into service, based on service experience. | Statement |
-| **(2)** | Where certain tests may be carried out with engines installed in the aircraft, the manuals should say how minimum installed performance levels will be verified, and how they relate to the static sea-level test-bed ratings approved for the engine. | Accepted method |
+| **(2)** | Where certain tests may be carried out with engines installed in the aircraft, the manuals should say how minimum installed performance levels will be verified, where necessary, and how they relate to the static sea-level test-bed ratings approved for the engine. | Accepted method |
 | **(3)** | The manuals should include, where applicable, the division of the engine into modules, with nomenclature and clearly defined module boundaries. | Accepted method |
 | **(5)** | For an engine with a 30-Minute Power rating, usage of the rating should be considered when establishing the ICA. Usage limitations such as the cumulated time limit should be specified in the appropriate ICA section, with instructions for when those limits are reached. | Accepted method |
 
@@ -38,7 +39,7 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 | **(4)(a)** | Where only accumulated usage time is recorded under CS-E 60(d)(2), the prescribed action should be based on total recorded duration, regardless of the number of applications in one flight. | Accepted method |
 | **(4)(b)** | Where recorded operating parameters allow, a maintenance action and a decrement of remaining time before overhaul or component replacement may be pre-defined, based on the type, level and duration of exposure. | Permitted |
 | **(4)(b)** | Where the mandatory instructions result in no maintenance action, the minimum is interpretation of the recorded event data and documentation of that data in the maintenance log(s). | Accepted method |
-| **(4)(b)** | The ICA should define the data the operator must provide during service to support the in-service evaluation programme. | Accepted method |
+| **(4)(b)** | The ICA should define the data to be provided by the operator during service to support the in-service evaluation programme. | Accepted method |
 
 ### 30-Second and 2-Minute OEI: validation [(4)(c)]
 
@@ -62,24 +63,25 @@ tags: [ica, oei, maintenance, in-service-programme, modules, 30-minute-power]
 
 The programme's purpose at (4)(d)(i) is to obtain data on engine hardware
 condition and power availability at various stages of life. Those data are then
-compared with the corresponding data observed during certification.
+compared with the corresponding data observed during certification
+[AMC E 25(4)(d)(i)].
 
 Two comparisons are named: in-service engines that have never used the ratings
-against the parameters existing **before** the 2-hour additional endurance test of
-CS-E 740(c)(3)(iii); and in-service engines after using the ratings against the
-parameters observed **following** that test.
+against the parameters existing **before** the 2-hour additional endurance test
+of CS-E 740(c)(3)(iii); and in-service engines after using the ratings against
+the parameters observed **following** that test [AMC E 25(4)(d)(i)].
 
-Point (4)(d)(ii) lists the programme elements. The programme should consist of
-one or more of them:
+Point (4)(d)(ii) lists the programme elements. This part of the programme would
+consist of, but not be limited to, one or more of them [AMC E 25(4)(d)(ii)]:
 
-- Scheduled tests of in-service engines imposing three applications of 30 seconds OEI rated power, installed in the rotorcraft or in an engine test cell. For selected representative aged engines, with sample number and frequency, and inspection and test specifications recording available power and hardware condition before and after usage.
-- Unscheduled tests of engines of opportunity imposing three applications of 30 seconds OEI rated power, with selection criteria for representative aged engines.
-- Service usage data: recorded power available, post-usage power available, and results of the mandatory maintenance and inspection actions.
+- Scheduled tests of in-service engines imposing three applications of 30 seconds OEI rated power, installed in the rotorcraft or in an engine test cell. For selected representative aged engines, the programme would include the number and frequency of samples and the inspection and test specifications. Those specifications should record available power and hardware condition before and after usage.
+- Unscheduled tests of engines of opportunity imposing three applications of 30 seconds OEI rated power. The programme may include actions for when engines meeting predetermined criteria become available. It should define selection criteria for representative aged engines, and record available power and hardware condition before and after usage.
+- Service usage data: recorded power available, post-usage power available, and/or results of the mandatory maintenance and inspection actions.
 - Equivalent service test on engines of similar design, demonstrated as representative.
 
 Aircraft certification testing of the ratings may supply additional recorded
 data. Development or certification test evidence may reduce, but not eliminate,
-the number of engines required from service.
+the number of engines required from service [AMC E 25(4)(d)(ii)].
 
 ## Compliance
 
@@ -99,16 +101,18 @@ the number of engines required from service.
 
 ## Application to this engine
 
-The whole of point (4) binds: the applicant declares both 30-Second OEI and
-2-Minute OEI. Point (5) binds as well, because Rated 30-Minute Power is declared.
+The whole of point (4) applies: the applicant declares both 30-Second OEI and
+2-Minute OEI [AMC E 25(4)]. Point (5) applies as well, because Rated 30-Minute
+Power is declared [AMC E 25(5)].
 
-The in-service evaluation programme at (4)(d) is the heaviest obligation in this
-note. It must be approved by EASA **before certification**, so it is not a
-post-certification activity that can be deferred.
+The in-service evaluation programme at (4)(d) is the heaviest item in this note.
+Under this accepted means, the Agency approves it **before certification**
+[AMC E 25(4)(d)(i)]. It is therefore not a post-certification activity that can
+be deferred.
 
 Its data comparisons are anchored to the 2-hour additional endurance test of
-CS-E 740(c)(3)(iii) — the test that the declared rating combination selects. See
-[[CS-E 740]].
+CS-E 740(c)(3)(iii) — the test that the declared rating combination selects
+[AMC E 25(4)(d)(i)]. See [[CS-E 740]].
 
 The "three applications of 30 seconds OEI rated power" in the programme elements
 matches the worst-case assumption in [[AMC E 40|AMC E 40(b)(3)(4)]]: three uses
@@ -116,7 +120,7 @@ in one flight at take-off, baulked landing and final landing.
 
 Point (4)(a) offers a choice where 2-Minute OEI is extended to 2½ minutes: apply
 the 30-Second OEI maintenance actions, or seek approval for a different set. The
-second route needs justification and validation.
+second route needs justification and validation [AMC E 25(4)(a)].
 
 [VERIFY: whether this engine is essentially the same as an engine holding a
 2½-Minute OEI rating equivalent to the declared 2-Minute OEI rating.

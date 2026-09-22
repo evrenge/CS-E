@@ -9,23 +9,23 @@ tags: [applicability, scope, structure]
 # CS-E 10 — Applicability
 
 > [!summary]
-> The scope anchor for the whole vault. Subparts A, D, E and F apply to turbine
-> engines, so all four apply to a turboshaft, while Subparts B and C are piston
-> only. The paragraph imposes no test or analysis; it fixes which subparts form
-> the certification basis. Its only practical effect here is the thrust reverser
-> endorsement, since no reverser is fitted.
+> This paragraph is the scope anchor for the whole vault. Subparts A, D, E and F
+> apply to turbine engines, so all four apply to a turboshaft, while Subparts B
+> and C are piston only. The paragraph imposes no test or analysis; it fixes
+> which subparts form the certification basis. Its only practical effect here is
+> the thrust reverser endorsement, since no reverser is fitted.
 
 ## Requirement
 
 | Ref | Obligation | Strength |
 |---|---|---|
 | **(a)** | CS-E holds the airworthiness specifications for issuing engine type certificates, and changes to them, under Part 21. | Statement |
-| **(b)** | CS-E holds the specifications for approving use of the engine with a thrust reverser, where one is fitted. | Statement |
+| **(b)** | CS-E holds the specifications for approving use of the engine with a thrust reverser, where one is fitted. Where compliance is not shown, the engine certification documentation will be endorsed to prohibit thrust reverser use. | Statement |
 | **(d)** | Subparts A, D, E and F apply to Turbine Engines. | Statement |
 
 This paragraph imposes no test or analysis. It fixes which subparts form the
 certification basis, and every applicability decision in this vault derives from
-sub-point (d).
+sub-point (d) [CS-E 10(d)].
 
 ## Compliance
 
@@ -33,12 +33,13 @@ sub-point (d).
 
 ## Application to this engine
 
-A turboshaft is a Turbine Engine, so Subparts A, D, E and F apply in full.
+A turboshaft is a Turbine Engine, so Subparts A, D, E and F apply in full
+[CS-E 10(d)].
 
 No thrust reverser is fitted. Under CS-E 10(b), the engine certification
-documentation is therefore endorsed to prohibit thrust reverser use. That
-endorsement is the only obligation sub-point (b) places on this programme; the
-thrust reverser specifications themselves do not apply.
+documentation will therefore be endorsed to prohibit thrust reverser use. That
+endorsement is the only effect of sub-point (b) on this programme; the thrust
+reverser specifications themselves do not apply [CS-E 10(b)].
 
 ## Not applicable
 

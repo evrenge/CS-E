@@ -12,10 +12,10 @@ covers: ["AMC E 60", "AMC E 60(d)"]
 
 > [!summary]
 > Two AMC paragraphs serve CS-E 60. The general AMC covers what instrumentation
-> to define, and where on the engine to sense a parameter so the reading protects
-> the component it is meant to protect. AMC E 60(d) covers the OEI usage
-> recording system: when a power level counts as used, what the record must
-> contain, the development assurance level it needs, and when a genuine
+> to define, and where on the engine to sense a parameter so the reading
+> protects the component it is meant to protect. AMC E 60(d) covers the OEI
+> usage recording system: when a power level counts as used, what the record
+> should contain, the development assurance level it needs, and when a genuine
 > over-limit event does not count as OEI usage.
 
 ## Requirement
@@ -34,8 +34,9 @@ covers: ["AMC E 60", "AMC E 60(d)"]
 
 Sub-point (1) names three examples of instrumentation that may be required for
 aircraft certification: "indication of engine ice protection system activation,
-rotor system unbalance, and fuel flow" [AMC E 60(1)]. All three are rotorcraft
-relevant. The examples are the Amendment 7 insertion — see **Amendment history**.
+rotor system unbalance, and fuel flow" [AMC E 60(1)]. The rotor system unbalance
+example is specific to rotorcraft. The examples are the Amendment 7 insertion —
+see **Amendment history**.
 
 ### AMC E 60(d) — OEI usage recording
 
@@ -43,7 +44,7 @@ relevant. The examples are the Amendment 7 insertion — see **Amendment history
 |---|---|---|
 | **(d)(1)** | Treat the 30-Second OEI power level as used whenever one or more of the operating limitations applicable to the 2-Minute OEI power level are exceeded. | Statement |
 | **(d)(1)** | Treat the 2-Minute OEI power level as used whenever one or more of the operating limitations applicable to the next lower OEI power rating, or other engine rating if applicable, are exceeded. | Statement |
-| **(d)(2)** | Provide means — by the applicant or by the rotorcraft manufacturer — that automatically record entry into and subsequent usage of the defined power levels, and that automatically alert the pilot of entry, of impending time expiration, and of the time expiration point. | Statement |
+| **(d)(2)** | The required means, provided by the applicant or by the rotorcraft manufacturer, are intended to automatically record entry into and subsequent usage of the defined power levels, and to alert the pilot automatically of entry, of impending time expiration, and of the time expiration point. | Statement |
 | **(d)(2)** | Make the automatic recording compatible with the maintenance instructions prescribed for these ratings. | Accepted method |
 | **(d)(2)** | Record the number of usages and the time of each usage or the accumulated time, including any exceedance of 30-Second OEI or 2-Minute OEI operating limitations or relevant time limitations. | Accepted method |
 | **(d)(2)** | Provide a means to alert maintenance personnel that usage or exceedance of 30-Second or 2-Minute OEI power has taken place. | Accepted method |
@@ -53,14 +54,14 @@ relevant. The examples are the Amendment 7 insertion — see **Amendment history
 | **(d)(3)** | If the recording and/or retrieval system is not part of the engine, the aircraft should still comply with CS-27/29.1305 specifications. | Accepted method |
 | **(d)(4)** | Allow the recording systems to be reset by maintenance personnel only, and not by the flight crew. | Accepted method |
 | **(d)(5)** | An engine may be approved with 30-Second and 2-Minute OEI Power Ratings together with any combination of Maximum Engine Over-torque, Maximum Engine Over-speed and Maximum Exhaust Gas Over-Temperature in compliance with CS-E 820, CS-E 830 and CS-E 870. | Permitted |
-| **(d)(5)** | In that case, engine operation above the Take-off Rating limits but within the limits established under CS-E 820, CS-E 830 and CS-E 870 need not be counted as usage of the 30-Second or 2-Minute OEI Power Ratings, where the event was a true over-torque, over-speed or over-temperature event and the recording system can distinguish (i) an over-speed, over-torque or over-temperature with all engines operating from (ii) use of the ratings with one engine inoperative. | Relief |
+| **(d)(5)** | In that case, engine operation above the Take-off Rating limits but within the limits established under CS-E 820, CS-E 830 and CS-E 870 need not be counted as usage of the 30-Second or 2-Minute OEI Power Ratings, where the event was a true over-torque, over-speed or over-temperature event and it can be demonstrated that the recording system can distinguish (i) an over-speed, over-torque or over-temperature with all engines operating from (ii) use of the ratings with one engine inoperative. | Relief |
 
-AMC E 60(d)(1) defines usage by exceedance of the limitations of the level below,
-not by a power reading. The 30-Second OEI level counts as used when a 2-Minute
-OEI limitation is exceeded, and the 2-Minute OEI level counts as used when a
-limitation of the next lower rating is exceeded. Declared ratings therefore
-determine what the recorder must watch, and the definition chains downward
-through every claimed OEI rating.
+AMC E 60(d)(1) defines usage by exceedance of the limitations of the level
+below, not by a power reading. The 30-Second OEI level counts as used when a
+2-Minute OEI limitation is exceeded, and the 2-Minute OEI level counts as used
+when a limitation of the next lower rating is exceeded. Declared ratings
+therefore determine what the recorder watches, and the definition chains
+downward through every claimed OEI rating [AMC E 60(d)(1)].
 
 AMC E 60(d)(2) also points to "paragraph (5) of AMC E 40(b) regarding exceedence
 of the 2 minute time limitation at 2-Minute OEI power" [AMC E 60(d)(2)]. See
@@ -68,7 +69,8 @@ of the 2 minute time limitation at 2-Minute OEI power" [AMC E 60(d)(2)]. See
 
 The relief in (d)(5) is conditional on two things at once: the event must be
 genuine, and the recording system must be able to tell an all-engines-operating
-over-limit event from OEI use. Without the second, the relief is not available.
+over-limit event from OEI use. Without the second, the relief is not available
+[AMC E 60(d)(5)].
 
 ## Compliance
 
@@ -83,7 +85,7 @@ over-limit event from OEI use. Without the second, the relief is not available.
 
 ## Application to this engine
 
-Both AMC paragraphs bind. `engine_profile.md` declares 30-Second OEI and
+Both AMC paragraphs apply. `engine_profile.md` declares 30-Second OEI and
 2-Minute OEI, which triggers [[CS-E 60|CS-E 60(d)]] and all of AMC E 60(d).
 
 The (d)(1) definition chains through the declared ratings. The 2-Minute OEI level
@@ -118,11 +120,11 @@ alert maintenance personnel in a positive manner that the engine has been
 operated at either or both levels.
 
 A third item is live for this engine because of a rating CS-E 60(d) does not
-cover. Where a 30-minute power rating is claimed, the pilot must be alerted when
-the engines are at that rating level, when the event begins, when the time
-interval expires and, where a cumulative limit in one flight exists, when that
-cumulative time is reached [ext CS 29.1305(a)(27)], [ext CS 27.1305(w)].
-`engine_profile.md` declares Rated 30-Minute Power under
+cover. Where a 30-minute power rating is claimed, both codes require a means to
+alert the pilot when the engines are at that rating level, when the event
+begins, when the time interval expires and, where a cumulative limit in one
+flight exists, when that cumulative time is reached [ext CS 29.1305(a)(27)],
+[ext CS 27.1305(w)]. `engine_profile.md` declares Rated 30-Minute Power under
 [[CS-E 40|CS-E 40(b)(4)]], so the installer needs the engine data to support
 that alerting.
 

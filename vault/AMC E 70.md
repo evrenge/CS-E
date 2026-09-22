@@ -9,13 +9,14 @@ tags: [materials, castings, forgings, welds, ndt, residual-stress, quality]
 # AMC E 70 — Castings, Forgings, Welded Structures and Welded Components
 
 > [!summary]
-> One AMC serves CS-E 70, and it covers three manufacturing families. Each
-> family gets the same pattern: establish the quality controls, classify the part
-> by the consequence of its failure, apply flaw or crack detection after heat
-> treatment, put the manufacturing and quality-control information on the
-> drawing, and freeze the supplier and the technique so neither changes without
-> the engine constructor's agreement. Forgings carry two extra duties: integral
-> test pieces, and residual stress assessment for Engine Critical Parts.
+> One AMC serves CS-E 70, and it covers three manufacturing families: castings,
+> forgings and welds. Each family follows the same pattern: establish the
+> quality controls, apply flaw or crack detection after heat treatment, put the
+> manufacturing and quality-control information on the drawing, and change
+> neither the supplier nor the technique without the engine constructor's
+> agreement. Forgings and welds are also classified by the consequence of their
+> failure. Forgings carry two extra duties: integral test pieces, and residual
+> stress assessment for Engine Critical Parts.
 
 ## Requirement
 
@@ -68,9 +69,10 @@ weld is one "the Failure or leakage of which could hazard the aircraft"
 not. Neither scheme uses the Hazardous Engine Effect classification of
 [[CS-E 510]], so the two assessments are related but not interchangeable.
 
-Crack and flaw detection are specified **after** heat treatment throughout. Heat
-treatment can introduce or open defects, so inspection before it is not
-sufficient evidence.
+Crack and flaw detection are specified **after** heat treatment in all three
+families. Castings complete the flaw-detection process after any heat treatment;
+forgings and welds repeat crack detection after any subsequent heat treatment
+[AMC E 70(1)], [AMC E 70(2)(a)], [AMC E 70(3)].
 
 ## Compliance
 
@@ -89,19 +91,18 @@ sufficient evidence.
 
 The whole AMC applies. Nothing in it is restricted by engine type, rating or
 control system; it addresses manufacturing families, and a turboshaft contains
-castings, forgings and welds.
+castings, forgings and welds [AMC E 70].
 
 The residual stress clause in (2)(a) is the one that connects directly to a
 turbine-specific specification. [[CS-E 100|CS-E 100(a)]] requires due
-consideration of residual stresses in Engine Critical Parts for turbine engines.
-AMC E 70(2)(a) gives the accepted means: experience on similar designs and
-materials where it exists, physical tests where it does not. The parts in
-question are identified under [[CS-E 515]].
+consideration of residual stresses in Engine Critical Parts for turbine engines
+[CS-E 100(a)]. AMC E 70(2)(a) gives the accepted means: experience on similar
+designs and materials where it exists, physical tests where it does not
+[AMC E 70(2)(a)]. The parts in question are identified under [[CS-E 515]].
 
-The change-control clauses are continuing obligations rather than certification
-milestones. A foundry change after certification triggers the same review, so the
-control must survive into production and be reflected in the arrangements under
-[[CS-E 25]].
+The change-control clauses carry no end date, so they are not certification
+milestones. A foundry change after certification calls for the same agreement
+and review, and the control therefore continues into production [AMC E 70(1)].
 
 ## References
 

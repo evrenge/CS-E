@@ -11,10 +11,9 @@ tags: [materials, manufacturing, design-values]
 > [!summary]
 > Two short specifications govern what the engine is made of and how it is made.
 > Material suitability and durability must rest on experience or tests, and the
-> design values used in analysis must be tied to the minimum properties in the
-> material specification, not to typical or measured values. Manufacturing
-> methods must produce structure that keeps its original mechanical properties
-> in service.
+> design values used in analysis must be suitably related to the minimum
+> properties in the material specification. Manufacturing methods must produce
+> structure that keeps its original mechanical properties in service.
 
 ## Requirement
 
@@ -26,9 +25,8 @@ tags: [materials, manufacturing, design-values]
 
 Sub-point (a) separates two duties that are easy to merge. The first is
 qualification of the material itself. The second governs the numbers that enter
-stress and life analysis: they must be related to the **minimum** properties of
-the specification. A design value justified against average test results does not
-satisfy (a).
+stress and life analysis: they must be suitably related to the **minimum**
+properties stated in the material specification [CS-E 70(a)].
 
 ## Compliance
 
@@ -39,10 +37,10 @@ satisfy (a).
 ## Application to this engine
 
 No sub-point is restricted by engine type, rating or control system, so both
-apply in full.
+apply in full [CS-E 70].
 
 CS-E 70 is upstream of several paragraphs that consume its outputs. The material
-minimum properties feed the stress limits of [[CS-E 100|CS-E 100(a)]], the
+properties feed the stress limits of [[CS-E 100|CS-E 100(a)]], the
 Engine Critical Part integrity work of [[CS-E 515]], and the material
 specifications that [[CS-E 110|CS-E 110(a)]] requires on the drawings.
 

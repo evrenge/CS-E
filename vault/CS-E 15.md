@@ -9,11 +9,12 @@ tags: [terminology, definitions, probability, critical-parts]
 # CS-E 15 — Terminology
 
 > [!summary]
-> Defines the terms CS-E uses, and requires them to be read together with the
-> issue of CS-Definitions current at the date of CS-E. The practical rule is the
-> initial-capital convention: a capitalised term inside a CS-E sentence is a
-> defined term. The probability terms — Extremely Remote, Remote, Reasonably
-> Probable — carry numerical ranges that drive the safety analysis of CS-E 510.
+> This paragraph defines the terms CS-E uses. It requires them to be read with
+> the issue of CS-Definitions, EASA's common definitions document, current at
+> the date of CS-E. The practical rule is the initial-capital convention: a
+> capitalised term inside a CS-E sentence is a defined term. The probability
+> terms — Extremely Remote, Remote, Reasonably Probable — carry numerical ranges
+> that drive the safety analysis of CS-E 510.
 
 ## Requirement
 
@@ -49,14 +50,14 @@ Hazardous, Major and Minor Engine Effect are defined only by reference: each
 
 ## Compliance
 
-- No test or analysis. Compliance is editorial: every CS-E defined term used in the applicant's documents carries the meaning fixed here and in CS-Definitions [CS-E 15(a)].
+- This paragraph requires no test or analysis. Compliance is editorial: every CS-E defined term used in the applicant's documents carries the meaning fixed here and in CS-Definitions [CS-E 15(a)].
 - Confirm the issue of CS-Definitions current at the date of issue of CS-E Amendment 8, and cite that issue [CS-E 15(a)].
 
 ## Application to this engine
 
-The turbine engine terms at (c) apply. The Engine Critical Part terms at (e)
-apply and carry into [[CS-E 515]], which is where the obligations they support
-are written.
+The turbine engine terms at (c) apply [CS-E 15(c)]. The Engine Critical Part
+terms at (e) apply and carry into [[CS-E 515]], which is where the obligations
+they support are written [CS-E 15(e)].
 
 CS-Definitions is now held, at Amendment 2, annexed to ED Decision 2010/014/R.
 CS-E Amendment 8 names that same issue in [[CS-E 780|CS-E 780(a)(2)]], which is
@@ -64,7 +65,7 @@ the only place CS-E dates the document it defers to. The terminology rule of
 (a) is therefore satisfied against Amendment 2.
 
 Three defined terms are used elsewhere in this vault and are recorded where they
-bite rather than here: Fireproof and Fire Resistant in [[CS-E 130]], and
+take effect rather than here: Fireproof and Fire Resistant in [[CS-E 130]], and
 Icing Atmospheric Conditions in [[CS-E 780]].
 
 [VERIFY: confirm with the Agency that Amendment 2 is still the current issue of

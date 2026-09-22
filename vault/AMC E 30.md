@@ -10,7 +10,7 @@ tags: [assumptions, installation, interfaces, oil-consumption]
 
 > [!summary]
 > Table 1 is the working checklist for CS-E 30. It pairs each assumption the
-> applicant must declare with the CS-E paragraph that gives rise to it, so an
+> applicant declares with the CS-E paragraph that gives rise to it, so an
 > installer can trace an assumption back to the specification it serves. The
 > table's layout does not survive text extraction, so the three source pages are
 > embedded as images.
@@ -23,7 +23,7 @@ tags: [assumptions, installation, interfaces, oil-consumption]
 
 Table 1 is the working checklist for [[CS-E 30]]. It pairs each assumption with
 the CS-E paragraph that gives rise to it, so an installer can trace an assumption
-back to the specification it serves.
+back to the specification it serves [AMC E 30].
 
 The table is reproduced below from the source. Its layout does not survive text
 extraction, so the pages are embedded as images.
@@ -37,17 +37,17 @@ extraction, so the pages are embedded as images.
 ## Compliance
 
 - Assumptions statement covering, at minimum, every applicable Table 1 item, submitted before engine certification [CS-E 30(a)].
-- Each assumption traced to the CS-E paragraph named against it in Table 1.
+- Each assumption traced to the CS-E paragraph named against it in Table 1 [AMC E 30].
 - Interface conditions and reliability specifications for components outside the engine type design [CS-E 30(b)].
 
 ## Application to this engine
 
 Table 1 rows that matter most for a rotorcraft turboshaft with a full-authority
-EECS:
+EECS are listed below [AMC E 30].
 
 - **Interfaces** — physical and functional interfaces with the aircraft, mount flexibility, attitudes, negative g duration, flight and ground loads, and aircraft components not in the engine definition [[CS-E 20]].
 - **Engine Control System** — type of aircraft installation, and the conditions on the interfaces with the aircraft [[CS-E 50]].
-- **Instrumentation** — for engines with 30-Second / 2-Minute OEI ratings, the conditions imposed on the usage recording system [[CS-E 60]]. The applicant declares both ratings, so this row binds.
+- **Instrumentation** — for engines with 30-Second / 2-Minute OEI ratings, the conditions imposed on the usage recording system [[CS-E 60]]. The applicant declares both ratings, so this row applies.
 - **Strength** — ultimate and limit loads, out-of-balance loads, operating envelope [[CS-E 100]], [[CS-E 520]], [[CS-E 640]].
 - **Fire precautions** — reliance placed on fire-zone partitioning for any mounting structure or attachment point that is not Fireproof [[CS-E 130]].
 - **Electrical Bonding** — reliance placed on aircraft provisions [[CS-E 135]].
