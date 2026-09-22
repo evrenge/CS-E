@@ -60,10 +60,10 @@ and each keeps its `[VERIFY]` because only the Agency can settle the reading.
 What each reading settles, and what it leaves open:
 
 - **rotor-lock.** The reading brings the **output shaft** into the assessment,
-  not only the engine spools. That matches what the `AMC E 910` note already says about
-  a free power turbine coupled to the rotor drive system. What stays open is the
-  boundary: whether the assessment stops at the engine's own rotors or reaches
-  the coupling into the transmission.
+  not only the engine spools. That matches what the `AMC E 910` note already
+  says about a free power turbine coupled to the rotor drive system. What stays
+  open is the boundary: whether the assessment stops at the engine's own rotors
+  or reaches the coupling into the transmission.
 - **Maximum Engine Over-speed (20 Second).** The reading treats the term as an
   over-speed held for a short period, which is consistent with the Maximum
   Engine Over-speed of CS-E 830 plus a duration qualifier. What stays open is
