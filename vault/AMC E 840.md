@@ -28,7 +28,8 @@ tags: [rotor-integrity, burst, growth, sample-rotor, blade-shedding, loss-of-loa
 
 The third definition is the one that sets the test speeds. The 120 % and 115 %
 factors of [[CS-E 840|CS-E 840(b)(1)]] and (b)(2) are applied to a speed that
-already **includes transients**, not to the steady-state rating speed.
+already **includes transients**, not to the steady-state rating speed
+[AMC E 840(1)].
 
 ### AMC E 840(2) — general
 
@@ -55,12 +56,14 @@ already **includes transients**, not to the steady-state rating speed.
 
 Point (2)(g) fixes the order of operations and it changes the answer. The speed
 is first adjusted for temperature, material properties and tolerances, and the
-percentage factor is applied **after** that — not to the nominal rating speed.
+percentage factor is applied **after** that — not to the nominal rating speed
+[AMC E 840(2)(g)].
 
-Point (2)(i) is the only place that says how long "safe operation" must last
-after an over-speed. It is not a fixed period. It is either the time to
-recognise and shut down, or the time for continued safe flight and landing.
-The operational instructions may determine it.
+Point (2)(i) says how long the safe operation of CS-E 840(d)(2) may need to last
+after an over-speed. It is not a fixed period. It might equal the time to
+recognise the event and shut the engine down, or the time for continued safe
+flight and landing. It might also depend on the operational instructions for an
+over-speed event [AMC E 840(2)(i)].
 
 ### AMC E 840(3) — acceptable means of compliance
 
@@ -73,8 +76,10 @@ The operational instructions may determine it.
 
 The 96 % concession in (3)(b) is narrow and carries two conditions. It is
 available only where a **rating-based** condition, (b)(1) or (b)(2), is the
-most critical. The reduced condition must still exceed what the Failure-based
-conditions would require, with a validated burst prediction covering the gap.
+most critical. The reduced condition must be not less severe than the
+Failure-based conditions require, and a validated burst prediction must show
+that burst would not have occurred at the (b)(1) or (b)(2) conditions
+[AMC E 840(3)(b)].
 
 ### AMC E 840(4) to (5) — test conditions and Failure cases
 
@@ -91,8 +96,7 @@ conditions would require, with a validated burst prediction covering the gap.
 Point (4)(a) distinguishes the two temperature bases precisely. For a
 rating-based condition the temperature is the most adverse **at** that rating.
 For a Failure-based condition it is the most adverse **immediately prior to** the
-Failure — because the over-speed transient is too short for the rotor to change
-temperature.
+Failure [AMC E 840(4)(a)].
 
 ## Compliance
 
@@ -112,35 +116,37 @@ temperature.
 
 The AMC applies in full, less the fan references recorded below.
 
-**Loss of load is the case point (5) is written for.** For a free power-turbine
-turboshaft the load is the rotorcraft transmission, and a complete loss of it
-leaves the power turbine with gas energy and no absorber. The four factors the
-AMC names — system inertia, available gas energy, whether the rotor is held in
-plane, and over-speed protection devices — determine how fast the free power
-turbine over-speeds. Sub-point (2)(f) adds the character of the event:
-high rates of acceleration and deceleration with no dwell at the peak. This is
-why [[CS-E 840|CS-E 840(a)]] allows the transient duration rather than five
-minutes in that case.
+**Loss of load is the case point (5) is written for.** Point (5) names the
+factors to consider when determining the loss-of-load over-speed: system
+inertia, available gas energy, whether the rotor is held in plane, and
+over-speed protection devices [AMC E 840(5)]. For this engine the load is the
+rotorcraft rotor drive system (`engine_profile.md`). Whether the engine has a
+free power turbine is not declared; the open item is recorded in
+[[CS-E 820]]. Sub-point (2)(f) adds the character of the event: high rates of
+acceleration and deceleration with no dwell at the peak [AMC E 840(2)(f)]. For
+such a sudden transient Failure, [[CS-E 840|CS-E 840(a)]] accepts the time
+period of the Failure condition as the test duration instead of five minutes.
 
 **Over-speed protection is part of the answer.** Whatever limits the runaway —
 a control system function, a mechanical limiter, or deliberate blade shedding —
 enters the (5) determination. For a full-authority EECS the protection is a
 control function, assessed under [[CS-E 50]] and verified under [[CS-E 170]].
-[[AMC E 170]] names this as the place an over-speed protection system or
-torque limiter gets tested, because the endurance schedule will not exercise
-it.
+[[AMC E 170]] gives an over-speed protection system or a torque limiter as an
+example of a system that is unlikely to be tested during the scheduled tests of
+CS-E 740, and so may need additional testing under CS-E 170.
 
-**The 96 % concession is unlikely to help here.** It applies only where a
-rating-based condition is most critical. With a free power turbine exposed to
-loss of load, the Failure-based conditions of (b)(3) and (b)(4) are the more
-likely drivers. The concession explicitly requires the reduced test condition
-still to exceed them.
+**The 96 % concession has a narrow scope.** It applies only where a
+rating-based condition, (b)(1) or (b)(2), is most critical [AMC E 840(3)(b)].
+If a loss of load makes a Failure-based condition, (b)(3) or (b)(4), the most
+critical, the concession does not apply. Where it does apply, the reduced test
+condition must still be not less severe than the Failure-based conditions
+require.
 
 **Similarity may reduce the test count.** Point (2)(j) permits testing only the
 most critical rotor where a group is of similar design, same material
 specification and similar stress, temperature and gradient conditions. Burst
-speeds must still be determined for every rotor in the group. The most
-critical for burst may not be the most critical for growth.
+speeds would still need to be determined for every rotor in the group. The most
+critical for burst may not be the most critical for growth [AMC E 840(2)(j)].
 
 ## Not applicable
 

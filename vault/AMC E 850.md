@@ -9,12 +9,13 @@ tags: [shaft, shaft-failure, over-speed, fatigue, design-assessment, service-exp
 # AMC E 850 — Compressor, Fan and Turbine Shafts
 
 > [!summary]
-> Four parts. Part (1) defines what counts as a shaft and pulls any engine
-> gearbox into that definition. Part (2) gives the two routes for showing a shaft
-> Failure is non-hazardous, by test or by validated analysis, and states what
-> each route must cover. Part (3) explains why the fail-safe objective is the
-> default and lists nine Failure modes seen in service. Part (4) sets the design
-> assessment and the investigations and tests that support it.
+> One AMC serves CS-E 850, in four parts. Part (1) defines what counts as a
+> shaft and pulls any engine gearbox into that definition. Part (2) gives the
+> two routes for showing a shaft Failure is non-hazardous, by test or by
+> validated analysis, and states what each route should cover. Part (3) explains
+> why the fail-safe objective is the default and lists nine Failure modes seen
+> in service. Part (4) sets the design assessment and the investigations and
+> tests that support it.
 
 ## Requirement
 
@@ -34,9 +35,8 @@ which the mechanical restraints are mainly torsional." [AMC E 850(1)(a)]
 
 Two boundaries follow. An engine gearbox is part of the shaft system; an aircraft
 gearbox is treated separately under [AMC E 850(2)(c)]. Discs are outside the
-definition, but the AMC states that "The exclusion of discs from this definition
-of a shaft does not preclude the specification that any Failure thereof should be
-Extremely Remote." [AMC E 850(1)(a)]
+definition, but that does not preclude the specification that any disc Failure
+should be Extremely Remote [AMC E 850(1)(a)].
 
 ### AMC E 850(2) — Non-Hazardous Shaft Failures
 
@@ -55,9 +55,9 @@ Extremely Remote." [AMC E 850(1)(a)]
 
 The four means of over-speed control named in (2)(a) are the mechanisms an
 applicant may rely on: disc rubbing, blade interference, spragging or shedding,
-engine surge or stall, and over-speed protection devices.
+engine surge or stall, and over-speed protection devices [AMC E 850(2)(a)].
 
-The similarity argument in (2)(c) is not left open. The AMC lists what it must
+The similarity argument in (2)(c) is not left open. The AMC lists what it should
 encompass: "aerodynamics, surge characteristics, engine control logic, rotor
 speeds and the associated acceleration characteristics, relevant rotor and stator
 design features, materials, clearances, etc." [AMC E 850(2)(c)]
@@ -119,7 +119,7 @@ section concerned.
 The oscillatory torque is fixed by a floor, not by the installation alone. It is
 "of a magnitude equal to the maximum envisaged in a representative installation,
 but not less than ±5% of the normal maximum steady-state torque"
-[AMC E 850(4)(b)(ii)]. The evaluation must also consider any high-frequency
+[AMC E 850(4)(b)(ii)]. The evaluation should also consider any high-frequency
 vibrations determined from the survey under (4)(b)(i), and any possible shaft
 bending.
 
@@ -146,18 +146,16 @@ has a free power turbine.
 
 **Over-speed control by surge or by a protection device.**
 [AMC E 850(2)(a)] accepts engine surge or stall and over-speed protection devices
-as means of limiting the over-speed after a shaft Failure. For this engine the
-protection device is a function of the EECS-FADEC, so the claim is assessed
-together with [[CS-E 50]] and the Failure rates established there. Reliance on
-surge alone is assessed against the surge behaviour established under
-[[CS-E 500]].
+as means of limiting the over-speed after a shaft Failure. If the protection
+device is a function of the EECS-FADEC, the claim is assessed together with
+[[CS-E 50]] and the Failure rates established there. Reliance on surge alone is
+assessed against the surge behaviour established under [[CS-E 500]].
 
-**The aircraft gearbox is named.**
-[AMC E 850(2)(c)] requires the analysis to include "the loss of loads caused by a
-Failure of any gearboxes supplied by the aircraft manufacturer". On a rotorcraft
-that is the main transmission, and its Failure is the classic loss-of-load case
-for the power turbine. The assumption set crosses the engine boundary and is
-declared under [[CS-E 30]].
+**The aircraft gearbox is named.** Under the analysis route, [AMC E 850(2)(c)]
+states that the Failure modes identified should include "the loss of loads
+caused by a Failure of any gearboxes supplied by the aircraft manufacturer". The
+consequences for this engine, including the [[CS-E 30]] installation
+assumptions, are set out once, in [[CS-E 850]].
 
 **Loss of load is the link to rotor integrity.**
 [[CS-E 840|CS-E 840(c)]] requires the highest over-speed from a complete loss of
@@ -167,17 +165,15 @@ system inertia, available gas energy, whether the rotor is held in plane, and
 over-speed protection devices. The two AMCs are read together for the power
 turbine.
 
-**Five of the nine service Failure modes are governed elsewhere in this vault.**
-Fuel flow instability inducing shaft resonance connects to [[CS-E 50]] and
-[[CS-E 650]]; an oil fire around the shaft to [[CS-E 130]]; bearing degradation
-and bearing Failure to [[CS-E 570]]; HCF from a stress concentration feature to
-[[CS-E 650|CS-E 650(f)]]. The list in [AMC E 850(3)] is a cross-check on those
-paragraphs, not a separate exercise.
+**Several of the nine service Failure modes are governed elsewhere in this
+vault.** The list in [AMC E 850(3)] is a cross-check on paragraphs such as
+[[CS-E 570]], [[CS-E 130]] and [[CS-E 650]], not a separate exercise. The
+mapping of each mode to its paragraph is set out once, in [[CS-E 850]].
 
 **The ± 5 % oscillatory torque floor is a design input.**
-It applies to each shaft in torsional modes. On a rotorcraft the representative
-installation torque oscillation may exceed 5 % because of rotor dynamics, and
-[AMC E 850(4)(b)(ii)] then takes the higher value.
+It applies to each shaft in torsional modes. The representative installation
+value depends on the target rotorcraft, which is not declared. Where that value
+exceeds 5 %, [AMC E 850(4)(b)(ii)] takes the higher value.
 
 [VERIFY: the maximum oscillatory torque envisaged in the rotorcraft installation,
 against the ± 5 % floor of AMC E 850(4)(b)(ii). The value depends on the main
@@ -185,8 +181,10 @@ rotor and transmission dynamics of the target aircraft, which are not declared i
 engine_profile.md.]
 
 [VERIFY: whether an over-speed protection function of the EECS-FADEC is claimed
-as the means of over-speed control under AMC E 850(2)(a). If so, its Failure rate
-and its independence from the control channels are assessed under CS-E 50.]
+as the means of over-speed control under AMC E 850(2)(a). If so, CS-E 50(e)(1)
+requires a means for testing the system to establish the availability of the
+protection function, and its Failures enter the system safety assessment of
+CS-E 50(d).]
 
 ## References
 

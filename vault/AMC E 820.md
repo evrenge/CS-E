@@ -11,13 +11,14 @@ covers: ["AMC E 820(a)(2)"]
 
 > [!summary]
 > One sentence serves CS-E 820, and it sets the acceptance criterion for the
-> post-test strip. Compliance with CS-E 820(a)(2) requires showing that an
+> post-test strip. To comply with CS-E 820(a)(2), it should be shown that an
 > over-torque event does not compromise the ability of the engine to reach its
-> Rated 30-Second and 2-Minute OEI Power.
+> Rated 30-Second and 2-Minute OEI Power. The accepted means therefore asks for
+> more than an engine that is fit to run.
 
 ## Requirement
 
-### AMC E 820(a)(2) — what the strip must establish
+### AMC E 820(a)(2) — what the strip should establish
 
 | Ref | Obligation | Strength |
 |---|---|---|
@@ -27,9 +28,9 @@ AMC E 820(a)(2) is a single sentence and the only AMC material under CS-E 820.
 
 It converts a general condition into a specific one.
 [[CS-E 820|CS-E 820(a)(2)]] requires the stripped condition to be "satisfactory
-for continued running"; this AMC says what continued running has to include. The
-engine must still be able to deliver the short OEI ratings after the over-torque,
-not merely be fit to run.
+for continued running"; this AMC says what continued running should include. The
+engine should still be able to reach the short OEI ratings after the
+over-torque, not merely be fit to run [AMC E 820(a)(2)].
 
 That is a stricter test than serviceability. An engine could pass a strip
 inspection with deterioration that nonetheless reduces the margin available at
@@ -51,8 +52,8 @@ The criterion links the over-torque test to the endurance programme. The short
 OEI ratings are substantiated by the additional test of
 [[CS-E 740|CS-E 740(c)(3)(iii)]]. [[CS-E 740|CS-E 740(i)(2)(iii)]] accepts
 that after that test the engine may show deterioration beyond what
-CS-E 740(i)(1) permits. CS-E 820 runs the opposite way: after an over-torque, the
-OEI capability must survive.
+CS-E 740(i)(1) permits. AMC E 820(a)(2) runs the opposite way: after an
+over-torque, the OEI capability should survive.
 
 An identical criterion applies to the over-speed test. [[AMC E 830]] uses the
 same wording for [[CS-E 830|CS-E 830(c)]], so the two tests share one acceptance
