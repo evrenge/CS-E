@@ -12,7 +12,7 @@ tags: [test, systems, eecs, hirf, lightning, bonding, installation-limitation, d
 > [!summary]
 > This AMC explains what CS-E 170 is for and then spends most of its length on
 > the Engine Control System. It gives examples of what the endurance test misses,
-> tells the manufacturer to define the additional testing itself, and sets out
+> asks the manufacturer to define the additional testing itself, and sets out
 > the electromagnetic case: functional integrity under electric and
 > electromagnetic induction, the qualified environment recorded as an installation
 > limitation, and the bonding assumptions that a partial HIRF or lightning test
@@ -27,10 +27,10 @@ tags: [test, systems, eecs, hirf, lightning, bonding, installation-limitation, d
 | — | The intent of CS-E 170 is to define the additional tests or analysis necessary for systems or components not necessarily tested during the endurance test of CS-E 740. | Statement |
 | — | The other specifications of CS-E do not always provide sufficient testing to cover all the conditions — pressure, temperature, vibration and others — which could affect the airworthiness of a piece of equipment throughout the declared flight envelope and within all declared installation conditions. | Statement |
 | — | The reasons for testing under CS-E 170 "include, but are not limited to" the examples given. | Statement |
-| — | Test under CS-E 170 where testing is required in support of CS-E 50(a) for validation throughout the declared flight envelope and within all declared installation conditions. | Accepted method |
-| — | Test under CS-E 170 where an over-speed protection system, or a torque limiter, is unlikely to be tested during the scheduled tests of CS-E 740. | Accepted method |
-| — | Test under CS-E 170 where an Electronic Engine Control System has a mechanical back-up which is not normally used during the endurance test. | Accepted method |
-| — | Test under CS-E 170 to demonstrate that a Failure indicating system, on which dependence is placed in the engine safety analysis, will function satisfactorily when required. | Accepted method |
+| — | Example: testing is required in support of CS-E 50(a) for validation throughout the declared flight envelope and within all declared installation conditions. | Statement |
+| — | Example: an over-speed protection system, or a torque limiter, is unlikely to be tested during the scheduled tests of CS-E 740. | Statement |
+| — | Example: an Electronic Engine Control System has a mechanical back-up which is not normally used during the endurance test. | Statement |
+| — | Example: demonstration that a Failure indicating system, on which dependence is placed in the engine safety analysis, will function satisfactorily when required. | Statement |
 | — | Define all necessary testing and analysis for the accessories or systems needing specific substantiation, in addition to the certification tests performed on a complete engine, with attention paid to their location and operating conditions. | Accepted method |
 | — | Unless it is necessary to test the functioning of a system itself, substantiation of individual components may be made separately from the system they are part of. | Permitted |
 
@@ -55,17 +55,18 @@ tags: [test, systems, eecs, hirf, lightning, bonding, installation-limitation, d
 AMC E 170 is written as continuous prose with no numbered sub-points, so the
 `Ref` cells carry no sub-point identifier.
 
-The environmental limits sentence is the one to read carefully. The limits "are
+The environmental limits sentence decides who sets the numbers. The limits "are
 not imposed by the rules, but should be representative of the environments that
 are expected to be encountered in the Engine installation" [AMC E 170]. The
-applicant sets the numbers; the obligation is that they are representative, and
-once declared they bind the installer through the instructions for installation.
+applicant sets the numbers, and the accepted method is that they are
+representative. Once declared, they become an installation limitation for the
+installer through the instructions for installation [AMC E 170].
 
-The bonding clause creates a dependency that is easy to miss. A HIRF or lightning
-test on a subset of the engine is only valid if the bonding assumed between the
-tested elements and the main engine earth is real. [[AMC E 135]] gives three ways
-to show this bonding, and they are the same three routes it gives for electrical
-bonding generally.
+The bonding clause creates a dependency. The results of a HIRF or lightning test
+on a subset of the engine may depend on the validity of the bonding assumed
+between the tested elements and the main engine earth [AMC E 170]. AMC E 170
+names three ways to show that bonding. They are the same three routes that
+[[AMC E 135]] gives for electrical bonding generally.
 
 ## Compliance
 
@@ -85,10 +86,10 @@ authority.
 
 Two of the four examples reach this engine specifically. An over-speed protection
 system or torque limiter is unlikely to be exercised by the scheduled tests of
-[[CS-E 740]]. A Failure indicating system relied on in the safety analysis must
-be shown to work when called upon. For this engine, that indicating system
-includes the OEI usage alerting and recording means required by
-[[CS-E 60|CS-E 60(d)]].
+[[CS-E 740]]. A Failure indicating system relied on in the safety analysis is a
+case for demonstration that it functions when required [AMC E 170]. Where the
+safety analysis of [[CS-E 510]] relies on the OEI usage alerting and recording
+means of [[CS-E 60|CS-E 60(d)]], those means fall under this example.
 
 The mechanical back-up example does not arise unless the EECS has one.
 
@@ -97,27 +98,30 @@ full authority but does not record a back-up. If one exists, AMC E 170 names it
 as a case for CS-E 170 testing, because it is not normally used during the
 endurance test.]
 
-The degraded dispatch sentence needs care. `engine_profile.md` records that time
-limited dispatch is not claimed, so there is no time-limited dispatch regime
-under CS-E 1030. The AMC's wording is broader than that. It refers to "each
-approved degraded state" [AMC E 170]. So any approved degraded state of the
-control system is in scope, whether or not time limited dispatch is claimed.
+The degraded dispatch sentence reaches beyond CS-E 1030. `engine_profile.md`
+records that time-limited dispatch is not claimed, so there is no time-limited
+dispatch regime under CS-E 1030. The AMC's wording is broader than that. It
+refers to "each approved degraded state" [AMC E 170]. Any approved degraded
+state of the control system is therefore in scope, whether or not time-limited
+dispatch is claimed.
 
 [VERIFY: whether any approved degraded state of the Engine Control System exists
-for this engine, given that time limited dispatch is not claimed. The AMC
-requires each such state to be considered against the environmental conditions.]
+for this engine, given that time-limited dispatch is not claimed. The AMC asks
+for due consideration of each such state against the environmental conditions.]
 
 AMC E 170 names AMC 20-1 and AMC 20-3 as additional means for Electronic Engine
 Control Systems. It also directs the reader to [[AMC E 80]] for environmental
 effects other than lightning and electromagnetic effects.
 
-Both are now held. The additional means for an EECS is [[AMC 20-3B]], which
-interprets the pass and fail criteria of CS-E 170 for HIRF and lightning as no
-adverse effect on the functionality of the system, and lists what counts as
-adverse [ext AMC 20-3B(6)(e)(iii)]. It also sets the form of the test: the
-installed control system with representative engine-aircraft interface cables,
-tested as a system rather than as components [ext AMC 20-3B(6)(e)(ii)]. AMC 20-1A
-is the aircraft-level companion and binds the installer.
+AMC 20-1 and AMC 20-3 are now held, as AMC 20-1A and AMC 20-3B. The additional
+means for an EECS is [[AMC 20-3B]], which interprets the pass and fail criteria
+of CS-E 170 for HIRF and lightning as no adverse effect on the functionality of
+the system, and lists what counts as adverse [ext AMC 20-3B(6)(e)(iii)]. It also
+sets the form of the test: the installed control system with representative
+engine-aircraft interface cables, tested as a system rather than as components
+[ext AMC 20-3B(6)(e)(ii)]. AMC 20-1A is the aircraft-level companion. It
+addresses the certification of the installation of propulsion systems with
+electronic control systems, which is the installer's task [ext AMC 20-1A 3].
 
 ## Not applicable
 

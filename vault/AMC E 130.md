@@ -41,11 +41,11 @@ displaces it.
 | **(2)(a)** | The intent of CS-E 130 is to give assurance that the design, materials and construction techniques used will minimise the probability of the occurrence, the consequences and the spread of fire. | Statement |
 | **(2)(b)** | The primary objectives are to contain, isolate and withstand a fire or prevent sources of flammable material or air from feeding an existing fire; and to increase the probability that the Engine Control System and accessories will permit a safe shutdown of the engine and subsequently maintain that condition. | Statement |
 | **(2)(c)** | Determine which level of fire protection should be shown for each component requiring a fire protection evaluation. | Accepted method |
-| **(2)(c)** | In general, components conveying flammable fluids may be evaluated to a Fire Resistant standard provided the normal supply of flammable fluid is stopped by a shutoff feature. | Accepted method |
-| **(2)(c)** | Evaluate oil system components from the standpoint of fire hazard — quantity, pressure, flow rate and similar — to determine whether the Fire Resistant or the Fireproof standard should apply. Historically, most oil system components have been evaluated to a Fireproof standard. | Accepted method |
+| **(2)(c)** | In general, components conveying flammable fluids can be evaluated to a Fire Resistant standard provided the normal supply of flammable fluid is stopped by a shutoff feature. | Accepted method |
+| **(2)(c)** | Oil system components may need to be evaluated from the standpoint of fire hazard — quantity, pressure, flow rate and similar — to determine whether the Fire Resistant or the Fireproof standard should apply. Historically, most oil system components have been evaluated to a Fireproof standard. | Accepted method |
 | **(2)(c)** | Evaluate other flammable fluid conveying components, except flammable fluid tanks, in a similar manner. Flammable fluid tanks should be Fireproof as required by CS-E 130(c). | Accepted method |
 | **(2)(d)** | When a fire test is performed, consider these acceptance criteria: the ability to perform the functions intended in case of fire is maintained; no leakage of hazardous quantities of flammable fluids, vapours or other materials; no support of combustion by the constituent material of the article tested; no burn through of firewalls; no other conditions which could produce Hazardous Engine Effects. | Accepted method |
-| **(2)(d)(i)** | Determine the functions intended to be provided in case of fire case by case. An Engine Control System should not cause a Hazardous Engine Effect while continuing to operate, but should allow or may cause a safe shutdown of the engine at any time within the required exposure time period. | Accepted method |
+| **(2)(d)(i)** | The functions intended to be provided in case of fire are determined case by case. For example, an Engine Control System should not cause a Hazardous Engine Effect while continuing to operate, but should allow or may cause a safe shutdown of the engine at any time within the required exposure time period. | Accepted method |
 | **(2)(d)(i)** | A safe engine shutdown at any time during the fire resistance test is an acceptable outcome for such a component, provided the safe shutdown is maintained until the end of the 5 minutes test period. | Accepted method |
 | **(2)(d)(i)** | A flammable fluid tank shutoff valve should be operable to close, or should default closed, and should maintain that position without leakage of a hazardous quantity of flammable fluid until the end of the 15 minute test period. | Accepted method |
 | **(2)(d)(ii)** | At no time during or at the end of the test should the test article leak a hazardous quantity of flammable fluid. | Accepted method |
@@ -54,15 +54,17 @@ displaces it.
 | **(2)(d)(v)** | At no time during or at the end of the test should a Hazardous Engine Effect result. | Accepted method |
 
 The exposure times are stated here rather than in the specification. Fire
-Resistant carries a 5-minute exposure, which AMC E 130(2)(c)
-justifies as "a reasonable time period for the flight crew to recognise a fire
-condition, shut down the appropriate Engine and close the appropriate fuel
-shutoff valve(s)". The Fireproof tank shutoff valve case runs to 15 minutes.
+Resistant carries a 5-minute exposure, which AMC E 130(2)(c) justifies as "a
+reasonable time period for the flight crew to recognise a fire condition, shut
+down the appropriate Engine and close the appropriate fuel shutoff valve(s)".
+The Fireproof tank shutoff valve case runs to 15 minutes [AMC E 130(2)(d)(i)].
 
-The electronics carve-out in (2)(d)(iii) is narrow and worth reading exactly.
-Circuit board potting compounds inside Engine Control System casings may support
-a small intensity fire after the test flame is removed. The AMC accepts this
-where the material supporting combustion is not a hazardous quantity.
+The electronics exception in (2)(d)(iii) is narrow. Circuit board potting
+compounds inside Engine Control System casings may support a small intensity
+fire after the test flame is removed [AMC E 130(2)(d)(iii)]. A
+non-self-extinguishing event still fails the test, unless it can be shown that
+the material supporting combustion is not a hazardous quantity
+[AMC E 130(2)(d)(iii)].
 
 ### AMC E 130(3) — materials
 
@@ -86,7 +88,7 @@ abradable materials of sufficient depth in rub areas, and avoiding titanium for
 adjacent rotating and static parts. The measures further include accounting for
 rotor movements under transient and bearing Failure conditions, and ensuring that
 thin, easily ignited titanium sections are unlikely to be shed at the front of
-the engine.
+the engine [AMC E 130(3)(b)].
 
 ### AMC E 130(4) — specific interpretations
 
@@ -156,7 +158,7 @@ venting" [AMC E 130(5)].
 
 ## Application to this engine
 
-The AMC applies throughout. Three parts of it bear directly on this
+The AMC applies throughout. Four parts of it bear directly on this
 configuration.
 
 **Continued rotation and the oil system.** AMC E 130(2)(c) states
@@ -164,27 +166,27 @@ that oil system components of turbine engines may keep flowing oil after
 shutdown because of continued rotation, and that the supply to a fire "might
 exist for as long as the continued rotation effects are present or until the oil
 supply is depleted". The shutoff argument that supports a Fire Resistant rating
-for fuel components therefore does not carry across to oil components, and
-(6) applies the same reasoning to drains and vents. This connects to
-[[CS-E 525]] and [[CS-E 570|CS-E 570(e)(1)]].
+for fuel components therefore does not carry across to oil components
+automatically [AMC E 130(2)(c)]. Paragraph (6) applies the same reasoning to
+drains and vents [AMC E 130(6)]. This connects to [[CS-E 525]] and
+[[CS-E 570|CS-E 570(e)(1)]].
 
 **The Engine Control System.** Paragraph (2)(d)(i) sets the acceptable test
-outcome for a control system component, and (4)(d) requires the electrical
+outcome for a control system component, and (4)(d) asks for the electrical
 system evaluation. With a full-authority EECS, both reach a large population of
-components, and the potting compound allowance in (2)(d)(iii) is written for
-exactly this kind of hardware. The fire item in
-[[AMC E 80|AMC E 80(2)(c)]] points here.
+components. The potting compound case in (2)(d)(iii) describes exactly this
+kind of hardware. The fire item in [[AMC E 80|AMC E 80(2)(c)]] points here.
 
 **The two fire levels.** Point (1)(d) says only that the definitions are in
 CS-Definitions and what they imply. The definitions themselves are recorded in
 [[CS-E 130]]: one flame, 15 minutes for Fireproof and 5 minutes for
-Fire-resistant. The exposure times in this AMC are the same two numbers, so a
+Fire Resistant. The exposure times in this AMC are the same two numbers, so a
 component classified here is being classified against those definitions.
 
-**Installation dependence.** The installation analysis route in (4)(b) requires
-co-ordination with the installer and re-evaluation for each new installation.
-Since the rotorcraft installation is not fixed, choosing that route now would
-create a recurring obligation for every future installation.
+**Installation dependence.** The installation analysis route in (4)(b) calls
+for co-ordination with the installer and re-evaluation for each new installation
+[AMC E 130(4)(b)]. Since the rotorcraft installation is not fixed, choosing that
+route now would create a recurring obligation for every future installation.
 
 ## Not applicable
 

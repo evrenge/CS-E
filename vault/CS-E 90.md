@@ -25,11 +25,11 @@ tags: [corrosion, materials, protection]
 
 Sub-point (b) is a mandatory preference, not an option. The verb is "must be
 used", qualified by "wherever possible" [CS-E 90(b)]. Where an inhibitor-free
-material is not used, the applicant carries the justification for why it was not
-possible.
+material is not used, the applicant must therefore be able to show why its use
+was not possible [CS-E 90(b)].
 
-"In an approved manner" in (a) means the protection method itself is subject to
-agreement, not only its result.
+"In an approved manner" in (a) means that the protection method itself needs
+approval, not only its result [CS-E 90(a)].
 
 ## Compliance
 
@@ -41,13 +41,14 @@ agreement, not only its result.
 
 Both sub-points apply in full; neither is restricted by engine type or rating.
 
-CS-E 90 has no AMC of its own. The nearest accepted means are the environmental
-test conditions in [[AMC E 80]]. These cover the salt, fluid and humidity
-exposure that equipment must withstand. Also relevant is the material
-qualification of [[CS-E 70|CS-E 70(a)]], which establishes durability. The
-protection scheme also reaches the continued airworthiness documentation of
-[[CS-E 25]], because inspection intervals depend on which protection method was
-chosen.
+CS-E 90 has no AMC of its own. The closest related guidance is the list of
+environmental conditions in [[AMC E 80]], written for CS-E 80 equipment. It
+includes salt spray, fluid susceptibility and humidity [AMC E 80(2)]. Also
+relevant is [[CS-E 70|CS-E 70(a)]], under which the suitability and durability
+of materials must be established by experience or tests. The protection scheme
+also bears on the continued airworthiness documentation of [[CS-E 25]]. Its
+airworthiness limitations section sets out each mandatory inspection interval
+[CS-E 25(b)(1)].
 
 ## References
 

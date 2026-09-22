@@ -83,7 +83,7 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(vi)** | Provision for flammable fluid drainage, fire containment, fire detection and fire extinguishing may be taken into account when assessing the severity of the effects of a fire. | Permitted |
 | **(3)(d)(vii)** | Complete inability to shut down the engine is a Hazardous Engine Effect because continued running, even at low thrust or power, represents a hazard — inhibiting safe evacuation, causing directional control problems during landing, or preventing safe shutdown following a Failure. | Statement |
 | **(3)(d)(vii)** | It is acceptable to take account of aircraft-supplied equipment, such as fuel cut-off means, to protect against the complete inability to shut down the engine. | Permitted |
-| **(3)(d)(vii)** | The inclusion of this item within the Hazardous Engine Effects should not preclude hardware or software intended to protect against inadvertent engine shutdown, including aircraft logic to mitigate against the inadvertent shutdown of all engines. | Statement |
+| **(3)(d)(vii)** | The inclusion of this item within the Hazardous Engine Effects should not preclude hardware or software intended to protect against inadvertent engine shutdown, including aircraft logic to mitigate against the inadvertent shutdown of all engines. | Accepted method |
 
 Three scenarios are given for toxic products: "Rapid flow of toxic products
 impossible to stop prior to incapacitation", "No effective means to prevent flow
@@ -99,8 +99,9 @@ their Extremely Remote objective is met only through [[CS-E 515]], supplemented
 by [[CS-E 840]] and [[CS-E 850]]. **Blades** must be radially contained under
 [[CS-E 520|CS-E 520(c)(1)]]. Forward or rearward release still needs a
 probability assessment. CS-E 515 explicitly does not support an Extremely
-Remote blade Failure claim, because it does not address foreign object damage.
-**Other components**, such as high-pressure casings, need their own assessment.
+Remote blade Failure claim, because it does not address every factor affecting
+blade reliability, foreign object damage among them. **Other components**, such
+as high-pressure casings, need their own assessment [AMC E 510(3)(d)(iii)].
 
 ### AMC E 510(3)(e) to (f) — Major and Minor Engine Effects
 
@@ -144,11 +145,12 @@ discs, hubs and spacers is called out separately. Service examples include
 overlooking existing cracks or damage during inspection, and failure to apply or
 incorrect application of protective coatings.
 
-The multi-engine concern in (3)(h) is that similar incorrect actions performed
-on several engines during the same maintenance availability by one crew defeat
-redundancy. The AMC calls this primarily an aircraft-level concern and says
-precautions should be taken in the engine design to minimise the likelihood of
-such maintenance errors.
+The multi-engine concern in (3)(h) comes from service events. Many arose from
+similar incorrect actions performed on several engines during the same
+maintenance availability by one crew. The AMC calls this primarily an
+aircraft-level concern, and says precautions should nevertheless be taken in the
+engine design to minimise the likelihood of maintenance errors
+[AMC E 510(3)(h)].
 
 ### AMC E 510(4) to (6) — techniques, documents, definitions
 
@@ -164,7 +166,7 @@ such maintenance errors.
 | **(6)** | Failure mode: the cause of the Failure or the manner in which an item or function can fail. Examples include Failures due to corrosion or fatigue, or Failure in jammed open position. | Statement |
 | **(6)** | Toxic products: products that act as or have the effect of a poison when humans are exposed to them. | Statement |
 
-The definitions in (6) carry a restriction that is easy to overlook: they "should
+The definitions in (6) carry a restriction: they "should
 not be assumed to apply to the same or similar terms used in other
 specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 
@@ -191,12 +193,12 @@ specifications or AMCs" [AMC E 510(6)]. They are local to CS-E 510.
 
 The AMC applies throughout, less the passages recorded below.
 
-**Rotorcraft is named explicitly, and so is engine redundancy.**
-AMC E 510(3)(f) carries two minor-effect assumptions and gives each one its
-own qualifier. The two qualifiers are not interchangeable. The assumption that an engine
-Failure with no external effect beyond loss of power is a Minor Engine Effect
-"may be revisited during aircraft certification, where installation effects such
-as Engine redundancy may be fully taken into consideration". The separate
+**Rotorcraft is named explicitly, and so is engine redundancy.** AMC E 510(3)(f)
+carries two minor-effect assumptions and gives each one its own qualifier. The
+two qualifiers are not interchangeable. The assumption that an engine Failure
+with no external effect beyond loss of power is a Minor Engine Effect "may be
+revisited during aircraft certification, where installation effects such as
+Engine redundancy may be fully taken into consideration". The separate
 assumption, that failing to achieve a certificated rating is a Minor Engine
 Effect, may be revisited during aircraft certification, "particularly
 multi-Engine rotorcraft certification".
@@ -205,10 +207,9 @@ Both bear on this engine, and the first bears harder: a multi-engine rotorcraft
 is precisely an installation whose redundancy the aircraft applicant will take
 into account. Engine certification is unaffected either way — the AMC says the
 re-examination "applies only to aircraft certification" — but both assumptions
-are provisional at aircraft level. This is the same boundary the OEI ratings
-exist to manage. It links to [[AMC E 20|AMC E 20(f)]], where the safety
-analysis must consider dormant Failures leading to non-availability of the OEI
-ratings.
+are provisional at aircraft level. The point links to [[AMC E 20|AMC E 20(f)]],
+under which the safety analysis should consider dormant Failures leading to
+non-availability of the OEI ratings.
 
 **Power, not thrust.** Several passages are written in thrust terms — "Generation
 of thrust greater than maximum rated thrust" and "Significant uncontrollable
@@ -221,10 +222,10 @@ engines, so this is interpretation rather than omission.
 
 **The control system.** AMC E 510(3)(b) says the CS-E 50 specifications for the
 Engine Control System should be integrated into the overall engine safety
-analysis rather than analysed separately. For a full-authority
-EECS, this is the central structural requirement of the analysis.
-[[AMC E 60|AMC E 60(d)(3)]] draws on that analysis for the development assurance
-level of the OEI recording and retrieval system.
+analysis rather than analysed separately. For a full-authority EECS, this is the
+central structural feature of the analysis. [[AMC E 60|AMC E 60(d)(3)]] draws on
+that analysis for the development assurance level of the OEI recording and
+retrieval system.
 
 **Bleed air and toxic products.** The named sources — abradable material
 degradation from blade rubs, and oil leaking into the compressor air flow — apply
@@ -267,13 +268,12 @@ a particular aircraft installation" [ext GM1 21.A.3B(b)]. A Hazardous Engine
 Effect is therefore presumed to be an unsafe condition, and the applicant
 displaces that presumption at aircraft level or not at all.
 
-So the debris question in (3)(d)(iii) is answered at aircraft level, not engine
-level: the test is what the released debris does to the aircraft and its
+The debris question in (3)(d)(iii) is therefore answered at aircraft level, not
+engine level: the test is what the released debris does to the aircraft and its
 occupants, which is why the same sub-point asks for coordination with the
 aircraft manufacturer and for the assumptions to be recorded in the manuals of
 [[CS-E 20|CS-E 20(d)]]. The probability limb ties the judgement back to the
-Extremely Remote and Extremely Improbable objectives of
-[[CS-E 510|CS-E 510(a)]].
+Extremely Remote objective of [[CS-E 510|CS-E 510(a)(3)]].
 
 [VERIFY: the reference documents in AMC E 510(5) are not held in `source/`:
 AMC 25.1309 of CS-25; "Systematic Safety" by E Lloyd and W Tye, Taylor Young
@@ -303,15 +303,15 @@ one.
 
 Three things changed in obligation, not only in wording. The old text said the
 containment structure "is not expected to contain" major rotating parts; the new
-text says the containment structures "are not required to contain" them, and adds the escape
-"Unless containment has been demonstrated". So demonstrated containment is now an
-available route where previously the assumption was absolute. Second, the old
-text classified such parts as "potential high-energy debris"; the new text names
-the consequence directly as "uncontained high-energy debris, causing a Hazardous
-Engine Effect". Third, the amendment added the compliance route that was
-previously absent: the Extremely Remote objective for such parts "can only be
-ensured through compliance with CS-E 515, supplemented by CS-E 840 and
-CS-E 850".
+text says the containment structures "are not required to contain" them, and
+adds the exception "Unless containment has been demonstrated". So demonstrated
+containment is now an available route where previously the assumption was
+absolute. Second, the old text classified such parts as "potential high-energy
+debris"; the new text names the consequence directly as "uncontained high-energy
+debris, causing a Hazardous Engine Effect". Third, the amendment added the
+compliance route that was previously absent: the Extremely Remote objective for
+such parts "can only be ensured through compliance with CS-E 515, supplemented
+by CS-E 840 and CS-E 850".
 
 Amendment 7 also added the whole **Blades** passage — radial containment, the
 forward and rearward release case, the statement that [[CS-E 515]] does not
@@ -322,8 +322,8 @@ Uncontained High-Energy Debris** heading, with the requirement that an Extremely
 Remote probability be demonstrated.
 
 The net effect is more work, not less: blade debris outside the containment
-structure now requires an explicit probability assessment that the previous text
-did not call for.
+structure now calls for an explicit probability assessment that the previous
+text did not ask for [AMC E 510(3)(d)(iii)].
 
 The paragraph carries `[Amdt. No.: E/1]`, `[Amdt. No.: E/4]` and
 `[Amdt. No.: E/7]`.

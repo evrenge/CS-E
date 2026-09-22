@@ -12,7 +12,7 @@ tags: [test, accessory-drives, power-turbine, endurance]
 > One short AMC serves CS-E 140, and it addresses turbine engines specifically.
 > Where the power turbine accessory drives are not loaded during a test, the
 > equivalent power is added at the output drive. The AMC states the purpose of
-> that addition: the power turbine rotor assembly must be worked at or above the
+> that addition: the power turbine rotor assembly is operated at or above the
 > level it would see with the drives loaded.
 
 ## Requirement
@@ -34,8 +34,8 @@ the loaded case, never less.
 
 The AMC cites CS-E 140(d)(1) while the unloading relief for the additional
 endurance sequence sits in CS-E 140(d)(2). Both sub-points concern drive loading,
-and (d)(2) is written as an exception to (d)(1), so the AMC covers the
-arithmetic that (d)(2) requires.
+and (d)(2) is written as an exception to (d)(1), so the AMC covers the power
+addition that (d)(2) requires.
 
 ## Compliance
 
@@ -52,7 +52,7 @@ The AMC matters most for the additional endurance sequence of
 [[CS-E 740|CS-E 740(c)(3)(iii)]], which is where
 [[CS-E 140|CS-E 140(d)(2)]] permits the drives to be left unloaded. This engine
 declares 30-Second OEI, 2-Minute OEI and Continuous OEI, so that sequence is part
-of the programme and the power addition is live.
+of the programme and the power addition applies.
 
 ## References
 

@@ -9,7 +9,7 @@ tags: [electrical-bonding, earth, continuity, inspection]
 # AMC E 135 — Electrical Bonding
 
 > [!summary]
-> This AMC states what CS-E 135 is actually asking for and how to show it. The
+> This AMC states the intent of CS-E 135 and how to show compliance. The
 > intent is twofold: the engine has a main earth, and a current path exists from
 > externally mounted components to that earth. Compliance may be shown by
 > examining the type design drawings, by electrical continuity checks, or by
@@ -36,9 +36,9 @@ are bonded [AMC E 135]. Showing the whole installed population is bonded
 satisfies the narrower specification without having to argue the behaviour of
 each item.
 
-The three demonstration routes are alternatives, not a sequence. Drawing
-examination is a design-data route; continuity checks and inspection of a
-representative engine are hardware routes.
+The three demonstration routes are alternatives, joined by "or" in the source,
+not a sequence [AMC E 135]. Drawing examination is a design-data route;
+continuity checks and inspection of a representative engine are hardware routes.
 
 ## Compliance
 
@@ -51,11 +51,11 @@ representative engine are hardware routes.
 The whole AMC applies. Nothing in it is restricted by engine type, rating or
 control system.
 
-Intent (ii) is the one that reaches a full-authority EECS. The engine electronic
-control unit and its associated sensors and harnesses are components mounted
-externally to the engine carcass. The current path from each of them to the main
-engine earth is exactly what (ii) asks for. This path is also part of the
-evidence supporting the interference consequence in [[CS-E 135]].
+Intent (ii) is the one that reaches a full-authority EECS. Where the engine
+electronic control unit and its sensors and harnesses are mounted externally to
+the engine carcass, the current path from each of them to the main engine earth
+is what (ii) asks for [AMC E 135(ii)]. This path is also part of the evidence
+supporting the interference consequence in [[CS-E 135]].
 
 Where the drawing-examination route is used, the bonding provisions must be
 visible on the type design drawings. That connects to
