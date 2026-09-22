@@ -10,10 +10,11 @@ covers: ["AMC E 750(b)"]
 # AMC E 750 — Starting tests
 
 > [!summary]
-> One sentence pair serves CS-E 750, and it defines the declared drainage period.
-> It is the minimum period necessary to allow surplus fuel to drain from the
-> engine before another start is attempted, measured from the moment the starter
-> is switched off or the engine fuel cock is closed during a false start.
+> One sentence pair serves CS-E 750, and it defines the declared drainage
+> period. It is the minimum period necessary to allow surplus fuel to drain from
+> the engine before another start is attempted, measured from the moment the
+> starter is switched off or the engine fuel cock is closed during a false
+> start.
 
 ## Requirement
 
@@ -26,16 +27,16 @@ covers: ["AMC E 750(b)"]
 
 AMC E 750(b) is a definition and the only AMC material under CS-E 750.
 
-Two things follow from it. The period is a **minimum**. It is the shortest period
-that achieves drainage, so declaring a longer one does not meet the definition;
-it replaces it with a different value. The clock starts at a defined event, and the source names
-two: "the time at which the starter is switched off and/or the Engine fuel cock
-is closed during a false start" [AMC E 750(b)].
+Two things follow from it. The period is a **minimum**: the shortest period
+necessary to allow surplus fuel to drain [AMC E 750(b)]. The clock starts at a
+defined event, and the source names two: "the time at which the starter is
+switched off and/or the Engine fuel cock is closed during a false start"
+[AMC E 750(b)].
 
 The period is declared by the applicant, and [[CS-E 750|CS-E 750(b)]] requires a
-normal start immediately on its expiry. That makes it a tested value rather than
-a stated one: ten False Starts each end with a start attempt at the declared
-period.
+normal start immediately on its expiry [CS-E 750(b)]. That makes it a tested
+value rather than a stated one: ten False Starts each end with a start attempt
+at the declared period.
 
 ## Compliance
 
@@ -46,20 +47,20 @@ period.
 
 ## Application to this engine
 
-The AMC applies. Nothing in it is restricted by engine type or rating.
+The AMC applies. Nothing in it is restricted by engine type or rating
+[AMC E 750(b)].
 
 The drainage period is the link between the starting tests and the fire
 protection provisions. [[CS-E 130|CS-E 130(f)]] requires unintentional
 accumulation of hazardous quantities of flammable fluid within the engine to be
-prevented by draining and venting.
-[[AMC E 130|AMC E 130(6)]] names "a combustor drain system which typically
-drains off residual fuel after an aborted Engine start" as an example of a
-part that may be exempt from the Fire Resistant specification. This is because
-it does not convey flammable fluid during normal operation.
+prevented by draining and venting. [[AMC E 130|AMC E 130(6)]] names "a combustor
+drain system which typically drains off residual fuel after an aborted Engine
+start" as an example of a part that might be exempted from the Fire Resistant
+specification. The exemption rests on parts that do not typically contain or
+convey flammable fluids during normal engine operation [AMC E 130(6)].
 
-The False Start sequence is therefore a functional test of that drain system, and
-the declared drainage period is the operational limit that makes the exemption
-argument hold.
+Where such a drain system is fitted, the False Start sequence therefore
+exercises it [CS-E 750(b)].
 
 ## References
 

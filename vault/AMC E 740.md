@@ -18,7 +18,7 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 > the start of the 30-second period. AMC E 740(f)(1) covers supplementary
 > testing for higher spool speeds, AMC E 740(g)(1) allows separate running in
 > place of revised incremental running, and AMC E 740(i)(2) sets what the
-> post-test strip examination must establish.
+> post-test strip examination should establish.
 
 ## Requirement
 
@@ -36,11 +36,11 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 | **(c)(2)(i)(c)** | These assumptions will be recorded in the instructions for installing and operating the engine, in accordance with CS-E 30(a). | Statement |
 | **(c)(2)(i)(d)** | No specific maintenance action is normally expected following use of the 30-Minute Power rating. This will be justified through compliance with CS-E 740(i)(1). | Statement |
 
-Point (c) has the largest effect on the test programme. Up to half the 25 hours may be run at
-mechanical limitations rather than thermal limits. This is allowed only where
-the engine's intended usage genuinely puts it there, and only with a
-substantiated proposal that then becomes an installation assumption under
-[[CS-E 30|CS-E 30(a)]].
+Point (c) has the largest effect on the test programme. Up to half the 25 hours
+may be run at mechanical limitations rather than thermal limits
+[AMC E 740(c)(2)(i)(c)]. This is allowed only where the engine's intended usage
+genuinely puts it there, and only with a substantiated proposal that then
+becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
 
 ### AMC E 740(c)(3) — running the additional OEI test
 
@@ -54,15 +54,24 @@ substantiated proposal that then becomes an installation assumption under
 | **(c)(3)(3)** | It can be re-started from the interrupt point if there is a technical justification acceptable to the Agency. | Permitted |
 | **(c)(3)(3)** | Where it is determined that the sequence need not be repeated in its entirety, the test should be restarted from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
 
-The two procedures in (1) differ in what they preserve. Procedure (a) gives a
-clean strip baseline before the OEI sequence but constrains the rebuild to the
-same parts. Procedure (b) avoids disassembly entirely and applies the more
-tolerant (i)(2) inspection standards afterwards.
+[VERIFY: point (3) states its rule with "needs to be repeated" and "can be
+re-started". Neither verb is in the vault's strength table or its declaratory
+table, so the labels Required and Permitted above are read from the force of the
+sentence. The same rule is stated with "must" in
+[[CS-E 740|CS-E 740(c)(3)(iii)]], which is where the binding duty lives.]
 
-Point (2) is a design permission, not merely a test allowance. It accepts a
-control law that overshoots the 30-Second OEI speed limit briefly in order to
-reach the power quickly, provided the overshoot is validated across the whole
-test.
+The two procedures in (1) differ in what they preserve [AMC E 740(c)(3)(1)].
+Procedure (a) gives a clean strip baseline before the additional test but
+constrains the rebuild to the same parts. Procedure (b) avoids disassembly
+entirely, and the inspection standards afterwards are those prescribed in
+CS-E 740(i)(2). Under [[CS-E 740|CS-E 740(i)(2)(i)]], an engine not stripped
+before the additional test meets the strip inspection specifications of
+CS-E 740(i)(1) on completion.
+
+Point (2) is a design permission, not merely a test allowance
+[AMC E 740(c)(3)(2)]. It accepts a control law that overshoots the 30-Second OEI
+speed limit briefly in order to reach the power quickly, provided the overshoot
+is validated across the whole test.
 
 ### AMC E 740(f)(1) — multi-spool supplementary testing
 
@@ -104,8 +113,8 @@ test instead.
 
 The "not enhance" criterion in (i)(2)(1) is the same one-sided test that
 [[AMC E 690]] applies to omitting bleed: the preparation must not make the
-additional endurance test easier to pass. Cleaning and consumable replacement are permitted only on
-that basis.
+additional endurance test easier to pass. Cleaning and consumable replacement
+are acceptable only on that basis [AMC E 740(i)(2)(1)].
 
 Point (3) is the link that turns the endurance test into maintenance policy. The
 engine condition after the OEI sequence may validate the mandatory maintenance
@@ -134,16 +143,16 @@ rating combination. The fifth, AMC E 740(f)(1), applies only where higher
 rotational speed limitations are sought than the endurance test covered, which
 is the open question recorded below.
 
-**The 30-Minute Power rating.** AMC E 740(c)(2)(i) is written "For
-Rotorcraft turbine Engines to be approved with a 30-Minute Power rating", and
+**The 30-Minute Power rating.** AMC E 740(c)(2)(i) is written "For Rotorcraft
+turbine Engines to be approved with a 30-Minute Power rating", and
 `engine_profile.md` declares Rated 30-Minute Power under
-[[CS-E 40|CS-E 40(b)(4)]]. The 25 hours are required; the AMC gives three ways to
-place them and a route to run up to 12.5 of them at mechanical limits.
+[[CS-E 40|CS-E 40(b)(4)]]. The 25 hours are required; the AMC gives three ways
+to place them and a route to run up to 12.5 of them at mechanical limits.
 
 The credit provision in (b) does **not** help here. It offers credit for time
 accrued at the 30-Minute OEI rating, and 30-Minute OEI is not claimed. The
-credit route is therefore closed, and the full 25 hours must come from dedicated
-running.
+credit route is therefore closed, and the full 25 hours must come from running
+at the 30-Minute Power rating itself [AMC E 740(c)(2)(i)(b)].
 
 [VERIFY: where the 25 hours of 30-Minute Power running sit relative to the
 CS-E 740(c)(3)(i) schedule. The 25-hour obligation is written inside the
@@ -151,19 +160,19 @@ CS-E 740(c)(2) schedule, which does not apply to this engine, while this AMC
 refers to "the overall test normally required by CS-E 740". See the matching
 `[VERIFY]` in [[CS-E 740]].]
 
-**The 30-second overshoot is a control design decision.**
-AMC E 740(c)(3)(2) accepts a short speed overshoot at the start of
-the 30-second period, where it is needed to establish the power quickly. For a
-full-authority EECS this determines how the 30-Second OEI transient is scheduled,
-and it must be validated across the whole (c)(3)(iii) test rather than
-demonstrated once.
+**The 30-second overshoot is a control design decision.** AMC E 740(c)(3)(2)
+accepts a short speed overshoot at the start of the 30-second period, where it
+is needed to establish the power quickly. For a full-authority EECS this
+determines how the 30-Second OEI transient is scheduled. The overshoot is
+acceptable only if it is validated throughout the (c)(3)(iii) test, not
+demonstrated once [AMC E 740(c)(3)(2)].
 
-**The strip examination validates maintenance policy.**
-AMC E 740(i)(2)(3) allows the post-test engine condition to
-validate the mandatory maintenance actions required by [[CS-E 25|CS-E 25(b)]]
-after use of the 30-Second and 2-Minute OEI ratings. Those actions are what the
-OEI usage recording of [[CS-E 60|CS-E 60(d)]] exists to trigger, so the endurance
-test, the recorder and the maintenance manual form one chain.
+**The strip examination validates maintenance policy.** AMC E 740(i)(2)(3)
+allows the post-test engine condition to validate the mandatory maintenance
+actions required by [[CS-E 25|CS-E 25(b)]] after use of the 30-Second and
+2-Minute OEI ratings. Those actions are what the OEI usage recording of
+[[CS-E 60|CS-E 60(d)]] exists to trigger, so the endurance test, the recorder
+and the maintenance manual form one chain.
 
 **Multi-spool supplementary testing depends on the architecture.**
 AMC E 740(f)(1) applies where the maximum rotational speed of each
@@ -179,7 +188,7 @@ substantiate the higher speed limitations, and AMC E 740(f)(1) sets the basis.]
 
 ## Not applicable
 
-- **AMC E 740(c)(4)** — Alternate Endurance Testing, Turbofan Engine, the sixth AMC banner under CS-E 740 and the largest. It serves [[CS-E 740|CS-E 740(c)(4)]], which CLAUDE.md excludes by scope, and it is excluded with it. It is not listed in this note's `covers:`.
+- **AMC E 740(c)(4)** — Alternate Endurance Testing, Turbofan Engine, the sixth AMC banner under CS-E 740 and the largest. It serves [[CS-E 740|CS-E 740(c)(4)]], which is excluded from this vault by scope, and it is excluded with it. It is not listed in this note's `covers:`.
 - Throughout — where the source pairs thrust with power, in any of the forms it uses, only the power term is carried. This engine produces shaft power; the thrust half of each pair has no turboshaft case.
 
 ## References
@@ -190,27 +199,26 @@ Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 50]] · [[CS-E 60]]
 ## Amendment history
 
 Three of the five AMC paragraphs carried here were amended at Amendment 8 —
-(c)(2)(i), (c)(3) and (i)(2) — together with their parent CS-E 740. AMC E 740(f)(1)
-and AMC E 740(g)(1) are unchanged. Every
-change to these AMC paragraphs is a cross-reference correction following the
+(c)(2)(i), (c)(3) and (i)(2) — together with their parent CS-E 740. Every change
+to these AMC paragraphs is a cross-reference correction following the
 re-lettering of CS-E 740, except one that corrects a citation into CS-E 50 and
 one spelling change.
 
 **The CS-E 740 re-lettering.** Amendment 8 inserted a new CS-E 740(h), which
-pushed Inspection Checks from (h) to (i). Three of these AMC paragraphs cited the
-old letter:
+pushed Inspection Checks from (h) to (i). Three of these AMC paragraphs cited
+the old letter:
 
 - AMC E 740(c)(2)(i)(d): "This will be justified by compliance with CS-E 740(h)(1)" became "This will be justified through compliance with CS-E 740(i)(1)". The amendment also replaced "by" with "through".
 - AMC E 740(c)(3): four citations of CS-E 740(h) became CS-E 740(i).
 - AMC E 740(i)(2): one citation of CS-E 740(h) became CS-E 740(i).
 
-**The CS-E 50 citation.** AMC E 740(c)(3)(2) previously read "Per CS-E 50(f), the
-Engine control should prevent exceedence of the speed limitation associated with
-the 30-Second OEI Power rating". It now reads "Per CS-E 50(j), the Engine control
-should prevent exceedance of the speed limitation associated with the 30-Second
-OEI Power rating". The sub-point changed from (f) to (j), and "exceedence" was
-corrected to "exceedance". The obligation is unchanged, but the reader is now
-pointed at a different sub-point of [[CS-E 50]].
+**The CS-E 50 citation.** AMC E 740(c)(3)(2) previously read "Per CS-E 50(f),
+the Engine control should prevent exceedence of the speed limitation associated
+with the 30-Second OEI Power rating". It now reads "Per CS-E 50(j), the Engine
+control should prevent exceedance of the speed limitation associated with the
+30-Second OEI Power rating". The sub-point changed from (f) to (j), and
+"exceedence" was corrected to "exceedance". The obligation is unchanged, but the
+reader is now pointed at a different sub-point of [[CS-E 50]].
 
 None of these changes alters an obligation. They matter for navigation: a reader
 following the old citations would land in the wrong sub-point of both CS-E 740

@@ -26,9 +26,9 @@ AMC E 680 is a single unnumbered sentence, so the `Ref` cells carry no sub-point
 identifier.
 
 The order of events is the point. Ground testing, where required, comes
-**before** flight testing is permitted, not after it as confirmation. The trigger
-for requiring it is not defined, and the schedule is agreed rather than
-prescribed.
+**before** flight testing is permitted, not after it as confirmation
+[AMC E 680]. The trigger for requiring it is not defined, and the schedule is
+agreed rather than prescribed [AMC E 680].
 
 Because the proof is normally obtained in flight, the engine-level demonstration
 depends on an aircraft. That places CS-E 680 among the paragraphs whose closure
@@ -41,7 +41,7 @@ may extend beyond engine certification.
 
 ## Application to this engine
 
-The AMC applies. Nothing in it is restricted by engine type.
+The AMC applies. Nothing in it is restricted by engine type [AMC E 680].
 
 Flight testing as the normal means has a consequence for this programme: the
 proof depends on a rotorcraft, and the installation is not fixed. Until it is,

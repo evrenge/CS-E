@@ -13,9 +13,9 @@ tags: [acceleration, minimum-test-bed-idle, over-temperature, surge, bleed]
 > parts of CS-E. The adverse bleed and offtake combination is different for
 > over-temperature than for surge and stall, and over-temperature is defined
 > against the values substantiated under CS-E 740. Minimum test bed idle is
-> defined for rotorcraft engines. An acceleration slower than 5 seconds must be
-> justified against operational aspects and the installation's certification
-> specifications.
+> defined for rotorcraft engines. The justification for an acceleration slower
+> than 5 seconds should address operational aspects and the installation's
+> certification specifications.
 
 ## Requirement
 
@@ -29,8 +29,8 @@ tags: [acceleration, minimum-test-bed-idle, over-temperature, surge, bleed]
 | **(4)** | If an acceleration time longer than 5 seconds is experienced when complying with CS-E 745(a)(3), address in the justification the operational aspects as well as the aircraft certification specifications for the intended installation. | Accepted method |
 
 Point (2) is the operative guidance. The two failure modes have opposite worst
-cases on bleed: maximum bleed loads the engine thermally, while no bleed narrows
-the surge margin. A test run at one condition does not evidence the other.
+cases on bleed: maximum bleed for over-temperature, no bleed for surge and stall
+[AMC E 745(2)]. A test run at one condition does not evidence the other.
 
 Point (3) has reach beyond this paragraph. It defines minimum test bed idle as
 the term is used "in CS-E 745(a) or other CS-E paragraphs" [AMC E 745(3)]. It
@@ -38,9 +38,9 @@ therefore governs wherever the term appears — including the endurance schedule
 of [[CS-E 740|CS-E 740(c)(3)(i)]] and the acceleration provisions of
 [[CS-E 740|CS-E 740(d)(1)(ii)]].
 
-Point (4) gives the reason a longer acceleration may be accepted: very large
-engines may have difficulty meeting exactly the 5 seconds because of rotor
-inertia.
+Point (4) gives one example of when a longer acceleration would be considered:
+very large engines may have difficulty meeting exactly the 5 seconds because of
+rotor inertia [AMC E 745(4)].
 
 ## Compliance
 
@@ -52,26 +52,27 @@ inertia.
 
 ## Application to this engine
 
-All four points apply, and two are written for a rotorcraft engine.
+All four points apply, and two are written for a rotorcraft engine
+[AMC E 745(2)], [AMC E 745(3)].
 
-**Point (3) is the definition this whole test rests on.** For a free
-power-turbine turboshaft, minimum test bed idle is not a lever position but a
-condition: minimum practically possible power extraction with the output shaft at
-the governed speed. That is the state the one-second step of
-[[CS-E 745|CS-E 745(a)(2)]] starts from, and it reflects how the engine sits in a
-rotorcraft with the rotor turning.
+**Point (3) is the definition this whole test rests on.** For this rotorcraft
+engine, minimum test bed idle is not a lever position but a condition: minimum
+practically possible power extraction with the output shaft at the governed
+speed. That is the state the one-second step of [[CS-E 745|CS-E 745(a)(2)]]
+starts from, and it reflects how the engine sits in a rotorcraft with the rotor
+turning.
 
-**Point (2) makes the test matrix at least two-dimensional.** The surge case
-needs no bleed with maximum power extraction; the over-temperature case needs
-maximum bleed with maximum power extraction. Both must be covered, and the bleed
-configuration interacts with [[CS-E 690]].
+**Point (2) makes the test matrix at least two-dimensional.** The surge case is
+probably no bleed with maximum power extraction; the over-temperature case is
+probably maximum bleed with maximum power extraction [AMC E 745(2)]. Both should
+be covered, and the bleed configuration interacts with [[CS-E 690]].
 
-**Point (4) is the justification route for a longer acceleration time.** The AMC
-gives one example of when it would be considered: "the very large engines which
-could have a difficulty in meeting exactly the 5 seconds because of the inertia
-of their rotors or other reasons" [AMC E 745(4)]. It does not say where any other
-engine sits against that example, and the route is not restricted to the case it
-illustrates — the source adds "or other reasons".
+**Point (4) is the justification route for a longer acceleration time.** The
+AMC gives one example of when it would be considered: "the very large engines
+which could have a difficulty in meeting exactly the 5 seconds because of the
+inertia of their rotors or other reasons" [AMC E 745(4)]. It does not say where
+any other engine sits against that example, and the route is not restricted to
+the case it illustrates — the source adds "or other reasons".
 
 The dependency in point (2) on [[CS-E 740]] sets a sequence. The endurance test
 fixes the steady state and transient temperature values. Only then can an

@@ -11,9 +11,10 @@ covers: ["AMC E 720(a)"]
 
 > [!summary]
 > One sentence serves CS-E 720. It gives three examples of why a continuously
-> operated ignition system may be necessary: water or slush ingestion at take-off,
-> ice ingestion, or compliance with the icing specifications. The AMC explains
-> when the system is needed; it does not add any test obligation of its own.
+> operated ignition system may be necessary: water or slush ingestion at
+> take-off, ice ingestion, or compliance with the icing specifications. The
+> AMC explains when the system is needed; it does not add any test obligation of
+> its own.
 
 ## Requirement
 
@@ -32,7 +33,7 @@ continuous ignition necessary, which in turn determines whether
 permitted or required".
 
 The three examples are introduced by "for example", so they do not bound the
-circumstances.
+circumstances [AMC E 720(a)].
 
 ## Compliance
 
@@ -41,7 +42,8 @@ circumstances.
 
 ## Application to this engine
 
-The AMC applies. Nothing in it is restricted by engine type or rating.
+The AMC applies. Nothing in it is restricted by engine type or rating
+[AMC E 720(a)].
 
 Two of the three examples reach this engine directly. Ice ingestion and
 compliance with the icing specifications both route to [[CS-E 780]]. The
@@ -50,14 +52,13 @@ requires has to hold through those conditions. Where continuous ignition is what
 makes that possible, CS-E 720 becomes part of the icing compliance argument
 rather than an independent paragraph.
 
-Water and slush ingestion at take-off is written for a runway take-off. The
-equivalent exposure for a rotorcraft is the rain and hail ingestion of
-[[CS-E 790]] and the water spray conditions that arise in operation. The
-assessment is therefore made against this installation rather than against the
-example as worded.
+The water and slush example is stated for take-off and names no aircraft type
+[AMC E 720(a)]. It is therefore assessed against the intended rotorcraft
+installation, not set aside. The related ingestion case in CS-E is the rain and
+hail ingestion of [[CS-E 790]].
 
-The system's hardware obligations sit in [[CS-E 500|CS-E 500(c)]] for the igniter
-system itself and in [[CS-E 80]] for the equipment.
+The system's hardware obligations sit in [[CS-E 500|CS-E 500(c)]] for the
+igniter system itself and in [[CS-E 80]] for the equipment.
 
 ## References
 

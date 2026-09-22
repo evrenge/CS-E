@@ -26,16 +26,16 @@ AMC E 770 is two unnumbered sentences, so the `Ref` cells carry no sub-point
 identifier.
 
 The first provision bounds the test rig. [[CS-E 770|CS-E 770(b)]] requires the
-engine carcass **and oil** at the declared minimum temperature; this AMC confirms
-that the air entering the engine need not be cooled to match. The cold soak is of
-the engine, not of the environment.
+engine carcass **and oil** at the declared minimum temperature; this
+AMC confirms that the air entering the engine need not be cooled to match
+[AMC E 770]. The cold soak is of the engine, not of the environment.
 
 The second provision creates a third declared temperature. [[CS-E 770]] itself
 establishes a minimum for starting and a minimum for selecting Take-off Power;
-this one is for opening up from ground idle to warm up or taxi. The source does
-not say how it relates to the other two.
-It is optional, and it carries "any associated conditions" with it, so the
-declaration is a package rather than a single number.
+this one is for opening up from ground idle to warm up or taxi [AMC E 770]. The
+source does not say how it relates to the other two. It is optional, and it
+carries "any associated conditions" with it, so the declaration is a package
+rather than a single number.
 
 ## Compliance
 
@@ -44,22 +44,21 @@ declaration is a package rather than a single number.
 
 ## Application to this engine
 
-Both provisions apply. Neither is restricted by engine type or rating.
+Both provisions apply. Neither is restricted by engine type or rating
+[AMC E 770].
 
-The warm-up and taxi temperature is worth declaring for a rotorcraft operating
-from cold sites. It separates three distinct operations that [[CS-E 770]] would
-otherwise leave at two limits: starting, and selecting Take-off Power. What
-governs opening up from ground idle in the absence of the declaration is not
-stated in either paragraph.
+A declared warm-up and taxi temperature separates three distinct operations that
+[[CS-E 770]] would otherwise leave at two limits: starting, and selecting
+Take-off Power. What governs opening up from ground idle in the absence of the
+declaration is not stated in either paragraph.
 
 The intake air relief keeps the test practical. Only the carcass and oil are
-cold soaked. This matches how the engine is found in service after a cold
-night, rather than how it behaves in flight in cold air. The in-flight case is
-covered by the icing conditions of [[CS-E 780]] and the relighting envelope of
+cold soaked [AMC E 770]. Cold air in flight is a separate matter, addressed by
+the icing conditions of [[CS-E 780]] and the relighting envelope of
 [[CS-E 910]].
 
-The declared temperatures feed the oil system work of [[CS-E 570]] and the fuel
-temperature limits of [[CS-E 660]].
+The declared temperatures sit alongside the oil system work of [[CS-E 570]] and
+the fuel temperature limits of [[CS-E 660]].
 
 ## References
 
