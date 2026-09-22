@@ -44,17 +44,30 @@ engine at all. That rests on a GM sentence describing Annex 16 rather than on
 Annex 16 itself, so no verdict has been changed. Fuel venting is unaffected:
 Part II reaches any turbine engine powered aircraft.
 
-### Still open
+### Closed: the corpus is complete
 
-| Missing | Blocks | Why not chased |
+The document set is final. Nothing further will be added, and the reasons are
+decisions rather than a backlog.
+
+**Paywalled material is not committed here, ever.** This repository is public.
+Redistributing a standard that its publisher sells would be wrong whatever it
+cost, and no reading of a requirement is worth that. Where an AMC names such a
+standard, the vault records that it names it and stops. An applicant who holds a
+licensed copy reads it there.
+
+**The FAA material could not be obtained.** AC 33.70-2, AC 33.70-3, AC 27-1B and
+AC 29-2C sit behind a subscription the applicant does not hold.
+
+| Named and not held | Where it is named | Effect on the vault |
 |---|---|---|
-| **EUROCAE ED-14 / RTCA DO-160** | the test procedure for 15 of the 19 items in AMC E 80 Table 2 | paywalled industry standard |
-| **ISO 2685** | the AMC E 130 fire test — flame definition, temperature, duration | paywalled |
-| **FAA AC 33.70-2, AC 33.70-3** | damage tolerance methods named by AMC E 515 | free from the FAA; not yet fetched |
-| **FAA AC 27-1B, AC 29-2C** | the rotor drive system AMCs supplement them rather than replace them: `AMC1 27.927`, `AMC1 29.927` and `AMC2 29.917` each say they should be used in conjunction with the AC | free from the FAA; not fetched. They bear on the transmission, not the engine, so they block nothing in CS-E |
-| **SAE ARP4754A / ED-79A, ARP 926A, ARP 4761** | technique sources named by AMC E 510(5) | paywalled, and named as technique rather than obligation |
-| **MIL-STD-810, MIL-STD-704, MIL-E-5007, SRA-AMS 180/251, ISO 12103-1, AIA PC 338-1** | alternative test standards in the AMC E 80 and AMC E 670 tables | each has a named alternative already carried, or the values are reproduced in the embedded table |
-| **ICAO Annex 16 Volume II** | the far end of the CS-34 chain | out of scope by the decision above |
+| **EUROCAE ED-14 / RTCA DO-160** | 15 of the 19 items in AMC E 80 Table 2; the environmental test method in AMC 20-3B(6)(e) | The test procedure is not stated here. The obligation to test, and the pass criteria, are |
+| **ISO 2685** | AMC E 130 | The fire test flame definition, temperature and duration are not stated here |
+| **SAE ARP4754A / ED-79A, ARP 926A, ARP 4761** | AMC E 510(5), AMC 20-3B(10)(c) | Named as sources of technique, not as obligations. Nothing is lost from the obligation set |
+| **FAA AC 33.70-2, AC 33.70-3** | AMC E 515 | The allowable design target risk values are not stated here |
+| **FAA AC 27-1B, AC 29-2C** | `AMC1 27.927`, `AMC1 29.927` and `AMC2 29.917` each say they supplement the AC rather than replace it | They bear on the transmission, not the engine. Nothing in CS-E is blocked |
+| **EUROCAE ED-202A / ED-203A / ED-204** | AMC 20-42(1)(b), the security method behind CS-E 50(l) | The process is recorded from AMC 20-42; the method inside it is not |
+| **MIL-STD-810, MIL-STD-704, MIL-E-5007, SRA-AMS 180/251, ISO 12103-1, AIA PC 338-1** | the AMC E 80 and AMC E 670 tables | Each has a named alternative already carried, or its values are reproduced in the embedded table |
+| **ICAO Annex 16 Volume II** | the far end of the CS-34 chain | Out of scope by the decision above |
 
 Kinds 2 and 3 are unaffected by any of this. Kind 2 is a gap in Amendment 8
 itself that no document can fill. Kind 3 waits on the applicant.
@@ -148,12 +161,20 @@ obligation.
 
 ## Kind 2 — terms CS-E uses and defines nowhere
 
-No document can be fetched for these. They are gaps in Amendment 8 itself.
+No document can be fetched for these. They are gaps in Amendment 8 itself, and
+they stay gaps: no amendment of CS-E, and no external document, defines either
+term.
 
-| Term | Where | Why it matters |
+What has changed is that the applicant has supplied a working reading of each.
+The readings are recorded in `engine_profile.md`, under **Terms the source
+leaves undefined**, and they are applicant input rather than CS-E text. Each
+term therefore keeps an open item, narrowed from "what does this mean" to a
+boundary question only the Agency can close.
+
+| Term | Where | State |
 |---|---|---|
-| **"Maximum Engine Over-speed (20 Second)"** | CS-E 870(b)(1), and nowhere else in the whole document | It bounds the test speed for the exhaust gas over-temperature test. CS-E 830 approves a Maximum Engine Over-speed with no 20-second qualifier, and CS-E 15 does not define the term. **Blocking.** |
-| **"rotor-lock"** | AMC E 910(3)(b) | The AMC lists five assumptions to apply to it but never says what it is. The assessment scope depends on a reading the source does not supply. |
+| **"Maximum Engine Over-speed (20 Second)"** | CS-E 870(b)(1), and nowhere else in the whole document | Read by the applicant as the steady overshoot limit, held for a short period. **Open**: whether it is the Maximum Engine Over-speed of CS-E 830 with a duration qualifier, or a separate limit. CS-E 870(b)(1) excludes it from the test speed, so the answer decides what the over-temperature test is run at |
+| **"rotor-lock"** | AMC E 910(3)(b) | Read by the applicant as friction holding the output shaft, so engine torque cannot turn the helicopter rotor. **Open**: whether the assessment stops at the engine's own rotors or reaches the coupling into the rotor drive system |
 
 ## Kind 3 — engine information not yet declared
 

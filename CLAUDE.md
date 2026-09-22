@@ -609,6 +609,13 @@ Writing note content from one of them is governed by **Imported obligations**
 at the top of this file, and by **External notes** where the material warrants a
 note of its own.
 
+**No paywalled material is committed to this repository, ever.** It is public,
+and redistributing a standard its publisher sells would be wrong whatever the
+standard cost. Where an AMC names ED-14, DO-160, ISO 2685 or an SAE ARP, the
+vault records that it names it and stops. An applicant who holds a licensed copy
+reads it there. `review/dead_ends.md` lists every such document and what it
+leaves unstated.
+
 - `source/` is **read-only input**. Never edit or re-save a PDF there — it changes
   the SHA-256 and breaks provenance. Re-fetch and update `CHECKSUMS.sha256`
   deliberately.

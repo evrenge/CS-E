@@ -49,10 +49,17 @@ flight effects, thermal effects and the dwell time [AMC E 910(3)(b)]. The list i
 open — the source writes "include but are not limited to" — and every engine
 rotor is in scope, not only the rotor the relight is initiated on.
 
-[VERIFY: the meaning of rotor-lock is assumed rather than stated. The five named
-contributors point at a seizure arising from differential thermal growth between
-rotor and casing during the post-shutdown dwell, but the source does not say so,
-and the assessment scope should be agreed with the Agency.]
+The source never says what rotor-lock is. The applicant reads it as friction
+holding the output shaft, so that engine torque cannot turn the helicopter
+rotor — a locked rotor. That reading is recorded in `engine_profile.md`, which
+is applicant input and not CS-E text. It fits the five named contributors, which
+point at a seizure arising from differential thermal growth between rotor and
+casing during the post-shutdown dwell.
+
+[VERIFY: the boundary of the rotor-lock assessment. The applicant's reading
+brings the output shaft into it, and the AMC asks for "all Engine rotors". Where
+that stops — at the engine's own rotors, or at the coupling into the rotor drive
+system — decides the scope, and is to be agreed with the Agency.]
 
 The flight-test route to rotor-lock is qualified. A flight test represents one
 set of conditions, so it must either be conservative in itself or be supplemented

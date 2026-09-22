@@ -41,6 +41,36 @@ Mapped onto CS-E Amendment 8 terms. The left column is the applicant's naming.
   by the applicant. It is therefore assessed under CS-E 50 / AMC E 50 and the
   CS-E 510 safety analysis, not under CS-E 40 ratings. No CS-E 40 entry.
 
+## Terms the source leaves undefined
+
+CS-E Amendment 8 uses two terms and defines neither, in CS-E 15 or anywhere else
+in scope. `review/dead_ends.md` records them as Kind 2 gaps. The applicant has
+supplied a working reading of each.
+
+These are **applicant input, not CS-E text**. They sit here for the same reason
+the ratings do: the vault may reason from a declared input, and it may not put
+words into the regulation. A note cites this file, never the source, for them,
+and each keeps its `[VERIFY]` because only the Agency can settle the reading.
+
+| Term | Where | Applicant's working reading |
+|---|---|---|
+| **rotor-lock** | AMC E 910(3)(b) | Friction holds the output shaft, so engine torque cannot turn the helicopter rotor. A locked rotor |
+| **Maximum Engine Over-speed (20 Second)** | CS-E 870(b)(1) | The steady overshoot limit: for a short period the engine runs above its rated speed limit |
+
+What each reading settles, and what it leaves open:
+
+- **rotor-lock.** The reading brings the **output shaft** into the assessment,
+  not only the engine spools. That matches what the `AMC E 910` note already says about
+  a free power turbine coupled to the rotor drive system. What stays open is the
+  boundary: whether the assessment stops at the engine's own rotors or reaches
+  the coupling into the transmission.
+- **Maximum Engine Over-speed (20 Second).** The reading treats the term as an
+  over-speed held for a short period, which is consistent with the Maximum
+  Engine Over-speed of CS-E 830 plus a duration qualifier. What stays open is
+  whether the two are the same limit. CS-E 870(b)(1) excludes the 20-second
+  value from its test speed, so the answer changes what the over-temperature
+  test is run at.
+
 ## Systems
 
 | Variable | Value | Consequence |
