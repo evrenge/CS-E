@@ -45,9 +45,9 @@ and justify it.
 | **(6)(c)** | Consider, when assessing a reduced-capability Back-up Mode: its installed operating characteristics and how they differ from the Primary Mode, the likely impact on pilot workload, and the frequency of transfer from Primary to Back-up. | Accepted method |
 | **(6)(d)** | Accomplish transition to an Alternate Mode automatically, in general. A system needing pilot action to engage the Back-up Mode may also be acceptable, provided the reliance on manual transition does not pose an unacceptable operating characteristic or crew workload, or require exceptional skill. | Accepted method |
 | **(6)(d)** | Review the transient power change on transfer for compliance with CS-E 50(b), considering transfer frequency, transient magnitude, and a demonstration that the system controls the engine safely through the transition. | Accepted method |
-| **(6)(d)** | For a rotorcraft, a determination that the mode transition is safe may not be possible from analysis or simulation alone, so a flight test programme is normally expected. | Accepted method |
+| **(6)(d)** | For a rotorcraft, a determination that the mode transition is safe may not be possible from analysis or simulation alone, so a flight test programme will normally be expected. | Statement |
 | **(6)(d)** | Provide an analysis identifying the Faults that cause a Control Mode transition, automatically or through pilot action. | Accepted method |
-| **(6)(d)** | For a turboshaft, the transition must not cause excessive rotor over-speed or under-speed that could cause emergency shutdown, loss of electrical generator power or the setting-off of warning devices. Declare the power change in the instructions for installing the engine. | Accepted method |
+| **(6)(d)** | For a turboshaft, the transition should not cause excessive rotor over-speed or under-speed that could cause emergency shutdown, loss of electrical generator power or the setting-off of warning devices. Declare the power change in the instructions for installing the engine. | Accepted method |
 | **(6)(d)(i)** | Identify any observable time delay associated with a mode, channel or system transition, or in re-establishing the pilot's ability to modulate power, in the instructions for installation and operation. | Accepted method |
 | **(6)(d)(ii)** | Match the type of flight crew annunciation to the nature of the transition, and state its intent and purpose in the instructions for installation and operation. | Accepted method |
 | **(6)(e)(i)** | Test the control system at levels agreed between the engine and aircraft applicants where the installation is known. Where it is not, use the external threat level defined at aircraft level with assumptions on installation attenuation, or agree default HIRF levels with EASA. | Accepted method |
@@ -63,7 +63,7 @@ and justify it.
 | **(7)(b)(ii)** | For a turbine engine intended for a rotorcraft, a loss of power control event is one where the control system loses the capability of modulating power between idle and 90% of maximum rated power at the flight condition, except OEI power ratings; or suffers a Fault causing a power oscillation above the level in (7)(c); or loses the capability to govern the engine in compliance with CS-E 500(a) and CS-E 745. | Statement |
 | **(7)(b)(ii)** | For a rotorcraft, the inability to meet the operability specifications in an Alternate Mode need not be counted as an LOPC event. | Relief |
 | **(7)(b)(ii)** | For a multi-engine rotorcraft, the LOPC definition may exclude the inability to meet the operability specifications in an Alternate Mode, because the affected engine can be left at a reasonably fixed power while the others manoeuvre the aircraft. Acceptability may have to be demonstrated at aircraft certification. | Relief |
-| **(7)(b)(ii)** | A single-engine rotorcraft must meet the operability specifications in the Alternate Modes unless the lack of that capability is shown acceptable at aircraft level. Operability in the Alternate Modes is a necessity where the control transitions to it more often than the acceptable LOPC rate, or where normal crew activity requires rapid power changes. | Statement |
+| **(7)(b)(ii)** | A single-engine rotorcraft will be required to meet the operability specifications in the Alternate Modes unless the lack of that capability is shown acceptable at aircraft level. Operability in the Alternate Modes is a necessity where the control transitions to it more often than the acceptable LOPC rate, or where normal crew activity requires rapid power changes. | Statement |
 | **(7)(c)** | Keep any uncommanded power oscillation to a magnitude that does not impact aircraft controllability in the intended installation. | Accepted method |
 | **(7)(c)** | An event where the flight crew has to shut an engine down because of unacceptable power oscillations caused by the control system is an in-service LOPC event, whatever the levels discussed. | Statement |
 | **(7)(d)(i)** | For a turbine engine, the EECS should not cause more than one LOTC/LOPC event per 100 000 engine flight hours. | Accepted method |
@@ -79,7 +79,7 @@ and justify it.
 | **(7)(h)** | Where freedom from a Hazardous Engine Effect relies on another function providing protection, show that the same local event does not render that function inoperative. | Accepted method |
 | **(7)(h)** | There is no probability associated with CS-E 50(c)(4), so consider all foreseeable local events, identified by sound engineering judgement and well documented to aid installation certification. | Statement |
 | **(7)(h)** | Test or analyse each wire or combination of wires that a local event could affect, for opens, shorts to ground and shorts to power, and show the Faults give identified responses and no Hazardous Engine Effect. Inform the installer of the potential effects of interface wiring Faults. | Accepted method |
-| **(7)(h)** | Assess by analysis or test the effects of fluid leaks impinging on control system components; they must not cause a Hazardous Engine Effect or a potential latent Failure condition on circuitry. | Accepted method |
+| **(7)(h)** | Assess by analysis or test the effects of fluid leaks impinging on control system components; they should not cause a Hazardous Engine Effect, nor should fluids impinge on circuitry and cause a potential latent Failure condition. | Accepted method |
 
 ### System safety assessment, section (8)
 
@@ -138,7 +138,7 @@ and justify it.
 | **(13)(c)** | Give the dedicated source enough capacity margin under CS-E 50(h)(2) to keep the control system functioning wherever automatic in-flight recovery is expected, including immediate automatic relight after an unintended shutdown, accounting for temperature, tolerances, idle speed variation and deterioration over life, substantiated by test or analysis. | Accepted method |
 | **(13)(d)** | State any aircraft-supplied power reliability value used in the analyses in the instructions for installation, and include aircraft power Faults in the safety assessment and LOTC/LOPC analysis where they can contribute. | Accepted method |
 | **(13)(e)** | State the control system's electrical power supply quality requirements in the instructions for installation under CS-E 50(h)(3), including steady state and transient under-voltage and over-voltage limits. The power input standards of ED-14 are an acceptable definition. | Accepted method |
-| **(13)(e)** | Low voltage transients outside the declared capability must not cause permanent loss of function, inappropriate operation causing an operating limit to be exceeded, or transmission of unacceptable erroneous data, and the system should resume normal operation when power recovers, within a time stated in the instructions for installation. | Accepted method |
+| **(13)(e)** | Low voltage transients outside the declared capability should not cause permanent loss of function, inappropriate operation causing an operating limit to be exceeded, or transmission of unacceptable erroneous data, and the system should resume normal operation when power recovers, within a time stated in the instructions for installation. | Accepted method |
 | **(13)(g)** | Demonstrate the effects of loss of aircraft-supplied power by engine test, system validation test, bench test or a combination. | Accepted method |
 
 ### Integration with the aircraft, section (15)
@@ -155,10 +155,10 @@ the summary above carries. Section (4) defines the mode vocabulary — Primary
 Mode, Alternate Mode, Back-up Mode — in a figure, and accuracy rule 6 keeps the
 vault from restating a figure in words; the terms themselves are CS-E's and are
 defined in [[CS-E 15]]. Section (11) is reserved. Section (14), Piston Engines,
-states only that the sections above address them. The propeller, thrust reverser
-and automatic take-off thrust control examples in sections (9), (12) and (15)
-are named above where they set the pattern, and are not expanded, because none
-of them arises on this engine.
+states only that the sections above address them. The propeller, thrust
+reverser and automatic take-off thrust control system (ATTCS) examples that
+appear across sections (6) to (15) are not expanded, because none of them arises
+on this engine.
 
 One reading is recorded rather than assumed. Sub-point (7)(b)(ii) writes that
 the inability to meet the operability specifications in the Alternate Modes
@@ -186,9 +186,10 @@ the LOPC definition need not include the inability to meet the operability
 specifications in an Alternate Mode, because the affected engine "can be left at
 reasonably fixed power conditions" while the others manoeuvre the aircraft
 [ext AMC 20-3B(7)(b)(ii)]. `engine_profile.md` declares a multi-engine
-installation, so this relief is available. It is not free: acceptability may be
-demonstrated at aircraft certification, and a single-engine installation would
-lose it entirely.
+installation, so this relief is available. It has conditions: demonstration of
+its acceptability "may be required at aircraft certification"
+[ext AMC 20-3B(7)(b)(ii)], and a single-engine installation would lose it
+entirely.
 
 **The rate is one event per 100 000 engine flight hours** for a turbine engine
 [ext AMC 20-3B(7)(d)(i)], substantiated by a Markov model, a fault tree or an
@@ -219,8 +220,13 @@ probable than 10⁻⁸ events per Engine flight hour, and the protection system
 itself is expected to fail less often than 10⁻⁴ per Engine flight hour
 [ext AMC 20-3B(9)(a)]. A self-test before each flight is normally necessary, and
 shutdown or start-up testing is accepted. This is the substance behind
-[[CS-E 50|CS-E 50(e)]], which this engine meets by the electronic route because
-the control system is a full-authority EECS.
+[[CS-E 50|CS-E 50(e)]], which applies "When electronic over-speed protection
+systems are provided" [CS-E 50(e)(1)].
+
+[VERIFY: whether rotor over-speed protection on this engine is provided solely
+by an EECS function. `engine_profile.md` declares a full-authority EECS but not
+the over-speed protection architecture, and (9)(a) applies only to the
+control-system-only case.]
 
 **The HIRF and lightning pass criterion is defined here, not in CS-E 170.** No
 adverse effect means, among other things, no "greater than 3 % change of

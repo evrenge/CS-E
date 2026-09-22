@@ -9,11 +9,11 @@ tags: [over-temperature, oei, datum-temperature, transient-speed, turbine-integr
 # AMC E 920 — Over-temperature test
 
 > [!summary]
-> Two numbered parts. Part (1) is new at Amendment 8 and settles which engine
-> condition fixes the datum turbine entry gas temperature: a deteriorated engine
-> may be assumed. Part (2) defines "Maximum power-on rotor speed" for the
-> CS-E 920(b) test, and states what maintaining turbine integrity means after the
-> test.
+> The AMC has two numbered parts. Part (1) is new at Amendment 8. It settles
+> which engine condition fixes the datum turbine entry gas temperature: a
+> deteriorated engine may be assumed. Part (2) defines "Maximum power-on rotor
+> speed" for the CS-E 920(b) test. It also states what maintaining turbine
+> integrity means after the test.
 
 ## Requirement
 
@@ -24,12 +24,12 @@ tags: [over-temperature, oei, datum-temperature, transient-speed, turbine-integr
 | **(1)** | To establish a datum turbine entry gas temperature, where this may vary at a fixed gas temperature operating limit depending on the deterioration condition of the engine, it is considered reasonable to assume an engine condition in which the gas temperature operating limit is likely to be achieved when at the maximum power setting. | Accepted method |
 | **(1)** | This would normally suggest that a deteriorated engine condition may be assumed. | Statement |
 
-The problem part (1) solves is that "at least 42 °C higher than the limit" is
-only a definite temperature once the limit itself is fixed. On an engine whose
-turbine entry gas temperature at a fixed operating limit varies with
+The problem part (1) solves is that a margin above an operating limit gives a
+definite test temperature only once the datum itself is fixed. On an engine
+whose turbine entry gas temperature at a fixed operating limit varies with
 deterioration, a new engine and a deteriorated engine give different absolute
-datums. The AMC resolves it towards the condition in which the operating limit is
-actually reached at maximum power — the deteriorated engine.
+datums. The AMC resolves it towards the condition in which the operating limit
+is actually reached at maximum power — the deteriorated engine.
 
 ### AMC E 920(2) — maximum power-on rotor speed, and turbine integrity
 
@@ -46,8 +46,8 @@ that only becomes evident on strip is inside the criterion.
 
 The last sentence is a double negative in the source and is easy to misread. Its
 effect is this: a Failure does not automatically fail the test. The applicant
-must establish that its cause would not prevent the OEI rating structure from
-being satisfactorily achieved in service.
+should establish that its cause would not prevent the OEI rating structure from
+being satisfactorily achieved in service [AMC E 920(2)].
 
 ## Compliance
 
@@ -67,20 +67,23 @@ naming the 30-Second OEI Power rating that the engine declares.
 stabilisation during the transition to 30-Second OEI power. That transition is
 governed by the EECS-FADEC schedule, so the answer comes from the control system
 behaviour established under [[CS-E 50]] and the power response work of
-[[CS-E 745]]. It must be measured before the CS-E 920(b) test condition can be
+[[CS-E 745]]. It is measured before the CS-E 920(b) test condition can be
 fixed.
 
 **The deteriorated-engine datum makes the test hotter.**
 Assuming a deteriorated condition under [AMC E 920(1)] raises the absolute
 turbine entry gas temperature at which the operating limit is reached. The
-42 °C and 19 °C margins of [[CS-E 920]] are then added to it. The choice is
-conservative, and it is the one the AMC points to.
+margins of [[CS-E 920]] are then added to it: at least 19 °C in (b), and at
+least 42 °C in (a) if point (1) governs that test too (see the open item under
+Amendment history). The choice is conservative, and it is the one the AMC points
+to.
 
 **The integrity criterion is the same family as the over-limit tests.**
-[[AMC E 820]], [[AMC E 830]] and [[AMC E 870]] each require the short OEI ratings
-to remain achievable after an over-limit event. [AMC E 920(2)] makes the
-equivalent demand in different words: the cause of any Failure must not be such
-that the OEI rating structure would fail to be achieved in service. The
+[[AMC E 820]], [[AMC E 830]] and [[AMC E 870]] each ask the applicant to show
+that the short OEI ratings remain achievable after an over-limit event.
+[AMC E 920(2)] sets the equivalent criterion in different words: the cause of
+any Failure is shown not to prevent the OEI rating structure from being achieved
+in service. The
 over-temperature test of CS-E 920 differs in how its condition is fixed. The
 specification sets the margins: at least 42 °C in [CS-E 920(a)] and at least
 19 °C in [CS-E 920(b)]. [[CS-E 820]], [[CS-E 830]] and [[CS-E 870]] are run

@@ -9,11 +9,11 @@ tags: [relight, in-flight-restart, rotor-lock, rapid-relight, flight-test]
 # AMC E 910 — Relighting In Flight
 
 > [!summary]
-> Three parts. Part (1) points to an aeroplane certification AMC for the
-> objectives and recommends coordination with the aircraft applicant. Part (2)
-> names altitude testing and flight testing as acceptable means. Part (3) names
-> two specific threats that the demonstration must address: rapid relight after
-> an in-flight shutdown, and rotor-lock.
+> The AMC has three parts. Part (1) points to an aeroplane certification AMC
+> for the objectives and recommends coordination with the aircraft applicant.
+> Part (2) names altitude testing and flight testing as acceptable means. Part
+> (3) names two specific threats that the demonstration should consider: rapid
+> relight after an in-flight shutdown, and rotor-lock.
 
 ## Requirement
 
@@ -28,10 +28,13 @@ tags: [relight, in-flight-restart, rotor-lock, rapid-relight, flight-test]
 | **(3)(b)** | Where a demonstration through flight test is proposed, it should represent a set of conservative operating assumptions for the engine in terms of rotor-lock, or it should be supplemented by an analysis that satisfactorily addresses the conservative operating assumptions. | Accepted method |
 
 Point (1) says active coordination with the aircraft type-certificate applicant
-"is recommended". That is not one of the seven verbs CLAUDE.md maps. The row
-is therefore labelled Accepted method on the ground that an AMC recommending a
-practice is marking an accepted means: an applicant may proceed otherwise and
-justify it. The label is a reading, not a mapping.
+"is recommended". That phrasing is not one of the seven source verbs, and it is
+not a listed declaratory form. The row is labelled Accepted method because an
+AMC that recommends a practice marks an accepted means: an applicant may proceed
+otherwise and justify it. The label is a reading, not a mapping.
+
+[VERIFY: "is recommended" in an AMC has no fixed Strength label. Accepted method
+is a reading, and AMC E 520(a) applies the same reading.]
 
 ### The two threats
 
@@ -44,26 +47,28 @@ previous power setting is regained.
 
 **Rotor-lock** is not defined in AMC E 910, nor anywhere else in CS-E
 Amendment 8. What the AMC gives instead is the set of assumptions the assessment
-must rest on: clearances taking tolerances into account, the initial conditions,
-flight effects, thermal effects and the dwell time [AMC E 910(3)(b)]. The list is
-open — the source writes "include but are not limited to" — and every engine
-rotor is in scope, not only the rotor the relight is initiated on.
+should rest on: clearances taking tolerances into account, the initial
+conditions, flight effects, thermal effects and the dwell time
+[AMC E 910(3)(b)]. The list is open — the source writes "include but are not
+limited to" — and every engine rotor is in scope, not only the rotor the relight
+is initiated on.
 
-The source never says what rotor-lock is. The applicant reads it as friction
-holding the output shaft, so that engine torque cannot turn the helicopter
-rotor — a locked rotor. That reading is recorded in `engine_profile.md`, which
-is applicant input and not CS-E text. It fits the five named contributors, which
-point at a seizure arising from differential thermal growth between rotor and
-casing during the post-shutdown dwell.
+The applicant reads rotor-lock as friction holding the output shaft, so that
+engine torque cannot turn the helicopter rotor — a locked rotor. That reading is
+recorded in `engine_profile.md`, which is applicant input and not CS-E text. It
+is consistent with the five named contributors, which include clearances,
+thermal effects and the dwell time [AMC E 910(3)(b)].
 
 [VERIFY: the boundary of the rotor-lock assessment. The applicant's reading
-brings the output shaft into it, and the AMC asks for "all Engine rotors". Where
-that stops — at the engine's own rotors, or at the coupling into the rotor drive
-system — decides the scope, and is to be agreed with the Agency.]
+brings the output shaft into it, and the AMC asks that "All the Engine rotors"
+be considered. Where that stops — at the engine's own rotors, or at the coupling
+into the rotor drive system — decides the scope, and is to be agreed with the
+Agency.]
 
 The flight-test route to rotor-lock is qualified. A flight test represents one
-set of conditions, so it must either be conservative in itself or be supplemented
-by an analysis that covers the conservative assumptions [AMC E 910(3)(b)].
+set of conditions, so it should either be conservative in itself or be
+supplemented by an analysis that covers the conservative assumptions
+[AMC E 910(3)(b)].
 
 ## Compliance
 
@@ -75,12 +80,10 @@ by an analysis that covers the conservative assumptions [AMC E 910(3)(b)].
 
 ## Application to this engine
 
-The AMC applies. Rotor-lock is the part that bears hardest on a turboshaft.
-Where the engine has a free power turbine, that spool and the gas generator
-spool cool at different rates, and the power turbine remains coupled to the
-rotor drive system. Its dwell condition after a shutdown therefore differs from
-anything a turbofan sees. The architecture is not declared — see
-`engine_profile.md`.
+The AMC applies. Rotor-lock needs particular care on a turboshaft. Where the
+engine has a free power turbine, that spool drives the rotor drive system, so
+its condition after a shutdown depends on the installation. The architecture is
+not declared — see `engine_profile.md`.
 
 **The rapid relight case is the OEI case.**
 On a multi-engine rotorcraft, a shutdown that is quickly reversed is precisely
@@ -94,11 +97,12 @@ places the relight schedule inside the control system assessment of
 restart command. It has no relationship to the 30-Second OEI rating period. The
 two are separate clocks and are not to be conflated.
 
-**All the engine rotors means the power turbine as well.**
-A free power turbine, where fitted, is driven by the rotor drive system through
-the transmission and may continue to turn after the gas generator has stopped. Its
-rotor-lock assessment is therefore made with the installation in view, and the
-assumptions are declared under [[CS-E 30]].
+**All the engine rotors means the power turbine as well.** A free power turbine,
+where fitted, is one of the engine rotors that "should be considered"
+[AMC E 910(3)(b)]. Whether it stays coupled to the rotor drive system after a
+shutdown depends on the transmission. Its rotor-lock assessment is therefore
+made with the installation in view, and the assumptions are declared under
+[[CS-E 30]].
 
 [VERIFY: the reference AMC 25.903(e)(2) is aeroplane certification material,
 outside CS-E and outside the scope of this vault. AMC E 910(1) offers it for the
