@@ -78,3 +78,8 @@ consumptions."
 
 That row is a new assumption to declare, so the change adds work rather than
 clarifying existing work. It links to [[CS-E 570]].
+
+The Amendment 8 text carries an `[Amdt No: E/8]` marking, but the Amendment 8
+Change Information does not list AMC E 30. Compared with Amendment 7, the text
+of AMC E 30 is unchanged apart from page headers. The marking therefore records
+no change in wording, and `changed_in` stays `[Amdt7]`.
