@@ -67,9 +67,9 @@ identified and understood prior to any demonstration" [AMC E 800(2)(a)].
 Point (2)(d) is written for this engine type. It names no load device. It
 applies wherever a turboshaft engine is tested on an alternative load device
 that "could induce different Engine response characteristics" from the installed
-condition, and it then requires the interface with the test facility and aircraft
-systems to be monitored during the test and used to predict the installed
-behaviour [AMC E 800(2)(d)].
+condition, and it then requires the interface with the test facility and
+aircraft systems to be monitored during the test and used to predict the
+installed behaviour [AMC E 800(2)(d)].
 
 ### AMC E 800(3) — impact, ingestion and first stage rotor blades
 
@@ -80,10 +80,10 @@ behaviour [AMC E 800(2)(d)].
 | **(3)(c)** | "First stage rotor blades" in CS-E 800 includes the first stage of any compressor rotor which is susceptible to a bird strike or bird ingestion. These first stage rotor blades are considered to be part of the front of the engine. | Statement |
 
 The three definitions separate what [[CS-E 800|CS-E 800(f)]] evaluates from what
-[[CS-E 800|CS-E 800(b)]] tests. A bird that strikes the nose cone, guide vanes or
-a protection device without reaching the rotating blades is an impact, not an
-ingestion. The first stage rotor blades, however, count as part of the front
-of the engine. They therefore appear in both [AMC E 800(3)].
+[[CS-E 800|CS-E 800(b)]] tests. A bird that strikes the nose cone, guide vanes
+or a protection device without reaching the rotating blades is an impact, not an
+ingestion. The first stage rotor blades, however, count as part of the front of
+the engine. They therefore appear in both [AMC E 800(3)].
 
 ### AMC E 800(4) — general
 
@@ -142,8 +142,8 @@ The general, facility, impact and definitional sections apply. The sections
 serving CS-E 800(c), (d) and (e) do not, and are recorded below.
 
 **The critical impact parameter should be identified before any test.**
-AMC E 800(2)(a) names fan blade leading edge stress for most modern turbofans and
-a core feature for turboprop and turbojet engines. It says nothing about a
+AMC E 800(2)(a) names fan blade leading edge stress for most modern turbofans
+and a core feature for turboprop and turbojet engines. It says nothing about a
 turboshaft. The provision that does reach this engine is the one that applies
 "regardless of the Engine design": the most limiting parameter should be
 identified and understood prior to any demonstration [AMC E 800(2)(a)]. The AMC

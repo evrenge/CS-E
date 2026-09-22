@@ -88,28 +88,28 @@ over-limit event from OEI use. Without the second, the relief is not available
 Both AMC paragraphs apply. `engine_profile.md` declares 30-Second OEI and
 2-Minute OEI, which triggers [[CS-E 60|CS-E 60(d)]] and all of AMC E 60(d).
 
-The (d)(1) definition chains through the declared ratings. The 2-Minute OEI level
-counts as used when a limitation of "the next lower OEI power rating or other
-Engine rating (if applicable)" is exceeded [AMC E 60(d)(1)]. For this engine, the
-next lower OEI rating is Continuous OEI. So Continuous OEI limitations set the
-trigger for 2-Minute OEI recording, even though Continuous OEI itself is not
-recorded under CS-E 60(d).
+The (d)(1) definition chains through the declared ratings. The 2-Minute OEI
+level counts as used when a limitation of "the next lower OEI power rating or
+other Engine rating (if applicable)" is exceeded [AMC E 60(d)(1)]. For this
+engine, the next lower OEI rating is Continuous OEI. So Continuous OEI
+limitations set the trigger for 2-Minute OEI recording, even though Continuous
+OEI itself is not recorded under CS-E 60(d).
 
-AMC E 60(d)(3) states that where the recording or retrieval system is not part of
-the engine, "the aircraft should still comply with CS-27/29.1305 specifications"
-[AMC E 60(d)(3)]. CS-E names the two rotorcraft codes interchangeably here, at
-the same sub-paragraph number, so the obligation does not depend on which code
-the installation targets. The duty falls on the aircraft; the engine applicant's
-duty is the instructions for installation.
+AMC E 60(d)(3) states that where the recording or retrieval system is not part
+of the engine, "the aircraft should still comply with CS-27/29.1305
+specifications" [AMC E 60(d)(3)]. CS-E names the two rotorcraft codes
+interchangeably here, at the same sub-paragraph number, so the obligation does
+not depend on which code the installation targets. The duty falls on the
+aircraft; the engine applicant's duty is the instructions for installation.
 
-**What point 1305 requires is now readable, and it runs parallel to CS-E 60(d).**
-For each turbine engine using 30-second and 2-minute OEI power, both codes
-require a device or system for use by ground personnel which automatically
-records each usage and duration of power at those levels, permits retrieval of
-the recorded data, can be reset only by ground maintenance personnel, and has a
-means to verify proper operation [ext CS 29.1305(a)(26)], [ext CS 27.1305(u)].
-The pilot alerting duty is written in both places as well, in nearly the same
-words [ext CS 29.1305(a)(25)], [ext CS 27.1305(t)] and
+**What point 1305 requires is now readable, and it runs parallel to
+CS-E 60(d).** For each turbine engine using 30-Second and 2-Minute OEI Power,
+both codes require a device or system for use by ground personnel which
+automatically records each usage and duration of power at those levels, permits
+retrieval of the recorded data, can be reset only by ground maintenance
+personnel, and has a means to verify proper operation [ext CS 29.1305(a)(26)],
+[ext CS 27.1305(u)]. The pilot alerting duty is written in both places as well,
+in nearly the same words [ext CS 29.1305(a)(25)], [ext CS 27.1305(t)] and
 [[CS-E 60|CS-E 60(d)(1)]].
 
 Two differences are worth carrying into the installation instructions. The
@@ -157,8 +157,8 @@ required for aircraft certification was rewritten:
 The change drops "powerplant", softens "required" to "which may be required",
 and adds the three examples. It widens the scope of instrumentation to consider
 beyond powerplant instrumentation and names rotorcraft-relevant cases, but it
-does not change the obligation: the operative duty remains on the safety analysis
-to show what further instrumentation is needed. The paragraph carries
+does not change the obligation: the operative duty remains on the safety
+analysis to show what further instrumentation is needed. The paragraph carries
 `[Amdt. No.: E/1]` and `[Amdt. No.: E/7]`.
 
 AMC E 60(d) is unchanged at Amendments 7 and 8, and carries `[Amdt. No.: E/1]`.

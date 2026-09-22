@@ -9,13 +9,13 @@ tags: [blade-failure, containment, out-of-balance, debris, shutdown, extremely-r
 # AMC E 810 — Compressor and Turbine Blade Failure
 
 > [!summary]
-> One AMC serves CS-E 810, in three parts. The general part gives three routes to
-> compliance. It requires the threat of any blade Failure to be addressed, and
-> it asks for the undetected long-term effects to be considered. The containment
-> part sets where the blade is released, at what speed and casing temperature,
-> and what the engine should look like afterwards. The running part asks for a
-> complete engine to run out of balance at maximum approved speed until it
-> stops or 15 seconds elapse.
+> One AMC serves CS-E 810, in three parts. The general part gives three routes
+> to compliance. It requires the threat of any blade Failure to be addressed,
+> and it asks for the undetected long-term effects to be considered. The
+> containment part sets where the blade is released, at what speed and casing
+> temperature, and what the engine should look like afterwards. The running part
+> asks for a complete engine to run out of balance at maximum approved speed
+> until it stops or 15 seconds elapse.
 
 ## Requirement
 
@@ -59,7 +59,7 @@ declaratory table.]
 | **(2)(b)** | Carry out separate tests on each compressor and turbine stage adjudged most critical from the point of view of blade containment, taking account of blade size, material, radius of rotation, rotational speed and the relative strength of the adjacent engine casing under operating temperature and pressure conditions. | Accepted method |
 | **(2)(b)** | Where the engine design places potentially Engine Critical Parts over the compressor or turbine casing, for example bypass engines or reverse flow engines where the combustion systems may be outside the rotors, also consider possible hazardous internal damage caused by blades penetrating the rotor casings, even though they are contained within the external geometry of the engine. Also consider AMC E 520(c)(1) paragraph (2). | Accepted method |
 | **(2)(b)(i)** | Release one blade at the top of the retention member. | Accepted method |
-| **(2)(b)(ii)(A)** | Release the blade at the maximum rotational speed to be approved, other than Maximum Engine Overspeed, and the associated maximum casing temperature. | Accepted method |
+| **(2)(b)(ii)(A)** | Release the blade at the maximum rotational speed to be approved, other than Maximum Engine Over-speed, and the associated maximum casing temperature. | Accepted method |
 | **(2)(b)(ii)(B)** | …or at any likely combination of the non-transient rotational speed, intake temperature and casing temperature that is considered to be more critical. | Accepted method |
 | **(2)(b)(ii)** | Any deficiency in the required casing temperature may be compensated for by means of a suitable increase in the engine speed. | Permitted |
 | **(2)(c)** | On completion of the tests, a complete engine shutdown is acceptable. | Permitted |
@@ -129,8 +129,9 @@ inside the engine's external geometry. Radial containment alone does not answer
 that, and (2)(c)(i) asks for both [AMC E 810(2)(c)(i)].
 
 [VERIFY: whether this engine's layout places Engine Critical Parts or combustion
-system components outside the compressor or turbine rotor casings. AMC E 810(2)(b)
-makes the internal penetration assessment necessary where it does.]
+system components outside the compressor or turbine rotor casings.
+AMC E 810(2)(b) makes the internal penetration assessment necessary where it
+does.]
 
 **Shaft Failure is part of the out-of-balance assessment.** AMC E 810(3)(a)
 lists possible shaft Failure among the effects to consider when interpreting rig
@@ -139,12 +140,12 @@ the worked example of an effect that is unacceptable under
 [[CS-E 850|CS-E 850(a)(1)]] and/or [[CS-E 840|CS-E 840(c)]], even when shown to
 be Extremely Remote.
 
-**The test speed sits below any declared Maximum Engine Over-speed.** Both (2) and
-(3) run at the maximum rotational speed to be approved other than the Maximum
-Engine Over-speed, and the source spells the term differently in each: (3)(b)(i)
-writes "(other than the Maximum Engine Over-speed)" and (2)(b)(ii)(A) writes
-"(other than Maximum Engine Overspeed)". If an over-speed is declared under
-[[CS-E 830]], it is above the blade Failure test speed.
+**The test speed sits below any declared Maximum Engine Over-speed.** Both (2)
+and (3) run at the maximum rotational speed to be approved other than the
+Maximum Engine Over-speed, and the source spells the term differently in each:
+(3)(b)(i) writes "(other than the Maximum Engine Over-speed)" and (2)(b)(ii)(A)
+writes "(other than Maximum Engine Overspeed)". If an over-speed is declared
+under [[CS-E 830]], it is above the blade Failure test speed.
 [[CS-E 810|CS-E 810(b)(1)(i)]] requires any blade shedding relied on for
 over-speed protection to have a margin above it.
 
@@ -163,20 +164,21 @@ Amended at Amendment 7, alongside [[CS-E 810]] itself. The AMC gained two new
 general paragraphs and its post-test criteria were rewritten.
 
 **Two paragraphs were added.** Paragraph (1)(c) is new: it requires the threat
-represented by any blade Failure to be addressed, names the additional conditions
-to assess — a blade released at a different angular position, a partial blade
-Failure, release below the maximum approved speed — and concedes that prediction
-of axially released debris is limited. Paragraph (1)(d) is also new: it requires
-the long-term effects of blade Failures not detected by the declared
-instrumentation to be considered, and sets the conditions for relying on flight
-crew shutdown.
+represented by any blade Failure to be addressed, names the additional
+conditions to assess — a blade released at a different angular position, a
+partial blade Failure, release below the maximum approved speed — and concedes
+that prediction of axially released debris is limited. Paragraph (1)(d) is also
+new: it requires the long-term effects of blade Failures not detected by the
+declared instrumentation to be considered, and sets the conditions for relying
+on flight crew shutdown.
 
-**The post-test criteria were rewritten.** The previous text required containment
-"without causing" power Failure "or the expulsion of blades through the Engine
-casing or shield", and judged the outcome against "hazard to the aircraft". The
-new text requires radial containment, no significant rupture or hazardous
-distortion of the outer casing, no unsafe condition from internal damage, and no
-other Hazardous Engine Effect unless shown to be Extremely Remote.
+**The post-test criteria were rewritten.** The previous text required
+containment "without causing" power Failure "or the expulsion of blades through
+the Engine casing or shield", and judged the outcome against "hazard to the
+aircraft". The new text requires radial containment, no significant rupture or
+hazardous distortion of the outer casing, no unsafe condition from internal
+damage, and no other Hazardous Engine Effect unless shown to be Extremely
+Remote.
 
 **The debris note changed purpose.** It previously applied only "If debris is
 ejected from the Engine intake or exhaust", and asked for the size, weight,

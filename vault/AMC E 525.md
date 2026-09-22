@@ -34,8 +34,8 @@ tags: [continued-rotation, windmilling, clutch-drag, rotorcraft, oil-loss, unbal
 The list in (3) is explicitly open: the conditions to consider "should include,
 but are not limited to, those identified below" [AMC E 525(3)].
 
-Paragraph (4) does not create a second analysis. It routes the continued rotation
-interface conditions into the engine model work already required by
+Paragraph (4) does not create a second analysis. It routes the continued
+rotation interface conditions into the engine model work already required by
 [[CS-E 520|CS-E 520(c)(2)]], and then into the installation documents of
 [[CS-E 20]].
 
@@ -62,13 +62,9 @@ bounds the exercise: the flight envelope with one engine shut down is the OEI
 envelope, flown on the remaining engine at the ratings declared in
 `engine_profile.md`.
 
-Complete loss of engine oil under (3) is the condition that makes
-[[AMC E 130|AMC E 130(2)(c)]] treat turbine oil system components differently
-from fuel components. Oil may keep flowing after shutdown because of continued
-rotation, and historically most oil system components have been evaluated to a
-Fireproof standard [AMC E 130(2)(c)]. It also connects to
-[[CS-E 570|CS-E 570(e)(1)]], where the oil shut-off means must prevent the
-discharge of hazardous quantities of oil.
+Continued rotation also bears on the fire protection level of oil system
+components. [[AMC E 130]] states that case [AMC E 130(2)(c)], and the oil
+shut-off duty sits in [[CS-E 570|CS-E 570(e)(1)]].
 
 ## Not applicable
 

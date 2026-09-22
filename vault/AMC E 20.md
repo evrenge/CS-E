@@ -40,12 +40,12 @@ including interrupt limitations; and the impedance and buffering limitations for
 signals the EECS provides for display and instrumentation, or consumes, such as
 air data [AMC E 20(5)].
 
-Point (6) allocates responsibility rather than creating a duty. The source writes
-that the applicant "is responsible for" specifying and substantiating, which is
-declaratory, so the row reads Statement. The binding duty is elsewhere: the
-instructions for installation are required by [[CS-E 20|CS-E 20(d)]], and this
-point fixes who must populate them for aircraft-supplied resources. Reading the
-row as Statement does not make the work optional.
+Point (6) allocates responsibility rather than creating a duty. The source
+writes that the applicant "is responsible for" specifying and substantiating,
+which is declaratory, so the row reads Statement. The binding duty is elsewhere:
+the instructions for installation are required by [[CS-E 20|CS-E 20(d)]], and
+this point fixes who must populate them for aircraft-supplied resources. Reading
+the row as Statement does not make the work optional.
 
 ### AMC E 20(f) — power assurance data for OEI engines
 
@@ -70,14 +70,14 @@ procedure will not include a topping check to the highest OEI rating power level
 
 Point (f)(4) sets out how to establish the minimum acceptable engine performance
 characteristic. For a mature programme, production acceptance test data,
-engine-to-engine variation and pre-overhaul testing can be used. For a new design
-or a remote derivative, development and certification test experience should be
-used, and an estimated worst engine-to-engine variation assumed initially
-[AMC E 20(f)(4)].
+engine-to-engine variation and pre-overhaul testing can be used. For a new
+design or a remote derivative, development and certification test experience
+should be used, and an estimated worst engine-to-engine variation assumed
+initially [AMC E 20(f)(4)].
 
 Point (f)(5) names the limiter settings to examine: engine speed, measured gas
-temperature and fuel flow. It directs particular attention to take-off conditions
-with a cold-soaked engine [AMC E 20(f)(5)].
+temperature and fuel flow. It directs particular attention to take-off
+conditions with a cold-soaked engine [AMC E 20(f)(5)].
 
 ## Compliance
 
@@ -106,8 +106,9 @@ resource on which an EECS may depend [AMC E 20(6)].
 [VERIFY: whether this engine's EECS in fact depends on an aircraft-supplied
 resource for OEI usage recording. [[CS-E 60|CS-E 60(d)(2)]] requires "means or
 provision for means" to record each usage, and provision-for-means does not by
-itself create a dependency on the aircraft. If the dependency exists, AMC E 20(6)
-makes its specification and substantiation the applicant's responsibility.]
+itself create a dependency on the aircraft. If the dependency exists,
+AMC E 20(6) makes its specification and substantiation the applicant's
+responsibility.]
 
 All of AMC E 20(f) applies: the applicant declares 30-Second OEI, 2-Minute OEI
 and Continuous OEI, and (f)(1) applies to an engine having one or more OEI

@@ -65,8 +65,8 @@ tags: [materials, castings, forgings, welds, ndt, residual-stress, quality]
 The two classification schemes use different words for the same threshold. A
 Class 1 forging is one whose "Failure … could hazard the aircraft" and a Group 1
 weld is one "the Failure or leakage of which could hazard the aircraft"
-[AMC E 70(2)(a)], [AMC E 70(3)]. Welds add leakage as a failure mode; forgings do
-not. Neither scheme uses the Hazardous Engine Effect classification of
+[AMC E 70(2)(a)], [AMC E 70(3)]. Welds add leakage as a failure mode; forgings
+do not. Neither scheme uses the Hazardous Engine Effect classification of
 [[CS-E 510]], so the two assessments are related but not interchangeable.
 
 Crack and flaw detection are specified **after** heat treatment in all three

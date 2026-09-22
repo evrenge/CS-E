@@ -62,9 +62,9 @@ mandatory maintenance applies in all cases [AMC E 40(b)(3)(4)].
 
 Any available information from the CS-E 740(c)(3)(iii) tests may be used to
 establish engine characteristics through the operating envelope. The power
-ratings should reflect the rated power deterioration observed from the pre-2-hour
-test calibration through and including the third application of 30-Second OEI
-rated power [AMC E 40(b)(3)(6)].
+ratings should reflect the rated power deterioration observed from the
+pre-2-hour test calibration through and including the third application of
+30-Second OEI rated power [AMC E 40(b)(3)(6)].
 
 That third application is expected to be the best indicator of worst-case
 deterioration in service, so it should be reflected in the data given to the
@@ -138,9 +138,9 @@ flight [AMC E 40(b)(3)(7)].
 
 ## Application to this engine
 
-The turbine engine route applies to the general AMC: [[CS-E 730]] for calibration
-and [[CS-E 740]] for endurance [AMC E 40]. The declared combination of
-30-Second, 2-Minute and Continuous OEI selects the endurance schedule of
+The turbine engine route applies to the general AMC: [[CS-E 730]] for
+calibration and [[CS-E 740]] for endurance [AMC E 40]. The declared combination
+of 30-Second, 2-Minute and Continuous OEI selects the endurance schedule of
 CS-E 740(c)(3)(i) with the additional 2-hour test of CS-E 740(c)(3)(iii)
 [CS-E 740(c)(3)(i)]. Rated 30-Minute Power adds the provisions of
 [[AMC E 740|AMC E 740(c)(2)(i)]].
@@ -177,8 +177,8 @@ Rated 30-Minute Power, 30-Second OEI, 2-Minute OEI and Continuous OEI — see
 [VERIFY: item (a) lists "Maximum Contingency", "Intermediate Contingency" and
 "30-minute Contingency" conditions. None of these names appears in [[CS-E 40]],
 which uses the OEI rating names and Rated 30-Minute Power. The Contingency
-terminology appears to predate the current rating names. Confirm the mapping with
-the Agency before entering these rows in the TCDS.]
+terminology appears to predate the current rating names. Confirm the mapping
+with the Agency before entering these rows in the TCDS.]
 
 ## Not applicable
 

@@ -55,10 +55,10 @@ with its limitations [CS-E 20(d)]. The propeller clause in (d) does not arise.
 
 The installer also needs engine data for the rotor drive system tests of the
 rotorcraft code. Under CS-29 that includes the rotational speed expected after
-an engine control device failure. The overspeed test runs at not less than the
+an engine control device failure. The over-speed test runs at not less than the
 higher of that speed or 105% of the maximum rotational speed expected in service
 [ext CS 29.927(d)]. CS-27 asks for no such figure, because it prescribes no
-overspeed test for the rotor drive system [ext CS 27.927]. The data item is
+over-speed test for the rotor drive system [ext CS 27.927]. The data item is
 therefore a CS-29 item. An engine offered for installation under either code
 carries it because CS-29 asks for it. See [[CS 29.927]] and [[CS 27.927]].
 

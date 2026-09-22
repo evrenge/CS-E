@@ -13,8 +13,8 @@ tags: [performance-correction, formulae, notation, isa]
 > suffix convention. The formulae are conditional in two ways: they apply within
 > the range of conditions appropriate to the engine type, taking account of the
 > control system characteristics and possible Reynolds Number effects, and they
-> give way to more accurate or additional corrections where the Agency has agreed
-> or required them.
+> give way to more accurate or additional corrections where the Agency has
+> agreed or required them.
 
 ## Requirement
 
@@ -81,7 +81,7 @@ power, so the power formula is the operative one and the thrust formula does not
 apply [AMC E 620(1)]. Both are given in the source and both are shown above. The
 two formulae differ, so one cannot be substituted for the other.
 
-**The control system qualifier matters for a FADEC engine.** Paragraph (1)
+**The control system qualifier matters for an EECS-FADEC engine.** Paragraph (1)
 requires the formulae to be applied "taking into account the characteristics of
 the Engine Control System" [AMC E 620(1)]. For this full-authority EECS, the
 range over which these corrections hold has to be established rather than

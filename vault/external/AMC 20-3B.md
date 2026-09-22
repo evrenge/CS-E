@@ -38,7 +38,8 @@ and justify it.
 | **(6)(a)** | Perform all testing and analysis necessary to ensure that every Control Mode, including those arising from Fault Accommodation, is implemented as required. | Accepted method |
 | **(6)(a)** | Review the need for protective functions, such as over-speed protection, for all Control Modes including Alternate Modes. | Accepted method |
 | **(6)(a)** | State any limitation on operation in an Alternate Mode in the engine instructions for installation and operation, and describe the functioning of the system in its Primary and Alternate Modes there. | Accepted method |
-| **(6)(a)** | Substantiate by analysis or test that operating in an Alternate Mode has no unacceptable effect on engine durability or endurance. Component testing under CS-E 170 is the primary route. | Accepted method |
+| **(6)(a)** | Analyses or testing, or both, are necessary to substantiate that operating in an Alternate Mode has no unacceptable effect on engine durability or endurance. | Required |
+| **(6)(a)** | The durability and reliability of the control system in all modes is primarily addressed by the component testing of CS-E 170. | Statement |
 | **(6)(a)(ii)** | Establish the availability of any Back-up Mode by routine testing or monitoring, and document the frequency of that check in the instructions for continued airworthiness. | Accepted method |
 | **(6)(b)** | The AMC is not specifically intended to apply to crew training modes, which are installation-specific and negotiated case by case. Assess them, including lock-out systems, in the system safety analysis of CS-E 50(d), and design against inadvertent entry. | Accepted method |
 | **(6)(c)** | For a non-dispatchable configuration, compliance with CS-E 50(a) does not imply strict compliance with the operability specifications, if no likely pilot input in the intended installation results in surge, stall, flame-out or unmanageable delay in power recovery. | Relief |
@@ -56,6 +57,14 @@ and justify it.
 | **(6)(e)(iii)** | Interpret the pass and fail criteria of CS-E 170 for HIRF and lightning as no adverse effect on the functionality of the system. | Accepted method |
 | **(6)(e)(iv)** | Provide a maintenance plan for any protection system that is part of the control system type design and is needed to meet the qualified EMI, HIRF and lightning levels, with engineering validation of the maintenance actions. | Accepted method |
 
+[VERIFY: unlisted construction. Row (6)(a) uses "are necessary" and carries
+Required; row (6)(e)(i) uses "it is recommended" and carries Accepted method.
+None of these phrasings is one of the seven source verbs or a listed declaratory
+form. The vault reads a statement of necessity as Required, as it reads "is
+required to". The vault reads a recommendation in an AMC as Accepted method, as
+it reads "should" in an AMC. The owner decides each construction once, for every
+row in the vault that carries it.]
+
 ### Integrity of the engine control system, section (7)
 
 | Ref | Obligation | Strength |
@@ -70,7 +79,8 @@ and justify it.
 | **(7)(d)** | An applicant may propose a different rate, substantiated against the criticality of the engine and control system in the intended installation, to show equivalence with existing systems in comparable installations. | Permitted |
 | **(7)(e)** | Submit a system reliability analysis substantiating the agreed rate. A numerical analysis such as a Markov model, a fault tree or an equivalent approach is expected. | Accepted method |
 | **(7)(e)** | Address every component that can contribute, including electrical, mechanical, hydromechanical and pneumatic elements, and conduct the analysis together with the system safety assessment of CS-E 50(d). | Accepted method |
-| **(7)(e)** | Include sensors or elements outside the engine type design that can contribute, such as an installer-supplied power lever transducer, and include the effects of loss, corruption or Failure of Aircraft-Supplied Data. State the reliability and interface requirements for those elements in the instructions for installation, avoiding double counting in the aircraft analyses. | Accepted method |
+| **(7)(e)** | Include sensors or elements outside the engine type design that can contribute, such as an installer-supplied power lever transducer, and include the effects of loss, corruption or Failure of Aircraft-Supplied Data. State the reliability and interface requirements for those elements in the instructions for installation. | Accepted method |
+| **(7)(e)** | It needs to be ensured that there is no double counting of the rate of Failure of non-engine parts within the aircraft system safety analyses. | Required |
 | **(7)(e)** | Consider all Faults, detected and undetected, and state in the instructions for continued airworthiness any periodic maintenance needed to find and repair Covered and Uncovered Faults in order to meet the rate. | Accepted method |
 | **(7)(f)** | Where the type design specifies commercial or industrial grade electronic parts, have available the reliability data substantiating each Failure rate used, the procurement and quality assurance plans, and separate databases for similar parts from different vendors. | Accepted method |
 | **(7)(f)** | Where the declared temperature environment exceeds the rated range of such parts, substantiate the extended range, adjust the Failure rates used in the analyses, and state any cooling provision in the instructions for installation. | Accepted method |
@@ -80,6 +90,12 @@ and justify it.
 | **(7)(h)** | There is no probability associated with CS-E 50(c)(4), so consider all foreseeable local events, identified by sound engineering judgement and well documented to aid installation certification. | Statement |
 | **(7)(h)** | Test or analyse each wire or combination of wires that a local event could affect, for opens, shorts to ground and shorts to power, and show the Faults give identified responses and no Hazardous Engine Effect. Inform the installer of the potential effects of interface wiring Faults. | Accepted method |
 | **(7)(h)** | Assess by analysis or test the effects of fluid leaks impinging on control system components; they should not cause a Hazardous Engine Effect, nor should fluids impinge on circuitry and cause a potential latent Failure condition. | Accepted method |
+
+[VERIFY: unlisted construction. Row (7)(e) uses "needs to" and carries Required.
+The phrasing is neither one of the seven source verbs nor a listed declaratory
+form. The vault reads a statement of necessity as Required, as it reads "is
+required to". The owner decides each construction once, for every row in the
+vault that carries it.]
 
 ### System safety assessment, section (8)
 
@@ -91,6 +107,7 @@ and justify it.
 | **(8)(a)** | Identify the assumptions, installation requirements and limitations the analysis establishes, and state them in the instructions for installation and operation; where necessary place them in the airworthiness limitations section under CS-E 25(b)(1). | Accepted method |
 | **(8)(a)** | Provide a summary listing the malfunctions and Failures caused by the control system and their effects, including those resulting in LOTC/LOPC, those leaving the engine unable to meet the operability specifications, transmission of erroneous parameters, Failures of integrated aircraft functions, and Failures resulting in Major or Hazardous Engine Effects. | Accepted method |
 | **(8)(a)** | Consider all signals used by the control system, in particular cross-engine control signals and air signals as described in CS-E 50(i). | Accepted method |
+| **(8)(a)** | The criticality of functions included in the Engine Control System for aircraft level functions needs to be defined by the aircraft applicant. | Required |
 | **(8)(b)** | Demonstrate compliance with CS-E 510, with the agreed LOTC/LOPC rate, and with the expected total frequency of occurrence of Failures that leave the engine non-compliant with the operability specifications without being LOPC events. | Accepted method |
 | **(8)(b)(iv)** | Identify the consequence of the transmission of a faulty parameter and include it in the LOTC/LOPC analysis as appropriate, with any mitigating information placed in the engine operating instructions. | Accepted method |
 | **(8)(c)** | Uncovered Faults giving a power change of less than 3% in the take-off envelope are generally acceptable, without detracting from the obligation to ensure the full-up system provides the declared minimum rated power. | Statement |
@@ -99,6 +116,12 @@ and justify it.
 | **(8)(c)** | For signals sent from one control system to another "in an aeroplane installation", limit their authority at the receiving control system so that undetected Faults do not cause an unacceptable power change, generally no more than 3% absolute difference of the current operating condition. | Accepted method |
 | **(8)(c)** | Accommodate detected Faults in signals exchanged between control systems so that they cause no more than a 3% power change on the engine using them. This sentence carries no installation scope. | Accepted method |
 
+[VERIFY: unlisted construction. Row (8)(a) uses "needs to" and carries Required.
+The phrasing is neither one of the seven source verbs nor a listed declaratory
+form. The vault reads a statement of necessity as Required, as it reads "is
+required to". The owner decides each construction once, for every row in the
+vault that carries it.]
+
 ### Protective functions, section (9)
 
 | Ref | Obligation | Strength |
@@ -106,11 +129,18 @@ and justify it.
 | **(9)(a)** | Rotor over-speed protection is usually achieved by an independent protection system, so that two independent Faults are needed to produce an uncontrolled over-speed. | Statement |
 | **(9)(a)** | Where the protection is provided solely by a control system function, show in the safety assessment that the probability per Engine flight hour of an uncontrolled over-speed from any cause combined with a Failure of the protection system is less than 10⁻⁸ events per Engine flight hour. | Accepted method |
 | **(9)(a)** | The protection system itself would be expected to have a Failure rate of less than 10⁻⁴ Failures per Engine flight hour. | Statement |
-| **(9)(a)** | A self-test before each flight is normally necessary; verifying functionality at engine shutdown or start-up is adequate. Where an engine is routinely not shut down between flight cycles, account for that in the analyses. | Accepted method |
+| **(9)(a)** | A self-test of the over-speed protection system before each flight is normally necessary for achieving the objectives. | Required |
+| **(9)(a)** | Verifying functionality at engine shutdown or start-up is adequate. Where an engine is routinely not shut down between flight cycles, account for that in the analyses. | Accepted method |
 | **(9)(a)** | Where multiple protection paths exist, testing a different path each engine cycle is acceptable so long as the system meets the 10⁻⁴ rate. The objective is a complete test of the over-speed system, "including electro-mechanical parts", in the minimum number of engine cycles. | Permitted |
 | **(9)(a)** | Data showing that the mechanical parts of the protection system operate without Failure between stated periods is acceptable in lieu of testing those parts each cycle, with a periodic inspection established instead. The source excludes the electro-mechanical parts from this relief: "(this does not include the electro-mechanical parts)". | Permitted |
 | **(9)(b)** | Make the integrity of any other protective function provided by the control system consistent with the safety analysis of that function. Where the function is not an engine function it may not be part of engine certification. | Accepted method |
 | **(9)(b)** | Include all Failure modes of all functions incorporated in the system in the safety assessment, including functions added to support aircraft certification, so that they reach the airframe assessment. | Accepted method |
+
+[VERIFY: unlisted construction. Row (9)(a) uses "is necessary" and carries
+Required. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a statement of necessity as Required, as it
+reads "is required to". The owner decides each construction once, for every row
+in the vault that carries it.]
 
 ### Software and airborne electronic hardware, section (10)
 

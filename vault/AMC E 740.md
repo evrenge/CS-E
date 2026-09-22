@@ -14,11 +14,11 @@ covers: ["AMC E 740(c)(2)(i)", "AMC E 740(c)(3)", "AMC E 740(f)(1)", "AMC E 740(
 > AMC E 740(c)(4), is the turbofan alternate endurance test and is excluded.
 > AMC E 740(c)(2)(i) governs the 25 hours of additional running for a 30-Minute
 > Power rating and where it may sit. AMC E 740(c)(3) gives two acceptable
-> procedures for the additional OEI test and accepts a short speed overshoot at
-> the start of the 30-second period. AMC E 740(f)(1) covers supplementary
-> testing for higher spool speeds, AMC E 740(g)(1) allows separate running in
-> place of revised incremental running, and AMC E 740(i)(2) sets what the
-> post-test strip examination should establish.
+> procedures for the additional test of CS-E 740(c)(3)(iii) and accepts a short
+> speed overshoot at the start of the 30-second period. AMC E 740(f)(1) covers
+> supplementary testing for higher spool speeds, AMC E 740(g)(1) allows separate
+> running in place of revised incremental running, and AMC E 740(i)(2) sets what
+> the post-test strip examination should establish.
 
 ## Requirement
 
@@ -42,7 +42,7 @@ may be run at mechanical limitations rather than thermal limits
 genuinely puts it there, and only with a substantiated proposal that then
 becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
 
-### AMC E 740(c)(3) — running the additional OEI test
+### AMC E 740(c)(3) — running the additional test of CS-E 740(c)(3)(iii)
 
 | Ref | Obligation | Strength |
 |---|---|---|
@@ -53,6 +53,12 @@ becomes an installation assumption under [[CS-E 30|CS-E 30(a)]].
 | **(c)(3)(3)** | In the event of a stop during the four test sequences of CS-E 740(c)(3)(iii), the interrupted sequence needs to be repeated in full. | Required |
 | **(c)(3)(3)** | It can be re-started from the interrupt point if there is a technical justification acceptable to the Agency. | Permitted |
 | **(c)(3)(3)** | Where it is determined that the sequence need not be repeated in its entirety, the test should be restarted from a point where the engine thermal condition would be the same as at the time of interruption. | Accepted method |
+
+[VERIFY: unlisted construction. Row (c)(3)(3) uses "needs to" and carries
+Required. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a statement of necessity as Required, as it
+reads "is required to". The owner decides each construction once, for every row
+in the vault that carries it.]
 
 [VERIFY: point (3) states its rule with "needs to be repeated" and "can be
 re-started". Neither verb is in the vault's strength table or its declaratory
@@ -117,16 +123,16 @@ additional endurance test easier to pass. Cleaning and consumable replacement
 are acceptable only on that basis [AMC E 740(i)(2)(1)].
 
 Point (3) is the link that turns the endurance test into maintenance policy. The
-engine condition after the OEI sequence may validate the mandatory maintenance
-actions that [[CS-E 25|CS-E 25(b)]] requires following use of the 30-Second and
-2-Minute OEI ratings.
+engine condition after the additional endurance test of CS-E 740(c)(3)(iii) may
+validate the mandatory maintenance actions that [[CS-E 25|CS-E 25(b)]] requires
+following use of the 30-Second and 2-Minute OEI Power ratings.
 
 ## Compliance
 
 - Proposal for where the 25 hours of additional 30-Minute Power running sits — inside the overall test, as a complementary test on the same article, or a combination — with uniform distribution if included [AMC E 740(c)(2)(i)(a)].
 - Any credit claimed for time at the 30-Minute OEI rating, with evidence that those sequences ran under equal or more stringent operating limitations [AMC E 740(c)(2)(i)(b)]. This route is closed for this engine, which does not claim 30-Minute OEI.
 - Substantiated proposal where up to 12.5 hours are run at mechanical rather than thermal limits, recorded in the installation and operating instructions under [[CS-E 30|CS-E 30(a)]] [AMC E 740(c)(2)(i)(c)].
-- Choice of procedure (a) or (b) for the additional OEI test, with the associated strip inspection standard [AMC E 740(c)(3)(1)].
+- Choice of procedure (a) or (b) for the additional test of CS-E 740(c)(3)(iii), with the associated strip inspection standard [AMC E 740(c)(3)(1)].
 - Validation across the CS-E 740(c)(3)(iii) test of any designed speed overshoot at the start of the 30-second period [AMC E 740(c)(3)(2)], against [[CS-E 50|CS-E 50(j)]].
 - Technical justification where an interrupted sequence is re-started rather than repeated in full, with the thermal condition matched [AMC E 740(c)(3)(3)].
 - Supplementary test programme and article standard where higher spool speed limitations are sought [AMC E 740(f)(1)].

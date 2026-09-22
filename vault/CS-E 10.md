@@ -47,8 +47,7 @@ reverser specifications themselves do not apply [CS-E 10(b)].
 
 ## References
 
-Accepted means: none for CS-E 10. AMC E 10(b) covers the thrust reverser
-specifications, which this vault excludes by scope, so it has no note.
+Accepted means: none for CS-E 10. AMC E 10(b) covers the thrust reverser specifications, which this vault excludes by scope, so it has no note.
 Related: [[CS-E 15]] · [[CS-E 20]] · [[AMC General]]
 
 ## Amendment history

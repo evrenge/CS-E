@@ -40,9 +40,9 @@ Sub-point (d) is a single obligation with three routes. The equipment must meet
 **one** of them; the applicant chooses which, and (d)(3) allows an appropriate
 combination of the other two [CS-E 80(d)].
 
-Sub-point (c) is written as a statement of acceptance conditions rather than as a
-duty on the applicant — "will be accepted … subject to" [CS-E 80(c)]. The three
-conditions are cumulative. Condition (c)(3) places approval outside CS-E
+Sub-point (c) is written as a statement of acceptance conditions rather than as
+a duty on the applicant — "will be accepted … subject to" [CS-E 80(c)]. The
+three conditions are cumulative. Condition (c)(3) places approval outside CS-E
 entirely, in the aircraft Type Certificate.
 
 The division between (b) and (c) follows [[CS-E 20]]. Equipment identified under
@@ -74,16 +74,17 @@ environmental tests of [[CS-E 730]], [[CS-E 740]] and the paragraphs that
 follow. Where it does not, the gap must be closed by additional specifications
 in the equipment specification [CS-E 80(b)].
 
-Sub-point (a)(1)(ii) uses the Hazardous Engine Effect threshold, which is defined
-in [[CS-E 15]] and classified in the safety analysis of [[CS-E 510]]
+Sub-point (a)(1)(ii) uses the Hazardous Engine Effect threshold, which is
+defined in [[CS-E 15]] and classified in the safety analysis of [[CS-E 510]]
 [CS-E 15(c)]. The set of equipment failures that (a)(1)(ii) reaches is therefore
 an output of that analysis.
 
 For a full-authority EECS, the control system components mounted on the engine —
 alternators, sensors and actuators — are equipment in the sense of this
 paragraph. [[AMC E 50|AMC E 50(2)]] states that such components "should be
-covered, in addition, under other CS-E paragraphs such as CS-E 80 or CS-E 170, as
-appropriate", so CS-E 80 and [[CS-E 170]] apply to them alongside [[CS-E 50]].
+covered, in addition, under other CS-E paragraphs such as CS-E 80 or CS-E 170,
+as appropriate", so CS-E 80 and [[CS-E 170]] apply to them alongside
+[[CS-E 50]].
 
 [VERIFY: which equipment items are declared under [[CS-E 20|CS-E 20(a)]] and
 which under [[CS-E 20|CS-E 20(c)]]. The split decides, item by item, whether

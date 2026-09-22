@@ -109,7 +109,8 @@ selected option should be agreed with EASA.
 This file records what the applicant has declared. Many of the vault's open
 `[VERIFY]` items ask for something this file does not yet carry — the engine
 inlet throat area, the maximum airspeed for normal flight operations, the
-declared over-limit ratings, the installation attitude, and the rest.
+Maximum Engine Over-torque, Maximum Engine Over-speed and Maximum Exhaust Gas
+Over-Temperature limits, the installation attitude, and the rest.
 
 They are not listed here, because a hand-written copy of a list derived from the
 vault goes stale. The inventory is `review/dead_ends.md`, **Kind 3 — engine

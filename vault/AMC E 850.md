@@ -33,10 +33,10 @@ the shaft attachment member of the system that produces power (e.g. turbine) and
 the system that uses this power (e.g. compressor/fan or driving flange), and for
 which the mechanical restraints are mainly torsional." [AMC E 850(1)(a)]
 
-Two boundaries follow. An engine gearbox is part of the shaft system; an aircraft
-gearbox is treated separately under [AMC E 850(2)(c)]. Discs are outside the
-definition, but that does not preclude the specification that any disc Failure
-should be Extremely Remote [AMC E 850(1)(a)].
+Two boundaries follow. An engine gearbox is part of the shaft system; an
+aircraft gearbox is treated separately under [AMC E 850(2)(c)]. Discs are
+outside the definition, but that does not preclude the specification that any
+disc Failure should be Extremely Remote [AMC E 850(1)(a)].
 
 ### AMC E 850(2) — Non-Hazardous Shaft Failures
 
@@ -44,7 +44,8 @@ should be Extremely Remote [AMC E 850(1)(a)].
 |---|---|---|
 | **(2)(a)** | Where Hazardous Engine Effects are claimed to be avoided by keeping rotating components substantially in their normal plane of rotation, with over-speed controlled by disc rubbing, blade interference, spragging or shedding, engine surge or stall, or over-speed protection devices, this may be substantiated by either test or validated analysis. | Permitted |
 | **(2)(b)** | Where compliance is by test, initiate the shaft Failure under the worst-case operating conditions within the flight envelope, in any dispatchable configuration, that will maximise the rotor over-speed and the subsequent effects. | Accepted method |
-| **(2)(b)** | Where the worst case cannot be fully duplicated, the applicant may propose a test under suitably representative conditions. Those test conditions would need to be submitted to the Agency for acceptance. | Permitted |
+| **(2)(b)** | Where the worst case cannot be fully duplicated, the applicant may propose a test under suitably representative conditions. | Permitted |
+| **(2)(b)** | Those test conditions would need to be submitted to the Agency for acceptance. | Required if claimed |
 | **(2)(b)** | Take into account, in addition to the initial rotor speed, the shaft torque and the relevant engine pressures and temperatures. | Accepted method |
 | **(2)(b)** | Failures predicted to occur with a probability of Extremely Remote or less do not need to be taken into account if they meet all the requirements of CS-E 850(b)(2). | Relief |
 | **(2)(b)** | Where compliance is shown by system or component rig tests rather than a full engine test, show that the tests are sufficiently representative of the way the Failure would occur on a full engine, in terms of the key characteristics of the shaft Failure and its consequences on all the relevant engine parts and on the behaviour of subsystems. | Accepted method |
@@ -53,14 +54,21 @@ should be Extremely Remote [AMC E 850(1)(a)].
 | **(2)(c)** | Demonstrate that the structural components, when the Failure loads are applied, do not exceed their ultimate stress capability and do not lead to a Hazardous Engine Effect. | Accepted method |
 | **(2)(c)** | Validate the analysis against an actual engine, system or component rig tests and/or service events, and show a sufficient degree of similarity with the engine model for which compliance is sought. The similarity argument should be submitted to the Agency for acceptance. | Accepted method |
 
+[VERIFY: unlisted construction. Row (2)(b) uses "would need to" and carries
+Required if claimed. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a statement of necessity as Required,
+as it reads "is required to"; a row that rests on a route the applicant elects
+takes Required if claimed instead. The owner decides each construction once, for
+every row in the vault that carries it.]
+
 The four means of over-speed control named in (2)(a) are the mechanisms an
 applicant may rely on: disc rubbing, blade interference, spragging or shedding,
 engine surge or stall, and over-speed protection devices [AMC E 850(2)(a)].
 
 The similarity argument in (2)(c) is not left open. The AMC lists what it should
 encompass: "aerodynamics, surge characteristics, engine control logic, rotor
-speeds and the associated acceleration characteristics, relevant rotor and stator
-design features, materials, clearances, etc." [AMC E 850(2)(c)]
+speeds and the associated acceleration characteristics, relevant rotor and
+stator design features, materials, clearances, etc." [AMC E 850(2)(c)]
 
 ### AMC E 850(3) — Hazardous Shaft Failures
 
@@ -144,12 +152,12 @@ The AMC applies in full. Every part of it bears on a turboshaft, and several
 parts bear on it more heavily than on a turbofan, particularly where the engine
 has a free power turbine.
 
-**Over-speed control by surge or by a protection device.**
-[AMC E 850(2)(a)] accepts engine surge or stall and over-speed protection devices
-as means of limiting the over-speed after a shaft Failure. If the protection
-device is a function of the EECS-FADEC, the claim is assessed together with
-[[CS-E 50]] and the Failure rates established there. Reliance on surge alone is
-assessed against the surge behaviour established under [[CS-E 500]].
+**Over-speed control by surge or by a protection device.** [AMC E 850(2)(a)]
+accepts engine surge or stall and over-speed protection devices as means of
+limiting the over-speed after a shaft Failure. If the protection device is a
+function of the EECS-FADEC, the claim is assessed together with [[CS-E 50]] and
+the Failure rates established there. Reliance on surge alone is assessed against
+the surge behaviour established under [[CS-E 500]].
 
 **The aircraft gearbox is named.** Under the analysis route, [AMC E 850(2)(c)]
 states that the Failure modes identified should include "the loss of loads
@@ -157,11 +165,11 @@ caused by a Failure of any gearboxes supplied by the aircraft manufacturer". The
 consequences for this engine, including the [[CS-E 30]] installation
 assumptions, are set out once, in [[CS-E 850]].
 
-**Loss of load is the link to rotor integrity.**
-[[CS-E 840|CS-E 840(c)]] requires the highest over-speed from a complete loss of
-load to be treated as a rotor integrity condition unless it is Extremely Remote
-under CS-E 850. [[AMC E 840|AMC E 840(5)]] lists what determines that over-speed:
-system inertia, available gas energy, whether the rotor is held in plane, and
+**Loss of load is the link to rotor integrity.** [[CS-E 840|CS-E 840(c)]]
+requires the highest over-speed from a complete loss of load to be treated as a
+rotor integrity condition unless it is Extremely Remote under CS-E 850.
+[[AMC E 840|AMC E 840(5)]] lists what determines that over-speed: system
+inertia, available gas energy, whether the rotor is held in plane, and
 over-speed protection devices. The two AMCs are read together for the power
 turbine.
 
@@ -175,10 +183,10 @@ It applies to each shaft in torsional modes. The representative installation
 value depends on the target rotorcraft, which is not declared. Where that value
 exceeds 5 %, [AMC E 850(4)(b)(ii)] takes the higher value.
 
-[VERIFY: the maximum oscillatory torque envisaged in the rotorcraft installation,
-against the ± 5 % floor of AMC E 850(4)(b)(ii). The value depends on the main
-rotor and transmission dynamics of the target aircraft, which are not declared in
-engine_profile.md.]
+[VERIFY: the maximum oscillatory torque envisaged in the rotorcraft
+installation, against the ± 5 % floor of AMC E 850(4)(b)(ii). The value depends
+on the main rotor and transmission dynamics of the target aircraft, which are
+not declared in engine_profile.md.]
 
 [VERIFY: whether an over-speed protection function of the EECS-FADEC is claimed
 as the means of over-speed control under AMC E 850(2)(a). If so, CS-E 50(e)(1)

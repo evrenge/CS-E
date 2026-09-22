@@ -55,7 +55,7 @@ protection provisions. [[CS-E 130|CS-E 130(f)]] requires unintentional
 accumulation of hazardous quantities of flammable fluid within the engine to be
 prevented by draining and venting. [[AMC E 130|AMC E 130(6)]] names "a combustor
 drain system which typically drains off residual fuel after an aborted Engine
-start" as an example of a part that might be exempted from the Fire Resistant
+start" as an example of a part that might be exempted from the Fire-resistant
 specification. The exemption rests on parts that do not typically contain or
 convey flammable fluids during normal engine operation [AMC E 130(6)].
 

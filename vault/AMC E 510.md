@@ -73,7 +73,8 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(iii)** | Use engineering judgement based on available test and service experience of comparable designs as the basis for a conservative estimate of blade reliability. | Accepted method |
 | **(3)(d)(iii)** | Determine the likelihood of a blade Failure resulting in an unsafe condition primarily from debris energy and trajectories observed in testing and in service, with an assessment of the trajectories that could impact the aircraft. | Accepted method |
 | **(3)(d)(iii)** | Where possible, assess the threat to aircraft safety in coordination with the aircraft manufacturer. In any case, include assumptions regarding the ability of the aircraft to withstand debris impact in the Manuals required by CS-E 20(d). | Accepted method |
-| **(3)(d)(iii)** | Consider that other components may be released following Failure; service experience has shown that rupture of the high-pressure casings can generate high-energy debris. Assess the probability that an unsafe condition results from such a Failure. | Accepted method |
+| **(3)(d)(iii)** | Other components may be released following Failure; service experience has shown that rupture of the high-pressure casings can generate high-energy debris. Such Failures may therefore need to be considered as potentially causing the release of high-energy debris. | Statement |
+| **(3)(d)(iii)** | In such cases, assess the probability that an unsafe condition results from the Failure. | Accepted method |
 | **(3)(d)(iii)** | An Extremely Remote probability must be demonstrated for compliance with CS-E 510(a)(3). | Required |
 | **(3)(d)(iv)** | CS-E 510(g)(2)(ii) concerns generation and delivery of toxic products caused by abnormal engine operation sufficient to incapacitate crew or passengers during the flight. | Statement |
 | **(3)(d)(iv)** | Make no assumptions of cabin air dilution or mixing in the engine-level analysis; these can only be properly evaluated during aircraft certification. | Accepted method |
@@ -84,6 +85,12 @@ mode, and the rates assumed, and can then substitute the actual rates.
 | **(3)(d)(vii)** | Complete inability to shut down the engine is a Hazardous Engine Effect because continued running, even at low thrust or power, represents a hazard — inhibiting safe evacuation, causing directional control problems during landing, or preventing safe shutdown following a Failure. | Statement |
 | **(3)(d)(vii)** | It is acceptable to take account of aircraft-supplied equipment, such as fuel cut-off means, to protect against the complete inability to shut down the engine. | Permitted |
 | **(3)(d)(vii)** | The inclusion of this item within the Hazardous Engine Effects should not preclude hardware or software intended to protect against inadvertent engine shutdown, including aircraft logic to mitigate against the inadvertent shutdown of all engines. | Accepted method |
+
+[VERIFY: unlisted construction. Row (3)(d)(iii) uses "may need to" and carries
+Statement. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a possible need as Statement, as it reads "may
+be required": nothing is owed until the circumstance arises. The owner decides
+each construction once, for every row in the vault that carries it.]
 
 Three scenarios are given for toxic products: "Rapid flow of toxic products
 impossible to stop prior to incapacitation", "No effective means to prevent flow
@@ -138,12 +145,12 @@ as high-pressure casings, need their own assessment [AMC E 510(3)(d)(iii)].
 
 The maintenance error list is drawn from service events: failure to restore oil
 system or borescope access integrity after routine maintenance, with similar
-consideration for other systems; mis-installation of or failure to refit O-rings;
-servicing with incorrect fluids; and failure to install, omitting to torque,
-under-torquing or over-torquing nuts [AMC E 510(3)(h)]. Improper maintenance on
-discs, hubs and spacers is called out separately. Service examples include
-overlooking existing cracks or damage during inspection, and failure to apply or
-incorrect application of protective coatings.
+consideration for other systems; mis-installation of or failure to refit
+O-rings; servicing with incorrect fluids; and failure to install, omitting to
+torque, under-torquing or over-torquing nuts [AMC E 510(3)(h)]. Improper
+maintenance on discs, hubs and spacers is called out separately. Service
+examples include overlooking existing cracks or damage during inspection, and
+failure to apply or incorrect application of protective coatings.
 
 The multi-engine concern in (3)(h) comes from service events. Many arose from
 similar incorrect actions performed on several engines during the same
@@ -211,14 +218,14 @@ are provisional at aircraft level. The point links to [[AMC E 20|AMC E 20(f)]],
 under which the safety analysis should consider dormant Failures leading to
 non-availability of the OEI ratings.
 
-**Power, not thrust.** Several passages are written in thrust terms — "Generation
-of thrust greater than maximum rated thrust" and "Significant uncontrollable
-thrust oscillation" in the Major Engine Effects list [AMC E 510(3)(e)], and
-"limitation of thrust to idle" as a Failure condition example
-[AMC E 510(6)]. For a turboshaft these read as power, and the equivalent effects
-are excess power above the maximum rated value and uncontrollable power
-oscillation. The list is explicitly non-exhaustive and not all items apply to all
-engines, so this is interpretation rather than omission.
+**Power, not thrust.** Several passages are written in thrust terms —
+"Generation of thrust greater than maximum rated thrust" and "Significant
+uncontrollable thrust oscillation" in the Major Engine Effects list
+[AMC E 510(3)(e)], and "limitation of thrust to idle" as a Failure condition
+example [AMC E 510(6)]. For a turboshaft these read as power, and the equivalent
+effects are excess power above the maximum rated value and uncontrollable power
+oscillation. The list is explicitly non-exhaustive and not all items apply to
+all engines, so this is interpretation rather than omission.
 
 **The control system.** AMC E 510(3)(b) says the CS-E 50 specifications for the
 Engine Control System should be integrated into the overall engine safety
@@ -228,9 +235,9 @@ that analysis for the development assurance level of the OEI recording and
 retrieval system.
 
 **Bleed air and toxic products.** The named sources — abradable material
-degradation from blade rubs, and oil leaking into the compressor air flow — apply
-to any turbine engine supplying bleed air. This connects to [[CS-E 690]] and to
-the abradable lining evaluation of [[AMC E 130|AMC E 130(3)(d)]].
+degradation from blade rubs, and oil leaking into the compressor air flow —
+apply to any turbine engine supplying bleed air. This connects to [[CS-E 690]]
+and to the abradable lining evaluation of [[AMC E 130|AMC E 130(3)(d)]].
 
 **The unsafe condition, which the debris criterion turns on.** Part 21 is now
 held, and AMC1 21.A.3B(b) gives the definition AMC E 510(3)(d)(iii) relies on.

@@ -35,9 +35,9 @@ serviceable limits does not meet this accepted means if the rating capability
 has been lost.
 
 The wording is parallel to [[AMC E 820]] and [[AMC E 830]], differing only in
-the CS reference and the event named — over-torque, over-speed, over-temperature.
-The three over-limit tests of Subpart E therefore share one acceptance standard,
-expressed in the same sentence three times.
+the CS reference and the event named — over-torque, over-speed,
+over-temperature. The three over-limit tests of Subpart E therefore share one
+acceptance standard, expressed in the same sentence three times.
 
 ## Compliance
 

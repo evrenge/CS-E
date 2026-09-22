@@ -11,12 +11,12 @@ tags: [test, systems, eecs, hirf, lightning, bonding, installation-limitation, d
 
 > [!summary]
 > This AMC explains what CS-E 170 is for and then spends most of its length on
-> the Engine Control System. It gives examples of what the endurance test misses,
-> asks the manufacturer to define the additional testing itself, and sets out
-> the electromagnetic case: functional integrity under electric and
-> electromagnetic induction, the qualified environment recorded as an installation
-> limitation, and the bonding assumptions that a partial HIRF or lightning test
-> depends on.
+> the Engine Control System. It gives examples of what the endurance test
+> misses, asks the manufacturer to define the additional testing itself, and
+> sets out the electromagnetic case: functional integrity under electric and
+> electromagnetic induction, the qualified environment recorded as an
+> installation limitation, and the bonding assumptions that a partial HIRF or
+> lightning test depends on.
 
 ## Requirement
 
@@ -84,12 +84,13 @@ The AMC applies in full, and the Electronic Engine Control System material is
 directly on point: `engine_profile.md` declares an EECS-FADEC with full
 authority.
 
-Two of the four examples reach this engine specifically. An over-speed protection
-system or torque limiter is unlikely to be exercised by the scheduled tests of
-[[CS-E 740]]. A Failure indicating system relied on in the safety analysis is a
-case for demonstration that it functions when required [AMC E 170]. Where the
-safety analysis of [[CS-E 510]] relies on the OEI usage alerting and recording
-means of [[CS-E 60|CS-E 60(d)]], those means fall under this example.
+Two of the four examples reach this engine specifically. An over-speed
+protection system or torque limiter is unlikely to be exercised by the scheduled
+tests of [[CS-E 740]]. A Failure indicating system relied on in the safety
+analysis is a case for demonstration that it functions when required
+[AMC E 170]. Where the safety analysis of [[CS-E 510]] relies on the OEI usage
+alerting and recording means of [[CS-E 60|CS-E 60(d)]], those means fall under
+this example.
 
 The mechanical back-up example does not arise unless the EECS has one.
 

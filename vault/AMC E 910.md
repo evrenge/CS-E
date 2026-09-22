@@ -33,8 +33,11 @@ not a listed declaratory form. The row is labelled Accepted method because an
 AMC that recommends a practice marks an accepted means: an applicant may proceed
 otherwise and justify it. The label is a reading, not a mapping.
 
-[VERIFY: "is recommended" in an AMC has no fixed Strength label. Accepted method
-is a reading, and AMC E 520(a) applies the same reading.]
+[VERIFY: unlisted construction. Row (1) uses "is recommended" and carries
+Accepted method. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a recommendation in an AMC as Accepted
+method, as it reads "should" in an AMC. The owner decides each construction
+once, for every row in the vault that carries it.]
 
 ### The two threats
 

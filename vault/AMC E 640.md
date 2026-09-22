@@ -44,9 +44,9 @@ conditions that set them — forward speed, altitude, ambient temperature — ar
 installation assumptions under [[CS-E 30]].
 
 The AMC lists example parts: "the compressor, combustor and turbine casings,
-heat exchangers, bleed valve solenoids, starter motors or fuel, oil and hydraulic
-system components" [AMC E 640(1)]. The list is introduced by "Examples might
-include", so it does not bound the population.
+heat exchangers, bleed valve solenoids, starter motors or fuel, oil and
+hydraulic system components" [AMC E 640(1)]. The list is introduced by "Examples
+might include", so it does not bound the population.
 
 ### AMC E 640(2) to (4) — tests and modelling
 

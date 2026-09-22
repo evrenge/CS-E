@@ -10,11 +10,11 @@ covers: ["AMC E 830(c)"]
 # AMC E 830 — Maximum Engine Over-speed
 
 > [!summary]
-> One sentence serves CS-E 830, and it is the same criterion the over-torque test
-> carries. To comply with CS-E 830(c), it should be shown that an over-speed
-> event does not compromise the ability of the engine to reach its Rated
-> 30-Second and 2-Minute OEI Power. The accepted means therefore asks for more
-> than an engine that is fit to run.
+> One sentence serves CS-E 830, and it is the same criterion the over-torque
+> test carries. To comply with CS-E 830(c), it should be shown that an
+> over-speed event does not compromise the ability of the engine to reach its
+> Rated 30-Second and 2-Minute OEI Power. The accepted means therefore asks for
+> more than an engine that is fit to run.
 
 ## Requirement
 
@@ -46,12 +46,12 @@ therefore share one acceptance standard.
 The AMC applies wherever [[CS-E 830]] is elected, and it names the two ratings
 this engine declares.
 
-The criterion has a practical consequence for the over-limit ratings as a group.
-A declared Maximum Engine Over-speed is one of the three limits the
-usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] is conditioned on. This
-AMC links the two: under the accepted means, an over-speed that leaves the
-engine unable to reach its OEI ratings does not show compliance with
-CS-E 830(c) [AMC E 830(c)].
+The criterion has a practical consequence for the three limits of CS-E 820,
+CS-E 830 and CS-E 870 as a group. A declared Maximum Engine Over-speed is one of
+the three limits the usage-counting relief at [[AMC E 60|AMC E 60(d)(5)]] is
+conditioned on. This AMC links the two: under the accepted means, an over-speed
+that leaves the engine unable to reach its OEI ratings does not show compliance
+with CS-E 830(c) [AMC E 830(c)].
 
 The short OEI ratings are excluded from the test conditions themselves:
 [[CS-E 830|CS-E 830(b)(2)]] sets the turbine entry gas temperature from

@@ -38,8 +38,8 @@ tags: [fuel-system, additives, contamination, transient-fuel-icing, filter, asse
 | **(9)** | CS-E 560(g) is intended to cover any likely changes in settings caused by vibrations, incorrect maintenance, mechanical interference when installed or during handling. Examples of design precautions are locking devices, sealing and inaccessible installation. | Statement |
 
 Point (4) defines its own term: "A transient fuel icing condition is considered
-to be a short-duration exposure to high concentrations of (water) ice in the fuel
-delivered to the Engine that is caused by the accumulation and subsequent
+to be a short-duration exposure to high concentrations of (water) ice in the
+fuel delivered to the Engine that is caused by the accumulation and subsequent
 shedding of ice within the aircraft fuel system" [AMC E 560(4)]. The ice
 originates in the **aircraft** fuel system, not the engine's, which is why the
 threat assessment belongs to the aircraft manufacturer in the first instance.
@@ -75,22 +75,23 @@ is the fuel system instance of [[CS-E 130|CS-E 130(a)]] on fire.
 
 ## Application to this engine
 
-The AMC applies in full. Nothing in it is restricted by rating or control system.
+The AMC applies in full. Nothing in it is restricted by rating or control
+system.
 
-**Transient fuel icing is the item to plan for.** The ice comes from the aircraft
-fuel system, and the assessment belongs to the aircraft manufacturer. Because the
-rotorcraft installation is not fixed, no completed threat assessment exists.
-Point (4) therefore puts the applicant to a choice now. The applicant should
-assess the potential threat, or declare that no capability has been
+**Transient fuel icing is the item to plan for.** The ice comes from the
+aircraft fuel system, and the assessment belongs to the aircraft manufacturer.
+Because the rotorcraft installation is not fixed, no completed threat assessment
+exists. Point (4) therefore puts the applicant to a choice now. The applicant
+should assess the potential threat, or declare that no capability has been
 demonstrated and carry that as an installation limitation. Either way, the ice
 quantity and the critical fuel temperature should be documented in the engine
 installation manual under [[CS-E 30|CS-E 30(a)]] and [[CS-E 20|CS-E 20(d)]]
 [AMC E 560(4)].
 
-[VERIFY: whether a transient fuel icing threat assessment exists for the intended
-rotorcraft installation, or whether the applicant declares that no capability has
-been demonstrated. AMC E 560(4) accepts one or the other, and the choice becomes
-an installation limitation.]
+[VERIFY: whether a transient fuel icing threat assessment exists for the
+intended rotorcraft installation, or whether the applicant declares that no
+capability has been demonstrated. AMC E 560(4) accepts one or the other, and the
+choice becomes an installation limitation.]
 
 **Point (9) reaches the EECS.** The likely causes of setting change it names —
 vibration, incorrect maintenance, mechanical interference when installed or
@@ -98,10 +99,10 @@ during handling — apply to the fuel metering hardware. The maintenance error
 case connects to [[AMC E 510|AMC E 510(3)(h)]].
 
 **Point (5) is a fire case, not only an assembly case.** It reasons from fuel
-leakage being a potential fire hazard. Therefore it ties [[CS-E 110|CS-E 110(d)]]
-to [[CS-E 130]], and to the incorrect fitment assessment that
-[[CS-E 110|CS-E 110(e)]] places inside the system safety assessment of
-[[CS-E 50|CS-E 50(d)]].
+leakage being a potential fire hazard. Therefore it ties
+[[CS-E 110|CS-E 110(d)]] to [[CS-E 130]], and to the incorrect fitment
+assessment that [[CS-E 110|CS-E 110(e)]] places inside the system safety
+assessment of [[CS-E 50|CS-E 50(d)]].
 
 ## References
 

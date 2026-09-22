@@ -27,10 +27,16 @@ covers: ["AMC E 520(a)", "AMC E 520(c)(1)", "AMC E 520(c)(2)", "AMC E 520(d)"]
 |---|---|---|
 | **(a)** | In order to minimise the adverse consequences of Failures due to unpredicted high cycle fatigue, it is recommended that the relative fatigue strengths of the blade and disc are normally graded in ascending order: blade form, blade root, disc blade attachment, disc rim. | Accepted method |
 
+[VERIFY: unlisted construction. Row (a) uses "it is recommended" and carries
+Accepted method. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a recommendation in an AMC as Accepted
+method, as it reads "should" in an AMC. The owner decides each construction
+once, for every row in the vault that carries it.]
+
 The ordering puts the weakest link furthest from the disc [AMC E 520(a)]. An
-unpredicted high cycle fatigue Failure would then occur in the blade form, not in
-the disc rim. [[CS-E 520|CS-E 520(c)(1)]] requires debris from blade shedding to
-be radially contained. Disc Failure is instead treated as uncontained
+unpredicted high cycle fatigue Failure would then occur in the blade form, not
+in the disc rim. [[CS-E 520|CS-E 520(c)(1)]] requires debris from blade shedding
+to be radially contained. Disc Failure is instead treated as uncontained
 high-energy debris under [[AMC E 510|AMC E 510(3)(d)(iii)]].
 
 ### AMC E 520(c)(1) — shedding of blades
@@ -168,20 +174,21 @@ aircraft. Before the amendment, (c)(2)(2) addressed only engines that fail the
 rotor support structure by design.
 
 Amendment 7 further inserted into (c)(2)(3), after the list of differences to be
-accounted for between test and installation, ", and any other differences between
-the test configuration and the aircraft installation (e.g. production inlet
-configuration replaced by test intake configuration)", and added a new duty:
-"Assumptions about the Engine installation configuration should be documented in
-the Manuals required by CS-E 20(d)." That documentation duty is the one new
-obligation among the five, rather than an extension of an existing one.
+accounted for between test and installation, ", and any other differences
+between the test configuration and the aircraft installation (e.g. production
+inlet configuration replaced by test intake configuration)", and added a new
+duty: "Assumptions about the Engine installation configuration should be
+documented in the Manuals required by CS-E 20(d)." That documentation duty is
+the one new obligation among the five, rather than an extension of an existing
+one.
 
 Into (c)(2)(5) it inserted ", including interface features between Engine and
 aircraft".
 
 All five changes add work, and all point the same way: towards what the aircraft
 sees at the interface. The new data item and the new evaluation case are the
-model-side counterpart of the CS-E 520(c)(1) rewrite at the same amendment, which
-moved the blade shedding specification from a consequence test to a radial
+model-side counterpart of the CS-E 520(c)(1) rewrite at the same amendment,
+which moved the blade shedding specification from a consequence test to a radial
 containment test.
 
 AMC E 520(a) and AMC E 520(c)(1) are unchanged at Amendments 7 and 8 and carry

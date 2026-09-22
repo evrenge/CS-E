@@ -30,9 +30,10 @@ tags: [oil-system, filter, strainer, expansion-space, chip-detector, hazardous-q
 | **(4)** | For CS-E 570(a)(2), access points include, but are not limited to, magnetic chip detectors and gearbox access cover plates. | Statement |
 | **(5)** | "Hazardous quantities", as referred to in CS-E 570(e)(1), is defined in AMC E 130. | Statement |
 
-The 10 percent figure is an experience value, not a specification. The AMC states
-the duty as providing an expansion space and offers 10 percent of tank capacity
-as adequate [AMC E 570(2)], so another value may be used with justification.
+The 10 percent figure is an experience value, not a specification. The AMC
+states the duty as providing an expansion space and offers 10 percent of tank
+capacity as adequate [AMC E 570(2)], so another value may be used with
+justification.
 
 Point (5) is a definition pointer rather than an obligation. It resolves
 "hazardous quantities" in [[CS-E 570|CS-E 570(e)(1)]] to
@@ -40,10 +41,10 @@ Point (5) is a definition pointer rather than an obligation. It resolves
 (or a quantity of flammable material of equivalent heat content)", used in the
 absence of a more suitable determination.
 
-Point (1) duplicates a provision that also appears in
-[[AMC E 560|AMC E 560(6)]] for the fuel system, but for a different reason. There
-it serves fire protection under [[CS-E 130|CS-E 130(a)]]. Here it serves proper
-functioning and leakage avoidance under [[CS-E 570|CS-E 570(a)(1)]].
+Point (1) duplicates a provision that also appears in [[AMC E 560|AMC E 560(6)]]
+for the fuel system, but for a different reason. There it serves fire protection
+under [[CS-E 130|CS-E 130(a)]]. Here it serves proper functioning and leakage
+avoidance under [[CS-E 570|CS-E 570(a)(1)]].
 
 ## Compliance
 
@@ -68,9 +69,9 @@ quantity of flammable fluid during continued rotation after shutdown may call
 for a Fireproof standard.
 
 Magnetic chip detectors, named in point (4), are also named in
-[[AMC E 510|AMC E 510(3)(h)]] as a maintenance error case. Failure to restore oil
-system integrity after a routine chip detector or filter check appears in the
-list of service events that have caused serious consequences. The access
+[[AMC E 510|AMC E 510(3)(h)]] as a maintenance error case. Failure to restore
+oil system integrity after a routine chip detector or filter check appears in
+the list of service events that have caused serious consequences. The access
 provisions here and the maintenance error precautions there address the same
 hardware.
 

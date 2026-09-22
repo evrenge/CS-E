@@ -65,10 +65,10 @@ EECS, so loss of that wiring is a control system Failure assessed under
 [[CS-E 50|CS-E 50(d)]] and [[CS-E 510]].
 
 The 200-knot consideration is the case that CS-E 540 adds beyond the test
-paragraphs, and it matters differently here than for an aeroplane.
-[[CS-E 800]] sets 200 knots as the aeroplane test condition; the rotorcraft case
-in that paragraph is written to a different speed. The AMC's question — operation
-above 200 knots, with the corresponding single-bird encounter probability — is
+paragraphs, and it matters differently here than for an aeroplane. [[CS-E 800]]
+sets 200 knots as the aeroplane test condition; the rotorcraft case in that
+paragraph is written to a different speed. The AMC's question — operation above
+200 knots, with the corresponding single-bird encounter probability — is
 therefore assessed against the speeds this installation actually reaches.
 
 [VERIFY: the maximum operating speed of the intended rotorcraft installation is

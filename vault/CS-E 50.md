@@ -126,8 +126,8 @@ rather than the hydromechanical route at (e)(2) [CS-E 50(e)]. The software
 obligations at (f) also carry their full weight [CS-E 50(f)].
 
 Sub-point (a)(2) cites CS-E 390 as well as CS-E 500(a) and CS-E 745. CS-E 390 is
-in Subpart C and applies to piston engines, so only CS-E 500(a) and CS-E 745 bind
-here [CS-E 50(a)(2)]. Sub-point (d) likewise cites CS-E 210, a Subpart B
+in Subpart C and applies to piston engines, so only CS-E 500(a) and CS-E 745
+bind here [CS-E 50(a)(2)]. Sub-point (d) likewise cites CS-E 210, a Subpart B
 paragraph; [[CS-E 510]] is the turbine engine route [CS-E 50(d)].
 
 The rotorcraft's transmission tests depend on this control system. Where their
@@ -135,9 +135,9 @@ torque test applies, CS 29.927 and CS 27.927 set the test torque at the maximum
 attainable, "assuming that torque limiting devices, if any, function properly"
 [ext CS 29.927(b)(2)], [ext CS 27.927(b)(1)(ii)], [ext CS 27.927(b)(2)]. Where
 the EECS provides that limit, its integrity is engine-side evidence under this
-paragraph. CS 29.927(d) further runs its overspeed test at not less than the
-higher of two speeds. One is the rotational speed expected from an engine control
-device failure [ext CS 29.927(d)]. Both paragraphs are recorded in
+paragraph. CS 29.927(d) further runs its over-speed test at not less than the
+higher of two speeds. One is the rotational speed expected from an engine
+control device failure [ext CS 29.927(d)]. Both paragraphs are recorded in
 [[CS 29.927]] and [[CS 27.927]].
 
 All three AMC 20 documents named in the banner are now held, at the revisions

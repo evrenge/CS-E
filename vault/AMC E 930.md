@@ -62,8 +62,8 @@ design, materials or manufacturing processes. The list is not closed
 
 **System dynamics of the engine** are the vibratory response signature, meaning
 system critical frequencies and amplitudes. These can be a function of engine
-mass and stiffness, rotor speeds, and engine or aircraft mount and strut mass and
-stiffness [AMC E 930(c)].
+mass and stiffness, rotor speeds, and engine or aircraft mount and strut mass
+and stiffness [AMC E 930(c)].
 
 ### AMC E 930(d)(1) — IMP test cycle assessment
 
@@ -80,6 +80,12 @@ stiffness [AMC E 930(c)].
 | **(d)(1)(iii)** | The accelerated severity cycle test may include the equivalent of several flight cycles during a given portion of the overall engine test, which can give a small number of engine hours against the number of engine flight cycles demonstrated. | Statement |
 | **(d)(1)(iii)** | The accelerated severity cycle test is generally not considered ideal for engine parts whose durability is primarily affected by hours of operation rather than by cycles. For those cases, the IMP substantiation may require other test or in-service experience data, including, if available, comparison of relevant past IMP demonstrations with subsequent successful entry-into-service engine experience. | Statement |
 | **(d)(1)(iii)** | The accelerated severity cycle test should include engine start and shutdown. | Accepted method |
+
+[VERIFY: unlisted construction. Row (d)(1)(iii) uses "may require" and carries
+Statement. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a possible need as Statement, as it reads "may
+be required": nothing is owed until the circumstance arises. The owner decides
+each construction once, for every row in the vault that carries it.]
 
 The two cycle types answer different questions. A full cycle test earns credit
 for hours and for cycles at face value [AMC E 930(d)(6)(i)]. An accelerated
@@ -128,7 +134,7 @@ claimed, not by a figure in the rule.
 | **(d)(5)(iii)** | A post-test teardown inspection should demonstrate that each engine part conforms to the type design; or that damage is evaluated and the part is considered acceptable for safe continued operation; or that damage is evaluated and the part is considered not acceptable for safe continued operation, but there is no imminent failure identified at the end of test. | Accepted method |
 | **(d)(5)(iii)** | Engine parts may be considered acceptable for safe continued operation if the applicant includes appropriate inspections and/or limitations within the ICA. | Permitted |
 | **(d)(5)(iii)** | For parts damaged beyond criteria ensuring safe continued operation, substantiate the finding that there is no imminent failure and provide in the ICA an appropriate fixed engine overhaul period. | Accepted method |
-| **(d)(5)(iii)** | For engines having 30-second OEI and 2-minute OEI power ratings, the IMP test results may be used when showing compliance with CS-E 25(b)(2) for OEI power availability demonstration at the end of the fixed engine overhaul period. | Permitted |
+| **(d)(5)(iii)** | For engines having 30-Second OEI and 2-Minute OEI Power ratings, the IMP test results may be used when showing compliance with CS-E 25(b)(2) for OEI power availability demonstration at the end of the fixed engine overhaul period. | Permitted |
 | **(d)(5)(iv)** | The certification documentation should identify those parts of the engine that will have specific ICA requirements or recommendations resulting from the IMP test. | Accepted method |
 | **(d)(5)(iv)** | The final ICA should include these specific requirements and/or recommendations, in compliance with CS-E 25, including life limits, inspections, intervals, and accept/reject criteria. | Accepted method |
 
@@ -144,9 +150,15 @@ is acceptable, but it requires a fixed engine overhaul period in the ICA
 |---|---|---|
 | **(d)(6)(i)** | For a successful full cycle test, the applicant may take credit for the full number of cycles and the full number of hours demonstrated during the test when proposing an IMP. | Permitted |
 | **(d)(6)(ii)** | For a successful accelerated severity cycle test, the applicant may take credit for the full number of cycles for those engine parts for which the test cycle was shown to be equal to or more severe than the assumed engine flight cycle. | Permitted |
-| **(d)(6)(iii)** | Where the test cycle involves a high thrust setting operation for durations that significantly exceed those of the engine flight cycle, EASA may accept that the applicant takes credit for intervals longer than the IMP test length. | Permitted |
+| **(d)(6)(iii)** | Where the test cycle involves a high thrust setting operation for durations that significantly exceed those of the engine flight cycle, the Agency may accept that the applicant takes credit for intervals longer than the IMP test length. | Permitted |
 | **(d)(6)(iii)** | This approach requires caution, because some engine parts will wear as a function of time at load rather than from low cycle fatigue, and life extrapolation based on material property data alone is imprecise. | Statement |
-| **(d)(6)(iii)** | Under these circumstances, the applicant may need to draw supporting evidence from other engine tests, component tests or sub-assembly tests. | Accepted method |
+| **(d)(6)(iii)** | Under these circumstances, the applicant may need to draw supporting evidence from other engine tests, component tests or sub-assembly tests. | Statement |
+
+[VERIFY: unlisted construction. Row (d)(6)(iii) uses "may need to" and carries
+Statement. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a possible need as Statement, as it reads "may
+be required": nothing is owed until the circumstance arises. The owner decides
+each construction once, for every row in the vault that carries it.]
 
 The credit rules mirror the cycle types. A full cycle test earns hours and
 cycles; an accelerated severity cycle test earns cycles only, and only for the
@@ -208,14 +220,13 @@ way [AMC E 930(e)].
 
 The AMC applies, and one of its sub-points is written for this engine type.
 
-**AMC E 930(d)(2)(v) makes the test rig an installation-dependent item.**
-The output shaft should be loaded to simulate the rotor drive system of the
-intended installation, with inertial and torsional vibration named as
-characteristics to consider. The AMC names no test equipment and judges none, so
-whether a given load device satisfies the sub-point is settled against the
-installation rather than against the AMC. The rig specification therefore depends
-on the target rotorcraft transmission, which `engine_profile.md` does not
-declare.
+**AMC E 930(d)(2)(v) makes the test rig an installation-dependent item.** The
+output shaft should be loaded to simulate the rotor drive system of the intended
+installation, with inertial and torsional vibration named as characteristics to
+consider. The AMC names no test equipment and judges none, so whether a given
+load device satisfies the sub-point is settled against the installation rather
+than against the AMC. The rig specification therefore depends on the target
+rotorcraft transmission, which `engine_profile.md` does not declare.
 
 **OEI usage has to be assumed before the test, not measured after it.**
 Under [AMC E 930(d)(1)(i)], the test cycles should represent the cumulative
@@ -246,9 +257,9 @@ design factors to evaluate after a Major change. A Major change to the
 EECS-FADEC architecture therefore reopens the IMP validity assessment as well as
 the [[CS-E 50]] substantiation.
 
-[VERIFY: the rotor drive system inertial and torsional characteristics required to
-specify the IMP test load, per AMC E 930(d)(2)(v). These come from the aircraft
-transmission and are not an engine-side quantity.]
+[VERIFY: the rotor drive system inertial and torsional characteristics required
+to specify the IMP test load, per AMC E 930(d)(2)(v). These come from the
+aircraft transmission and are not an engine-side quantity.]
 
 [VERIFY: whether the CS-E 25(b)(2) credit of AMC E 930(d)(5)(iii) is claimed. It
 requires a fixed engine overhaul period to exist, so it is only available where
@@ -275,8 +286,9 @@ Related: [[CS-E 25]] · [[CS-E 740]] · [[CS-E 60]] · [[CS-E 50]] · [[CS-E 80]
 ## Amendment history
 
 AMC E 930 is **new at Amendment 8**. The Change Information declares it as "The
-following AMC E 930 is added:" and records 260 inserted runs against no deletions,
-because no AMC E 930 existed in Amendment 7. [work/redline/AMC_E_930_Amdt8.md]
+following AMC E 930 is added:" and records 260 inserted runs against no
+deletions, because no AMC E 930 existed in Amendment 7.
+[work/redline/AMC_E_930_Amdt8.md]
 
-The whole of the guidance above is new. There is no prior wording to compare, and
-no obligation was relaxed: the AMC arrived with the specification it serves.
+The whole of the guidance above is new. There is no prior wording to compare,
+and no obligation was relaxed: the AMC arrived with the specification it serves.

@@ -93,12 +93,12 @@ electrical or electronic sub-components.
 | **(2)(b)** | Power input: demonstrate that equipment receiving power directly from the aircraft can accommodate the full range of power inputs declared for the installation. | Accepted method |
 
 The explosion proofness text distinguishes two environments. Environment I
-"defines equipment mounted in fuel tanks or within fuel systems", and Environment
-II is an atmosphere in which flammable mixtures can be expected to occur as the
-result of a Fault causing spillage or leakage [AMC E 80(2)(b)]. For a Fire
-zone, which has extinguishing provisions, the Environment II test is adequate;
-Flammable Fluid Leakage areas may lack those provisions, so Environment I may be
-required for aircraft installation [AMC E 80(2)(b)].
+"defines equipment mounted in fuel tanks or within fuel systems", and
+Environment II is an atmosphere in which flammable mixtures can be expected to
+occur as the result of a Fault causing spillage or leakage [AMC E 80(2)(b)]. For
+a Fire zone, which has extinguishing provisions, the Environment II test is
+adequate; Flammable Fluid Leakage areas may lack those provisions, so
+Environment I may be required for aircraft installation [AMC E 80(2)(b)].
 
 Power input applies only to equipment powered directly by the aircraft, and the
 AMC names the electronic engine control (EEC) and the hydromechanical unit (HMU)
@@ -135,7 +135,13 @@ The related [[AMC E 130]] and [[AMC E 640]] are therefore relevant
 |---|---|---|
 | **(3)** | A weak link in the drive, or the specification of a weak link in the equipment, will normally be an acceptable means of limiting excessive torque. | Accepted method |
 | **(3)** | For some equipment under CS-E 20(c), such as a high output electrical generator, a weak link might not adequately safeguard against damage to the engine from overheating and break-up of the equipment. | Statement |
-| **(3)** | In such a case, other means of disconnect would need to be provided or specified, to permit disengagement of the equipment with the engine running. | Accepted method |
+| **(3)** | In such a case, other means of disconnect would need to be provided or specified, to permit disengagement of the equipment with the engine running. | Required |
+
+[VERIFY: unlisted construction. Row (3) uses "would need to" and carries
+Required. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a statement of necessity as Required, as it
+reads "is required to". The owner decides each construction once, for every row
+in the vault that carries it.]
 
 This is the accepted means for [[CS-E 80|CS-E 80(a)(2)(ii)]], which requires the
 mountings and drives to minimise engine shut-down caused by excessive torque.

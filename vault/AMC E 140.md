@@ -21,21 +21,21 @@ tags: [test, accessory-drives, power-turbine, endurance]
 |---|---|---|
 | — | For turbine engines, where the power turbine accessory drives are not loaded, add the equivalent power as required by CS-E 140(d)(1) to the required power at the output drive, so that the power turbine rotor assembly is operated at or above the same level as it would be if the power turbine accessory drives were loaded. | Accepted method |
 
-AMC E 140 is a single unnumbered sentence, so the `Ref` cell carries no sub-point
-identifier.
+AMC E 140 is a single unnumbered sentence, so the `Ref` cell carries no
+sub-point identifier.
 
-The AMC supplies the acceptance criterion that the specification leaves implicit.
-[[CS-E 140|CS-E 140(d)(2)]] requires the equivalent power extraction to be added
-to the engine shaft output but does not say what the addition has to achieve.
-AMC E 140 states it: the power turbine rotor assembly is operated "at or above
-the same level as it would be if the power turbine accessory drives were loaded"
-[AMC E 140]. The test is therefore at least as severe on the power turbine as
-the loaded case, never less.
+The AMC supplies the acceptance criterion that the specification leaves
+implicit. [[CS-E 140|CS-E 140(d)(2)]] requires the equivalent power extraction
+to be added to the engine shaft output but does not say what the addition has to
+achieve. AMC E 140 states it: the power turbine rotor assembly is operated "at
+or above the same level as it would be if the power turbine accessory drives
+were loaded" [AMC E 140]. The test is therefore at least as severe on the power
+turbine as the loaded case, never less.
 
 The AMC cites CS-E 140(d)(1) while the unloading relief for the additional
-endurance sequence sits in CS-E 140(d)(2). Both sub-points concern drive loading,
-and (d)(2) is written as an exception to (d)(1), so the AMC covers the power
-addition that (d)(2) requires.
+endurance sequence sits in CS-E 140(d)(2). Both sub-points concern drive
+loading, and (d)(2) is written as an exception to (d)(1), so the AMC covers the
+power addition that (d)(2) requires.
 
 ## Compliance
 
@@ -49,10 +49,10 @@ the power turbine it addresses is the one whose output drive turns the
 rotorcraft transmission.
 
 The AMC matters most for the additional endurance sequence of
-[[CS-E 740|CS-E 740(c)(3)(iii)]], which is where
-[[CS-E 140|CS-E 140(d)(2)]] permits the drives to be left unloaded. This engine
-declares 30-Second OEI, 2-Minute OEI and Continuous OEI, so that sequence is part
-of the programme and the power addition applies.
+[[CS-E 740|CS-E 740(c)(3)(iii)]], which is where [[CS-E 140|CS-E 140(d)(2)]]
+permits the drives to be left unloaded. This engine declares 30-Second OEI,
+2-Minute OEI and Continuous OEI, so that sequence is part of the programme and
+the power addition applies.
 
 ## References
 

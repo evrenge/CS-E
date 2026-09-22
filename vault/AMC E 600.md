@@ -12,9 +12,9 @@ covers: ["AMC E 600(e)"]
 > [!summary]
 > One sentence serves CS-E 600, and it addresses the rotorcraft attitude clause
 > of CS-E 600(e). Where the engine attitude during the tests differs from the
-> attitude in the intended rotorcraft installations, the applicant should justify
-> the difference. The AMC does not forbid the difference. It expects the reason
-> to be stated for each intended installation.
+> attitude in the intended rotorcraft installations, the applicant should
+> justify the difference. The AMC does not forbid the difference. It expects the
+> reason to be stated for each intended installation.
 
 ## Requirement
 
@@ -48,8 +48,8 @@ declared application is a rotorcraft.
 
 The justification depends on knowing the installation attitude, which is an
 assumption under [[CS-E 30|CS-E 30(a)]] and therefore installation information
-under [[CS-E 20|CS-E 20(d)]]. Since the rotorcraft installation is not fixed, the
-comparison cannot be closed yet.
+under [[CS-E 20|CS-E 20(d)]]. Since the rotorcraft installation is not fixed,
+the comparison cannot be closed yet.
 
 [VERIFY: the intended rotorcraft installation attitude, or attitudes, are not
 recorded in `engine_profile.md`. AMC E 600(e) expects a justification for every

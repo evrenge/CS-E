@@ -127,5 +127,5 @@ gained the initial maintenance programme test in the list of certification
 testing from which the maintenance actions are determined, alongside the
 endurance, over-speed and over-temperature tests; that follows the new
 [[CS-E 930]] and it reaches this engine. A new point (6) was also added, on time
-between overhauls and time between replacements for piston engines; that material
-is out of scope. Only the first change bears on a turboshaft.
+between overhauls and time between replacements for piston engines; that
+material is out of scope. Only the first change bears on a turboshaft.

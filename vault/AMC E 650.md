@@ -107,7 +107,7 @@ blockages or enlargement, and blockages of fuel nozzles.
 | **(8)(a)** | The presence of flutter may be acceptable in some circumstances, for example in a speed range encountered only briefly or infrequently, or where the flutter amplitude is limited to a safe level. | Permitted |
 | **(8)(a)** | The resulting vibration stresses must always satisfy the requirements of CS-E 650(f). | Required |
 | **(8)(a)** | Complete a thorough investigation of the flutter response and its effects to show that the flutter does not result in a Hazardous Engine Effect; the investigation may include dwell testing under paragraph (10). | Accepted method |
-| **(8)(b)** | Recognise in the test procedure that some systems' susceptibilities to flutter will not be revealed if the relevant operating conditions are not sustained long enough for the flutter to develop. | Accepted method |
+| **(8)(b)** | In all cases, the test procedure needs to recognise that some systems' susceptibilities to flutter will not be revealed if the relevant operating conditions are not sustained long enough for the flutter to develop. | Required |
 | **(8)(c)** | Give due consideration to possible variations between nominal and extreme values of, for example, tip clearances, mechanical damping, operating lines and bleed flows, since flutter is sensitive to small variations. | Accepted method |
 | **(8)(c)** | Experience has shown there are differences in susceptibility to flutter from one blade set to another, and that 'tuned' blade sets might be more sensitive. | Statement |
 | **(8)(d)** | Where tests will be conducted at sea level only, propose a procedure acceptable to the Agency to account for altitude effects. | Accepted method |
@@ -116,6 +116,12 @@ blockages or enlargement, and blockages of fuel nozzles.
 | **(8)(e)** | For some turbines the propensity to flutter is not increased at maximum corrected speed, and other methods of demonstrating the absence of damaging flutter throughout the declared flight envelope may be more appropriate. | Permitted |
 | **(8)(e)** | Ensure that the maximum stage inlet pressure at each physical speed is achieved, or that compensation is provided. | Accepted method |
 | **(8)(f)** | Include in the methods used to verify the absence of damaging flutter consideration of applicable combinations of: the ranges of physical and corrected rotational speeds for each rotor module; the simultaneous occurrence of maximum compressor inlet air total temperature and maximum corrected rotational speed; the range of compressor operating lines within the flight envelope; the most adverse of other compressor inlet air conditions within the flight envelope; and the hardware standard, the intake conditions and margins to account for engine deterioration. | Accepted method |
+
+[VERIFY: unlisted construction. Row (8)(b) uses "needs to" and carries Required.
+The phrasing is neither one of the seven source verbs nor a listed declaratory
+form. The vault reads a statement of necessity as Required, as it reads "is
+required to". The owner decides each construction once, for every row in the
+vault that carries it.]
 
 Paragraph (8)(e) explains a result that is counter-intuitive and directly
 useful. Where a turbine operates aerodynamically choked and the mass flow is set
@@ -170,13 +176,13 @@ combined amplitudes within this range should be considered"
 | **(15)** | Limit inspection of type design hardware in accordance with point 21.A.33 of Part 21 to only those pertinent engine components and associated instrumentation that constitute the certification engine test or the baseline tests supporting the validated analysis. | Accepted method |
 
 The domain of applicability in (14)(b)(i) is defined by a long list of design
-characteristics: engine architecture, module type, component geometry, structural
-dynamic characteristics, aeroelastic characteristics, sources of vibratory
-excitation and forcing strength, and operating conditions. Among the structural
-dynamic characteristics the AMC names the Modal Assurance Criterion, noting that
-"a MAC value greater than 0.9 indicates there is close agreement between measured
-and calculated mode shapes" [AMC E 650(14)(b)(i)]. Among the aeroelastic
-characteristics it gives the Strouhal number or reduced frequency,
+characteristics: engine architecture, module type, component geometry,
+structural dynamic characteristics, aeroelastic characteristics, sources of
+vibratory excitation and forcing strength, and operating conditions. Among the
+structural dynamic characteristics the AMC names the Modal Assurance Criterion,
+noting that "a MAC value greater than 0.9 indicates there is close agreement
+between measured and calculated mode shapes" [AMC E 650(14)(b)(i)]. Among the
+aeroelastic characteristics it gives the Strouhal number or reduced frequency,
 $k = \omega c / U$, where $\omega$ is frequency, $c$ is component length in the
 flow direction and $U$ is flow velocity.
 
@@ -212,10 +218,9 @@ recorded below.
 
 **Turboshaft is named in the AMC itself.** The engine architecture list that
 defines a validated analysis domain of applicability includes "2- or 3-shaft
-design, turboshaft, turbofan, open rotor, geared fan"
-[AMC E 650(14)(b)(i)]. Architecture is therefore an explicit boundary of the
-domain: an analysis validated on a turbofan baseline does not automatically cover
-a turboshaft.
+design, turboshaft, turbofan, open rotor, geared fan" [AMC E 650(14)(b)(i)].
+Architecture is therefore an explicit boundary of the domain: an analysis
+validated on a turbofan baseline does not automatically cover a turboshaft.
 
 **Rotor drive systems are an installation item.** AMC E 650(13) lists rotor
 drive systems among the installation features to consider for vibratory
@@ -299,14 +304,14 @@ mount system": the previous text already named the stiffness, and what the
 amendment added is the damping. In (15) the Part 21 citation was corrected to
 "point 21.A.33 of Part 21".
 
-**Amendment 8** made a single cross-reference correction in paragraph (10), Dwell
-Testing:
+**Amendment 8** made a single cross-reference correction in paragraph (10),
+Dwell Testing:
 
 - **Before:** "Components subjected to such dwell testing should subsequently also meet the strip inspection requirements of CS-E 740(h)."
 - **After:** "Components subjected to such dwell testing should subsequently also meet the strip inspection requirements of CS-E 740(i)."
 
-The letter changed from (h) to (i). The obligation is unchanged; the reference now
-points at the strip inspection sub-point as [[CS-E 740]] numbers it.
+The letter changed from (h) to (i). The obligation is unchanged; the reference
+now points at the strip inspection sub-point as [[CS-E 740]] numbers it.
 
 The paragraph carries `[Amdt No: E/1]`, `[Amdt No: E/4]`, `[Amdt No: E/7]` and
 `[Amdt No: E/8]`.

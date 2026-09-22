@@ -28,7 +28,15 @@ covers: ["AMC E 790", "AMC E 790(a)(1)", "AMC E 790(a)(2)"]
 | **(2)** | For interpreting "flameout, rundown, continued or non-recoverable surge or stall" in CS-E 790(a)(2) and (b), see paragraphs (1) and (5)(c)(vi) in AMC E 790(a)(2). | Statement |
 | **(3)** | For interpreting "sudden encounter" in CS-E 790(a)(2) and "suddenly commencing" in CS-E 790(b), see paragraphs (5)(c)(iv)(D) and (G) in AMC E 790(a)(2). | Statement |
 | **(4)** | "Rapid acceleration" and "rapid deceleration" in CS-E 790(b)(2) and (b)(4) should be interpreted as meaning a throttle movement in not more than one second. | Accepted method |
-| **(5)** | If the engine is certified on the assumption that the protection device considered under CS-E 790(d) is provided by the aircraft installation, and compliance with CS-E 790(a) to (c) is waived, the engine approval would be endorsed accordingly, and the engine instructions for installation would need to impose the conditions of CS-E 790(d)(1) to (3) on the installation. | Statement |
+| **(5)** | If the engine is certified on the assumption that the protection device considered under CS-E 790(d) is provided by the aircraft installation, and compliance with CS-E 790(a) to (c) is waived, the engine approval would be endorsed accordingly. | Statement |
+| **(5)** | In that case, the engine instructions for installation would need to impose the conditions of CS-E 790(d)(1) to (3) on the installation. | Required if claimed |
+
+[VERIFY: unlisted construction. Row (5) uses "would need to" and carries
+Required if claimed. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a statement of necessity as Required,
+as it reads "is required to"; a row that rests on a route the applicant elects
+takes Required if claimed instead. The owner decides each construction once, for
+every row in the vault that carries it.]
 
 Point (4) is the only point that supplies a value rather than a pointer. That
 value makes the CS-E 790(b) test reproducible: the rapid deceleration and
@@ -95,9 +103,10 @@ Take-off Power [AMC E 790(a)(1)].
 | **(a)(2)(3)(c)(ii)** | That avoidance should not be used by the applicant to show compliance with the rain and hail ingestion specifications. | Accepted method |
 | **(a)(2)(3)(c)(iii)** | Reduced aircraft speed improves centrifuging while decreasing the adverse scoop factor effect. | Statement |
 
-The AMC illustrates the scoop factor, the velocity vectors and the engine control
-characteristics with three figures. They are embedded here rather than described,
-because a description of a vector diagram cannot be checked against the source.
+The AMC illustrates the scoop factor, the velocity vectors and the engine
+control characteristics with three figures. They are embedded here rather than
+described, because a description of a vector diagram cannot be checked against
+the source.
 
 ![[AMC_E_790_a_2_p199.png]]
 ![[AMC_E_790_a_2_p200.png]]
@@ -129,11 +138,17 @@ centrifuge rain or hail away from the engine. The 4 percent concentration
 | **(a)(2)(4)(b)** | The analysis should encompass the full range of all pertinent variables. | Accepted method |
 | **(a)(2)(4)(b)(i)** | Use the rain and hail threats identified in Figure A1 and Tables A1 to A4 in Appendix A of CS-E, and consider the effects of nominal as well as extreme levels on all relevant engine components and systems. | Accepted method |
 | **(a)(2)(4)(b)(ii)** | Quantify the amount of rain and, separately, the amount of hail ingested into the engine core, including amplification and attenuation effects such as the scoop factor effect and the relative velocity effect. | Accepted method |
-| **(a)(2)(4)(b)(ii)** | Establish or conservatively assess rain droplet break-up characteristics, and the trajectories of hail particles after impacting nose cones, spinners, inlet surfaces, blades and vanes. | Accepted method |
+| **(a)(2)(4)(b)(ii)** | Rain droplet break-up characteristics, and the trajectories of hail particles after impacting nose cones, spinners, inlet surfaces, blades and vanes, need to be established or conservatively assessed. | Required |
 | **(a)(2)(4)(b)(iii)** | Analyse the entire envelope of power conditions. Rundown and flameout are predominantly low power anomalies, while compressor stability problems could occur at high power. | Accepted method |
 | **(a)(2)(4)(b)(iv)** | Analyse the variability of engine parasitics, such as air bleeds and accessory loads, for their effect on the critical points. | Accepted method |
 | **(a)(2)(4)(c)** | The critical point analysis is an assessment of the engine's capability throughout its operating envelope, given the range of event variables and any engine operability condition affected by ingested rain or hail. Typical operability conditions to consider include surge and stall margin, fuel control rundown margin, combustor flameout margin and instrumentation sensing errors. | Accepted method |
 | **(a)(2)(4)(c)** | The critical point analysis should also address case contraction. | Accepted method |
+
+[VERIFY: unlisted construction. Row (a)(2)(4)(b)(ii) uses "need to" and carries
+Required. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a statement of necessity as Required, as it
+reads "is required to". The owner decides each construction once, for every row
+in the vault that carries it.]
 
 The critical point analysis belongs to the CS-E 790(a)(2) route
 [AMC E 790(a)(2)(4)(a)]. Where the applicant elects the CS-E 790(b)
@@ -167,6 +182,13 @@ analysis is not the compliance path [AMC E 790(a)(2)(2)(d)].
 | **(a)(2)(5)(c)(i)(H)** | Where the ingestion of liquid water droplets is accepted for critical hail point testing, the water concentration should at least be increased to compensate for the heat of fusion of ice. | Accepted method |
 | **(a)(2)(5)(c)(i)(I)** | Rain droplet break-up: in the ground-level test environment, the forces applied to accelerate the simulated rain droplets to flight speed, and the shear forces between the droplets and the engine airflow, are apt to break up the droplets. That break-up can reduce conservatism through additional centrifuging. | Statement |
 | **(a)(2)(5)(c)(i)(I)** | The concentration of the rain may need to be increased to compensate for the added centrifuging resulting from ground-level testing. | Statement |
+
+[VERIFY: unlisted construction. Row (a)(2)(5)(c)(i)(I) uses "may need to" and
+carries Statement. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a possible need as Statement, as it
+reads "may be required": nothing is owed until the circumstance arises. The
+owner decides each construction once, for every row in the vault that carries
+it.]
 
 #### Facility, instrumentation and procedure, (5)(c)(ii) to (v)
 
@@ -221,6 +243,13 @@ CS-E 790(a)(2) test.
 | **(a)(2)(5)(d)** | Analysis may be used in lieu of, or in combination with, engine testing. | Permitted |
 | **(a)(2)(5)(d)** | The analytical methods should have a sufficient validation basis to justify the accuracy of the predictions, or be shown to yield conservative results, with validation proportional to the complexity of the methods and the criticality of the calculation. | Accepted method |
 
+[VERIFY: unlisted construction. Row (a)(2)(5)(c)(vi) uses "may need to" and
+carries Statement. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a possible need as Statement, as it
+reads "may be required": nothing is owed until the circumstance arises. The
+owner decides each construction once, for every row in the vault that carries
+it.]
+
 The two numbers are different quantities and both apply. The 3 percent limit is
 on **sustained loss** measured against the primary power setting parameter
 [AMC E 790(a)(2)(5)(c)(vi)(A)]. The 10 percent allowance is on **degradation**
@@ -267,11 +296,11 @@ of the CS-E 790(a)(2) procedure, and it needs Agency concurrence before testing
 [AMC E 790(a)(2)(4)(a)]. The CS-E 790(b) test conditions are fixed by the
 specification instead.
 
-**The acceptance criteria still apply.** AMC E 790(1) and
-AMC E 790(2) route the terms used in CS-E 790(b) — "unacceptable
-mechanical damage", "unacceptable power loss", "flameout, rundown, continued or
-non-recoverable surge or stall" — to AMC E 790(a)(2)(5)(c)(vi). The 3 percent and
-10 per cent criteria therefore govern the (b) test as well.
+**The acceptance criteria still apply.** AMC E 790(1) and AMC E 790(2) route the
+terms used in CS-E 790(b) — "unacceptable mechanical damage", "unacceptable
+power loss", "flameout, rundown, continued or non-recoverable surge or stall" —
+to AMC E 790(a)(2)(5)(c)(vi). The 3 percent and 10 per cent criteria therefore
+govern the (b) test as well.
 
 **Continuous ignition could become dispatch-critical.** If compliance with the
 rain ingestion criteria depends on an automatic protection system, its

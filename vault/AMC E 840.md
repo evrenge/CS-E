@@ -49,10 +49,17 @@ already **includes transients**, not to the steady-state rating speed
 | **(2)(h)** | Assess the consequences of rotor growth sufficient to cause significant contact or displacement between engine components, to determine that CS-E 840(d)(1) can be met. | Accepted method |
 | **(2)(i)** | When determining compliance with CS-E 840(d)(2), consider whether the rotor would exhibit any condition likely to prevent safe operation of the engine for a period of time that could occur in service following any Failure considered under CS-E 840(b)(3) or (b)(4). That period might equal the time to recognise the event and shut the engine down, or the time for continued safe flight and landing, and might depend on the operational instructions for an over-speed event. | Accepted method |
 | **(2)(j)** | Where a number of rotors are of similar design, made of materials to the same specification and subjected to similar stress conditions, temperature levels and gradients, it is permissible for compliance with CS-E 840(a) to test only the most critical rotor with respect to burst. | Permitted |
-| **(2)(j)** | This would require determination of the burst speed for each rotor in order to select the most critical, which is assumed to have the smaller margin to burst above the speeds specified in CS-E 840(b). | Statement |
+| **(2)(j)** | This would require determination of the burst speed for each rotor in order to select the most critical, which is assumed to have the smaller margin to burst above the speeds specified in CS-E 840(b). | Required if claimed |
 | **(2)(j)** | The most critical rotor with respect to burst might not be the most critical with respect to growth. Give consideration to the components surrounding each rotor in order to determine the most critical rotor with respect to growth for compliance with CS-E 840(d). | Accepted method |
 | **(2)(k)** | Establish the burst speed of each compressor and turbine rotor design by appropriate tests or analysis based on tests, in relation to the most critical condition prescribed in CS-E 840(b), on the most adverse combination of dimensional tolerances and material properties, and report it in the certification documentation. | Accepted method |
 | **(2)(l)** | For a multi-stage rotor in which the rotors do not meet the conditions of similarity of paragraph (2)(j), substantiate the compliance of each rotor stage using representative test data. | Accepted method |
+
+[VERIFY: unlisted construction. Row (2)(j) uses "would require" and carries
+Required if claimed. The phrasing is neither one of the seven source verbs nor a
+listed declaratory form. The vault reads a statement of necessity as Required,
+as it reads "is required to"; a row that rests on a route the applicant elects
+takes Required if claimed instead. The owner decides each construction once, for
+every row in the vault that carries it.]
 
 Point (2)(g) fixes the order of operations and it changes the answer. The speed
 is first adjusted for temperature, material properties and tolerances, and the
@@ -91,12 +98,18 @@ that burst would not have occurred at the (b)(1) or (b)(2) conditions
 | **(4)(b)** | Material properties of the sample rotor may be determined from attached test rings or bars, when the correlation of their properties has been established by a validated method using coupons obtained from forgings or castings of the type to be approved. | Permitted |
 | **(4)(b)** | Where attached test rings or bars are not available, a value for the material properties may be established by assuming the sample rotor possesses material properties equal to known average properties of similar rotors from the same manufacturing process lot, if that assumption can be shown valid within acceptable confidence limits. | Permitted |
 | **(4)(c)** | Make an analysis of dimensional tolerances to identify the most adverse combination with respect to the integrity of the rotors. | Accepted method |
-| **(5)** | In order to determine the highest over-speed resulting from a loss of load to be considered under CS-E 840(c), it will be necessary to consider, for possible Failure locations, such factors as system inertia, available gas energy, whether the rotor is held in plane, and over-speed protection devices. | Statement |
+| **(5)** | In order to determine the highest over-speed resulting from a loss of load to be considered under CS-E 840(c), it will be necessary to consider, for possible Failure locations, such factors as system inertia, available gas energy, whether the rotor is held in plane, and over-speed protection devices. | Required |
+
+[VERIFY: unlisted construction. Row (5) uses "will be necessary" and carries
+Required. The phrasing is neither one of the seven source verbs nor a listed
+declaratory form. The vault reads a statement of necessity as Required, as it
+reads "is required to". The owner decides each construction once, for every row
+in the vault that carries it.]
 
 Point (4)(a) distinguishes the two temperature bases precisely. For a
 rating-based condition the temperature is the most adverse **at** that rating.
-For a Failure-based condition it is the most adverse **immediately prior to** the
-Failure [AMC E 840(4)(a)].
+For a Failure-based condition it is the most adverse **immediately prior to**
+the Failure [AMC E 840(4)(a)].
 
 ## Compliance
 

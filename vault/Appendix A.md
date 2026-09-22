@@ -23,8 +23,8 @@ tags: [rain, hail, concentrations, rwc, hwc, droplet-size, hailstone-size, altit
 | — | Figure A1, Table A1, Table A2, Table A3 and Table A4 specify the atmospheric concentrations and size distributions of rain and hail for establishing certification, in accordance with the specifications of CS-E 790(a)(2). | Statement |
 | — | In conducting tests, normally by spraying liquid water to simulate rain conditions and by delivering hailstones fabricated from ice to simulate hail conditions, the use of water droplets and hailstones having shapes, sizes and distributions of sizes other than those defined in this Appendix A, or the use of a single size or shape for each water droplet or hailstone, can be accepted, provided the substitution does not reduce the severity of the test. | Permitted |
 
-Appendix A is unnumbered prose followed by a figure and four tables, so the `Ref`
-cells carry no sub-point identifier.
+Appendix A is unnumbered prose followed by a figure and four tables, so the
+`Ref` cells carry no sub-point identifier.
 
 The substitution permission is broad, but its single condition is strict. Any
 shape, size or distribution may be used, including a single size, provided the
@@ -72,9 +72,10 @@ layer flattens the table structure into a single column of unlabelled numbers.
 ![[Appendix_A_p211_3.png]]
 ![[Appendix_A_p212.png]]
 
-Table A1 and Table A2 both state that values at other altitudes may be determined
-by linear interpolation. Table A2 adds that "The hail threat below 7 300 feet and
-above 29 000 feet is based on linearly extrapolated data." [Appendix A]
+Table A1 and Table A2 both state that values at other altitudes may be
+determined by linear interpolation. Table A2 adds that "The hail threat below 7
+300 feet and above 29 000 feet is based on linearly extrapolated data."
+[Appendix A]
 
 Table A3 gives a median rain droplet diameter of 2.66 mm, and Table A4 a median
 hailstone diameter of 16 mm [Appendix A].

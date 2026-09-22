@@ -12,11 +12,11 @@ covers: ["AMC E 50", "AMC E 50(e)", "AMC E 50(j)", "AMC to CS-E 50(l)"]
 
 > [!summary]
 > Four AMC paragraphs serve CS-E 50. The general AMC fixes what counts as the
-> Engine Control System and reads CS-E 50(a)(3) for a rotorcraft as power turbine
-> speed control. AMC E 50(e) covers over-speed protection testing, AMC E 50(j)
-> the automatic control of 30-Second OEI power, and AMC to CS-E 50(l) the
-> security assessment. All four bind: the engine uses a full-authority EECS and
-> declares a 30-Second OEI rating.
+> Engine Control System and reads CS-E 50(a)(3) for a rotorcraft as power
+> turbine speed control. AMC E 50(e) covers over-speed protection testing,
+> AMC E 50(j) the automatic control of 30-Second OEI power, and AMC to
+> CS-E 50(l) the security assessment. All four bind: the engine uses a
+> full-authority EECS and declares a 30-Second OEI rating.
 
 ## Requirement
 
@@ -43,8 +43,8 @@ engine-mounted and physically integrated with the fuel metering unit
 [AMC E 50(1)].
 
 Blade shedding or engine design related over-speed protection is not included,
-because that protection is purely mechanical and works without influence from the
-control system [AMC E 50(1)].
+because that protection is purely mechanical and works without influence from
+the control system [AMC E 50(1)].
 
 Engine monitoring systems are covered when physically or functionally integrated
 with the control system, or when they perform functions affecting engine safety,
@@ -56,9 +56,9 @@ monitors and maintenance information devices are not — those fall under
 ### Air signal line precautions [(6)]
 
 The worked example given is that lines measuring static pressure in the
-compressor of turbine engines could be blocked by frozen water, leading to a loss
-of power. The suggested precautions are protected openings, filters, drains for
-water, and heating of the lines to prevent freezing of condensed water
+compressor of turbine engines could be blocked by frozen water, leading to a
+loss of power. The suggested precautions are protected openings, filters, drains
+for water, and heating of the lines to prevent freezing of condensed water
 [AMC E 50(6)].
 
 ### AMC E 50(e) — over-speed protection testing
@@ -93,9 +93,9 @@ design. Exceeding the limits associated with it would therefore likely result in
 an engine Failure — unacceptable in a critical flight condition with one engine
 already failed [AMC E 50(j)(1)].
 
-The automatic control is intended to remove the need to monitor engine parameters
-during the event: output shaft torque or power, output shaft speed, gas generator
-speed and gas path temperatures [AMC E 50(j)(1)].
+The automatic control is intended to remove the need to monitor engine
+parameters during the event: output shaft torque or power, output shaft speed,
+gas generator speed and gas path temperatures [AMC E 50(j)(1)].
 
 ### The two-sided constraint
 
@@ -113,9 +113,9 @@ asks for information showing that limiter settings do not block the rating.
 | — | The security risk assessment should take into account specific cases of intentional unauthorised electronic interactions (IUEIs) that could have similar effects on all the Engine Control Systems of an aircraft, and not only interactions that could adversely affect a single engine. | Accepted method |
 
 The second obligation is the substantive one. Under this accepted means, a
-security assessment scoped to one engine is not sufficient. The assessment should
-also take into account interactions that could have similar effects on all the
-Engine Control Systems of an aircraft [AMC to CS-E 50(l)].
+security assessment scoped to one engine is not sufficient. The assessment
+should also take into account interactions that could have similar effects on
+all the Engine Control Systems of an aircraft [AMC to CS-E 50(l)].
 
 ## Compliance
 
@@ -164,9 +164,9 @@ depends on aircraft-supplied electrical power is evaluated against
 [[CS-E 50|CS-E 50(h)]] [AMC E 50(5)].
 
 Point (1) settles where "OEI override" is assessed. If the feature controls,
-limits or monitors engine operation and is necessary for continued airworthiness,
-it is part of the Engine Control System [AMC E 50(1)]. It falls under CS-E 50 —
-not under [[CS-E 40]] as a rating.
+limits or monitors engine operation and is necessary for continued
+airworthiness, it is part of the Engine Control System [AMC E 50(1)]. It falls
+under CS-E 50 — not under [[CS-E 40]] as a rating.
 
 AMC 20-1 and AMC 20-3 are now held. The detailed interpretation this AMC defers
 to is in [[AMC 20-3B]], which that note records in full: the rotorcraft loss of
@@ -179,11 +179,11 @@ certification and so addresses the installer [ext AMC 20-1A 3].
 
 [VERIFY: which route of [[CS-E 50|CS-E 50(e)]] governs over-speed protection on
 this engine. Sub-point (e)(1) applies where the protection is electronic and
-(e)(2) where it is not, and AMC E 50(1) names a third case —
-blade-shedding or engine-design over-speed protection — that is outside the
-Engine Control System altogether. A full-authority EECS does not by itself settle
-which, and `engine_profile.md` does not declare the protection technology. The
-BITE method described here is the accepted means for the electronic route.]
+(e)(2) where it is not, and AMC E 50(1) names a third case — blade-shedding or
+engine-design over-speed protection — that is outside the Engine Control System
+altogether. A full-authority EECS does not by itself settle which, and
+`engine_profile.md` does not declare the protection technology. The BITE method
+described here is the accepted means for the electronic route.]
 
 AMC E 50(1) records that blade shedding or engine design related over-speed
 protection is not part of the Engine Control System, because it is purely
@@ -192,9 +192,9 @@ mechanical. Where such a means is used in addition, it falls outside this AMC
 
 [VERIFY: AMC E 50(e) refers to a CS-E 50(e) specification for reasonable
 assurance that the protection function works. No such wording appears in
-CS-E 50(e) at Amendment 8, which instead requires "a means for testing the system
-to establish the availability of the protection function". Confirm the AMC is
-being read against the current CS-E 50(e) text.]
+CS-E 50(e) at Amendment 8, which instead requires "a means for testing the
+system to establish the availability of the protection function". Confirm the
+AMC is being read against the current CS-E 50(e) text.]
 
 ### 30-Second OEI automatic control
 
@@ -251,7 +251,7 @@ airworthiness, with procedures to maintain security effectiveness in service
 [ext AMC 20-42 9]. And a reported occurrence is considered for the possibility
 that it originated from an intentional unauthorised electronic interaction; if
 one has generated an unsafe condition, the occurrence, the investigation and the
-recovery actions are reported to EASA under point 21.A.3A
+recovery actions are reported to the Agency under point 21.A.3A
 [ext AMC 20-42 9]. That reporting route is the one recorded in
 [[AMC E 515]].
 
