@@ -6,10 +6,11 @@ for that, per CLAUDE.md. These answer their own questions: what CS-27 or CS-29
 asks of the rotorcraft, what a term in CS-Definitions means, what the AMC 20
 series accepts as a means of compliance.
 
-Read-only, checksum-pinned, and **not tracked across amendments**. The version
-here is the version the vault was written against; if a newer amendment matters
-later, that is when change tracking starts. This is deliberate: the amendment
-machinery in `source/` exists because CS-E is the deliverable, and these are not.
+These files are read-only, checksum-pinned and **not tracked across
+amendments**. The version here is the version the vault was written against. If
+a newer amendment matters later, change tracking starts then. This is
+deliberate: the amendment machinery in `source/` exists because CS-E is the
+deliverable, and these documents are not.
 
 | File | Pages | Document | ED Decision |
 |---|---:|---|---|
@@ -47,24 +48,24 @@ vault raises. `review/dead_ends.md` is the inventory those references come from.
 |---|---|
 | **CS-27** | `CS-27.45(f)` power availability, behind AMC E 20(f)(1). `CS 27.1093(b)` ice protection, behind CS-E 780(a)(2). Also the CS-27-or-CS-29 question in CS-E 20(b) and CS-E 30 |
 | **CS-29** | `CS-29.45(f)` and `CS 29.1093(b)`, the CS-29 side of the same two |
-| **CS-Definitions** | `Fire-resistant` and `Fireproof`, which CS-E 130 turns on and CS-E 15(a) defers twice. `Icing Atmospheric Conditions`, behind CS-E 780(a)(2) |
-| **AMC-20** | `AMC 20-1`, `AMC 20-3` (CS-E 50 for an EECS, and AMC E 80 Table 2 item 18, which names no alternative at all), `AMC 20-42` (the whole CS-E 50(l) security method), `AMC 20-115`, and `AMC 25.1309` cited by AMC E 510(5) |
+| **CS-Definitions** | `Fire-resistant` and `Fireproof`, which CS-E 130 turns on. CS-E 15(a) defers to CS-Definitions twice. `Icing Atmospheric Conditions`, behind CS-E 780(a)(2) |
+| **AMC-20** | `AMC 20-1`, `AMC 20-3` (CS-E 50 for an EECS, and AMC E 80 Table 2 item 18, which names no alternative at all), `AMC 20-42` (the whole CS-E 50(l) security method) and `AMC 20-115`. It does not close `AMC 25.1309`, cited by AMC E 510(5): AMC-20 names it but does not contain it, and CS-25 is not held |
 
 ## Part 21
 
 `Part-21_EAR_Reg-748-2012_Nov-2025.pdf` is EASA's **Easy Access Rules** edition:
 1,041 pages interleaving the Annex I (Part 21) Regulation text with its AMC and
 GM, produced by EASA eRules. It is the one document that closes every Part 21
-reference the vault raises, and it does so because it carries both kinds of
-material. Most of the points the table below lists are Regulation text, which no
-AMC & GM document contains at any amendment.
+reference the vault raises, except the deleted point 21.A.61. It can do so
+because it carries both kinds of material. Most of the points the table below
+lists are Regulation text, which no AMC & GM document contains at any amendment.
 
 | Reference | What it gives | Feeds |
 |---|---|---|
-| `GM1 21.A.3B(b)` | a "DETERMINATION OF AN UNSAFE CONDITION" section | AMC E 510(3)(d)(iii) — the trigger for the whole uncontained-debris assessment |
+| `AMC1 21.A.3B(b)`, with `GM1 21.A.3B(b)` | the definition of an "UNSAFE CONDITION", and a "DETERMINATION OF AN UNSAFE CONDITION" section | AMC E 510(3)(d)(iii) — the trigger for the whole uncontained-debris assessment |
 | `21.A.3A`, `21.A.3B` | occurrence reporting and the failure/malfunction/defect duties | the AMC E 515 Service Management Plan |
 | `21.A.20(d)`, with `GM 21.A.20(d)` | the final statement, and what "no feature or characteristics" means in `21.A.20(d)2` | the reason CS-E 160 exists |
-| `21.A.61` | **not held, and not holdable** — the point no longer exists in Part 21. The numbering runs 21.A.62 then 21.A.65, and an exact search returns nothing; a substring search appears to find it only because 21.A.601 to 21.A.615 exist. CS-E 25(a) cited `21.A.61(a)` until Amendment 7 deleted the reference, and Part 21 has since dropped the point itself. The instructions for continued airworthiness duty is now `21.A.7` | CS-E 25(a) amendment history |
+| `21.A.61` | **not held, and not holdable** — the point no longer exists in Part 21. The numbering runs 21.A.62 then 21.A.65, and an exact search returns nothing; a substring search appears to find it only because 21.A.601 to 21.A.615 exist. CS-E 25(a) cited `21.A.61(a)` until Amendment 7 deleted the reference, and Part 21 has since dropped the point itself. The duty to provide instructions for continued airworthiness is now in `21.A.7` | CS-E 25(a) amendment history |
 | `21.A.7` | who receives the instructions for continued airworthiness, and when | CS-E 25 |
 | `21.A.33` | the conformity machinery before a certification test | AMC E 650(15) |
 | `21.A.41` | what a type certificate includes | CS-E 40(e) |
@@ -97,8 +98,8 @@ two sentences:
 > applicable fuel venting requirements as specified in point 21.A.21 of Annex I
 > (Part 21) to Commission Regulation (EU) No 748/2012."
 >
-> **CS 34.2 Aircraft engine emissions.** "The aircraft engine must be designed to
-> comply with the applicable emissions requirements as specified in point
+> **CS 34.2 Aircraft engine emissions.** "The aircraft engine must be designed
+> to comply with the applicable emissions requirements as specified in point
 > 21.A.21 of Annex I (Part 21) to Commission Regulation (EU) No 748/2012."
 
 It contains no limit, no operating cycle, no measurement method and no test. It
@@ -160,10 +161,10 @@ It also says where compliance is recorded:
 
 The explanatory note says the opposite of what that note would achieve:
 
-> "Current references to CS-34, CS-36 and CS-CO2 in type-certificate data sheets
-> (TCDSs) and type-certificate data sheets for noise (TCDSNs) **do not constitute
-> records of compliance** with the applicable environmental protection
-> requirements."
+> "Current references to CS-34, CS-36 and CS-CO2 in type-certificate data
+> sheets (TCDSs) and type-certificate data sheets for noise (TCDSNs) **do not
+> constitute records of compliance** with the applicable environmental
+> protection requirements."
 
 So the accepted means in CS-E Amendment 8, issued April 2025, prescribes a TCDS
 entry that EASA declared in May 2025 is not a compliance record. Existing data
@@ -172,9 +173,10 @@ necessary" — but an applicant certifying now cannot follow AMC E 1020(1)
 literally and produce a valid record. The substitute is the ICAO Annex 16
 volume, chapter and amendment level.
 
-This is recorded, not acted on. Changing what `AMC E 1020` tells a reader to do
-means writing note content from a document that is not CS-E, which needs the
-Source of truth rule amended first.
+The `AMC E 1020` note now records this conflict as an imported statement,
+under **Imported obligations** in `CLAUDE.md`, and carries a `[VERIFY]` to agree
+the note wording with the Agency. It does not change what AMC E 1020(1)
+prescribes: that remains the published accepted means.
 
 ### An open scope question this raises
 
@@ -201,8 +203,11 @@ it.
 | **FAA AC 33.70-2, AC 33.70-3** | Damage tolerance methods named by AMC E 515 |
 | **SAE ARP4754A / EUROCAE ED-79A**, "Systematic Safety" (Lloyd & Tye) | Reference documents in AMC E 510(5) |
 
-The last four are industry standards behind a paywall; the first two are free
-EASA downloads.
+None of the five is an EASA document, and none will be added. ICAO Annex 16 is
+not free. ED-14 / DO-160, ISO 2685, ARP4754A / ED-79A and "Systematic Safety"
+are sold by their publishers, and no paywalled material is committed here. The
+FAA advisory circulars could not be obtained. `review/dead_ends.md`, **Closed:
+the corpus is complete**, records each decision.
 
 ## Provenance rule
 

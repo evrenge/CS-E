@@ -1,7 +1,8 @@
 # Source documents
 
-Four EASA documents, all free downloads from easa.europa.eu (no paywall, no login).
-All are committed to this repository and verified — see `CHECKSUMS.sha256`.
+This folder holds four EASA documents. All are free downloads from
+easa.europa.eu, with no paywall and no login. All are committed to this
+repository and verified; see `CHECKSUMS.sha256`.
 
 | File | Pages | Size | Document | PDF title / subject |
 |---|---:|---:|---|---|
@@ -15,15 +16,17 @@ each file; nothing is a mirror or a third-party reprint.
 
 ## Role of each file
 
-- **CS-E Amendment 8** — the normative baseline. Current consolidated CS-E book,
-  Subparts A–F plus AMC. Every requirement quoted in a note comes from here.
-- **CS-E Amendment 7** — the previous consolidated baseline. Provides verbatim
-  "before" text for a changed paragraph, and allows a full-text Amdt 7 → Amdt 8
-  diff as a cross-check on the change inventory.
-- **Change Information, Amdt 8** — declares which paragraphs Amendment 8 amended,
-  added or deleted. Authority for the "changed at Amdt 8" tag.
-- **Change Information, Amdt 7** — same, for Amendment 7 against Amendment 6.
-  Authority for the "changed at Amdt 7" tag.
+- **CS-E Amendment 8** — the normative baseline. It is the current consolidated
+  CS-E text, Subparts A–F plus AMC. Every requirement quoted in a note comes
+  from here.
+- **CS-E Amendment 7** — the previous consolidated baseline. It provides the
+  verbatim "before" text for a changed paragraph, and allows a full-text
+  Amdt 7 → Amdt 8 diff as a cross-check on the change inventory.
+- **Change Information, Amdt 8** — declares which paragraphs Amendment 8
+  amended, added or deleted. It is the authority for the "changed at Amdt 8"
+  tag.
+- **Change Information, Amdt 7** — the same, for Amendment 7 against
+  Amendment 6. It is the authority for the "changed at Amdt 7" tag.
 
 ## Landing pages
 
@@ -50,24 +53,25 @@ Verified with `pypdf` (see `scripts/verify_sources.py`):
 
 ### Redline markup scheme
 
-Both Change Information PDFs mark changes the same way (verified by rendering
-pages and by reading the content stream):
+Both Change Information (CI) PDFs mark changes the same way. This was verified
+by rendering pages and by reading the content stream:
 
-- **Inserted text** — black, on a cyan highlight drawn as a filled rectangle with
-  non-stroking colour `0 1 1`. 148 such fills in the Amdt 7 CI, 114 in the Amdt 8 CI.
-- **Deleted text** — red (`1 0 0 rg`) with a strikethrough rule. 4,118 red
-  characters in the Amdt 7 CI, 395 in the Amdt 8 CI.
+- **Inserted text** — black, on a cyan highlight drawn as a filled rectangle
+  with non-stroking colour `0 1 1`. The Amdt 7 CI has 148 such fills, and the
+  Amdt 8 CI has 114.
+- **Deleted text** — red (`1 0 0 rg`) with a strikethrough rule. The Amdt 7 CI
+  has 4,118 red characters, and the Amdt 8 CI has 395.
 
-Amendment 8 carries less red because it is predominantly additive, not because it
-uses a different convention.
+Amendment 8 carries less red because it is predominantly additive, not because
+it uses a different convention.
 
-`extract_text()` drops both markers and merges deleted and inserted words into one
-run — the result reads as normative text that never existed in either amendment.
-Recover polarity from the content stream or from a rendered page.
+`extract_text()` drops both markers and merges deleted and inserted words into
+one run. The result reads as normative text that never existed in either
+amendment. Recover the polarity from the content stream or from a rendered page.
 
 ## Provenance rule
 
-Do not substitute a mirrored or third-party copy, and do not re-save these PDFs.
-Verify with `sha256sum -c CHECKSUMS.sha256` from this directory. If a file must be
-replaced, re-fetch from the EASA landing page above — EASA rotates the numeric
-`/en/downloads/<id>/en` IDs when a document is republished.
+Do not substitute a mirrored or third-party copy, and do not re-save these
+PDFs. Verify with `sha256sum -c CHECKSUMS.sha256` from this directory. If a file
+must be replaced, re-fetch it from the EASA landing page above. EASA rotates the
+numeric `/en/downloads/<id>/en` IDs when a document is republished.

@@ -5,29 +5,30 @@ document EASA cites, or it depends on something the applicant has not yet
 declared. Neither is a defect. Both are limits on what a reader can get from
 these 112 notes, and a certification programme needs the list.
 
-Compiled from seven independent verification passes over the whole vault, one per
-scope, each reading the notes AND their source paragraphs. Cross-checked against
-`scripts/external_refs.py`, which scans the same corpus mechanically.
+The inventory was compiled from seven independent verification passes over the
+whole vault, one per scope. Each pass read the notes and their source
+paragraphs. The result was cross-checked against `scripts/external_refs.py`,
+which scans the same corpus mechanically.
 
 ## Status
 
-**Kind 1 is closed.** Every external document CS-E cites, other than the
-industry and foreign standards listed under *Still open* below, is now held in
-`source/external/` and checksum-pinned. Each reference in the tables that follow
-was searched for in the extracted text of all seven documents; the result is
-recorded per entry.
+**Kind 1 is closed.** Every external document CS-E cites is now held in
+`source/external/` and checksum-pinned, other than the industry and foreign
+standards listed under *Closed: the corpus is complete* below. Each reference in
+the tables that follow was searched for in the extracted text of all seven
+documents, and the result is recorded per entry.
 
-Two distinctions matter when reading on, and blurring either would overstate the
+Two distinctions matter when reading on. Blurring either would overstate the
 position:
 
-- **Held is now used.** This distinction mattered while the documents sat in
-  `source/external/` unread. The convention for marking an imported obligation
-  is written — `CLAUDE.md`, **Imported obligations**, rules A to E — and the
-  answers are in the notes. What each document closed is listed under *Where the
-  answers landed* below.
+- **Held is now used.** The difference between held and used mattered while the
+  documents sat unread in `source/external/`. It no longer does. The convention
+  for marking an imported obligation is written — `CLAUDE.md`, **Imported
+  obligations**, rules A to E — and the answers are in the notes. What each
+  document closed is listed under *Where the answers landed* below.
 - **Cited is not contained.** AMC-20, CS-27, CS-29 and Part 21 mention
   EUROCAE ED-14, RTCA DO-160, ISO 2685, SAE ARP4754A and ARP 4761 by name. They
-  do not reproduce them. Those standards remain unheld.
+  do not reproduce them. Those standards are still not held.
 
 ### Scope decision: the chain ends at ICAO Annex 16
 
@@ -37,12 +38,12 @@ and stops there.** ICAO Annex 16 is not an EASA document, it is not free, and
 this is a CS-E vault; the applicant follows the last link. Recording where the
 chain ends is the answer, not a gap.
 
-One consequence is carried as an open item rather than acted on. `GM1 21.B.85(a)`
-states that Volume II Part III, engine emissions, applies to "turbojet and
-turbofan engines". A turboshaft is neither, so CS-E 1020 may not reach this
-engine at all. That rests on a GM sentence describing Annex 16 rather than on
-Annex 16 itself, so no verdict has been changed. Fuel venting is unaffected:
-Part II reaches any turbine engine powered aircraft.
+One consequence is carried as an open item rather than acted on.
+`GM1 21.B.85(a)` states that Volume II Part III, engine emissions, applies to
+"turbojet and turbofan engines". A turboshaft is neither, so CS-E 1020 may not
+reach this engine at all. That rests on a GM sentence describing Annex 16 rather
+than on Annex 16 itself, so no verdict has been changed. Fuel venting is
+unaffected: Part II reaches any turbine engine powered aircraft.
 
 ### Closed: the corpus is complete
 
@@ -55,8 +56,8 @@ cost, and no reading of a requirement is worth that. Where an AMC names such a
 standard, the vault records that it names it and stops. An applicant who holds a
 licensed copy reads it there.
 
-**The FAA material could not be obtained.** AC 33.70-2, AC 33.70-3, AC 27-1B and
-AC 29-2C sit behind a subscription the applicant does not hold.
+**The FAA material is not held.** AC 33.70-2, AC 33.70-3, AC 27-1B and AC 29-2C
+could not be obtained for this repository.
 
 | Named and not held | Where it is named | Effect on the vault |
 |---|---|---|
@@ -81,8 +82,8 @@ one row per `[ext …]` citation; regenerate it rather than counting here.
 | Document | Notes that now read it |
 |---|---|
 | **CS-34** | `CS 34.1` and `CS 34.2` in `vault/external/`, and through them CS-E 1000, CS-E 1010, CS-E 1020, AMC E 1000, AMC E 1020 |
-| **Part 21** | CS-E 25, CS-E 40, CS-E 120, CS-E 160, CS-E 1020, AMC E 510, AMC E 515, AMC E 650 |
-| **CS-Definitions** | CS-E 130 (Fireproof, Fire-resistant), CS-E 780 (icing intensities), CS-E 15, AMC E 130 |
+| **Part 21** | CS-E 25, CS-E 40, CS-E 120, CS-E 160, CS-E 1020, AMC E 510, AMC E 515, AMC E 650, AMC E 1020 |
+| **CS-Definitions** | CS-E 130 (Fireproof, Fire-resistant), CS-E 120 (Fireproof), CS-E 780 (icing intensities), CS-E 15, AMC E 130 |
 | **CS-27 and CS-29** | AMC E 20 (point 45), AMC E 60 (point 1305), CS-E 780 (point 1093), and the two rotor drive notes `CS 27.927` and `CS 29.927`, which CS-E 20, CS-E 30, CS-E 40, CS-E 50 and CS-E 510 link |
 | **AMC-20** | `AMC 20-3B` in `vault/external/`, linked from CS-E 50, AMC E 50, AMC E 80, AMC E 170 and AMC General; AMC 20-42 inline in AMC E 50; AMC 20-1A and AMC 20-115D named in CS-E 50 |
 | **ED Decision 2025/005/R** | AMC E 1020, for the conflict between its TCDS note format and the repeal |
@@ -92,28 +93,30 @@ Three things the reading changed rather than confirmed:
 - **CS-E 780 no longer depends on the code choice.** CS-27 sends the applicant
   to appendix C of CS-29, so the turbine engine content of point 1093(b) is the
   same in both. The CS-27-against-CS-29 decision still blocks other paragraphs.
-- **CS-E 1020 may not reach this engine.** The Annex 16 part behind it is written
-  for turbojet and turbofan engines. Carried as an open item, not as a verdict.
-- **AMC E 1020(1) prescribes a TCDS note EASA has since disowned.** Recorded as
-  a conflict for the Agency, not resolved in the vault.
+- **CS-E 1020 may not reach this engine.** The Annex 16 part behind it is
+  written for turbojet and turbofan engines. This is carried as an open item,
+  not as a verdict.
+- **AMC E 1020(1) prescribes a TCDS note EASA has since disowned.** This is
+  recorded as a conflict for the Agency, not resolved in the vault.
 
 ### What the reading did not close
 
-- The revision letters. CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and AMC 20-115;
-  AMC-20 Amendment 23 carries AMC 20-1A, AMC 20-3B and AMC 20-115D. Recorded in
-  `AMC 20-3B`.
-- The superseded Part 21 text. Whether point 21.A.20(d)2 carries the same duty as
-  the former 21.A.21(c)(3) needs the edition in force before the renumbering,
-  which is not held. Recorded in CS-E 160.
-- Everything in *Still open* above. The industry and foreign standards named
-  inside the held documents are still named and still not contained.
+- **The revision letters.** CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and
+  AMC 20-115; AMC-20 Amendment 23 carries AMC 20-1A, AMC 20-3B and AMC 20-115D.
+  This is recorded in `AMC 20-3B`.
+- **The superseded Part 21 text.** Whether point 21.A.20(d)2 carries the same
+  duty as the former 21.A.21(c)(3) needs the edition in force before the
+  renumbering, which is not held. This is recorded in CS-E 160.
+- **Everything in the *Named and not held* table above.** The industry and
+  foreign standards named inside the held documents are still named and still
+  not contained.
 
 ## Kind 1 — documents CS-E cites
 
-CS-E does not stand alone. It defers to Part 21 for the certification process, to
-CS-27 and CS-29 for what the rotorcraft must do, to CS-Definitions for terms it
-uses without defining, to the AMC 20 series for electronic control systems, to
-ICAO Annex 16 for environmental protection, and to industry standards for how
+CS-E does not stand alone. It defers to Part 21 for the certification process,
+to CS-27 and CS-29 for what the rotorcraft must do, to CS-Definitions for terms
+it uses without defining, to the AMC 20 series for electronic control systems,
+to ICAO Annex 16 for environmental protection, and to industry standards for how
 each environmental test is run.
 
 Every entry below was re-checked against the seven documents in
@@ -131,10 +134,10 @@ of the document named.
 | **CS 27.1093(b) / CS 29.1093(b)** | CS-E 780(a)(2) | **Held** — CS-27 and CS-29 |
 | **AMC 20-1, AMC 20-3** | AMC E 50(2) and (5), AMC E 80 Table 2 item 18, AMC E 170, CS-E 50 banner | **Held** — AMC-20 Amendment 23. Table 2 item 18 named no alternative at all, so this was the hardest of them |
 | **AMC 20-42** | AMC to CS-E 50(l) | **Held** — AMC-20 Amendment 23. The whole CS-E 50(l) security method |
-| **AMC1 21.A.3B(b)** | AMC E 510(3)(d)(iii) | **Held** — Part 21 EAR carries `GM1 21.A.3B(b)` with a "DETERMINATION OF AN UNSAFE CONDITION" section |
+| **AMC1 21.A.3B(b)** | AMC E 510(3)(d)(iii) | **Held** — Part 21 EAR carries `AMC1 21.A.3B(b)` itself, which defines an "UNSAFE CONDITION", and `GM1 21.A.3B(b)` with a "DETERMINATION OF AN UNSAFE CONDITION" section |
 | **21.A.801(a), (b), 21.A.805** | CS-E 120(a) | **Held** — Part 21 EAR, with `GM1 21.A.805` on marking critical parts |
 | **point 21.A.3 of Part 21** | AMC E 515 | **Held** — Part 21 EAR, as 21.A.3A and 21.A.3B |
-| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | **Held, and it never carried requirements.** EASA: "These CSs contained neither certification specifications nor the applicable environmental protection requirements." Repealed 27 May 2025. The chain continues into Part 21, which is held; it ends at ICAO Annex 16, which is out of scope by decision |
+| **CS-34, CS 34.1, CS 34.2** | CS-E 1000, CS-E 1010, CS-E 1020 | **Held, and it never carried requirements.** EASA: "These CSs contained neither certification specifications nor the applicable environmental protection requirements." Repealed in May 2025. The chain continues into Part 21, which is held; it ends at ICAO Annex 16, which is out of scope by decision |
 | **EUROCAE ED-14 / RTCA DO-160** | AMC E 80, 15 of 19 items in Table 2 | **Still open.** Cited by AMC-20, CS-27, CS-29 and Part 21; contained by none |
 | **ISO 2685** | AMC E 130 | **Still open.** Cited by AMC-20; not contained |
 | **FAA AC 33.70-2** | AMC E 515 | **Still open** |
@@ -143,11 +146,12 @@ of the document named.
 
 | Reference | Now |
 |---|---|
-| **point 21.A.41** (TCDS content), **21.A.33** (inspection of type design hardware), **21.A.61**, **21.A.20(d)** | **Held** — Part 21 EAR |
+| **point 21.A.41** (TCDS content), **21.A.33** (inspection of type design hardware), **21.A.20(d)** | **Held** — Part 21 EAR |
+| **21.A.61** | **Not held, and not holdable.** The point no longer exists in Part 21, and the duty to provide instructions for continued airworthiness is now in 21.A.7. CS-E 25 records this in its amendment history |
 | **AMC 20-115** | **Held** — AMC-20 Amendment 23. The vault could not previously say what it governs |
 | **CS-27.1305 / CS-29.1305** (instrumentation, via AMC E 60(d)(3)) | **Held** — CS-27 and CS-29 |
-| **AMC 25.903(e)(2)** (relight demonstration objectives) | **Held** — cited in AMC-20; the CS-25 AMC itself is not held, but AMC E 910(1) offers it for objectives only |
-| **FAA AC 33.70-3; MIL-STD-810, MIL-STD-704, MIL-E-5007; SRA-AMS 180 and 251; "published FAA ACs" as an open class; the unnamed "aircraft certification specifications on oil systems"** | **Still open.** See *Still open* in the Status section for why none is chased |
+| **AMC 25.903(e)(2)** (relight demonstration objectives) | **Not held.** CS-25 is not in `source/external/`, and AMC-20 names CS 25.903 but not this AMC. AMC E 910(1) offers it for the objectives of the demonstration only |
+| **FAA AC 33.70-3; MIL-STD-810, MIL-STD-704, MIL-E-5007; SRA-AMS 180 and 251; "published FAA ACs" as an open class; the unnamed "aircraft certification specifications on oil systems"** | **Still open.** See *Closed: the corpus is complete* in the Status section for why none is chased |
 
 ### Cosmetic — a pointer only
 
@@ -178,9 +182,9 @@ boundary question only the Agency can close.
 
 ## Kind 3 — engine information not yet declared
 
-Not a missing document: a missing decision. `engine_profile.md` declares the
-ratings, the control system, refrigerant injection and time-limited dispatch, and
-holds exactly one open `[VERIFY]`. Everything below is undeclared.
+This kind is not a missing document but a missing decision. `engine_profile.md`
+declares the ratings, the control system, refrigerant injection and time-limited
+dispatch, and holds exactly one open `[VERIFY]`. Everything below is undeclared.
 
 ### The one that blocks most
 
@@ -195,23 +199,25 @@ composite fuel tanks (AMC E 670 contaminant).
 
 ### Blocking, and already flagged in the notes
 
-The declared over-limit ratings — whether a Maximum Engine Over-torque,
-Maximum Engine Over-speed or Maximum Exhaust Gas Over-temperature is sought
-(CS-E 820, CS-E 830, CS-E 870, and together they decide the AMC E 60(d)(5)
-usage-counting relief); the 30-Second OEI and maximum-rating operating
-temperature limits (CS-E 920); engine inlet throat area (CS-E 790, CS-E 800);
-Maximum Power-turbine Speed for Autorotation (CS-E 740); the declared minimum
-engine carcass and oil temperature for starting (CS-E 770); whether a rotor
-locking means is incorporated (CS-E 710); whether the starter is part of the
-type design (CS-E 590); which shaft elements rely on CS-E 850(a)(3);
-whether the CS-E 510 analysis relies on blade shedding for over-speed
-protection; the placement of the AMC E 740(c)(2)(i) 25 hours — the single item
-`engine_profile.md` does record.
+Each of the following items is undeclared and already flagged in its note: the
+declared over-limit ratings — whether a Maximum Engine Over-torque, Maximum
+Engine Over-speed or Maximum Exhaust Gas Over-temperature is sought (CS-E 820,
+CS-E 830, CS-E 870; together they decide the AMC E 60(d)(5) usage-counting
+relief); the 30-Second OEI and maximum-rating operating temperature limits
+(CS-E 920); the engine inlet throat area (CS-E 790, CS-E 800); the Maximum
+Power-turbine Speed for Autorotation (CS-E 740); the declared minimum engine
+carcass and oil temperature for starting (CS-E 770); whether a rotor locking
+means is incorporated (CS-E 710); whether the starter is part of the type design
+(CS-E 590); which shaft elements rely on CS-E 850(a)(3); whether the CS-E 510
+analysis relies on blade shedding for over-speed protection; and the placement
+of the AMC E 740(c)(2)(i) 25 hours, the single item that `engine_profile.md`
+does record.
 
-### Blocking, and NOT yet flagged
+### Blocking, and flagged
 
-These are the actionable ones. Each is a question a certification engineer will
-hit with nothing in the note to warn them.
+These are the actionable ones. Each blocks a compliance statement until the
+applicant declares it. Every row now carries a `[VERIFY]` in the note named, so
+a certification engineer meets the question where it applies.
 
 | Question | Where it bites |
 |---|---|
@@ -221,25 +227,26 @@ hit with nothing in the note to warn them.
 | **Whether a turbine starter with an external air or gas supply is fitted** | Decides the whole AMC E 80(4) containment category. |
 | **Over-speed protection technology** | CS-E 50(e)(1) applies to electronic protection, (e)(2) to other, and AMC E 50(1) names a third, blade-shedding case outside the control system. |
 | **Relative power levels of the declared ratings** | Which rating produces the maximum fuel demand, for the CS-E 560(a)(3) pump margin. |
-| **Whether the engine incorporates a free power turbine** | Five sub-points bind only on that architecture: CS-E 740(f)(3), (g)(3) and (g)(4), CS-E 750(d) and CS-E 820(a). `engine_profile.md` declares the application, the ratings and the systems, not the architecture, and it is now recorded there as undeclared. Those five notes carry a `[VERIFY]`; everywhere else the vault reasons about a free power turbine conditionally. |
+| **Whether the engine incorporates a free power turbine** | Five sub-points bind only on that architecture: CS-E 740(f)(3), (g)(3) and (g)(4), CS-E 750(d) and CS-E 820(a). `engine_profile.md` declares the application, the ratings and the systems, not the architecture, and it is now recorded there as undeclared. The three notes that own those sub-points, `CS-E 740`, `CS-E 750` and `CS-E 820`, carry a `[VERIFY]`; everywhere else the vault reasons about a free power turbine conditionally. |
 
 ### Limiting, not flagged
 
-Maximum rotational speed per rating per rotor module; the most adverse inlet
-airflow distortion pattern; maximum declared jet pipe temperature; the declared
-vibration environment; the aircraft-supplied power range for the EEC; tank test
-parameters for CS-E 130; use of titanium, magnesium and abradable linings;
-whether a flammable fluid tank or firewall is part of the engine; whether the
-engine supplies bleed air to the cabin; the maximum allowable bleed and power
-extraction; the declared drainage period after a false start; whether a 10-minute
-Take-off Power rating is sought; engine architecture for the AMC E 1050 feature
-map; and whether any boost fluid is used.
+These items limit a detail of compliance, and no note flags them: the maximum
+rotational speed per rating per rotor module; the most adverse inlet airflow
+distortion pattern; the maximum declared jet pipe temperature; the declared
+vibration environment; the aircraft-supplied power range for the EEC; the tank
+test parameters for CS-E 130; the use of titanium, magnesium and abradable
+linings; whether a flammable fluid tank or firewall is part of the engine;
+whether the engine supplies bleed air to the cabin; the maximum allowable bleed
+and power extraction; the declared drainage period after a False Start; whether
+a 10-minute Take-off Power rating is sought; the engine architecture for the
+AMC E 1050 feature map; and whether any boost fluid is used.
 
-## Two structural gaps worth naming
+## Three structural gaps worth naming
 
-**CS-E 660 and CS-E 700 have no accepted means at all.** AMC E 660 and AMC E 700
-are aeroplane-only by their own banners and are excluded. Both specifications
-still bind. There is no AMC route for either.
+**CS-E 660 and CS-E 700 have no accepted means at all.** AMC E 660 and
+AMC E 700 are aeroplane-only by their own banners and are excluded. Both
+specifications still bind. There is no AMC route for either.
 
 **CS-E 780 has no accepted means for a rotorcraft.** AMC E 780 says so itself:
 "Specific provisions for rotorcraft Engines are currently not included in this
@@ -248,30 +255,25 @@ required for rotorcraft Engines should be agreed by the Agency."
 
 **Three references are visible only inside embedded images.** MIL-STD-810,
 MIL-STD-704 and ISO 12103-1 live in AMC E 80's four environmental tables and
-AMC E 670's contaminant table, which accuracy rule 6 puts in the crop rather than
-the text. A reader can see them; a search of the vault cannot find them.
-
----
-
-The per-scope tables follow, as each verification pass wrote them.
-
-
----
+AMC E 670's contaminant table, which accuracy rule 6 puts in the crop rather
+than the text. A reader can see them; a search of the vault cannot find them.
 
 ---
 
 # Per-scope appendices
 
 The seven sections below are the per-scope detail behind the summary above, one
-per verification pass. **They were written before any external document was
-held**, and their "External documents" tables therefore describe a position that
-the Status section supersedes: almost everything they list as missing is now in
-`source/external/`.
+per verification pass, as each pass wrote them. **They were written before any
+external document was held**, and their "External documents" tables therefore
+describe a position that the Status section supersedes: almost everything they
+list as missing is now in `source/external/`. Their line numbers, `[VERIFY]`
+states and "Flagged?" columns are likewise a snapshot of the notes at the time
+of that pass.
 
-They are kept unedited because they carry what the summary does not — which note,
-which line, and which sentence each reference sits in. That mapping is what makes
-the answers findable once the Source of truth rule is amended and the imported
-obligations start reaching the notes. Read them for *where*, not for *whether*.
+They are kept unedited because they carry what the summary does not — which
+note, which line and which sentence each reference sits in. That mapping made
+the answers findable when the imported obligations reached the notes. Read the
+appendices for *where*, not for *whether*.
 
 # Scope A1
 
