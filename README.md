@@ -57,7 +57,7 @@ vault/external/    notes on paragraphs of other documents, where the material
                    is too large to import into a CS-E note
 deck/              compliance matrix, derived from the vault
 review/            verification findings and the dead-end inventory
-source/            the five EASA CS-E PDFs, read-only, SHA-256 pinned
+source/            the four EASA CS-E PDFs, read-only, SHA-256 pinned
 source/external/   documents CS-E cites and does not contain — CS-27, CS-29,
                    CS-Definitions, AMC-20, Part 21, CS-34. Not requirement
                    content
@@ -92,7 +92,7 @@ and `build_index.py` consumes it.
 ### Checks
 
 ```bash
-.venv/bin/python scripts/verify_sources.py    # the five PDFs are intact and unmodified
+.venv/bin/python scripts/verify_sources.py    # the four PDFs are intact and unmodified
 .venv/bin/python scripts/external_paragraphs.py  # cited external points -> work/external/
 .venv/bin/python scripts/audit_coverage.py    # every body line reached its paragraph
 .venv/bin/python scripts/lint_vault.py        # notes agree with the index and the rules
@@ -118,7 +118,7 @@ regulation, and is worse than a missing entry.
 
 ## Sources
 
-Five EASA documents, all free, all committed, all checksum-pinned — see
+Four EASA documents, all free, all committed, all checksum-pinned — see
 `source/SOURCES.md`. Only **CS-E Amendment 8** supplies requirement content. The
 Change Information redlines and Amendment 7 are supporting: they say what changed,
 and they are the guard against writing from stale recollection of an earlier

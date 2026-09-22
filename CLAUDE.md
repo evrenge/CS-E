@@ -500,8 +500,10 @@ rather than the text.
 
 `build_matrix.py` reads the `## Requirement` tables out of the vault and writes one
 row per obligation to `deck/compliance_matrix.xlsx`, with sheets for the compliance
-items, the open `[VERIFY]` items, the pruned sub-points and the excluded
-paragraphs. The four right-hand columns are the applicant's to fill; regenerating
+items, the open `[VERIFY]` items, the imported obligations, the pruned sub-points
+and the excluded paragraphs. The open items include the external notes', marked
+`EXT`: they are the applicant's in the same way, and no other sheet reads those
+notes. The four right-hand columns are the applicant's to fill; regenerating
 overwrites them, so a working copy of the matrix belongs outside this repository.
 
 ### The scripts that are not pipeline steps
@@ -517,7 +519,7 @@ fails if they are never run again.
 - `prune_candidates.py` — proposes sub-points that look like turboshaft dead ends.
   It proposes; the writer decides, and the decision is recorded in the note's
   `## Not applicable` section.
-- `fetch_sources.py` — downloads the five source PDFs. It cannot run in a sandbox
+- `fetch_sources.py` — downloads the four source PDFs. It cannot run in a sandbox
   that blocks `www.easa.europa.eu`, and it does not need to: all five are
   committed.
 - `slide_plan.py` — the topic grouping and reading order, kept because
@@ -526,7 +528,7 @@ fails if they are never run again.
 - `extract_figures.py` — crops a figure or table to `vault/figures/`. Run it when
   a note needs an image it does not yet have; see **Figures**.
 
-## Using the other four source documents
+## Using the other three source documents
 
 - `CS-E_Amendment_8.pdf` — the only source of requirement content, anywhere.
 - Change Information PDFs — the `changed_in` tag and nothing else.
@@ -538,7 +540,6 @@ fails if they are never run again.
   changed note show before and after, including for the Amendment 7 changes,
   whose "before" exists in no consolidated text we hold. Use it only in a note's
   `Notes` section; it is not requirement content.
-- `EN_to_ED_Decision_2025-003-R.pdf` — background for the writer. Never quoted.
 
 ## Redline marking scheme
 
@@ -590,7 +591,7 @@ so and wait — do not push first and explain afterwards.
 
 `source/` holds two tiers, and they are not interchangeable.
 
-**`source/` itself** — the five CS-E documents. `CS-E_Amendment_8.pdf` is the only
+**`source/` itself** — the four CS-E documents. `CS-E_Amendment_8.pdf` is the only
 authority for requirement content, as stated at the top of this file, and that
 does not change because other documents are now present.
 

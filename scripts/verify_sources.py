@@ -37,7 +37,6 @@ EXPECTED: dict[str, tuple[str, int]] = {
     "CS-E_Amendment_7.pdf": ("CS-E Amendment 7", 228),
     "Change_Information_CS-E_Amdt_8.pdf": ("Change Information CS-E Amendment 8", 47),
     "Change_Information_CS-E_Amdt_7.pdf": ("Change information - CS-E Amendment 7", 30),
-    "EN_to_ED_Decision_2025-003-R.pdf": ("Explanatory Note to ED Decision 2025/003/R", 11),
 }
 
 # Documents CS-E cites and does not contain. A second tier on purpose: they are

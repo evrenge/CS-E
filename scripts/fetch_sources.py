@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download the five EASA CS-E source PDFs into source/.
+"""Download the four EASA CS-E source PDFs into source/.
 
 Standard library only. EASA rotates the numeric IDs behind
 /en/downloads/<id>/en whenever a document is republished, so every target is
@@ -65,12 +65,6 @@ TARGETS: list[Target] = [
         landing=CS_E_7,
         anchor_pattern=r"change\s*information",
         fallbacks=[f"{BASE}/sites/default/files/dfu/change_information_-_cs-e_amendment_7.pdf"],
-    ),
-    Target(
-        filename="EN_to_ED_Decision_2025-003-R.pdf",
-        landing=CS_E_8,
-        anchor_pattern=r"explanatory\s*note",
-        direct=f"{BASE}/en/downloads/141876/en",
     ),
 ]
 

@@ -1,6 +1,6 @@
 # Source documents
 
-Five EASA documents, all free downloads from easa.europa.eu (no paywall, no login).
+Four EASA documents, all free downloads from easa.europa.eu (no paywall, no login).
 All are committed to this repository and verified — see `CHECKSUMS.sha256`.
 
 | File | Pages | Size | Document | PDF title / subject |
@@ -9,9 +9,8 @@ All are committed to this repository and verified — see `CHECKSUMS.sha256`.
 | `CS-E_Amendment_7.pdf` | 228 | 3.05 MB | CS and AMC for Engines, Amendment 7 — Annex to ED Decision 2023/020/R, 15 Dec 2023 | "CS-E Amendment 7" / "Regular update of CS-E" |
 | `Change_Information_CS-E_Amdt_8.pdf` | 47 | 3.48 MB | Change Information, Amendment 8 (vs. Amdt 7) | "Change Information CS-E Amendment 8" |
 | `Change_Information_CS-E_Amdt_7.pdf` | 30 | 0.43 MB | Change Information, Amendment 7 (vs. Amdt 6) | "Change information - CS-E Amendment 7" |
-| `EN_to_ED_Decision_2025-003-R.pdf` | 11 | 0.36 MB | Explanatory Note to ED Decision 2025/003/R | "Explanatory Note to ED Decision 2025/003/R" |
 
-All five carry `/Author = EASA`. Metadata was checked against the first page of
+All four carry `/Author = EASA`. Metadata was checked against the first page of
 each file; nothing is a mirror or a third-party reprint.
 
 ## Role of each file
@@ -25,8 +24,6 @@ each file; nothing is a mirror or a third-party reprint.
   added or deleted. Authority for the "changed at Amdt 8" tag.
 - **Change Information, Amdt 7** — same, for Amendment 7 against Amendment 6.
   Authority for the "changed at Amdt 7" tag.
-- **Explanatory Note to ED Decision 2025/003/R** — rationale, scope and
-  comment-response summary for Amendment 8. Never a source of normative text.
 
 ## Landing pages
 
@@ -34,7 +31,6 @@ each file; nothing is a mirror or a third-party reprint.
 |---|---|
 | `CS-E_Amendment_8.pdf`, `Change_Information_CS-E_Amdt_8.pdf` | https://www.easa.europa.eu/en/document-library/certification-specifications/cs-e-amendment-8 |
 | `CS-E_Amendment_7.pdf`, `Change_Information_CS-E_Amdt_7.pdf` | https://www.easa.europa.eu/en/document-library/certification-specifications/cs-e-amendment-7 |
-| `EN_to_ED_Decision_2025-003-R.pdf` | https://www.easa.europa.eu/en/downloads/141876/en |
 
 Related, not stored here:
 

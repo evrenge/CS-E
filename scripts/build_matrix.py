@@ -265,6 +265,14 @@ def main() -> int:
         for ref, reason in not_applicable_rows(sec.get("Not applicable", "")):
             nas.append([subpart, name, ref, reason])
 
+    # The external notes carry open items too, and they are the applicant's in
+    # exactly the same way: an emissions note wording to agree, an airframe code
+    # to fix. They are not CS-E paragraphs, so nothing else on this sheet reads
+    # them, and without this they reach no deliverable at all.
+    for note in sorted((VAULT / "external").glob("*.md")):
+        for item in verify_items(note.read_text(encoding="utf-8")):
+            opens.append(["EXT", note.stem, item])
+
     wb = Workbook()
 
     sheet(wb, "Requirements",
