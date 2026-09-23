@@ -228,36 +228,18 @@ rotorcraft with engines of this type, each engine carries the same control
 system, so an interaction exploiting a shared vulnerability could reach all of
 them. The assessment should cover that case [AMC to CS-E 50(l)].
 
-AMC 20-42 is now held, and it names the process. The assessment it asks for is
-a product information security risk assessment, and its seven steps are:
-determine the security environment, identify the assets, identify the attack
-paths, assess the safety consequences of the threat to those assets, evaluate
-the level of threat that would have an impact on safety against the existing
-protection means, determine whether the resulting risks are acceptable, and
-iterate until every residual risk is acceptable [ext AMC 20-42 5(a)].
+AMC 20-42 is now held, and it names the process: a product information security
+risk assessment, run in seven steps from determining the security environment to
+iterating until every residual risk is acceptable [ext AMC 20-42 5(a)].
+[[AMC 20-42]] sets out the steps, the acceptance criterion, the verification of
+the mitigations and the instructions for continued airworthiness in full.
 
-The acceptance criterion is stated in terms of exploitability. After mitigation,
-either the systems have no identifiable vulnerabilities, or the vulnerabilities
-"cannot be exploited to create a hazard or generate a failure that would have an
-effect that is deemed to be unacceptable against the certification
-specification" [ext AMC 20-42 4(b)].
-
-Three duties follow the assessment. Where mitigation is needed, its
-effectiveness is verified by analysis, security-oriented robustness testing,
-inspections and reviews, and where necessary by security testing from the
-perspective of a potential adversary [ext AMC 20-42 8]. The security assets and
-protection mechanisms are identified for the instructions for continued
-airworthiness, with procedures to maintain security effectiveness in service
-[ext AMC 20-42 9]. And a reported occurrence is considered for the possibility
-that it originated from an intentional unauthorised electronic interaction; if
-one has generated an unsafe condition, the occurrence, the investigation and the
-recovery actions are reported to the Agency under point 21.A.3A
-[ext AMC 20-42 9]. That reporting route is the one recorded in
-[[AMC E 515]].
-
-The accepted industry documents are EUROCAE ED-202A with RTCA DO-326A, ED-203A
-with DO-356, and ED-204 with DO-355 [ext AMC 20-42 1(b)]. None is held, so the
-method inside the process remains a dead end.
+Two of its consequences reach this note. A reported occurrence that has
+generated an unsafe condition through an intentional unauthorised electronic
+interaction is reported to the Agency under point 21.A.3A [ext AMC 20-42 9],
+which is the route recorded in [[AMC E 515]]. And the accepted industry
+documents are not held [ext AMC 20-42 1(b)], so the method inside the process
+remains a dead end.
 
 ## Not applicable
 
