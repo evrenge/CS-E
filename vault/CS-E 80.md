@@ -99,6 +99,7 @@ CS-E 80(b) or CS-E 80(c) governs, and it is not recorded in
 
 Accepted means: [[AMC E 80]]
 Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 170]] · [[CS-E 510]] · [[CS-E 15]] · [[CS-E 90]] · [[CS-E 570]]
+External: [[AMC 20-1A]]
 
 ## Amendment history
 

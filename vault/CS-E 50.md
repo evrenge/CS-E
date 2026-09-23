@@ -177,7 +177,7 @@ CS-E Amendment 8 cites AMC 20-1, AMC 20-3 and AMC 20-115 without them.
 
 Accepted means: [[AMC E 50]] · [[AMC E 50|AMC E 50(e)]] · [[AMC E 50|AMC E 50(j)]] · [[AMC E 50|AMC to CS-E 50(l)]]
 Related: [[CS-E 20]] · [[CS-E 25]] · [[CS-E 30]] · [[CS-E 40]] · [[CS-E 110]] · [[CS-E 510]] · [[AMC E 170]]
-External: [[AMC 20-3B]] · [[CS 29.927]] · [[CS 27.927]]
+External: [[AMC 20-1A]] · [[AMC 20-3B]] · [[AMC 20-42]] · [[AMC 20-115D]] · [[CS 29.917]] · [[CS 29.923]] · [[CS 29.927]] · [[CS 27.917]] · [[CS 27.923]] · [[CS 27.927]]
 
 ## Amendment history
 

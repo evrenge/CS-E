@@ -60,7 +60,7 @@ substance, and the engine data each one needs differs with them. See
 
 Accepted means: [[AMC E 30]]
 Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 510]]
-External: [[CS 29.927]] · [[CS 27.927]]
+External: [[AMC 20-1A]] · [[AMC 20-42]] · [[CS 29.45]] · [[CS 29.917]] · [[CS 29.923]] · [[CS 29.927]] · [[CS 29.1093]] · [[CS 29.1305]] · [[CS 27.45]] · [[CS 27.917]] · [[CS 27.923]] · [[CS 27.927]] · [[CS 27.1093]] · [[CS 27.1305]]
 
 ## Amendment history
 

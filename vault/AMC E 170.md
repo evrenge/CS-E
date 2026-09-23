@@ -132,7 +132,7 @@ electronic control systems, which is the installer's task [ext AMC 20-1A 3].
 
 Specification: [[CS-E 170]]
 Related: [[CS-E 50]] · [[CS-E 80]] · [[CS-E 60]] · [[CS-E 135]] · [[CS-E 510]] · [[CS-E 740]] · [[CS-E 20]] · [[AMC E 80]] · [[AMC E 135]] · [[AMC E 50]]
-External: [[AMC 20-3B]]
+External: [[AMC 20-1A]] · [[AMC 20-3B]]
 
 ## Amendment history
 

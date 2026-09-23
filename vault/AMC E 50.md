@@ -267,7 +267,7 @@ method inside the process remains a dead end.
 
 Specification: [[CS-E 50]]
 Related: [[CS-E 25]] · [[CS-E 40]] · [[CS-E 80]] · [[CS-E 170]] · [[CS-E 510]] · [[CS-E 560]] · [[CS-E 830]] · [[AMC E 20]] · [[AMC E 25]] · [[AMC E 40]] · [[AMC E 60]] · [[AMC E 170]]
-External: [[AMC 20-3B]]
+External: [[AMC 20-1A]] · [[AMC 20-3B]] · [[AMC 20-42]] · [[AMC 20-115D]]
 
 ## Amendment history
 

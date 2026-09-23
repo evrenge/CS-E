@@ -145,6 +145,7 @@ available and whether the recorder needs discrimination logic.]
 
 Specification: [[CS-E 60]]
 Related: [[CS-E 40]] · [[CS-E 50]] · [[CS-E 510]] · [[CS-E 570]] · [[CS-E 820]] · [[CS-E 830]] · [[CS-E 870]] · [[AMC E 40]]
+External: [[CS 29.1305]] · [[CS 27.1305]]
 
 ## Amendment history
 

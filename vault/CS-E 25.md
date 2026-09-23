@@ -101,6 +101,7 @@ comply with them [ext 21.A.7(b)]. CS-E 25 says what the manuals contain; point
 
 Accepted means: [[AMC E 25]]
 Related: [[CS-E 20]] · [[CS-E 50]] · [[CS-E 515]] · [[AMC E 40|AMC E 40(b)(3)]]
+External: [[AMC 20-42]]
 
 ## Amendment history
 

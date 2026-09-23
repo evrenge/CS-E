@@ -340,6 +340,7 @@ accomplishment instructions available to all known operators or owners
 
 Specification: [[CS-E 515]]
 Related: [[CS-E 510]] · [[CS-E 25]] · [[CS-E 40]] · [[CS-E 60]] · [[CS-E 70]] · [[CS-E 100]] · [[CS-E 110]] · [[CS-E 520]] · [[CS-E 810]] · [[CS-E 840]] · [[CS-E 850]] · [[AMC E 70]] · [[AMC E 80]] · [[AMC E 510]]
+External: [[AMC 20-42]]
 
 ## Amendment history
 

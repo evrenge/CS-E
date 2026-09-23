@@ -85,6 +85,7 @@ this paragraph to [[CS-E 510]] and to [[CS-E 50|CS-E 50(d)]].
 
 Accepted means: [[AMC E 60]]
 Related: [[CS-E 40]] · [[CS-E 50]] · [[CS-E 30]] · [[CS-E 510]] · [[CS-E 20]]
+External: [[CS 29.45]] · [[CS 29.1305]] · [[CS 27.45]] · [[CS 27.1305]]
 
 ## Amendment history
 

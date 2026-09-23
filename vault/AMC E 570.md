@@ -79,3 +79,4 @@ hardware.
 
 Specification: [[CS-E 570]]
 Related: [[CS-E 130]] · [[CS-E 560]] · [[CS-E 525]] · [[CS-E 510]] · [[CS-E 25]] · [[AMC E 130]] · [[AMC E 510]] · [[AMC E 560]]
+External: [[CS 29.1305]] · [[CS 27.1305]]

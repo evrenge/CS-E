@@ -154,6 +154,7 @@ supplied under (f)(1) is used inside that frame.
 
 Specification: [[CS-E 20]]
 Related: [[CS-E 30]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 80]] · [[CS-E 510]] · [[CS-E 25]] · [[AMC E 50]] · [[AMC E 40]]
+External: [[CS 29.45]] · [[CS 27.45]]
 
 ## Amendment history
 

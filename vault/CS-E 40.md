@@ -99,7 +99,7 @@ as `engine_profile.md` records. It is assessed under [[CS-E 50]] and the
 
 Accepted means: [[AMC E 40]] · [[AMC E 40|AMC E 40(b)(3)]] · [[AMC E 40|AMC E 40(d)]]
 Related: [[CS-E 25]] · [[CS-E 50]] · [[CS-E 60]] · [[CS-E 740]] · [[AMC E 20|AMC E 20(f)]]
-External: [[CS 29.927]] · [[CS 27.927]] · [[CS 34.2]]
+External: [[CS 29.45]] · [[CS 29.917]] · [[CS 29.923]] · [[CS 29.927]] · [[CS 29.1093]] · [[CS 29.1305]] · [[CS 27.45]] · [[CS 27.923]] · [[CS 27.927]] · [[CS 27.1093]] · [[CS 27.1305]] · [[CS 34.2]]
 
 ## Amendment history
 

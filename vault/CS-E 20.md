@@ -54,13 +54,22 @@ that means the Primary Mode, every Alternate Mode and any Back-up System, each
 with its limitations [CS-E 20(d)]. The propeller clause in (d) does not arise.
 
 The installer also needs engine data for the rotor drive system tests of the
-rotorcraft code. Under CS-29 that includes the rotational speed expected after
-an engine control device failure. The over-speed test runs at not less than the
-higher of that speed or 105% of the maximum rotational speed expected in service
-[ext CS 29.927(d)]. CS-27 asks for no such figure, because it prescribes no
-over-speed test for the rotor drive system [ext CS 27.927]. The data item is
-therefore a CS-29 item. An engine offered for installation under either code
-carries it because CS-29 asks for it. See [[CS 29.927]] and [[CS 27.927]].
+rotorcraft code. Two such items are CS-29 items, and CS-27 asks for neither.
+
+The first is the rotational speed expected after an engine control device
+failure. The over-speed test runs at not less than the higher of that speed or
+105% of the maximum rotational speed expected in service [ext CS 29.927(d)].
+CS-27 prescribes no over-speed test for the rotor drive system
+[ext CS 27.927].
+
+The second is "the maximum power-on overspeed expected in service", at which
+the endurance test runs for one hour at maximum continuous torque
+[ext CS 29.923(h)]. The CS-27 endurance test has no overspeed run
+[ext CS 27.923].
+
+An engine offered for installation under either code carries both items,
+because CS-29 asks for them. See [[CS 29.927]], [[CS 29.923]], [[CS 27.927]]
+and [[CS 27.923]].
 
 Aircraft-supplied resources on which the EECS depends are specified in the
 engine instructions for installation, the manuals of sub-point (d)
@@ -76,7 +85,7 @@ Inoperative data as one such resource [AMC E 20(6)].
 
 Accepted means: [[AMC E 20]] · [[AMC E 20|AMC E 20(f)]]
 Related: [[CS-E 25]] · [[CS-E 30]] · [[CS-E 50]] · [[CS-E 40]]
-External: [[CS 29.927]] · [[CS 27.927]]
+External: [[AMC 20-1A]] · [[AMC 20-42]] · [[CS 29.45]] · [[CS 29.917]] · [[CS 29.923]] · [[CS 29.927]] · [[CS 29.1093]] · [[CS 29.1305]] · [[CS 27.45]] · [[CS 27.917]] · [[CS 27.923]] · [[CS 27.927]] · [[CS 27.1093]] · [[CS 27.1305]]
 
 ## Amendment history
 
