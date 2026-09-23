@@ -1,7 +1,7 @@
-# Konuşma metni — CS-E'nin beş temel paragrafı
+# Konuşma metni — CS-E'nin beş temel paragrafı ve AMC'leri
 
 Kısa bir ekip tanıtımı için konuşmacı notları. Vault notlarını Obsidian'da
-gösterin; aşağıdaki metni okuyun veya uyarlayın. Toplam süre yaklaşık 15-20
+gösterin; aşağıdaki metni okuyun veya uyarlayın. Toplam süre yaklaşık 25-30
 dakikadır.
 
 Tüm içerik vault notlarından alınmıştır. Paragraf referansları korunmuştur;
@@ -16,13 +16,13 @@ mantığına göre kurulmuştur. Her paragraf bir öncekinin üzerine oturur.
 
 | # | Obsidian'da açılacak | Konu | Süre |
 |---|---|---|---|
-| 0 | bu metin, aşağıdaki diyagram | Neden bu beş paragraf | 2 dk |
-| 1 | `CS-E 20` | Motor nedir, kuruluma ne teslim ederiz | 3 dk |
-| 2 | `CS-E 30` | Hava aracı hakkında neyi varsayarız | 2 dk |
-| 3 | `CS-E 40` | Motor hangi gücü taahhüt eder | 4 dk |
-| 4 | `CS-E 25` | Motor hizmette nasıl uçuşa elverişli kalır | 3 dk |
-| 5 | `CS-E 140` | Motor test için nasıl konfigüre edilir | 3 dk |
-| 6 | bu metin, aşağıdaki diyagram | Kapanış | 2 dk |
+| 0 | bu metin, aşağıdaki diyagramlar | Neden bu beş paragraf | 2 dk |
+| 1 | `CS-E 20`, ardından `AMC E 20` | Motor nedir, kuruluma ne teslim ederiz | 5 dk |
+| 2 | `CS-E 30`, ardından `AMC E 30` | Hava aracı hakkında neyi varsayarız | 3 dk |
+| 3 | `CS-E 40`, ardından `AMC E 40` | Motor hangi gücü taahhüt eder | 7 dk |
+| 4 | `CS-E 25`, ardından `AMC E 25` | Motor hizmette nasıl uçuşa elverişli kalır | 5 dk |
+| 5 | `CS-E 140`, ardından `AMC E 140` | Motor test için nasıl konfigüre edilir | 4 dk |
+| 6 | bu metin, aşağıdaki diyagramlar | Kapanış | 2 dk |
 
 ## Paragraflar arası ilişki
 
@@ -52,15 +52,46 @@ flowchart LR
 | CS-E 25 | CS-E 40 (30-Second ve 2-Minute OEI), CS-E 515 (kritik parçalar) | Uçuşa elverişlilik sınırlamaları bölümü |
 | CS-E 140 | CS-E 20(d), CS-E 740(c)(3)(iii), CS-E 730 | Tüm sertifikasyon testleri |
 
+Her bölümde önce CS-E notu, ardından ilgili AMC notu açılır.
+
+| Şartname | AMC notu | AMC'nin kattığı |
+|---|---|---|
+| CS-E 20 | `AMC E 20` (AMC E 20 ve AMC E 20(f)'yi taşır) | Montaj el kitabının EECS içeriği; güç teyidi verisinin içeriği |
+| CS-E 30 | `AMC E 30` | Tablo 1: asgari varsayımlar listesi |
+| CS-E 40 | `AMC E 40` (AMC E 40, AMC E 40(b)(3) ve AMC E 40(d)'yi taşır) | Bir rating'in nasıl gerekçelendirildiği; OEI rating'lerinin amacı; beyan edilecek işletme sınırlamaları |
+| CS-E 25 | `AMC E 25` | OEI kullanımından sonraki uçuş sonrası işlemler; bunların doğrulanması; hizmette değerlendirme programı |
+| CS-E 140 | `AMC E 140` | Tahrikler yüksüzken eklenen gücün kabul kriteri |
+
+AMC notları birbirine ve OEI rating'lerinin seçtiği teste de bağlanır:
+
+```mermaid
+flowchart LR
+    A40["AMC E 40(b)(3)<br/>OEI rating'leri"]
+    A20["AMC E 20(f)<br/>Güç teyidi verisi"]
+    A25["AMC E 25(4)<br/>Uçuş sonrası işlemler, program"]
+    A140["AMC E 140<br/>Çıkışa eklenen güç"]
+    T740["CS-E 740(c)(3)(iii)<br/>2 saatlik ek test"]
+
+    A40 -- "(6) performans kaybı<br/>veriye yansır" --> A20
+    A40 -- "(4) en kötü durum: üç kullanım<br/>(4)(d)(ii) testiyle örtüşür" --> A25
+    A25 -- "(4)(d)(i) karşılaştırmaları<br/>bu teste dayanır" --> T740
+    A140 -- "testin ne kadar ağır<br/>olacağını belirler" --> T740
+```
+
 ---
 
 ## 0. Açılış — neden bu beş paragraf
 
-> Bugün CS-E Amendment 8'in beş paragrafını tanıtacağım. CS-E, EASA'nın motorlar
-> için sertifikasyon şartnamesidir. Bir **CS-E** paragrafı bir gereklilik
-> belirtir. Bir **AMC** paragrafı ise bir Acceptable Means of Compliance, yani
-> Kabul Edilebilir Uyum Yöntemi belirtir: EASA'nın kabul ettiği bir uyum
-> gösterme yolu.
+> Bugün CS-E Amendment 8'in beş paragrafını ve her birine ait AMC'yi
+> tanıtacağım. CS-E, EASA'nın motorlar için sertifikasyon şartnamesidir. Bir
+> **CS-E** paragrafı bir gereklilik belirtir. Bir **AMC** paragrafı ise bir
+> Acceptable Means of Compliance, yani Kabul Edilebilir Uyum Yöntemi belirtir:
+> EASA'nın kabul ettiği bir uyum gösterme yolu.
+>
+> Her paragraf için önce CS-E notunu, ardından AMC notunu göstereceğim. Bir AMC
+> notunda satırların çoğu **Accepted method** olarak etiketlidir. Bu, kabul
+> edilmiş bir uyum yoludur. Başka bir yol önerebiliriz, ancak onu
+> gerekçelendirmek zorundayız.
 >
 > Bu beş paragrafın hepsi Subpart A'dadır, yani genel bölümdedir. Herhangi bir
 > tasarım veya test paragrafından önce uygulanırlar. Beş soruyu yanıtlarlar:
@@ -102,6 +133,54 @@ flowchart LR
 **Göster:** **(f)** satırı, strength "Required if claimed" (talep edilirse
 zorunlu).
 
+### AMC E 20 — nasıl karşılanır
+
+**Göster:** `AMC E 20` notu. İki AMC paragrafını taşır: genel AMC E 20 ve
+AMC E 20(f).
+
+> Genel AMC, tip tasarım listesine neyin gireceğini söyler: motorun çalışması ve
+> kontrol edilmesi için gerekli kalemler [AMC E 20(1)]. Yalnızca mekanik olmayan
+> girdi sağlayan kalemler (gerilim, akım veya yakıt gibi), bu girdiler açıkça
+> tanımlanabiliyorsa listelenmek zorunda değildir [AMC E 20(2)].
+>
+> FADEC'imiz için montaj el kitabı her işletme modunu ve bu modun hava aracıyla
+> arayüzünü tanımlamalıdır. Dispatch edilebilir olsun veya olmasın, Back-up ve
+> Alternate Mode'lar da buna dahildir [AMC E 20(7)].
+>
+> Madde (6), hava aracının sağladığı bir kaynağa örnek verir: rotorcraft OEI
+> verisinin kaydı. EECS'imiz böyle bir kaynağa bağımlıysa, onu tanımlamak ve
+> yeterliliğini kanıtlamak bizim sorumluluğumuzdadır [AMC E 20(6)].
+
+**Göster:** Application to this engine bölümündeki `[VERIFY]`.
+
+> EECS'imizin OEI kullanım kaydı için hava aracına bağımlı olup olmadığı henüz
+> teyit edilmedi. Bu açık bir maddedir.
+
+**Aşağı kaydır:** AMC E 20(f).
+
+> AMC E 20(f) daha ağır olan kısımdır. Güç teyidi verisinin ne içermesi
+> gerektiğini söyler. Beş madde:
+>
+> - Kurulumu yapanın rotorcraft kodunun güç kullanılabilirliği kurallarını
+>   karşılamasını sağlayan veri; en yüksek güç rating'ine kadar kurulum
+>   kayıplarıyla birlikte [AMC E 20(f)(1)].
+> - Bir OEI rating'ini kullanılamaz hale getirebilecek gizli (dormant) arızalar;
+>   CS-E 510 emniyet analizinden alınır [AMC E 20(f)(2)].
+> - Normal güç kontrolünün bulamadığı gizli durumları tespit eden bakım
+>   prosedürleri. AMC iki örnek verir: yakıt kontrolünün azami debi kapasitesi
+>   ve türbin bölümündeki hasar (distress) [AMC E 20(f)(3)].
+> - Daha düşük bir güç kontrol seviyesinden en yüksek OEI rating gücüne
+>   ekstrapolasyon yöntemi [AMC E 20(f)(4)].
+> - Limiter ayarlarının, motorun 30-Second veya 2-Minute OEI gücüne ulaşmasını
+>   engellemediğini gösteren bilgi. Devir, gaz sıcaklığı ve yakıt debisi
+>   limiterleri sayılır. Soğuk bekletilmiş (cold-soaked) motorla kalkışa özel
+>   dikkat gösterilir [AMC E 20(f)(5)].
+>
+> Hava aracı koduyla ilgili bir not. CS-27 ve CS-29 burada aynı şeyi ister:
+> pilotun kalkıştan önce her motorun gereken gücü üretebildiğini belirlemesini
+> sağlayan bir araç [ext CS 27.45(f)], [ext CS 29.45(f)]. Bu yüzden açık olan
+> CS-27 / CS-29 sorusu bu veriyi değiştirmez.
+
 ---
 
 ## 2. CS-E 30 — Assumptions (Varsayımlar)
@@ -131,6 +210,27 @@ zorunlu).
 
 **CS-E 20 ile bağlantı:** hava aracı kodu CS-E 20(b) altında belirtilir;
 varsayımlar CS-E 20(d) el kitaplarında taşınır.
+
+### AMC E 30 — kontrol listesi
+
+**Göster:** `AMC E 30` notu, ardından nota gömülü üç Tablo 1 sayfası.
+
+> AMC E 30 bir cümle ve bir tablodan oluşur. Varsayımlar normalde en az Tablo
+> 1'deki kalemleri kapsamalıdır [AMC E 30]. Her satır bir varsayımı, onu
+> gerektiren CS-E paragrafıyla eşleştirir. Böylece kurulumu yapan taraf her
+> varsayımı kaynağına kadar izleyebilir.
+>
+> Bizim için en önemli satırlar şunlardır [AMC E 30]:
+>
+> - Arayüzler: montaj esnekliği, duruşlar (attitudes) ve yükler dahil — CS-E 20.
+> - Engine Control System arayüz koşulları — CS-E 50.
+> - 30-Second ve 2-Minute OEI için kullanım kayıt sistemine getirilen koşullar —
+>   CS-E 60.
+>
+> Amendment 7, Oil system satırına bir kalem ekledi: motorun izin verilen azami
+> yağ tüketimi. Bu kalem, kurulumu yapan tarafın hava aracının yağ sistemi
+> kurallarını karşılamasını sağlar. Yeni bir iştir ve CS-E 570'e bağlanır
+> [AMC E 30].
 
 ---
 
@@ -175,6 +275,50 @@ varsayımlar CS-E 20(d) el kitaplarında taşınır.
 > Bir açıklama. "OEI override" bir rating değil, bir kontrol sistemi
 > özelliğidir. Burada değil, CS-E 50 altında değerlendirilir.
 
+### AMC E 40 — rating'lerin anlamı
+
+**Göster:** `AMC E 40` notu. Üç AMC paragrafını taşır: AMC E 40, AMC E 40(b)(3)
+ve AMC E 40(d).
+
+> Önce şu: bir rating yalnızca beyanla oluşmaz. CS-E 730 kalibrasyon testi ve
+> CS-E 740 dayanım testiyle ya da başka yollarla gerekçelendirilir [AMC E 40].
+
+**Aşağı kaydır:** AMC E 40(b)(3).
+
+> Bu kısım OEI rating'lerimizi açıklar.
+>
+> - 30-Second ve 2-Minute OEI iki ayrı rating'dir ve 2.5 dakikalık birleşik bir
+>   yapı oluşturur [AMC E 40(b)(3)(1)].
+> - 30-Second OEI, kritik karar noktasında bir motor arızası olursa kısa bir güç
+>   artışı sağlar. Rotorcraft kalkışı tamamlayıp tırmanır ya da kalkışı iptal
+>   eder. Güvenli bir iniş veya pas geçme (baulked landing) için de güç sağlar.
+>   Ardından 2-Minute OEI, güvenli irtifa ve hıza tırmanışı tamamlar
+>   [AMC E 40(b)(3)(2)].
+> - Rating'ler uçuş başına bir kullanım için tasarlanmıştır. Sertifikasyon
+>   şartnameleri yine de bir uçuşta üç kullanımlık en kötü durum üzerine
+>   kuruludur [AMC E 40(b)(3)(4)].
+> - Rating'ler, 2 saatlik ek dayanım testinde üçüncü 30-Second OEI uygulaması
+>   dahil gözlenen performans kaybını hesaba katmalıdır. Bu testte 30-Second OEI
+>   rating'indeki kayıp yüzde 10'u aşarsa, kaybın mekanizması
+>   değerlendirilmelidir [AMC E 40(b)(3)(6)].
+> - Rated 30-Minute Power, Maximum Continuous'tan kalkış rating'ine kadar
+>   (dahil) herhangi bir seviyede belirlenebilir. Her biri en fazla 30 dakikalık
+>   birden çok dönemde kullanılabilir [AMC E 40(b)(3)(7)].
+
+**Aşağı kaydır:** AMC E 40(d).
+
+> Son kısım, beyan edilecek işletme sınırlamalarını listeler. Kaynak türbin
+> motorları için yirmi bir kalem sayar; bunların on sekizi turboshaft için
+> geçerlidir [AMC E 40(d)(3)]. İkisi bizim için birincil önemdedir: otorotasyon
+> için güç türbini devri ve güç türbini torku [AMC E 40(d)(3)(n)],
+> [AMC E 40(d)(3)(o)].
+
+**Göster:** (a) kalemindeki `[VERIFY]`.
+
+> Kalem (a), "Contingency" rating adlarını kullanır. CS-E 40 bu adları
+> kullanmaz. OEI rating'lerimizle eşleştirme, TCDS'e girmeden önce Agency ile
+> teyit edilmelidir.
+
 ---
 
 ## 4. CS-E 25 — Instructions for Continued Airworthiness (Sürekli Uçuşa Elverişlilik Talimatları)
@@ -208,6 +352,42 @@ varsayımlar CS-E 20(d) el kitaplarında taşınır.
 > olduğunda yapılır [CS-E 25(c)]. Kalem (c)(13), güvenlik talimatları, tam
 > yetkili bir EECS'imiz olduğu için bizim için geçerlidir.
 
+### AMC E 25 — OEI bakım rejimi
+
+**Göster:** `AMC E 25` notu. Subpart A'nın en ağır AMC'sidir.
+
+> Bu AMC'nin büyük kısmı iki kısa OEI rating'imizle ilgilidir.
+>
+> - Uçuşa elverişlilik sınırlamaları bölümü, iki rating'den herhangi birinin her
+>   kullanımından sonra ve bir sonraki uçuştan önce yapılacak muayene ve bakım
+>   işlemlerini belirlemek zorundadır [AMC E 25(4)(a)]. Bu satır Required'dır,
+>   çünkü AMC'nin kendisi "must" kullanır.
+> - Yalnızca toplam kullanım süresi kaydediliyorsa, işlem toplam kayıtlı süreye
+>   dayanmalıdır. Uçuştaki uygulama sayısı önemli değildir [AMC E 25(4)(a)].
+> - Hiçbir bakım işlemi çıkmazsa asgari gereklilik, kaydedilen olay verisini
+>   yorumlamak ve bakım kaydına işlemektir [AMC E 25(4)(b)].
+> - Her iki OEI gücünün, revizyonlar arasındaki her an ulaşılabilir ve
+>   sürdürülebilir olduğuna dair kanıt sunmalıyız [AMC E 25(4)(c)(i)].
+
+**Göster:** hizmette değerlendirme programı, (4)(d).
+
+> Bu kabul edilmiş yönteme göre Agency, hizmette değerlendirme programını
+> **sertifikasyondan önce** onaylar [AMC E 25(4)(d)(i)]. Ertelenebilecek bir iş
+> değildir.
+>
+> Program, hizmetteki verileri 2 saatlik ek dayanım testiyle karşılaştırır.
+> Rating'leri hiç kullanmamış motorlar, testten önceki parametrelerle
+> karşılaştırılır. Rating'leri kullanmış motorlar ise testten sonraki
+> parametrelerle karşılaştırılır [AMC E 25(4)(d)(i)]. Program unsurlarından
+> biri, üç kez 30 saniyelik OEI rated power uygulayan bir testtir. Bu,
+> AMC E 40'taki üç kullanımlık en kötü durumla örtüşür [AMC E 25(4)(d)(ii)].
+>
+> İki küçük madde daha. Rated 30-Minute Power için toplam süre sınırı gibi
+> kullanım sınırları, sınıra ulaşıldığında ne yapılacağıyla birlikte ICA'da
+> belirtilmelidir [AMC E 25(5)]. Ayrıca Amendment 8, CS-E 930'daki başlangıç
+> bakım programı (initial maintenance programme) testini, bakım işlemlerini
+> belirleyen testlerin listesine ekledi [AMC E 25(1)].
+
 ---
 
 ## 5. CS-E 140 — Tests - Engine Configuration (Testler - Motor Konfigürasyonu)
@@ -240,11 +420,24 @@ varsayımlar CS-E 20(d) el kitaplarında taşınır.
 > performansı bunlara bağlıysa, testler bunları temsil etmelidir
 > [CS-E 140(e)].
 
+### AMC E 140 — kabul kriteri
+
+**Göster:** `AMC E 140` notu.
+
+> CS-E 140(d)(2), eşdeğer gücün şaft çıkışına eklenmesini ister. Bu eklemenin
+> neyi sağlaması gerektiğini söylemez. AMC E 140 bunu tek cümleyle söyler: güç
+> türbini rotor grubu, "at or above the same level as it would be if the power
+> turbine accessory drives were loaded" çalıştırılır [AMC E 140]. Yani aksesuar
+> tahrikleri yüklü olsaydı çalışacağı seviyede veya daha üstünde.
+>
+> Böylece yüksüz test, güç türbini için yüklü testten asla daha hafif olmaz.
+> Bizim için bu, CS-E 740(c)(3)(iii) testinde önemlidir.
+
 ---
 
 ## 6. Kapanış
 
-**Göster:** bu metnin başındaki diyagram veya bu beş notla filtrelenmiş
+**Göster:** bu metnin başındaki diyagramlar veya bu on notla filtrelenmiş
 Obsidian graph görünümü.
 
 > Özetle:
@@ -254,6 +447,11 @@ Obsidian graph görünümü.
 > - **CS-E 40** motorun ne sağladığını beyan eder.
 > - **CS-E 25** motoru hizmette uçuşa elverişli tutar.
 > - **CS-E 140** test için nasıl konfigüre edileceğini belirler.
+>
+> AMC notları da bunun nasıl yapılacağını gösterir. AMC E 20(f) güç teyidi
+> verisinin içeriğini belirler. AMC E 30 Tablo 1 kontrol listesini verir.
+> AMC E 40(b)(3) OEI rating'lerini açıklar. AMC E 25 bakım rejimini ve hizmette
+> değerlendirme programını kurar. AMC E 140 güç türbini için kriteri koyar.
 >
 > Hepsinden geçen ortak iplik: **OEI rating'lerimiz.** CS-E 40'ta 30-Second ve
 > 2-Minute OEI beyan etmek; CS-E 20'de güç teyidi verisi, CS-E 25'te bir uçuş
@@ -272,3 +470,7 @@ Obsidian graph görünümü.
 | CS-27 mi, CS-29 mu? | Açık madde. CS-E bunu çözmüyor. | `CS-E 30` |
 | CS-E 25'teki (c) kalemleri zorunlu mu? | Değerlendirmek zorunludur; dahil etmek "as appropriate" (uygun olduğunda). | `CS-E 25` |
 | "Required if claimed" ne demek? | Talep etmek isteğe bağlıdır; talep edildikten sonra kanıtlamak zorunludur. | `CLAUDE.md`, Obligation strength |
+| Bir AMC zorunlu mu? | Hayır. Kabul edilmiş bir yoldur; başka bir yol önerilip gerekçelendirilebilir. AMC'nin kendisinin "must" dediği bir satır, örneğin AMC E 25(4)(a), Required olarak okunur. | `CLAUDE.md`, Obligation strength |
+| Hizmette değerlendirme programı ne zaman hazır olmalı? | AMC E 25'e göre Agency programı sertifikasyondan önce onaylar. | `AMC E 25` |
+| CS-27 / CS-29 sorusu güç teyidi verisini neden değiştirmez? | İki kod da 45(f) maddesinde aynı kalkış öncesi güç kontrolünü ister. | `AMC E 20` |
+| 2 saatlik testte kayıp yüzde 10'u aşarsa ne olur? | Kaybın mekanizması değerlendirilmelidir; böylece 30-Second OEI gücü hizmette kullanılabilir kalır. | `AMC E 40` |
