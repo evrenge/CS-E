@@ -347,8 +347,8 @@ AMC E 40(b)(3) and AMC E 40(d).
 >
 > - The airworthiness limitations section must prescribe the post-flight
 >   inspections and maintenance actions after any use of either rating, before
->   the next flight [AMC E 25(4)(a)]. This row reads Required, because the AMC
->   itself uses "must".
+>   the next flight [AMC E 25(4)(a)]. This row reads Required, because the
+>   source says that section is "required to prescribe" them.
 > - Where only the accumulated usage time is recorded, the action should be
 >   based on the total recorded duration. The number of applications in the
 >   flight does not matter [AMC E 25(4)(a)].
@@ -457,7 +457,7 @@ filtered to these ten notes.
 | CS-27 or CS-29? | Open item. CS-E does not settle it. | `CS-E 30` |
 | Are the (c) items in CS-E 25 mandatory? | Considering them is required; inclusion is "as appropriate". | `CS-E 25` |
 | What does "Required if claimed" mean? | Optional to claim; mandatory to substantiate once claimed. | `CLAUDE.md`, Obligation strength |
-| Is an AMC mandatory? | No. It is one accepted way; another may be proposed and justified. A row where the AMC itself says "must", such as AMC E 25(4)(a), reads Required. | `CLAUDE.md`, Obligation strength |
+| Is an AMC mandatory? | No. It is one accepted way; another may be proposed and justified. A row whose wording is mandatory, such as AMC E 25(4)(a), still reads Required. | `CLAUDE.md`, Obligation strength |
 | When must the in-service evaluation programme be ready? | Under AMC E 25, the Agency approves it before certification. | `AMC E 25` |
 | Why does CS-27 or CS-29 not change the power assurance data? | Both codes ask for the same pre-take-off power check, at point 45(f). | `AMC E 20` |
 | What if deterioration exceeds 10 % in the 2-hour test? | Its mode should be evaluated, so that 30-Second OEI power stays available in service. | `AMC E 40` |

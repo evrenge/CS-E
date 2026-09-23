@@ -361,7 +361,7 @@ ve AMC E 40(d).
 > - Uçuşa elverişlilik sınırlamaları bölümü, iki rating'den herhangi birinin her
 >   kullanımından sonra ve bir sonraki uçuştan önce yapılacak muayene ve bakım
 >   işlemlerini belirlemek zorundadır [AMC E 25(4)(a)]. Bu satır Required'dır,
->   çünkü AMC'nin kendisi "must" kullanır.
+>   çünkü kaynak bu bölüm için "required to prescribe" ifadesini kullanır.
 > - Yalnızca toplam kullanım süresi kaydediliyorsa, işlem toplam kayıtlı süreye
 >   dayanmalıdır. Uçuştaki uygulama sayısı önemli değildir [AMC E 25(4)(a)].
 > - Hiçbir bakım işlemi çıkmazsa asgari gereklilik, kaydedilen olay verisini
@@ -470,7 +470,7 @@ Obsidian graph görünümü.
 | CS-27 mi, CS-29 mu? | Açık madde. CS-E bunu çözmüyor. | `CS-E 30` |
 | CS-E 25'teki (c) kalemleri zorunlu mu? | Değerlendirmek zorunludur; dahil etmek "as appropriate" (uygun olduğunda). | `CS-E 25` |
 | "Required if claimed" ne demek? | Talep etmek isteğe bağlıdır; talep edildikten sonra kanıtlamak zorunludur. | `CLAUDE.md`, Obligation strength |
-| Bir AMC zorunlu mu? | Hayır. Kabul edilmiş bir yoldur; başka bir yol önerilip gerekçelendirilebilir. AMC'nin kendisinin "must" dediği bir satır, örneğin AMC E 25(4)(a), Required olarak okunur. | `CLAUDE.md`, Obligation strength |
+| Bir AMC zorunlu mu? | Hayır. Kabul edilmiş bir yoldur; başka bir yol önerilip gerekçelendirilebilir. İfadesi bağlayıcı olan bir satır, örneğin AMC E 25(4)(a), yine Required olarak okunur. | `CLAUDE.md`, Obligation strength |
 | Hizmette değerlendirme programı ne zaman hazır olmalı? | AMC E 25'e göre Agency programı sertifikasyondan önce onaylar. | `AMC E 25` |
 | CS-27 / CS-29 sorusu güç teyidi verisini neden değiştirmez? | İki kod da 45(f) maddesinde aynı kalkış öncesi güç kontrolünü ister. | `AMC E 20` |
 | 2 saatlik testte kayıp yüzde 10'u aşarsa ne olur? | Kaybın mekanizması değerlendirilmelidir; böylece 30-Second OEI gücü hizmette kullanılabilir kalır. | `AMC E 40` |
