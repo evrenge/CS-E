@@ -233,10 +233,13 @@ These are **not** CS-E notes and the differences are deliberate:
 - `## References` labels its CS-E side `Bears on:` and links the CS-E notes that
   depend on it. On the other side of the edge, a CS-E note labels its external
   links `External:`, on a line of its own after `Related:`.
-- The line order is `Counterpart:`, `Bears on:`, `Accepted means:`, `Cites:`.
-  `Cites:` lists, as `[ext …]` citations, the other points of the same family
-  the note relies on and does not have a note of its own. They are citations,
-  not links, so they add no graph node.
+- The line order is `Counterpart:`, `Bears on:`, `Related:`, `Accepted means:`,
+  `Cites:`. `Related:` links the other notes in `vault/external/` this one
+  relies on — the sibling points of the same family, and the note whose
+  obligation this one feeds. `Cites:` lists, as `[ext …]` citations, the points
+  of the same family the note relies on and that do **not** have a note of
+  their own. They are citations, not links, so they add no graph node; a point
+  moves off `Cites:` and onto `Related:` the day it gets a note.
 
 Where a rotorcraft point exists in both codes, **write one note per code**, not a
 merged one. `CS 27.927` and `CS 29.927` share a structure and differ in
